@@ -1,0 +1,190 @@
+# remaquiller %[clVerbGroup|1]
+[-
+maquiller de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|remaquill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|remaquill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||remaquill%[m|é]|
+|ayant|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en remaquill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|remaquill%[m|e]|
+|tu|remaquill%[m|es]|
+|il|remaquill%[m|e]|
+|nous|remaquill%[m|ons]|
+|vous|remaquill%[m|ez]|
+|ils|remaquill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|remaquill%[m|é]|
+|tu|as |remaquill%[m|é]|
+|il|a|remaquill%[m|é]|
+|nous|avons|remaquill%[m|é]|
+|vous|avez|remaquill%[m|é]|
+|ils|ont|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|remaquill%[m|ais]|
+|tu|remaquill%[m|ais]|
+|il|remaquill%[m|ait]|
+|nous|remaquill%[m|ions]|
+|vous|remaquill%[m|iez]|
+|ils|remaquill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|remaquill%[m|é]|
+|tu|avais|remaquill%[m|é]|
+|il|avait|remaquill%[m|é]|
+|nous|avions|remaquill%[m|é]|
+|vous|aviez|remaquill%[m|é]|
+|ils|avaient|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|remaquill%[m|ai]|
+|tu|remaquill%[m|as]|
+|il|remaquill%[m|a]|
+|nous|remaquill%[m|âmes]|
+|vous|remaquill%[m|âtes]|
+|ils|remaquill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|remaquill%[m|é]|
+|tu|eus|remaquill%[m|é]|
+|il|eut|remaquill%[m|é]|
+|nous|e&ucirc;mes|remaquill%[m|é]|
+|vous|e&ucirc;tes|remaquill%[m|é]|
+|ils|eurent|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|remaquill%[m|erai]|
+|tu|remaquill%[m|eras]|
+|il|remaquill%[m|era]|
+|nous|remaquill%[m|erons]|
+|vous|remaquill%[m|erez]|
+|ils|remaquill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|remaquill%[m|é]|
+|tu|auras|remaquill%[m|é]|
+|il|aura|remaquill%[m|é]|
+|nous|aurons|remaquill%[m|é]|
+|vous|aurez|remaquill%[m|é]|
+|ils|auront|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|remaquill%[m|erais]|
+|tu|remaquill%[m|erais]|
+|il|remaquill%[m|erait]|
+|nous|remaquill%[m|erions]|
+|vous|remaquill%[m|eriez]|
+|ils|remaquill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|remaquill%[m|é]|
+|tu|aurais|remaquill%[m|é]|
+|il|aurait|remaquill%[m|é]|
+|nous|aurions|remaquill%[m|é]|
+|vous|auriez|remaquill%[m|é]|
+|ils|auraient|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|remaquill%[m|e]|
+|que|tu|remaquill%[m|es]|
+|qu'|il|remaquill%[m|e]|
+|que|nous|remaquill%[m|ions]|
+|que|vous|remaquill%[m|iez]|
+|qu'|ils|remaquill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|remaquill%[m|é]|
+|que|tu|aies|remaquill%[m|é]|
+|qu'|il|ait|remaquill%[m|é]|
+|que|nous|ayons|remaquill%[m|é]|
+|que|vous|ayez|remaquill%[m|é]|
+|qu'|ils|aient|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|remaquill%[m|asse]|
+|que|tu|remaquill%[m|asses]|
+|qu'|il|remaquill%[m|ât]|
+|que|nous|remaquill%[m|assions]|
+|que|vous|remaquill%[m|assiez]|
+|qu'|ils|remaquill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|remaquill%[m|é]|
+|que|tu|eusses|remaquill%[m|é]|
+|qu'|il|eût|remaquill%[m|é]|
+|que|nous|eussions|remaquill%[m|é]|
+|que|vous|eussiez|remaquill%[m|é]|
+|qu'|ils|eussent|remaquill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|remaquill%[m|e]|
+|remaquill%[m|ons]|
+|remaquill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|remaquill%[m|é]|
+|ayons|remaquill%[m|é]|
+|ayez|remaquill%[m|é]|
+|]
+

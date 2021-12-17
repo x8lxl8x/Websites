@@ -1,0 +1,190 @@
+# coupeller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coupell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coupell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coupell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coupell%[m|é]|
+|ayant|coupell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coupell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coupell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coupell%[m|e]|
+|tu|coupell%[m|es]|
+|il|coupell%[m|e]|
+|nous|coupell%[m|ons]|
+|vous|coupell%[m|ez]|
+|ils|coupell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coupell%[m|é]|
+|tu|as |coupell%[m|é]|
+|il|a|coupell%[m|é]|
+|nous|avons|coupell%[m|é]|
+|vous|avez|coupell%[m|é]|
+|ils|ont|coupell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coupell%[m|ais]|
+|tu|coupell%[m|ais]|
+|il|coupell%[m|ait]|
+|nous|coupell%[m|ions]|
+|vous|coupell%[m|iez]|
+|ils|coupell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coupell%[m|é]|
+|tu|avais|coupell%[m|é]|
+|il|avait|coupell%[m|é]|
+|nous|avions|coupell%[m|é]|
+|vous|aviez|coupell%[m|é]|
+|ils|avaient|coupell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coupell%[m|ai]|
+|tu|coupell%[m|as]|
+|il|coupell%[m|a]|
+|nous|coupell%[m|âmes]|
+|vous|coupell%[m|âtes]|
+|ils|coupell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coupell%[m|é]|
+|tu|eus|coupell%[m|é]|
+|il|eut|coupell%[m|é]|
+|nous|e&ucirc;mes|coupell%[m|é]|
+|vous|e&ucirc;tes|coupell%[m|é]|
+|ils|eurent|coupell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coupell%[m|erai]|
+|tu|coupell%[m|eras]|
+|il|coupell%[m|era]|
+|nous|coupell%[m|erons]|
+|vous|coupell%[m|erez]|
+|ils|coupell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coupell%[m|é]|
+|tu|auras|coupell%[m|é]|
+|il|aura|coupell%[m|é]|
+|nous|aurons|coupell%[m|é]|
+|vous|aurez|coupell%[m|é]|
+|ils|auront|coupell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coupell%[m|erais]|
+|tu|coupell%[m|erais]|
+|il|coupell%[m|erait]|
+|nous|coupell%[m|erions]|
+|vous|coupell%[m|eriez]|
+|ils|coupell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coupell%[m|é]|
+|tu|aurais|coupell%[m|é]|
+|il|aurait|coupell%[m|é]|
+|nous|aurions|coupell%[m|é]|
+|vous|auriez|coupell%[m|é]|
+|ils|auraient|coupell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coupell%[m|e]|
+|que|tu|coupell%[m|es]|
+|qu'|il|coupell%[m|e]|
+|que|nous|coupell%[m|ions]|
+|que|vous|coupell%[m|iez]|
+|qu'|ils|coupell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coupell%[m|é]|
+|que|tu|aies|coupell%[m|é]|
+|qu'|il|ait|coupell%[m|é]|
+|que|nous|ayons|coupell%[m|é]|
+|que|vous|ayez|coupell%[m|é]|
+|qu'|ils|aient|coupell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coupell%[m|asse]|
+|que|tu|coupell%[m|asses]|
+|qu'|il|coupell%[m|ât]|
+|que|nous|coupell%[m|assions]|
+|que|vous|coupell%[m|assiez]|
+|qu'|ils|coupell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coupell%[m|é]|
+|que|tu|eusses|coupell%[m|é]|
+|qu'|il|eût|coupell%[m|é]|
+|que|nous|eussions|coupell%[m|é]|
+|que|vous|eussiez|coupell%[m|é]|
+|qu'|ils|eussent|coupell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coupell%[m|e]|
+|coupell%[m|ons]|
+|coupell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coupell%[m|é]|
+|ayons|coupell%[m|é]|
+|ayez|coupell%[m|é]|
+|]
+

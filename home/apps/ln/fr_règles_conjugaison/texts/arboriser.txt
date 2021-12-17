@@ -1,0 +1,190 @@
+# arboriser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|arboris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|arboris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|arboris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||arboris%[m|é]|
+|ayant|arboris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en arboris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|arboris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|arboris%[m|e]|
+|tu|arboris%[m|es]|
+|il|arboris%[m|e]|
+|nous|arboris%[m|ons]|
+|vous|arboris%[m|ez]|
+|ils|arboris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|arboris%[m|é]|
+|tu|as |arboris%[m|é]|
+|il|a|arboris%[m|é]|
+|nous|avons|arboris%[m|é]|
+|vous|avez|arboris%[m|é]|
+|ils|ont|arboris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|arboris%[m|ais]|
+|tu|arboris%[m|ais]|
+|il|arboris%[m|ait]|
+|nous|arboris%[m|ions]|
+|vous|arboris%[m|iez]|
+|ils|arboris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|arboris%[m|é]|
+|tu|avais|arboris%[m|é]|
+|il|avait|arboris%[m|é]|
+|nous|avions|arboris%[m|é]|
+|vous|aviez|arboris%[m|é]|
+|ils|avaient|arboris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|arboris%[m|ai]|
+|tu|arboris%[m|as]|
+|il|arboris%[m|a]|
+|nous|arboris%[m|âmes]|
+|vous|arboris%[m|âtes]|
+|ils|arboris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|arboris%[m|é]|
+|tu|eus|arboris%[m|é]|
+|il|eut|arboris%[m|é]|
+|nous|e&ucirc;mes|arboris%[m|é]|
+|vous|e&ucirc;tes|arboris%[m|é]|
+|ils|eurent|arboris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|arboris%[m|erai]|
+|tu|arboris%[m|eras]|
+|il|arboris%[m|era]|
+|nous|arboris%[m|erons]|
+|vous|arboris%[m|erez]|
+|ils|arboris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|arboris%[m|é]|
+|tu|auras|arboris%[m|é]|
+|il|aura|arboris%[m|é]|
+|nous|aurons|arboris%[m|é]|
+|vous|aurez|arboris%[m|é]|
+|ils|auront|arboris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|arboris%[m|erais]|
+|tu|arboris%[m|erais]|
+|il|arboris%[m|erait]|
+|nous|arboris%[m|erions]|
+|vous|arboris%[m|eriez]|
+|ils|arboris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|arboris%[m|é]|
+|tu|aurais|arboris%[m|é]|
+|il|aurait|arboris%[m|é]|
+|nous|aurions|arboris%[m|é]|
+|vous|auriez|arboris%[m|é]|
+|ils|auraient|arboris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|arboris%[m|e]|
+|que|tu|arboris%[m|es]|
+|qu'|il|arboris%[m|e]|
+|que|nous|arboris%[m|ions]|
+|que|vous|arboris%[m|iez]|
+|qu'|ils|arboris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|arboris%[m|é]|
+|que|tu|aies|arboris%[m|é]|
+|qu'|il|ait|arboris%[m|é]|
+|que|nous|ayons|arboris%[m|é]|
+|que|vous|ayez|arboris%[m|é]|
+|qu'|ils|aient|arboris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|arboris%[m|asse]|
+|que|tu|arboris%[m|asses]|
+|qu'|il|arboris%[m|ât]|
+|que|nous|arboris%[m|assions]|
+|que|vous|arboris%[m|assiez]|
+|qu'|ils|arboris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|arboris%[m|é]|
+|que|tu|eusses|arboris%[m|é]|
+|qu'|il|eût|arboris%[m|é]|
+|que|nous|eussions|arboris%[m|é]|
+|que|vous|eussiez|arboris%[m|é]|
+|qu'|ils|eussent|arboris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arboris%[m|e]|
+|arboris%[m|ons]|
+|arboris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|arboris%[m|é]|
+|ayons|arboris%[m|é]|
+|ayez|arboris%[m|é]|
+|]
+

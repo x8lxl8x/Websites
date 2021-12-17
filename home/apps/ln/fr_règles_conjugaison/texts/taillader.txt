@@ -1,0 +1,190 @@
+# taillader %[clVerbGroup|1]
+[-
+couper, faire une taillade. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|taillad%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|taillad%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|taillad%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||taillad%[m|é]|
+|ayant|taillad%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en taillad%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|taillad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|taillad%[m|e]|
+|tu|taillad%[m|es]|
+|il|taillad%[m|e]|
+|nous|taillad%[m|ons]|
+|vous|taillad%[m|ez]|
+|ils|taillad%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|taillad%[m|é]|
+|tu|as |taillad%[m|é]|
+|il|a|taillad%[m|é]|
+|nous|avons|taillad%[m|é]|
+|vous|avez|taillad%[m|é]|
+|ils|ont|taillad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|taillad%[m|ais]|
+|tu|taillad%[m|ais]|
+|il|taillad%[m|ait]|
+|nous|taillad%[m|ions]|
+|vous|taillad%[m|iez]|
+|ils|taillad%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|taillad%[m|é]|
+|tu|avais|taillad%[m|é]|
+|il|avait|taillad%[m|é]|
+|nous|avions|taillad%[m|é]|
+|vous|aviez|taillad%[m|é]|
+|ils|avaient|taillad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|taillad%[m|ai]|
+|tu|taillad%[m|as]|
+|il|taillad%[m|a]|
+|nous|taillad%[m|âmes]|
+|vous|taillad%[m|âtes]|
+|ils|taillad%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|taillad%[m|é]|
+|tu|eus|taillad%[m|é]|
+|il|eut|taillad%[m|é]|
+|nous|e&ucirc;mes|taillad%[m|é]|
+|vous|e&ucirc;tes|taillad%[m|é]|
+|ils|eurent|taillad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|taillad%[m|erai]|
+|tu|taillad%[m|eras]|
+|il|taillad%[m|era]|
+|nous|taillad%[m|erons]|
+|vous|taillad%[m|erez]|
+|ils|taillad%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|taillad%[m|é]|
+|tu|auras|taillad%[m|é]|
+|il|aura|taillad%[m|é]|
+|nous|aurons|taillad%[m|é]|
+|vous|aurez|taillad%[m|é]|
+|ils|auront|taillad%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|taillad%[m|erais]|
+|tu|taillad%[m|erais]|
+|il|taillad%[m|erait]|
+|nous|taillad%[m|erions]|
+|vous|taillad%[m|eriez]|
+|ils|taillad%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|taillad%[m|é]|
+|tu|aurais|taillad%[m|é]|
+|il|aurait|taillad%[m|é]|
+|nous|aurions|taillad%[m|é]|
+|vous|auriez|taillad%[m|é]|
+|ils|auraient|taillad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|taillad%[m|e]|
+|que|tu|taillad%[m|es]|
+|qu'|il|taillad%[m|e]|
+|que|nous|taillad%[m|ions]|
+|que|vous|taillad%[m|iez]|
+|qu'|ils|taillad%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|taillad%[m|é]|
+|que|tu|aies|taillad%[m|é]|
+|qu'|il|ait|taillad%[m|é]|
+|que|nous|ayons|taillad%[m|é]|
+|que|vous|ayez|taillad%[m|é]|
+|qu'|ils|aient|taillad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|taillad%[m|asse]|
+|que|tu|taillad%[m|asses]|
+|qu'|il|taillad%[m|ât]|
+|que|nous|taillad%[m|assions]|
+|que|vous|taillad%[m|assiez]|
+|qu'|ils|taillad%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|taillad%[m|é]|
+|que|tu|eusses|taillad%[m|é]|
+|qu'|il|eût|taillad%[m|é]|
+|que|nous|eussions|taillad%[m|é]|
+|que|vous|eussiez|taillad%[m|é]|
+|qu'|ils|eussent|taillad%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|taillad%[m|e]|
+|taillad%[m|ons]|
+|taillad%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|taillad%[m|é]|
+|ayons|taillad%[m|é]|
+|ayez|taillad%[m|é]|
+|]
+

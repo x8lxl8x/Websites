@@ -1,0 +1,190 @@
+# se doubler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se doubl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|doubl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se doubl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|doubl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se doubl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|doubl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|doubl%[m|e]|
+|tu|te|doubl%[m|es]|
+|il|se|doubl%[m|e]|
+|nous|nous|doubl%[m|ons]|
+|vous|vous|doubl%[m|ez]|
+|ils|se|doubl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|doubl%[m|é]|
+|tu|t'|es|doubl%[m|é]|
+|il|s'|est|doubl%[m|é]|
+|nous|nous|sommes|doubl%[m|és]|
+|vous|vous|êtes|doubl%[m|és]|
+|ils|se|sont|doubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|doubl%[m|ais]|
+|tu|te|doubl%[m|ais]|
+|il|se|doubl%[m|ait]|
+|nous|nous|doubl%[m|ions]|
+|vous|vous|doubl%[m|iez]|
+|ils|se|doubl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|doubl%[m|é]|
+|tu|t'|étais|doubl%[m|é]|
+|il|s'|était|doubl%[m|é]|
+|nous|nous|étions|doubl%[m|és]|
+|vous|vous|étiez|doubl%[m|és]|
+|ils|s'|étaient|doubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|doubl%[m|ai]|
+|tu|te|doubl%[m|as]|
+|il|se|doubl%[m|a]|
+|nous|nous|doubl%[m|âmes]|
+|vous|vous|doubl%[m|âtes]|
+|ils|se|doubl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|doubl%[m|é]|
+|tu|te|fus|doubl%[m|é]|
+|il|se|fut|doubl%[m|é]|
+|nous|nous|fûmes|doubl%[m|és]|
+|vous|vous|fûtes|doubl%[m|és]|
+|ils|se|furent|doubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|doubl%[m|erai]|
+|tu|te|doubl%[m|eras]|
+|il|se|doubl%[m|era]|
+|nous|nous|doubl%[m|erons]|
+|vous|vous|doubl%[m|erez]|
+|ils|se|doubl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|doubl%[m|é]|
+|tu|te|seras|doubl%[m|é]|
+|il|se|sera|doubl%[m|é]|
+|nous|nous|serons|doubl%[m|és]|
+|vous|vous|serez|doubl%[m|és]|
+|ils|se|seront|doubl%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|doubl%[m|erais]|
+|tu|te|doubl%[m|erais]|
+|il|se|doubl%[m|erait]|
+|nous|nous|doubl%[m|erions]|
+|vous|vous|doubl%[m|eriez]|
+|ils|se|doubl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|doubl%[m|é]|
+|tu|te|serais|doubl%[m|é]|
+|il|se|serait|doubl%[m|é]|
+|nous|nous|serions|doubl%[m|és]|
+|vous|vous|seriez|doubl%[m|és]|
+|ils|se|seraient|doubl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|doubl%[m|e]|
+|que|tu|te|doubl%[m|es]|
+|qu'|il|se|doubl%[m|e]|
+|que|nous|nous|doubl%[m|ions]|
+|que|vous|vous|doubl%[m|iez]|
+|qu'|ils|se|doubl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|doubl%[m|é]|
+|que|tu|te|sois|doubl%[m|é]|
+|qu'|il|se|soit|doubl%[m|é]|
+|que|nous|nous|soyons|doubl%[m|és]|
+|que|vous|vous|soyez|doubl%[m|és]|
+|qu'|ils|se|soient|doubl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|doubl%[m|asse]|
+|que|tu|te|doubl%[m|asses]|
+|qu'|il|se|doubl%[m|ât]|
+|que|nous|nous|doubl%[m|assions]|
+|que|vous|vous|doubl%[m|assiez]|
+|qu'|ils|se|doubl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|doubl%[m|é]|
+|que|tu|te|fusses|doubl%[m|é]|
+|qu'|il|se|fût|doubl%[m|é]|
+|que|nous|nous|fussions|doubl%[m|és]|
+|que|vous|vous|fussiez|doubl%[m|és]|
+|qu'|ils|se|fussent|doubl%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|doubl%[m|e]-toi|
+|doubl%[m|ons]-nous|
+|doubl%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

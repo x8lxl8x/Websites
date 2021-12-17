@@ -1,0 +1,190 @@
+# pulser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|puls%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|puls%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|puls%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||puls%[m|é]|
+|ayant|puls%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en puls%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|puls%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|puls%[m|e]|
+|tu|puls%[m|es]|
+|il|puls%[m|e]|
+|nous|puls%[m|ons]|
+|vous|puls%[m|ez]|
+|ils|puls%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|puls%[m|é]|
+|tu|as |puls%[m|é]|
+|il|a|puls%[m|é]|
+|nous|avons|puls%[m|é]|
+|vous|avez|puls%[m|é]|
+|ils|ont|puls%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|puls%[m|ais]|
+|tu|puls%[m|ais]|
+|il|puls%[m|ait]|
+|nous|puls%[m|ions]|
+|vous|puls%[m|iez]|
+|ils|puls%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|puls%[m|é]|
+|tu|avais|puls%[m|é]|
+|il|avait|puls%[m|é]|
+|nous|avions|puls%[m|é]|
+|vous|aviez|puls%[m|é]|
+|ils|avaient|puls%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|puls%[m|ai]|
+|tu|puls%[m|as]|
+|il|puls%[m|a]|
+|nous|puls%[m|âmes]|
+|vous|puls%[m|âtes]|
+|ils|puls%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|puls%[m|é]|
+|tu|eus|puls%[m|é]|
+|il|eut|puls%[m|é]|
+|nous|e&ucirc;mes|puls%[m|é]|
+|vous|e&ucirc;tes|puls%[m|é]|
+|ils|eurent|puls%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|puls%[m|erai]|
+|tu|puls%[m|eras]|
+|il|puls%[m|era]|
+|nous|puls%[m|erons]|
+|vous|puls%[m|erez]|
+|ils|puls%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|puls%[m|é]|
+|tu|auras|puls%[m|é]|
+|il|aura|puls%[m|é]|
+|nous|aurons|puls%[m|é]|
+|vous|aurez|puls%[m|é]|
+|ils|auront|puls%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|puls%[m|erais]|
+|tu|puls%[m|erais]|
+|il|puls%[m|erait]|
+|nous|puls%[m|erions]|
+|vous|puls%[m|eriez]|
+|ils|puls%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|puls%[m|é]|
+|tu|aurais|puls%[m|é]|
+|il|aurait|puls%[m|é]|
+|nous|aurions|puls%[m|é]|
+|vous|auriez|puls%[m|é]|
+|ils|auraient|puls%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|puls%[m|e]|
+|que|tu|puls%[m|es]|
+|qu'|il|puls%[m|e]|
+|que|nous|puls%[m|ions]|
+|que|vous|puls%[m|iez]|
+|qu'|ils|puls%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|puls%[m|é]|
+|que|tu|aies|puls%[m|é]|
+|qu'|il|ait|puls%[m|é]|
+|que|nous|ayons|puls%[m|é]|
+|que|vous|ayez|puls%[m|é]|
+|qu'|ils|aient|puls%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|puls%[m|asse]|
+|que|tu|puls%[m|asses]|
+|qu'|il|puls%[m|ât]|
+|que|nous|puls%[m|assions]|
+|que|vous|puls%[m|assiez]|
+|qu'|ils|puls%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|puls%[m|é]|
+|que|tu|eusses|puls%[m|é]|
+|qu'|il|eût|puls%[m|é]|
+|que|nous|eussions|puls%[m|é]|
+|que|vous|eussiez|puls%[m|é]|
+|qu'|ils|eussent|puls%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|puls%[m|e]|
+|puls%[m|ons]|
+|puls%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|puls%[m|é]|
+|ayons|puls%[m|é]|
+|ayez|puls%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# toiler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|toil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|toil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|toil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||toil%[m|é]|
+|ayant|toil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en toil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|toil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|toil%[m|e]|
+|tu|toil%[m|es]|
+|il|toil%[m|e]|
+|nous|toil%[m|ons]|
+|vous|toil%[m|ez]|
+|ils|toil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|toil%[m|é]|
+|tu|as |toil%[m|é]|
+|il|a|toil%[m|é]|
+|nous|avons|toil%[m|é]|
+|vous|avez|toil%[m|é]|
+|ils|ont|toil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|toil%[m|ais]|
+|tu|toil%[m|ais]|
+|il|toil%[m|ait]|
+|nous|toil%[m|ions]|
+|vous|toil%[m|iez]|
+|ils|toil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|toil%[m|é]|
+|tu|avais|toil%[m|é]|
+|il|avait|toil%[m|é]|
+|nous|avions|toil%[m|é]|
+|vous|aviez|toil%[m|é]|
+|ils|avaient|toil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|toil%[m|ai]|
+|tu|toil%[m|as]|
+|il|toil%[m|a]|
+|nous|toil%[m|âmes]|
+|vous|toil%[m|âtes]|
+|ils|toil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|toil%[m|é]|
+|tu|eus|toil%[m|é]|
+|il|eut|toil%[m|é]|
+|nous|e&ucirc;mes|toil%[m|é]|
+|vous|e&ucirc;tes|toil%[m|é]|
+|ils|eurent|toil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|toil%[m|erai]|
+|tu|toil%[m|eras]|
+|il|toil%[m|era]|
+|nous|toil%[m|erons]|
+|vous|toil%[m|erez]|
+|ils|toil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|toil%[m|é]|
+|tu|auras|toil%[m|é]|
+|il|aura|toil%[m|é]|
+|nous|aurons|toil%[m|é]|
+|vous|aurez|toil%[m|é]|
+|ils|auront|toil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|toil%[m|erais]|
+|tu|toil%[m|erais]|
+|il|toil%[m|erait]|
+|nous|toil%[m|erions]|
+|vous|toil%[m|eriez]|
+|ils|toil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|toil%[m|é]|
+|tu|aurais|toil%[m|é]|
+|il|aurait|toil%[m|é]|
+|nous|aurions|toil%[m|é]|
+|vous|auriez|toil%[m|é]|
+|ils|auraient|toil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|toil%[m|e]|
+|que|tu|toil%[m|es]|
+|qu'|il|toil%[m|e]|
+|que|nous|toil%[m|ions]|
+|que|vous|toil%[m|iez]|
+|qu'|ils|toil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|toil%[m|é]|
+|que|tu|aies|toil%[m|é]|
+|qu'|il|ait|toil%[m|é]|
+|que|nous|ayons|toil%[m|é]|
+|que|vous|ayez|toil%[m|é]|
+|qu'|ils|aient|toil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|toil%[m|asse]|
+|que|tu|toil%[m|asses]|
+|qu'|il|toil%[m|ât]|
+|que|nous|toil%[m|assions]|
+|que|vous|toil%[m|assiez]|
+|qu'|ils|toil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|toil%[m|é]|
+|que|tu|eusses|toil%[m|é]|
+|qu'|il|eût|toil%[m|é]|
+|que|nous|eussions|toil%[m|é]|
+|que|vous|eussiez|toil%[m|é]|
+|qu'|ils|eussent|toil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|toil%[m|e]|
+|toil%[m|ons]|
+|toil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|toil%[m|é]|
+|ayons|toil%[m|é]|
+|ayez|toil%[m|é]|
+|]
+

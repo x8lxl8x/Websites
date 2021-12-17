@@ -1,0 +1,190 @@
+# discounter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|discount%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|discount%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|discount%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||discount%[m|é]|
+|ayant|discount%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en discount%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|discount%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|discount%[m|e]|
+|tu|discount%[m|es]|
+|il|discount%[m|e]|
+|nous|discount%[m|ons]|
+|vous|discount%[m|ez]|
+|ils|discount%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|discount%[m|é]|
+|tu|as |discount%[m|é]|
+|il|a|discount%[m|é]|
+|nous|avons|discount%[m|é]|
+|vous|avez|discount%[m|é]|
+|ils|ont|discount%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|discount%[m|ais]|
+|tu|discount%[m|ais]|
+|il|discount%[m|ait]|
+|nous|discount%[m|ions]|
+|vous|discount%[m|iez]|
+|ils|discount%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|discount%[m|é]|
+|tu|avais|discount%[m|é]|
+|il|avait|discount%[m|é]|
+|nous|avions|discount%[m|é]|
+|vous|aviez|discount%[m|é]|
+|ils|avaient|discount%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|discount%[m|ai]|
+|tu|discount%[m|as]|
+|il|discount%[m|a]|
+|nous|discount%[m|âmes]|
+|vous|discount%[m|âtes]|
+|ils|discount%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|discount%[m|é]|
+|tu|eus|discount%[m|é]|
+|il|eut|discount%[m|é]|
+|nous|e&ucirc;mes|discount%[m|é]|
+|vous|e&ucirc;tes|discount%[m|é]|
+|ils|eurent|discount%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|discount%[m|erai]|
+|tu|discount%[m|eras]|
+|il|discount%[m|era]|
+|nous|discount%[m|erons]|
+|vous|discount%[m|erez]|
+|ils|discount%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|discount%[m|é]|
+|tu|auras|discount%[m|é]|
+|il|aura|discount%[m|é]|
+|nous|aurons|discount%[m|é]|
+|vous|aurez|discount%[m|é]|
+|ils|auront|discount%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|discount%[m|erais]|
+|tu|discount%[m|erais]|
+|il|discount%[m|erait]|
+|nous|discount%[m|erions]|
+|vous|discount%[m|eriez]|
+|ils|discount%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|discount%[m|é]|
+|tu|aurais|discount%[m|é]|
+|il|aurait|discount%[m|é]|
+|nous|aurions|discount%[m|é]|
+|vous|auriez|discount%[m|é]|
+|ils|auraient|discount%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|discount%[m|e]|
+|que|tu|discount%[m|es]|
+|qu'|il|discount%[m|e]|
+|que|nous|discount%[m|ions]|
+|que|vous|discount%[m|iez]|
+|qu'|ils|discount%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|discount%[m|é]|
+|que|tu|aies|discount%[m|é]|
+|qu'|il|ait|discount%[m|é]|
+|que|nous|ayons|discount%[m|é]|
+|que|vous|ayez|discount%[m|é]|
+|qu'|ils|aient|discount%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|discount%[m|asse]|
+|que|tu|discount%[m|asses]|
+|qu'|il|discount%[m|ât]|
+|que|nous|discount%[m|assions]|
+|que|vous|discount%[m|assiez]|
+|qu'|ils|discount%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|discount%[m|é]|
+|que|tu|eusses|discount%[m|é]|
+|qu'|il|eût|discount%[m|é]|
+|que|nous|eussions|discount%[m|é]|
+|que|vous|eussiez|discount%[m|é]|
+|qu'|ils|eussent|discount%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|discount%[m|e]|
+|discount%[m|ons]|
+|discount%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|discount%[m|é]|
+|ayons|discount%[m|é]|
+|ayez|discount%[m|é]|
+|]
+

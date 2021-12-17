@@ -1,0 +1,191 @@
+# s'alarmer %[clVerbGroup|1]
+[-
+causer une grande inquiétude, de la frayeur. 
+s'inquiéter très fortement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'alarm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|alarm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'alarm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|alarm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'alarm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|alarm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|alarm%[m|e]|
+|tu|t'|alarm%[m|es]|
+|il|s'|alarm%[m|e]|
+|nous|nous|alarm%[m|ons]|
+|vous|vous|alarm%[m|ez]|
+|ils|s'|alarm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|alarm%[m|é]|
+|tu|t'|es|alarm%[m|é]|
+|il|s'|est|alarm%[m|é]|
+|nous|nous|sommes|alarm%[m|és]|
+|vous|vous|êtes|alarm%[m|és]|
+|ils|se|sont|alarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|alarm%[m|ais]|
+|tu|t'|alarm%[m|ais]|
+|il|s'|alarm%[m|ait]|
+|nous|nous|alarm%[m|ions]|
+|vous|vous|alarm%[m|iez]|
+|ils|s'|alarm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|alarm%[m|é]|
+|tu|t'|étais|alarm%[m|é]|
+|il|s'|était|alarm%[m|é]|
+|nous|nous|étions|alarm%[m|és]|
+|vous|vous|étiez|alarm%[m|és]|
+|ils|s'|étaient|alarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|alarm%[m|ai]|
+|tu|t'|alarm%[m|as]|
+|il|s'|alarm%[m|a]|
+|nous|nous|alarm%[m|âmes]|
+|vous|vous|alarm%[m|âtes]|
+|ils|s'|alarm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|alarm%[m|é]|
+|tu|te|fus|alarm%[m|é]|
+|il|se|fut|alarm%[m|é]|
+|nous|nous|fûmes|alarm%[m|és]|
+|vous|vous|fûtes|alarm%[m|és]|
+|ils|se|furent|alarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|alarm%[m|erai]|
+|tu|t'|alarm%[m|eras]|
+|il|s'|alarm%[m|era]|
+|nous|nous|alarm%[m|erons]|
+|vous|vous|alarm%[m|erez]|
+|ils|s'|alarm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|alarm%[m|é]|
+|tu|te|seras|alarm%[m|é]|
+|il|se|sera|alarm%[m|é]|
+|nous|nous|serons|alarm%[m|és]|
+|vous|vous|serez|alarm%[m|és]|
+|ils|se|seront|alarm%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|alarm%[m|erais]|
+|tu|t'|alarm%[m|erais]|
+|il|s'|alarm%[m|erait]|
+|nous|nous|alarm%[m|erions]|
+|vous|vous|alarm%[m|eriez]|
+|ils|s'|alarm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|alarm%[m|é]|
+|tu|te|serais|alarm%[m|é]|
+|il|se|serait|alarm%[m|é]|
+|nous|nous|serions|alarm%[m|és]|
+|vous|vous|seriez|alarm%[m|és]|
+|ils|se|seraient|alarm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|alarm%[m|e]|
+|que|tu|t'|alarm%[m|es]|
+|qu'|il|s'|alarm%[m|e]|
+|que|nous|nous|alarm%[m|ions]|
+|que|vous|vous|alarm%[m|iez]|
+|qu'|ils|s'|alarm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|alarm%[m|é]|
+|que|tu|te|sois|alarm%[m|é]|
+|qu'|il|se|soit|alarm%[m|é]|
+|que|nous|nous|soyons|alarm%[m|és]|
+|que|vous|vous|soyez|alarm%[m|és]|
+|qu'|ils|se|soient|alarm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|alarm%[m|asse]|
+|que|tu|t'|alarm%[m|asses]|
+|qu'|il|s'|alarm%[m|ât]|
+|que|nous|nous|alarm%[m|assions]|
+|que|vous|vous|alarm%[m|assiez]|
+|qu'|ils|s'|alarm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|alarm%[m|é]|
+|que|tu|te|fusses|alarm%[m|é]|
+|qu'|il|se|fût|alarm%[m|é]|
+|que|nous|nous|fussions|alarm%[m|és]|
+|que|vous|vous|fussiez|alarm%[m|és]|
+|qu'|ils|se|fussent|alarm%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|alarm%[m|e]-toi|
+|alarm%[m|ons]-nous|
+|alarm%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

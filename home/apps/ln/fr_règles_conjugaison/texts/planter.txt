@@ -1,0 +1,193 @@
+# planter %[clVerbGroup|1]
+[-
+mettre un plant en terre afin qu'il se développe. 
+enfoncer dans quelque chose. Planter des clous. 
+dresser, placer debout et droit. Planter un drapeau. 
+garnir un lieu de végétaux qu'on plante par espèces. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|plant%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|plant%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|plant%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||plant%[m|é]|
+|ayant|plant%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en plant%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|plant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|plant%[m|e]|
+|tu|plant%[m|es]|
+|il|plant%[m|e]|
+|nous|plant%[m|ons]|
+|vous|plant%[m|ez]|
+|ils|plant%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|plant%[m|é]|
+|tu|as |plant%[m|é]|
+|il|a|plant%[m|é]|
+|nous|avons|plant%[m|é]|
+|vous|avez|plant%[m|é]|
+|ils|ont|plant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|plant%[m|ais]|
+|tu|plant%[m|ais]|
+|il|plant%[m|ait]|
+|nous|plant%[m|ions]|
+|vous|plant%[m|iez]|
+|ils|plant%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|plant%[m|é]|
+|tu|avais|plant%[m|é]|
+|il|avait|plant%[m|é]|
+|nous|avions|plant%[m|é]|
+|vous|aviez|plant%[m|é]|
+|ils|avaient|plant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|plant%[m|ai]|
+|tu|plant%[m|as]|
+|il|plant%[m|a]|
+|nous|plant%[m|âmes]|
+|vous|plant%[m|âtes]|
+|ils|plant%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|plant%[m|é]|
+|tu|eus|plant%[m|é]|
+|il|eut|plant%[m|é]|
+|nous|e&ucirc;mes|plant%[m|é]|
+|vous|e&ucirc;tes|plant%[m|é]|
+|ils|eurent|plant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|plant%[m|erai]|
+|tu|plant%[m|eras]|
+|il|plant%[m|era]|
+|nous|plant%[m|erons]|
+|vous|plant%[m|erez]|
+|ils|plant%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|plant%[m|é]|
+|tu|auras|plant%[m|é]|
+|il|aura|plant%[m|é]|
+|nous|aurons|plant%[m|é]|
+|vous|aurez|plant%[m|é]|
+|ils|auront|plant%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|plant%[m|erais]|
+|tu|plant%[m|erais]|
+|il|plant%[m|erait]|
+|nous|plant%[m|erions]|
+|vous|plant%[m|eriez]|
+|ils|plant%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|plant%[m|é]|
+|tu|aurais|plant%[m|é]|
+|il|aurait|plant%[m|é]|
+|nous|aurions|plant%[m|é]|
+|vous|auriez|plant%[m|é]|
+|ils|auraient|plant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|plant%[m|e]|
+|que|tu|plant%[m|es]|
+|qu'|il|plant%[m|e]|
+|que|nous|plant%[m|ions]|
+|que|vous|plant%[m|iez]|
+|qu'|ils|plant%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|plant%[m|é]|
+|que|tu|aies|plant%[m|é]|
+|qu'|il|ait|plant%[m|é]|
+|que|nous|ayons|plant%[m|é]|
+|que|vous|ayez|plant%[m|é]|
+|qu'|ils|aient|plant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|plant%[m|asse]|
+|que|tu|plant%[m|asses]|
+|qu'|il|plant%[m|ât]|
+|que|nous|plant%[m|assions]|
+|que|vous|plant%[m|assiez]|
+|qu'|ils|plant%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|plant%[m|é]|
+|que|tu|eusses|plant%[m|é]|
+|qu'|il|eût|plant%[m|é]|
+|que|nous|eussions|plant%[m|é]|
+|que|vous|eussiez|plant%[m|é]|
+|qu'|ils|eussent|plant%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|plant%[m|e]|
+|plant%[m|ons]|
+|plant%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|plant%[m|é]|
+|ayons|plant%[m|é]|
+|ayez|plant%[m|é]|
+|]
+

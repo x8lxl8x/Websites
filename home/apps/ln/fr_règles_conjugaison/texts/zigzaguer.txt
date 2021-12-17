@@ -1,0 +1,190 @@
+# zigzaguer %[clVerbGroup|1]
+[-
+se déplacer en faisant des zigzags. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|zigzagu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|zigzagu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||zigzagu%[m|é]|
+|ayant|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en zigzagu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|zigzagu%[m|e]|
+|tu|zigzagu%[m|es]|
+|il|zigzagu%[m|e]|
+|nous|zigzagu%[m|ons]|
+|vous|zigzagu%[m|ez]|
+|ils|zigzagu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|zigzagu%[m|é]|
+|tu|as |zigzagu%[m|é]|
+|il|a|zigzagu%[m|é]|
+|nous|avons|zigzagu%[m|é]|
+|vous|avez|zigzagu%[m|é]|
+|ils|ont|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|zigzagu%[m|ais]|
+|tu|zigzagu%[m|ais]|
+|il|zigzagu%[m|ait]|
+|nous|zigzagu%[m|ions]|
+|vous|zigzagu%[m|iez]|
+|ils|zigzagu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|zigzagu%[m|é]|
+|tu|avais|zigzagu%[m|é]|
+|il|avait|zigzagu%[m|é]|
+|nous|avions|zigzagu%[m|é]|
+|vous|aviez|zigzagu%[m|é]|
+|ils|avaient|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|zigzagu%[m|ai]|
+|tu|zigzagu%[m|as]|
+|il|zigzagu%[m|a]|
+|nous|zigzagu%[m|âmes]|
+|vous|zigzagu%[m|âtes]|
+|ils|zigzagu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|zigzagu%[m|é]|
+|tu|eus|zigzagu%[m|é]|
+|il|eut|zigzagu%[m|é]|
+|nous|e&ucirc;mes|zigzagu%[m|é]|
+|vous|e&ucirc;tes|zigzagu%[m|é]|
+|ils|eurent|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|zigzagu%[m|erai]|
+|tu|zigzagu%[m|eras]|
+|il|zigzagu%[m|era]|
+|nous|zigzagu%[m|erons]|
+|vous|zigzagu%[m|erez]|
+|ils|zigzagu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|zigzagu%[m|é]|
+|tu|auras|zigzagu%[m|é]|
+|il|aura|zigzagu%[m|é]|
+|nous|aurons|zigzagu%[m|é]|
+|vous|aurez|zigzagu%[m|é]|
+|ils|auront|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|zigzagu%[m|erais]|
+|tu|zigzagu%[m|erais]|
+|il|zigzagu%[m|erait]|
+|nous|zigzagu%[m|erions]|
+|vous|zigzagu%[m|eriez]|
+|ils|zigzagu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|zigzagu%[m|é]|
+|tu|aurais|zigzagu%[m|é]|
+|il|aurait|zigzagu%[m|é]|
+|nous|aurions|zigzagu%[m|é]|
+|vous|auriez|zigzagu%[m|é]|
+|ils|auraient|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|zigzagu%[m|e]|
+|que|tu|zigzagu%[m|es]|
+|qu'|il|zigzagu%[m|e]|
+|que|nous|zigzagu%[m|ions]|
+|que|vous|zigzagu%[m|iez]|
+|qu'|ils|zigzagu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|zigzagu%[m|é]|
+|que|tu|aies|zigzagu%[m|é]|
+|qu'|il|ait|zigzagu%[m|é]|
+|que|nous|ayons|zigzagu%[m|é]|
+|que|vous|ayez|zigzagu%[m|é]|
+|qu'|ils|aient|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|zigzagu%[m|asse]|
+|que|tu|zigzagu%[m|asses]|
+|qu'|il|zigzagu%[m|ât]|
+|que|nous|zigzagu%[m|assions]|
+|que|vous|zigzagu%[m|assiez]|
+|qu'|ils|zigzagu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|zigzagu%[m|é]|
+|que|tu|eusses|zigzagu%[m|é]|
+|qu'|il|eût|zigzagu%[m|é]|
+|que|nous|eussions|zigzagu%[m|é]|
+|que|vous|eussiez|zigzagu%[m|é]|
+|qu'|ils|eussent|zigzagu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|zigzagu%[m|e]|
+|zigzagu%[m|ons]|
+|zigzagu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|zigzagu%[m|é]|
+|ayons|zigzagu%[m|é]|
+|ayez|zigzagu%[m|é]|
+|]
+

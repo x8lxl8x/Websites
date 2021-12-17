@@ -1,0 +1,190 @@
+# seller %[clVerbGroup|1]
+[-
+mettre une selle (sur un cheval) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sell%[m|é]|
+|ayant|sell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sell%[m|e]|
+|tu|sell%[m|es]|
+|il|sell%[m|e]|
+|nous|sell%[m|ons]|
+|vous|sell%[m|ez]|
+|ils|sell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sell%[m|é]|
+|tu|as |sell%[m|é]|
+|il|a|sell%[m|é]|
+|nous|avons|sell%[m|é]|
+|vous|avez|sell%[m|é]|
+|ils|ont|sell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sell%[m|ais]|
+|tu|sell%[m|ais]|
+|il|sell%[m|ait]|
+|nous|sell%[m|ions]|
+|vous|sell%[m|iez]|
+|ils|sell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sell%[m|é]|
+|tu|avais|sell%[m|é]|
+|il|avait|sell%[m|é]|
+|nous|avions|sell%[m|é]|
+|vous|aviez|sell%[m|é]|
+|ils|avaient|sell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sell%[m|ai]|
+|tu|sell%[m|as]|
+|il|sell%[m|a]|
+|nous|sell%[m|âmes]|
+|vous|sell%[m|âtes]|
+|ils|sell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sell%[m|é]|
+|tu|eus|sell%[m|é]|
+|il|eut|sell%[m|é]|
+|nous|e&ucirc;mes|sell%[m|é]|
+|vous|e&ucirc;tes|sell%[m|é]|
+|ils|eurent|sell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sell%[m|erai]|
+|tu|sell%[m|eras]|
+|il|sell%[m|era]|
+|nous|sell%[m|erons]|
+|vous|sell%[m|erez]|
+|ils|sell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sell%[m|é]|
+|tu|auras|sell%[m|é]|
+|il|aura|sell%[m|é]|
+|nous|aurons|sell%[m|é]|
+|vous|aurez|sell%[m|é]|
+|ils|auront|sell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sell%[m|erais]|
+|tu|sell%[m|erais]|
+|il|sell%[m|erait]|
+|nous|sell%[m|erions]|
+|vous|sell%[m|eriez]|
+|ils|sell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sell%[m|é]|
+|tu|aurais|sell%[m|é]|
+|il|aurait|sell%[m|é]|
+|nous|aurions|sell%[m|é]|
+|vous|auriez|sell%[m|é]|
+|ils|auraient|sell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sell%[m|e]|
+|que|tu|sell%[m|es]|
+|qu'|il|sell%[m|e]|
+|que|nous|sell%[m|ions]|
+|que|vous|sell%[m|iez]|
+|qu'|ils|sell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sell%[m|é]|
+|que|tu|aies|sell%[m|é]|
+|qu'|il|ait|sell%[m|é]|
+|que|nous|ayons|sell%[m|é]|
+|que|vous|ayez|sell%[m|é]|
+|qu'|ils|aient|sell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sell%[m|asse]|
+|que|tu|sell%[m|asses]|
+|qu'|il|sell%[m|ât]|
+|que|nous|sell%[m|assions]|
+|que|vous|sell%[m|assiez]|
+|qu'|ils|sell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sell%[m|é]|
+|que|tu|eusses|sell%[m|é]|
+|qu'|il|eût|sell%[m|é]|
+|que|nous|eussions|sell%[m|é]|
+|que|vous|eussiez|sell%[m|é]|
+|qu'|ils|eussent|sell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sell%[m|e]|
+|sell%[m|ons]|
+|sell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sell%[m|é]|
+|ayons|sell%[m|é]|
+|ayez|sell%[m|é]|
+|]
+

@@ -1,0 +1,142 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./10.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./12.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Open Interest</h1>
+
+<p>You will often hear the term &quot;open interest&quot; in
+option trading.&nbsp; It can be very helpful to understand
+what this means, and how the number is either increased
+or decreased.</p>
+<p>Because of the way options are traded, the Options
+Clearing Corporation (OCC) must account for the total
+number of outstanding contracts.&nbsp; To do so, one could
+either tally all long positions <u>or</u> all short
+positions and get the total number of outstanding
+contracts.&nbsp; This is because each contract has a buyer
+and a seller (a long and a short position).&nbsp; Some people
+mistakenly believe that the open interest is the total
+number of long <u>and</u> short positions.&nbsp; However,
+this would double count the actual number of open
+contracts.</p>
+<p>For example, say there are currently no contracts at
+all trading on a particular stock.&nbsp; If Larry decides to
+buy 10 contracts, he must find someone who is willing to
+sell 10 contracts.&nbsp; If Moe would like to sell them, then
+a buyer and seller can be matched and the total open
+interest is now 10 contracts.&nbsp; </p>
+<p>Notice how open interest is <u>not</u> the total long
+and short positions.&nbsp; If we count all longs and shorts
+using the above example, we have 10 contracts long and
+10 short, which give us a total of 20 -- exactly double
+the correct answer.</p>
+<p>Now say another trader, Curly, wants to buy 10
+contracts.&nbsp; If he &quot;buys to open&quot; and Larry &quot;sells to
+close,&quot; then, in effect, all that has happened is that
+Larry and Curly have switched places and there are still
+only 10 contracts outstanding.&nbsp; Why?&nbsp; Because Larry
+originally &quot;bought to open&quot; and then &quot;sold to close,&quot; so
+he's out of the picture altogether.&nbsp; Now Moe and Curly
+are effectively matched.</p>
+<p><b>Whenever one party is opening a position and the
+other party is closing a position, open interest remains
+unchanged.</b></p>
+<p>Should Moe be concerned that Larry is not on the
+other side of the trade anymore?&nbsp; No, because
+technically, OCC acts as a middleman and is the buyer to
+every seller and the seller to every buyer.&nbsp; The trades
+are all guaranteed (for contract performance, not
+profit!) by the OCC.</p>
+<p>Let's say Larry wants back in the action and &quot;buys to
+open,&quot; but this time, another trader &quot;sells to open.&quot;&nbsp;
+Assuming this trade was also for 10 contracts, the total
+open interest is now 20 contracts.</p>
+<p><b>Whenever <u>both</u> parties are opening
+positions, open interest will increase by the amount of
+the contracts traded.</b></p>
+<p>In the above example, Moe and Curly have open
+positions and are accounting for 10 of the 20 contracts
+in open interest.&nbsp; If Moe &quot;buys to close&quot; and Curly
+&quot;sells to close,&quot; the total open interest will fall to
+10.</p>
+<p><b>Whenever both parties are closing, open interest
+will decrease by the amount of the contracts.</b></p>
+<p>New traders are often confused with situations
+similar to this:&nbsp; Say a new trader &quot;buys to open&quot; 10
+contracts on an option that has no other volume for the
+day, and the option had 100 open interest yesterday.&nbsp;
+The next day, open interest still shows 100.&nbsp; The new
+trader often thinks that a mistake has been made because
+they &quot;bought to open&quot; 10 contracts, so the open interest
+must surely be 110 now.&nbsp; Hopefully it is evident to you
+now why this may happen -- the other side of the
+transaction must have been &quot;selling to close&quot; keeping
+the open interest unchanged.</p>
+<h2>How to read the open interest numbers</h2>
+<p>The open interest figures for a particular contract
+are counted as round lots of 100 -- just like the option
+contracts.&nbsp; So if you see open interest of 250, this
+really means that a total of 250 *100 (or the equivalent
+of 25,000 shares) is being traded in this option.</p>
+<p>This is important to understand for trading purposes,
+especially if you are placing large dollar amounts in a
+particular option.&nbsp; Say an option shows 3,500 contracts
+open interest (or a total of 350,000 shares) being
+represented.&nbsp; On the surface, there appears to be a lot
+of liquidity in this option.&nbsp; However, a better method
+is to take the 350,000 shares and multiply it by the
+market price of the option.&nbsp; Whether you use the bid,
+ask, or last trade usually won't make a huge difference
+unless there is a very high bid-ask spread.&nbsp; Let's say
+the last trade was 1/8.&nbsp; In terms of total dollars in
+the contract, that's only $43,700, which by market
+standards, is not too liquid.</p>
+<p>Conversely, the Nasdaq 100 Index (NDX) is currently
+trading around 3,320 with the Nov $3,350 call trading
+about $186 (yes, this index is extremely expensive due
+to the volatility!).&nbsp; There are &quot;only&quot; 558 open
+interest, which doesn't appear to be too liquid.&nbsp; But if
+we take 558 * 100 * $186, we see there is over
+$10,000,000 in liquidity. </p>
+<p>Before you place relatively large option orders,
+check the liquidity by calculating the <i>total dollars</i>
+in open interest in that option.</p>
+<h2>Example:</h2>
+<p>You are bullish on MRVC trading around $38-1/2.&nbsp; You
+want to &quot;buy to open&quot; 30 contracts of the Dec $30.&nbsp; Are
+there potential liquidity problems?&nbsp; </p>
+<p>Checking open interest we see there are only 8
+contracts for a total of 800 shares represented by this
+contract.&nbsp; The price is $12-1/4, which is 800 * $12-1/4
+= $9,800 dollars being represented.&nbsp; This appears to be
+a potential liquidity problem at this point.&nbsp; This is
+not to say that things cannot change as December
+expiration approaches, as they certainly can.&nbsp; However,
+it is important to make your decisions with all
+available relevant information.&nbsp; Would you feel
+comfortable with a trade this large and only $9,800
+worth of liquidity?</p>
+<p>If not, it may be best to spread your risk through
+other strikes or expirations.</p>
+
+</div>
+</div>
+</body>
+</html>

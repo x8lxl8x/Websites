@@ -1,0 +1,191 @@
+# concorder %[clVerbGroup|1]
+[-
+être semblable, au niveau du contenu. 
+pouvoir s'accorder. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|concord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|concord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|concord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||concord%[m|é]|
+|ayant|concord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en concord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|concord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|concord%[m|e]|
+|tu|concord%[m|es]|
+|il|concord%[m|e]|
+|nous|concord%[m|ons]|
+|vous|concord%[m|ez]|
+|ils|concord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|concord%[m|é]|
+|tu|as |concord%[m|é]|
+|il|a|concord%[m|é]|
+|nous|avons|concord%[m|é]|
+|vous|avez|concord%[m|é]|
+|ils|ont|concord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|concord%[m|ais]|
+|tu|concord%[m|ais]|
+|il|concord%[m|ait]|
+|nous|concord%[m|ions]|
+|vous|concord%[m|iez]|
+|ils|concord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|concord%[m|é]|
+|tu|avais|concord%[m|é]|
+|il|avait|concord%[m|é]|
+|nous|avions|concord%[m|é]|
+|vous|aviez|concord%[m|é]|
+|ils|avaient|concord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|concord%[m|ai]|
+|tu|concord%[m|as]|
+|il|concord%[m|a]|
+|nous|concord%[m|âmes]|
+|vous|concord%[m|âtes]|
+|ils|concord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|concord%[m|é]|
+|tu|eus|concord%[m|é]|
+|il|eut|concord%[m|é]|
+|nous|e&ucirc;mes|concord%[m|é]|
+|vous|e&ucirc;tes|concord%[m|é]|
+|ils|eurent|concord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|concord%[m|erai]|
+|tu|concord%[m|eras]|
+|il|concord%[m|era]|
+|nous|concord%[m|erons]|
+|vous|concord%[m|erez]|
+|ils|concord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|concord%[m|é]|
+|tu|auras|concord%[m|é]|
+|il|aura|concord%[m|é]|
+|nous|aurons|concord%[m|é]|
+|vous|aurez|concord%[m|é]|
+|ils|auront|concord%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|concord%[m|erais]|
+|tu|concord%[m|erais]|
+|il|concord%[m|erait]|
+|nous|concord%[m|erions]|
+|vous|concord%[m|eriez]|
+|ils|concord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|concord%[m|é]|
+|tu|aurais|concord%[m|é]|
+|il|aurait|concord%[m|é]|
+|nous|aurions|concord%[m|é]|
+|vous|auriez|concord%[m|é]|
+|ils|auraient|concord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|concord%[m|e]|
+|que|tu|concord%[m|es]|
+|qu'|il|concord%[m|e]|
+|que|nous|concord%[m|ions]|
+|que|vous|concord%[m|iez]|
+|qu'|ils|concord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|concord%[m|é]|
+|que|tu|aies|concord%[m|é]|
+|qu'|il|ait|concord%[m|é]|
+|que|nous|ayons|concord%[m|é]|
+|que|vous|ayez|concord%[m|é]|
+|qu'|ils|aient|concord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|concord%[m|asse]|
+|que|tu|concord%[m|asses]|
+|qu'|il|concord%[m|ât]|
+|que|nous|concord%[m|assions]|
+|que|vous|concord%[m|assiez]|
+|qu'|ils|concord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|concord%[m|é]|
+|que|tu|eusses|concord%[m|é]|
+|qu'|il|eût|concord%[m|é]|
+|que|nous|eussions|concord%[m|é]|
+|que|vous|eussiez|concord%[m|é]|
+|qu'|ils|eussent|concord%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|concord%[m|e]|
+|concord%[m|ons]|
+|concord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|concord%[m|é]|
+|ayons|concord%[m|é]|
+|ayez|concord%[m|é]|
+|]
+

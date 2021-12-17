@@ -1,0 +1,24 @@
+/*
+h1 { color:    #ef6205; font-size:    1.200em; }
+h2 { color:    #048C04; font-size:    1.150em; }
+h3 { color:    #0062bc; font-size:    1.100em; }
+
+h4 { color:    #b3478e; font-size:    1.000em; }
+h5 { color:    #0f8997; font-size:    1.000em; }
+h6 { color:    #6666cc; font-size:    1.000em; }
+*/
+
+h1 { color:    hsl(024, 080%, 050%); font-size:    1.200em; }
+h2 { color:    hsl(120, 080%, 030%); font-size:    1.150em; }
+h3 { color:    hsl(209, 080%, 050%); font-size:    1.100em; }
+
+h4 { color:    hsl(321, 043%, 049%); font-size:    1.000em; }
+h5 { color:    hsl(186, 082%, 033%); font-size:    1.000em; }
+h6 { color:    hsl(240, 050%, 060%); font-size:    1.000em; }
+
+.clTitle    { color:    #aa0000; font-size:    1.000em; }
+.clSubtitle { color:    #b45f06; font-size:    1.000em; }
+.clXaa0000  { color:    #aa0000; }
+.clX888888  { color:    #888888; }
+.clX000000  { color:    #000000; }
+.clX008800  { color:    #008800; }

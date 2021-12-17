@@ -1,0 +1,190 @@
+# se gendarmer %[clVerbGroup|1]
+[-
+se fâcher, s'emporter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se gendarm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|gendarm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se gendarm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|gendarm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se gendarm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|gendarm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|gendarm%[m|e]|
+|tu|te|gendarm%[m|es]|
+|il|se|gendarm%[m|e]|
+|nous|nous|gendarm%[m|ons]|
+|vous|vous|gendarm%[m|ez]|
+|ils|se|gendarm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|gendarm%[m|é]|
+|tu|t'|es|gendarm%[m|é]|
+|il|s'|est|gendarm%[m|é]|
+|nous|nous|sommes|gendarm%[m|és]|
+|vous|vous|êtes|gendarm%[m|és]|
+|ils|se|sont|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|gendarm%[m|ais]|
+|tu|te|gendarm%[m|ais]|
+|il|se|gendarm%[m|ait]|
+|nous|nous|gendarm%[m|ions]|
+|vous|vous|gendarm%[m|iez]|
+|ils|se|gendarm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|gendarm%[m|é]|
+|tu|t'|étais|gendarm%[m|é]|
+|il|s'|était|gendarm%[m|é]|
+|nous|nous|étions|gendarm%[m|és]|
+|vous|vous|étiez|gendarm%[m|és]|
+|ils|s'|étaient|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|gendarm%[m|ai]|
+|tu|te|gendarm%[m|as]|
+|il|se|gendarm%[m|a]|
+|nous|nous|gendarm%[m|âmes]|
+|vous|vous|gendarm%[m|âtes]|
+|ils|se|gendarm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|gendarm%[m|é]|
+|tu|te|fus|gendarm%[m|é]|
+|il|se|fut|gendarm%[m|é]|
+|nous|nous|fûmes|gendarm%[m|és]|
+|vous|vous|fûtes|gendarm%[m|és]|
+|ils|se|furent|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|gendarm%[m|erai]|
+|tu|te|gendarm%[m|eras]|
+|il|se|gendarm%[m|era]|
+|nous|nous|gendarm%[m|erons]|
+|vous|vous|gendarm%[m|erez]|
+|ils|se|gendarm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|gendarm%[m|é]|
+|tu|te|seras|gendarm%[m|é]|
+|il|se|sera|gendarm%[m|é]|
+|nous|nous|serons|gendarm%[m|és]|
+|vous|vous|serez|gendarm%[m|és]|
+|ils|se|seront|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|gendarm%[m|erais]|
+|tu|te|gendarm%[m|erais]|
+|il|se|gendarm%[m|erait]|
+|nous|nous|gendarm%[m|erions]|
+|vous|vous|gendarm%[m|eriez]|
+|ils|se|gendarm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|gendarm%[m|é]|
+|tu|te|serais|gendarm%[m|é]|
+|il|se|serait|gendarm%[m|é]|
+|nous|nous|serions|gendarm%[m|és]|
+|vous|vous|seriez|gendarm%[m|és]|
+|ils|se|seraient|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|gendarm%[m|e]|
+|que|tu|te|gendarm%[m|es]|
+|qu'|il|se|gendarm%[m|e]|
+|que|nous|nous|gendarm%[m|ions]|
+|que|vous|vous|gendarm%[m|iez]|
+|qu'|ils|se|gendarm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|gendarm%[m|é]|
+|que|tu|te|sois|gendarm%[m|é]|
+|qu'|il|se|soit|gendarm%[m|é]|
+|que|nous|nous|soyons|gendarm%[m|és]|
+|que|vous|vous|soyez|gendarm%[m|és]|
+|qu'|ils|se|soient|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|gendarm%[m|asse]|
+|que|tu|te|gendarm%[m|asses]|
+|qu'|il|se|gendarm%[m|ât]|
+|que|nous|nous|gendarm%[m|assions]|
+|que|vous|vous|gendarm%[m|assiez]|
+|qu'|ils|se|gendarm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|gendarm%[m|é]|
+|que|tu|te|fusses|gendarm%[m|é]|
+|qu'|il|se|fût|gendarm%[m|é]|
+|que|nous|nous|fussions|gendarm%[m|és]|
+|que|vous|vous|fussiez|gendarm%[m|és]|
+|qu'|ils|se|fussent|gendarm%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|gendarm%[m|e]-toi|
+|gendarm%[m|ons]-nous|
+|gendarm%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

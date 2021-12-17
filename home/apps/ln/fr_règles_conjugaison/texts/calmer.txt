@@ -1,0 +1,191 @@
+# calmer %[clVerbGroup|1]
+[-
+atténuer. 
+rendre calme. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|calm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|calm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|calm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||calm%[m|é]|
+|ayant|calm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en calm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|calm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|calm%[m|e]|
+|tu|calm%[m|es]|
+|il|calm%[m|e]|
+|nous|calm%[m|ons]|
+|vous|calm%[m|ez]|
+|ils|calm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|calm%[m|é]|
+|tu|as |calm%[m|é]|
+|il|a|calm%[m|é]|
+|nous|avons|calm%[m|é]|
+|vous|avez|calm%[m|é]|
+|ils|ont|calm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|calm%[m|ais]|
+|tu|calm%[m|ais]|
+|il|calm%[m|ait]|
+|nous|calm%[m|ions]|
+|vous|calm%[m|iez]|
+|ils|calm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|calm%[m|é]|
+|tu|avais|calm%[m|é]|
+|il|avait|calm%[m|é]|
+|nous|avions|calm%[m|é]|
+|vous|aviez|calm%[m|é]|
+|ils|avaient|calm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|calm%[m|ai]|
+|tu|calm%[m|as]|
+|il|calm%[m|a]|
+|nous|calm%[m|âmes]|
+|vous|calm%[m|âtes]|
+|ils|calm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|calm%[m|é]|
+|tu|eus|calm%[m|é]|
+|il|eut|calm%[m|é]|
+|nous|e&ucirc;mes|calm%[m|é]|
+|vous|e&ucirc;tes|calm%[m|é]|
+|ils|eurent|calm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|calm%[m|erai]|
+|tu|calm%[m|eras]|
+|il|calm%[m|era]|
+|nous|calm%[m|erons]|
+|vous|calm%[m|erez]|
+|ils|calm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|calm%[m|é]|
+|tu|auras|calm%[m|é]|
+|il|aura|calm%[m|é]|
+|nous|aurons|calm%[m|é]|
+|vous|aurez|calm%[m|é]|
+|ils|auront|calm%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|calm%[m|erais]|
+|tu|calm%[m|erais]|
+|il|calm%[m|erait]|
+|nous|calm%[m|erions]|
+|vous|calm%[m|eriez]|
+|ils|calm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|calm%[m|é]|
+|tu|aurais|calm%[m|é]|
+|il|aurait|calm%[m|é]|
+|nous|aurions|calm%[m|é]|
+|vous|auriez|calm%[m|é]|
+|ils|auraient|calm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|calm%[m|e]|
+|que|tu|calm%[m|es]|
+|qu'|il|calm%[m|e]|
+|que|nous|calm%[m|ions]|
+|que|vous|calm%[m|iez]|
+|qu'|ils|calm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|calm%[m|é]|
+|que|tu|aies|calm%[m|é]|
+|qu'|il|ait|calm%[m|é]|
+|que|nous|ayons|calm%[m|é]|
+|que|vous|ayez|calm%[m|é]|
+|qu'|ils|aient|calm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|calm%[m|asse]|
+|que|tu|calm%[m|asses]|
+|qu'|il|calm%[m|ât]|
+|que|nous|calm%[m|assions]|
+|que|vous|calm%[m|assiez]|
+|qu'|ils|calm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|calm%[m|é]|
+|que|tu|eusses|calm%[m|é]|
+|qu'|il|eût|calm%[m|é]|
+|que|nous|eussions|calm%[m|é]|
+|que|vous|eussiez|calm%[m|é]|
+|qu'|ils|eussent|calm%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|calm%[m|e]|
+|calm%[m|ons]|
+|calm%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|calm%[m|é]|
+|ayons|calm%[m|é]|
+|ayez|calm%[m|é]|
+|]
+

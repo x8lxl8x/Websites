@@ -1,0 +1,192 @@
+# s'adresser %[clVerbGroup|1]
+[-
+faire parvenir quelque chose à quelqu'un. 
+émettre des paroles vers quelqu'un. 
+diriger quelqu'un vers la bonne personne. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'adress%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|adress%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'adress%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|adress%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'adress%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|adress%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|adress%[m|e]|
+|tu|t'|adress%[m|es]|
+|il|s'|adress%[m|e]|
+|nous|nous|adress%[m|ons]|
+|vous|vous|adress%[m|ez]|
+|ils|s'|adress%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|adress%[m|é]|
+|tu|t'|es|adress%[m|é]|
+|il|s'|est|adress%[m|é]|
+|nous|nous|sommes|adress%[m|és]|
+|vous|vous|êtes|adress%[m|és]|
+|ils|se|sont|adress%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|adress%[m|ais]|
+|tu|t'|adress%[m|ais]|
+|il|s'|adress%[m|ait]|
+|nous|nous|adress%[m|ions]|
+|vous|vous|adress%[m|iez]|
+|ils|s'|adress%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|adress%[m|é]|
+|tu|t'|étais|adress%[m|é]|
+|il|s'|était|adress%[m|é]|
+|nous|nous|étions|adress%[m|és]|
+|vous|vous|étiez|adress%[m|és]|
+|ils|s'|étaient|adress%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|adress%[m|ai]|
+|tu|t'|adress%[m|as]|
+|il|s'|adress%[m|a]|
+|nous|nous|adress%[m|âmes]|
+|vous|vous|adress%[m|âtes]|
+|ils|s'|adress%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|adress%[m|é]|
+|tu|te|fus|adress%[m|é]|
+|il|se|fut|adress%[m|é]|
+|nous|nous|fûmes|adress%[m|és]|
+|vous|vous|fûtes|adress%[m|és]|
+|ils|se|furent|adress%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|adress%[m|erai]|
+|tu|t'|adress%[m|eras]|
+|il|s'|adress%[m|era]|
+|nous|nous|adress%[m|erons]|
+|vous|vous|adress%[m|erez]|
+|ils|s'|adress%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|adress%[m|é]|
+|tu|te|seras|adress%[m|é]|
+|il|se|sera|adress%[m|é]|
+|nous|nous|serons|adress%[m|és]|
+|vous|vous|serez|adress%[m|és]|
+|ils|se|seront|adress%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|adress%[m|erais]|
+|tu|t'|adress%[m|erais]|
+|il|s'|adress%[m|erait]|
+|nous|nous|adress%[m|erions]|
+|vous|vous|adress%[m|eriez]|
+|ils|s'|adress%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|adress%[m|é]|
+|tu|te|serais|adress%[m|é]|
+|il|se|serait|adress%[m|é]|
+|nous|nous|serions|adress%[m|és]|
+|vous|vous|seriez|adress%[m|és]|
+|ils|se|seraient|adress%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|adress%[m|e]|
+|que|tu|t'|adress%[m|es]|
+|qu'|il|s'|adress%[m|e]|
+|que|nous|nous|adress%[m|ions]|
+|que|vous|vous|adress%[m|iez]|
+|qu'|ils|s'|adress%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|adress%[m|é]|
+|que|tu|te|sois|adress%[m|é]|
+|qu'|il|se|soit|adress%[m|é]|
+|que|nous|nous|soyons|adress%[m|és]|
+|que|vous|vous|soyez|adress%[m|és]|
+|qu'|ils|se|soient|adress%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|adress%[m|asse]|
+|que|tu|t'|adress%[m|asses]|
+|qu'|il|s'|adress%[m|ât]|
+|que|nous|nous|adress%[m|assions]|
+|que|vous|vous|adress%[m|assiez]|
+|qu'|ils|s'|adress%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|adress%[m|é]|
+|que|tu|te|fusses|adress%[m|é]|
+|qu'|il|se|fût|adress%[m|é]|
+|que|nous|nous|fussions|adress%[m|és]|
+|que|vous|vous|fussiez|adress%[m|és]|
+|qu'|ils|se|fussent|adress%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|adress%[m|e]-toi|
+|adress%[m|ons]-nous|
+|adress%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

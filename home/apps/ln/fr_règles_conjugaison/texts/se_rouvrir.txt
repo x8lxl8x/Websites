@@ -1,0 +1,190 @@
+# se rouvrir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rouv%[m|rir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rouv%[m|ert]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rouv%[m|rant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rouv%[m|ert]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rouv%[m|rant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rouv%[m|ert]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rouv%[m|re]|
+|tu|te|rouv%[m|res]|
+|il|se|rouv%[m|re]|
+|nous|nous|rouv%[m|rons]|
+|vous|vous|rouv%[m|rez]|
+|ils|se|rouv%[m|rent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rouv%[m|ert]|
+|tu|t'|es|rouv%[m|ert]|
+|il|s'|est|rouv%[m|ert]|
+|nous|nous|sommes|rouv%[m|erts]|
+|vous|vous|êtes|rouv%[m|erts]|
+|ils|se|sont|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rouv%[m|rais]|
+|tu|te|rouv%[m|rais]|
+|il|se|rouv%[m|rait]|
+|nous|nous|rouv%[m|rions]|
+|vous|vous|rouv%[m|riez]|
+|ils|se|rouv%[m|raient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rouv%[m|ert]|
+|tu|t'|étais|rouv%[m|ert]|
+|il|s'|était|rouv%[m|ert]|
+|nous|nous|étions|rouv%[m|erts]|
+|vous|vous|étiez|rouv%[m|erts]|
+|ils|s'|étaient|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rouv%[m|ris]|
+|tu|te|rouv%[m|ris]|
+|il|se|rouv%[m|rit]|
+|nous|nous|rouv%[m|rîmes]|
+|vous|vous|rouv%[m|rîtes]|
+|ils|se|rouv%[m|rirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rouv%[m|ert]|
+|tu|te|fus|rouv%[m|ert]|
+|il|se|fut|rouv%[m|ert]|
+|nous|nous|fûmes|rouv%[m|erts]|
+|vous|vous|fûtes|rouv%[m|erts]|
+|ils|se|furent|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rouv%[m|rirai]|
+|tu|te|rouv%[m|riras]|
+|il|se|rouv%[m|rira]|
+|nous|nous|rouv%[m|rirons]|
+|vous|vous|rouv%[m|rirez]|
+|ils|se|rouv%[m|riront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rouv%[m|ert]|
+|tu|te|seras|rouv%[m|ert]|
+|il|se|sera|rouv%[m|ert]|
+|nous|nous|serons|rouv%[m|erts]|
+|vous|vous|serez|rouv%[m|erts]|
+|ils|se|seront|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rouv%[m|rirais]|
+|tu|te|rouv%[m|rirais]|
+|il|se|rouv%[m|rirait]|
+|nous|nous|rouv%[m|ririons]|
+|vous|vous|rouv%[m|ririez]|
+|ils|se|rouv%[m|riraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rouv%[m|ert]|
+|tu|te|serais|rouv%[m|ert]|
+|il|se|serait|rouv%[m|ert]|
+|nous|nous|serions|rouv%[m|erts]|
+|vous|vous|seriez|rouv%[m|erts]|
+|ils|se|seraient|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rouv%[m|re]|
+|que|tu|te|rouv%[m|res]|
+|qu'|il|se|rouv%[m|re]|
+|que|nous|nous|rouv%[m|rions]|
+|que|vous|vous|rouv%[m|riez]|
+|qu'|ils|se|rouv%[m|rent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rouv%[m|ert]|
+|que|tu|te|sois|rouv%[m|ert]|
+|qu'|il|se|soit|rouv%[m|ert]|
+|que|nous|nous|soyons|rouv%[m|erts]|
+|que|vous|vous|soyez|rouv%[m|erts]|
+|qu'|ils|se|soient|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rouv%[m|risse]|
+|que|tu|te|rouv%[m|risses]|
+|qu'|il|se|rouv%[m|rît]|
+|que|nous|nous|rouv%[m|rissions]|
+|que|vous|vous|rouv%[m|rissiez]|
+|qu'|ils|se|rouv%[m|rissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rouv%[m|ert]|
+|que|tu|te|fusses|rouv%[m|ert]|
+|qu'|il|se|fût|rouv%[m|ert]|
+|que|nous|nous|fussions|rouv%[m|erts]|
+|que|vous|vous|fussiez|rouv%[m|erts]|
+|qu'|ils|se|fussent|rouv%[m|erts]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rouv%[m|re]-toi|
+|rouv%[m|rons]-nous|
+|rouv%[m|rez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

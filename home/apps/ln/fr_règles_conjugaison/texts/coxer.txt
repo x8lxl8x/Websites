@@ -1,0 +1,190 @@
+# coxer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cox%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cox%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cox%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cox%[m|é]|
+|ayant|cox%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cox%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cox%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cox%[m|e]|
+|tu|cox%[m|es]|
+|il|cox%[m|e]|
+|nous|cox%[m|ons]|
+|vous|cox%[m|ez]|
+|ils|cox%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cox%[m|é]|
+|tu|as |cox%[m|é]|
+|il|a|cox%[m|é]|
+|nous|avons|cox%[m|é]|
+|vous|avez|cox%[m|é]|
+|ils|ont|cox%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cox%[m|ais]|
+|tu|cox%[m|ais]|
+|il|cox%[m|ait]|
+|nous|cox%[m|ions]|
+|vous|cox%[m|iez]|
+|ils|cox%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cox%[m|é]|
+|tu|avais|cox%[m|é]|
+|il|avait|cox%[m|é]|
+|nous|avions|cox%[m|é]|
+|vous|aviez|cox%[m|é]|
+|ils|avaient|cox%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cox%[m|ai]|
+|tu|cox%[m|as]|
+|il|cox%[m|a]|
+|nous|cox%[m|âmes]|
+|vous|cox%[m|âtes]|
+|ils|cox%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cox%[m|é]|
+|tu|eus|cox%[m|é]|
+|il|eut|cox%[m|é]|
+|nous|e&ucirc;mes|cox%[m|é]|
+|vous|e&ucirc;tes|cox%[m|é]|
+|ils|eurent|cox%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cox%[m|erai]|
+|tu|cox%[m|eras]|
+|il|cox%[m|era]|
+|nous|cox%[m|erons]|
+|vous|cox%[m|erez]|
+|ils|cox%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cox%[m|é]|
+|tu|auras|cox%[m|é]|
+|il|aura|cox%[m|é]|
+|nous|aurons|cox%[m|é]|
+|vous|aurez|cox%[m|é]|
+|ils|auront|cox%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cox%[m|erais]|
+|tu|cox%[m|erais]|
+|il|cox%[m|erait]|
+|nous|cox%[m|erions]|
+|vous|cox%[m|eriez]|
+|ils|cox%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cox%[m|é]|
+|tu|aurais|cox%[m|é]|
+|il|aurait|cox%[m|é]|
+|nous|aurions|cox%[m|é]|
+|vous|auriez|cox%[m|é]|
+|ils|auraient|cox%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cox%[m|e]|
+|que|tu|cox%[m|es]|
+|qu'|il|cox%[m|e]|
+|que|nous|cox%[m|ions]|
+|que|vous|cox%[m|iez]|
+|qu'|ils|cox%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cox%[m|é]|
+|que|tu|aies|cox%[m|é]|
+|qu'|il|ait|cox%[m|é]|
+|que|nous|ayons|cox%[m|é]|
+|que|vous|ayez|cox%[m|é]|
+|qu'|ils|aient|cox%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cox%[m|asse]|
+|que|tu|cox%[m|asses]|
+|qu'|il|cox%[m|ât]|
+|que|nous|cox%[m|assions]|
+|que|vous|cox%[m|assiez]|
+|qu'|ils|cox%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cox%[m|é]|
+|que|tu|eusses|cox%[m|é]|
+|qu'|il|eût|cox%[m|é]|
+|que|nous|eussions|cox%[m|é]|
+|que|vous|eussiez|cox%[m|é]|
+|qu'|ils|eussent|cox%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cox%[m|e]|
+|cox%[m|ons]|
+|cox%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cox%[m|é]|
+|ayons|cox%[m|é]|
+|ayez|cox%[m|é]|
+|]
+

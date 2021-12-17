@@ -1,0 +1,190 @@
+# bonder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bond%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bond%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bond%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bond%[m|é]|
+|ayant|bond%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bond%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bond%[m|e]|
+|tu|bond%[m|es]|
+|il|bond%[m|e]|
+|nous|bond%[m|ons]|
+|vous|bond%[m|ez]|
+|ils|bond%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bond%[m|é]|
+|tu|as |bond%[m|é]|
+|il|a|bond%[m|é]|
+|nous|avons|bond%[m|é]|
+|vous|avez|bond%[m|é]|
+|ils|ont|bond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bond%[m|ais]|
+|tu|bond%[m|ais]|
+|il|bond%[m|ait]|
+|nous|bond%[m|ions]|
+|vous|bond%[m|iez]|
+|ils|bond%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bond%[m|é]|
+|tu|avais|bond%[m|é]|
+|il|avait|bond%[m|é]|
+|nous|avions|bond%[m|é]|
+|vous|aviez|bond%[m|é]|
+|ils|avaient|bond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bond%[m|ai]|
+|tu|bond%[m|as]|
+|il|bond%[m|a]|
+|nous|bond%[m|âmes]|
+|vous|bond%[m|âtes]|
+|ils|bond%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bond%[m|é]|
+|tu|eus|bond%[m|é]|
+|il|eut|bond%[m|é]|
+|nous|e&ucirc;mes|bond%[m|é]|
+|vous|e&ucirc;tes|bond%[m|é]|
+|ils|eurent|bond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bond%[m|erai]|
+|tu|bond%[m|eras]|
+|il|bond%[m|era]|
+|nous|bond%[m|erons]|
+|vous|bond%[m|erez]|
+|ils|bond%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bond%[m|é]|
+|tu|auras|bond%[m|é]|
+|il|aura|bond%[m|é]|
+|nous|aurons|bond%[m|é]|
+|vous|aurez|bond%[m|é]|
+|ils|auront|bond%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bond%[m|erais]|
+|tu|bond%[m|erais]|
+|il|bond%[m|erait]|
+|nous|bond%[m|erions]|
+|vous|bond%[m|eriez]|
+|ils|bond%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bond%[m|é]|
+|tu|aurais|bond%[m|é]|
+|il|aurait|bond%[m|é]|
+|nous|aurions|bond%[m|é]|
+|vous|auriez|bond%[m|é]|
+|ils|auraient|bond%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bond%[m|e]|
+|que|tu|bond%[m|es]|
+|qu'|il|bond%[m|e]|
+|que|nous|bond%[m|ions]|
+|que|vous|bond%[m|iez]|
+|qu'|ils|bond%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bond%[m|é]|
+|que|tu|aies|bond%[m|é]|
+|qu'|il|ait|bond%[m|é]|
+|que|nous|ayons|bond%[m|é]|
+|que|vous|ayez|bond%[m|é]|
+|qu'|ils|aient|bond%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bond%[m|asse]|
+|que|tu|bond%[m|asses]|
+|qu'|il|bond%[m|ât]|
+|que|nous|bond%[m|assions]|
+|que|vous|bond%[m|assiez]|
+|qu'|ils|bond%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bond%[m|é]|
+|que|tu|eusses|bond%[m|é]|
+|qu'|il|eût|bond%[m|é]|
+|que|nous|eussions|bond%[m|é]|
+|que|vous|eussiez|bond%[m|é]|
+|qu'|ils|eussent|bond%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bond%[m|e]|
+|bond%[m|ons]|
+|bond%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bond%[m|é]|
+|ayons|bond%[m|é]|
+|ayez|bond%[m|é]|
+|]
+

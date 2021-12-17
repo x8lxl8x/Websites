@@ -1,0 +1,190 @@
+# séquencer %[clVerbGroup|1]
+[-
+décomposer en séquences. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|séquen%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|séquen%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||séquen%[m|cé]|
+|ayant|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en séquen%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|séquen%[m|ce]|
+|tu|séquen%[m|ces]|
+|il|séquen%[m|ce]|
+|nous|séquen%[m|çons]|
+|vous|séquen%[m|cez]|
+|ils|séquen%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|séquen%[m|cé]|
+|tu|as |séquen%[m|cé]|
+|il|a|séquen%[m|cé]|
+|nous|avons|séquen%[m|cé]|
+|vous|avez|séquen%[m|cé]|
+|ils|ont|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|séquen%[m|çais]|
+|tu|séquen%[m|çais]|
+|il|séquen%[m|çait]|
+|nous|séquen%[m|cions]|
+|vous|séquen%[m|ciez]|
+|ils|séquen%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|séquen%[m|cé]|
+|tu|avais|séquen%[m|cé]|
+|il|avait|séquen%[m|cé]|
+|nous|avions|séquen%[m|cé]|
+|vous|aviez|séquen%[m|cé]|
+|ils|avaient|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|séquen%[m|çai]|
+|tu|séquen%[m|ças]|
+|il|séquen%[m|ça]|
+|nous|séquen%[m|çâmes]|
+|vous|séquen%[m|çâtes]|
+|ils|séquen%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|séquen%[m|cé]|
+|tu|eus|séquen%[m|cé]|
+|il|eut|séquen%[m|cé]|
+|nous|e&ucirc;mes|séquen%[m|cé]|
+|vous|e&ucirc;tes|séquen%[m|cé]|
+|ils|eurent|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|séquen%[m|cerai]|
+|tu|séquen%[m|ceras]|
+|il|séquen%[m|cera]|
+|nous|séquen%[m|cerons]|
+|vous|séquen%[m|cerez]|
+|ils|séquen%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|séquen%[m|cé]|
+|tu|auras|séquen%[m|cé]|
+|il|aura|séquen%[m|cé]|
+|nous|aurons|séquen%[m|cé]|
+|vous|aurez|séquen%[m|cé]|
+|ils|auront|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|séquen%[m|cerais]|
+|tu|séquen%[m|cerais]|
+|il|séquen%[m|cerait]|
+|nous|séquen%[m|cerions]|
+|vous|séquen%[m|ceriez]|
+|ils|séquen%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|séquen%[m|cé]|
+|tu|aurais|séquen%[m|cé]|
+|il|aurait|séquen%[m|cé]|
+|nous|aurions|séquen%[m|cé]|
+|vous|auriez|séquen%[m|cé]|
+|ils|auraient|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|séquen%[m|ce]|
+|que|tu|séquen%[m|ces]|
+|qu'|il|séquen%[m|ce]|
+|que|nous|séquen%[m|cions]|
+|que|vous|séquen%[m|ciez]|
+|qu'|ils|séquen%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|séquen%[m|cé]|
+|que|tu|aies|séquen%[m|cé]|
+|qu'|il|ait|séquen%[m|cé]|
+|que|nous|ayons|séquen%[m|cé]|
+|que|vous|ayez|séquen%[m|cé]|
+|qu'|ils|aient|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|séquen%[m|çasse]|
+|que|tu|séquen%[m|çasses]|
+|qu'|il|séquen%[m|çât]|
+|que|nous|séquen%[m|çassions]|
+|que|vous|séquen%[m|çassiez]|
+|qu'|ils|séquen%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|séquen%[m|cé]|
+|que|tu|eusses|séquen%[m|cé]|
+|qu'|il|eût|séquen%[m|cé]|
+|que|nous|eussions|séquen%[m|cé]|
+|que|vous|eussiez|séquen%[m|cé]|
+|qu'|ils|eussent|séquen%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|séquen%[m|ce]|
+|séquen%[m|çons]|
+|séquen%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|séquen%[m|cé]|
+|ayons|séquen%[m|cé]|
+|ayez|séquen%[m|cé]|
+|]
+

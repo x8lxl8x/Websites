@@ -1,0 +1,191 @@
+# s'étoiler %[clVerbGroup|1]
+[-
+semer d'étoiles. 
+marquer d'éléments en forme d'étoiles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'étoil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|étoil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'étoil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|étoil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'étoil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|étoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|étoil%[m|e]|
+|tu|t'|étoil%[m|es]|
+|il|s'|étoil%[m|e]|
+|nous|nous|étoil%[m|ons]|
+|vous|vous|étoil%[m|ez]|
+|ils|s'|étoil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|étoil%[m|é]|
+|tu|t'|es|étoil%[m|é]|
+|il|s'|est|étoil%[m|é]|
+|nous|nous|sommes|étoil%[m|és]|
+|vous|vous|êtes|étoil%[m|és]|
+|ils|se|sont|étoil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|étoil%[m|ais]|
+|tu|t'|étoil%[m|ais]|
+|il|s'|étoil%[m|ait]|
+|nous|nous|étoil%[m|ions]|
+|vous|vous|étoil%[m|iez]|
+|ils|s'|étoil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|étoil%[m|é]|
+|tu|t'|étais|étoil%[m|é]|
+|il|s'|était|étoil%[m|é]|
+|nous|nous|étions|étoil%[m|és]|
+|vous|vous|étiez|étoil%[m|és]|
+|ils|s'|étaient|étoil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|étoil%[m|ai]|
+|tu|t'|étoil%[m|as]|
+|il|s'|étoil%[m|a]|
+|nous|nous|étoil%[m|âmes]|
+|vous|vous|étoil%[m|âtes]|
+|ils|s'|étoil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|étoil%[m|é]|
+|tu|te|fus|étoil%[m|é]|
+|il|se|fut|étoil%[m|é]|
+|nous|nous|fûmes|étoil%[m|és]|
+|vous|vous|fûtes|étoil%[m|és]|
+|ils|se|furent|étoil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|étoil%[m|erai]|
+|tu|t'|étoil%[m|eras]|
+|il|s'|étoil%[m|era]|
+|nous|nous|étoil%[m|erons]|
+|vous|vous|étoil%[m|erez]|
+|ils|s'|étoil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|étoil%[m|é]|
+|tu|te|seras|étoil%[m|é]|
+|il|se|sera|étoil%[m|é]|
+|nous|nous|serons|étoil%[m|és]|
+|vous|vous|serez|étoil%[m|és]|
+|ils|se|seront|étoil%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|étoil%[m|erais]|
+|tu|t'|étoil%[m|erais]|
+|il|s'|étoil%[m|erait]|
+|nous|nous|étoil%[m|erions]|
+|vous|vous|étoil%[m|eriez]|
+|ils|s'|étoil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|étoil%[m|é]|
+|tu|te|serais|étoil%[m|é]|
+|il|se|serait|étoil%[m|é]|
+|nous|nous|serions|étoil%[m|és]|
+|vous|vous|seriez|étoil%[m|és]|
+|ils|se|seraient|étoil%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|étoil%[m|e]|
+|que|tu|t'|étoil%[m|es]|
+|qu'|il|s'|étoil%[m|e]|
+|que|nous|nous|étoil%[m|ions]|
+|que|vous|vous|étoil%[m|iez]|
+|qu'|ils|s'|étoil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|étoil%[m|é]|
+|que|tu|te|sois|étoil%[m|é]|
+|qu'|il|se|soit|étoil%[m|é]|
+|que|nous|nous|soyons|étoil%[m|és]|
+|que|vous|vous|soyez|étoil%[m|és]|
+|qu'|ils|se|soient|étoil%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|étoil%[m|asse]|
+|que|tu|t'|étoil%[m|asses]|
+|qu'|il|s'|étoil%[m|ât]|
+|que|nous|nous|étoil%[m|assions]|
+|que|vous|vous|étoil%[m|assiez]|
+|qu'|ils|s'|étoil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|étoil%[m|é]|
+|que|tu|te|fusses|étoil%[m|é]|
+|qu'|il|se|fût|étoil%[m|é]|
+|que|nous|nous|fussions|étoil%[m|és]|
+|que|vous|vous|fussiez|étoil%[m|és]|
+|qu'|ils|se|fussent|étoil%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|étoil%[m|e]-toi|
+|étoil%[m|ons]-nous|
+|étoil%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

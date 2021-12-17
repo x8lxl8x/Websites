@@ -1,0 +1,190 @@
+# peller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pell%[m|é]|
+|ayant|pell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pell%[m|e]|
+|tu|pell%[m|es]|
+|il|pell%[m|e]|
+|nous|pell%[m|ons]|
+|vous|pell%[m|ez]|
+|ils|pell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pell%[m|é]|
+|tu|as |pell%[m|é]|
+|il|a|pell%[m|é]|
+|nous|avons|pell%[m|é]|
+|vous|avez|pell%[m|é]|
+|ils|ont|pell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pell%[m|ais]|
+|tu|pell%[m|ais]|
+|il|pell%[m|ait]|
+|nous|pell%[m|ions]|
+|vous|pell%[m|iez]|
+|ils|pell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pell%[m|é]|
+|tu|avais|pell%[m|é]|
+|il|avait|pell%[m|é]|
+|nous|avions|pell%[m|é]|
+|vous|aviez|pell%[m|é]|
+|ils|avaient|pell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pell%[m|ai]|
+|tu|pell%[m|as]|
+|il|pell%[m|a]|
+|nous|pell%[m|âmes]|
+|vous|pell%[m|âtes]|
+|ils|pell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pell%[m|é]|
+|tu|eus|pell%[m|é]|
+|il|eut|pell%[m|é]|
+|nous|e&ucirc;mes|pell%[m|é]|
+|vous|e&ucirc;tes|pell%[m|é]|
+|ils|eurent|pell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pell%[m|erai]|
+|tu|pell%[m|eras]|
+|il|pell%[m|era]|
+|nous|pell%[m|erons]|
+|vous|pell%[m|erez]|
+|ils|pell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pell%[m|é]|
+|tu|auras|pell%[m|é]|
+|il|aura|pell%[m|é]|
+|nous|aurons|pell%[m|é]|
+|vous|aurez|pell%[m|é]|
+|ils|auront|pell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pell%[m|erais]|
+|tu|pell%[m|erais]|
+|il|pell%[m|erait]|
+|nous|pell%[m|erions]|
+|vous|pell%[m|eriez]|
+|ils|pell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pell%[m|é]|
+|tu|aurais|pell%[m|é]|
+|il|aurait|pell%[m|é]|
+|nous|aurions|pell%[m|é]|
+|vous|auriez|pell%[m|é]|
+|ils|auraient|pell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pell%[m|e]|
+|que|tu|pell%[m|es]|
+|qu'|il|pell%[m|e]|
+|que|nous|pell%[m|ions]|
+|que|vous|pell%[m|iez]|
+|qu'|ils|pell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pell%[m|é]|
+|que|tu|aies|pell%[m|é]|
+|qu'|il|ait|pell%[m|é]|
+|que|nous|ayons|pell%[m|é]|
+|que|vous|ayez|pell%[m|é]|
+|qu'|ils|aient|pell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pell%[m|asse]|
+|que|tu|pell%[m|asses]|
+|qu'|il|pell%[m|ât]|
+|que|nous|pell%[m|assions]|
+|que|vous|pell%[m|assiez]|
+|qu'|ils|pell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pell%[m|é]|
+|que|tu|eusses|pell%[m|é]|
+|qu'|il|eût|pell%[m|é]|
+|que|nous|eussions|pell%[m|é]|
+|que|vous|eussiez|pell%[m|é]|
+|qu'|ils|eussent|pell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pell%[m|e]|
+|pell%[m|ons]|
+|pell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pell%[m|é]|
+|ayons|pell%[m|é]|
+|ayez|pell%[m|é]|
+|]
+

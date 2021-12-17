@@ -1,0 +1,190 @@
+# frelater %[clVerbGroup|1]
+[-
+altérer ce qui est pur. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|frelat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|frelat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|frelat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||frelat%[m|é]|
+|ayant|frelat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en frelat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|frelat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|frelat%[m|e]|
+|tu|frelat%[m|es]|
+|il|frelat%[m|e]|
+|nous|frelat%[m|ons]|
+|vous|frelat%[m|ez]|
+|ils|frelat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|frelat%[m|é]|
+|tu|as |frelat%[m|é]|
+|il|a|frelat%[m|é]|
+|nous|avons|frelat%[m|é]|
+|vous|avez|frelat%[m|é]|
+|ils|ont|frelat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|frelat%[m|ais]|
+|tu|frelat%[m|ais]|
+|il|frelat%[m|ait]|
+|nous|frelat%[m|ions]|
+|vous|frelat%[m|iez]|
+|ils|frelat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|frelat%[m|é]|
+|tu|avais|frelat%[m|é]|
+|il|avait|frelat%[m|é]|
+|nous|avions|frelat%[m|é]|
+|vous|aviez|frelat%[m|é]|
+|ils|avaient|frelat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|frelat%[m|ai]|
+|tu|frelat%[m|as]|
+|il|frelat%[m|a]|
+|nous|frelat%[m|âmes]|
+|vous|frelat%[m|âtes]|
+|ils|frelat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|frelat%[m|é]|
+|tu|eus|frelat%[m|é]|
+|il|eut|frelat%[m|é]|
+|nous|e&ucirc;mes|frelat%[m|é]|
+|vous|e&ucirc;tes|frelat%[m|é]|
+|ils|eurent|frelat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|frelat%[m|erai]|
+|tu|frelat%[m|eras]|
+|il|frelat%[m|era]|
+|nous|frelat%[m|erons]|
+|vous|frelat%[m|erez]|
+|ils|frelat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|frelat%[m|é]|
+|tu|auras|frelat%[m|é]|
+|il|aura|frelat%[m|é]|
+|nous|aurons|frelat%[m|é]|
+|vous|aurez|frelat%[m|é]|
+|ils|auront|frelat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|frelat%[m|erais]|
+|tu|frelat%[m|erais]|
+|il|frelat%[m|erait]|
+|nous|frelat%[m|erions]|
+|vous|frelat%[m|eriez]|
+|ils|frelat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|frelat%[m|é]|
+|tu|aurais|frelat%[m|é]|
+|il|aurait|frelat%[m|é]|
+|nous|aurions|frelat%[m|é]|
+|vous|auriez|frelat%[m|é]|
+|ils|auraient|frelat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|frelat%[m|e]|
+|que|tu|frelat%[m|es]|
+|qu'|il|frelat%[m|e]|
+|que|nous|frelat%[m|ions]|
+|que|vous|frelat%[m|iez]|
+|qu'|ils|frelat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|frelat%[m|é]|
+|que|tu|aies|frelat%[m|é]|
+|qu'|il|ait|frelat%[m|é]|
+|que|nous|ayons|frelat%[m|é]|
+|que|vous|ayez|frelat%[m|é]|
+|qu'|ils|aient|frelat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|frelat%[m|asse]|
+|que|tu|frelat%[m|asses]|
+|qu'|il|frelat%[m|ât]|
+|que|nous|frelat%[m|assions]|
+|que|vous|frelat%[m|assiez]|
+|qu'|ils|frelat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|frelat%[m|é]|
+|que|tu|eusses|frelat%[m|é]|
+|qu'|il|eût|frelat%[m|é]|
+|que|nous|eussions|frelat%[m|é]|
+|que|vous|eussiez|frelat%[m|é]|
+|qu'|ils|eussent|frelat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|frelat%[m|e]|
+|frelat%[m|ons]|
+|frelat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|frelat%[m|é]|
+|ayons|frelat%[m|é]|
+|ayez|frelat%[m|é]|
+|]
+

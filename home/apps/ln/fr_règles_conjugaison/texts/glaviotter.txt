@@ -1,0 +1,190 @@
+# glaviotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|glaviott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|glaviott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||glaviott%[m|é]|
+|ayant|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en glaviott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|glaviott%[m|e]|
+|tu|glaviott%[m|es]|
+|il|glaviott%[m|e]|
+|nous|glaviott%[m|ons]|
+|vous|glaviott%[m|ez]|
+|ils|glaviott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|glaviott%[m|é]|
+|tu|as |glaviott%[m|é]|
+|il|a|glaviott%[m|é]|
+|nous|avons|glaviott%[m|é]|
+|vous|avez|glaviott%[m|é]|
+|ils|ont|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|glaviott%[m|ais]|
+|tu|glaviott%[m|ais]|
+|il|glaviott%[m|ait]|
+|nous|glaviott%[m|ions]|
+|vous|glaviott%[m|iez]|
+|ils|glaviott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|glaviott%[m|é]|
+|tu|avais|glaviott%[m|é]|
+|il|avait|glaviott%[m|é]|
+|nous|avions|glaviott%[m|é]|
+|vous|aviez|glaviott%[m|é]|
+|ils|avaient|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|glaviott%[m|ai]|
+|tu|glaviott%[m|as]|
+|il|glaviott%[m|a]|
+|nous|glaviott%[m|âmes]|
+|vous|glaviott%[m|âtes]|
+|ils|glaviott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|glaviott%[m|é]|
+|tu|eus|glaviott%[m|é]|
+|il|eut|glaviott%[m|é]|
+|nous|e&ucirc;mes|glaviott%[m|é]|
+|vous|e&ucirc;tes|glaviott%[m|é]|
+|ils|eurent|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|glaviott%[m|erai]|
+|tu|glaviott%[m|eras]|
+|il|glaviott%[m|era]|
+|nous|glaviott%[m|erons]|
+|vous|glaviott%[m|erez]|
+|ils|glaviott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|glaviott%[m|é]|
+|tu|auras|glaviott%[m|é]|
+|il|aura|glaviott%[m|é]|
+|nous|aurons|glaviott%[m|é]|
+|vous|aurez|glaviott%[m|é]|
+|ils|auront|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|glaviott%[m|erais]|
+|tu|glaviott%[m|erais]|
+|il|glaviott%[m|erait]|
+|nous|glaviott%[m|erions]|
+|vous|glaviott%[m|eriez]|
+|ils|glaviott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|glaviott%[m|é]|
+|tu|aurais|glaviott%[m|é]|
+|il|aurait|glaviott%[m|é]|
+|nous|aurions|glaviott%[m|é]|
+|vous|auriez|glaviott%[m|é]|
+|ils|auraient|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|glaviott%[m|e]|
+|que|tu|glaviott%[m|es]|
+|qu'|il|glaviott%[m|e]|
+|que|nous|glaviott%[m|ions]|
+|que|vous|glaviott%[m|iez]|
+|qu'|ils|glaviott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|glaviott%[m|é]|
+|que|tu|aies|glaviott%[m|é]|
+|qu'|il|ait|glaviott%[m|é]|
+|que|nous|ayons|glaviott%[m|é]|
+|que|vous|ayez|glaviott%[m|é]|
+|qu'|ils|aient|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|glaviott%[m|asse]|
+|que|tu|glaviott%[m|asses]|
+|qu'|il|glaviott%[m|ât]|
+|que|nous|glaviott%[m|assions]|
+|que|vous|glaviott%[m|assiez]|
+|qu'|ils|glaviott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|glaviott%[m|é]|
+|que|tu|eusses|glaviott%[m|é]|
+|qu'|il|eût|glaviott%[m|é]|
+|que|nous|eussions|glaviott%[m|é]|
+|que|vous|eussiez|glaviott%[m|é]|
+|qu'|ils|eussent|glaviott%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|glaviott%[m|e]|
+|glaviott%[m|ons]|
+|glaviott%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|glaviott%[m|é]|
+|ayons|glaviott%[m|é]|
+|ayez|glaviott%[m|é]|
+|]
+

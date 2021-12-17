@@ -1,0 +1,191 @@
+# marger %[clVerbGroup|1]
+[-
+placer une marge sur une feuille de papier. 
+régler la position d'une feuille à imprimer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|marg%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|marg%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|marg%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||marg%[m|é]|
+|ayant|marg%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en marg%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|marg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|marg%[m|e]|
+|tu|marg%[m|es]|
+|il|marg%[m|e]|
+|nous|marg%[m|eons]|
+|vous|marg%[m|ez]|
+|ils|marg%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|marg%[m|é]|
+|tu|as |marg%[m|é]|
+|il|a|marg%[m|é]|
+|nous|avons|marg%[m|é]|
+|vous|avez|marg%[m|é]|
+|ils|ont|marg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|marg%[m|eais]|
+|tu|marg%[m|eais]|
+|il|marg%[m|eait]|
+|nous|marg%[m|ions]|
+|vous|marg%[m|iez]|
+|ils|marg%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|marg%[m|é]|
+|tu|avais|marg%[m|é]|
+|il|avait|marg%[m|é]|
+|nous|avions|marg%[m|é]|
+|vous|aviez|marg%[m|é]|
+|ils|avaient|marg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|marg%[m|eai]|
+|tu|marg%[m|eas]|
+|il|marg%[m|ea]|
+|nous|marg%[m|eâmes]|
+|vous|marg%[m|eâtes]|
+|ils|marg%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|marg%[m|é]|
+|tu|eus|marg%[m|é]|
+|il|eut|marg%[m|é]|
+|nous|e&ucirc;mes|marg%[m|é]|
+|vous|e&ucirc;tes|marg%[m|é]|
+|ils|eurent|marg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|marg%[m|erai]|
+|tu|marg%[m|eras]|
+|il|marg%[m|era]|
+|nous|marg%[m|erons]|
+|vous|marg%[m|erez]|
+|ils|marg%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|marg%[m|é]|
+|tu|auras|marg%[m|é]|
+|il|aura|marg%[m|é]|
+|nous|aurons|marg%[m|é]|
+|vous|aurez|marg%[m|é]|
+|ils|auront|marg%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|marg%[m|erais]|
+|tu|marg%[m|erais]|
+|il|marg%[m|erait]|
+|nous|marg%[m|erions]|
+|vous|marg%[m|eriez]|
+|ils|marg%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|marg%[m|é]|
+|tu|aurais|marg%[m|é]|
+|il|aurait|marg%[m|é]|
+|nous|aurions|marg%[m|é]|
+|vous|auriez|marg%[m|é]|
+|ils|auraient|marg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|marg%[m|e]|
+|que|tu|marg%[m|es]|
+|qu'|il|marg%[m|e]|
+|que|nous|marg%[m|ions]|
+|que|vous|marg%[m|iez]|
+|qu'|ils|marg%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|marg%[m|é]|
+|que|tu|aies|marg%[m|é]|
+|qu'|il|ait|marg%[m|é]|
+|que|nous|ayons|marg%[m|é]|
+|que|vous|ayez|marg%[m|é]|
+|qu'|ils|aient|marg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|marg%[m|easse]|
+|que|tu|marg%[m|easses]|
+|qu'|il|marg%[m|eât]|
+|que|nous|marg%[m|eassions]|
+|que|vous|marg%[m|eassiez]|
+|qu'|ils|marg%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|marg%[m|é]|
+|que|tu|eusses|marg%[m|é]|
+|qu'|il|eût|marg%[m|é]|
+|que|nous|eussions|marg%[m|é]|
+|que|vous|eussiez|marg%[m|é]|
+|qu'|ils|eussent|marg%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|marg%[m|e]|
+|marg%[m|eons]|
+|marg%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|marg%[m|é]|
+|ayons|marg%[m|é]|
+|ayez|marg%[m|é]|
+|]
+

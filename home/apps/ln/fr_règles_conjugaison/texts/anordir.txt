@@ -1,0 +1,190 @@
+# anordir %[clVerbGroup|2]
+[-
+tourner au nord (pour un vent) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|anord%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|anord%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|anord%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||anord%[m|i]|
+|ayant|anord%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en anord%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|anord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|anord%[m|is]|
+|tu|anord%[m|is]|
+|il|anord%[m|it]|
+|nous|anord%[m|issons]|
+|vous|anord%[m|issez]|
+|ils|anord%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|anord%[m|i]|
+|tu|as |anord%[m|i]|
+|il|a|anord%[m|i]|
+|nous|avons|anord%[m|i]|
+|vous|avez|anord%[m|i]|
+|ils|ont|anord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|anord%[m|issais]|
+|tu|anord%[m|issais]|
+|il|anord%[m|issait]|
+|nous|anord%[m|issions]|
+|vous|anord%[m|issiez]|
+|ils|anord%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|anord%[m|i]|
+|tu|avais|anord%[m|i]|
+|il|avait|anord%[m|i]|
+|nous|avions|anord%[m|i]|
+|vous|aviez|anord%[m|i]|
+|ils|avaient|anord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|anord%[m|is]|
+|tu|anord%[m|is]|
+|il|anord%[m|it]|
+|nous|anord%[m|îmes]|
+|vous|anord%[m|îtes]|
+|ils|anord%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|anord%[m|i]|
+|tu|eus|anord%[m|i]|
+|il|eut|anord%[m|i]|
+|nous|e&ucirc;mes|anord%[m|i]|
+|vous|e&ucirc;tes|anord%[m|i]|
+|ils|eurent|anord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|anord%[m|irai]|
+|tu|anord%[m|iras]|
+|il|anord%[m|ira]|
+|nous|anord%[m|irons]|
+|vous|anord%[m|irez]|
+|ils|anord%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|anord%[m|i]|
+|tu|auras|anord%[m|i]|
+|il|aura|anord%[m|i]|
+|nous|aurons|anord%[m|i]|
+|vous|aurez|anord%[m|i]|
+|ils|auront|anord%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|anord%[m|irais]|
+|tu|anord%[m|irais]|
+|il|anord%[m|irait]|
+|nous|anord%[m|irions]|
+|vous|anord%[m|iriez]|
+|ils|anord%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|anord%[m|i]|
+|tu|aurais|anord%[m|i]|
+|il|aurait|anord%[m|i]|
+|nous|aurions|anord%[m|i]|
+|vous|auriez|anord%[m|i]|
+|ils|auraient|anord%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|anord%[m|isse]|
+|que|tu|anord%[m|isses]|
+|qu'|il|anord%[m|isse]|
+|que|nous|anord%[m|issions]|
+|que|vous|anord%[m|issiez]|
+|qu'|ils|anord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|anord%[m|i]|
+|que|tu|aies|anord%[m|i]|
+|qu'|il|ait|anord%[m|i]|
+|que|nous|ayons|anord%[m|i]|
+|que|vous|ayez|anord%[m|i]|
+|qu'|ils|aient|anord%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|anord%[m|isse]|
+|que|tu|anord%[m|isses]|
+|qu'|il|anord%[m|ît]|
+|que|nous|anord%[m|issions]|
+|que|vous|anord%[m|issiez]|
+|qu'|ils|anord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|anord%[m|i]|
+|que|tu|eusses|anord%[m|i]|
+|qu'|il|eût|anord%[m|i]|
+|que|nous|eussions|anord%[m|i]|
+|que|vous|eussiez|anord%[m|i]|
+|qu'|ils|eussent|anord%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|anord%[m|is]|
+|anord%[m|issons]|
+|anord%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|anord%[m|i]|
+|ayons|anord%[m|i]|
+|ayez|anord%[m|i]|
+|]
+

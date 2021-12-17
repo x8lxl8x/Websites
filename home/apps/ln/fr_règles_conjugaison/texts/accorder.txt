@@ -1,0 +1,193 @@
+# accorder %[clVerbGroup|1]
+[-
+consentir à admettre ou à donner. 
+mettre d'accord des personnes. Mettre en accord des choses. 
+ajuster les fréquences harmoniques d'un instrument. 
+établir la correspondance morphologique adéquate entre des mots selon leur fonction ou leur rapport de subordination. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|accord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|accord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|accord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||accord%[m|é]|
+|ayant|accord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en accord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|accord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|accord%[m|e]|
+|tu|accord%[m|es]|
+|il|accord%[m|e]|
+|nous|accord%[m|ons]|
+|vous|accord%[m|ez]|
+|ils|accord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|accord%[m|é]|
+|tu|as |accord%[m|é]|
+|il|a|accord%[m|é]|
+|nous|avons|accord%[m|é]|
+|vous|avez|accord%[m|é]|
+|ils|ont|accord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|accord%[m|ais]|
+|tu|accord%[m|ais]|
+|il|accord%[m|ait]|
+|nous|accord%[m|ions]|
+|vous|accord%[m|iez]|
+|ils|accord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|accord%[m|é]|
+|tu|avais|accord%[m|é]|
+|il|avait|accord%[m|é]|
+|nous|avions|accord%[m|é]|
+|vous|aviez|accord%[m|é]|
+|ils|avaient|accord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|accord%[m|ai]|
+|tu|accord%[m|as]|
+|il|accord%[m|a]|
+|nous|accord%[m|âmes]|
+|vous|accord%[m|âtes]|
+|ils|accord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|accord%[m|é]|
+|tu|eus|accord%[m|é]|
+|il|eut|accord%[m|é]|
+|nous|e&ucirc;mes|accord%[m|é]|
+|vous|e&ucirc;tes|accord%[m|é]|
+|ils|eurent|accord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|accord%[m|erai]|
+|tu|accord%[m|eras]|
+|il|accord%[m|era]|
+|nous|accord%[m|erons]|
+|vous|accord%[m|erez]|
+|ils|accord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|accord%[m|é]|
+|tu|auras|accord%[m|é]|
+|il|aura|accord%[m|é]|
+|nous|aurons|accord%[m|é]|
+|vous|aurez|accord%[m|é]|
+|ils|auront|accord%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|accord%[m|erais]|
+|tu|accord%[m|erais]|
+|il|accord%[m|erait]|
+|nous|accord%[m|erions]|
+|vous|accord%[m|eriez]|
+|ils|accord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|accord%[m|é]|
+|tu|aurais|accord%[m|é]|
+|il|aurait|accord%[m|é]|
+|nous|aurions|accord%[m|é]|
+|vous|auriez|accord%[m|é]|
+|ils|auraient|accord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|accord%[m|e]|
+|que|tu|accord%[m|es]|
+|qu'|il|accord%[m|e]|
+|que|nous|accord%[m|ions]|
+|que|vous|accord%[m|iez]|
+|qu'|ils|accord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|accord%[m|é]|
+|que|tu|aies|accord%[m|é]|
+|qu'|il|ait|accord%[m|é]|
+|que|nous|ayons|accord%[m|é]|
+|que|vous|ayez|accord%[m|é]|
+|qu'|ils|aient|accord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|accord%[m|asse]|
+|que|tu|accord%[m|asses]|
+|qu'|il|accord%[m|ât]|
+|que|nous|accord%[m|assions]|
+|que|vous|accord%[m|assiez]|
+|qu'|ils|accord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|accord%[m|é]|
+|que|tu|eusses|accord%[m|é]|
+|qu'|il|eût|accord%[m|é]|
+|que|nous|eussions|accord%[m|é]|
+|que|vous|eussiez|accord%[m|é]|
+|qu'|ils|eussent|accord%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accord%[m|e]|
+|accord%[m|ons]|
+|accord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|accord%[m|é]|
+|ayons|accord%[m|é]|
+|ayez|accord%[m|é]|
+|]
+

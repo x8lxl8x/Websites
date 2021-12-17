@@ -1,0 +1,190 @@
+# buller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bull%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bull%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bull%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bull%[m|é]|
+|ayant|bull%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bull%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bull%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bull%[m|e]|
+|tu|bull%[m|es]|
+|il|bull%[m|e]|
+|nous|bull%[m|ons]|
+|vous|bull%[m|ez]|
+|ils|bull%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bull%[m|é]|
+|tu|as |bull%[m|é]|
+|il|a|bull%[m|é]|
+|nous|avons|bull%[m|é]|
+|vous|avez|bull%[m|é]|
+|ils|ont|bull%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bull%[m|ais]|
+|tu|bull%[m|ais]|
+|il|bull%[m|ait]|
+|nous|bull%[m|ions]|
+|vous|bull%[m|iez]|
+|ils|bull%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bull%[m|é]|
+|tu|avais|bull%[m|é]|
+|il|avait|bull%[m|é]|
+|nous|avions|bull%[m|é]|
+|vous|aviez|bull%[m|é]|
+|ils|avaient|bull%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bull%[m|ai]|
+|tu|bull%[m|as]|
+|il|bull%[m|a]|
+|nous|bull%[m|âmes]|
+|vous|bull%[m|âtes]|
+|ils|bull%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bull%[m|é]|
+|tu|eus|bull%[m|é]|
+|il|eut|bull%[m|é]|
+|nous|e&ucirc;mes|bull%[m|é]|
+|vous|e&ucirc;tes|bull%[m|é]|
+|ils|eurent|bull%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bull%[m|erai]|
+|tu|bull%[m|eras]|
+|il|bull%[m|era]|
+|nous|bull%[m|erons]|
+|vous|bull%[m|erez]|
+|ils|bull%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bull%[m|é]|
+|tu|auras|bull%[m|é]|
+|il|aura|bull%[m|é]|
+|nous|aurons|bull%[m|é]|
+|vous|aurez|bull%[m|é]|
+|ils|auront|bull%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bull%[m|erais]|
+|tu|bull%[m|erais]|
+|il|bull%[m|erait]|
+|nous|bull%[m|erions]|
+|vous|bull%[m|eriez]|
+|ils|bull%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bull%[m|é]|
+|tu|aurais|bull%[m|é]|
+|il|aurait|bull%[m|é]|
+|nous|aurions|bull%[m|é]|
+|vous|auriez|bull%[m|é]|
+|ils|auraient|bull%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bull%[m|e]|
+|que|tu|bull%[m|es]|
+|qu'|il|bull%[m|e]|
+|que|nous|bull%[m|ions]|
+|que|vous|bull%[m|iez]|
+|qu'|ils|bull%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bull%[m|é]|
+|que|tu|aies|bull%[m|é]|
+|qu'|il|ait|bull%[m|é]|
+|que|nous|ayons|bull%[m|é]|
+|que|vous|ayez|bull%[m|é]|
+|qu'|ils|aient|bull%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bull%[m|asse]|
+|que|tu|bull%[m|asses]|
+|qu'|il|bull%[m|ât]|
+|que|nous|bull%[m|assions]|
+|que|vous|bull%[m|assiez]|
+|qu'|ils|bull%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bull%[m|é]|
+|que|tu|eusses|bull%[m|é]|
+|qu'|il|eût|bull%[m|é]|
+|que|nous|eussions|bull%[m|é]|
+|que|vous|eussiez|bull%[m|é]|
+|qu'|ils|eussent|bull%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bull%[m|e]|
+|bull%[m|ons]|
+|bull%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bull%[m|é]|
+|ayons|bull%[m|é]|
+|ayez|bull%[m|é]|
+|]
+

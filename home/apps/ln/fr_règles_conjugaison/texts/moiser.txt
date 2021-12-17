@@ -1,0 +1,190 @@
+# moiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mois%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mois%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mois%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mois%[m|é]|
+|ayant|mois%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mois%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mois%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mois%[m|e]|
+|tu|mois%[m|es]|
+|il|mois%[m|e]|
+|nous|mois%[m|ons]|
+|vous|mois%[m|ez]|
+|ils|mois%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mois%[m|é]|
+|tu|as |mois%[m|é]|
+|il|a|mois%[m|é]|
+|nous|avons|mois%[m|é]|
+|vous|avez|mois%[m|é]|
+|ils|ont|mois%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mois%[m|ais]|
+|tu|mois%[m|ais]|
+|il|mois%[m|ait]|
+|nous|mois%[m|ions]|
+|vous|mois%[m|iez]|
+|ils|mois%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mois%[m|é]|
+|tu|avais|mois%[m|é]|
+|il|avait|mois%[m|é]|
+|nous|avions|mois%[m|é]|
+|vous|aviez|mois%[m|é]|
+|ils|avaient|mois%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mois%[m|ai]|
+|tu|mois%[m|as]|
+|il|mois%[m|a]|
+|nous|mois%[m|âmes]|
+|vous|mois%[m|âtes]|
+|ils|mois%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mois%[m|é]|
+|tu|eus|mois%[m|é]|
+|il|eut|mois%[m|é]|
+|nous|e&ucirc;mes|mois%[m|é]|
+|vous|e&ucirc;tes|mois%[m|é]|
+|ils|eurent|mois%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mois%[m|erai]|
+|tu|mois%[m|eras]|
+|il|mois%[m|era]|
+|nous|mois%[m|erons]|
+|vous|mois%[m|erez]|
+|ils|mois%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mois%[m|é]|
+|tu|auras|mois%[m|é]|
+|il|aura|mois%[m|é]|
+|nous|aurons|mois%[m|é]|
+|vous|aurez|mois%[m|é]|
+|ils|auront|mois%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mois%[m|erais]|
+|tu|mois%[m|erais]|
+|il|mois%[m|erait]|
+|nous|mois%[m|erions]|
+|vous|mois%[m|eriez]|
+|ils|mois%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mois%[m|é]|
+|tu|aurais|mois%[m|é]|
+|il|aurait|mois%[m|é]|
+|nous|aurions|mois%[m|é]|
+|vous|auriez|mois%[m|é]|
+|ils|auraient|mois%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mois%[m|e]|
+|que|tu|mois%[m|es]|
+|qu'|il|mois%[m|e]|
+|que|nous|mois%[m|ions]|
+|que|vous|mois%[m|iez]|
+|qu'|ils|mois%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mois%[m|é]|
+|que|tu|aies|mois%[m|é]|
+|qu'|il|ait|mois%[m|é]|
+|que|nous|ayons|mois%[m|é]|
+|que|vous|ayez|mois%[m|é]|
+|qu'|ils|aient|mois%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mois%[m|asse]|
+|que|tu|mois%[m|asses]|
+|qu'|il|mois%[m|ât]|
+|que|nous|mois%[m|assions]|
+|que|vous|mois%[m|assiez]|
+|qu'|ils|mois%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mois%[m|é]|
+|que|tu|eusses|mois%[m|é]|
+|qu'|il|eût|mois%[m|é]|
+|que|nous|eussions|mois%[m|é]|
+|que|vous|eussiez|mois%[m|é]|
+|qu'|ils|eussent|mois%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mois%[m|e]|
+|mois%[m|ons]|
+|mois%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mois%[m|é]|
+|ayons|mois%[m|é]|
+|ayez|mois%[m|é]|
+|]
+

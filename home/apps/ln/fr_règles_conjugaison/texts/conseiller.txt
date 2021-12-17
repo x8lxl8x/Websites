@@ -1,0 +1,190 @@
+# conseiller %[clVerbGroup|1]
+[-
+donner un conseil à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|conseill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|conseill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|conseill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||conseill%[m|é]|
+|ayant|conseill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en conseill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|conseill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|conseill%[m|e]|
+|tu|conseill%[m|es]|
+|il|conseill%[m|e]|
+|nous|conseill%[m|ons]|
+|vous|conseill%[m|ez]|
+|ils|conseill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|conseill%[m|é]|
+|tu|as |conseill%[m|é]|
+|il|a|conseill%[m|é]|
+|nous|avons|conseill%[m|é]|
+|vous|avez|conseill%[m|é]|
+|ils|ont|conseill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|conseill%[m|ais]|
+|tu|conseill%[m|ais]|
+|il|conseill%[m|ait]|
+|nous|conseill%[m|ions]|
+|vous|conseill%[m|iez]|
+|ils|conseill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|conseill%[m|é]|
+|tu|avais|conseill%[m|é]|
+|il|avait|conseill%[m|é]|
+|nous|avions|conseill%[m|é]|
+|vous|aviez|conseill%[m|é]|
+|ils|avaient|conseill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|conseill%[m|ai]|
+|tu|conseill%[m|as]|
+|il|conseill%[m|a]|
+|nous|conseill%[m|âmes]|
+|vous|conseill%[m|âtes]|
+|ils|conseill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|conseill%[m|é]|
+|tu|eus|conseill%[m|é]|
+|il|eut|conseill%[m|é]|
+|nous|e&ucirc;mes|conseill%[m|é]|
+|vous|e&ucirc;tes|conseill%[m|é]|
+|ils|eurent|conseill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|conseill%[m|erai]|
+|tu|conseill%[m|eras]|
+|il|conseill%[m|era]|
+|nous|conseill%[m|erons]|
+|vous|conseill%[m|erez]|
+|ils|conseill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|conseill%[m|é]|
+|tu|auras|conseill%[m|é]|
+|il|aura|conseill%[m|é]|
+|nous|aurons|conseill%[m|é]|
+|vous|aurez|conseill%[m|é]|
+|ils|auront|conseill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|conseill%[m|erais]|
+|tu|conseill%[m|erais]|
+|il|conseill%[m|erait]|
+|nous|conseill%[m|erions]|
+|vous|conseill%[m|eriez]|
+|ils|conseill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|conseill%[m|é]|
+|tu|aurais|conseill%[m|é]|
+|il|aurait|conseill%[m|é]|
+|nous|aurions|conseill%[m|é]|
+|vous|auriez|conseill%[m|é]|
+|ils|auraient|conseill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|conseill%[m|e]|
+|que|tu|conseill%[m|es]|
+|qu'|il|conseill%[m|e]|
+|que|nous|conseill%[m|ions]|
+|que|vous|conseill%[m|iez]|
+|qu'|ils|conseill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|conseill%[m|é]|
+|que|tu|aies|conseill%[m|é]|
+|qu'|il|ait|conseill%[m|é]|
+|que|nous|ayons|conseill%[m|é]|
+|que|vous|ayez|conseill%[m|é]|
+|qu'|ils|aient|conseill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|conseill%[m|asse]|
+|que|tu|conseill%[m|asses]|
+|qu'|il|conseill%[m|ât]|
+|que|nous|conseill%[m|assions]|
+|que|vous|conseill%[m|assiez]|
+|qu'|ils|conseill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|conseill%[m|é]|
+|que|tu|eusses|conseill%[m|é]|
+|qu'|il|eût|conseill%[m|é]|
+|que|nous|eussions|conseill%[m|é]|
+|que|vous|eussiez|conseill%[m|é]|
+|qu'|ils|eussent|conseill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|conseill%[m|e]|
+|conseill%[m|ons]|
+|conseill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|conseill%[m|é]|
+|ayons|conseill%[m|é]|
+|ayez|conseill%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se teinter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se teint%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|teint%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se teint%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|teint%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se teint%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|teint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|teint%[m|e]|
+|tu|te|teint%[m|es]|
+|il|se|teint%[m|e]|
+|nous|nous|teint%[m|ons]|
+|vous|vous|teint%[m|ez]|
+|ils|se|teint%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|teint%[m|é]|
+|tu|t'|es|teint%[m|é]|
+|il|s'|est|teint%[m|é]|
+|nous|nous|sommes|teint%[m|és]|
+|vous|vous|êtes|teint%[m|és]|
+|ils|se|sont|teint%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|teint%[m|ais]|
+|tu|te|teint%[m|ais]|
+|il|se|teint%[m|ait]|
+|nous|nous|teint%[m|ions]|
+|vous|vous|teint%[m|iez]|
+|ils|se|teint%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|teint%[m|é]|
+|tu|t'|étais|teint%[m|é]|
+|il|s'|était|teint%[m|é]|
+|nous|nous|étions|teint%[m|és]|
+|vous|vous|étiez|teint%[m|és]|
+|ils|s'|étaient|teint%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|teint%[m|ai]|
+|tu|te|teint%[m|as]|
+|il|se|teint%[m|a]|
+|nous|nous|teint%[m|âmes]|
+|vous|vous|teint%[m|âtes]|
+|ils|se|teint%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|teint%[m|é]|
+|tu|te|fus|teint%[m|é]|
+|il|se|fut|teint%[m|é]|
+|nous|nous|fûmes|teint%[m|és]|
+|vous|vous|fûtes|teint%[m|és]|
+|ils|se|furent|teint%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|teint%[m|erai]|
+|tu|te|teint%[m|eras]|
+|il|se|teint%[m|era]|
+|nous|nous|teint%[m|erons]|
+|vous|vous|teint%[m|erez]|
+|ils|se|teint%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|teint%[m|é]|
+|tu|te|seras|teint%[m|é]|
+|il|se|sera|teint%[m|é]|
+|nous|nous|serons|teint%[m|és]|
+|vous|vous|serez|teint%[m|és]|
+|ils|se|seront|teint%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|teint%[m|erais]|
+|tu|te|teint%[m|erais]|
+|il|se|teint%[m|erait]|
+|nous|nous|teint%[m|erions]|
+|vous|vous|teint%[m|eriez]|
+|ils|se|teint%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|teint%[m|é]|
+|tu|te|serais|teint%[m|é]|
+|il|se|serait|teint%[m|é]|
+|nous|nous|serions|teint%[m|és]|
+|vous|vous|seriez|teint%[m|és]|
+|ils|se|seraient|teint%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|teint%[m|e]|
+|que|tu|te|teint%[m|es]|
+|qu'|il|se|teint%[m|e]|
+|que|nous|nous|teint%[m|ions]|
+|que|vous|vous|teint%[m|iez]|
+|qu'|ils|se|teint%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|teint%[m|é]|
+|que|tu|te|sois|teint%[m|é]|
+|qu'|il|se|soit|teint%[m|é]|
+|que|nous|nous|soyons|teint%[m|és]|
+|que|vous|vous|soyez|teint%[m|és]|
+|qu'|ils|se|soient|teint%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|teint%[m|asse]|
+|que|tu|te|teint%[m|asses]|
+|qu'|il|se|teint%[m|ât]|
+|que|nous|nous|teint%[m|assions]|
+|que|vous|vous|teint%[m|assiez]|
+|qu'|ils|se|teint%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|teint%[m|é]|
+|que|tu|te|fusses|teint%[m|é]|
+|qu'|il|se|fût|teint%[m|é]|
+|que|nous|nous|fussions|teint%[m|és]|
+|que|vous|vous|fussiez|teint%[m|és]|
+|qu'|ils|se|fussent|teint%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|teint%[m|e]-toi|
+|teint%[m|ons]-nous|
+|teint%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

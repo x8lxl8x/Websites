@@ -1,0 +1,191 @@
+# invoquer %[clVerbGroup|1]
+[-
+prier pour une aide (ex. invoquer le Ciel) 
+recourir à (ex. invoquer une loi) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|invoqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|invoqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||invoqu%[m|é]|
+|ayant|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en invoqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|invoqu%[m|e]|
+|tu|invoqu%[m|es]|
+|il|invoqu%[m|e]|
+|nous|invoqu%[m|ons]|
+|vous|invoqu%[m|ez]|
+|ils|invoqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|invoqu%[m|é]|
+|tu|as |invoqu%[m|é]|
+|il|a|invoqu%[m|é]|
+|nous|avons|invoqu%[m|é]|
+|vous|avez|invoqu%[m|é]|
+|ils|ont|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|invoqu%[m|ais]|
+|tu|invoqu%[m|ais]|
+|il|invoqu%[m|ait]|
+|nous|invoqu%[m|ions]|
+|vous|invoqu%[m|iez]|
+|ils|invoqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|invoqu%[m|é]|
+|tu|avais|invoqu%[m|é]|
+|il|avait|invoqu%[m|é]|
+|nous|avions|invoqu%[m|é]|
+|vous|aviez|invoqu%[m|é]|
+|ils|avaient|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|invoqu%[m|ai]|
+|tu|invoqu%[m|as]|
+|il|invoqu%[m|a]|
+|nous|invoqu%[m|âmes]|
+|vous|invoqu%[m|âtes]|
+|ils|invoqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|invoqu%[m|é]|
+|tu|eus|invoqu%[m|é]|
+|il|eut|invoqu%[m|é]|
+|nous|e&ucirc;mes|invoqu%[m|é]|
+|vous|e&ucirc;tes|invoqu%[m|é]|
+|ils|eurent|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|invoqu%[m|erai]|
+|tu|invoqu%[m|eras]|
+|il|invoqu%[m|era]|
+|nous|invoqu%[m|erons]|
+|vous|invoqu%[m|erez]|
+|ils|invoqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|invoqu%[m|é]|
+|tu|auras|invoqu%[m|é]|
+|il|aura|invoqu%[m|é]|
+|nous|aurons|invoqu%[m|é]|
+|vous|aurez|invoqu%[m|é]|
+|ils|auront|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|invoqu%[m|erais]|
+|tu|invoqu%[m|erais]|
+|il|invoqu%[m|erait]|
+|nous|invoqu%[m|erions]|
+|vous|invoqu%[m|eriez]|
+|ils|invoqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|invoqu%[m|é]|
+|tu|aurais|invoqu%[m|é]|
+|il|aurait|invoqu%[m|é]|
+|nous|aurions|invoqu%[m|é]|
+|vous|auriez|invoqu%[m|é]|
+|ils|auraient|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|invoqu%[m|e]|
+|que|tu|invoqu%[m|es]|
+|qu'|il|invoqu%[m|e]|
+|que|nous|invoqu%[m|ions]|
+|que|vous|invoqu%[m|iez]|
+|qu'|ils|invoqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|invoqu%[m|é]|
+|que|tu|aies|invoqu%[m|é]|
+|qu'|il|ait|invoqu%[m|é]|
+|que|nous|ayons|invoqu%[m|é]|
+|que|vous|ayez|invoqu%[m|é]|
+|qu'|ils|aient|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|invoqu%[m|asse]|
+|que|tu|invoqu%[m|asses]|
+|qu'|il|invoqu%[m|ât]|
+|que|nous|invoqu%[m|assions]|
+|que|vous|invoqu%[m|assiez]|
+|qu'|ils|invoqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|invoqu%[m|é]|
+|que|tu|eusses|invoqu%[m|é]|
+|qu'|il|eût|invoqu%[m|é]|
+|que|nous|eussions|invoqu%[m|é]|
+|que|vous|eussiez|invoqu%[m|é]|
+|qu'|ils|eussent|invoqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|invoqu%[m|e]|
+|invoqu%[m|ons]|
+|invoqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|invoqu%[m|é]|
+|ayons|invoqu%[m|é]|
+|ayez|invoqu%[m|é]|
+|]
+

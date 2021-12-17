@@ -1,0 +1,190 @@
+# atteler %[clVerbGroup|1]
+[-
+attacher des bêtes à un véhicule pour qu'elles le tirent. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|attel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|attel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|attel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||attel%[m|é]|
+|ayant|attel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en attel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|attel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|attel%[m|l]%[m|e]|
+|tu|attel%[m|l]%[m|es]|
+|il|attel%[m|l]%[m|e]|
+|nous|attel%[m|]%[m|ons]|
+|vous|attel%[m|]%[m|ez]|
+|ils|attel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|attel%[m|é]|
+|tu|as |attel%[m|é]|
+|il|a|attel%[m|é]|
+|nous|avons|attel%[m|é]|
+|vous|avez|attel%[m|é]|
+|ils|ont|attel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|attel%[m|]%[m|ais]|
+|tu|attel%[m|]%[m|ais]|
+|il|attel%[m|]%[m|ait]|
+|nous|attel%[m|]%[m|ions]|
+|vous|attel%[m|]%[m|iez]|
+|ils|attel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|attel%[m|é]|
+|tu|avais|attel%[m|é]|
+|il|avait|attel%[m|é]|
+|nous|avions|attel%[m|é]|
+|vous|aviez|attel%[m|é]|
+|ils|avaient|attel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|attel%[m|]%[m|ai]|
+|tu|attel%[m|]%[m|as]|
+|il|attel%[m|]%[m|a]|
+|nous|attel%[m|]%[m|âmes]|
+|vous|attel%[m|]%[m|âtes]|
+|ils|attel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|attel%[m|é]|
+|tu|eus|attel%[m|é]|
+|il|eut|attel%[m|é]|
+|nous|e&ucirc;mes|attel%[m|é]|
+|vous|e&ucirc;tes|attel%[m|é]|
+|ils|eurent|attel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|attel%[m|l]%[m|erai]|
+|tu|attel%[m|l]%[m|eras]|
+|il|attel%[m|l]%[m|era]|
+|nous|attel%[m|l]%[m|erons]|
+|vous|attel%[m|l]%[m|erez]|
+|ils|attel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|attel%[m|é]|
+|tu|auras|attel%[m|é]|
+|il|aura|attel%[m|é]|
+|nous|aurons|attel%[m|é]|
+|vous|aurez|attel%[m|é]|
+|ils|auront|attel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|attel%[m|l]%[m|erais]|
+|tu|attel%[m|l]%[m|erais]|
+|il|attel%[m|l]%[m|erait]|
+|nous|attel%[m|l]%[m|erions]|
+|vous|attel%[m|l]%[m|eriez]|
+|ils|attel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|attel%[m|é]|
+|tu|aurais|attel%[m|é]|
+|il|aurait|attel%[m|é]|
+|nous|aurions|attel%[m|é]|
+|vous|auriez|attel%[m|é]|
+|ils|auraient|attel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|attel%[m|l]%[m|e]|
+|que|tu|attel%[m|l]%[m|es]|
+|qu'|il|attel%[m|l]%[m|e]|
+|que|nous|attel%[m|]%[m|ions]|
+|que|vous|attel%[m|]%[m|iez]|
+|qu'|ils|attel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|attel%[m|é]|
+|que|tu|aies|attel%[m|é]|
+|qu'|il|ait|attel%[m|é]|
+|que|nous|ayons|attel%[m|é]|
+|que|vous|ayez|attel%[m|é]|
+|qu'|ils|aient|attel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|attel%[m|]%[m|asse]|
+|que|tu|attel%[m|]%[m|asses]|
+|qu'|il|attel%[m|]%[m|ât]|
+|que|nous|attel%[m|]%[m|assions]|
+|que|vous|attel%[m|]%[m|assiez]|
+|qu'|ils|attel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|attel%[m|é]|
+|que|tu|eusses|attel%[m|é]|
+|qu'|il|eût|attel%[m|é]|
+|que|nous|eussions|attel%[m|é]|
+|que|vous|eussiez|attel%[m|é]|
+|qu'|ils|eussent|attel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attel%[m|l]%[m|e]|
+|attel%[m|]%[m|ons]|
+|attel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|attel%[m|é]|
+|ayons|attel%[m|é]|
+|ayez|attel%[m|é]|
+|]
+

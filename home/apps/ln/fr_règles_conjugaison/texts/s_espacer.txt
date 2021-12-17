@@ -1,0 +1,191 @@
+# s'espacer %[clVerbGroup|1]
+[-
+laisser un espace entre. 
+séparer par un intervalle de temps. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'espa%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|espa%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'espa%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|espa%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'espa%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|espa%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|espa%[m|ce]|
+|tu|t'|espa%[m|ces]|
+|il|s'|espa%[m|ce]|
+|nous|nous|espa%[m|çons]|
+|vous|vous|espa%[m|cez]|
+|ils|s'|espa%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|espa%[m|cé]|
+|tu|t'|es|espa%[m|cé]|
+|il|s'|est|espa%[m|cé]|
+|nous|nous|sommes|espa%[m|cés]|
+|vous|vous|êtes|espa%[m|cés]|
+|ils|se|sont|espa%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|espa%[m|çais]|
+|tu|t'|espa%[m|çais]|
+|il|s'|espa%[m|çait]|
+|nous|nous|espa%[m|cions]|
+|vous|vous|espa%[m|ciez]|
+|ils|s'|espa%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|espa%[m|cé]|
+|tu|t'|étais|espa%[m|cé]|
+|il|s'|était|espa%[m|cé]|
+|nous|nous|étions|espa%[m|cés]|
+|vous|vous|étiez|espa%[m|cés]|
+|ils|s'|étaient|espa%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|espa%[m|çai]|
+|tu|t'|espa%[m|ças]|
+|il|s'|espa%[m|ça]|
+|nous|nous|espa%[m|çâmes]|
+|vous|vous|espa%[m|çâtes]|
+|ils|s'|espa%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|espa%[m|cé]|
+|tu|te|fus|espa%[m|cé]|
+|il|se|fut|espa%[m|cé]|
+|nous|nous|fûmes|espa%[m|cés]|
+|vous|vous|fûtes|espa%[m|cés]|
+|ils|se|furent|espa%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|espa%[m|cerai]|
+|tu|t'|espa%[m|ceras]|
+|il|s'|espa%[m|cera]|
+|nous|nous|espa%[m|cerons]|
+|vous|vous|espa%[m|cerez]|
+|ils|s'|espa%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|espa%[m|cé]|
+|tu|te|seras|espa%[m|cé]|
+|il|se|sera|espa%[m|cé]|
+|nous|nous|serons|espa%[m|cés]|
+|vous|vous|serez|espa%[m|cés]|
+|ils|se|seront|espa%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|espa%[m|cerais]|
+|tu|t'|espa%[m|cerais]|
+|il|s'|espa%[m|cerait]|
+|nous|nous|espa%[m|cerions]|
+|vous|vous|espa%[m|ceriez]|
+|ils|s'|espa%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|espa%[m|cé]|
+|tu|te|serais|espa%[m|cé]|
+|il|se|serait|espa%[m|cé]|
+|nous|nous|serions|espa%[m|cés]|
+|vous|vous|seriez|espa%[m|cés]|
+|ils|se|seraient|espa%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|espa%[m|ce]|
+|que|tu|t'|espa%[m|ces]|
+|qu'|il|s'|espa%[m|ce]|
+|que|nous|nous|espa%[m|cions]|
+|que|vous|vous|espa%[m|ciez]|
+|qu'|ils|s'|espa%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|espa%[m|cé]|
+|que|tu|te|sois|espa%[m|cé]|
+|qu'|il|se|soit|espa%[m|cé]|
+|que|nous|nous|soyons|espa%[m|cés]|
+|que|vous|vous|soyez|espa%[m|cés]|
+|qu'|ils|se|soient|espa%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|espa%[m|çasse]|
+|que|tu|t'|espa%[m|çasses]|
+|qu'|il|s'|espa%[m|çât]|
+|que|nous|nous|espa%[m|çassions]|
+|que|vous|vous|espa%[m|çassiez]|
+|qu'|ils|s'|espa%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|espa%[m|cé]|
+|que|tu|te|fusses|espa%[m|cé]|
+|qu'|il|se|fût|espa%[m|cé]|
+|que|nous|nous|fussions|espa%[m|cés]|
+|que|vous|vous|fussiez|espa%[m|cés]|
+|qu'|ils|se|fussent|espa%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|espa%[m|ce]-toi|
+|espa%[m|çons]-nous|
+|espa%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

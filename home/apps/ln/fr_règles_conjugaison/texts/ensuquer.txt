@@ -1,0 +1,190 @@
+# ensuquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ensuqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ensuqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ensuqu%[m|é]|
+|ayant|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ensuqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ensuqu%[m|e]|
+|tu|ensuqu%[m|es]|
+|il|ensuqu%[m|e]|
+|nous|ensuqu%[m|ons]|
+|vous|ensuqu%[m|ez]|
+|ils|ensuqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ensuqu%[m|é]|
+|tu|as |ensuqu%[m|é]|
+|il|a|ensuqu%[m|é]|
+|nous|avons|ensuqu%[m|é]|
+|vous|avez|ensuqu%[m|é]|
+|ils|ont|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ensuqu%[m|ais]|
+|tu|ensuqu%[m|ais]|
+|il|ensuqu%[m|ait]|
+|nous|ensuqu%[m|ions]|
+|vous|ensuqu%[m|iez]|
+|ils|ensuqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ensuqu%[m|é]|
+|tu|avais|ensuqu%[m|é]|
+|il|avait|ensuqu%[m|é]|
+|nous|avions|ensuqu%[m|é]|
+|vous|aviez|ensuqu%[m|é]|
+|ils|avaient|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ensuqu%[m|ai]|
+|tu|ensuqu%[m|as]|
+|il|ensuqu%[m|a]|
+|nous|ensuqu%[m|âmes]|
+|vous|ensuqu%[m|âtes]|
+|ils|ensuqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ensuqu%[m|é]|
+|tu|eus|ensuqu%[m|é]|
+|il|eut|ensuqu%[m|é]|
+|nous|e&ucirc;mes|ensuqu%[m|é]|
+|vous|e&ucirc;tes|ensuqu%[m|é]|
+|ils|eurent|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ensuqu%[m|erai]|
+|tu|ensuqu%[m|eras]|
+|il|ensuqu%[m|era]|
+|nous|ensuqu%[m|erons]|
+|vous|ensuqu%[m|erez]|
+|ils|ensuqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ensuqu%[m|é]|
+|tu|auras|ensuqu%[m|é]|
+|il|aura|ensuqu%[m|é]|
+|nous|aurons|ensuqu%[m|é]|
+|vous|aurez|ensuqu%[m|é]|
+|ils|auront|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ensuqu%[m|erais]|
+|tu|ensuqu%[m|erais]|
+|il|ensuqu%[m|erait]|
+|nous|ensuqu%[m|erions]|
+|vous|ensuqu%[m|eriez]|
+|ils|ensuqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ensuqu%[m|é]|
+|tu|aurais|ensuqu%[m|é]|
+|il|aurait|ensuqu%[m|é]|
+|nous|aurions|ensuqu%[m|é]|
+|vous|auriez|ensuqu%[m|é]|
+|ils|auraient|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ensuqu%[m|e]|
+|que|tu|ensuqu%[m|es]|
+|qu'|il|ensuqu%[m|e]|
+|que|nous|ensuqu%[m|ions]|
+|que|vous|ensuqu%[m|iez]|
+|qu'|ils|ensuqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ensuqu%[m|é]|
+|que|tu|aies|ensuqu%[m|é]|
+|qu'|il|ait|ensuqu%[m|é]|
+|que|nous|ayons|ensuqu%[m|é]|
+|que|vous|ayez|ensuqu%[m|é]|
+|qu'|ils|aient|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ensuqu%[m|asse]|
+|que|tu|ensuqu%[m|asses]|
+|qu'|il|ensuqu%[m|ât]|
+|que|nous|ensuqu%[m|assions]|
+|que|vous|ensuqu%[m|assiez]|
+|qu'|ils|ensuqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ensuqu%[m|é]|
+|que|tu|eusses|ensuqu%[m|é]|
+|qu'|il|eût|ensuqu%[m|é]|
+|que|nous|eussions|ensuqu%[m|é]|
+|que|vous|eussiez|ensuqu%[m|é]|
+|qu'|ils|eussent|ensuqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ensuqu%[m|e]|
+|ensuqu%[m|ons]|
+|ensuqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ensuqu%[m|é]|
+|ayons|ensuqu%[m|é]|
+|ayez|ensuqu%[m|é]|
+|]
+

@@ -1,0 +1,54 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="250" height="250" id="svg2">
+  <defs id="defs4"></defs>
+  <metadata id="metadata7"></metadata>
+  <g id="layer1">
+    <path d="m 221.42858,133.92857 a 89.64286,89.64286 0 1 1 -179.28572,0 89.64286,89.64286 0 1 1 179.28572,0 z" transform="matrix(0.873372,0,0,0.873372,7.97343,6.95906)" id="path1323" style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.22099996;stroke-miterlimit:4;stroke-opacity:0.49803922;stroke-dasharray:none"></path>
+    <path d="m 128.57143,130.35715 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z" transform="translate(-2,-6)" id="path4819" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.22099996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+    <path d="m 215.00001,158.21428 a 58.214287,58.214287 0 1 1 -116.428576,0 58.214287,58.214287 0 1 1 116.428576,0 z" transform="matrix(0.933217,0,0,0.933217,-22.17203,-22.64804)" id="path4821" style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.22099996;stroke-miterlimit:4;stroke-opacity:0.49803922;stroke-dasharray:none"></path>
+    <path d="m 169.28572,140.71428 a 31.428572,31.428572 0 1 1 -62.85714,0 31.428572,31.428572 0 1 1 62.85714,0 z" transform="translate(-14,-16)" id="path5698" style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.22099996;stroke-miterlimit:4;stroke-opacity:0.49803922;stroke-dasharray:none"></path>
+    <path d="m 123.57143,34.285714 0,89.999996 90.71428,0" id="path5700" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"></path>
+    <path d="m 123.57143,214.28571 0,-90 -89.285716,0" id="path5702" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"></path>
+    <path d="M 168.59523,47.539383 124.28571,124.28571 201.85485,79.501149" id="path5704" style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686"></path>
+    <path d="M 78.882564,202.40338 123.57143,125 46.002295,169.78456" id="path5708" style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686"></path>
+    <path d="M 79.642855,48.928571 169.3427,204.29325" id="path5718" style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686"></path>
+    <path d="M 46.785714,79.999999 202.00685,169.61697" id="path5720" style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686"></path>
+    <text x="115" y="30.285713" id="text5758" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="115" y="30.285713" id="tspan5760">90</tspan>
+    </text>
+    <text x="164.57143" y="43.857143" id="text5762" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="164.57143" y="43.857143" id="tspan5764">60</tspan>
+    </text>
+    <text x="204.14285" y="78.14286" id="text5766" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="204.14285" y="78.14286" id="tspan5768">30</tspan>
+    </text>
+    <text x="217.85715" y="128.42857" id="text5770" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="217.85715" y="128.42857" id="tspan5772">0</tspan>
+    </text>
+    <text x="206.42857" y="176" id="text5774" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="206.42857" y="176" id="tspan5776">330</tspan>
+    </text>
+    <text x="168.57143" y="211.14285" id="text5778" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="168.57143" y="211.14285" id="tspan5780">300</tspan>
+    </text>
+    <text x="111.71429" y="224.57143" id="text5782" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="111.71429" y="224.57143" id="tspan5784">270</tspan>
+    </text>
+    <text x="62.857143" y="214.85715" id="text5786" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="62.857143" y="214.85715" id="tspan5788">240</tspan>
+    </text>
+    <text x="19.142857" y="179.28571" id="text5790" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="19.142857" y="179.28571" id="tspan5792">210</tspan>
+    </text>
+    <text x="4" y="128.57143" id="text5794" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="4" y="128.57143" id="tspan5796">180</tspan>
+    </text>
+    <text x="19.571428" y="82" id="text5798" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="19.571428" y="82" id="tspan5800">150</tspan>
+    </text>
+    <text x="56.714287" y="46.285713" id="text5802" xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <tspan x="56.714287" y="46.285713" id="tspan5804">120</tspan>
+    </text>
+    <path d="m 60,48.214287 a 21.25,21.785715 0 1 1 -42.5,0 21.25,21.785715 0 1 1 42.5,0 z" transform="matrix(0.151261,0,0,0.147541,117.9332,117.3954)" id="path15420" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"></path>
+  </g>
+</svg>

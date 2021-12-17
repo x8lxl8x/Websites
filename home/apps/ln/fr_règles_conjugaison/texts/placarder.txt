@@ -1,0 +1,190 @@
+# placarder %[clVerbGroup|1]
+[-
+afficher sur les murs. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|placard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|placard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|placard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||placard%[m|é]|
+|ayant|placard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en placard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|placard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|placard%[m|e]|
+|tu|placard%[m|es]|
+|il|placard%[m|e]|
+|nous|placard%[m|ons]|
+|vous|placard%[m|ez]|
+|ils|placard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|placard%[m|é]|
+|tu|as |placard%[m|é]|
+|il|a|placard%[m|é]|
+|nous|avons|placard%[m|é]|
+|vous|avez|placard%[m|é]|
+|ils|ont|placard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|placard%[m|ais]|
+|tu|placard%[m|ais]|
+|il|placard%[m|ait]|
+|nous|placard%[m|ions]|
+|vous|placard%[m|iez]|
+|ils|placard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|placard%[m|é]|
+|tu|avais|placard%[m|é]|
+|il|avait|placard%[m|é]|
+|nous|avions|placard%[m|é]|
+|vous|aviez|placard%[m|é]|
+|ils|avaient|placard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|placard%[m|ai]|
+|tu|placard%[m|as]|
+|il|placard%[m|a]|
+|nous|placard%[m|âmes]|
+|vous|placard%[m|âtes]|
+|ils|placard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|placard%[m|é]|
+|tu|eus|placard%[m|é]|
+|il|eut|placard%[m|é]|
+|nous|e&ucirc;mes|placard%[m|é]|
+|vous|e&ucirc;tes|placard%[m|é]|
+|ils|eurent|placard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|placard%[m|erai]|
+|tu|placard%[m|eras]|
+|il|placard%[m|era]|
+|nous|placard%[m|erons]|
+|vous|placard%[m|erez]|
+|ils|placard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|placard%[m|é]|
+|tu|auras|placard%[m|é]|
+|il|aura|placard%[m|é]|
+|nous|aurons|placard%[m|é]|
+|vous|aurez|placard%[m|é]|
+|ils|auront|placard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|placard%[m|erais]|
+|tu|placard%[m|erais]|
+|il|placard%[m|erait]|
+|nous|placard%[m|erions]|
+|vous|placard%[m|eriez]|
+|ils|placard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|placard%[m|é]|
+|tu|aurais|placard%[m|é]|
+|il|aurait|placard%[m|é]|
+|nous|aurions|placard%[m|é]|
+|vous|auriez|placard%[m|é]|
+|ils|auraient|placard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|placard%[m|e]|
+|que|tu|placard%[m|es]|
+|qu'|il|placard%[m|e]|
+|que|nous|placard%[m|ions]|
+|que|vous|placard%[m|iez]|
+|qu'|ils|placard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|placard%[m|é]|
+|que|tu|aies|placard%[m|é]|
+|qu'|il|ait|placard%[m|é]|
+|que|nous|ayons|placard%[m|é]|
+|que|vous|ayez|placard%[m|é]|
+|qu'|ils|aient|placard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|placard%[m|asse]|
+|que|tu|placard%[m|asses]|
+|qu'|il|placard%[m|ât]|
+|que|nous|placard%[m|assions]|
+|que|vous|placard%[m|assiez]|
+|qu'|ils|placard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|placard%[m|é]|
+|que|tu|eusses|placard%[m|é]|
+|qu'|il|eût|placard%[m|é]|
+|que|nous|eussions|placard%[m|é]|
+|que|vous|eussiez|placard%[m|é]|
+|qu'|ils|eussent|placard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|placard%[m|e]|
+|placard%[m|ons]|
+|placard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|placard%[m|é]|
+|ayons|placard%[m|é]|
+|ayez|placard%[m|é]|
+|]
+

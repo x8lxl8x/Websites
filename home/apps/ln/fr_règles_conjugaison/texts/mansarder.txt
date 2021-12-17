@@ -1,0 +1,190 @@
+# mansarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mansard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mansard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mansard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mansard%[m|é]|
+|ayant|mansard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mansard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mansard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mansard%[m|e]|
+|tu|mansard%[m|es]|
+|il|mansard%[m|e]|
+|nous|mansard%[m|ons]|
+|vous|mansard%[m|ez]|
+|ils|mansard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mansard%[m|é]|
+|tu|as |mansard%[m|é]|
+|il|a|mansard%[m|é]|
+|nous|avons|mansard%[m|é]|
+|vous|avez|mansard%[m|é]|
+|ils|ont|mansard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mansard%[m|ais]|
+|tu|mansard%[m|ais]|
+|il|mansard%[m|ait]|
+|nous|mansard%[m|ions]|
+|vous|mansard%[m|iez]|
+|ils|mansard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mansard%[m|é]|
+|tu|avais|mansard%[m|é]|
+|il|avait|mansard%[m|é]|
+|nous|avions|mansard%[m|é]|
+|vous|aviez|mansard%[m|é]|
+|ils|avaient|mansard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mansard%[m|ai]|
+|tu|mansard%[m|as]|
+|il|mansard%[m|a]|
+|nous|mansard%[m|âmes]|
+|vous|mansard%[m|âtes]|
+|ils|mansard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mansard%[m|é]|
+|tu|eus|mansard%[m|é]|
+|il|eut|mansard%[m|é]|
+|nous|e&ucirc;mes|mansard%[m|é]|
+|vous|e&ucirc;tes|mansard%[m|é]|
+|ils|eurent|mansard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mansard%[m|erai]|
+|tu|mansard%[m|eras]|
+|il|mansard%[m|era]|
+|nous|mansard%[m|erons]|
+|vous|mansard%[m|erez]|
+|ils|mansard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mansard%[m|é]|
+|tu|auras|mansard%[m|é]|
+|il|aura|mansard%[m|é]|
+|nous|aurons|mansard%[m|é]|
+|vous|aurez|mansard%[m|é]|
+|ils|auront|mansard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mansard%[m|erais]|
+|tu|mansard%[m|erais]|
+|il|mansard%[m|erait]|
+|nous|mansard%[m|erions]|
+|vous|mansard%[m|eriez]|
+|ils|mansard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mansard%[m|é]|
+|tu|aurais|mansard%[m|é]|
+|il|aurait|mansard%[m|é]|
+|nous|aurions|mansard%[m|é]|
+|vous|auriez|mansard%[m|é]|
+|ils|auraient|mansard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mansard%[m|e]|
+|que|tu|mansard%[m|es]|
+|qu'|il|mansard%[m|e]|
+|que|nous|mansard%[m|ions]|
+|que|vous|mansard%[m|iez]|
+|qu'|ils|mansard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mansard%[m|é]|
+|que|tu|aies|mansard%[m|é]|
+|qu'|il|ait|mansard%[m|é]|
+|que|nous|ayons|mansard%[m|é]|
+|que|vous|ayez|mansard%[m|é]|
+|qu'|ils|aient|mansard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mansard%[m|asse]|
+|que|tu|mansard%[m|asses]|
+|qu'|il|mansard%[m|ât]|
+|que|nous|mansard%[m|assions]|
+|que|vous|mansard%[m|assiez]|
+|qu'|ils|mansard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mansard%[m|é]|
+|que|tu|eusses|mansard%[m|é]|
+|qu'|il|eût|mansard%[m|é]|
+|que|nous|eussions|mansard%[m|é]|
+|que|vous|eussiez|mansard%[m|é]|
+|qu'|ils|eussent|mansard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mansard%[m|e]|
+|mansard%[m|ons]|
+|mansard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mansard%[m|é]|
+|ayons|mansard%[m|é]|
+|ayez|mansard%[m|é]|
+|]
+

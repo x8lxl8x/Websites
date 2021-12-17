@@ -1,0 +1,190 @@
+# noper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|nop%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|nop%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|nop%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||nop%[m|é]|
+|ayant|nop%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en nop%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|nop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|nop%[m|e]|
+|tu|nop%[m|es]|
+|il|nop%[m|e]|
+|nous|nop%[m|ons]|
+|vous|nop%[m|ez]|
+|ils|nop%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|nop%[m|é]|
+|tu|as |nop%[m|é]|
+|il|a|nop%[m|é]|
+|nous|avons|nop%[m|é]|
+|vous|avez|nop%[m|é]|
+|ils|ont|nop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|nop%[m|ais]|
+|tu|nop%[m|ais]|
+|il|nop%[m|ait]|
+|nous|nop%[m|ions]|
+|vous|nop%[m|iez]|
+|ils|nop%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|nop%[m|é]|
+|tu|avais|nop%[m|é]|
+|il|avait|nop%[m|é]|
+|nous|avions|nop%[m|é]|
+|vous|aviez|nop%[m|é]|
+|ils|avaient|nop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|nop%[m|ai]|
+|tu|nop%[m|as]|
+|il|nop%[m|a]|
+|nous|nop%[m|âmes]|
+|vous|nop%[m|âtes]|
+|ils|nop%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|nop%[m|é]|
+|tu|eus|nop%[m|é]|
+|il|eut|nop%[m|é]|
+|nous|e&ucirc;mes|nop%[m|é]|
+|vous|e&ucirc;tes|nop%[m|é]|
+|ils|eurent|nop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|nop%[m|erai]|
+|tu|nop%[m|eras]|
+|il|nop%[m|era]|
+|nous|nop%[m|erons]|
+|vous|nop%[m|erez]|
+|ils|nop%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|nop%[m|é]|
+|tu|auras|nop%[m|é]|
+|il|aura|nop%[m|é]|
+|nous|aurons|nop%[m|é]|
+|vous|aurez|nop%[m|é]|
+|ils|auront|nop%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|nop%[m|erais]|
+|tu|nop%[m|erais]|
+|il|nop%[m|erait]|
+|nous|nop%[m|erions]|
+|vous|nop%[m|eriez]|
+|ils|nop%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|nop%[m|é]|
+|tu|aurais|nop%[m|é]|
+|il|aurait|nop%[m|é]|
+|nous|aurions|nop%[m|é]|
+|vous|auriez|nop%[m|é]|
+|ils|auraient|nop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|nop%[m|e]|
+|que|tu|nop%[m|es]|
+|qu'|il|nop%[m|e]|
+|que|nous|nop%[m|ions]|
+|que|vous|nop%[m|iez]|
+|qu'|ils|nop%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|nop%[m|é]|
+|que|tu|aies|nop%[m|é]|
+|qu'|il|ait|nop%[m|é]|
+|que|nous|ayons|nop%[m|é]|
+|que|vous|ayez|nop%[m|é]|
+|qu'|ils|aient|nop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|nop%[m|asse]|
+|que|tu|nop%[m|asses]|
+|qu'|il|nop%[m|ât]|
+|que|nous|nop%[m|assions]|
+|que|vous|nop%[m|assiez]|
+|qu'|ils|nop%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|nop%[m|é]|
+|que|tu|eusses|nop%[m|é]|
+|qu'|il|eût|nop%[m|é]|
+|que|nous|eussions|nop%[m|é]|
+|que|vous|eussiez|nop%[m|é]|
+|qu'|ils|eussent|nop%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nop%[m|e]|
+|nop%[m|ons]|
+|nop%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|nop%[m|é]|
+|ayons|nop%[m|é]|
+|ayez|nop%[m|é]|
+|]
+

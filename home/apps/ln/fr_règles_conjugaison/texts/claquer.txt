@@ -1,0 +1,192 @@
+# claquer %[clVerbGroup|1]
+[-
+produire un bruit sec. 
+donner une claque. 
+fermer quelque chose avec un bruit sec. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|claqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|claqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|claqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||claqu%[m|é]|
+|ayant|claqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en claqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|claqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|claqu%[m|e]|
+|tu|claqu%[m|es]|
+|il|claqu%[m|e]|
+|nous|claqu%[m|ons]|
+|vous|claqu%[m|ez]|
+|ils|claqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|claqu%[m|é]|
+|tu|as |claqu%[m|é]|
+|il|a|claqu%[m|é]|
+|nous|avons|claqu%[m|é]|
+|vous|avez|claqu%[m|é]|
+|ils|ont|claqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|claqu%[m|ais]|
+|tu|claqu%[m|ais]|
+|il|claqu%[m|ait]|
+|nous|claqu%[m|ions]|
+|vous|claqu%[m|iez]|
+|ils|claqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|claqu%[m|é]|
+|tu|avais|claqu%[m|é]|
+|il|avait|claqu%[m|é]|
+|nous|avions|claqu%[m|é]|
+|vous|aviez|claqu%[m|é]|
+|ils|avaient|claqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|claqu%[m|ai]|
+|tu|claqu%[m|as]|
+|il|claqu%[m|a]|
+|nous|claqu%[m|âmes]|
+|vous|claqu%[m|âtes]|
+|ils|claqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|claqu%[m|é]|
+|tu|eus|claqu%[m|é]|
+|il|eut|claqu%[m|é]|
+|nous|e&ucirc;mes|claqu%[m|é]|
+|vous|e&ucirc;tes|claqu%[m|é]|
+|ils|eurent|claqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|claqu%[m|erai]|
+|tu|claqu%[m|eras]|
+|il|claqu%[m|era]|
+|nous|claqu%[m|erons]|
+|vous|claqu%[m|erez]|
+|ils|claqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|claqu%[m|é]|
+|tu|auras|claqu%[m|é]|
+|il|aura|claqu%[m|é]|
+|nous|aurons|claqu%[m|é]|
+|vous|aurez|claqu%[m|é]|
+|ils|auront|claqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|claqu%[m|erais]|
+|tu|claqu%[m|erais]|
+|il|claqu%[m|erait]|
+|nous|claqu%[m|erions]|
+|vous|claqu%[m|eriez]|
+|ils|claqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|claqu%[m|é]|
+|tu|aurais|claqu%[m|é]|
+|il|aurait|claqu%[m|é]|
+|nous|aurions|claqu%[m|é]|
+|vous|auriez|claqu%[m|é]|
+|ils|auraient|claqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|claqu%[m|e]|
+|que|tu|claqu%[m|es]|
+|qu'|il|claqu%[m|e]|
+|que|nous|claqu%[m|ions]|
+|que|vous|claqu%[m|iez]|
+|qu'|ils|claqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|claqu%[m|é]|
+|que|tu|aies|claqu%[m|é]|
+|qu'|il|ait|claqu%[m|é]|
+|que|nous|ayons|claqu%[m|é]|
+|que|vous|ayez|claqu%[m|é]|
+|qu'|ils|aient|claqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|claqu%[m|asse]|
+|que|tu|claqu%[m|asses]|
+|qu'|il|claqu%[m|ât]|
+|que|nous|claqu%[m|assions]|
+|que|vous|claqu%[m|assiez]|
+|qu'|ils|claqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|claqu%[m|é]|
+|que|tu|eusses|claqu%[m|é]|
+|qu'|il|eût|claqu%[m|é]|
+|que|nous|eussions|claqu%[m|é]|
+|que|vous|eussiez|claqu%[m|é]|
+|qu'|ils|eussent|claqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|claqu%[m|e]|
+|claqu%[m|ons]|
+|claqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|claqu%[m|é]|
+|ayons|claqu%[m|é]|
+|ayez|claqu%[m|é]|
+|]
+

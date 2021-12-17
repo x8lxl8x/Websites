@@ -1,0 +1,191 @@
+# valser %[clVerbGroup|1]
+[-
+danser la valse. 
+être projeté. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|vals%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|vals%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|vals%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||vals%[m|é]|
+|ayant|vals%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en vals%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|vals%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|vals%[m|e]|
+|tu|vals%[m|es]|
+|il|vals%[m|e]|
+|nous|vals%[m|ons]|
+|vous|vals%[m|ez]|
+|ils|vals%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|vals%[m|é]|
+|tu|as |vals%[m|é]|
+|il|a|vals%[m|é]|
+|nous|avons|vals%[m|é]|
+|vous|avez|vals%[m|é]|
+|ils|ont|vals%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|vals%[m|ais]|
+|tu|vals%[m|ais]|
+|il|vals%[m|ait]|
+|nous|vals%[m|ions]|
+|vous|vals%[m|iez]|
+|ils|vals%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|vals%[m|é]|
+|tu|avais|vals%[m|é]|
+|il|avait|vals%[m|é]|
+|nous|avions|vals%[m|é]|
+|vous|aviez|vals%[m|é]|
+|ils|avaient|vals%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|vals%[m|ai]|
+|tu|vals%[m|as]|
+|il|vals%[m|a]|
+|nous|vals%[m|âmes]|
+|vous|vals%[m|âtes]|
+|ils|vals%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|vals%[m|é]|
+|tu|eus|vals%[m|é]|
+|il|eut|vals%[m|é]|
+|nous|e&ucirc;mes|vals%[m|é]|
+|vous|e&ucirc;tes|vals%[m|é]|
+|ils|eurent|vals%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|vals%[m|erai]|
+|tu|vals%[m|eras]|
+|il|vals%[m|era]|
+|nous|vals%[m|erons]|
+|vous|vals%[m|erez]|
+|ils|vals%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|vals%[m|é]|
+|tu|auras|vals%[m|é]|
+|il|aura|vals%[m|é]|
+|nous|aurons|vals%[m|é]|
+|vous|aurez|vals%[m|é]|
+|ils|auront|vals%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|vals%[m|erais]|
+|tu|vals%[m|erais]|
+|il|vals%[m|erait]|
+|nous|vals%[m|erions]|
+|vous|vals%[m|eriez]|
+|ils|vals%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|vals%[m|é]|
+|tu|aurais|vals%[m|é]|
+|il|aurait|vals%[m|é]|
+|nous|aurions|vals%[m|é]|
+|vous|auriez|vals%[m|é]|
+|ils|auraient|vals%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|vals%[m|e]|
+|que|tu|vals%[m|es]|
+|qu'|il|vals%[m|e]|
+|que|nous|vals%[m|ions]|
+|que|vous|vals%[m|iez]|
+|qu'|ils|vals%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|vals%[m|é]|
+|que|tu|aies|vals%[m|é]|
+|qu'|il|ait|vals%[m|é]|
+|que|nous|ayons|vals%[m|é]|
+|que|vous|ayez|vals%[m|é]|
+|qu'|ils|aient|vals%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|vals%[m|asse]|
+|que|tu|vals%[m|asses]|
+|qu'|il|vals%[m|ât]|
+|que|nous|vals%[m|assions]|
+|que|vous|vals%[m|assiez]|
+|qu'|ils|vals%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|vals%[m|é]|
+|que|tu|eusses|vals%[m|é]|
+|qu'|il|eût|vals%[m|é]|
+|que|nous|eussions|vals%[m|é]|
+|que|vous|eussiez|vals%[m|é]|
+|qu'|ils|eussent|vals%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|vals%[m|e]|
+|vals%[m|ons]|
+|vals%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|vals%[m|é]|
+|ayons|vals%[m|é]|
+|ayez|vals%[m|é]|
+|]
+

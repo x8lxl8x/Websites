@@ -1,0 +1,190 @@
+# proverbialiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|proverbialis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|proverbialis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||proverbialis%[m|é]|
+|ayant|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en proverbialis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|proverbialis%[m|e]|
+|tu|proverbialis%[m|es]|
+|il|proverbialis%[m|e]|
+|nous|proverbialis%[m|ons]|
+|vous|proverbialis%[m|ez]|
+|ils|proverbialis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|proverbialis%[m|é]|
+|tu|as |proverbialis%[m|é]|
+|il|a|proverbialis%[m|é]|
+|nous|avons|proverbialis%[m|é]|
+|vous|avez|proverbialis%[m|é]|
+|ils|ont|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|proverbialis%[m|ais]|
+|tu|proverbialis%[m|ais]|
+|il|proverbialis%[m|ait]|
+|nous|proverbialis%[m|ions]|
+|vous|proverbialis%[m|iez]|
+|ils|proverbialis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|proverbialis%[m|é]|
+|tu|avais|proverbialis%[m|é]|
+|il|avait|proverbialis%[m|é]|
+|nous|avions|proverbialis%[m|é]|
+|vous|aviez|proverbialis%[m|é]|
+|ils|avaient|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|proverbialis%[m|ai]|
+|tu|proverbialis%[m|as]|
+|il|proverbialis%[m|a]|
+|nous|proverbialis%[m|âmes]|
+|vous|proverbialis%[m|âtes]|
+|ils|proverbialis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|proverbialis%[m|é]|
+|tu|eus|proverbialis%[m|é]|
+|il|eut|proverbialis%[m|é]|
+|nous|e&ucirc;mes|proverbialis%[m|é]|
+|vous|e&ucirc;tes|proverbialis%[m|é]|
+|ils|eurent|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|proverbialis%[m|erai]|
+|tu|proverbialis%[m|eras]|
+|il|proverbialis%[m|era]|
+|nous|proverbialis%[m|erons]|
+|vous|proverbialis%[m|erez]|
+|ils|proverbialis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|proverbialis%[m|é]|
+|tu|auras|proverbialis%[m|é]|
+|il|aura|proverbialis%[m|é]|
+|nous|aurons|proverbialis%[m|é]|
+|vous|aurez|proverbialis%[m|é]|
+|ils|auront|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|proverbialis%[m|erais]|
+|tu|proverbialis%[m|erais]|
+|il|proverbialis%[m|erait]|
+|nous|proverbialis%[m|erions]|
+|vous|proverbialis%[m|eriez]|
+|ils|proverbialis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|proverbialis%[m|é]|
+|tu|aurais|proverbialis%[m|é]|
+|il|aurait|proverbialis%[m|é]|
+|nous|aurions|proverbialis%[m|é]|
+|vous|auriez|proverbialis%[m|é]|
+|ils|auraient|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|proverbialis%[m|e]|
+|que|tu|proverbialis%[m|es]|
+|qu'|il|proverbialis%[m|e]|
+|que|nous|proverbialis%[m|ions]|
+|que|vous|proverbialis%[m|iez]|
+|qu'|ils|proverbialis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|proverbialis%[m|é]|
+|que|tu|aies|proverbialis%[m|é]|
+|qu'|il|ait|proverbialis%[m|é]|
+|que|nous|ayons|proverbialis%[m|é]|
+|que|vous|ayez|proverbialis%[m|é]|
+|qu'|ils|aient|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|proverbialis%[m|asse]|
+|que|tu|proverbialis%[m|asses]|
+|qu'|il|proverbialis%[m|ât]|
+|que|nous|proverbialis%[m|assions]|
+|que|vous|proverbialis%[m|assiez]|
+|qu'|ils|proverbialis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|proverbialis%[m|é]|
+|que|tu|eusses|proverbialis%[m|é]|
+|qu'|il|eût|proverbialis%[m|é]|
+|que|nous|eussions|proverbialis%[m|é]|
+|que|vous|eussiez|proverbialis%[m|é]|
+|qu'|ils|eussent|proverbialis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|proverbialis%[m|e]|
+|proverbialis%[m|ons]|
+|proverbialis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|proverbialis%[m|é]|
+|ayons|proverbialis%[m|é]|
+|ayez|proverbialis%[m|é]|
+|]
+

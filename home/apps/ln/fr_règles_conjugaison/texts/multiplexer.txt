@@ -1,0 +1,190 @@
+# multiplexer %[clVerbGroup|1]
+[-
+Assembler des signaux indépendants en un seul signal composite à partir duquel ils peuvent être restitués.(date de la publication : 14/06/2003 - éd. commission des télécommunications) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|multiplex%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|multiplex%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||multiplex%[m|é]|
+|ayant|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en multiplex%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|multiplex%[m|e]|
+|tu|multiplex%[m|es]|
+|il|multiplex%[m|e]|
+|nous|multiplex%[m|ons]|
+|vous|multiplex%[m|ez]|
+|ils|multiplex%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|multiplex%[m|é]|
+|tu|as |multiplex%[m|é]|
+|il|a|multiplex%[m|é]|
+|nous|avons|multiplex%[m|é]|
+|vous|avez|multiplex%[m|é]|
+|ils|ont|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|multiplex%[m|ais]|
+|tu|multiplex%[m|ais]|
+|il|multiplex%[m|ait]|
+|nous|multiplex%[m|ions]|
+|vous|multiplex%[m|iez]|
+|ils|multiplex%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|multiplex%[m|é]|
+|tu|avais|multiplex%[m|é]|
+|il|avait|multiplex%[m|é]|
+|nous|avions|multiplex%[m|é]|
+|vous|aviez|multiplex%[m|é]|
+|ils|avaient|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|multiplex%[m|ai]|
+|tu|multiplex%[m|as]|
+|il|multiplex%[m|a]|
+|nous|multiplex%[m|âmes]|
+|vous|multiplex%[m|âtes]|
+|ils|multiplex%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|multiplex%[m|é]|
+|tu|eus|multiplex%[m|é]|
+|il|eut|multiplex%[m|é]|
+|nous|e&ucirc;mes|multiplex%[m|é]|
+|vous|e&ucirc;tes|multiplex%[m|é]|
+|ils|eurent|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|multiplex%[m|erai]|
+|tu|multiplex%[m|eras]|
+|il|multiplex%[m|era]|
+|nous|multiplex%[m|erons]|
+|vous|multiplex%[m|erez]|
+|ils|multiplex%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|multiplex%[m|é]|
+|tu|auras|multiplex%[m|é]|
+|il|aura|multiplex%[m|é]|
+|nous|aurons|multiplex%[m|é]|
+|vous|aurez|multiplex%[m|é]|
+|ils|auront|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|multiplex%[m|erais]|
+|tu|multiplex%[m|erais]|
+|il|multiplex%[m|erait]|
+|nous|multiplex%[m|erions]|
+|vous|multiplex%[m|eriez]|
+|ils|multiplex%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|multiplex%[m|é]|
+|tu|aurais|multiplex%[m|é]|
+|il|aurait|multiplex%[m|é]|
+|nous|aurions|multiplex%[m|é]|
+|vous|auriez|multiplex%[m|é]|
+|ils|auraient|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|multiplex%[m|e]|
+|que|tu|multiplex%[m|es]|
+|qu'|il|multiplex%[m|e]|
+|que|nous|multiplex%[m|ions]|
+|que|vous|multiplex%[m|iez]|
+|qu'|ils|multiplex%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|multiplex%[m|é]|
+|que|tu|aies|multiplex%[m|é]|
+|qu'|il|ait|multiplex%[m|é]|
+|que|nous|ayons|multiplex%[m|é]|
+|que|vous|ayez|multiplex%[m|é]|
+|qu'|ils|aient|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|multiplex%[m|asse]|
+|que|tu|multiplex%[m|asses]|
+|qu'|il|multiplex%[m|ât]|
+|que|nous|multiplex%[m|assions]|
+|que|vous|multiplex%[m|assiez]|
+|qu'|ils|multiplex%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|multiplex%[m|é]|
+|que|tu|eusses|multiplex%[m|é]|
+|qu'|il|eût|multiplex%[m|é]|
+|que|nous|eussions|multiplex%[m|é]|
+|que|vous|eussiez|multiplex%[m|é]|
+|qu'|ils|eussent|multiplex%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|multiplex%[m|e]|
+|multiplex%[m|ons]|
+|multiplex%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|multiplex%[m|é]|
+|ayons|multiplex%[m|é]|
+|ayez|multiplex%[m|é]|
+|]
+

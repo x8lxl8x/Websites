@@ -1,0 +1,190 @@
+# bader %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bad%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bad%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bad%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bad%[m|é]|
+|ayant|bad%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bad%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bad%[m|e]|
+|tu|bad%[m|es]|
+|il|bad%[m|e]|
+|nous|bad%[m|ons]|
+|vous|bad%[m|ez]|
+|ils|bad%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bad%[m|é]|
+|tu|as |bad%[m|é]|
+|il|a|bad%[m|é]|
+|nous|avons|bad%[m|é]|
+|vous|avez|bad%[m|é]|
+|ils|ont|bad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bad%[m|ais]|
+|tu|bad%[m|ais]|
+|il|bad%[m|ait]|
+|nous|bad%[m|ions]|
+|vous|bad%[m|iez]|
+|ils|bad%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bad%[m|é]|
+|tu|avais|bad%[m|é]|
+|il|avait|bad%[m|é]|
+|nous|avions|bad%[m|é]|
+|vous|aviez|bad%[m|é]|
+|ils|avaient|bad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bad%[m|ai]|
+|tu|bad%[m|as]|
+|il|bad%[m|a]|
+|nous|bad%[m|âmes]|
+|vous|bad%[m|âtes]|
+|ils|bad%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bad%[m|é]|
+|tu|eus|bad%[m|é]|
+|il|eut|bad%[m|é]|
+|nous|e&ucirc;mes|bad%[m|é]|
+|vous|e&ucirc;tes|bad%[m|é]|
+|ils|eurent|bad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bad%[m|erai]|
+|tu|bad%[m|eras]|
+|il|bad%[m|era]|
+|nous|bad%[m|erons]|
+|vous|bad%[m|erez]|
+|ils|bad%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bad%[m|é]|
+|tu|auras|bad%[m|é]|
+|il|aura|bad%[m|é]|
+|nous|aurons|bad%[m|é]|
+|vous|aurez|bad%[m|é]|
+|ils|auront|bad%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bad%[m|erais]|
+|tu|bad%[m|erais]|
+|il|bad%[m|erait]|
+|nous|bad%[m|erions]|
+|vous|bad%[m|eriez]|
+|ils|bad%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bad%[m|é]|
+|tu|aurais|bad%[m|é]|
+|il|aurait|bad%[m|é]|
+|nous|aurions|bad%[m|é]|
+|vous|auriez|bad%[m|é]|
+|ils|auraient|bad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bad%[m|e]|
+|que|tu|bad%[m|es]|
+|qu'|il|bad%[m|e]|
+|que|nous|bad%[m|ions]|
+|que|vous|bad%[m|iez]|
+|qu'|ils|bad%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bad%[m|é]|
+|que|tu|aies|bad%[m|é]|
+|qu'|il|ait|bad%[m|é]|
+|que|nous|ayons|bad%[m|é]|
+|que|vous|ayez|bad%[m|é]|
+|qu'|ils|aient|bad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bad%[m|asse]|
+|que|tu|bad%[m|asses]|
+|qu'|il|bad%[m|ât]|
+|que|nous|bad%[m|assions]|
+|que|vous|bad%[m|assiez]|
+|qu'|ils|bad%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bad%[m|é]|
+|que|tu|eusses|bad%[m|é]|
+|qu'|il|eût|bad%[m|é]|
+|que|nous|eussions|bad%[m|é]|
+|que|vous|eussiez|bad%[m|é]|
+|qu'|ils|eussent|bad%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bad%[m|e]|
+|bad%[m|ons]|
+|bad%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bad%[m|é]|
+|ayons|bad%[m|é]|
+|ayez|bad%[m|é]|
+|]
+

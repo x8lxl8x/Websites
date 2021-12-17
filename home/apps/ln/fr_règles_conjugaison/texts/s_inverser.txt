@@ -1,0 +1,190 @@
+# s'inverser %[clVerbGroup|1]
+[-
+renverser, mettre dans un sens opposé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'invers%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|invers%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'invers%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|invers%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'invers%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|invers%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|invers%[m|e]|
+|tu|t'|invers%[m|es]|
+|il|s'|invers%[m|e]|
+|nous|nous|invers%[m|ons]|
+|vous|vous|invers%[m|ez]|
+|ils|s'|invers%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|invers%[m|é]|
+|tu|t'|es|invers%[m|é]|
+|il|s'|est|invers%[m|é]|
+|nous|nous|sommes|invers%[m|és]|
+|vous|vous|êtes|invers%[m|és]|
+|ils|se|sont|invers%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|invers%[m|ais]|
+|tu|t'|invers%[m|ais]|
+|il|s'|invers%[m|ait]|
+|nous|nous|invers%[m|ions]|
+|vous|vous|invers%[m|iez]|
+|ils|s'|invers%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|invers%[m|é]|
+|tu|t'|étais|invers%[m|é]|
+|il|s'|était|invers%[m|é]|
+|nous|nous|étions|invers%[m|és]|
+|vous|vous|étiez|invers%[m|és]|
+|ils|s'|étaient|invers%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|invers%[m|ai]|
+|tu|t'|invers%[m|as]|
+|il|s'|invers%[m|a]|
+|nous|nous|invers%[m|âmes]|
+|vous|vous|invers%[m|âtes]|
+|ils|s'|invers%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|invers%[m|é]|
+|tu|te|fus|invers%[m|é]|
+|il|se|fut|invers%[m|é]|
+|nous|nous|fûmes|invers%[m|és]|
+|vous|vous|fûtes|invers%[m|és]|
+|ils|se|furent|invers%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|invers%[m|erai]|
+|tu|t'|invers%[m|eras]|
+|il|s'|invers%[m|era]|
+|nous|nous|invers%[m|erons]|
+|vous|vous|invers%[m|erez]|
+|ils|s'|invers%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|invers%[m|é]|
+|tu|te|seras|invers%[m|é]|
+|il|se|sera|invers%[m|é]|
+|nous|nous|serons|invers%[m|és]|
+|vous|vous|serez|invers%[m|és]|
+|ils|se|seront|invers%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|invers%[m|erais]|
+|tu|t'|invers%[m|erais]|
+|il|s'|invers%[m|erait]|
+|nous|nous|invers%[m|erions]|
+|vous|vous|invers%[m|eriez]|
+|ils|s'|invers%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|invers%[m|é]|
+|tu|te|serais|invers%[m|é]|
+|il|se|serait|invers%[m|é]|
+|nous|nous|serions|invers%[m|és]|
+|vous|vous|seriez|invers%[m|és]|
+|ils|se|seraient|invers%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|invers%[m|e]|
+|que|tu|t'|invers%[m|es]|
+|qu'|il|s'|invers%[m|e]|
+|que|nous|nous|invers%[m|ions]|
+|que|vous|vous|invers%[m|iez]|
+|qu'|ils|s'|invers%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|invers%[m|é]|
+|que|tu|te|sois|invers%[m|é]|
+|qu'|il|se|soit|invers%[m|é]|
+|que|nous|nous|soyons|invers%[m|és]|
+|que|vous|vous|soyez|invers%[m|és]|
+|qu'|ils|se|soient|invers%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|invers%[m|asse]|
+|que|tu|t'|invers%[m|asses]|
+|qu'|il|s'|invers%[m|ât]|
+|que|nous|nous|invers%[m|assions]|
+|que|vous|vous|invers%[m|assiez]|
+|qu'|ils|s'|invers%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|invers%[m|é]|
+|que|tu|te|fusses|invers%[m|é]|
+|qu'|il|se|fût|invers%[m|é]|
+|que|nous|nous|fussions|invers%[m|és]|
+|que|vous|vous|fussiez|invers%[m|és]|
+|qu'|ils|se|fussent|invers%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|invers%[m|e]-toi|
+|invers%[m|ons]-nous|
+|invers%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

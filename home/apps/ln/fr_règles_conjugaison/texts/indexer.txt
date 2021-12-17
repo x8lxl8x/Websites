@@ -1,0 +1,191 @@
+# indexer %[clVerbGroup|1]
+[-
+mentionner un nom, une citation dans un index d'ouvrage. 
+faire varier une valeur en fonction de l'évolution d'une référence déterminée (ex. indexer les loyers sur le coût de la construction) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|index%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|index%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|index%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||index%[m|é]|
+|ayant|index%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en index%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|index%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|index%[m|e]|
+|tu|index%[m|es]|
+|il|index%[m|e]|
+|nous|index%[m|ons]|
+|vous|index%[m|ez]|
+|ils|index%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|index%[m|é]|
+|tu|as |index%[m|é]|
+|il|a|index%[m|é]|
+|nous|avons|index%[m|é]|
+|vous|avez|index%[m|é]|
+|ils|ont|index%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|index%[m|ais]|
+|tu|index%[m|ais]|
+|il|index%[m|ait]|
+|nous|index%[m|ions]|
+|vous|index%[m|iez]|
+|ils|index%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|index%[m|é]|
+|tu|avais|index%[m|é]|
+|il|avait|index%[m|é]|
+|nous|avions|index%[m|é]|
+|vous|aviez|index%[m|é]|
+|ils|avaient|index%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|index%[m|ai]|
+|tu|index%[m|as]|
+|il|index%[m|a]|
+|nous|index%[m|âmes]|
+|vous|index%[m|âtes]|
+|ils|index%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|index%[m|é]|
+|tu|eus|index%[m|é]|
+|il|eut|index%[m|é]|
+|nous|e&ucirc;mes|index%[m|é]|
+|vous|e&ucirc;tes|index%[m|é]|
+|ils|eurent|index%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|index%[m|erai]|
+|tu|index%[m|eras]|
+|il|index%[m|era]|
+|nous|index%[m|erons]|
+|vous|index%[m|erez]|
+|ils|index%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|index%[m|é]|
+|tu|auras|index%[m|é]|
+|il|aura|index%[m|é]|
+|nous|aurons|index%[m|é]|
+|vous|aurez|index%[m|é]|
+|ils|auront|index%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|index%[m|erais]|
+|tu|index%[m|erais]|
+|il|index%[m|erait]|
+|nous|index%[m|erions]|
+|vous|index%[m|eriez]|
+|ils|index%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|index%[m|é]|
+|tu|aurais|index%[m|é]|
+|il|aurait|index%[m|é]|
+|nous|aurions|index%[m|é]|
+|vous|auriez|index%[m|é]|
+|ils|auraient|index%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|index%[m|e]|
+|que|tu|index%[m|es]|
+|qu'|il|index%[m|e]|
+|que|nous|index%[m|ions]|
+|que|vous|index%[m|iez]|
+|qu'|ils|index%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|index%[m|é]|
+|que|tu|aies|index%[m|é]|
+|qu'|il|ait|index%[m|é]|
+|que|nous|ayons|index%[m|é]|
+|que|vous|ayez|index%[m|é]|
+|qu'|ils|aient|index%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|index%[m|asse]|
+|que|tu|index%[m|asses]|
+|qu'|il|index%[m|ât]|
+|que|nous|index%[m|assions]|
+|que|vous|index%[m|assiez]|
+|qu'|ils|index%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|index%[m|é]|
+|que|tu|eusses|index%[m|é]|
+|qu'|il|eût|index%[m|é]|
+|que|nous|eussions|index%[m|é]|
+|que|vous|eussiez|index%[m|é]|
+|qu'|ils|eussent|index%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|index%[m|e]|
+|index%[m|ons]|
+|index%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|index%[m|é]|
+|ayons|index%[m|é]|
+|ayez|index%[m|é]|
+|]
+

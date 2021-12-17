@@ -1,0 +1,190 @@
+# se recoller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se recoll%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|recoll%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se recoll%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|recoll%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se recoll%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|recoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|recoll%[m|e]|
+|tu|te|recoll%[m|es]|
+|il|se|recoll%[m|e]|
+|nous|nous|recoll%[m|ons]|
+|vous|vous|recoll%[m|ez]|
+|ils|se|recoll%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|recoll%[m|é]|
+|tu|t'|es|recoll%[m|é]|
+|il|s'|est|recoll%[m|é]|
+|nous|nous|sommes|recoll%[m|és]|
+|vous|vous|êtes|recoll%[m|és]|
+|ils|se|sont|recoll%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|recoll%[m|ais]|
+|tu|te|recoll%[m|ais]|
+|il|se|recoll%[m|ait]|
+|nous|nous|recoll%[m|ions]|
+|vous|vous|recoll%[m|iez]|
+|ils|se|recoll%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|recoll%[m|é]|
+|tu|t'|étais|recoll%[m|é]|
+|il|s'|était|recoll%[m|é]|
+|nous|nous|étions|recoll%[m|és]|
+|vous|vous|étiez|recoll%[m|és]|
+|ils|s'|étaient|recoll%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|recoll%[m|ai]|
+|tu|te|recoll%[m|as]|
+|il|se|recoll%[m|a]|
+|nous|nous|recoll%[m|âmes]|
+|vous|vous|recoll%[m|âtes]|
+|ils|se|recoll%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|recoll%[m|é]|
+|tu|te|fus|recoll%[m|é]|
+|il|se|fut|recoll%[m|é]|
+|nous|nous|fûmes|recoll%[m|és]|
+|vous|vous|fûtes|recoll%[m|és]|
+|ils|se|furent|recoll%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|recoll%[m|erai]|
+|tu|te|recoll%[m|eras]|
+|il|se|recoll%[m|era]|
+|nous|nous|recoll%[m|erons]|
+|vous|vous|recoll%[m|erez]|
+|ils|se|recoll%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|recoll%[m|é]|
+|tu|te|seras|recoll%[m|é]|
+|il|se|sera|recoll%[m|é]|
+|nous|nous|serons|recoll%[m|és]|
+|vous|vous|serez|recoll%[m|és]|
+|ils|se|seront|recoll%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|recoll%[m|erais]|
+|tu|te|recoll%[m|erais]|
+|il|se|recoll%[m|erait]|
+|nous|nous|recoll%[m|erions]|
+|vous|vous|recoll%[m|eriez]|
+|ils|se|recoll%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|recoll%[m|é]|
+|tu|te|serais|recoll%[m|é]|
+|il|se|serait|recoll%[m|é]|
+|nous|nous|serions|recoll%[m|és]|
+|vous|vous|seriez|recoll%[m|és]|
+|ils|se|seraient|recoll%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|recoll%[m|e]|
+|que|tu|te|recoll%[m|es]|
+|qu'|il|se|recoll%[m|e]|
+|que|nous|nous|recoll%[m|ions]|
+|que|vous|vous|recoll%[m|iez]|
+|qu'|ils|se|recoll%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|recoll%[m|é]|
+|que|tu|te|sois|recoll%[m|é]|
+|qu'|il|se|soit|recoll%[m|é]|
+|que|nous|nous|soyons|recoll%[m|és]|
+|que|vous|vous|soyez|recoll%[m|és]|
+|qu'|ils|se|soient|recoll%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|recoll%[m|asse]|
+|que|tu|te|recoll%[m|asses]|
+|qu'|il|se|recoll%[m|ât]|
+|que|nous|nous|recoll%[m|assions]|
+|que|vous|vous|recoll%[m|assiez]|
+|qu'|ils|se|recoll%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|recoll%[m|é]|
+|que|tu|te|fusses|recoll%[m|é]|
+|qu'|il|se|fût|recoll%[m|é]|
+|que|nous|nous|fussions|recoll%[m|és]|
+|que|vous|vous|fussiez|recoll%[m|és]|
+|qu'|ils|se|fussent|recoll%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recoll%[m|e]-toi|
+|recoll%[m|ons]-nous|
+|recoll%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

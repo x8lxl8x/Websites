@@ -1,0 +1,190 @@
+# séjourner %[clVerbGroup|1]
+[-
+rester un certain temps dans un lieu, sans y habiter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|séjourn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|séjourn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||séjourn%[m|é]|
+|ayant|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en séjourn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|séjourn%[m|e]|
+|tu|séjourn%[m|es]|
+|il|séjourn%[m|e]|
+|nous|séjourn%[m|ons]|
+|vous|séjourn%[m|ez]|
+|ils|séjourn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|séjourn%[m|é]|
+|tu|as |séjourn%[m|é]|
+|il|a|séjourn%[m|é]|
+|nous|avons|séjourn%[m|é]|
+|vous|avez|séjourn%[m|é]|
+|ils|ont|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|séjourn%[m|ais]|
+|tu|séjourn%[m|ais]|
+|il|séjourn%[m|ait]|
+|nous|séjourn%[m|ions]|
+|vous|séjourn%[m|iez]|
+|ils|séjourn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|séjourn%[m|é]|
+|tu|avais|séjourn%[m|é]|
+|il|avait|séjourn%[m|é]|
+|nous|avions|séjourn%[m|é]|
+|vous|aviez|séjourn%[m|é]|
+|ils|avaient|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|séjourn%[m|ai]|
+|tu|séjourn%[m|as]|
+|il|séjourn%[m|a]|
+|nous|séjourn%[m|âmes]|
+|vous|séjourn%[m|âtes]|
+|ils|séjourn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|séjourn%[m|é]|
+|tu|eus|séjourn%[m|é]|
+|il|eut|séjourn%[m|é]|
+|nous|e&ucirc;mes|séjourn%[m|é]|
+|vous|e&ucirc;tes|séjourn%[m|é]|
+|ils|eurent|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|séjourn%[m|erai]|
+|tu|séjourn%[m|eras]|
+|il|séjourn%[m|era]|
+|nous|séjourn%[m|erons]|
+|vous|séjourn%[m|erez]|
+|ils|séjourn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|séjourn%[m|é]|
+|tu|auras|séjourn%[m|é]|
+|il|aura|séjourn%[m|é]|
+|nous|aurons|séjourn%[m|é]|
+|vous|aurez|séjourn%[m|é]|
+|ils|auront|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|séjourn%[m|erais]|
+|tu|séjourn%[m|erais]|
+|il|séjourn%[m|erait]|
+|nous|séjourn%[m|erions]|
+|vous|séjourn%[m|eriez]|
+|ils|séjourn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|séjourn%[m|é]|
+|tu|aurais|séjourn%[m|é]|
+|il|aurait|séjourn%[m|é]|
+|nous|aurions|séjourn%[m|é]|
+|vous|auriez|séjourn%[m|é]|
+|ils|auraient|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|séjourn%[m|e]|
+|que|tu|séjourn%[m|es]|
+|qu'|il|séjourn%[m|e]|
+|que|nous|séjourn%[m|ions]|
+|que|vous|séjourn%[m|iez]|
+|qu'|ils|séjourn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|séjourn%[m|é]|
+|que|tu|aies|séjourn%[m|é]|
+|qu'|il|ait|séjourn%[m|é]|
+|que|nous|ayons|séjourn%[m|é]|
+|que|vous|ayez|séjourn%[m|é]|
+|qu'|ils|aient|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|séjourn%[m|asse]|
+|que|tu|séjourn%[m|asses]|
+|qu'|il|séjourn%[m|ât]|
+|que|nous|séjourn%[m|assions]|
+|que|vous|séjourn%[m|assiez]|
+|qu'|ils|séjourn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|séjourn%[m|é]|
+|que|tu|eusses|séjourn%[m|é]|
+|qu'|il|eût|séjourn%[m|é]|
+|que|nous|eussions|séjourn%[m|é]|
+|que|vous|eussiez|séjourn%[m|é]|
+|qu'|ils|eussent|séjourn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|séjourn%[m|e]|
+|séjourn%[m|ons]|
+|séjourn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|séjourn%[m|é]|
+|ayons|séjourn%[m|é]|
+|ayez|séjourn%[m|é]|
+|]
+

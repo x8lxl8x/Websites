@@ -1,0 +1,430 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Определение аюрведической конституции</h4>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<div class='clLabel'>Детство</div>
+<select id='id0301' name='var0301' title='$arrValues[1]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='худой'>худой</option>
+  <option value='средний'>средний</option>
+  <option value='пухлый, большой'>пухлый, большой</option>
+</select>
+
+<div class='clLabel'>Тело</div>
+<select id='id0302' name='var0302' title='$arrValues[2]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='очень высокий или низкий, в плохом физическом состоянии'>очень высокий или низкий, в плохом физическом состоянии</option>
+  <option value='среднего роста, физическое состояние среднее'>среднего роста, физическое состояние среднее</option>
+  <option value='большой, дородный, физическое состояние хорошее'>большой, дородный, физическое состояние хорошее</option>
+</select>
+
+<div class='clLabel'>Вес</div>
+<select id='id0303' name='var0303' title='$arrValues[3]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='низкий, трудно набираемый, трудно удерживаемый'>низкий, трудно набираемый, трудно удерживаемый</option>
+  <option value='средний, набираемый равномерно, хорошая мускулатура'>средний, набираемый равномерно, хорошая мускулатура</option>
+  <option value='большой, тучный, легко набираемый, трудно теряемый'>большой, тучный, легко набираемый, трудно теряемый</option>
+</select>
+
+<div class='clLabel'>Лицо</div>
+<select id='id0304' name='var0304' title='$arrValues[4]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкое, маленькое, удлиненное'>тонкое, маленькое, удлиненное</option>
+  <option value='среднее, с заостренными чертами'>среднее, с заостренными чертами</option>
+  <option value='крупное, округлое, мягкие черты, хорошая жировая прослойка'>крупное, округлое, мягкие черты, хорошая жировая прослойка</option>
+</select>
+
+<div class='clLabel'>Цвет лица</div>
+<select id='id0305' name='var0305' title='$arrValues[5]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тусклый, темный, загорает без ожогов'>тусклый, темный, загорает без ожогов</option>
+  <option value='румяное, светлое, легко обгорает на солнце'>румяное, светлое, легко обгорает на солнце</option>
+  <option value='светлое, бледное, загорает равномерно'>светлое, бледное, загорает равномерно</option>
+</select>
+
+<div class='clLabel'>Кожа</div>
+<select id='id0306' name='var0306' title='$arrValues[6]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='сухая, холодная, неровная, трескающаяся'>сухая, холодная, неровная, трескающаяся</option>
+  <option value='теплая, влажная, розовая, веснушчатая, угреватая'>теплая, влажная, розовая, веснушчатая, угреватая</option>
+  <option value='светлая, влажная, прохладная, мягкая'>светлая, влажная, прохладная, мягкая</option>
+</select>
+
+<div class='clLabel'>Волосы</div>
+<select id='id0307' name='var0307' title='$arrValues[7]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='грубые, сухие, кучерявые, пружинистые'>грубые, сухие, кучерявые, пружинистые</option>
+  <option value='тонкие, светлые, ранняя седина, раннее облысение'>тонкие, светлые, ранняя седина, раннее облысение</option>
+  <option value='пышные, густые, жирные, живые'>пышные, густые, жирные, живые</option>
+</select>
+
+<div class='clLabel'>Голова</div>
+<select id='id0308' name='var0308' title='$arrValues[8]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='маленькая, худая, непропорциональная'>маленькая, худая, непропорциональная</option>
+  <option value='средняя'>средняя</option>
+  <option value='большая, коренастая, пропорциональная'>большая, коренастая, пропорциональная</option>
+</select>
+
+<div class='clLabel'>Лоб</div>
+<select id='id0309' name='var0309' title='$arrValues[9]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='маленький, морщинистый'>маленький, морщинистый</option>
+  <option value='средний, в глубоких морщинах'>средний, в глубоких морщинах</option>
+  <option value='большой, широкий'>большой, широкий</option>
+</select>
+
+<div class='clLabel'>Глаза</div>
+<select id='id0310' name='var0310' title='$arrValues[10]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='маленькие, сухие, нервные'>маленькие, сухие, нервные</option>
+  <option value='пронизывающие, легко краснеющие'>пронизывающие, легко краснеющие</option>
+  <option value='большие, маслянистые, привлекательные'>большие, маслянистые, привлекательные</option>
+</select>
+
+<div class='clLabel'>Брови</div>
+<select id='id0311' name='var0311' title='$arrValues[11]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='узкие, тонкие'>узкие, тонкие</option>
+  <option value='средние, тонкие'>средние, тонкие</option>
+  <option value='большие, кустистые'>большие, кустистые</option>
+</select>
+
+<div class='clLabel'>Ресницы</div>
+<select id='id0312' name='var0312' title='$arrValues[12]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='короткие, сухие, крепкие'>короткие, сухие, крепкие</option>
+  <option value='тонкие, маленькие'>тонкие, маленькие</option>
+  <option value='пушистые, длинные, крепкие, маслянистые'>пушистые, длинные, крепкие, маслянистые</option>
+</select>
+
+<div class='clLabel'>Нос</div>
+<select id='id0313' name='var0313' title='$arrValues[13]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкий, маленький, изогнутый'>тонкий, маленький, изогнутый</option>
+  <option value='средний'>средний</option>
+  <option value='широкий, большой, маслянистый'>широкий, большой, маслянистый</option>
+</select>
+
+<div class='clLabel'>Губы</div>
+<select id='id0314' name='var0314' title='$arrValues[14]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие, непропорциональные, сухие, темноватые'>тонкие, непропорциональные, сухие, темноватые</option>
+  <option value='средние, хорошо окрашенные, подвержены высыпанию «простуды»'>средние, хорошо окрашенные, подвержены высыпанию «простуды»</option>
+  <option value='влажные, полные'>влажные, полные</option>
+</select>
+
+<div class='clLabel'>Зубы</div>
+<select id='id0315' name='var0315' title='$arrValues[15]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='неодинаковые пo размеру, неровные'>неодинаковые пo размеру, неровные</option>
+  <option value='средние, равномерные'>средние, равномерные</option>
+  <option value='равномерные, большие, белые'>равномерные, больщие, белые</option>
+</select>
+
+<div class='clLabel'>Десны</div>
+<select id='id0316' name='var0316' title='$arrValues[16]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='сухие, обнаженные, темные'>сухие, обнаженные, темные</option>
+  <option value='кровоточащие, воспаленные'>кровоточащие, воспаленные</option>
+  <option value='розовые, в хорошем состоянии'>розовые, в хорошем состоянии</option>
+</select>
+
+<div class='clLabel'>Язык</div>
+<select id='id0317' name='var0317' title='$arrValues[17]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='покрытый серовато-розоватым налетом'>покрытый серовато-розоватым налетом</option>
+  <option value='покрытый желтовато-зеленоватым налетом'>покрытый желтовато-зеленоватым налетом</option>
+  <option value='покрытый беловатым налетом'>покрытый беловатым налетом</option>
+</select>
+
+<div class='clLabel'>Плечи</div>
+<select id='id0318' name='var0318' title='$arrValues[18]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='узкие, маленькие, сжатые'>узкие, маленькие, сжатые</option>
+  <option value='средние'>средние</option>
+  <option value='широкие, толстые, сильные'>широкие, толстые, сильные</option>
+</select>
+
+<div class='clLabel'>Грудь</div>
+<select id='id0319' name='var0319' title='$arrValues[19]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='плоская, узкая, плохо развитая'>плоская, узкая, плохо развитая</option>
+  <option value='средняя'>средняя</option>
+  <option value='широкая, полная, мускулистая, хорошо развитая'>широкая, полная, мускулистая, хорошо развитая</option>
+</select>
+
+<div class='clLabel'>Руки</div>
+<select id='id0320' name='var0320' title='$arrValues[20]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие (или очень длинные или очень короткие), плохо развитые'>тонкие (или очень длинные или очень короткие), плохо развитые</option>
+  <option value='средние'>средние</option>
+  <option value='большие, крепкие, хорошо развитые'>большие, крепкие, хорошо развитые</option>
+</select>
+
+<div class='clLabel'>Кисти рук</div>
+<select id='id0321' name='var0321' title='$arrValues[21]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='маленькие, сухие, холодные, шершавые'>маленькие, сухие, холодные, шершавые</option>
+  <option value='средние, теплые, розовые'>средние, теплые, розовые</option>
+  <option value='большие, толстые, влажные, прохладные, твердые'>большие, толстые, влажные, прохладные, твердые</option>
+</select>
+
+<div class='clLabel'>Бедра</div>
+<select id='id0322' name='var0322' title='$arrValues[22]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие, узкие'>тонкие, узкие</option>
+  <option value='средние'>средние</option>
+  <option value='широкое, коренастые'>широкое, коренастые</option>
+</select>
+
+<div class='clLabel'>Ноги</div>
+<select id='id0323' name='var0323' title='$arrValues[23]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие (или очень длинные или очень короткие), торчащие коленки'>тонкие (или очень длинные или очень короткие), торчащие коленки</option>
+  <option value='средние, мягкие'>средние, мягкие</option>
+  <option value='округлые, крепкие'>округлые, крепкие</option>
+</select>
+
+<div class='clLabel'>Икры</div>
+<select id='id0324' name='var0324' title='$arrValues[24]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='худые, жесткие'>худые, жесткие</option>
+  <option value='неплотные, мягкие'>неплотные, мягкие</option>
+  <option value='твердые, хорошо сформированные'>твердые, хорошо сформированные</option>
+</select>
+
+<div class='clLabel'>Ступни ног</div>
+<select id='id0325' name='var0325' title='$arrValues[25]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='длинные, непропорциональные, сухие, шершавые'>длинные, непропорциональные, сухие, шершавые</option>
+  <option value='средние, мягкие, розовые'>средние, мягкие, розовые</option>
+  <option value='крупные, крепкие'>крупные, крепкие</option>
+</select>
+
+<div class='clLabel'>Суставы</div>
+<select id='id0326' name='var0326' title='$arrValues[26]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие, непропорциональные, склонны к трещинам'>тонкие, непропорциональные, склонны к трещинам</option>
+  <option value='среднего размера, свободно движущиеся'>среднего размера, свободно движущиеся</option>
+  <option value='крепкие, крупные'>крепкие, крупные</option>
+</select>
+
+<div class='clLabel'>Ногти</div>
+<select id='id0327' name='var0327' title='$arrValues[27]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='тонкие, хрупкие или грубые, трескающиеся'>тонкие, хрупкие или грубые, трескающиеся</option>
+  <option value='мягкие, розовые, блестящие'>мягкие, розовые, блестящие</option>
+  <option value='крепкие, ровные, твердые, маслянистые'>крепкие, ровные, твердые, маслянистые</option>
+</select>
+
+<div class='clLabel'>Моча</div>
+<select id='id0328' name='var0328' title='$arrValues[28]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='скудная, бесцветная, мочеиспускание часто затруднено'>скудная, бесцветная, мочеиспускание часто затруднено</option>
+  <option value='обильная, желтая или красная, обжигающая'>обильная, желтая или красная, обжигающая</option>
+  <option value='средняя, белая или мутная'>средняя, белая или мутная</option>
+</select>
+
+<div class='clLabel'>Кал</div>
+<select id='id0329' name='var0329' title='$arrValues[29]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='скудный, сухой, тяжело исходящий, часто с газами, с запорами'>скудный, сухой, тяжело исходящий, часто с газами, с запорами</option>
+  <option value='обильный, мягкий, обжигающий'>обильный, мягкий, обжигающий</option>
+  <option value='средний, однородный, часто со слизью'>средний, однородный, часто со слизью</option>
+</select>
+
+<div class='clLabel'>Пот</div>
+<select id='id0330' name='var0330' title='$arrValues[30]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='скудный, без запаха'>скудный, без запаха</option>
+  <option value='чрезмерный, с тяжелым запахом'>чрезмерный, с тяжелым запахом</option>
+  <option value='средний, прохладный, с приятным запахом'>средний, прохладный, с приятным запахом</option>
+</select>
+
+<div class='clLabel'>Аппетит</div>
+<select id='id0331' name='var0331' title='$arrValues[31]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='хороший, непостоянный, нужда в частом принятии пищи'>хороший, непостоянный, нужда в частом принятии пищи</option>
+  <option value='невысокий, раздражается при пpoпycкe очередной еды'>невысокий, раздражается при пpoпycкe очередной еды</option>
+  <option value='постоянный, низкий, ест эмоционально'>постоянный, низкий, ест эмоционально</option>
+</select>
+
+<div class='clLabel'>Перекусывание</div>
+<select id='id0332' name='var0332' title='$arrValues[32]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='любит перекусывать хрустящими закусками (sпacks)'>любит перекусывать хрустящими закусками (sпacks)</option>
+  <option value='любит холодные напитки и sпacks'>любит холодные напитки и sпacks</option>
+  <option value='любит сладкие и кремаобразные sпacks'>любит сладкие и кремаобразные sпacks</option>
+</select>
+
+<div class='clLabel'>Температура</div>
+<select id='id0333' name='var0333' title='$arrValues[33]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='низкая, непостоянная'>низкая, непостоянная</option>
+  <option value='высокая'>высокая</option>
+  <option value='низкая постоянно'>низкая постоянно</option>
+</select>
+
+<div class='clLabel'>Пищеварение</div>
+<select id='id0334' name='var0334' title='$arrValues[34]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='нерегулярное'>нерегулярное</option>
+  <option value='сильное, быстрое'>сильное, быстрое</option>
+  <option value='медленное, устойчивое'>медленное, устойчивое</option>
+</select>
+
+<div class='clLabel'>Кровообращение</div>
+<select id='id0335' name='var0335' title='$arrValues[35]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='плохое, непостоянное'>плохое, непостоянное</option>
+  <option value='хорошее, теплое'>хорошее, теплое</option>
+  <option value='хорошее, медленное, теплое, постоянное'>хорошее, медленное, теплое, постоянное</option>
+</select>
+
+<div class='clLabel'>Голос</div>
+<select id='id0336' name='var0336' title='$arrValues[36]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='низкий, грубый, надтреснутый или слабый'>низкий, грубый, надтреснутый или слабый</option>
+  <option value='средний, чистый'>средний, чистый</option>
+  <option value='глубокий, приятный'>глубокий, приятный</option>
+</select>
+
+<div class='clLabel'>Разговор</div>
+<select id='id0337' name='var0337' title='$arrValues[37]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='быстрый, болтливый, возбужденный'>быстрый, болтливый, возбужденный</option>
+  <option value='любящий спорить, убедительный'>любящий спорить, убедительный</option>
+  <option value='медленный, обдуманный'>медленный, обдуманный</option>
+</select>
+
+<div class='clLabel'>Умственное развитие</div>
+<select id='id0338' name='var0338' title='$arrValues[38]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='быстрый, приспосабливающийся, любящий теоритезировать человек'>быстрый, приспосабливающийся, любящий теоритезировать человек</option>
+  <option value='критичный, проницательный'>критичный, проницательный</option>
+  <option value='состояние медленное, устойчивое, терпимое ко многому'>состояние медленное, устойчивое, терпимое ко многому</option>
+</select>
+
+<div class='clLabel'>Память</div>
+<select id='id0339' name='var0339' title='$arrValues[39]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='быстрая, плохая длительная память'>быстрая, плохая длительная память</option>
+  <option value='ясная, острая, хорошая'>ясная, острая, хорошая</option>
+  <option value='медленная, хорошая длительная память'>медленная, хорошая длительная память</option>
+</select>
+
+<div class='clLabel'>Эмоции</div>
+<select id='id0340' name='var0340' title='$arrValues[40]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='истерики, панические атаки, страхи, переменчивость, дрожь'>истерики, панические атаки, страхи, переменчивость, дрожь</option>
+  <option value='гневливость, раздражительность, зависть, стремление спорить'>гневливость, раздражительность, зависть, стремление спорить</option>
+  <option value='сентиментальность, сожаления, депресии, беспомощность'>сентиментальность, сожаления, депресии, беспомощность</option>
+</select>
+
+<div class='clLabel'>Преданность, верность</div>
+<select id='id0341' name='var0341' title='$arrValues[41]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='непостоянный, мятежный'>непостоянный, мятежный</option>
+  <option value='решительный, лидер, фанатик'>решительный, лидер, фанатик</option>
+  <option value='преданный, консервативный'>преданный, консервативный</option>
+</select>
+
+<div class='clLabel'>Сон</div>
+<select id='id0342' name='var0342' title='$arrValues[42]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='поверхностный, склонность к бессонице, скрежетание зубами'>поверхностный, склонность к бессонице, скрежетание зубами</option>
+  <option value='нормальный, плохой при проблемах'>нормальный, плохой при проблемах</option>
+  <option value='глубокий, засыпание без проблем, тяжелый подьем'>глубокий, засыпание без проблем, тяжелый подьем</option>
+</select>
+
+<div class='clLabel'>Сновидения</div>
+<select id='id0343' name='var0343' title='$arrValues[43]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='полеты, движения, кошмары'>полеты, движения, кошмары</option>
+  <option value='цветные, страстные, конфликтные'>цветные, страстные, конфликтные</option>
+  <option value='романтические, небогатые событиями, редкие сны'>романтические, небогатые событиями, редкие сны</option>
+</select>
+
+<div class='clLabel'>Активность</div>
+<select id='id0344' name='var0344' title='$arrValues[44]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='быстрый, сумасбродный, неутомимый'>быстрый, сумасбродный, неутомимый</option>
+  <option value='средняя, целенаправленный, стремящийся к результату'>средняя, целенаправленный, стремящийся к результату</option>
+  <option value='медленный, стабильный, методичный'>медленный, стабильный, методичный</option>
+</select>
+
+<div class='clLabel'>Климат</div>
+<select id='id0345' name='var0345' title='$arrValues[45]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='любит солнце и тепло, нервничает при ветре'>любит солнце и тепло, нервничает при ветре</option>
+  <option value='любит холодную погоду, ра здражается при жаре'>любит холодную погоду, ра здражается при жаре</option>
+  <option value='любит тепло, страдает от холода, сырости и влаги'>любит тепло, страдает от холода, сырости и влаги</option>
+</select>
+
+<div class='clLabel'>Чуствительность</div>
+<select id='id0346' name='var0346' title='$arrValues[46]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='к шуму, боли, холоду, сквозняку, сухости'>к шуму, боли, холоду, сквозняку, сухости</option>
+  <option value='к жаре, свету, цвету'>к жаре, свету, цвету</option>
+  <option value='прикосновениям, холоду, подвержен проявлению эмоций'>прикосновениям, холоду, подвержен проявлению эмоций</option>
+</select>
+
+<div class='clLabel'>Привычки</div>
+<select id='id0347' name='var0347' title='$arrValues[47]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='передвижения, путешествия, танцы, развлечения'>передвижения, путешествия, танцы, развлечения</option>
+  <option value='спорт, политика, физическая активность, любит соревноваться'>спорт, политика, физическая активность, любит соревноваться</option>
+  <option value='садоводство, приготовление пищи, водный спорт, бизнес'>садоводство, приготовление пищи, водный спорт, бизнес</option>
+</select>
+
+<div class='clLabel'>Выносливость</div>
+<select id='id0348' name='var0348' title='$arrValues[48]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='плохая, быстро начинает и останавливается быстро'>плохая, быстро начинает и останавливается быстро</option>
+  <option value='средняя, не переносит жары'>средняя, не переносит жары</option>
+  <option value='сильная, медленно начинает'>сильная, медленно начинает</option>
+</select>
+
+<div class='clLabel'>Сексуальность</div>
+<select id='id0349' name='var0349' title='$arrValues[49]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='сильное, но нерегулярное влечение, невысокая сексуальная энергетика'>сильное, но нерегулярное влечение, невысокая сексуальная энергетика</option>
+  <option value='сильное влечение, контролирование, ярость при недоступности'>сильное влечение, контролирование, ярость при недоступности</option>
+  <option value='несильное, спокойное, преданное, высокая сексуальная энергетика'>несильное, спокойное, преданное, высокая сексуальная энергетика</option>
+</select>
+
+<div class='clLabel'>Иммунитет</div>
+<select id='id0350' name='var0350' title='$arrValues[50]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='низкий, переменный'>низкий, переменный</option>
+  <option value='нормальный, иногда склонный к инфекциям'>нормальный, иногда склонный к инфекциям</option>
+  <option value='сильный, склонность к застойным явлениям'>сильный, склонность к застойным явлениям</option>
+</select>
+
+<div class='clLabel'>Склонность к заболеваниям</div>
+<select id='id0351' name='var0351' title='$arrValues[51]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='истерики, панические атаки, дрожь'>истерики, панические атаки, дрожь</option>
+  <option value='инфекции, воспаления, ощущение жара'>инфекции, воспаления, ощущение жара</option>
+  <option value='отеки, слизь, заложенность дыхательных путей'>отеки, слизь, заложенность дыхательных путей</option>
+</select>
+
+<div class='clLabel'>Финансы</div>
+<select id='id0352' name='var0352' title='$arrValues[52]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='зарабатываются и легко тратятся'>зарабатываются и легко тратятся</option>
+  <option value='держится в бюджете'>держится в бюджете</option>
+  <option value='любит откпадывать, может потратить под наплывом эмоций'>любит откпадывать, может потратить под наплывом эмоций</option>
+</select>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

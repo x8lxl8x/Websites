@@ -1,0 +1,16 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Главное - Личное состояние</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<textarea rows='20' cols='65' id='id99001' name='var99001' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[1]</textarea>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

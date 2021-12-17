@@ -1,0 +1,191 @@
+# s'ébaucher %[clVerbGroup|1]
+[-
+tracer l'ébauche de. 
+commencer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'ébauch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|ébauch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'ébauch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|ébauch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'ébauch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|ébauch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|ébauch%[m|e]|
+|tu|t'|ébauch%[m|es]|
+|il|s'|ébauch%[m|e]|
+|nous|nous|ébauch%[m|ons]|
+|vous|vous|ébauch%[m|ez]|
+|ils|s'|ébauch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|ébauch%[m|é]|
+|tu|t'|es|ébauch%[m|é]|
+|il|s'|est|ébauch%[m|é]|
+|nous|nous|sommes|ébauch%[m|és]|
+|vous|vous|êtes|ébauch%[m|és]|
+|ils|se|sont|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|ébauch%[m|ais]|
+|tu|t'|ébauch%[m|ais]|
+|il|s'|ébauch%[m|ait]|
+|nous|nous|ébauch%[m|ions]|
+|vous|vous|ébauch%[m|iez]|
+|ils|s'|ébauch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|ébauch%[m|é]|
+|tu|t'|étais|ébauch%[m|é]|
+|il|s'|était|ébauch%[m|é]|
+|nous|nous|étions|ébauch%[m|és]|
+|vous|vous|étiez|ébauch%[m|és]|
+|ils|s'|étaient|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|ébauch%[m|ai]|
+|tu|t'|ébauch%[m|as]|
+|il|s'|ébauch%[m|a]|
+|nous|nous|ébauch%[m|âmes]|
+|vous|vous|ébauch%[m|âtes]|
+|ils|s'|ébauch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|ébauch%[m|é]|
+|tu|te|fus|ébauch%[m|é]|
+|il|se|fut|ébauch%[m|é]|
+|nous|nous|fûmes|ébauch%[m|és]|
+|vous|vous|fûtes|ébauch%[m|és]|
+|ils|se|furent|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|ébauch%[m|erai]|
+|tu|t'|ébauch%[m|eras]|
+|il|s'|ébauch%[m|era]|
+|nous|nous|ébauch%[m|erons]|
+|vous|vous|ébauch%[m|erez]|
+|ils|s'|ébauch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|ébauch%[m|é]|
+|tu|te|seras|ébauch%[m|é]|
+|il|se|sera|ébauch%[m|é]|
+|nous|nous|serons|ébauch%[m|és]|
+|vous|vous|serez|ébauch%[m|és]|
+|ils|se|seront|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|ébauch%[m|erais]|
+|tu|t'|ébauch%[m|erais]|
+|il|s'|ébauch%[m|erait]|
+|nous|nous|ébauch%[m|erions]|
+|vous|vous|ébauch%[m|eriez]|
+|ils|s'|ébauch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|ébauch%[m|é]|
+|tu|te|serais|ébauch%[m|é]|
+|il|se|serait|ébauch%[m|é]|
+|nous|nous|serions|ébauch%[m|és]|
+|vous|vous|seriez|ébauch%[m|és]|
+|ils|se|seraient|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|ébauch%[m|e]|
+|que|tu|t'|ébauch%[m|es]|
+|qu'|il|s'|ébauch%[m|e]|
+|que|nous|nous|ébauch%[m|ions]|
+|que|vous|vous|ébauch%[m|iez]|
+|qu'|ils|s'|ébauch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|ébauch%[m|é]|
+|que|tu|te|sois|ébauch%[m|é]|
+|qu'|il|se|soit|ébauch%[m|é]|
+|que|nous|nous|soyons|ébauch%[m|és]|
+|que|vous|vous|soyez|ébauch%[m|és]|
+|qu'|ils|se|soient|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|ébauch%[m|asse]|
+|que|tu|t'|ébauch%[m|asses]|
+|qu'|il|s'|ébauch%[m|ât]|
+|que|nous|nous|ébauch%[m|assions]|
+|que|vous|vous|ébauch%[m|assiez]|
+|qu'|ils|s'|ébauch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|ébauch%[m|é]|
+|que|tu|te|fusses|ébauch%[m|é]|
+|qu'|il|se|fût|ébauch%[m|é]|
+|que|nous|nous|fussions|ébauch%[m|és]|
+|que|vous|vous|fussiez|ébauch%[m|és]|
+|qu'|ils|se|fussent|ébauch%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ébauch%[m|e]-toi|
+|ébauch%[m|ons]-nous|
+|ébauch%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

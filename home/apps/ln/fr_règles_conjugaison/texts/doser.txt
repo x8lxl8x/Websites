@@ -1,0 +1,190 @@
+# doser %[clVerbGroup|1]
+[-
+déterminer la quantité de ce qui entre dans la composition de quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dos%[m|é]|
+|ayant|dos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dos%[m|e]|
+|tu|dos%[m|es]|
+|il|dos%[m|e]|
+|nous|dos%[m|ons]|
+|vous|dos%[m|ez]|
+|ils|dos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dos%[m|é]|
+|tu|as |dos%[m|é]|
+|il|a|dos%[m|é]|
+|nous|avons|dos%[m|é]|
+|vous|avez|dos%[m|é]|
+|ils|ont|dos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dos%[m|ais]|
+|tu|dos%[m|ais]|
+|il|dos%[m|ait]|
+|nous|dos%[m|ions]|
+|vous|dos%[m|iez]|
+|ils|dos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dos%[m|é]|
+|tu|avais|dos%[m|é]|
+|il|avait|dos%[m|é]|
+|nous|avions|dos%[m|é]|
+|vous|aviez|dos%[m|é]|
+|ils|avaient|dos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dos%[m|ai]|
+|tu|dos%[m|as]|
+|il|dos%[m|a]|
+|nous|dos%[m|âmes]|
+|vous|dos%[m|âtes]|
+|ils|dos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dos%[m|é]|
+|tu|eus|dos%[m|é]|
+|il|eut|dos%[m|é]|
+|nous|e&ucirc;mes|dos%[m|é]|
+|vous|e&ucirc;tes|dos%[m|é]|
+|ils|eurent|dos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dos%[m|erai]|
+|tu|dos%[m|eras]|
+|il|dos%[m|era]|
+|nous|dos%[m|erons]|
+|vous|dos%[m|erez]|
+|ils|dos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dos%[m|é]|
+|tu|auras|dos%[m|é]|
+|il|aura|dos%[m|é]|
+|nous|aurons|dos%[m|é]|
+|vous|aurez|dos%[m|é]|
+|ils|auront|dos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dos%[m|erais]|
+|tu|dos%[m|erais]|
+|il|dos%[m|erait]|
+|nous|dos%[m|erions]|
+|vous|dos%[m|eriez]|
+|ils|dos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dos%[m|é]|
+|tu|aurais|dos%[m|é]|
+|il|aurait|dos%[m|é]|
+|nous|aurions|dos%[m|é]|
+|vous|auriez|dos%[m|é]|
+|ils|auraient|dos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dos%[m|e]|
+|que|tu|dos%[m|es]|
+|qu'|il|dos%[m|e]|
+|que|nous|dos%[m|ions]|
+|que|vous|dos%[m|iez]|
+|qu'|ils|dos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dos%[m|é]|
+|que|tu|aies|dos%[m|é]|
+|qu'|il|ait|dos%[m|é]|
+|que|nous|ayons|dos%[m|é]|
+|que|vous|ayez|dos%[m|é]|
+|qu'|ils|aient|dos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dos%[m|asse]|
+|que|tu|dos%[m|asses]|
+|qu'|il|dos%[m|ât]|
+|que|nous|dos%[m|assions]|
+|que|vous|dos%[m|assiez]|
+|qu'|ils|dos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dos%[m|é]|
+|que|tu|eusses|dos%[m|é]|
+|qu'|il|eût|dos%[m|é]|
+|que|nous|eussions|dos%[m|é]|
+|que|vous|eussiez|dos%[m|é]|
+|qu'|ils|eussent|dos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dos%[m|e]|
+|dos%[m|ons]|
+|dos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dos%[m|é]|
+|ayons|dos%[m|é]|
+|ayez|dos%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# cornancher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cornanch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cornanch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cornanch%[m|é]|
+|ayant|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cornanch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cornanch%[m|e]|
+|tu|cornanch%[m|es]|
+|il|cornanch%[m|e]|
+|nous|cornanch%[m|ons]|
+|vous|cornanch%[m|ez]|
+|ils|cornanch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cornanch%[m|é]|
+|tu|as |cornanch%[m|é]|
+|il|a|cornanch%[m|é]|
+|nous|avons|cornanch%[m|é]|
+|vous|avez|cornanch%[m|é]|
+|ils|ont|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cornanch%[m|ais]|
+|tu|cornanch%[m|ais]|
+|il|cornanch%[m|ait]|
+|nous|cornanch%[m|ions]|
+|vous|cornanch%[m|iez]|
+|ils|cornanch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cornanch%[m|é]|
+|tu|avais|cornanch%[m|é]|
+|il|avait|cornanch%[m|é]|
+|nous|avions|cornanch%[m|é]|
+|vous|aviez|cornanch%[m|é]|
+|ils|avaient|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cornanch%[m|ai]|
+|tu|cornanch%[m|as]|
+|il|cornanch%[m|a]|
+|nous|cornanch%[m|âmes]|
+|vous|cornanch%[m|âtes]|
+|ils|cornanch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cornanch%[m|é]|
+|tu|eus|cornanch%[m|é]|
+|il|eut|cornanch%[m|é]|
+|nous|e&ucirc;mes|cornanch%[m|é]|
+|vous|e&ucirc;tes|cornanch%[m|é]|
+|ils|eurent|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cornanch%[m|erai]|
+|tu|cornanch%[m|eras]|
+|il|cornanch%[m|era]|
+|nous|cornanch%[m|erons]|
+|vous|cornanch%[m|erez]|
+|ils|cornanch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cornanch%[m|é]|
+|tu|auras|cornanch%[m|é]|
+|il|aura|cornanch%[m|é]|
+|nous|aurons|cornanch%[m|é]|
+|vous|aurez|cornanch%[m|é]|
+|ils|auront|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cornanch%[m|erais]|
+|tu|cornanch%[m|erais]|
+|il|cornanch%[m|erait]|
+|nous|cornanch%[m|erions]|
+|vous|cornanch%[m|eriez]|
+|ils|cornanch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cornanch%[m|é]|
+|tu|aurais|cornanch%[m|é]|
+|il|aurait|cornanch%[m|é]|
+|nous|aurions|cornanch%[m|é]|
+|vous|auriez|cornanch%[m|é]|
+|ils|auraient|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cornanch%[m|e]|
+|que|tu|cornanch%[m|es]|
+|qu'|il|cornanch%[m|e]|
+|que|nous|cornanch%[m|ions]|
+|que|vous|cornanch%[m|iez]|
+|qu'|ils|cornanch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cornanch%[m|é]|
+|que|tu|aies|cornanch%[m|é]|
+|qu'|il|ait|cornanch%[m|é]|
+|que|nous|ayons|cornanch%[m|é]|
+|que|vous|ayez|cornanch%[m|é]|
+|qu'|ils|aient|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cornanch%[m|asse]|
+|que|tu|cornanch%[m|asses]|
+|qu'|il|cornanch%[m|ât]|
+|que|nous|cornanch%[m|assions]|
+|que|vous|cornanch%[m|assiez]|
+|qu'|ils|cornanch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cornanch%[m|é]|
+|que|tu|eusses|cornanch%[m|é]|
+|qu'|il|eût|cornanch%[m|é]|
+|que|nous|eussions|cornanch%[m|é]|
+|que|vous|eussiez|cornanch%[m|é]|
+|qu'|ils|eussent|cornanch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cornanch%[m|e]|
+|cornanch%[m|ons]|
+|cornanch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cornanch%[m|é]|
+|ayons|cornanch%[m|é]|
+|ayez|cornanch%[m|é]|
+|]
+

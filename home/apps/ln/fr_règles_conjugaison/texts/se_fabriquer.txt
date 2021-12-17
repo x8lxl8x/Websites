@@ -1,0 +1,190 @@
+# se fabriquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se fabriqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|fabriqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se fabriqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|fabriqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se fabriqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|fabriqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|fabriqu%[m|e]|
+|tu|te|fabriqu%[m|es]|
+|il|se|fabriqu%[m|e]|
+|nous|nous|fabriqu%[m|ons]|
+|vous|vous|fabriqu%[m|ez]|
+|ils|se|fabriqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|fabriqu%[m|é]|
+|tu|t'|es|fabriqu%[m|é]|
+|il|s'|est|fabriqu%[m|é]|
+|nous|nous|sommes|fabriqu%[m|és]|
+|vous|vous|êtes|fabriqu%[m|és]|
+|ils|se|sont|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|fabriqu%[m|ais]|
+|tu|te|fabriqu%[m|ais]|
+|il|se|fabriqu%[m|ait]|
+|nous|nous|fabriqu%[m|ions]|
+|vous|vous|fabriqu%[m|iez]|
+|ils|se|fabriqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|fabriqu%[m|é]|
+|tu|t'|étais|fabriqu%[m|é]|
+|il|s'|était|fabriqu%[m|é]|
+|nous|nous|étions|fabriqu%[m|és]|
+|vous|vous|étiez|fabriqu%[m|és]|
+|ils|s'|étaient|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|fabriqu%[m|ai]|
+|tu|te|fabriqu%[m|as]|
+|il|se|fabriqu%[m|a]|
+|nous|nous|fabriqu%[m|âmes]|
+|vous|vous|fabriqu%[m|âtes]|
+|ils|se|fabriqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|fabriqu%[m|é]|
+|tu|te|fus|fabriqu%[m|é]|
+|il|se|fut|fabriqu%[m|é]|
+|nous|nous|fûmes|fabriqu%[m|és]|
+|vous|vous|fûtes|fabriqu%[m|és]|
+|ils|se|furent|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|fabriqu%[m|erai]|
+|tu|te|fabriqu%[m|eras]|
+|il|se|fabriqu%[m|era]|
+|nous|nous|fabriqu%[m|erons]|
+|vous|vous|fabriqu%[m|erez]|
+|ils|se|fabriqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|fabriqu%[m|é]|
+|tu|te|seras|fabriqu%[m|é]|
+|il|se|sera|fabriqu%[m|é]|
+|nous|nous|serons|fabriqu%[m|és]|
+|vous|vous|serez|fabriqu%[m|és]|
+|ils|se|seront|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|fabriqu%[m|erais]|
+|tu|te|fabriqu%[m|erais]|
+|il|se|fabriqu%[m|erait]|
+|nous|nous|fabriqu%[m|erions]|
+|vous|vous|fabriqu%[m|eriez]|
+|ils|se|fabriqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|fabriqu%[m|é]|
+|tu|te|serais|fabriqu%[m|é]|
+|il|se|serait|fabriqu%[m|é]|
+|nous|nous|serions|fabriqu%[m|és]|
+|vous|vous|seriez|fabriqu%[m|és]|
+|ils|se|seraient|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|fabriqu%[m|e]|
+|que|tu|te|fabriqu%[m|es]|
+|qu'|il|se|fabriqu%[m|e]|
+|que|nous|nous|fabriqu%[m|ions]|
+|que|vous|vous|fabriqu%[m|iez]|
+|qu'|ils|se|fabriqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|fabriqu%[m|é]|
+|que|tu|te|sois|fabriqu%[m|é]|
+|qu'|il|se|soit|fabriqu%[m|é]|
+|que|nous|nous|soyons|fabriqu%[m|és]|
+|que|vous|vous|soyez|fabriqu%[m|és]|
+|qu'|ils|se|soient|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|fabriqu%[m|asse]|
+|que|tu|te|fabriqu%[m|asses]|
+|qu'|il|se|fabriqu%[m|ât]|
+|que|nous|nous|fabriqu%[m|assions]|
+|que|vous|vous|fabriqu%[m|assiez]|
+|qu'|ils|se|fabriqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|fabriqu%[m|é]|
+|que|tu|te|fusses|fabriqu%[m|é]|
+|qu'|il|se|fût|fabriqu%[m|é]|
+|que|nous|nous|fussions|fabriqu%[m|és]|
+|que|vous|vous|fussiez|fabriqu%[m|és]|
+|qu'|ils|se|fussent|fabriqu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fabriqu%[m|e]-toi|
+|fabriqu%[m|ons]-nous|
+|fabriqu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

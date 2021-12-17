@@ -1,0 +1,190 @@
+# appointer %[clVerbGroup|1]
+[-
+verser des appointements. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|appoint%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|appoint%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|appoint%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||appoint%[m|é]|
+|ayant|appoint%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en appoint%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|appoint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|appoint%[m|e]|
+|tu|appoint%[m|es]|
+|il|appoint%[m|e]|
+|nous|appoint%[m|ons]|
+|vous|appoint%[m|ez]|
+|ils|appoint%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|appoint%[m|é]|
+|tu|as |appoint%[m|é]|
+|il|a|appoint%[m|é]|
+|nous|avons|appoint%[m|é]|
+|vous|avez|appoint%[m|é]|
+|ils|ont|appoint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|appoint%[m|ais]|
+|tu|appoint%[m|ais]|
+|il|appoint%[m|ait]|
+|nous|appoint%[m|ions]|
+|vous|appoint%[m|iez]|
+|ils|appoint%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|appoint%[m|é]|
+|tu|avais|appoint%[m|é]|
+|il|avait|appoint%[m|é]|
+|nous|avions|appoint%[m|é]|
+|vous|aviez|appoint%[m|é]|
+|ils|avaient|appoint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|appoint%[m|ai]|
+|tu|appoint%[m|as]|
+|il|appoint%[m|a]|
+|nous|appoint%[m|âmes]|
+|vous|appoint%[m|âtes]|
+|ils|appoint%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|appoint%[m|é]|
+|tu|eus|appoint%[m|é]|
+|il|eut|appoint%[m|é]|
+|nous|e&ucirc;mes|appoint%[m|é]|
+|vous|e&ucirc;tes|appoint%[m|é]|
+|ils|eurent|appoint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|appoint%[m|erai]|
+|tu|appoint%[m|eras]|
+|il|appoint%[m|era]|
+|nous|appoint%[m|erons]|
+|vous|appoint%[m|erez]|
+|ils|appoint%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|appoint%[m|é]|
+|tu|auras|appoint%[m|é]|
+|il|aura|appoint%[m|é]|
+|nous|aurons|appoint%[m|é]|
+|vous|aurez|appoint%[m|é]|
+|ils|auront|appoint%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|appoint%[m|erais]|
+|tu|appoint%[m|erais]|
+|il|appoint%[m|erait]|
+|nous|appoint%[m|erions]|
+|vous|appoint%[m|eriez]|
+|ils|appoint%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|appoint%[m|é]|
+|tu|aurais|appoint%[m|é]|
+|il|aurait|appoint%[m|é]|
+|nous|aurions|appoint%[m|é]|
+|vous|auriez|appoint%[m|é]|
+|ils|auraient|appoint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|appoint%[m|e]|
+|que|tu|appoint%[m|es]|
+|qu'|il|appoint%[m|e]|
+|que|nous|appoint%[m|ions]|
+|que|vous|appoint%[m|iez]|
+|qu'|ils|appoint%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|appoint%[m|é]|
+|que|tu|aies|appoint%[m|é]|
+|qu'|il|ait|appoint%[m|é]|
+|que|nous|ayons|appoint%[m|é]|
+|que|vous|ayez|appoint%[m|é]|
+|qu'|ils|aient|appoint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|appoint%[m|asse]|
+|que|tu|appoint%[m|asses]|
+|qu'|il|appoint%[m|ât]|
+|que|nous|appoint%[m|assions]|
+|que|vous|appoint%[m|assiez]|
+|qu'|ils|appoint%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|appoint%[m|é]|
+|que|tu|eusses|appoint%[m|é]|
+|qu'|il|eût|appoint%[m|é]|
+|que|nous|eussions|appoint%[m|é]|
+|que|vous|eussiez|appoint%[m|é]|
+|qu'|ils|eussent|appoint%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|appoint%[m|e]|
+|appoint%[m|ons]|
+|appoint%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|appoint%[m|é]|
+|ayons|appoint%[m|é]|
+|ayez|appoint%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# débugger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|débugg%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|débugg%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|débugg%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||débugg%[m|é]|
+|ayant|débugg%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en débugg%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|débugg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|débugg%[m|e]|
+|tu|débugg%[m|es]|
+|il|débugg%[m|e]|
+|nous|débugg%[m|ons]|
+|vous|débugg%[m|ez]|
+|ils|débugg%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|débugg%[m|é]|
+|tu|as |débugg%[m|é]|
+|il|a|débugg%[m|é]|
+|nous|avons|débugg%[m|é]|
+|vous|avez|débugg%[m|é]|
+|ils|ont|débugg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|débugg%[m|ais]|
+|tu|débugg%[m|ais]|
+|il|débugg%[m|ait]|
+|nous|débugg%[m|ions]|
+|vous|débugg%[m|iez]|
+|ils|débugg%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|débugg%[m|é]|
+|tu|avais|débugg%[m|é]|
+|il|avait|débugg%[m|é]|
+|nous|avions|débugg%[m|é]|
+|vous|aviez|débugg%[m|é]|
+|ils|avaient|débugg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|débugg%[m|ai]|
+|tu|débugg%[m|as]|
+|il|débugg%[m|a]|
+|nous|débugg%[m|âmes]|
+|vous|débugg%[m|âtes]|
+|ils|débugg%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|débugg%[m|é]|
+|tu|eus|débugg%[m|é]|
+|il|eut|débugg%[m|é]|
+|nous|e&ucirc;mes|débugg%[m|é]|
+|vous|e&ucirc;tes|débugg%[m|é]|
+|ils|eurent|débugg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|débugg%[m|erai]|
+|tu|débugg%[m|eras]|
+|il|débugg%[m|era]|
+|nous|débugg%[m|erons]|
+|vous|débugg%[m|erez]|
+|ils|débugg%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|débugg%[m|é]|
+|tu|auras|débugg%[m|é]|
+|il|aura|débugg%[m|é]|
+|nous|aurons|débugg%[m|é]|
+|vous|aurez|débugg%[m|é]|
+|ils|auront|débugg%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|débugg%[m|erais]|
+|tu|débugg%[m|erais]|
+|il|débugg%[m|erait]|
+|nous|débugg%[m|erions]|
+|vous|débugg%[m|eriez]|
+|ils|débugg%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|débugg%[m|é]|
+|tu|aurais|débugg%[m|é]|
+|il|aurait|débugg%[m|é]|
+|nous|aurions|débugg%[m|é]|
+|vous|auriez|débugg%[m|é]|
+|ils|auraient|débugg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|débugg%[m|e]|
+|que|tu|débugg%[m|es]|
+|qu'|il|débugg%[m|e]|
+|que|nous|débugg%[m|ions]|
+|que|vous|débugg%[m|iez]|
+|qu'|ils|débugg%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|débugg%[m|é]|
+|que|tu|aies|débugg%[m|é]|
+|qu'|il|ait|débugg%[m|é]|
+|que|nous|ayons|débugg%[m|é]|
+|que|vous|ayez|débugg%[m|é]|
+|qu'|ils|aient|débugg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|débugg%[m|asse]|
+|que|tu|débugg%[m|asses]|
+|qu'|il|débugg%[m|ât]|
+|que|nous|débugg%[m|assions]|
+|que|vous|débugg%[m|assiez]|
+|qu'|ils|débugg%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|débugg%[m|é]|
+|que|tu|eusses|débugg%[m|é]|
+|qu'|il|eût|débugg%[m|é]|
+|que|nous|eussions|débugg%[m|é]|
+|que|vous|eussiez|débugg%[m|é]|
+|qu'|ils|eussent|débugg%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|débugg%[m|e]|
+|débugg%[m|ons]|
+|débugg%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|débugg%[m|é]|
+|ayons|débugg%[m|é]|
+|ayez|débugg%[m|é]|
+|]
+

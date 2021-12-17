@@ -1,0 +1,190 @@
+# quarter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|quart%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|quart%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|quart%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||quart%[m|é]|
+|ayant|quart%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en quart%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|quart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|quart%[m|e]|
+|tu|quart%[m|es]|
+|il|quart%[m|e]|
+|nous|quart%[m|ons]|
+|vous|quart%[m|ez]|
+|ils|quart%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|quart%[m|é]|
+|tu|as |quart%[m|é]|
+|il|a|quart%[m|é]|
+|nous|avons|quart%[m|é]|
+|vous|avez|quart%[m|é]|
+|ils|ont|quart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|quart%[m|ais]|
+|tu|quart%[m|ais]|
+|il|quart%[m|ait]|
+|nous|quart%[m|ions]|
+|vous|quart%[m|iez]|
+|ils|quart%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|quart%[m|é]|
+|tu|avais|quart%[m|é]|
+|il|avait|quart%[m|é]|
+|nous|avions|quart%[m|é]|
+|vous|aviez|quart%[m|é]|
+|ils|avaient|quart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|quart%[m|ai]|
+|tu|quart%[m|as]|
+|il|quart%[m|a]|
+|nous|quart%[m|âmes]|
+|vous|quart%[m|âtes]|
+|ils|quart%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|quart%[m|é]|
+|tu|eus|quart%[m|é]|
+|il|eut|quart%[m|é]|
+|nous|e&ucirc;mes|quart%[m|é]|
+|vous|e&ucirc;tes|quart%[m|é]|
+|ils|eurent|quart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|quart%[m|erai]|
+|tu|quart%[m|eras]|
+|il|quart%[m|era]|
+|nous|quart%[m|erons]|
+|vous|quart%[m|erez]|
+|ils|quart%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|quart%[m|é]|
+|tu|auras|quart%[m|é]|
+|il|aura|quart%[m|é]|
+|nous|aurons|quart%[m|é]|
+|vous|aurez|quart%[m|é]|
+|ils|auront|quart%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|quart%[m|erais]|
+|tu|quart%[m|erais]|
+|il|quart%[m|erait]|
+|nous|quart%[m|erions]|
+|vous|quart%[m|eriez]|
+|ils|quart%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|quart%[m|é]|
+|tu|aurais|quart%[m|é]|
+|il|aurait|quart%[m|é]|
+|nous|aurions|quart%[m|é]|
+|vous|auriez|quart%[m|é]|
+|ils|auraient|quart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|quart%[m|e]|
+|que|tu|quart%[m|es]|
+|qu'|il|quart%[m|e]|
+|que|nous|quart%[m|ions]|
+|que|vous|quart%[m|iez]|
+|qu'|ils|quart%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|quart%[m|é]|
+|que|tu|aies|quart%[m|é]|
+|qu'|il|ait|quart%[m|é]|
+|que|nous|ayons|quart%[m|é]|
+|que|vous|ayez|quart%[m|é]|
+|qu'|ils|aient|quart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|quart%[m|asse]|
+|que|tu|quart%[m|asses]|
+|qu'|il|quart%[m|ât]|
+|que|nous|quart%[m|assions]|
+|que|vous|quart%[m|assiez]|
+|qu'|ils|quart%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|quart%[m|é]|
+|que|tu|eusses|quart%[m|é]|
+|qu'|il|eût|quart%[m|é]|
+|que|nous|eussions|quart%[m|é]|
+|que|vous|eussiez|quart%[m|é]|
+|qu'|ils|eussent|quart%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|quart%[m|e]|
+|quart%[m|ons]|
+|quart%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|quart%[m|é]|
+|ayons|quart%[m|é]|
+|ayez|quart%[m|é]|
+|]
+

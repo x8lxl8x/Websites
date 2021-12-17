@@ -1,0 +1,190 @@
+# ombrager %[clVerbGroup|1]
+[-
+faire ou donner de l'ombre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ombrag%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ombrag%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ombrag%[m|é]|
+|ayant|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ombrag%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ombrag%[m|e]|
+|tu|ombrag%[m|es]|
+|il|ombrag%[m|e]|
+|nous|ombrag%[m|eons]|
+|vous|ombrag%[m|ez]|
+|ils|ombrag%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ombrag%[m|é]|
+|tu|as |ombrag%[m|é]|
+|il|a|ombrag%[m|é]|
+|nous|avons|ombrag%[m|é]|
+|vous|avez|ombrag%[m|é]|
+|ils|ont|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ombrag%[m|eais]|
+|tu|ombrag%[m|eais]|
+|il|ombrag%[m|eait]|
+|nous|ombrag%[m|ions]|
+|vous|ombrag%[m|iez]|
+|ils|ombrag%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ombrag%[m|é]|
+|tu|avais|ombrag%[m|é]|
+|il|avait|ombrag%[m|é]|
+|nous|avions|ombrag%[m|é]|
+|vous|aviez|ombrag%[m|é]|
+|ils|avaient|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ombrag%[m|eai]|
+|tu|ombrag%[m|eas]|
+|il|ombrag%[m|ea]|
+|nous|ombrag%[m|eâmes]|
+|vous|ombrag%[m|eâtes]|
+|ils|ombrag%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ombrag%[m|é]|
+|tu|eus|ombrag%[m|é]|
+|il|eut|ombrag%[m|é]|
+|nous|e&ucirc;mes|ombrag%[m|é]|
+|vous|e&ucirc;tes|ombrag%[m|é]|
+|ils|eurent|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ombrag%[m|erai]|
+|tu|ombrag%[m|eras]|
+|il|ombrag%[m|era]|
+|nous|ombrag%[m|erons]|
+|vous|ombrag%[m|erez]|
+|ils|ombrag%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ombrag%[m|é]|
+|tu|auras|ombrag%[m|é]|
+|il|aura|ombrag%[m|é]|
+|nous|aurons|ombrag%[m|é]|
+|vous|aurez|ombrag%[m|é]|
+|ils|auront|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ombrag%[m|erais]|
+|tu|ombrag%[m|erais]|
+|il|ombrag%[m|erait]|
+|nous|ombrag%[m|erions]|
+|vous|ombrag%[m|eriez]|
+|ils|ombrag%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ombrag%[m|é]|
+|tu|aurais|ombrag%[m|é]|
+|il|aurait|ombrag%[m|é]|
+|nous|aurions|ombrag%[m|é]|
+|vous|auriez|ombrag%[m|é]|
+|ils|auraient|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ombrag%[m|e]|
+|que|tu|ombrag%[m|es]|
+|qu'|il|ombrag%[m|e]|
+|que|nous|ombrag%[m|ions]|
+|que|vous|ombrag%[m|iez]|
+|qu'|ils|ombrag%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ombrag%[m|é]|
+|que|tu|aies|ombrag%[m|é]|
+|qu'|il|ait|ombrag%[m|é]|
+|que|nous|ayons|ombrag%[m|é]|
+|que|vous|ayez|ombrag%[m|é]|
+|qu'|ils|aient|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ombrag%[m|easse]|
+|que|tu|ombrag%[m|easses]|
+|qu'|il|ombrag%[m|eât]|
+|que|nous|ombrag%[m|eassions]|
+|que|vous|ombrag%[m|eassiez]|
+|qu'|ils|ombrag%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ombrag%[m|é]|
+|que|tu|eusses|ombrag%[m|é]|
+|qu'|il|eût|ombrag%[m|é]|
+|que|nous|eussions|ombrag%[m|é]|
+|que|vous|eussiez|ombrag%[m|é]|
+|qu'|ils|eussent|ombrag%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ombrag%[m|e]|
+|ombrag%[m|eons]|
+|ombrag%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ombrag%[m|é]|
+|ayons|ombrag%[m|é]|
+|ayez|ombrag%[m|é]|
+|]
+

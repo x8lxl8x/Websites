@@ -1,0 +1,192 @@
+# nantir %[clVerbGroup|2]
+[-
+acquérir quelque chose contre paiement. 
+munir, pourvoir, mettre en possession de quelque chose. 
+mettre un créancier en possession d'un gage en garantie d'une dette. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|nant%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|nant%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|nant%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||nant%[m|i]|
+|ayant|nant%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en nant%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|nant%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|nant%[m|is]|
+|tu|nant%[m|is]|
+|il|nant%[m|it]|
+|nous|nant%[m|issons]|
+|vous|nant%[m|issez]|
+|ils|nant%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|nant%[m|i]|
+|tu|as |nant%[m|i]|
+|il|a|nant%[m|i]|
+|nous|avons|nant%[m|i]|
+|vous|avez|nant%[m|i]|
+|ils|ont|nant%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|nant%[m|issais]|
+|tu|nant%[m|issais]|
+|il|nant%[m|issait]|
+|nous|nant%[m|issions]|
+|vous|nant%[m|issiez]|
+|ils|nant%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|nant%[m|i]|
+|tu|avais|nant%[m|i]|
+|il|avait|nant%[m|i]|
+|nous|avions|nant%[m|i]|
+|vous|aviez|nant%[m|i]|
+|ils|avaient|nant%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|nant%[m|is]|
+|tu|nant%[m|is]|
+|il|nant%[m|it]|
+|nous|nant%[m|îmes]|
+|vous|nant%[m|îtes]|
+|ils|nant%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|nant%[m|i]|
+|tu|eus|nant%[m|i]|
+|il|eut|nant%[m|i]|
+|nous|e&ucirc;mes|nant%[m|i]|
+|vous|e&ucirc;tes|nant%[m|i]|
+|ils|eurent|nant%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|nant%[m|irai]|
+|tu|nant%[m|iras]|
+|il|nant%[m|ira]|
+|nous|nant%[m|irons]|
+|vous|nant%[m|irez]|
+|ils|nant%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|nant%[m|i]|
+|tu|auras|nant%[m|i]|
+|il|aura|nant%[m|i]|
+|nous|aurons|nant%[m|i]|
+|vous|aurez|nant%[m|i]|
+|ils|auront|nant%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|nant%[m|irais]|
+|tu|nant%[m|irais]|
+|il|nant%[m|irait]|
+|nous|nant%[m|irions]|
+|vous|nant%[m|iriez]|
+|ils|nant%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|nant%[m|i]|
+|tu|aurais|nant%[m|i]|
+|il|aurait|nant%[m|i]|
+|nous|aurions|nant%[m|i]|
+|vous|auriez|nant%[m|i]|
+|ils|auraient|nant%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|nant%[m|isse]|
+|que|tu|nant%[m|isses]|
+|qu'|il|nant%[m|isse]|
+|que|nous|nant%[m|issions]|
+|que|vous|nant%[m|issiez]|
+|qu'|ils|nant%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|nant%[m|i]|
+|que|tu|aies|nant%[m|i]|
+|qu'|il|ait|nant%[m|i]|
+|que|nous|ayons|nant%[m|i]|
+|que|vous|ayez|nant%[m|i]|
+|qu'|ils|aient|nant%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|nant%[m|isse]|
+|que|tu|nant%[m|isses]|
+|qu'|il|nant%[m|ît]|
+|que|nous|nant%[m|issions]|
+|que|vous|nant%[m|issiez]|
+|qu'|ils|nant%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|nant%[m|i]|
+|que|tu|eusses|nant%[m|i]|
+|qu'|il|eût|nant%[m|i]|
+|que|nous|eussions|nant%[m|i]|
+|que|vous|eussiez|nant%[m|i]|
+|qu'|ils|eussent|nant%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nant%[m|is]|
+|nant%[m|issons]|
+|nant%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|nant%[m|i]|
+|ayons|nant%[m|i]|
+|ayez|nant%[m|i]|
+|]
+

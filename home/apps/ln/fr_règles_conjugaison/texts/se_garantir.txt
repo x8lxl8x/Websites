@@ -1,0 +1,190 @@
+# se garantir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se garant%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|garant%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se garant%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|garant%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se garant%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|garant%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|garant%[m|is]|
+|tu|te|garant%[m|is]|
+|il|se|garant%[m|it]|
+|nous|nous|garant%[m|issons]|
+|vous|vous|garant%[m|issez]|
+|ils|se|garant%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|garant%[m|i]|
+|tu|t'|es|garant%[m|i]|
+|il|s'|est|garant%[m|i]|
+|nous|nous|sommes|garant%[m|is]|
+|vous|vous|êtes|garant%[m|is]|
+|ils|se|sont|garant%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|garant%[m|issais]|
+|tu|te|garant%[m|issais]|
+|il|se|garant%[m|issait]|
+|nous|nous|garant%[m|issions]|
+|vous|vous|garant%[m|issiez]|
+|ils|se|garant%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|garant%[m|i]|
+|tu|t'|étais|garant%[m|i]|
+|il|s'|était|garant%[m|i]|
+|nous|nous|étions|garant%[m|is]|
+|vous|vous|étiez|garant%[m|is]|
+|ils|s'|étaient|garant%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|garant%[m|is]|
+|tu|te|garant%[m|is]|
+|il|se|garant%[m|it]|
+|nous|nous|garant%[m|îmes]|
+|vous|vous|garant%[m|îtes]|
+|ils|se|garant%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|garant%[m|i]|
+|tu|te|fus|garant%[m|i]|
+|il|se|fut|garant%[m|i]|
+|nous|nous|fûmes|garant%[m|is]|
+|vous|vous|fûtes|garant%[m|is]|
+|ils|se|furent|garant%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|garant%[m|irai]|
+|tu|te|garant%[m|iras]|
+|il|se|garant%[m|ira]|
+|nous|nous|garant%[m|irons]|
+|vous|vous|garant%[m|irez]|
+|ils|se|garant%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|garant%[m|i]|
+|tu|te|seras|garant%[m|i]|
+|il|se|sera|garant%[m|i]|
+|nous|nous|serons|garant%[m|is]|
+|vous|vous|serez|garant%[m|is]|
+|ils|se|seront|garant%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|garant%[m|irais]|
+|tu|te|garant%[m|irais]|
+|il|se|garant%[m|irait]|
+|nous|nous|garant%[m|irions]|
+|vous|vous|garant%[m|iriez]|
+|ils|se|garant%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|garant%[m|i]|
+|tu|te|serais|garant%[m|i]|
+|il|se|serait|garant%[m|i]|
+|nous|nous|serions|garant%[m|is]|
+|vous|vous|seriez|garant%[m|is]|
+|ils|se|seraient|garant%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|garant%[m|isse]|
+|que|tu|te|garant%[m|isses]|
+|qu'|il|se|garant%[m|isse]|
+|que|nous|nous|garant%[m|issions]|
+|que|vous|vous|garant%[m|issiez]|
+|qu'|ils|se|garant%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|garant%[m|i]|
+|que|tu|te|sois|garant%[m|i]|
+|qu'|il|se|soit|garant%[m|i]|
+|que|nous|nous|soyons|garant%[m|is]|
+|que|vous|vous|soyez|garant%[m|is]|
+|qu'|ils|se|soient|garant%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|garant%[m|isse]|
+|que|tu|te|garant%[m|isses]|
+|qu'|il|se|garant%[m|ît]|
+|que|nous|nous|garant%[m|issions]|
+|que|vous|vous|garant%[m|issiez]|
+|qu'|ils|se|garant%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|garant%[m|i]|
+|que|tu|te|fusses|garant%[m|i]|
+|qu'|il|se|fût|garant%[m|i]|
+|que|nous|nous|fussions|garant%[m|is]|
+|que|vous|vous|fussiez|garant%[m|is]|
+|qu'|ils|se|fussent|garant%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|garant%[m|is]-toi|
+|garant%[m|issons]-nous|
+|garant%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

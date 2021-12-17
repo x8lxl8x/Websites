@@ -1,0 +1,190 @@
+# sprinter %[clVerbGroup|1]
+[-
+prendre l'allure de course la plus rapide possible. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sprint%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sprint%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sprint%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sprint%[m|é]|
+|ayant|sprint%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sprint%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sprint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sprint%[m|e]|
+|tu|sprint%[m|es]|
+|il|sprint%[m|e]|
+|nous|sprint%[m|ons]|
+|vous|sprint%[m|ez]|
+|ils|sprint%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sprint%[m|é]|
+|tu|as |sprint%[m|é]|
+|il|a|sprint%[m|é]|
+|nous|avons|sprint%[m|é]|
+|vous|avez|sprint%[m|é]|
+|ils|ont|sprint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sprint%[m|ais]|
+|tu|sprint%[m|ais]|
+|il|sprint%[m|ait]|
+|nous|sprint%[m|ions]|
+|vous|sprint%[m|iez]|
+|ils|sprint%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sprint%[m|é]|
+|tu|avais|sprint%[m|é]|
+|il|avait|sprint%[m|é]|
+|nous|avions|sprint%[m|é]|
+|vous|aviez|sprint%[m|é]|
+|ils|avaient|sprint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sprint%[m|ai]|
+|tu|sprint%[m|as]|
+|il|sprint%[m|a]|
+|nous|sprint%[m|âmes]|
+|vous|sprint%[m|âtes]|
+|ils|sprint%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sprint%[m|é]|
+|tu|eus|sprint%[m|é]|
+|il|eut|sprint%[m|é]|
+|nous|e&ucirc;mes|sprint%[m|é]|
+|vous|e&ucirc;tes|sprint%[m|é]|
+|ils|eurent|sprint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sprint%[m|erai]|
+|tu|sprint%[m|eras]|
+|il|sprint%[m|era]|
+|nous|sprint%[m|erons]|
+|vous|sprint%[m|erez]|
+|ils|sprint%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sprint%[m|é]|
+|tu|auras|sprint%[m|é]|
+|il|aura|sprint%[m|é]|
+|nous|aurons|sprint%[m|é]|
+|vous|aurez|sprint%[m|é]|
+|ils|auront|sprint%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sprint%[m|erais]|
+|tu|sprint%[m|erais]|
+|il|sprint%[m|erait]|
+|nous|sprint%[m|erions]|
+|vous|sprint%[m|eriez]|
+|ils|sprint%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sprint%[m|é]|
+|tu|aurais|sprint%[m|é]|
+|il|aurait|sprint%[m|é]|
+|nous|aurions|sprint%[m|é]|
+|vous|auriez|sprint%[m|é]|
+|ils|auraient|sprint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sprint%[m|e]|
+|que|tu|sprint%[m|es]|
+|qu'|il|sprint%[m|e]|
+|que|nous|sprint%[m|ions]|
+|que|vous|sprint%[m|iez]|
+|qu'|ils|sprint%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sprint%[m|é]|
+|que|tu|aies|sprint%[m|é]|
+|qu'|il|ait|sprint%[m|é]|
+|que|nous|ayons|sprint%[m|é]|
+|que|vous|ayez|sprint%[m|é]|
+|qu'|ils|aient|sprint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sprint%[m|asse]|
+|que|tu|sprint%[m|asses]|
+|qu'|il|sprint%[m|ât]|
+|que|nous|sprint%[m|assions]|
+|que|vous|sprint%[m|assiez]|
+|qu'|ils|sprint%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sprint%[m|é]|
+|que|tu|eusses|sprint%[m|é]|
+|qu'|il|eût|sprint%[m|é]|
+|que|nous|eussions|sprint%[m|é]|
+|que|vous|eussiez|sprint%[m|é]|
+|qu'|ils|eussent|sprint%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sprint%[m|e]|
+|sprint%[m|ons]|
+|sprint%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sprint%[m|é]|
+|ayons|sprint%[m|é]|
+|ayez|sprint%[m|é]|
+|]
+

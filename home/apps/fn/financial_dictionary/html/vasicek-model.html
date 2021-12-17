@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Financial Dictionary</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='javascript:history.back()'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<h1>Vasicek Interest Rate Model</h1>
+
+<p>A method of modeling interest rate movement that describes the movement of an interest rate as a factor of market risk, time and equilibrium value that the rate tends to revert towards. This stochastic model is often used in the valuation of interest rate futures.</p>
+
+<p>The Vasicek interest rate model values the instantaneous interest rate using the following equation:</p>
+
+<p>dr<sub>t </sub>= a(b-r<sub>t</sub>)dt +sdW<sub>t</sub></p>
+
+<p>Where  <i>Wt</i> is the random market risk (represented by the Wiener process)
+<i>t</i> represents time
+<i>a(b-r<sub>t</sub>)</i> represents the expected change in the interest rate at <i>t</i> (drift factor)
+<i>a</i> is the speed of reversion
+<i>b</i> is the long-term level of the mean
+<i>s</i> is the volatility at the time</p>
+
+<p>The Vasicek interest rate model states that the movement of interest rates is affected only by random market movements. In the absence of market shocks (i.e., when  dW<SUB>t </SUB>= 0) the interest rate remains constant (r<SUB>t</SUB> = b). When r<SUB>t</SUB> < b, the drift factor becomes positive, indicating that the interest rate will increase towards equilibrium.</p>
+</div>
+</div>
+</body>
+</html>

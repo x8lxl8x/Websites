@@ -1,0 +1,190 @@
+# plasmifier %[clVerbGroup|1]
+[-
+transformer en plasma (un gaz) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|plasmifi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|plasmifi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||plasmifi%[m|é]|
+|ayant|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en plasmifi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|plasmifi%[m|e]|
+|tu|plasmifi%[m|es]|
+|il|plasmifi%[m|e]|
+|nous|plasmifi%[m|ons]|
+|vous|plasmifi%[m|ez]|
+|ils|plasmifi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|plasmifi%[m|é]|
+|tu|as |plasmifi%[m|é]|
+|il|a|plasmifi%[m|é]|
+|nous|avons|plasmifi%[m|é]|
+|vous|avez|plasmifi%[m|é]|
+|ils|ont|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|plasmifi%[m|ais]|
+|tu|plasmifi%[m|ais]|
+|il|plasmifi%[m|ait]|
+|nous|plasmifi%[m|ions]|
+|vous|plasmifi%[m|iez]|
+|ils|plasmifi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|plasmifi%[m|é]|
+|tu|avais|plasmifi%[m|é]|
+|il|avait|plasmifi%[m|é]|
+|nous|avions|plasmifi%[m|é]|
+|vous|aviez|plasmifi%[m|é]|
+|ils|avaient|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|plasmifi%[m|ai]|
+|tu|plasmifi%[m|as]|
+|il|plasmifi%[m|a]|
+|nous|plasmifi%[m|âmes]|
+|vous|plasmifi%[m|âtes]|
+|ils|plasmifi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|plasmifi%[m|é]|
+|tu|eus|plasmifi%[m|é]|
+|il|eut|plasmifi%[m|é]|
+|nous|e&ucirc;mes|plasmifi%[m|é]|
+|vous|e&ucirc;tes|plasmifi%[m|é]|
+|ils|eurent|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|plasmifi%[m|erai]|
+|tu|plasmifi%[m|eras]|
+|il|plasmifi%[m|era]|
+|nous|plasmifi%[m|erons]|
+|vous|plasmifi%[m|erez]|
+|ils|plasmifi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|plasmifi%[m|é]|
+|tu|auras|plasmifi%[m|é]|
+|il|aura|plasmifi%[m|é]|
+|nous|aurons|plasmifi%[m|é]|
+|vous|aurez|plasmifi%[m|é]|
+|ils|auront|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|plasmifi%[m|erais]|
+|tu|plasmifi%[m|erais]|
+|il|plasmifi%[m|erait]|
+|nous|plasmifi%[m|erions]|
+|vous|plasmifi%[m|eriez]|
+|ils|plasmifi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|plasmifi%[m|é]|
+|tu|aurais|plasmifi%[m|é]|
+|il|aurait|plasmifi%[m|é]|
+|nous|aurions|plasmifi%[m|é]|
+|vous|auriez|plasmifi%[m|é]|
+|ils|auraient|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|plasmifi%[m|e]|
+|que|tu|plasmifi%[m|es]|
+|qu'|il|plasmifi%[m|e]|
+|que|nous|plasmifi%[m|ions]|
+|que|vous|plasmifi%[m|iez]|
+|qu'|ils|plasmifi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|plasmifi%[m|é]|
+|que|tu|aies|plasmifi%[m|é]|
+|qu'|il|ait|plasmifi%[m|é]|
+|que|nous|ayons|plasmifi%[m|é]|
+|que|vous|ayez|plasmifi%[m|é]|
+|qu'|ils|aient|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|plasmifi%[m|asse]|
+|que|tu|plasmifi%[m|asses]|
+|qu'|il|plasmifi%[m|ât]|
+|que|nous|plasmifi%[m|assions]|
+|que|vous|plasmifi%[m|assiez]|
+|qu'|ils|plasmifi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|plasmifi%[m|é]|
+|que|tu|eusses|plasmifi%[m|é]|
+|qu'|il|eût|plasmifi%[m|é]|
+|que|nous|eussions|plasmifi%[m|é]|
+|que|vous|eussiez|plasmifi%[m|é]|
+|qu'|ils|eussent|plasmifi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|plasmifi%[m|e]|
+|plasmifi%[m|ons]|
+|plasmifi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|plasmifi%[m|é]|
+|ayons|plasmifi%[m|é]|
+|ayez|plasmifi%[m|é]|
+|]
+

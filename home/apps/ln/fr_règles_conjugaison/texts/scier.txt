@@ -1,0 +1,190 @@
+# scier %[clVerbGroup|1]
+[-
+couper avec une scie. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sci%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sci%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sci%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sci%[m|é]|
+|ayant|sci%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sci%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sci%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sci%[m|e]|
+|tu|sci%[m|es]|
+|il|sci%[m|e]|
+|nous|sci%[m|ons]|
+|vous|sci%[m|ez]|
+|ils|sci%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sci%[m|é]|
+|tu|as |sci%[m|é]|
+|il|a|sci%[m|é]|
+|nous|avons|sci%[m|é]|
+|vous|avez|sci%[m|é]|
+|ils|ont|sci%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sci%[m|ais]|
+|tu|sci%[m|ais]|
+|il|sci%[m|ait]|
+|nous|sci%[m|ions]|
+|vous|sci%[m|iez]|
+|ils|sci%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sci%[m|é]|
+|tu|avais|sci%[m|é]|
+|il|avait|sci%[m|é]|
+|nous|avions|sci%[m|é]|
+|vous|aviez|sci%[m|é]|
+|ils|avaient|sci%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sci%[m|ai]|
+|tu|sci%[m|as]|
+|il|sci%[m|a]|
+|nous|sci%[m|âmes]|
+|vous|sci%[m|âtes]|
+|ils|sci%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sci%[m|é]|
+|tu|eus|sci%[m|é]|
+|il|eut|sci%[m|é]|
+|nous|e&ucirc;mes|sci%[m|é]|
+|vous|e&ucirc;tes|sci%[m|é]|
+|ils|eurent|sci%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sci%[m|erai]|
+|tu|sci%[m|eras]|
+|il|sci%[m|era]|
+|nous|sci%[m|erons]|
+|vous|sci%[m|erez]|
+|ils|sci%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sci%[m|é]|
+|tu|auras|sci%[m|é]|
+|il|aura|sci%[m|é]|
+|nous|aurons|sci%[m|é]|
+|vous|aurez|sci%[m|é]|
+|ils|auront|sci%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sci%[m|erais]|
+|tu|sci%[m|erais]|
+|il|sci%[m|erait]|
+|nous|sci%[m|erions]|
+|vous|sci%[m|eriez]|
+|ils|sci%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sci%[m|é]|
+|tu|aurais|sci%[m|é]|
+|il|aurait|sci%[m|é]|
+|nous|aurions|sci%[m|é]|
+|vous|auriez|sci%[m|é]|
+|ils|auraient|sci%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sci%[m|e]|
+|que|tu|sci%[m|es]|
+|qu'|il|sci%[m|e]|
+|que|nous|sci%[m|ions]|
+|que|vous|sci%[m|iez]|
+|qu'|ils|sci%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sci%[m|é]|
+|que|tu|aies|sci%[m|é]|
+|qu'|il|ait|sci%[m|é]|
+|que|nous|ayons|sci%[m|é]|
+|que|vous|ayez|sci%[m|é]|
+|qu'|ils|aient|sci%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sci%[m|asse]|
+|que|tu|sci%[m|asses]|
+|qu'|il|sci%[m|ât]|
+|que|nous|sci%[m|assions]|
+|que|vous|sci%[m|assiez]|
+|qu'|ils|sci%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sci%[m|é]|
+|que|tu|eusses|sci%[m|é]|
+|qu'|il|eût|sci%[m|é]|
+|que|nous|eussions|sci%[m|é]|
+|que|vous|eussiez|sci%[m|é]|
+|qu'|ils|eussent|sci%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sci%[m|e]|
+|sci%[m|ons]|
+|sci%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sci%[m|é]|
+|ayons|sci%[m|é]|
+|ayez|sci%[m|é]|
+|]
+

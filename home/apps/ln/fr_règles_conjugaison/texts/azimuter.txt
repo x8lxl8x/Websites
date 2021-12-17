@@ -1,0 +1,190 @@
+# azimuter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|azimut%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|azimut%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|azimut%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||azimut%[m|é]|
+|ayant|azimut%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en azimut%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|azimut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|azimut%[m|e]|
+|tu|azimut%[m|es]|
+|il|azimut%[m|e]|
+|nous|azimut%[m|ons]|
+|vous|azimut%[m|ez]|
+|ils|azimut%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|azimut%[m|é]|
+|tu|as |azimut%[m|é]|
+|il|a|azimut%[m|é]|
+|nous|avons|azimut%[m|é]|
+|vous|avez|azimut%[m|é]|
+|ils|ont|azimut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|azimut%[m|ais]|
+|tu|azimut%[m|ais]|
+|il|azimut%[m|ait]|
+|nous|azimut%[m|ions]|
+|vous|azimut%[m|iez]|
+|ils|azimut%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|azimut%[m|é]|
+|tu|avais|azimut%[m|é]|
+|il|avait|azimut%[m|é]|
+|nous|avions|azimut%[m|é]|
+|vous|aviez|azimut%[m|é]|
+|ils|avaient|azimut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|azimut%[m|ai]|
+|tu|azimut%[m|as]|
+|il|azimut%[m|a]|
+|nous|azimut%[m|âmes]|
+|vous|azimut%[m|âtes]|
+|ils|azimut%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|azimut%[m|é]|
+|tu|eus|azimut%[m|é]|
+|il|eut|azimut%[m|é]|
+|nous|e&ucirc;mes|azimut%[m|é]|
+|vous|e&ucirc;tes|azimut%[m|é]|
+|ils|eurent|azimut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|azimut%[m|erai]|
+|tu|azimut%[m|eras]|
+|il|azimut%[m|era]|
+|nous|azimut%[m|erons]|
+|vous|azimut%[m|erez]|
+|ils|azimut%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|azimut%[m|é]|
+|tu|auras|azimut%[m|é]|
+|il|aura|azimut%[m|é]|
+|nous|aurons|azimut%[m|é]|
+|vous|aurez|azimut%[m|é]|
+|ils|auront|azimut%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|azimut%[m|erais]|
+|tu|azimut%[m|erais]|
+|il|azimut%[m|erait]|
+|nous|azimut%[m|erions]|
+|vous|azimut%[m|eriez]|
+|ils|azimut%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|azimut%[m|é]|
+|tu|aurais|azimut%[m|é]|
+|il|aurait|azimut%[m|é]|
+|nous|aurions|azimut%[m|é]|
+|vous|auriez|azimut%[m|é]|
+|ils|auraient|azimut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|azimut%[m|e]|
+|que|tu|azimut%[m|es]|
+|qu'|il|azimut%[m|e]|
+|que|nous|azimut%[m|ions]|
+|que|vous|azimut%[m|iez]|
+|qu'|ils|azimut%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|azimut%[m|é]|
+|que|tu|aies|azimut%[m|é]|
+|qu'|il|ait|azimut%[m|é]|
+|que|nous|ayons|azimut%[m|é]|
+|que|vous|ayez|azimut%[m|é]|
+|qu'|ils|aient|azimut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|azimut%[m|asse]|
+|que|tu|azimut%[m|asses]|
+|qu'|il|azimut%[m|ât]|
+|que|nous|azimut%[m|assions]|
+|que|vous|azimut%[m|assiez]|
+|qu'|ils|azimut%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|azimut%[m|é]|
+|que|tu|eusses|azimut%[m|é]|
+|qu'|il|eût|azimut%[m|é]|
+|que|nous|eussions|azimut%[m|é]|
+|que|vous|eussiez|azimut%[m|é]|
+|qu'|ils|eussent|azimut%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|azimut%[m|e]|
+|azimut%[m|ons]|
+|azimut%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|azimut%[m|é]|
+|ayons|azimut%[m|é]|
+|ayez|azimut%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# affirmer %[clVerbGroup|1]
+[-
+énoncer une certitude, une chose que l'on tient pour vraie. 
+manifester quelque chose d'une manière indiscutable. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|affirm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|affirm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|affirm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||affirm%[m|é]|
+|ayant|affirm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en affirm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|affirm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|affirm%[m|e]|
+|tu|affirm%[m|es]|
+|il|affirm%[m|e]|
+|nous|affirm%[m|ons]|
+|vous|affirm%[m|ez]|
+|ils|affirm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|affirm%[m|é]|
+|tu|as |affirm%[m|é]|
+|il|a|affirm%[m|é]|
+|nous|avons|affirm%[m|é]|
+|vous|avez|affirm%[m|é]|
+|ils|ont|affirm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|affirm%[m|ais]|
+|tu|affirm%[m|ais]|
+|il|affirm%[m|ait]|
+|nous|affirm%[m|ions]|
+|vous|affirm%[m|iez]|
+|ils|affirm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|affirm%[m|é]|
+|tu|avais|affirm%[m|é]|
+|il|avait|affirm%[m|é]|
+|nous|avions|affirm%[m|é]|
+|vous|aviez|affirm%[m|é]|
+|ils|avaient|affirm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|affirm%[m|ai]|
+|tu|affirm%[m|as]|
+|il|affirm%[m|a]|
+|nous|affirm%[m|âmes]|
+|vous|affirm%[m|âtes]|
+|ils|affirm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|affirm%[m|é]|
+|tu|eus|affirm%[m|é]|
+|il|eut|affirm%[m|é]|
+|nous|e&ucirc;mes|affirm%[m|é]|
+|vous|e&ucirc;tes|affirm%[m|é]|
+|ils|eurent|affirm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|affirm%[m|erai]|
+|tu|affirm%[m|eras]|
+|il|affirm%[m|era]|
+|nous|affirm%[m|erons]|
+|vous|affirm%[m|erez]|
+|ils|affirm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|affirm%[m|é]|
+|tu|auras|affirm%[m|é]|
+|il|aura|affirm%[m|é]|
+|nous|aurons|affirm%[m|é]|
+|vous|aurez|affirm%[m|é]|
+|ils|auront|affirm%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|affirm%[m|erais]|
+|tu|affirm%[m|erais]|
+|il|affirm%[m|erait]|
+|nous|affirm%[m|erions]|
+|vous|affirm%[m|eriez]|
+|ils|affirm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|affirm%[m|é]|
+|tu|aurais|affirm%[m|é]|
+|il|aurait|affirm%[m|é]|
+|nous|aurions|affirm%[m|é]|
+|vous|auriez|affirm%[m|é]|
+|ils|auraient|affirm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|affirm%[m|e]|
+|que|tu|affirm%[m|es]|
+|qu'|il|affirm%[m|e]|
+|que|nous|affirm%[m|ions]|
+|que|vous|affirm%[m|iez]|
+|qu'|ils|affirm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|affirm%[m|é]|
+|que|tu|aies|affirm%[m|é]|
+|qu'|il|ait|affirm%[m|é]|
+|que|nous|ayons|affirm%[m|é]|
+|que|vous|ayez|affirm%[m|é]|
+|qu'|ils|aient|affirm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|affirm%[m|asse]|
+|que|tu|affirm%[m|asses]|
+|qu'|il|affirm%[m|ât]|
+|que|nous|affirm%[m|assions]|
+|que|vous|affirm%[m|assiez]|
+|qu'|ils|affirm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|affirm%[m|é]|
+|que|tu|eusses|affirm%[m|é]|
+|qu'|il|eût|affirm%[m|é]|
+|que|nous|eussions|affirm%[m|é]|
+|que|vous|eussiez|affirm%[m|é]|
+|qu'|ils|eussent|affirm%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|affirm%[m|e]|
+|affirm%[m|ons]|
+|affirm%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|affirm%[m|é]|
+|ayons|affirm%[m|é]|
+|ayez|affirm%[m|é]|
+|]
+

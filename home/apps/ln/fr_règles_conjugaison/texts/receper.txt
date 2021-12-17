@@ -1,0 +1,191 @@
+# receper %[clVerbGroup|1]
+[-
+procéder au recépage. 
+procéder au recépage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rec%[m|e]p%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recep%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rec%[m|e]p%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recep%[m|é]|
+|ayant|recep%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rec%[m|e]p%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recep%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rec%[m|è]p%[m|e]|
+|tu|rec%[m|è]p%[m|es]|
+|il|rec%[m|è]p%[m|e]|
+|nous|rec%[m|e]p%[m|ons]|
+|vous|rec%[m|e]p%[m|ez]|
+|ils|rec%[m|è]p%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recep%[m|é]|
+|tu|as |recep%[m|é]|
+|il|a|recep%[m|é]|
+|nous|avons|recep%[m|é]|
+|vous|avez|recep%[m|é]|
+|ils|ont|recep%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rec%[m|e]p%[m|ais]|
+|tu|rec%[m|e]p%[m|ais]|
+|il|rec%[m|e]p%[m|ait]|
+|nous|rec%[m|e]p%[m|ions]|
+|vous|rec%[m|e]p%[m|iez]|
+|ils|rec%[m|e]p%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recep%[m|é]|
+|tu|avais|recep%[m|é]|
+|il|avait|recep%[m|é]|
+|nous|avions|recep%[m|é]|
+|vous|aviez|recep%[m|é]|
+|ils|avaient|recep%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rec%[m|e]p%[m|ai]|
+|tu|rec%[m|e]p%[m|as]|
+|il|rec%[m|e]p%[m|a]|
+|nous|rec%[m|e]p%[m|âmes]|
+|vous|rec%[m|e]p%[m|âtes]|
+|ils|rec%[m|e]p%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recep%[m|é]|
+|tu|eus|recep%[m|é]|
+|il|eut|recep%[m|é]|
+|nous|e&ucirc;mes|recep%[m|é]|
+|vous|e&ucirc;tes|recep%[m|é]|
+|ils|eurent|recep%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rec%[m|è]p%[m|erai]|
+|tu|rec%[m|è]p%[m|eras]|
+|il|rec%[m|è]p%[m|era]|
+|nous|rec%[m|è]p%[m|erons]|
+|vous|rec%[m|è]p%[m|erez]|
+|ils|rec%[m|è]p%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recep%[m|é]|
+|tu|auras|recep%[m|é]|
+|il|aura|recep%[m|é]|
+|nous|aurons|recep%[m|é]|
+|vous|aurez|recep%[m|é]|
+|ils|auront|recep%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rec%[m|è]p%[m|erais]|
+|tu|rec%[m|è]p%[m|erais]|
+|il|rec%[m|è]p%[m|erait]|
+|nous|rec%[m|è]p%[m|erions]|
+|vous|rec%[m|è]p%[m|eriez]|
+|ils|rec%[m|è]p%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recep%[m|é]|
+|tu|aurais|recep%[m|é]|
+|il|aurait|recep%[m|é]|
+|nous|aurions|recep%[m|é]|
+|vous|auriez|recep%[m|é]|
+|ils|auraient|recep%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rec%[m|è]p%[m|e]|
+|que|tu|rec%[m|è]p%[m|es]|
+|qu'|il|rec%[m|è]p%[m|e]|
+|que|nous|rec%[m|e]p%[m|ions]|
+|que|vous|rec%[m|e]p%[m|iez]|
+|qu'|ils|rec%[m|è]p%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recep%[m|é]|
+|que|tu|aies|recep%[m|é]|
+|qu'|il|ait|recep%[m|é]|
+|que|nous|ayons|recep%[m|é]|
+|que|vous|ayez|recep%[m|é]|
+|qu'|ils|aient|recep%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rec%[m|e]p%[m|asse]|
+|que|tu|rec%[m|e]p%[m|asses]|
+|qu'|il|rec%[m|e]p%[m|ât]|
+|que|nous|rec%[m|e]p%[m|assions]|
+|que|vous|rec%[m|e]p%[m|assiez]|
+|qu'|ils|rec%[m|e]p%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recep%[m|é]|
+|que|tu|eusses|recep%[m|é]|
+|qu'|il|eût|recep%[m|é]|
+|que|nous|eussions|recep%[m|é]|
+|que|vous|eussiez|recep%[m|é]|
+|qu'|ils|eussent|recep%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rec%[m|è]p%[m|e]|
+|rec%[m|e]p%[m|ons]|
+|rec%[m|e]p%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recep%[m|é]|
+|ayons|recep%[m|é]|
+|ayez|recep%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# cloquer %[clVerbGroup|1]
+[-
+former des boursouflures. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cloqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cloqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cloqu%[m|é]|
+|ayant|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cloqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cloqu%[m|e]|
+|tu|cloqu%[m|es]|
+|il|cloqu%[m|e]|
+|nous|cloqu%[m|ons]|
+|vous|cloqu%[m|ez]|
+|ils|cloqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cloqu%[m|é]|
+|tu|as |cloqu%[m|é]|
+|il|a|cloqu%[m|é]|
+|nous|avons|cloqu%[m|é]|
+|vous|avez|cloqu%[m|é]|
+|ils|ont|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cloqu%[m|ais]|
+|tu|cloqu%[m|ais]|
+|il|cloqu%[m|ait]|
+|nous|cloqu%[m|ions]|
+|vous|cloqu%[m|iez]|
+|ils|cloqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cloqu%[m|é]|
+|tu|avais|cloqu%[m|é]|
+|il|avait|cloqu%[m|é]|
+|nous|avions|cloqu%[m|é]|
+|vous|aviez|cloqu%[m|é]|
+|ils|avaient|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cloqu%[m|ai]|
+|tu|cloqu%[m|as]|
+|il|cloqu%[m|a]|
+|nous|cloqu%[m|âmes]|
+|vous|cloqu%[m|âtes]|
+|ils|cloqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cloqu%[m|é]|
+|tu|eus|cloqu%[m|é]|
+|il|eut|cloqu%[m|é]|
+|nous|e&ucirc;mes|cloqu%[m|é]|
+|vous|e&ucirc;tes|cloqu%[m|é]|
+|ils|eurent|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cloqu%[m|erai]|
+|tu|cloqu%[m|eras]|
+|il|cloqu%[m|era]|
+|nous|cloqu%[m|erons]|
+|vous|cloqu%[m|erez]|
+|ils|cloqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cloqu%[m|é]|
+|tu|auras|cloqu%[m|é]|
+|il|aura|cloqu%[m|é]|
+|nous|aurons|cloqu%[m|é]|
+|vous|aurez|cloqu%[m|é]|
+|ils|auront|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cloqu%[m|erais]|
+|tu|cloqu%[m|erais]|
+|il|cloqu%[m|erait]|
+|nous|cloqu%[m|erions]|
+|vous|cloqu%[m|eriez]|
+|ils|cloqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cloqu%[m|é]|
+|tu|aurais|cloqu%[m|é]|
+|il|aurait|cloqu%[m|é]|
+|nous|aurions|cloqu%[m|é]|
+|vous|auriez|cloqu%[m|é]|
+|ils|auraient|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cloqu%[m|e]|
+|que|tu|cloqu%[m|es]|
+|qu'|il|cloqu%[m|e]|
+|que|nous|cloqu%[m|ions]|
+|que|vous|cloqu%[m|iez]|
+|qu'|ils|cloqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cloqu%[m|é]|
+|que|tu|aies|cloqu%[m|é]|
+|qu'|il|ait|cloqu%[m|é]|
+|que|nous|ayons|cloqu%[m|é]|
+|que|vous|ayez|cloqu%[m|é]|
+|qu'|ils|aient|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cloqu%[m|asse]|
+|que|tu|cloqu%[m|asses]|
+|qu'|il|cloqu%[m|ât]|
+|que|nous|cloqu%[m|assions]|
+|que|vous|cloqu%[m|assiez]|
+|qu'|ils|cloqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cloqu%[m|é]|
+|que|tu|eusses|cloqu%[m|é]|
+|qu'|il|eût|cloqu%[m|é]|
+|que|nous|eussions|cloqu%[m|é]|
+|que|vous|eussiez|cloqu%[m|é]|
+|qu'|ils|eussent|cloqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cloqu%[m|e]|
+|cloqu%[m|ons]|
+|cloqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cloqu%[m|é]|
+|ayons|cloqu%[m|é]|
+|ayez|cloqu%[m|é]|
+|]
+

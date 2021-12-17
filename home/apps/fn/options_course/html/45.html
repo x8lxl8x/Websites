@@ -1,0 +1,268 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./44.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./46.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Condor</h1>
+
+<h2>Condor, albatross, pterodactyl spreads</h2>
+<p>Once again, the traders have given some creative
+names to another class of wingspreads -- strategies with
+profit and loss diagrams resembling wings.&nbsp; The condor,
+albatross and pterodactyl spreads are all similar to the
+butterfly spread (please see &quot;Butterfly Spreads&quot; for
+more information) except each of these strategies sells
+multiple strikes.&nbsp; </p>
+<p>It should be noted that, like the butterfly, these
+spreads are really meant to be used as floor trader
+tools for hedging and taking advantage of small pricing
+discrepancies that periodically appear in the market.&nbsp;
+Because of the large number of strikes involved, the
+commissions usually make these losing strategies for
+retail investors.</p>
+<p>This does not mean that you should not take the time
+to understand them.&nbsp; They will increase your knowledge
+of options and give insights into the versatility of
+options by showing how strategies can be stacked on one
+another.</p>
+<h2>Condor spread</h2>
+<p>The condor spread is a strategy involving four
+strikes and can be made up of calls, puts or a
+combination of both.&nbsp; The basic condor spreads are
+usually constructed with either calls or puts.&nbsp; </p>
+<p>To execute a basic condor spread, a trader needs four
+strikes, which we will call S1, S2, S3 and S4 with each
+strike being successively higher and having the same
+expiration.&nbsp; The trader will be long S1, short S2, short
+S3, and long S4. &nbsp;For example, the trader may be long
+the $100 call, short the $105 call, short the $110 call
+and long the $115 call.&nbsp; Notice how each strike is
+successively higher.&nbsp; It is not necessary to have them
+separated by five points, though.&nbsp; You could construct
+one with a long $100 call, short $110 call, short $120
+call and long $130 call -- as long as the strikes are
+evenly spaced.&nbsp; From a profit and loss standpoint, the
+condor spread looks like this:</p>
+
+<img width='300px' src='../images/074.gif'>
+
+<p>The trader will maximize profit between the two short
+strikes, $105 and $110 in this example.&nbsp; For stock
+prices below $105 or above $110, the trader will start
+to lose profits and eventually end up negative if the
+stock falls below $101 (low break-even point) or rises
+above $114 (the high break-even point).&nbsp; Any stock price
+below $100 or above $115 produces the maximum loss of $1
+-- the cost of the spread.</p>
+<p>Notice how the condor is similar to a butterfly where
+the trader buys a low strike, sells two medium strikes,
+and buys one high strike.&nbsp; The condor is the same basic
+pattern except the trader is splitting the two medium
+strikes of the butterfly into two separate strikes.&nbsp;
+This action creates a wider profit area relative to the
+butterfly.&nbsp; The trader is hoping for a relatively stable
+stock price.&nbsp; The following chart shows a comparison
+between the condor and butterfly:</p>
+
+<img width='300px' src='../images/075.gif'>
+
+<p>Notice how the butterfly (blue) has a higher profit
+but, in return, gets into loss territory quicker.&nbsp; The
+condor (red) has a lower, but wider, profit area and
+takes longer to head into losses.&nbsp; The markets realize
+the condor is therefore more desirable and will bid its
+price up.&nbsp; </p>
+<p>Again, market makers are probably the biggest users
+of condors as they pay very little in commissions and
+can make it worth their while to pay four commissions to
+enter the condor and four to exit.&nbsp; </p>
+<p>Why do market makers use them?</p>
+<p>To understand them, we need a refresher on
+butterflies.&nbsp; If you read our section on butterfly
+spreads, you will recall that market makers are actually
+spreading spreads -- they buy the bull spread and sell
+the bear spread.&nbsp; For example a basic call butterfly has
+this pattern:</p>
+<p><b><u>
+Strike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;105&nbsp;&nbsp;&nbsp;&nbsp;110&nbsp;&nbsp;&nbsp;&nbsp;115&nbsp;&nbsp;&nbsp;&nbsp;120&nbsp;&nbsp;&nbsp;&nbsp;125</u></b><br>
+Call butterfly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1</p>
+<p>In other words, the long butterfly trader is long the
+$100 call, short 2 $105 calls and long the $110 call.&nbsp;
+If the stock is at $105-1/2, the $100/$105 bull spread
+(long $100, short $105) should be more valuable than the
+$105/$110 bear spread (short $105 and long $110).&nbsp; If,
+for some reason, the markets are pricing them equally,
+market makers will buy the bull spread and sell the bear
+spread making them long the butterfly.&nbsp; For the same
+reasons traders buy spreads (buy one call and sell
+another), traders will spread spreads, which is a
+butterfly.</p>
+<p>With condors, market makers are actually <i>laddering</i>
+butterfly spreads; that is, they buy one set of
+butterflies and buy a successively higher set of
+butterflies.&nbsp; </p>
+<p><b><u>
+Strike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;105&nbsp;&nbsp;&nbsp;&nbsp;110&nbsp;&nbsp;&nbsp;&nbsp;115&nbsp;&nbsp;&nbsp;&nbsp;120&nbsp;&nbsp;&nbsp;&nbsp;125</u></b><br>
+Call butterfly #1&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+<u>Call butterfly #2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1</u><br>
+Net position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 = condor
+spread</p>
+<p>A trader may see a theoretical discrepancy between
+the $100/$105 bull and $105/$110 bear spread and want to
+buy butterfly #1 above.&nbsp; In addition, there may be
+another discrepancy between the $105/$110 bull and
+$110/$115 bear, so they may desire to purchase that one
+as well.&nbsp; With one condor, all pricing discrepancies
+between the two butterflies are captured!</p>
+<p>A short condor will be the mirror image of the long
+position and, consequently, have opposing profits and
+losses.&nbsp; Using the same example above, to execute a
+short condor, the trader will be short $100 call, long
+$105 call, long the $110 call, and short the $115 call.&nbsp;
+The short condor looks like this:</p>
+
+<img width='300px' src='../images/076.gif'>
+
+<p>With the short condor, the trader will make maximum
+profit if the stock makes a large move in either
+direction.&nbsp; In this example, if the stock is below $109
+or above $114, the break-even points, the trader will
+keep the initial $1 credit.&nbsp; If the stock is between
+$100 and $115, the position will start to lose profits,
+and eventually end up at a maximum loss of $4 if the
+stock is between $105 and $110 -- the strikes of the two
+long positions.</p>
+<h2>Albatross spread </h2>
+<p>The basic long albatross is a strategy utilizing four
+strikes just as the condor.&nbsp; However, the trader skips a
+strike in the middle.&nbsp; Using the earlier notation, a
+long condor trader will be long S1, short S2, short S3,
+long S4, but skip a strike between S2 and S3.&nbsp; For
+example, a trader who is long the $100 call, short $105,
+short $115, long $120 is long an albatross spread.</p>
+<p>From a profit and loss standpoint, the long albatross
+looks like this:</p>
+
+<img width='300px' src='../images/077.gif'>
+
+<p>It has a wider but lower profit zone relative to the
+condor.&nbsp; This reflects the relative risks of the two
+strategies.&nbsp; All else equal, traders would prefer to
+have wider ranges of profit so will bid this strategy
+higher relative to the condor.&nbsp; This can be seen if we
+overlay the two profit and loss diagrams:</p>
+
+<img width='300px' src='../images/078.gif'>
+
+<p>The trader will profit for any stock price above $102
+and below $118, the break-even points.&nbsp; Maximum profit
+will be realized for stock prices between $105 and
+$115.&nbsp; Similar to the condor trader, a long albatross
+position is betting on a fairly stable stock price;
+however, the albatross trader has more room for error.&nbsp;
+</p>
+<p>As with the condor, the albatross is a continuation
+of the laddering of butterfly spreads.&nbsp; For example, the
+following chart shows the trader who is long an
+albatross spread is effectively long the $105, $110 and
+$115 butterflies.&nbsp; </p>
+<p><b><u>
+Strike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;105&nbsp;&nbsp;&nbsp;&nbsp;110&nbsp;&nbsp;&nbsp;&nbsp;115&nbsp;&nbsp;&nbsp;&nbsp;120&nbsp;&nbsp;&nbsp;&nbsp;125</u></b><br>
+Call butterfly #1&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+Call butterfly #2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+<u>Call butterfly
+#3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1</u><br>
+Net position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1
+= albatross spread</p>
+<p>The short albatross, of course, will be the opposite
+of the long position.&nbsp; Here, the trader is betting on a
+very large move, either up or down, in the underlying.</p>
+
+<img width='300px' src='../images/079.gif'>
+
+<h2>Pterodactyl spread</h2>
+<p>As you probably guessed, the pterodactyl spread is
+just a continuation of the albatross.&nbsp; It still involves
+four strike prices but, this time, two strikes are
+skipped in the middle.&nbsp; A trader who is long $100 call,
+short $105 call, short $120 call, and long $125 call is
+long a pterodactyl.&nbsp; The profit and loss diagram looks
+like this:</p>
+<table cellPadding='18' border='0' id='table10'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/080.gif'>
+
+<p>The albatross trader has an even lower, but wider,
+range of profits compared to the albatross.&nbsp; The trader,
+in this example, will be profitable for any stock price
+above $102 3/4 or below $117-1/4, the break-even
+points.&nbsp; Maximum profit will be realized for stock
+prices between $105 and $120.</p>
+<p>As shown in the following chart, the pterodactyl
+spread is a laddering of four butterfly spreads:</p>
+<p><b><u>
+Strike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;105&nbsp;&nbsp;&nbsp;&nbsp;110&nbsp;&nbsp;&nbsp;&nbsp;115&nbsp;&nbsp;&nbsp;&nbsp;120&nbsp;&nbsp;&nbsp;&nbsp;125</u></b><br>
+Call butterfly #1&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+Call butterfly #2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+Call butterfly #3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1<br>
+<u>Call butterfly
+#4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1</u><br>
+Net
+position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1
+= pterodactyl spread</p>
+<p>Notice in the following chart how each spread -- the
+condor, albatross, and pterodactyl -- reflects the
+relative risks of each position.&nbsp; The strategy with the
+highest profit potential will be the cheapest one to
+purchase.&nbsp; Sometimes new traders find this confusing and
+think the highest profit strategies should be the most
+expensive, as those are the ones everybody wants and
+will bid the price higher.&nbsp; This is incorrect, as the
+highest profit strategies are also the riskiest.&nbsp; In
+order to make them worth the risk, the market must
+reduce the price.</p>
+<table cellPadding='18' border='0' id='table11'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/081.gif'>
+
+<p>Think of it this way: if all spreads were priced
+equally, which would you prefer?&nbsp; Obviously, the
+pterodactyl as it has the widest area for profit.&nbsp; So
+traders will bid up the price of the pterodactyl
+relative to the others.&nbsp; The same process will occur for
+the albatross and the condor.&nbsp; No matter how
+sophisticated you become with option trading, you will
+never be able to avoid the risk-reward relationships.&nbsp;
+</p>
+<p>Spreads are great trading tools and you should take
+the time to become familiar with these advanced
+combinations.&nbsp; In most cases, these are better suited
+for market makers but that doesn't mean they cannot be
+used at the retail level.&nbsp; If you plan to use one, be
+sure to evaluate your break-even points and maximum
+gains and losses taking commissions into account.</p>
+
+</div>
+</div>
+</body>
+</html>

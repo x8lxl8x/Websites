@@ -1,0 +1,190 @@
+# vocaliser %[clVerbGroup|1]
+[-
+exercer son chant en exécutant des vocalises. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|vocalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|vocalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||vocalis%[m|é]|
+|ayant|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en vocalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|vocalis%[m|e]|
+|tu|vocalis%[m|es]|
+|il|vocalis%[m|e]|
+|nous|vocalis%[m|ons]|
+|vous|vocalis%[m|ez]|
+|ils|vocalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|vocalis%[m|é]|
+|tu|as |vocalis%[m|é]|
+|il|a|vocalis%[m|é]|
+|nous|avons|vocalis%[m|é]|
+|vous|avez|vocalis%[m|é]|
+|ils|ont|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|vocalis%[m|ais]|
+|tu|vocalis%[m|ais]|
+|il|vocalis%[m|ait]|
+|nous|vocalis%[m|ions]|
+|vous|vocalis%[m|iez]|
+|ils|vocalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|vocalis%[m|é]|
+|tu|avais|vocalis%[m|é]|
+|il|avait|vocalis%[m|é]|
+|nous|avions|vocalis%[m|é]|
+|vous|aviez|vocalis%[m|é]|
+|ils|avaient|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|vocalis%[m|ai]|
+|tu|vocalis%[m|as]|
+|il|vocalis%[m|a]|
+|nous|vocalis%[m|âmes]|
+|vous|vocalis%[m|âtes]|
+|ils|vocalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|vocalis%[m|é]|
+|tu|eus|vocalis%[m|é]|
+|il|eut|vocalis%[m|é]|
+|nous|e&ucirc;mes|vocalis%[m|é]|
+|vous|e&ucirc;tes|vocalis%[m|é]|
+|ils|eurent|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|vocalis%[m|erai]|
+|tu|vocalis%[m|eras]|
+|il|vocalis%[m|era]|
+|nous|vocalis%[m|erons]|
+|vous|vocalis%[m|erez]|
+|ils|vocalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|vocalis%[m|é]|
+|tu|auras|vocalis%[m|é]|
+|il|aura|vocalis%[m|é]|
+|nous|aurons|vocalis%[m|é]|
+|vous|aurez|vocalis%[m|é]|
+|ils|auront|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|vocalis%[m|erais]|
+|tu|vocalis%[m|erais]|
+|il|vocalis%[m|erait]|
+|nous|vocalis%[m|erions]|
+|vous|vocalis%[m|eriez]|
+|ils|vocalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|vocalis%[m|é]|
+|tu|aurais|vocalis%[m|é]|
+|il|aurait|vocalis%[m|é]|
+|nous|aurions|vocalis%[m|é]|
+|vous|auriez|vocalis%[m|é]|
+|ils|auraient|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|vocalis%[m|e]|
+|que|tu|vocalis%[m|es]|
+|qu'|il|vocalis%[m|e]|
+|que|nous|vocalis%[m|ions]|
+|que|vous|vocalis%[m|iez]|
+|qu'|ils|vocalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|vocalis%[m|é]|
+|que|tu|aies|vocalis%[m|é]|
+|qu'|il|ait|vocalis%[m|é]|
+|que|nous|ayons|vocalis%[m|é]|
+|que|vous|ayez|vocalis%[m|é]|
+|qu'|ils|aient|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|vocalis%[m|asse]|
+|que|tu|vocalis%[m|asses]|
+|qu'|il|vocalis%[m|ât]|
+|que|nous|vocalis%[m|assions]|
+|que|vous|vocalis%[m|assiez]|
+|qu'|ils|vocalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|vocalis%[m|é]|
+|que|tu|eusses|vocalis%[m|é]|
+|qu'|il|eût|vocalis%[m|é]|
+|que|nous|eussions|vocalis%[m|é]|
+|que|vous|eussiez|vocalis%[m|é]|
+|qu'|ils|eussent|vocalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|vocalis%[m|e]|
+|vocalis%[m|ons]|
+|vocalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|vocalis%[m|é]|
+|ayons|vocalis%[m|é]|
+|ayez|vocalis%[m|é]|
+|]
+

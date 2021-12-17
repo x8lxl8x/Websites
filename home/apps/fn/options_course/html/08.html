@@ -1,0 +1,362 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./07.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./09.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Early Exercise</h1>
+
+<p>Call options allow the buyer to purchase stock at a
+specified price over a specified time.&nbsp; However, there
+are two types of call options, one known as <i>American
+style</i> and the other known as <i>European style</i>.&nbsp;
+</p>
+<p>An American style option allows the buyer to exercise
+early while the European counterpart requires the buyer
+to wait until option expiration before purchasing stock
+with the call option.&nbsp; The question now is this: Is it
+ever advantageous to exercise an American style call
+option early; that is, prior to expiration?</p>
+<p>The answer will be very obvious to you once we go
+through some analogies, but surprisingly, this is one of
+the most common sources of option errors. </p>
+<p>If you trade options, be sure you understand this
+section, as it will keep you from making one of the
+costliest mistakes in option trading.</p>
+<h2>Exercising early</h2>
+<p>Let's start with the answer and then we will show why
+it is true:</p>
+<h2>It is never optimal to exercise a call option early
+<i>except</i> to capture a dividend.</h2>
+<p>There are many ways to show this is true.&nbsp;
+Unfortunately, most of the methods involve fairly
+complicated methods comparing two different portfolios
+of stocks and options,then comparing them after early
+exercise to see if one portfolio has an advantage over
+the other.&nbsp; I don't particularly like these methods as
+proofs for most investors, as they can get complicated,
+but we will show you one of these methods at the end
+anyway.&nbsp; For now, let's show why you should never
+exercise a call option early (except to capture a
+dividend) by using a simple story.</p>
+<p>Say your broker calls you one day with a hot deal.&nbsp;
+He has 1,000 shares of ABC stock that he must get rid
+of.&nbsp; The stock has moved up sharply over the past couple
+of weeks, from $30 to the current price of $75.&nbsp; He
+tells you, &quot;This is the hottest stock on the market and
+is certain to move higher.&nbsp; If you buy it now, I will
+not charge you a commission.&quot;</p>
+<p>You think it doesn't sound like such a bad deal.&nbsp; You
+have been hearing about the company in the news lately
+and were thinking of buying shares anyway.&nbsp; You tell
+your broker, &quot;I do not like to make these kinds of
+decisions in such a short time.&nbsp; I'd really like to
+research the stock to see exactly what this company
+does.&quot;</p>
+<p>Because you have been a customer of the brokerage
+firm for so long, the broker makes you this final
+offer.&nbsp; &quot;I will give you 10 days to research the stock
+and, if you decide that you want to buy it, I will
+reserve the shares for you at the current price of $75.&nbsp;
+If, after 10 days, you decide you do not want them, just
+let me know and I will not charge you anything.&quot;</p>
+<p>On your first day of research, you come to the
+conclusion that this company will be bigger than
+Microsoft and Intel combined.&nbsp; You will be wealthy
+beyond your wildest dreams if you could just purchase
+this stock.&nbsp; You must have the shares!&nbsp; </p>
+<p>Now, here's the question: Do you call your broker
+after the first day and buy the shares?&nbsp; Remember that
+he has given you 10 days to make up your mind and will
+reserve the $75 price for you.</p>
+<p>Hopefully you realize the answer -- you wait until
+the tenth day.&nbsp; Why?&nbsp; There are two reasons.&nbsp; One,
+because the brokerage firm is holding the stock and they
+are the ones at risk!&nbsp; If the stock falls, you will just
+tell your broker you don't want the shares at $75, as
+you will just purchase them in the market yourself. </p>
+<p>Second, as with any payment, you should prefer to pay
+as late as possible so that you can earn interest on
+your money in the meantime. Your purchase price will be
+$75,000 regardless of whether you buy today or on the
+tenth day.&nbsp; The answer is clear; you wait as long as
+possible and call your broker on the tenth day to
+purchase the stock.</p>
+<p>This example may seem blatantly obvious -- almost
+absurd -- as to the correct answer.&nbsp; But don't laugh;
+many advanced option traders make this mistake every
+single day.&nbsp; The situation we just described above <u>is</u>
+a call option and many traders, mistakenly, elect to
+call the shares away early.</p>
+<p>How is it a call option?&nbsp; Think about what your
+rights are with a call.&nbsp; You have the right, but not the
+obligation, to purchase stock for a fixed price over a
+specified time frame.&nbsp; In the example above, you had the
+right with no obligation to purchase the shares for $75
+for a period of ten days.&nbsp; The reason the example seemed
+absurd is because you were not required to pay any fees
+for the privilege of locking in the $75 price.&nbsp; </p>
+<p>In fact, if your broker required you to pay a fee,
+you would exactly have a call option (technically it
+would be called a <i>forward agreement</i> since the
+&quot;call option&quot; was not purchased as a standardized
+contract).</p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td>
+<div align='left'>
+<h2>Insights Into Option Pricing</h2>
+<p>If your broker did decide to take a fee
+for the arrangement, is there a price where
+he must accept?&nbsp; Yes, and that price is
+$75.&nbsp; At $75, you have effectively removed
+all risk to the brokerage firm so they would
+have no reason to not accept this bid.&nbsp; In
+fact, if you read our section on &quot;Option
+Pricing Basics&quot; during week 5, you will see
+that the highest price a call can trade is
+the price of the stock and now you know
+why.&nbsp; This is also why buy-writes (buying
+stock and selling calls simultaneously) must
+be entered as a net debit because the price
+of the option can never exceed the price of
+the stock.</div>
+</td>
+</tr>
+</table>
+<h2>Why traders feel they must exercise early</h2>
+<p>Traders who exercise early make the mistake of not
+realizing exactly what is happening in a call option
+agreement.&nbsp; Often, this is how they view the situation.&nbsp;
+Say the trader purchases a $100 call option for $15.&nbsp;
+The stock is now $130 with over a month left of time.&nbsp;
+The option is trading for $32.&nbsp; Here is the mistake: The
+trader often feels he does not want to &quot;lose&quot; the value
+of the call option.&nbsp; So, before the market gets the best
+of him, he decides to exercise it and walk away the
+winner.&nbsp; Wrong!&nbsp; Remember that the trader is <u>locked
+into the price</u> of $100.&nbsp; The stock can be trading
+for $200 and have split twice by expiration, and the
+stock price is still $100 to the owner of the call
+option.&nbsp; If he exercises early, however, the stock could
+completely collapse and he would have been better off
+not exercising.&nbsp; Also, by not exercising early, the $100
+stays in the money market longer to earn more interest.</p>
+<p>So what should you do if you feel your option is
+really high in value and you want to get out before it
+falls?&nbsp; Sell the call to close.&nbsp; Why?&nbsp; In this example,
+the trader exercised early and received stock worth
+$130, but paid only $100 for a gain of $30.&nbsp; After
+subtracting the cost of the call, $15, his net gain is
+$15.&nbsp; But if he sold the call to close in the market, he
+would receive $32 for a net gain of $17 after
+subtracting out the $15 cost.&nbsp; In other words, if you
+exercise your call option, you will only receive the
+stock in exchange for the strike price; you receive only
+the <u>intrinsic</u> amount.&nbsp; If you sell the call to
+close, you will collect the intrinsic amount <u>plus the
+time premium</u>.&nbsp; <b>You will always be better off
+selling the call to close if you do not want to continue
+holding the call option.&nbsp; </b></p>
+<p>The last thing you want to hold is the stock; that is
+the reason you buy the call option in the first place!</p>
+<table cellPadding='18' border='1' id='table5'>
+<tr vAlign='top'>
+<td>
+<div align='left'>
+<h2>Trading Example</h2>
+<p>One day a trader called in complaining
+after viewing his balances on the computer
+that morning.&nbsp; His net worth on the account
+was $120,000. It was $124,000 the day before
+yet all of his stocks were trading about the
+same price or a little higher.&nbsp; </p>
+<p>After searching through the transactions,
+it was discovered that he exercised 10 calls
+the day before.&nbsp; The option was 20 points
+in-the-money but the call was selling for
+$24 the previous day.&nbsp; When he exercised,
+the four points of time premium were wasted
+and that's what happened to his $4,000!&nbsp; If
+he had sold the contracts to close the
+previous day, his balance would still have
+been $124,000.</p>
+<p>Remember, when you exercise a call, you
+only receive the difference between the
+stock price and the exercise price; if you
+sell the call to close, you receive that
+same amount <u>plus</u> some time premium.</div>
+</td>
+</tr>
+</table>
+<h2>Still not convinced?</h2>
+<p>If you are still not sure whether or not that you
+should exercise a call option early, think about this
+scenario.&nbsp; Say a trader has a covered call position and
+bought stock at $100 per share and sold a 1-year $100
+call for $25.&nbsp; Now, if they get assigned, they will lose
+the stock but make a 33% profit (effectively buying the
+stock for $75 and selling it for $100 a year later).&nbsp; An
+investor who enters this trade considers the 33% profit
+a good deal, based on the risk of the stock, for one
+year's time.</p>
+<p>Now, think about this, what is the best thing that
+could happen to this trader?&nbsp; The best thing would be
+for him to check his account the next day and see the
+stock called away.&nbsp; Now he has received 33% in a day
+instead of a year, which is a much better return (too
+big to print!).&nbsp; Well, if it's a better deal for the
+short call position to be called early, it must be an
+equally bad deal for the long call.&nbsp; This is because
+options are a zero-sum game; that is, the one trader's
+gains are <i>exactly</i> the other trader's losses.</p>
+<p>Because the long call has control, that investor will
+do what is best for him -- he will wait until the very
+end of the year to exercise the call and receive the
+stock.</p>
+<h2>Mathematical models</h2>
+<p>It was mentioned at the beginning that we would look
+at a mathematical model in addition to the simplistic
+proofs covered so far.&nbsp; Here, we will look at one of
+many mathematical proofs that show it is never optimal
+to exercise a call option early on a non-dividend paying
+stock.&nbsp; </p>
+<p>Consider two portfolios, A and B. </p>
+<p>Portfolio A:&nbsp; Present value of exercise price in cash
++ call option</p>
+<p>Portfolio B:&nbsp; Stock</p>
+<p>At expiration, the cash will grow to be worth E, the
+exercise price.&nbsp; Portfolio A will use this cash to
+secure the exercise price.&nbsp; If the stock is <u>above</u>
+the strike price and Portfolio A exercises the call, the
+investor will receive the value of the stock price minus
+the exercise price (S - E) plus E from the cash which
+can be written: S - E + E = S.&nbsp; So, if Portfolio A
+exercises <u>at expiration</u>, Portfolio A is worth the
+stock price -- exactly as Portfolio B, which contains
+only the stock. </p>
+<p>However, if the stock price falls <u>below</u> the
+exercise price, E, at expiration, then Portfolio A will
+lose the value of the call and only be worth E, the
+cash.&nbsp; Portfolio B will be worth less than Portfolio A
+because the stock price is below the exercise price.&nbsp;
+</p>
+<p>So, Portfolio A is always worth <u>at least</u> as
+much as Portfolio B.&nbsp; </p>
+<p>But if Portfolio A exercises <i>early</i>, the
+portfolio is worth S minus E (from the exercise) minus
+the present value of E, which must be less than S.&nbsp;
+Why?&nbsp; Because you are subtracting off E and then adding
+back a number a little smaller than E (because it's the
+present value).&nbsp; Now, this is the only time Portfolio B
+can dominate Portfolio A, so A should not exercise
+early.</p>
+<p>I told you I don't like these proofs and now you
+probably see why!</p>
+<p>If you read our section on synthetics during week 11,
+you will recognize that Portfolio A is really a
+synthetic call option.&nbsp; By exercising early, Portfolio A
+gives up the protective value of the put.&nbsp; So no matter
+which method you use<i>, it is never optimal to exercise
+a call option on a non-dividend paying stock early.</i></p>
+<h2>Capturing a dividend</h2>
+<p>We have been saying to never exercise a call option
+early <u>except to capture a dividend</u>.&nbsp; Why would an
+investor want to do that?&nbsp; There are a couple of
+reasons.&nbsp; One, the stock may have announced a huge,
+special dividend.&nbsp; As a call option owner, you are not
+entitled to anything other than the price appreciation
+in the stock above the strike price.&nbsp; If the dividend is
+large enough, you may find it beneficial to exercise the
+call early in order to be the owner of the actual stock
+and therefore be entitled to the dividend.&nbsp; In this
+case, the investor should wait as long as possible and
+exercise the call the day before ex-dividend date.</p>
+<p>The second reason that investors will exercise the
+call option early is to reduce a loss due to a
+dividend.&nbsp; Say a stock is trading at $100 and will pay a
+$1 dollar dividend tomorrow.&nbsp; A trader bought a $95 call
+a while back for $10, and it is now trading for $5 plus
+a little time premium.&nbsp; The option will expire in a
+relatively short time. </p>
+<p>However, the stock will be trading for $99 tomorrow
+morning ex-dividend (the price of the stock is reduced
+to reflect the dividend payment from the company).&nbsp; What
+will happen to the call? &nbsp;It will trade for $4 because
+the stock is down $1, so the trader may elect to
+exercise the call early to reduce the loss.&nbsp; </p>
+<p>So exercising early to capture a known dividend is
+really a loss reduction strategy as opposed to a
+profit-seeking one. </p>
+<h2>One exception for margin traders</h2>
+<p>Here is a great tip you will not see in any books or
+hear from brokers.&nbsp; Say you trade on margin (borrowed
+funds) and are holding a very deep-in-the-money call,
+maybe a $30 call with the stock trading for $100.&nbsp;
+Assume there is some time left on the option; it could
+be a few days or even months.&nbsp; </p>
+<p>If you exercise early, you will meet the Fed call for
+the stock just by exercising!&nbsp; This is because the call
+is so deep-in-the-money.&nbsp; Because you are receiving
+stock so highly valued relative to the strike, your
+margin cash available and buying power will explode to
+the upside.&nbsp; So if you are in a situation where you need
+to generate cash available or buying power to take
+advantage of a certain stock, or perhaps to meet a
+margin call, exercising early may be your answer!</p>
+<p>The reason you never see this in the textbooks is
+because, by itself, exercising early gains you nothing
+in the asset.&nbsp; It is only due to other market mechanics
+of margin trading where it may benefit you.&nbsp; So, keep
+that in the back of your mind if you ever are lucky
+enough to have a call option go very deep-in-the-money
+and need to trade on margin.&nbsp; You should definitely
+check with your broker for specific details.</p>
+<h2>Early exercise with puts</h2>
+<p>Early exercise with puts, unlike calls, may be
+advantageous to the long position.&nbsp; This is because put
+options represent a cash inflow to your account.&nbsp; If the
+put option is very deep-in-the-money (technically where
+delta is equal to one), the put should be exercised.&nbsp; As
+an example, assume you are holding a $100 put option
+with 3 months of time remaining.&nbsp; The stock is trading
+at $40 and you see no hopes of it coming back above $100
+by expiration.&nbsp; If you wait until expiration, you will
+receive $100 for your stock.&nbsp; If you exercise now, you
+will receive $100 for your stock.&nbsp; Which do you prefer?&nbsp;
+As with any cash inflow, we prefer to have it paid
+earlier as opposed to later, so we exercise the put and
+take our $100 now.</p>
+<p>Although options can be used as a tool to buy or sell
+stock, most option contracts, somewhere in the
+neighborhood of 98%, never become exercised.&nbsp; This is
+because most option traders use them as a hedge.&nbsp; For
+example if an option trader has 100 shares of stock at
+$50 and also has a $50 put.&nbsp; The stock closes at $40.&nbsp;
+Rather than using the put to sell the stock, the option
+trader will close out the put for a $10 gain and use
+that to offset the $10 loss in the long position.&nbsp;
+Because of this fact, most option traders are not very
+familiar with exercising options.&nbsp; Make sure you become
+very aware with when and why to exercise.&nbsp;Not
+understanding can be costly.</p>
+
+</div>
+</div>
+</body>
+</html>

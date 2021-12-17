@@ -1,0 +1,190 @@
+# se balancer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se balan%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|balan%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se balan%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|balan%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se balan%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|balan%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|balan%[m|ce]|
+|tu|te|balan%[m|ces]|
+|il|se|balan%[m|ce]|
+|nous|nous|balan%[m|çons]|
+|vous|vous|balan%[m|cez]|
+|ils|se|balan%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|balan%[m|cé]|
+|tu|t'|es|balan%[m|cé]|
+|il|s'|est|balan%[m|cé]|
+|nous|nous|sommes|balan%[m|cés]|
+|vous|vous|êtes|balan%[m|cés]|
+|ils|se|sont|balan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|balan%[m|çais]|
+|tu|te|balan%[m|çais]|
+|il|se|balan%[m|çait]|
+|nous|nous|balan%[m|cions]|
+|vous|vous|balan%[m|ciez]|
+|ils|se|balan%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|balan%[m|cé]|
+|tu|t'|étais|balan%[m|cé]|
+|il|s'|était|balan%[m|cé]|
+|nous|nous|étions|balan%[m|cés]|
+|vous|vous|étiez|balan%[m|cés]|
+|ils|s'|étaient|balan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|balan%[m|çai]|
+|tu|te|balan%[m|ças]|
+|il|se|balan%[m|ça]|
+|nous|nous|balan%[m|çâmes]|
+|vous|vous|balan%[m|çâtes]|
+|ils|se|balan%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|balan%[m|cé]|
+|tu|te|fus|balan%[m|cé]|
+|il|se|fut|balan%[m|cé]|
+|nous|nous|fûmes|balan%[m|cés]|
+|vous|vous|fûtes|balan%[m|cés]|
+|ils|se|furent|balan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|balan%[m|cerai]|
+|tu|te|balan%[m|ceras]|
+|il|se|balan%[m|cera]|
+|nous|nous|balan%[m|cerons]|
+|vous|vous|balan%[m|cerez]|
+|ils|se|balan%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|balan%[m|cé]|
+|tu|te|seras|balan%[m|cé]|
+|il|se|sera|balan%[m|cé]|
+|nous|nous|serons|balan%[m|cés]|
+|vous|vous|serez|balan%[m|cés]|
+|ils|se|seront|balan%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|balan%[m|cerais]|
+|tu|te|balan%[m|cerais]|
+|il|se|balan%[m|cerait]|
+|nous|nous|balan%[m|cerions]|
+|vous|vous|balan%[m|ceriez]|
+|ils|se|balan%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|balan%[m|cé]|
+|tu|te|serais|balan%[m|cé]|
+|il|se|serait|balan%[m|cé]|
+|nous|nous|serions|balan%[m|cés]|
+|vous|vous|seriez|balan%[m|cés]|
+|ils|se|seraient|balan%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|balan%[m|ce]|
+|que|tu|te|balan%[m|ces]|
+|qu'|il|se|balan%[m|ce]|
+|que|nous|nous|balan%[m|cions]|
+|que|vous|vous|balan%[m|ciez]|
+|qu'|ils|se|balan%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|balan%[m|cé]|
+|que|tu|te|sois|balan%[m|cé]|
+|qu'|il|se|soit|balan%[m|cé]|
+|que|nous|nous|soyons|balan%[m|cés]|
+|que|vous|vous|soyez|balan%[m|cés]|
+|qu'|ils|se|soient|balan%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|balan%[m|çasse]|
+|que|tu|te|balan%[m|çasses]|
+|qu'|il|se|balan%[m|çât]|
+|que|nous|nous|balan%[m|çassions]|
+|que|vous|vous|balan%[m|çassiez]|
+|qu'|ils|se|balan%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|balan%[m|cé]|
+|que|tu|te|fusses|balan%[m|cé]|
+|qu'|il|se|fût|balan%[m|cé]|
+|que|nous|nous|fussions|balan%[m|cés]|
+|que|vous|vous|fussiez|balan%[m|cés]|
+|qu'|ils|se|fussent|balan%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|balan%[m|ce]-toi|
+|balan%[m|çons]-nous|
+|balan%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# s'opacifier %[clVerbGroup|1]
+[-
+rendre opaque (s'opacifier : devenir opaque) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'opacifi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|opacifi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'opacifi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|opacifi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'opacifi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|opacifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|opacifi%[m|e]|
+|tu|t'|opacifi%[m|es]|
+|il|s'|opacifi%[m|e]|
+|nous|nous|opacifi%[m|ons]|
+|vous|vous|opacifi%[m|ez]|
+|ils|s'|opacifi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|opacifi%[m|é]|
+|tu|t'|es|opacifi%[m|é]|
+|il|s'|est|opacifi%[m|é]|
+|nous|nous|sommes|opacifi%[m|és]|
+|vous|vous|êtes|opacifi%[m|és]|
+|ils|se|sont|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|opacifi%[m|ais]|
+|tu|t'|opacifi%[m|ais]|
+|il|s'|opacifi%[m|ait]|
+|nous|nous|opacifi%[m|ions]|
+|vous|vous|opacifi%[m|iez]|
+|ils|s'|opacifi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|opacifi%[m|é]|
+|tu|t'|étais|opacifi%[m|é]|
+|il|s'|était|opacifi%[m|é]|
+|nous|nous|étions|opacifi%[m|és]|
+|vous|vous|étiez|opacifi%[m|és]|
+|ils|s'|étaient|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|opacifi%[m|ai]|
+|tu|t'|opacifi%[m|as]|
+|il|s'|opacifi%[m|a]|
+|nous|nous|opacifi%[m|âmes]|
+|vous|vous|opacifi%[m|âtes]|
+|ils|s'|opacifi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|opacifi%[m|é]|
+|tu|te|fus|opacifi%[m|é]|
+|il|se|fut|opacifi%[m|é]|
+|nous|nous|fûmes|opacifi%[m|és]|
+|vous|vous|fûtes|opacifi%[m|és]|
+|ils|se|furent|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|opacifi%[m|erai]|
+|tu|t'|opacifi%[m|eras]|
+|il|s'|opacifi%[m|era]|
+|nous|nous|opacifi%[m|erons]|
+|vous|vous|opacifi%[m|erez]|
+|ils|s'|opacifi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|opacifi%[m|é]|
+|tu|te|seras|opacifi%[m|é]|
+|il|se|sera|opacifi%[m|é]|
+|nous|nous|serons|opacifi%[m|és]|
+|vous|vous|serez|opacifi%[m|és]|
+|ils|se|seront|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|opacifi%[m|erais]|
+|tu|t'|opacifi%[m|erais]|
+|il|s'|opacifi%[m|erait]|
+|nous|nous|opacifi%[m|erions]|
+|vous|vous|opacifi%[m|eriez]|
+|ils|s'|opacifi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|opacifi%[m|é]|
+|tu|te|serais|opacifi%[m|é]|
+|il|se|serait|opacifi%[m|é]|
+|nous|nous|serions|opacifi%[m|és]|
+|vous|vous|seriez|opacifi%[m|és]|
+|ils|se|seraient|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|opacifi%[m|e]|
+|que|tu|t'|opacifi%[m|es]|
+|qu'|il|s'|opacifi%[m|e]|
+|que|nous|nous|opacifi%[m|ions]|
+|que|vous|vous|opacifi%[m|iez]|
+|qu'|ils|s'|opacifi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|opacifi%[m|é]|
+|que|tu|te|sois|opacifi%[m|é]|
+|qu'|il|se|soit|opacifi%[m|é]|
+|que|nous|nous|soyons|opacifi%[m|és]|
+|que|vous|vous|soyez|opacifi%[m|és]|
+|qu'|ils|se|soient|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|opacifi%[m|asse]|
+|que|tu|t'|opacifi%[m|asses]|
+|qu'|il|s'|opacifi%[m|ât]|
+|que|nous|nous|opacifi%[m|assions]|
+|que|vous|vous|opacifi%[m|assiez]|
+|qu'|ils|s'|opacifi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|opacifi%[m|é]|
+|que|tu|te|fusses|opacifi%[m|é]|
+|qu'|il|se|fût|opacifi%[m|é]|
+|que|nous|nous|fussions|opacifi%[m|és]|
+|que|vous|vous|fussiez|opacifi%[m|és]|
+|qu'|ils|se|fussent|opacifi%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|opacifi%[m|e]-toi|
+|opacifi%[m|ons]-nous|
+|opacifi%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

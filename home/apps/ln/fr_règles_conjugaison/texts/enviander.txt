@@ -1,0 +1,190 @@
+# enviander %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|enviand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|enviand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|enviand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||enviand%[m|é]|
+|ayant|enviand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en enviand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|enviand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|enviand%[m|e]|
+|tu|enviand%[m|es]|
+|il|enviand%[m|e]|
+|nous|enviand%[m|ons]|
+|vous|enviand%[m|ez]|
+|ils|enviand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|enviand%[m|é]|
+|tu|as |enviand%[m|é]|
+|il|a|enviand%[m|é]|
+|nous|avons|enviand%[m|é]|
+|vous|avez|enviand%[m|é]|
+|ils|ont|enviand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|enviand%[m|ais]|
+|tu|enviand%[m|ais]|
+|il|enviand%[m|ait]|
+|nous|enviand%[m|ions]|
+|vous|enviand%[m|iez]|
+|ils|enviand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|enviand%[m|é]|
+|tu|avais|enviand%[m|é]|
+|il|avait|enviand%[m|é]|
+|nous|avions|enviand%[m|é]|
+|vous|aviez|enviand%[m|é]|
+|ils|avaient|enviand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|enviand%[m|ai]|
+|tu|enviand%[m|as]|
+|il|enviand%[m|a]|
+|nous|enviand%[m|âmes]|
+|vous|enviand%[m|âtes]|
+|ils|enviand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|enviand%[m|é]|
+|tu|eus|enviand%[m|é]|
+|il|eut|enviand%[m|é]|
+|nous|e&ucirc;mes|enviand%[m|é]|
+|vous|e&ucirc;tes|enviand%[m|é]|
+|ils|eurent|enviand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|enviand%[m|erai]|
+|tu|enviand%[m|eras]|
+|il|enviand%[m|era]|
+|nous|enviand%[m|erons]|
+|vous|enviand%[m|erez]|
+|ils|enviand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|enviand%[m|é]|
+|tu|auras|enviand%[m|é]|
+|il|aura|enviand%[m|é]|
+|nous|aurons|enviand%[m|é]|
+|vous|aurez|enviand%[m|é]|
+|ils|auront|enviand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|enviand%[m|erais]|
+|tu|enviand%[m|erais]|
+|il|enviand%[m|erait]|
+|nous|enviand%[m|erions]|
+|vous|enviand%[m|eriez]|
+|ils|enviand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|enviand%[m|é]|
+|tu|aurais|enviand%[m|é]|
+|il|aurait|enviand%[m|é]|
+|nous|aurions|enviand%[m|é]|
+|vous|auriez|enviand%[m|é]|
+|ils|auraient|enviand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|enviand%[m|e]|
+|que|tu|enviand%[m|es]|
+|qu'|il|enviand%[m|e]|
+|que|nous|enviand%[m|ions]|
+|que|vous|enviand%[m|iez]|
+|qu'|ils|enviand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|enviand%[m|é]|
+|que|tu|aies|enviand%[m|é]|
+|qu'|il|ait|enviand%[m|é]|
+|que|nous|ayons|enviand%[m|é]|
+|que|vous|ayez|enviand%[m|é]|
+|qu'|ils|aient|enviand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|enviand%[m|asse]|
+|que|tu|enviand%[m|asses]|
+|qu'|il|enviand%[m|ât]|
+|que|nous|enviand%[m|assions]|
+|que|vous|enviand%[m|assiez]|
+|qu'|ils|enviand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|enviand%[m|é]|
+|que|tu|eusses|enviand%[m|é]|
+|qu'|il|eût|enviand%[m|é]|
+|que|nous|eussions|enviand%[m|é]|
+|que|vous|eussiez|enviand%[m|é]|
+|qu'|ils|eussent|enviand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enviand%[m|e]|
+|enviand%[m|ons]|
+|enviand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|enviand%[m|é]|
+|ayons|enviand%[m|é]|
+|ayez|enviand%[m|é]|
+|]
+

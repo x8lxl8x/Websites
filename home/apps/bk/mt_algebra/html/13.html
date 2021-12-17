@@ -1,0 +1,1758 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Algebra</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_343'>      13. Combinatorics and Probability</a><br>
+<br>
+<a href='#section_57'>       13.1. Combinatorics</a><br>
+<a href='#concept_330'>      13.1.1. Counting Rules and Techniques</a><br>
+<a href='#concept_238'>      13.1.2. Permutations</a><br>
+<a href='#concept_239'>      13.1.3. Permutations of Distinguishable Objects</a><br>
+<a href='#concept_240'>      13.1.4. Permutations of Nondistinguishable Objects</a><br>
+<a href='#concept_241'>      13.1.5. Combinations</a><br>
+<br>
+<a href='#section_58'>       13.2. The Binomial Theorem</a><br>
+<a href='#concept_242'>      13.2.1. Binomial Expansions and Pascal's Triangle</a><br>
+<a href='#concept_243'>      13.2.2. Binomial Expansion and Factorial Notation</a><br>
+<a href='#concept_244'>      13.2.3. Finding a Specific Term</a><br>
+<br>
+<a href='#section_255'>      13.3. Probability</a><br>
+<a href='#concept_331'>      13.3.1. Fundamentals of Probability</a><br>
+<a href='#concept_332'>      13.3.2. Unions and Intersections</a><br>
+<a href='#concept_333'>      13.3.3. Conditional Probability</a><br>
+<a href='#concept_334'>      13.3.4. Complementary Events</a><br>
+<a href='#concept_335'>      13.3.5. The Addition Rule</a><br>
+<a href='#concept_336'>      13.3.6. The Multiplication Rule</a><br>
+<a href='#concept_337'>      13.3.7. Independence</a><br>
+<a href='#concept_246'>      13.3.8. Experimental Probabilities</a><br>
+</div>
+
+<h1 id='chapter_343'>13. Combinatorics and Probability</h1>
+
+<h2 id='section_57'>13.1. Combinatorics</h2>
+
+<h3 id='concept_330'>13.1.1. Counting Rules and Techniques</h3>
+
+<blockquote>Combinatorics is a branch of mathematics concerning the study of finite or countable discrete structures.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe the different rules and properties for combinatorics</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The rule of sum (addition rule), rule of product (multiplication rule), and inclusion-exclusion principle are often used for enumerative purposes.</li>
+<li>Bijective proofs are utilized to demonstrate that two sets have the same number of elements.</li>
+<li>Double counting is a technique used to demonstrate that two expressions are equal. The pigeonhole principle often ascertains the existence of something or is used to determine the minimum or maximum number of something in a discrete context.</li>
+<li>Generating functions and recurrence relations are powerful tools that can be used to manipulate sequences, and can describe if not resolve many combinatorial situations.</li>
+<li>Double counting is a technique used to demonstrate that two expressions are equal.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>polynomial</dt>
+<dd>An expression consisting of a sum of a finite number of terms: each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power.</dd>
+<dt>combinatorics</dt>
+<dd>A branch of mathematics that studies (usually finite) collections of objects that satisfy specified criteria.</dd>
+</dl>
+
+<p>Combinatorics is a branch of mathematics concerning the study of finite or countable discrete structures. Combinatorial techniques are applicable to many areas of mathematics, and a knowledge of combinatorics is necessary to build a solid command of statistics. It involves the enumeration, combination, and permutation
+of sets of elements and the mathematical relations that characterize
+their properties.
+</p>
+<p>Aspects of combinatorics include: counting the structures of a given kind and size, deciding when certain criteria can be met, and constructing and analyzing objects meeting the criteria. Aspects also include finding "largest," "smallest," or "optimal" objects, studying combinatorial structures arising in an algebraic context, or applying algebraic techniques to combinatorial problems.</p>
+
+<h3>Combinatorial Rules and Techniques</h3>
+
+<p>Several useful combinatorial rules or combinatorial principles are commonly recognized and used. Each of these principles is used for a specific purpose. The rule of sum (addition rule), rule of product (multiplication rule), and inclusion-exclusion principle are often used for enumerative purposes. Bijective proofs are utilized to demonstrate that two sets have the same number of elements. Double counting is a method of showing that two expressions are equal. The pigeonhole principle often ascertains the existence of something or is used to determine the minimum or maximum number of something in a discrete context. Generating functions and recurrence relations are powerful tools that can be used to manipulate sequences, and can describe if not resolve many combinatorial situations. Each of these techniques is described in greater detail below.</p>
+
+<h3>Rule of Sum</h3>
+
+<p>The rule of sum is an intuitive principle stating that if there are <span class='clFormula'>$a$</span>
+ possible ways to do something, and <span class='clFormula'>$b$</span>
+possible ways to do another thing, and the two things can't both be done, then there are <span class='clFormula'>$a + b$</span>
+total possible ways to do one of the things. More formally, the sum of the sizes of two disjoint sets is equal to the size of the union of these sets.</p>
+
+<h3>Rule of Product</h3>
+
+<p>The rule of product is another intuitive principle stating that if there are <span class='clFormula'>$a$</span>
+ways to do something and <span class='clFormula'>$b$</span>
+ways to do another thing, then there are <span class='clFormula'>$a \cdot b$</span>
+ways to do both things.</p>
+
+<h3>Inclusion-Exclusion Principle</h3>
+
+<p>The inclusion-exclusion principle is a counting technique that is used to obtain the number of elements in a union of multiple sets.  This counting method ensures that elements that are present in more than one set in the union are not counted more than once. It considers the size of each set and the size of the intersections of the sets. The smallest example is when there are two sets: the number of elements in the union of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+is equal to the sum of the number of elements in <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, minus the number of elements in their intersection. See the diagram below for an example with three sets.</p>
+
+<h3>Bijective Proof</h3>
+
+<p>A bijective proof is a proof technique that finds a bijective function <span class='clFormula'>$f: A \rightarrow B$</span>
+between two finite sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, which proves that they have the same number of elements,  <span class='clFormula'>$|A| = |B|$</span>
+. A bijective function is one in which there is a one-to-one correspondence between the elements of two sets. In other words, each element in set <span class='clFormula'>$B$</span>
+is paired with exactly one element in set <span class='clFormula'>$A$</span>
+. This technique is useful if we wish to know the size of <span class='clFormula'>$A$</span>
+, but can find no direct way of counting its elements. If <span class='clFormula'>$B$</span>
+is more easily countable, establishing a bijection from <span class='clFormula'>$A$</span>
+to  <span class='clFormula'>$B$</span>
+solves the problem. </p>
+
+<h3>Double Counting</h3>
+
+<p>Double counting is a combinatorial proof technique for showing that two expressions are equal. This is done by demonstrating that the two expressions are two different ways of counting the size of one set. In this technique, a finite set <span class='clFormula'>$X$</span>
+is described from two perspectives, leading to two distinct expressions for the size of the set. Since both expressions equal the size of the same set, they equal each other.</p>
+
+<h3>Pigeonhole Principle</h3>
+
+<p>The pigeonhole principle states that if <span class='clFormula'>$a$</span>
+items are each put into one of <span class='clFormula'>$b$</span>
+boxes, where <span class='clFormula'>$a&gt;b$</span>
+, then at least one of the boxes contains more than one item. This principle allows one to demonstrate the existence of some element in a set with some specific properties. For example, consider a set of three gloves. In such a set, there must be either two left gloves or two right gloves (or three of left or right). This is an application of the pigeonhole principle that yields information about the properties of the gloves in the set.</p>
+
+<h3>Generating Function</h3>
+
+<p>Generating functions can be thought of as polynomials with infinitely many terms whose coefficients correspond to the terms of a sequence. The (ordinary) generating function of a sequence <span class='clFormula'>$a_n$</span>
+is given by:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;f(x) = \sum_{n=0}^{\infty} a_{n}x^{n}$</span></p>
+<p>whose coefficients give the sequence <span class='clFormula'>$\left \{ a_{0}, a_{1}, a_{2}, ... \right \}$</span>
+.</p>
+
+<h3>Recurrence Relation</h3>
+
+<p>A recurrence relation defines each term of a sequence in terms of the preceding terms. In other words, once one or more initial terms are given, each of the following terms of the sequence is a function of the preceding terms. </p>
+<p>The Fibonacci sequence is one example of a recurrence relation. Each term of the Fibonacci sequence is given by <span class='clFormula'>$F_{n} = F_{n-1} + F_{n-2}$</span>
+, with initial values <span class='clFormula'>$F_{0}=0$</span>
+and <span class='clFormula'>$F_{1}=1$</span>
+. Thus, the sequence of Fibonacci numbers begins: </p>
+
+<div class='clFormula'>$\displaystyle&#10;0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...$</div>
+
+
+<h3 id='concept_238'>13.1.2. Permutations</h3>
+
+<blockquote>A permutation of a set of objects is an arrangement of those objects in a particular order; the number of permutations can be counted.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the number of arrangements of ordered objects using permutations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Informally, a permutation of a set of objects is an arrangement of those objects into a particular order. For example, there are six permutations of the set <span class='clFormula'>${1,2,3}$</span>
+, namely <span class='clFormula'>$(1,2,3)$</span>
+, <span class='clFormula'>$(1,3,2)$</span>
+,<span class='clFormula'>$(2,1,3)$</span>
+, <span class='clFormula'>$(2,3,1)$</span>
+, <span class='clFormula'>$(3,1,2)$</span>
+, and <span class='clFormula'>$(3,2,1)$</span>
+.</li>
+<li> The number of permutations of <span class='clFormula'>$n$</span>
+distinct objects is <span class='clFormula'>$n \cdot (n - 1) \cdot (n - 2) \cdots 2 \cdot 1$</span>
+. This is called <span class='clFormula'>$n$</span>
+factorial, and written <span class='clFormula'>$n!$</span>
+.</li>
+<li>When deciding permutations of a subset from a larger set, it is often useful to divide one factorial by another to determine the number of permutations possible. For example, the first six cards from a deck of cards would have <span class='clFormula'>$\frac {52!}{46! }$</span>
+permutations possible, or about 14.7 billion.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>factorial</dt>
+<dd>The result of multiplying a given number of consecutive integers from <equation>$1$</equation> to the given number. In equations, it is symbolized by an exclamation mark (<equation>$!$</equation>). For example, <equation>$5! = 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 = 120$</equation>.</dd>
+<dt>permutation</dt>
+<dd>An ordering of a finite set of distinct elements.</dd>
+</dl>
+
+<h3>Permutations</h3>
+
+<p>A permutation of a set of objects is an arrangement of those objects into a particular order. For example, there are six permutations of the set <span class='clFormula'>${1,2,3}$</span>
+: <span class='clFormula'>$(1,2,3)$</span>
+, <span class='clFormula'>$(1,3,2)$</span>
+, <span class='clFormula'>$(2,1,3)$</span>
+, <span class='clFormula'>$(2,3,1)$</span>
+, <span class='clFormula'>$(3,1,2)$</span>
+, and <span class='clFormula'>$(3,2,1)$</span>
+. One might define an anagram of a word as a permutation of its letters. </p>
+
+
+
+<a href='../images/1301.png'><img class='clImageThumb' src='../images/1301.png' alt='The 6 permutations of 3 balls'></a>
+
+<div><b><i>The 6 permutations of 3 balls</i></b></div>
+<p><i>If one has three different colored balls, there are six distinct ways to order them, as shown. These six distinct orderings are as follows: red-green-blue, red-blue-green, green-red-blue, green-blue-red, blue-red-green, and blue-green-red.</p>
+
+<p>The number of permutations of <span class='clFormula'>$n$</span>
+distinct objects is given by:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;n \cdot (n - 1) \cdot (n - 2) \cdots 2 \cdot 1$</span></p>
+<p>This is called <span class='clFormula'>$n$</span>
+factorial and is written <span class='clFormula'>$n!$</span>
+.</p>
+<p>In other words, a factorial is to multiply all the numbers from <span class='clFormula'>$1$</span>
+up to this number. So <span class='clFormula'>$5!$</span>
+means <span class='clFormula'>$1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 = 120$</span>
+. Thus, <span class='clFormula'>$120$</span>
+is the number of permutations possible for a set of five distinct objects.</p>
+
+<h3>Example</h3>
+
+<p>In the game of Solitaire, seven cards are dealt out at the beginning: one face-up, and the other six face-down. A complete card deck has <span class='clFormula'>$52$</span>
+cards. Assuming that the only card that is seen is the <span class='clFormula'>$7$</span>
+ of spades, how many possible "hands" (the other six cards) can be underneath? What makes this a permutation problem is that the order matters: if an ace is hiding somewhere in those six cards, it makes a difference whether the ace is on the first position, the second, etc. Permutation problems can always be addressed as an example of the multiplication rule, with one small twist.</p>
+
+
+
+<a href='../images/1302.png'><img class='clImageThumb' src='../images/1302.png' alt='One stack of cards in a game of solitaire'></a>
+
+<div><b><i>One stack of cards in a game of solitaire</i></b></div>
+<p>To find out how many possible combinations of cards there are below the seven of spades, we use the concept of permutations to calculate the possible arrangements of cards.</p>
+
+<p>How many cards might be in the first position, directly under the showing <span class='clFormula'>$7$</span>
+? The answer is 51. That card can be anything except the <span class='clFormula'>$7$</span>
+of spades.</p>
+<p>If any given card is in the first position, how many cards might be in second position? The answer is <span class='clFormula'>$50$</span>
+. The seven of spades and the next card have both been dealt. So there are  possible cards left for the second position.</p>
+<p>So how many possibilities are there for the first two positions combined? The answer is <span class='clFormula'>$51 \cdot 50$</span>
+.</p>
+<p>How many possibilities are there for all six positions? The answer is <span class='clFormula'>$51 \cdot 50 \cdot 49 \cdot 48 \cdot 47 \cdot 46$</span>
+, or approximately <span class='clFormula'>$1.3 \cdot 10^{10}$</span>
+; about <span class='clFormula'>$13$</span>
+billion possibilities!</p>
+<p>This result can be expressed more concisely by using factorials. </p>
+<p>Note that <span class='clFormula'>$\frac {7!}{5! }$</span>
+ can also be written as <span class='clFormula'>$\frac {1\cdot 2\cdot 3\cdot 4\cdot 5\cdot 6\cdot 7}{1\cdot 2\cdot 3\cdot 4\cdot 5}$</span>
+. Most of the terms cancel, leaving only <span class='clFormula'>$67=42$</span>
+.</p>
+<p>Consider another example, <span class='clFormula'>$\frac {51!}{45! }$</span>
+. If all of the terms are written out, the first <span class='clFormula'>$45$</span>
+terms cancel, leaving <span class='clFormula'>$46 \cdot 47 \cdot 48 \cdot 49 \cdot 50 \cdot 51$</span>
+in the numerator. Instead of typing into a calculator six numbers to multiply, or sixty numbers or six hundred depending on the problem, the answer to a permutation problem can be found by dividing two factorials. In many calculators, the factorial option is located under the "probability" menu for this reason.</p>
+
+<h3>General Considerations</h3>
+
+<p>In
+mathematics, the notion of permutation is used with several slightly
+different meanings, all related to the act of permuting (rearranging)
+objects or values. Informally, a permutation of a set of objects is an
+arrangement of those objects into a particular order. The study of permutations generally belongs to the field of combinatorics.</p>
+<p> Permutations occur, in more or less prominent ways, in almost every domain of mathematics. They often arise when different orderings on certain finite sets are considered, possibly only because one wants to ignore such orderings and needs to know how many configurations are thus identified. For similar reasons, permutations arise in the study of sorting algorithms in computer science.</p>
+
+<h3 id='concept_239'>13.1.3. Permutations of Distinguishable Objects</h3>
+
+<blockquote>The number of permutations of distinct elements can be calculated when not all elements from a given set are used.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the number of permutations of <equation>$n$</equation> objects taken <equation>$k$</equation> at a time</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>If all objects in consideration are distinct, they can be arranged in <span class='clFormula'>$n!$</span>
+permutations, where <span class='clFormula'>$n$</span>
+represents the number of objects.</li>
+<li>If not all the objects in a set of <span class='clFormula'>$n$</span>
+unique elements are chosen, the above formula can be modified to: <span class='clFormula'>$\displaystyle \frac {n!}{(n-k)! }$</span>
+, where <span class='clFormula'>$k$</span>
+represents the number of selected elements.</li>
+<li>When solving for quotients of factorials, the terms of the denominator can cancel with the terms of the numerator, thus eliminating perhaps the majority of terms to be multiplied.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>permutation</dt>
+<dd>An ordering of a finite set of distinct elements.</dd>
+<dt>factorial</dt>
+<dd>The result of multiplying a given number of consecutive integers from <equation>$1$</equation> to the given number. In equations, it is symbolized by an exclamation mark (<equation>$!$</equation>). For example, <equation>$5! = 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 = 120$</equation>.</dd>
+</dl>
+
+<p>Recall that, if all objects in a set are distinct, then they can be arranged in <span class='clFormula'>$n!$</span>
+possible permutations, where <span class='clFormula'>$n$</span>
+represents the number of objects. The quantity <span class='clFormula'>$n!$</span>
+is given by: </p>
+
+<div class='clFormula'>$\displaystyle&#10;n\cdot (n-1)\cdot (n-2)\cdots 2\cdot 1$</div>
+
+<p>It is easy enough to use this formula to count the number of possible permutations of a set of distinct objects; for example, the number of permutations of three differently-colored balls. However, consider a situation where not all of the elements in a set of distinct objects are used in each permutation. For example, what if <span class='clFormula'>$7$</span>
+cards are chosen from among a full deck of <span class='clFormula'>$52$</span>
+? In this case, not all of the cards from the deck are chosen for each possible permutation. There exists a formula for solving permutation problems such as this one, which would otherwise be nearly impossible to determine. </p>
+
+<h3>Permutations of a Partial Set</h3>
+
+<p>If not all of the objects in a set of  unique elements are chosen, the following formula is used. This formula determines the number of possible permutations of <span class='clFormula'>$k$</span>
+elements selected from the set of <span class='clFormula'>$n$</span>
+elements:</p>
+
+<div class='clFormula'>$\displaystyle &#10;\frac {n!}{(n-k)! }$</div>
+
+<p>To understand the application of this concept, consider a race in which <span class='clFormula'>$3$</span>
+ different prizes are awarded to the top <span class='clFormula'>$3$</span>
+fastest competitors. If <span class='clFormula'>$25$</span>
+competitors participate in the race, in how many distinct orders could the <span class='clFormula'>$3$</span>
+prizes be awarded?</p>
+<p>To solve this problem, we want to evaluate the number of possible permutations of   <span class='clFormula'>$3$</span>
+elements from the set of <span class='clFormula'>$25$</span>
+ elements; in other words, <span class='clFormula'>$k = 3$</span>
+and <span class='clFormula'>$n=25$</span>
+. Plugging these values into the formula, we have:</p>
+
+<div class='clFormula'>$\displaystyle  &#10;\frac {25!}{(25-3)! } = \frac {25!}{22!} $</div>
+
+<p>Remember that both <span class='clFormula'>$25!$</span>
+and <span class='clFormula'>$22!$</span>
+contain the terms  <span class='clFormula'>$22 \cdot 21 \cdots 2 \cdot 1$</span>
+. Thus, these values cancel from the numerator and denominator, and the equation can be simplified:</p>
+
+<div class='clFormula'>$$</span><span class='clFormula'>$ \displaystyle&#10;\begin{align}&#10;\frac{25!}{22!} &amp;= \frac{25 \cdot 24 \cdot 23 \cdot 22 \cdot 21 \cdots 2 \cdot 1}{22 \cdot 21 \cdots  2 \cdot 1} \\&#10; &amp;= 25 \cdot 24 \cdot 23 \\ &#10; &amp;= 13,800&#10;\end{align}$</div>
+
+<p>There are <span class='clFormula'>$13,800$</span>
+possible permutations in which the <span class='clFormula'>$3$</span>
+top prizes may be awarded to the <span class='clFormula'>$25$</span>
+race competitors.</p>
+
+<h3> General Considerations</h3>
+
+<p>It is worth noting that this formula does not exclude what we might call 'duplicate' permutations. In other words, the order of the elements selected does matter. Consider <span class='clFormula'>$3$</span>
+ cards drawn from a pack: an ace of spades, a <span class='clFormula'>$10$</span>
+of diamonds, and a <span class='clFormula'>$3$</span>
+of clubs. The hand is exactly the same as the following: a <span class='clFormula'>$10$</span>
+of diamonds, an ace of spaces and a <span class='clFormula'>$3$</span>
+of clubs. If you are playing a game in which the order of your cards does not matter<em>,</em> you will only want to count each permutation of cards once. The formula introduced here does not apply to such situations. </p>
+
+<div class='clFormula'>$$</div>
+
+
+<h3 id='concept_240'>13.1.4. Permutations of Nondistinguishable Objects</h3>
+
+<blockquote>The expression revealing the number of permutations of distinct items can be modified if not all items in the set are distinct.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the number of permutations of a given set of objects, some being nondistinguishable</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Some sets include repetitions of certain elements. In these cases, the number of possible permutations of the items cannot be expressed by <span class='clFormula'>$n!$</span>
+, where <span class='clFormula'>$n$</span>
+represents the number of elements, because this calculation would include a multiplicity of possible states.</li>
+<li>To correct for the multiplicity of certain permutations, divide the factorial of the total number of elements by the product of the factorials of the number of each repeated element.</li>
+<li>The expression for number of permutations with repeated elements is: <span class='clFormula'>$\frac {n!}{n_1!n_2!n_3!... }$</span>
+ where <span class='clFormula'>$n$</span>
+is the total number of terms in a sequence and <span class='clFormula'>$n_1$</span>
+, <span class='clFormula'>$n_2$</span>
+, and <span class='clFormula'>$n_3$</span>
+are the number of repetitions of different elements.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>multiplicity</dt>
+<dd>The number of values for which a given condition holds.</dd>
+<dt>permutation</dt>
+<dd>An ordering of a finite set of distinct elements.</dd>
+</dl>
+
+<p>Recall that the number of possible permutations of a set of <span class='clFormula'>$n$</span>
+distinct elements is given by <span class='clFormula'>$n!$</span>
+:</p>
+
+<div class='clFormula'>$\displaystyle&#10;n \cdot (n-1) \cdot(n-2) \cdots 2 \cdot 1$</div>
+
+<p>This can be easily tested. The number <span class='clFormula'>$1$</span>
+ can be arranged in just one <span class='clFormula'>$1!$</span>
+ way. The numbers <span class='clFormula'>$1$</span>
+and <span class='clFormula'>$2$</span>
+can be arranged in two <span class='clFormula'>$2!$</span>
+ways: <span class='clFormula'>$(1,2)$</span>
+and <span class='clFormula'>$(2,1)$</span>
+. The numbers <span class='clFormula'>$1$</span>
+, <span class='clFormula'>$2$</span>
+, and <span class='clFormula'>$3$</span>
+can be arranged in <span class='clFormula'>$3!$</span>
+ways: <span class='clFormula'>$(1,2,3)$</span>
+, <span class='clFormula'>$(1,3,2)$</span>
+, <span class='clFormula'>$(2,1,3)$</span>
+, <span class='clFormula'>$(2,3,1)$</span>
+, <span class='clFormula'>$(3,1,2)$</span>
+, and <span class='clFormula'>$(3,2,1)$</span>
+. This rule holds true for sets of any size, so long as the elements are all distinct. But what if some elements are repeated?</p>
+<p>Repetition of some elements complicates the calculation of permutations, because it allows for there to be multiple ways in which a specific order of elements can be arranged. For example, given the numbers <span class='clFormula'>$1$</span>
+, <span class='clFormula'>$3$</span>
+, and <span class='clFormula'>$3$</span>
+in a set, there are 2 ways to obtain the order <span class='clFormula'>$(3,1,3)$</span>
+.</p>
+<p>To correct for the "multiplicity" of certain permutations, we must divide the factorial of the total number of elements by the product of the factorials of the number of each repeated element. This can generally be represented as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\frac {n!}{n_1!n_2!n_3!... }$</div>
+
+<p>Where <span class='clFormula'>$n$</span>
+is the total number of terms in a sequence, and <span class='clFormula'>$n_1$</span>
+, <span class='clFormula'>$n_2$</span>
+, and <span class='clFormula'>$n_3$</span>
+represent the number of repetitions of different elements. </p>
+<p>To understand why we would divide by the number of repetitions, consider that  <span class='clFormula'>$2$</span>
+elements can be arranged in a total of <span class='clFormula'>$2!$</span>
+distinct ways, <span class='clFormula'>$3$</span>
+elements can be arranged in a total of <span class='clFormula'>$3!$</span>
+distinct ways, and so on. When we encounter multiplicity in a permutation, we must account for it by dividing these possible arrangements out of the total number of permutations that would be possible if all of the elements were distinct.</p>
+
+<h3>Example: Consider the set of numbers:</h3>
+
+<p> <span class='clFormula'>$\displaystyle&#10;(15, 17, 24, 24, 28)$</span></p>
+<p>There are five terms, so <span class='clFormula'>$n=5$</span>
+. However, two of the terms are the same; their value is <span class='clFormula'>$24$</span>
+. Thus, the number of possible distinct permutations in the set is:</p>
+
+<div class='clFormula'>$\displaystyle{\frac {5!}{2! }=60}$</div>
+
+<p>The same logic can apply to more complicated systems. </p>
+
+<h3>Example: Consider the set:</h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;(0, 0, 0, 2, 4, 4, 7, 7, 7, 7, 7, 8, 8)$</div>
+
+<p>In total, there are <span class='clFormula'>$13$</span>
+elements. These include many repetitions: <span class='clFormula'>$0$</span>
+ is seen 3 times,  <span class='clFormula'>$4$</span>
+and <span class='clFormula'>$8$</span>
+each are observed twice, and there are <span class='clFormula'>$5$</span>
+instances of the number <span class='clFormula'>$7$</span>
+. Thus, the number of possible distinct permutations can be calculated by:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\frac {13! }{2!\cdot 2!\cdot 3!\cdot 5! }= 2,162,160$</div>
+
+<p>This logic can be applied to problems involving anagrams of given words. </p>
+
+<h3>Example: Consider how many distinct ways you can order the letters of the word "waterfall."</h3>
+
+<p>The word waterfall consists of <span class='clFormula'>$9$</span>
+letters in total, so  <span class='clFormula'>$n=9$</span>
+. The letter "a" appears twice, giving a value of <span class='clFormula'>$2$</span>
+for <span class='clFormula'>$n_{1}$</span>
+. Similarly, the letter "l" appears twice, yielding <span class='clFormula'>$n_{2} = 2$</span>
+. Thus, the number of distinct permutations for the letters in "waterfall" can be calculated as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\frac {9! }{2!\cdot 2!}= 90,720$</div>
+
+
+<h3 id='concept_241'>13.1.5. Combinations</h3>
+
+<blockquote>A combination is a way of selecting several things out of a larger group, where (unlike permutations) order does not matter.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the number of ways of selecting several things out of a larger group (where order doesn't matter) using combinations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A combination is a mathematical concept where one counts the number of ways one can select several elements out of a larger group.</li>
+<li>Unlike a permutation, when determining the number of combinations, order does not matter.</li>
+<li>Formally, a <span class='clFormula'>$k$</span>
+-combination of a set <span class='clFormula'>$S$</span>
+is a subset of <span class='clFormula'>$k$</span>
+distinct elements of <span class='clFormula'>$S$</span>
+. If the set has <span class='clFormula'>$n$</span>
+elements the number of <span class='clFormula'>$k$</span>
+-combinations is equal to the binomial coefficient: <span class='clFormula'>$\begin{pmatrix} n\\ k \end{pmatrix} = \frac {n(n-1)...(n-k+1)}{k(k-1)...1}$</span>
+, which can be written using factorials as <span class='clFormula'>$\frac {n!}{k!(n-k)! }$</span>
+whenever <span class='clFormula'>$k \le n$</span>
+and which is zero when <span class='clFormula'>$k &gt; n$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial coefficient</dt>
+<dd>A coefficient of any of the terms in the expansion of the binomial power <equation>$(1+x)^n$</equation>.</dd>
+<dt>combination</dt>
+<dd>A way of selecting elements from a set, where order does not matter.</dd>
+</dl>
+
+<p>In mathematics, a combination is a way of selecting several things out of a larger group, where (unlike permutations) order does not matter. In smaller cases, it is possible to count the number of combinations. For example, given <span class='clFormula'>$3$</span>
+ pieces of fruit: an apple, an orange and a pear. There are <span class='clFormula'>$3$</span>
+combinations of <span class='clFormula'>$2$</span>
+that can be drawn from this set: an apple and a pear, an apple and an orange, or a pear and an orange. </p>
+<p>Combinations can refer to the combination of <span class='clFormula'>$n$</span>
+things taken <span class='clFormula'>$k$</span>
+at a time with or without repetition. In the above example, repetition was not allowed. If, however, it was possible to have <span class='clFormula'>$2$</span>
+of any <span class='clFormula'>$1$</span>
+kind of fruit there would be <span class='clFormula'>$3$</span>
+ more combinations:   <span class='clFormula'>$2$</span>
+ apples, <span class='clFormula'>$2$</span>
+oranges, and <span class='clFormula'>$2$</span>
+pears.</p>
+<p>To understand the difference between a permutation and combination, consider a deck of <span class='clFormula'>$52$</span>
+cards, from which a poker hand (<span class='clFormula'>$5$</span>
+cards) is dealt. How many possible poker hands are there?</p>
+<p>At first glance, this may seem like a permutation question, where one might consider how many distinct ways there are to make a stack of cards. However, there is one  important difference: order does not matter in this problem. When dealt a poker hand during a game, order does not matter so you will have the same hand regardless of the order in which the cards are dealt. Combination problems involve such scenarios.</p>
+<p>To approach such a question, begin with the permutations: how many possible poker hands are there, if order does matter? </p>
+<p>Recall the permutation formula: <span class='clFormula'>$\displaystyle{\frac{n!}{(n-k)!}}$</span>
+, where <span class='clFormula'>$n$</span>
+is the number of distinct objects in the set, and <span class='clFormula'>$k$</span>
+is the number of objects selected. In this case, we can calculate the number of permutations as:</p>
+<p><span class='clFormula'>$$</span>
+ <span class='clFormula'>$\displaystyle&#10;\begin{align}&#10;\frac{52!}{(52-5)!}&amp;=\frac{52!}{47!}\\&#10;&amp;=52 \cdot 51 \cdot 50 \cdot 49 \cdot 48&#10;\end{align}$</span></p>
+<p>This yields approximately <span class='clFormula'>$311.9$</span>
+million possible poker hands. However, one has to count every possible hand many different times in this calculation. How many different times is one counting each distinct hand?</p>
+<p>The key insight is that this second question—"How many different times is one counting each distinct hand?" is itself a permutation question. It is the same as the question "How many different ways can these five cards be rearranged in a hand?" There are <span class='clFormula'>$5$</span>
+possibilities for the first card, <span class='clFormula'>$4$</span>
+for the second, and so on. The answer is <span class='clFormula'>$5!$</span>
+, which is <span class='clFormula'>$120$</span>
+. So, since every possible hand has been counted <span class='clFormula'>$120$</span>
+times, divide our earlier result by <span class='clFormula'>$120$</span>
+to find that there are <span class='clFormula'>$\frac {52!}{(47!)(5! )}$</span>
+, or about <span class='clFormula'>$2.6$</span>
+million possible poker hands.</p>
+<p>Combinations turn out to have a surprisingly large number of applications. Consider the following questions:</p>
+<ul>
+<li>A school offers <span class='clFormula'>$50$</span>
+classes. Each student must choose <span class='clFormula'>$6$</span>
+ of them to fill out a schedule. How many possible schedules can be made?</li>
+<li>A basketball team has <span class='clFormula'>$12$</span>
+ players, but only <span class='clFormula'>$5$</span>
+will start. How many possible starting teams can they field?</li>
+<li>Your computer contains <span class='clFormula'>$300$</span>
+videos, but you can only fit <span class='clFormula'>$10$</span>
+ of them on your phone. How many possible ways can you load your phone?</li>
+</ul>
+<p>Each of these is a combinations question, and can be answered exactly like the card scenario. Since this type of question comes up in so many different contexts, it is given a special name and symbol. The last question would be referred to as "<span class='clFormula'>$300$</span>
+choose <span class='clFormula'>$10$</span>
+" and written <span class='clFormula'>$\begin{pmatrix} 300\\ 10 \end{pmatrix}$</span>
+. It is calculated as <span class='clFormula'>$\frac {300!}{(290!)(10! )}$</span>
+, for reasons explained above.</p>
+<p>Each possible combination of <span class='clFormula'>$k$</span>
+distinct elements of a set <span class='clFormula'>$S$</span>
+is known as a  <span class='clFormula'>$k$</span>
+-combination. If the set has <span class='clFormula'>$n$</span>
+elements, the number of <span class='clFormula'>$k$</span>
+-combinations is equal to</p>
+<p>  <span class='clFormula'>$\begin{pmatrix} n\\ k \end{pmatrix} = \dfrac {n(n-1)...(n-k+1)}{k(k-1)...1}$</span>
+ </p>
+<p>Which can be written using factorials as</p>
+<p> <span class='clFormula'>$\dfrac {n!}{k!(n-k)! }$</span>
+ </p>
+<p>Whenever <span class='clFormula'>$k \leq n$</span>
+, and which is zero when <span class='clFormula'>$k &gt; n$</span>
+. The set of all <span class='clFormula'>$k$</span>
+-combinations of a set <span class='clFormula'>$S$</span>
+is often denoted by <span class='clFormula'>$\begin{pmatrix} S \\ k \end{pmatrix}$</span>
+, which is read as "<span class='clFormula'>$S$</span>
+choose <span class='clFormula'>$k$</span>
+," such as in the phone example above. The set of <span class='clFormula'>$k$</span>
+-combinations may also be denoted in certain texts by <span class='clFormula'>$C(n,k)$</span>
+, or by a variation such as <span class='clFormula'>$C_k^n$</span>
+, <span class='clFormula'>$_nC_k$</span>
+, or <span class='clFormula'>$^nC_k$</span>
+. </p>
+
+<h3>General Considerations</h3>
+
+<p>The number of <span class='clFormula'>$k$</span>
+-combinations, or <span class='clFormula'>$\begin{pmatrix} S \\ k \end{pmatrix}$</span>
+, is also known as the binomial coefficient, because it occurs as a coefficient in the binomial formula. The binomial coefficient is the coefficient of the <span class='clFormula'>$x^k$</span>
+term in the polynomial expansion of <span class='clFormula'>$(1+x)^n$</span>
+. <span class='clFormula'>$$</span></p>
+<h2 id='section_58'>13.2. The Binomial Theorem</h2>
+
+<h3 id='concept_242'>13.2.1. Binomial Expansions and Pascal's Triangle</h3>
+
+<blockquote>The binomial theorem, which uses Pascal's triangles to determine coefficients, describes the algebraic expansion of powers of a binomial.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the Binomial Formula and Pascal's Triangle to expand a binomial raised to a power and find the coefficients of a binomial expansion</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>According to the theorem, it is possible to expand the power <span class='clFormula'>$(x + y)^n$</span>
+into a sum involving terms of the form <span class='clFormula'>$ax^by^c$</span>
+, where the exponents <span class='clFormula'>$b$</span>
+and <span class='clFormula'>$c$</span>
+are nonnegative integers with <span class='clFormula'>$b+c=n$</span>
+, and the coefficient <span class='clFormula'>$a$</span>
+of each term is a specific positive integer depending on <span class='clFormula'>$n$</span>
+and <span class='clFormula'>$b$</span>
+.</li>
+<li>Using summation notation, the binomial theorem can be expressed as: <span class='clFormula'>${ (x+y) }^{ n }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ n-k }{ y }^{ k }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ k }{ y }^{ n-k }$</span>
+.</li>
+<li>The rows of Pascal's triangle contain the coefficients of binomial expansions and provide an alternate way to expand binomials. The rows are conventionally enumerated starting with row <span class='clFormula'>$n=0$</span>
+at the top, and the entries in each row are numbered from the left beginning with <span class='clFormula'>$k=0$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial coefficient</dt>
+<dd>A coefficient of any of the terms in the expansion of the binomial power <equation>$(x+y)^n$</equation></dd>
+<dt>integer</dt>
+<dd>An element of the infinite and numerable set <equation>$\left \{ \cdots ,-3,-2,-1,0,1,2,3, \cdots \right \}$</equation></dd>
+<dt>binomial</dt>
+<dd>A polynomial consisting of two terms, or monomials, separated by an addition or subtraction symbol.</dd>
+</dl>
+
+<h3>Binomial Theorem</h3>
+
+<p>The binomial theorem is an algebraic method of expanding a binomial expression. Essentially, it demonstrates what happens when you multiply a binomial by itself (as many times as you want). For example, consider the expression <span class='clFormula'>$(4x+y)^7$</span>
+. It would take quite a long time to multiply the binomial <span class='clFormula'>$(4x+y)$</span>
+out seven times. The binomial theorem provides a short cut, or a formula that yields the expanded form of this expression.</p>
+<p>According to the theorem, it is possible to expand the power <span class='clFormula'>$(x+y)^n$</span>
+ into a sum involving terms of the form <span class='clFormula'>$ax^by^c$</span>
+, where the exponents  <span class='clFormula'>$b$</span>
+and <span class='clFormula'>$c$</span>
+are nonnegative integers with <span class='clFormula'>$b+c=n$</span>
+, and the coefficient <span class='clFormula'>$a$</span>
+of each term is a specific positive integer depending on <span class='clFormula'>$n$</span>
+and <span class='clFormula'>$b$</span>
+. When an exponent is zero, the corresponding power is usually omitted from the term (so that <span class='clFormula'>$3x^2y^0$</span>
+would be written as <span class='clFormula'>$3x^2$</span>
+).</p>
+<p>For example, consider the following expansion:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(x+y)}^{4}={x}^{4}+4{x}^{3}{y}+6{x}^{2}{y}^{2}+4x{y}^{3}+{y}^{4}$</div>
+
+<p>Any coefficient <span class='clFormula'>$a$</span>
+in a term  <span class='clFormula'>$ax^by^c$</span>
+of the expanded version is known as a binomial coefficient. The binomial coefficient also arises in combinatorics, where it gives the number of different combinations of <span class='clFormula'>$b$</span>
+elements that can be chosen from a set of <span class='clFormula'>$n$</span>
+elements. Recall that this could be written with the notation <span class='clFormula'>$\begin{pmatrix} n \\ b \end{pmatrix}$</span>
+, or "<span class='clFormula'>$n$</span>
+choose <span class='clFormula'>$b$</span>
+."</p>
+<p>According to the binomial theorem, it is possible to expand any power of <span class='clFormula'>$x + y$</span>
+into a sum of the form:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{ (x+y) }^{ n }=\begin{pmatrix} n \\ 0 \end{pmatrix}{ x }^{ n }{ y }^{ 0 }+\begin{pmatrix} n \\ 1 \end{pmatrix}{ x }^{ n-1 }{ y }^{ 1 } \\ +\begin{pmatrix} n \\ 2 \end{pmatrix}{ x }^{ n-2 }{ y }^{ 2 }+\dots +\begin{pmatrix} n \\ n-1 \end{pmatrix}{ x }^{ 1 }{ y }^{ n-1 }+\begin{pmatrix} n \\ n \end{pmatrix}{ x }^{ 0 }{ y }^{ n }$</div>
+
+<p>where each value <span class='clFormula'>$\begin{pmatrix} n \\ k \end{pmatrix} $</span>
+is a specific positive integer known as binomial coefficient. This formula is referred to as the Binomial Formula.  Using summation notation, it can be written as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{ (x+y) }^{ n }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ n-k }{ y }^{ k }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ k }{ y }^{ n-k }$</div>
+
+<p>A significant amount of time may be required to apply the binomial theorem and perform all of the calculations in the above formula, particularly for high values of <span class='clFormula'>$n$</span>
+. Therefore, what follows is a shortcut for finding binomial expansions using a visual tool.</p>
+
+<h3>Pascal's Triangle</h3>
+
+<p>Pascal's triangle is an alternative way of determining the coefficients that arise in binomial expansions, using a diagram rather than algebraic methods. For a binomial expansion with a relatively small exponent, this can be a straightforward way to determine the coefficients. </p>
+<p>In the diagram below, notice that each number in the triangle is the sum of the two directly above it. This pattern continues indefinitely. </p>
+
+
+
+<a href='../images/1303.gif'><img class='clImageThumb' src='../images/1303.gif' alt='Pascal's Triangle'></a>
+
+<div><b><i>Pascal's Triangle</i></b></div>
+<p>Each number in the triangle is the sum of the two directly above it.</p>
+
+<p>The rows of Pascal's triangle are numbered, starting with row <span class='clFormula'>$n = 0$</span>
+at the top. The entries in each row are numbered from the left beginning with <span class='clFormula'>$k = 0$</span>
+and are usually staggered relative to the numbers in the adjacent rows. A simple construction of the triangle proceeds in the following manner. On row <span class='clFormula'>$0$</span>
+, write only the number <span class='clFormula'>$1$</span>
+. Then, to construct the elements of following rows, add the two above numbers to find the new value. If either of the above numbers is not present, substitute a zero in its place. For example, each number in  row one is <span class='clFormula'>$0 + 1 = 1$</span>
+.</p>
+<p>To understand how this pattern applies to the binomial formula, consider the expansion:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(x + y)}^{2} = {x}^{2} + 2xy + {y}^{2} = 1{x}^{2}{y}^{0} + 2{x}^{1}{y}^{1} + 1{x}^{0}{y}^{2}$</div>
+
+<p>Notice the coefficients are the numbers in row two of Pascal's triangle: <span class='clFormula'>$1,2,1$</span>
+. In general, when a binomial like <span class='clFormula'>$x+y$</span>
+is raised to a positive integer power we have:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(x + y)}^{n} = {a}_{0}{x}^{n} + {a}_{1}{x}^{n-1}y +{a}_{2}{x}^{n-2} {y}^{2} + \cdot\cdot\cdot {a}_{n-1}{x}{y}^{n-1} + {a}_{n}{y}^{n}$</div>
+
+<p>Where the coefficients <span class='clFormula'>$a_i$</span>
+ in this expansion are precisely the numbers on row <span class='clFormula'>$n$</span>
+of Pascal's triangle. </p>
+<p>Notice that the entire right diagonal of Pascal's triangle corresponds to the coefficient of <span class='clFormula'>$y^n$</span>
+in these binomial expansions, while the next diagonal corresponds to the coefficient of <span class='clFormula'>$xy^{n-1}$</span>
+and so on. </p>
+
+<h3>Example: Find the expansion of <span class='clFormula'>$(x+y)^5$</span>
+using Pascal's triangle</h3>
+
+<p>Notice that <span class='clFormula'>$n=5$</span>
+, and recall that this would correspond to row 5 of Pascal's triangle. </p>
+
+
+
+<a href='../images/1304.png'><img class='clImageThumb' src='../images/1304.png' alt='Pascal's Triangle'></a>
+
+<div><b><i>Pascal's Triangle</i></b></div>
+<p>Pascal's triangle with 5 rows. </p>
+
+<p>Recall that the binomial expansion of <span class='clFormula'>$(x+y)^5$</span>
+will be written in the following form, where the coefficients are the numbers in row <span class='clFormula'>$5$</span>
+of Pascal's triangle:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(x + y)}^{5} = {a}_{0}{x}^{5} + {a}_{1}{x}^{4}y +{a}_{2}{x}^{3} {y}^{2} + {a}_{3}{x}^2{y}^{3} + {a}_{4}{x}{y}^{4}+{a}_{5}{y}^{5}$</div>
+
+<p>It can be observed in the triangle that row <span class='clFormula'>$5$</span>
+is <span class='clFormula'>$1, 5, 10, 10, 5, 1$</span>
+. Applying these numbers to the binomial expansion, we have:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(x + y)}^{5} = {x}^{5} + 5{x}^{4}{y} + 10{x}^{3}{y}^{2} + 10{x}^{2}y^{3} + 5{x}{y}^{4} + {y}^{5} $</div>
+
+
+<h3 id='concept_243'>13.2.2. Binomial Expansion and Factorial Notation</h3>
+
+<blockquote>The binomial theorem describes the algebraic expansion of powers of a binomial.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use factorial notation to find the coefficients of a binomial expansion</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>According to the theorem, it is possible to expand the power <span class='clFormula'>$(x + y)^n$</span>
+ into a sum involving terms of the form <span class='clFormula'>$ax^by^c$</span>
+, where the exponents <span class='clFormula'>$b$</span>
+ and <span class='clFormula'>$c$</span>
+ are nonnegative integers with <span class='clFormula'>$b+c=n$</span>
+, and the coefficient <span class='clFormula'>$a$</span>
+ of each term is a specific positive integer depending on <span class='clFormula'>$n$</span>
+ and <span class='clFormula'>$b$</span>
+.</li>
+<li>The factorial of a non-negative integer <span class='clFormula'>$n$</span>
+, denoted by <span class='clFormula'>$n!$</span>
+, is the product of all positive integers less than or equal to <span class='clFormula'>$n$</span>
+.</li>
+<li>Binomial coefficients can be written as <span class='clFormula'>$\displaystyle{\begin{pmatrix} n \\ k \end{pmatrix}}$</span>
+or <span class='clFormula'>$_{n}{C}_{k} $</span>
+and are defined in terms of the factorial function <span class='clFormula'>$n!$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>factorial</dt>
+<dd>The result of multiplying a given number of consecutive integers from <equation>$1$</equation> to the given number. In equations, it is symbolized by an exclamation mark (<equation>$!$</equation>). For example, <equation>$5! = 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 = 120$</equation>.</dd>
+<dt>binomial coefficient</dt>
+<dd>A coefficient of any of the terms in the expansion of the binomial power <equation>$(x+y)^n$</equation>.</dd>
+</dl>
+
+<p>Recall that the binomial theorem is an algebraic method of expanding a binomial that is raised to a certain power, such as <span class='clFormula'>$(4x+y)^7$</span>
+. The theorem is given by the formula: </p>
+
+<div class='clFormula'>$\displaystyle&#10;{ (x+y) }^{ n }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ n-k }{ y }^{ k }=\sum _{ k=0 }^{ n }{ \begin{pmatrix} n \\ k \end{pmatrix} } { x }^{ k }{ y }^{ n-k }$</div>
+
+<p>The coefficients that appear in the binomial expansion are called binomial coefficients. These are usually written <span class='clFormula'>$\displaystyle{\begin{pmatrix} n \\ k \end{pmatrix}}$</span>
+or <span class='clFormula'>$_{n}{C}_{k}$</span>
+, and pronounced "<span class='clFormula'>$n$</span>
+choose <span class='clFormula'>$k$</span>
+".</p>
+<p>The coefficient of  a term <span class='clFormula'>$x^{n-k}y^k$</span>
+in a binomial expansion can be calculated using the combination formula. Recall that the combination formula represents the number of ways to choose <span class='clFormula'>$k$</span>
+objects from among <span class='clFormula'>$n$</span>
+, where order does not matter. The formula consists of factorials:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} n \\ k \end{pmatrix} = \frac { n! }{ k!(n-k)! }$</div>
+
+<p>Note that although this formula involves a fraction, the binomial coefficient <span class='clFormula'>$\begin{pmatrix} n \\ k \end{pmatrix}$</span>
+is actually an integer.</p>
+<p>In calculating coefficients, recall that the factorial of a non-negative integer <span class='clFormula'>$n$</span>
+, denoted by <span class='clFormula'>$n!$</span>
+, is the product of all positive integers less than or equal to <span class='clFormula'>$n$</span>
+. For example,  <span class='clFormula'>$5!=54321=120$</span>
+. The value of <span class='clFormula'>$0!$</span>
+is <span class='clFormula'>$$</span><span class='clFormula'>$1$</span>
+, according to the convention for an empty product. </p>
+<p>Finally, you may recall that the factorial <span class='clFormula'>$n!$</span>
+also represents the number of possible permutations of <span class='clFormula'>$n$</span>
+, or the number of ways in which <span class='clFormula'>$n$</span>
+objects can be arranged or selected.</p>
+
+<h3>Example: Use the binomial formula to find the expansion of <span class='clFormula'>$(x+y)^4$</span></h3>
+
+<p>Start by substituting <span class='clFormula'>$n=4$</span>
+into the binomial formula:</p>
+
+<div class='clFormula'>$\displaystyle&#10;(x+y)^4=\sum _{ k=0 }^{ 4 }{ \begin{pmatrix} 4 \\ k \end{pmatrix} } { x }^{ 4-k }{ y }^{ k }$</div>
+
+<p>In order to solve this, we will need to expand the summation for all values of <span class='clFormula'>$k$</span>
+.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;(x+y)^4&amp;={ \begin{pmatrix} 4 \\ 0 \end{pmatrix} } { x }^{ 4-0}{y}^{0} + { \begin{pmatrix} 4 \\ 1 \end{pmatrix} } { x }^{ 4-1}{ y }^{1} + { \begin{pmatrix} 4 \\ 2 \end{pmatrix} } { x }^{ 4-2 }{ y }^{ 2 } + { \begin{pmatrix} 4 \\ 3 \end{pmatrix} } { x }^{ 4-3 }{ y }^{ 3 } + { \begin{pmatrix} 4 \\ 4 \end{pmatrix} } { x }^{ 4-4 }{ y }^{ 4 }  \\&#10; &amp;={ \begin{pmatrix} 4 \\ 0 \end{pmatrix} } { x }^{ 4} + { \begin{pmatrix} 4 \\ 1 \end{pmatrix} } { x }^{ 3}{ y } + { \begin{pmatrix} 4 \\ 2 \end{pmatrix} } { x }^{ 2 }{ y }^{ 2 } + { \begin{pmatrix} 4 \\ 3 \end{pmatrix} } { x }^{ 1 }{ y }^{ 3 } + { \begin{pmatrix} 4 \\ 4 \end{pmatrix} } { y }^{ 4 } &#10;\end{align}$</div>
+
+<p>Recall that <span class='clFormula'>${ \begin{pmatrix} 4 \\ 0 \end{pmatrix} }$</span>
+and <span class='clFormula'>${ \begin{pmatrix} 4 \\ 4 \end{pmatrix} }$</span>
+are both equivalent to 1, as there is only one way to choose either <span class='clFormula'>$0$</span>
+or <span class='clFormula'>$4$</span>
+objects from among <span class='clFormula'>$4$</span>
+. Therefore, we have:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;= { x }^{ 4} + { \begin{pmatrix} 4 \\ 1 \end{pmatrix} } { x }^{ 3}{ y } + { \begin{pmatrix} 4 \\ 2 \end{pmatrix} } { x }^{ 2 }{ y }^{ 2 } + { \begin{pmatrix} 4 \\ 3 \end{pmatrix} } { x }{ y }^{ 3 } + { y }^{ 4 } $</span></p>
+<p>Now we must evaluate each of the remaining combinations: </p>
+
+<div class='clFormula'>$\displaystyle&#10; \begin{pmatrix} 4 \\ 1 \end{pmatrix}  = \frac { 4! }{ 1!(4-1)! } = \frac { 4! }{ 1!3! } = 4$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10; \begin{pmatrix} 4 \\ 2 \end{pmatrix}  = \frac { 4! }{ 2!(4-2)! } = \frac { 4! }{ 2!2! } = 6$</span><span class='clFormula'>$$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10; \begin{pmatrix} 4 \\ 3 \end{pmatrix}  = \frac { 4! }{ 3!(4-3)! } = \frac { 4! }{ 3!1! } = 4$</div>
+
+<p>Substituting these integers into the expansion, we have:</p>
+
+<div class='clFormula'>$\displaystyle&#10;(x+y)^4 = { x }^{ 4} + 4 { x }^{ 3}{ y } + 6 { x }^{ 2 }{ y }^{ 2 } + 4 { x }{ y }^{ 3 } + { y }^{ 4 } $</div>
+
+
+<h3 id='concept_244'>13.2.3. Finding a Specific Term</h3>
+
+<blockquote>The r<sup>th</sup> term of the binomial expansion can be found with the equation: <span class='clFormula'>${ \begin{pmatrix} n \\ r-1 \end{pmatrix} }{ a }^{ n-(r-1) }{ b }^{ r-1 }$</span>
+.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice finding a specific term of a binomial expansion</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Properties for the binomial expansion include:  the number of terms is one more than <span class='clFormula'>$n$</span>
+(the exponent), and the sum of the exponents in each term adds up to <span class='clFormula'>$n$</span>
+.</li>
+<li>Applying <span class='clFormula'>${ \begin{pmatrix} n \\ r-1 \end{pmatrix} }{ a }^{ n-(r-1) }{ b }^{ r-1 }$</span>
+and <span class='clFormula'>$\displaystyle \begin{pmatrix} n \\ k \end{pmatrix}=\frac{n!}{(n-k)!k! }$</span>
+, one can find a particular term of a binomial expansion without going through every single term.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>integer</dt>
+<dd>An element of the infinite and numerable set <equation>$\left \{ \cdots ,-3,-2,-1,0,1,2,3, \cdots \right \}$</equation>.</dd>
+</dl>
+
+<p>There may be instances when we want to identify a certain term in the expansion of <span class='clFormula'>$\displaystyle{ (x+y) }^{ n }$</span>
+. It is straightforward to identify the terms where <span class='clFormula'>$n$</span>
+is an integer with a low value. You might multiply each binomial out to identify the coefficients, or you might use Pascal's triangle.  However, what if <span class='clFormula'>$n$</span>
+has a greater value? How would you identify a particular term of <span class='clFormula'>${(3x-4)}^{12}$</span>
+? Luckily, there is a formula that can be used to calculate the terms in such situations.</p>
+<p>Let's go through a few expansions of binomials, in order to consider any patterns that are present in the terms.</p>
+
+<div class='clFormula'>$\displaystyle&#10;{(a+b)}^{1}=a+b$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;{(a+b)}^{2}={a}^{2}+2ab+{b}^{2}$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;{(a+b)}^{3}={a}^{3}+3{a}^{2}b+3a{b}^{2}+{b}^3$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;{(a+b)}^{4}={a}^{4}+4{a}^{3}b+6{a}^{2}{b}^{2}+4a{b}^{3}+{b}^4$</div>
+
+<p>A few things should be noticed:</p>
+<ul>
+<li>The number of terms is one more than <span class='clFormula'>$n$</span>
+(the exponent).</li>
+<li>The power of <span class='clFormula'>$a$</span>
+starts with <span class='clFormula'>$n$</span>
+and decreases by <span class='clFormula'>$1$</span>
+each term.</li>
+<li>The power of <span class='clFormula'>$b$</span>
+starts with <span class='clFormula'>$0$</span>
+and increases by <span class='clFormula'>$1$</span>
+ each term.</li>
+<li>The sum of the exponents in each term adds up to <span class='clFormula'>$n$</span>
+.  </li>
+<li>The coefficients of the first and last terms are both <span class='clFormula'>$1$</span>
+and they follow Pascal's triangle.</li>
+</ul>
+<p>If the  expansion is short, such as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;{(x+2)}^{3}&amp;={x}^{3}+2{x}^{2}{2}^{1}+2{x}^{1}{2}^{2}+{2}^{3}\\&#10;&amp;={x}^{3}+4{x}^{2}+8{x}+8&#10;&#10;\end{align}$</div>
+
+<p>Then it is easy to find a particular term. This becomes difficult and time consuming when the expansion is large. There is, luckily, a shortcut for identifying particular terms of longer expansions. The following formula yields the <span class='clFormula'>$r$</span>
+th term in the expansion:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{ \begin{pmatrix} n \\ r-1 \end{pmatrix} }{ a }^{ n-(r-1) }{ b }^{ r-1 }$</div>
+
+<p>Recall that the combination formula provides a way to calculate <span class='clFormula'>$\begin{pmatrix} n \\ k \end{pmatrix}$</span>
+:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{\begin{pmatrix} n \\ k \end{pmatrix}=\frac{n!}{(n-k)!k! }}$</div>
+
+
+<h3>Example: Find the fifth term of <span class='clFormula'>${(3x-4)}^{12}$</span></h3>
+
+<p>Note that the value of <span class='clFormula'>$n = 12$</span>
+in this case. Because we are looking for the fifth term, we use <span class='clFormula'>$r=5$</span>
+. Plugging these values into the formula, we have:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{ \begin{pmatrix} 12 \\ 5-1 \end{pmatrix} }{ (3x) }^{ 12-(5-1) }{ (-4) }^{ 5-1 }$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;{ \begin{pmatrix} 12 \\ 4 \end{pmatrix} }{ (3x)}^{ 8 }{ (-4) }^{ 4 }$</div>
+
+<p>Remember to evaluate <span class='clFormula'>$\begin{pmatrix} 12 \\ 4 \end{pmatrix}$</span>
+using the combination formula:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;\frac{n!}{(n-k)!k! }&amp;=\frac{12!}{(12-4)!4! }\\&#10;&amp;=495&#10;\end{align}$</div>
+
+<p>Subbing in <span class='clFormula'>$\begin{pmatrix} 12 \\ 4 \end{pmatrix}=495$</span>
+ in the formula, we  have: </p>
+
+<div class='clFormula'>$\displaystyle&#10;495{ (3x)}^{ 8 }{ (-4) }^{ 4 }$</div>
+
+<p>When the power is applied to the terms, the result is:</p>
+
+<div class='clFormula'>$\displaystyle&#10;495\cdot 6561{x}^{8} \cdot 256 =831409920{x}^{8}$</div>
+
+<p>Thus, the fifth term of <span class='clFormula'>${(3x-4)}^{12}$</span>
+is <span class='clFormula'>$831409920{x}^{8}$</span>
+.</p>
+<h2 id='section_255'>13.3. Probability</h2>
+
+<h3 id='concept_331'>13.3.1. Fundamentals of Probability</h3>
+
+<blockquote>Probability is the branch of mathematics that deals with the likelihood that certain outcomes will occur.  There are five basic rules, or axioms, that one must understand while studying the fundamentals of probability.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the most basic and most important rules in determining the probability of an event</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Probability is a number that can be assigned to outcomes and events. It always is greater than or equal to zero, and less than or equal to one.</li>
+<li>The sum of the probabilities of all outcomes must equal <span class='clFormula'>$1$</span>
+.</li>
+<li>If two events have no outcomes in common, the probability that one or the other occurs is the sum of their individual probabilities.</li>
+<li>The probability that an event does not occur is <span class='clFormula'>$1$</span>
+minus the probability that the event does occur.</li>
+<li>Two events <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent if knowing that one occurs does not change the probability that the other occurs.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>experiment</dt>
+<dd>Something that is done that produces measurable results, called outcomes.</dd>
+<dt>outcome</dt>
+<dd>One of the individual results that can occur in an experiment.</dd>
+<dt>event</dt>
+<dd>A subset of the sample space.</dd>
+<dt>sample space</dt>
+<dd>The set of all outcomes of an experiment.</dd>
+</dl>
+
+<p>In discrete probability, we assume a well-defined experiment, such as flipping a coin or rolling a die. Each individual result which could occur is called an <em>outcome</em>. The set of all outcomes is called the sample space, and any subset of the sample space is called an <em>event. </em></p>
+<p>For example, consider the experiment of flipping a coin two times. There are four individual outcomes, namely <span class='clFormula'>$HH, HT, TH, TT.$</span>
+The sample space is thus <span class='clFormula'>$\{HH, HT, TH, TT\}.$</span>
+The event "at least one heads occurs" would be the set <span class='clFormula'>$\{HH, HT, TH\}.$</span>
+If the coin were a normal coin, we would assign the probability of <span class='clFormula'>$1/4$</span>
+ to each outcome. </p>
+<p>In probability theory, the probability <span class='clFormula'>$P$</span>
+of some event <span class='clFormula'>$E$</span>
+, denoted <span class='clFormula'>$P(E)$</span>
+, is usually defined in such a way that <span class='clFormula'>$P$</span>
+satisfies a number of axioms, or rules. The most basic and most important rules are listed below.</p>
+
+<h3>Probability Rules</h3>
+
+
+<ol>
+<li>
+<em>Probability is a number. It is always greater than or equal to zero, and less than or equal to one</em>.  This can be written as <span class='clFormula'>$0 \leq P(A) \leq 1$</span>
+.  An impossible event, or an event that never occurs, has a probability of <span class='clFormula'>$0$</span>
+. An event that always occurs has a probability of <span class='clFormula'>$1$</span>
+. An event with a probability of <span class='clFormula'>$0.5$</span>
+will occur half of the time. </li>
+<li>
+<em>The sum of the probabilities of all possibilities must equal </em><span class='clFormula'>$1$</span>
+. Some outcome must occur on every trial, and the sum of all probabilities is 100%, or in this case, <span class='clFormula'>$1$</span>
+. This can be written as <span class='clFormula'>$P(S) = 1$</span>
+, where <span class='clFormula'>$S$</span>
+represents the entire sample space.</li>
+<li>
+<em>If two events have no outcomes in common, the probability that one or the other occurs is the sum of their individual probabilities</em>. If one event occurs in <span class='clFormula'>$30\%$</span>
+of the trials, a different event occurs in <span class='clFormula'>$20\%$</span>
+of the trials, and the two cannot occur together (if they are disjoint), then the probability that one or the other occurs is <span class='clFormula'>$30\% + 20\% = 50\%$</span>
+. This is sometimes referred to as the addition rule, and can be simplified with the following: <span class='clFormula'>$P(A \ \text{or} \ B) = P(A)+P(B)$</span>
+. The word "or" means the same thing in mathematics as the union, which uses the following symbol: <span class='clFormula'>$\cup&#10;$</span>
+. Thus when <span class='clFormula'>$A$</span>
+ and <span class='clFormula'>$B$</span>
+are disjoint, we have <span class='clFormula'>$P(A \cup B) = P(A)+P(B)$</span>
+.</li>
+<li>
+<em>The probability that an event does not occur is </em><span class='clFormula'>$1$</span><em> minus the probability that the event does occur</em>. If an event occurs in <span class='clFormula'>$60\%$</span>
+of all trials, it fails to occur in the other <span class='clFormula'>$40\%$</span>
+, because <span class='clFormula'>$100\% - 60\% = 40\%$</span>
+. The probability that an event occurs and the probability that it does not occur always add up to <span class='clFormula'>$100\%$</span>
+, or <span class='clFormula'>$1$</span>
+. These events are called complementary events, and this rule is sometimes called the complement rule. It can be simplified with <span class='clFormula'>$P(A^c) = 1-P(A)$</span>
+, where <span class='clFormula'>$A^c$</span>
+is the complement of <span class='clFormula'>$A$</span>
+.</li>
+<li>
+<em>Two events </em><span class='clFormula'>$A$</span><em> and </em><span class='clFormula'>$B$</span><em> are independent if knowing that one occurs does not change the probability that the other occurs</em>. This is often called the multiplication rule. If <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent, then <span class='clFormula'>$P(A \ \text{and} \ B) = P(A)P(B)$</span>
+. The word "and" in mathematics means the same thing in mathematics as the intersection, which uses the following symbol: <span class='clFormula'>$\cap$</span>
+. Therefore when A and B are independent, we have <span class='clFormula'>$P(A \cap B) = P(A)P(B).$</span></li>
+</ol>
+
+<h3>Extension of the Example</h3>
+
+<p>Elaborating on our example above of flipping two coins, assign the probability <span class='clFormula'>$1/4$</span>
+to each of the <span class='clFormula'>$4$</span>
+outcomes. We consider each of the five rules above in the context of this example.</p>
+<p>1. Note that each probability is <span class='clFormula'>$1/4$</span>
+, which is between <span class='clFormula'>$0$</span>
+and <span class='clFormula'>$1$</span>
+.</p>
+<p>2. Note that the sum of all the probabilities is <span class='clFormula'>$1$</span>
+, since  <span class='clFormula'>$\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1&#10;$</span>
+.</p>
+<p>3. Suppose <span class='clFormula'>$A$</span>
+is the event exactly one head occurs, and <span class='clFormula'>$B$</span>
+is the event exactly two tails occur. Then <span class='clFormula'>$A=\{HT,TH\}$</span>
+and <span class='clFormula'>$B=\{TT\}$</span>
+are disjoint. Also, <span class='clFormula'>$P(A \cup B) = \frac{3}{4} = \frac{2}{4}+\frac{1}{4}=P(A) + P(B).$</span></p>
+<p>4. The probability that no heads occurs is <span class='clFormula'>$1/4$</span>
+, which is equal to  <span class='clFormula'>$1-3/4$</span>
+. So if <span class='clFormula'>$A=\{HT, TH, HH\}$</span>
+is the event that a head occurs, we have <span class='clFormula'>$P(A^c)=\frac{1}{4}=1 - \frac{3}{4}=1-P(A).$</span></p>
+<p>5. If <span class='clFormula'>$A$</span>
+is the event that the first flip is a heads and <span class='clFormula'>$B$</span>
+is the event that the second flip is a heads, then <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent. We have <span class='clFormula'>$A=\{HT,HH\}$</span>
+and <span class='clFormula'>$B=\{TH,HH\}$</span>
+and  <span class='clFormula'>$A \cap B = \{HH\}.$</span>
+Note that <span class='clFormula'>$P(A \cap B) = \frac{1}{4} =\frac{1}{2}\cdot \frac{1}{2} = P(A)P(B).$</span></p>
+
+
+
+<a href='../images/1305.png'><img class='clImageThumb' src='../images/1305.png' alt='Die'></a>
+
+<div><b><i>Die</i></b></div>
+<p>Dice are often used when learning the rules of probability.</p>
+
+<h3 id='concept_332'>13.3.2. Unions and Intersections</h3>
+
+<blockquote>Union and intersection are two key concepts in set theory and probability.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Give examples of the intersection and the union of two or more sets</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The union of two or more sets is the set that contains all the elements of the two or more sets. Union is denoted by the symbol <span class='clFormula'>$\cup$</span>
+.</li>
+<li>The general probability addition rule for the union of two events states that <span class='clFormula'>$P(A\cup B) = P(A)+P(B)-P(A \cap B)$</span>
+, where <span class='clFormula'>$A \cap B$</span>
+is the intersection of the two sets.</li>
+<li>The addition rule can be shortened if the sets are disjoint: <span class='clFormula'>$P(A \cup B) = P(A) + P(B)$</span>
+. This can even be extended to more sets if they are all disjoint: <span class='clFormula'>$P(A \cup B \cup C) = P(A) + P(B) + P(C)$</span>
+.</li>
+<li>The intersection of two or more sets is the set of elements that are common to every set. The symbol <span class='clFormula'>$\cap$</span>
+is used to denote the intersection.</li>
+<li>When events are independent, we can use the multiplication rule for independent events, which states that <span class='clFormula'>$P(A \cap B) = P(A)P(B)$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>independent</dt>
+<dd>Not contingent or dependent on something else.</dd>
+<dt>disjoint</dt>
+<dd>Having no members in common; having an intersection equal to the empty set.</dd>
+</dl>
+
+<h3>Introduction</h3>
+
+<p>Probability uses the mathematical ideas of sets, as we have seen in the definition of both the sample space of an experiment and in the definition of an event. In order to perform basic probability calculations, we need to review the ideas from set theory related to the set operations of union, intersection, and complement. </p>
+
+<h3>Union</h3>
+
+<p>The union of two or more sets is the set that contains all the elements of each of the sets; an element is in the union if it belongs to at least one of the sets. The symbol for union is <span class='clFormula'>$\cup$</span>
+, and is associated with the word "or", because <span class='clFormula'>$A \cup B$</span>
+  is the set of all elements that are in <span class='clFormula'>$A$</span>
+or <span class='clFormula'>$B$</span>
+(or both.) To find the union of two sets, list the elements that are in either (or both) sets. In terms of a Venn Diagram, the union of sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+can be shown as two completely shaded interlocking circles.</p>
+
+
+
+<a href='../images/1306.png'><img class='clImageThumb' src='../images/1306.png' alt='Union of Two Sets'></a>
+
+<div><b><i>Union of Two Sets</i></b></div>
+<p>The shaded Venn Diagram shows the union of set <span class='clFormula'>$A$</span>
+(the circle on left) with set <span class='clFormula'>$B$</span>
+(the circle on the right). It can be written shorthand as <span class='clFormula'>$A \cup B$</span>
+.</p>
+
+<p>In symbols, since the union of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+contains all the points that are in <span class='clFormula'>$A$</span>
+or <span class='clFormula'>$B$</span>
+or both, the definition of the union is:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A \cup B = \{x: x\in A \ \text{or} \ x\in B \}$</div>
+
+<p>For example, if <span class='clFormula'>$A = \{1, 3, 5, 7\}$</span>
+ and <span class='clFormula'>$B = \{1, 2, 4, 6\}$</span>
+ , then <span class='clFormula'>$A \cup B = \{1, 2, 3, 4, 5, 6, 7\}$</span>
+. Notice that the element <span class='clFormula'>$1$</span>
+is not listed twice in the union, even though it appears in both sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+. This leads us to the general addition rule for the union of two events: </p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cup B) = P(A) + P(B) - P(A \cap B)$</div>
+
+<p>Where <span class='clFormula'>$P(A\cap B)$</span>
+is the intersection of the two sets. We must subtract this out to avoid double counting of the inclusion of an element.</p>
+<p>If sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are disjoint, however, the event <span class='clFormula'>$A \cap B$</span>
+has no outcomes in it, and is an empty set denoted as <span class='clFormula'>$\emptyset$</span>
+, which has a probability of zero. So, the above rule can be shortened for disjoint sets only: </p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cup B) = P(A)+P(B)$</div>
+
+<p>This can even be extended to more sets if they are all disjoint: </p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cup B \cup C) = P(A) + P(B)+ P(C)$</div>
+
+
+<h3>Intersection</h3>
+
+<p>The intersection of two or more sets is the set of elements that are common to each of the sets. An element is in the intersection if it belongs to all of the sets. The symbol for intersection is <span class='clFormula'>$\cap$</span>
+, and is associated with the word "and", because <span class='clFormula'>$A \cap B$</span>
+  is the set of elements that are in <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+simultaneously. To find the intersection of two (or more) sets, include only those elements that are listed in both (or all) of the sets. In terms of a Venn Diagram, the intersection of two sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+can be shown at the shaded region in the middle of two interlocking circles .</p>
+
+
+
+<a href='../images/1307.png'><img class='clImageThumb' src='../images/1307.png' alt='Intersection of Two Sets'></a>
+
+<div><b><i>Intersection of Two Sets</i></b></div>
+<p>Set <span class='clFormula'>$A$</span>
+is the circle on the left, set <span class='clFormula'>$B$</span>
+is the circle on the right, and the intersection of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, or <span class='clFormula'>$A \cap B$</span>
+, is the shaded portion in the middle.</p>
+
+<p>In mathematical notation, the intersection of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+is written as <span class='clFormula'>$A \cap B = \{x: x \in A \ \text{and} \ x \in B\}$</span>
+. For example, if <span class='clFormula'>$A = \{1, 3, 5, 7\}$</span>
+and <span class='clFormula'>$B = \{1, 2, 4, 6\}$</span>
+, then <span class='clFormula'>$A \cap B = \{1\}$</span>
+because <span class='clFormula'>$1$</span>
+is the only element that appears in both sets <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+.</p>
+<p>When events are independent, meaning that the outcome of one event doesn't affect the outcome of another event, we can use the multiplication rule for independent events, which states: </p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cap B)= P(A)P(B)$</div>
+
+<p>For example, let's say we were tossing a coin twice, and we want to know the probability of tossing two heads. Since the first toss doesn't affect the second toss, the events are independent. Say  is the event that the first toss is a heads and <span class='clFormula'>$B$</span>
+is the event that the second toss is a heads, then <span class='clFormula'>$P(A \cap B) = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$</span>
+.</p>
+
+<h3 id='concept_333'>13.3.3. Conditional Probability</h3>
+
+<blockquote>The conditional probability of an event is the probability that an event will occur given that another event has occurred.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the significance of Bayes' theorem in manipulating conditional probabilities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The conditional probability <span class='clFormula'>$P(B \vert A)$</span>
+of an event <span class='clFormula'>$B$</span>
+, given an event <span class='clFormula'>$A$</span>
+, is defined by: <span class='clFormula'>$P(B|A)=\frac{P(A\cap B)}{P(A)}$</span>
+, when <span class='clFormula'>$P(A) &gt; 0$</span>
+.</li>
+<li>If the knowledge that event <span class='clFormula'>$A$</span>
+occurs does not change the probability that event <span class='clFormula'>$B$</span>
+occurs, then <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent events, and thus, <span class='clFormula'>$P(B|A) = P(B)$</span>
+.</li>
+<li>Mathematically, Bayes' theorem gives the relationship between the probabilities of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, <span class='clFormula'>$P(A)$</span>
+and <span class='clFormula'>$P(B)$</span>
+, and the conditional probabilities of <span class='clFormula'>$A$</span>
+given <span class='clFormula'>$B$</span>
+and <span class='clFormula'>$B$</span>
+given <span class='clFormula'>$A$</span>
+, <span class='clFormula'>$P(A|B)$</span>
+and <span class='clFormula'>$P(B|A)$</span>
+. In its most common form, it is: <span class='clFormula'>$P(A|B)=\frac{P(B|A)P(A)}{P(B)}$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>conditional probability</dt>
+<dd>The probability that an event will take place given the restrictive assumption that another event has taken place, or that a combination of other events has taken place</dd>
+<dt>independent</dt>
+<dd>Not dependent; not contingent or depending on something else; free.</dd>
+</dl>
+
+<h3>Probability of <span class='clFormula'>$B$</span>
+ Given That <span class='clFormula'>$A$</span>
+ Has Occurred</h3>
+
+<p>Our estimation of the likelihood of an event can change if we know that some other event has occurred.  For example, the probability that a rolled die  shows a <span class='clFormula'>$2$</span>
+is <span class='clFormula'>$1/6$</span>
+without any other information, but if someone looks at the die and tells you that is is an even number, the probability is now <span class='clFormula'>$1/3$</span>
+ that it is a <span class='clFormula'>$2$</span>
+. The notation <span class='clFormula'>$P(B|A)$</span>
+indicates a conditional probability, meaning it indicates the probability of one event under the condition that we know another event has happened. The bar "|" can be read as "given", so that <span class='clFormula'>$P(B|A)$</span>
+is read as "the probability of <span class='clFormula'>$B$</span>
+given that <span class='clFormula'>$A$</span>
+has occurred".</p>
+<p>The conditional probability <span class='clFormula'>$\displaystyle P(B|A)$</span>
+ of an event <span class='clFormula'>$B$</span>
+, given an event <span class='clFormula'>$A$</span>
+, is defined by:</p>
+<p><span class='clFormula'>$\displaystyle P(B|A)=\frac{P(A\cap B)}{P(A)}$</span>
+ </p>
+<p>When <span class='clFormula'>$P(A) &gt; 0$</span>
+. Be sure to remember the distinct roles of <span class='clFormula'>$B$</span>
+and <span class='clFormula'>$A$</span>
+in this formula. The set after the bar is the one we are assuming has occurred, and its probability occurs in the denominator of the formula.  </p>
+
+<h3>Example</h3>
+
+<p>Suppose that a coin is flipped 3 times giving the sample space:</p>
+<p> <span class='clFormula'>$S=\{HHH, HHT, HTH, THH, TTH, THT, HTT, TTT\}$</span>
+ </p>
+<p>Each individual outcome has probability <span class='clFormula'>$1/8$</span>
+. Suppose that <span class='clFormula'>$B$</span>
+is the event that at least one heads occurs and <span class='clFormula'>$A$</span>
+is the event that all <span class='clFormula'>$3$</span>
+coins are the same. Then the probability of <span class='clFormula'>$B$</span>
+given <span class='clFormula'>$A$</span>
+is <span class='clFormula'>$1/2$</span>
+, since <span class='clFormula'>$A \cap B=\{HHH\}$</span>
+which has probability <span class='clFormula'>$1/8$</span>
+ and <span class='clFormula'>$A=\{HHH,TTT\}$</span>
+which has probability <span class='clFormula'>$2/8$</span>
+, and <span class='clFormula'>$\frac{1/8}{2/8}=\frac{1}{2}.$</span></p>
+
+<h3>
+Independence
+</h3>
+
+<p>The conditional probability <span class='clFormula'>$P(B|A)$</span>
+is not always equal to the unconditional probability <span class='clFormula'>$P(B)$</span>
+. The reason behind this is that the occurrence of event <span class='clFormula'>$A$</span>
+ may provide extra information that can change the probability that event <span class='clFormula'>$B$</span>
+occurs. If the knowledge that event <span class='clFormula'>$A$</span>
+occurs does not change the probability that event <span class='clFormula'>$B$</span>
+occurs, then <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent events, and thus, <span class='clFormula'>$P(B|A) = P(B)$</span>
+.</p>
+
+<h3>Bayes' Theorem</h3>
+
+<p>In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule) is a result that is of importance in the mathematical manipulation of conditional probabilities. It can be derived from the basic axioms of probability.</p>
+<p>Mathematically, Bayes' theorem gives the relationship between the probabilities of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, <span class='clFormula'>$P(A)$</span>
+and <span class='clFormula'>$P(B)$</span>
+, and the conditional probabilities of <span class='clFormula'>$A$</span>
+given <span class='clFormula'>$B$</span>
+and <span class='clFormula'>$B$</span>
+given <span class='clFormula'>$A$</span>
+. In its most common form, it is:</p>
+
+<div class='clFormula'>$\displaystyle P(A|B)=\frac{P(B|A)P(A)}{P(B)}$</div>
+
+<p>This may be easier to remember in this alternate symmetric form: </p>
+
+<div class='clFormula'>$\displaystyle \frac{P(A|B)}{P(B|A)}=\frac{P(A)}{P(B)}$</div>
+
+
+<h3>Example:</h3>
+
+<p>Suppose someone told you they had a nice conversation with someone on the train. Not knowing anything else about this conversation, the probability that they were speaking to a woman is <span class='clFormula'>$50\%$</span>
+. Now suppose they also told you that this person had long hair. It is now more likely they were speaking to a woman, since women in in this city are more likely to have long hair than men. Bayes's theorem can be used to calculate the probability that the person is a woman.</p>
+<p>To see how this is done, let <span class='clFormula'>$W$</span>
+represent the event that the conversation was held with a woman, and <span class='clFormula'>$L$</span>
+denote the event that the conversation was held with a long-haired person. It can be assumed that women constitute half the population for this example. So, not knowing anything else, the probability that <span class='clFormula'>$W$</span>
+occurs is <span class='clFormula'>$P(W) = 0.5$</span>
+.</p>
+<p>Suppose it is also known that <span class='clFormula'>$75\%$</span>
+of women in this city have long hair, which we denote as <span class='clFormula'>$P(L|W) = 0.75$</span>
+. Likewise, suppose it is known that <span class='clFormula'>$25\%$</span>
+of men in this city have long hair, or <span class='clFormula'>$P(L|M) = 0.25$</span>
+, where <span class='clFormula'>$M$</span>
+is the complementary event of <span class='clFormula'>$W$</span>
+, i.e., the event that the conversation was held with a man (assuming that every human is either a man or a woman).</p>
+<p>Our goal is to calculate the probability that the conversation was held with a woman, given the fact that the person had long hair, or, in our notation, <span class='clFormula'>$P(W|L)$</span>
+. Using the formula for Bayes's theorem, we have:</p>
+
+<div class='clFormula'>$\displaystyle &#10;\begin{align}&#10;P(W|L) &amp;= \frac{P(L|W)P(W)}{P(L)}\\&#10;&amp;= \frac{P(L|W)P(W)}{P(L|W)P(W)+P(L|M)P(M)}\\&#10;&amp;=\frac{0.75\cdot 0.5}{0.75\cdot 0.5+0.25\cdot 0.5}\\&#10;&amp;=0.75&#10;\end{align}$</div>
+
+
+<h3 id='concept_334'>13.3.4. Complementary Events</h3>
+
+<blockquote>The complement of <span class='clFormula'>$A$</span>
+is the event in which <span class='clFormula'>$A$</span>
+does not occur.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain an example of a complementary event</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The complement of an event <span class='clFormula'>$A$</span>
+is usually denoted as <span class='clFormula'>$A'$</span>
+, <span class='clFormula'>$A^c$</span>
+or <span class='clFormula'>$\bar{A}$</span>
+.</li>
+<li>An event and its complement are mutually exclusive, meaning that if one of the two events occurs, the other event cannot occur.</li>
+<li>An event and its complement are exhaustive, meaning that both events cover all possibilities.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>exhaustive</dt>
+<dd>including every possible element</dd>
+<dt>mutually exclusive</dt>
+<dd>describing multiple events or states of being such that the occurrence of any one implies the non-occurrence of all the others</dd>
+</dl>
+
+<h3>What are Complementary Events?</h3>
+
+<p>In probability theory, the complement of any event <span class='clFormula'>$A$</span>
+is the event <span class='clFormula'>$[\text{not}\ A]$</span>
+, i.e. the event in which <span class='clFormula'>$A$</span>
+does not occur. The event <span class='clFormula'>$A$</span>
+and its complement <span class='clFormula'>$[\text{not}\ A]$</span>
+are mutually exclusive and exhaustive, meaning that if one occurs, the other does not, and that both groups cover all possibilities. Generally, there is only one event <span class='clFormula'>$B$</span>
+such that  <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are both mutually exclusive and exhaustive; that event is the complement of <span class='clFormula'>$A$</span>
+. The complement of an event <span class='clFormula'>$A$</span>
+ is usually denoted as <span class='clFormula'>$A'$</span>
+, <span class='clFormula'>$A^c$</span>
+ or <span class='clFormula'>$\bar{A}$</span>
+.</p>
+
+<h3>Simple Examples</h3>
+
+<p>A common example used to demonstrate complementary events is the flip of a coin. Let's say a coin is flipped and one assumes it cannot land on its edge. It can either land on heads or on tails. There are no other possibilities (exhaustive), and both events cannot occur at the same time (mutually exclusive). Because these two events are complementary, we know that <span class='clFormula'>$P(\text{heads}) + P(\text{tails}) = 1$</span>
+.</p>
+
+
+
+<a href='../images/1308.png'><img class='clImageThumb' src='../images/1308.png' alt='Coin Flip'></a>
+
+<div><b><i>Coin Flip</i></b></div>
+<p>Often in sports games, such as tennis, a coin flip is used to determine who will serve first because heads and tails are complementary events.</i></p>
+
+<p>Another simple example of complementary events is picking a ball out of a bag. Let's say there are three plastic balls in a bag. One is blue and two are red. Assuming that each ball has an equal chance of being pulled out of the bag, we know that <span class='clFormula'>$P(\text{blue}) = \frac{1}{3}$</span>
+and <span class='clFormula'>$P(\text{red}) = \frac{2}{3}$</span>
+. Since we can only either chose blue or red (exhaustive) and we cannot choose both at the same time (mutually exclusive), choosing blue and choosing red are complementary events, and <span class='clFormula'>$P(\text{blue}) + P(\text{red}) = 1$</span>
+.</p>
+<p>Finally, let's examine a non-example of complementary events. If you were asked to choose any number, you might think that that number could either be prime or composite. Clearly, a number cannot be both prime and composite, so that takes care of the mutually exclusive property. However, being prime or being composite are not exhaustive because the number 1 in mathematics is designated as "unique. "</p>
+
+<h3 id='concept_335'>13.3.5. The Addition Rule</h3>
+
+<blockquote>The addition rule states the probability of two events is the sum of the probability that either will happen minus the probability that both will happen.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the probability of an event using the addition rule</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The addition rule is: <span class='clFormula'>$P(A\cup B)=P(A)+P(B)-P(A\cap B).$</span></li>
+<li>The last term has  been accounted for twice, once in <span class='clFormula'>$P(A)$</span>
+and once in <span class='clFormula'>$P(B)$</span>
+, so it must be subtracted once so that it is not double-counted.</li>
+<li>If <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are disjoint, then <span class='clFormula'>$P(A\cap B)=0$</span>
+, so the formula becomes <span class='clFormula'>$P(A \cup B)=P(A) + P(B).$</span></li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>probability</dt>
+<dd>The relative likelihood of an event happening.</dd>
+</dl>
+
+<h3>Addition Law</h3>
+
+<p>The addition law of probability (sometimes referred to as the addition rule or sum rule), states that the probability that <span class='clFormula'>$A$</span>
+or <span class='clFormula'>$B$</span>
+will occur is the sum of the probabilities that <span class='clFormula'>$A$</span>
+will happen and that <span class='clFormula'>$B$</span>
+will happen, minus the probability that both <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+will happen. The addition rule is summarized by the formula:</p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cup B) = P(A)+P(B)-P(A \cap B)$</div>
+
+<p>Consider the following example. When drawing one card out of a deck of <span class='clFormula'>$52$</span>
+playing cards, what is the probability of getting heart or a face card (king, queen, or jack)? Let <span class='clFormula'>$H$</span>
+denote drawing a heart and <span class='clFormula'>$F$</span>
+denote drawing a face card. Since there are <span class='clFormula'>$13$</span>
+hearts and a total of <span class='clFormula'>$12$</span>
+face cards (<span class='clFormula'>$3$</span>
+of each suit: spades, hearts, diamonds and clubs), but only <span class='clFormula'>$3$</span>
+ face cards of hearts, we obtain:</p>
+
+<div class='clFormula'>$\displaystyle P(H) = \frac{13}{52}$</div>
+
+
+<div class='clFormula'>$\displaystyle P(F) = \frac{12}{52}$</div>
+
+
+<div class='clFormula'>$\displaystyle P(F \cap H) = \frac{3}{52}$</div>
+
+<p>Using the addition rule, we get:</p>
+
+<div class='clFormula'>$\displaystyle &#10;\begin{align}&#10;P(H\cup F)&amp;=P(H)+P(F)-P(H\cap F)\\&#10;&amp;=\frac { 13 }{ 52 } +\frac { 12 }{ 52 } -\frac { 3 }{ 52 }&#10;\end{align}$</div>
+
+<p>The reason for subtracting the last term is that otherwise we would be counting the middle section twice (since <span class='clFormula'>$H$</span>
+and <span class='clFormula'>$F$</span>
+overlap). </p>
+
+<h3>Addition Rule for Disjoint Events</h3>
+
+<p>Suppose <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are disjoint, their intersection is empty. Then the probability of their intersection is zero. In symbols: <span class='clFormula'>$P(A \cap B) = 0$</span>
+. The addition law then simplifies to:</p>
+<p><span class='clFormula'>$P(A \cup B) = P(A) + P(B) \qquad \text{when} \qquad A \cap B = \emptyset$</span>
+ </p>
+<p>The symbol <span class='clFormula'>$\emptyset$</span>
+represents the empty set, which indicates that in this case <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+do not have any elements in common (they do not overlap).</p>
+
+<h3>Example:</h3>
+
+<p>Suppose a card is drawn from a deck of 52 playing cards: what is the probability of getting a king or a queen? Let <span class='clFormula'>$A$</span>
+represent the event that a king is drawn and <span class='clFormula'>$B$</span>
+represent the event that a queen is drawn. These two events are disjoint, since there are no kings that are also queens. Thus:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;P(A \cup B) &amp;= P(A) + P(B)\\&amp;=\frac{4}{52}+\frac{4}{52}\\&amp;=\frac{8}{52}\\&amp;=\frac{2}{13}&#10;\end{align}$</div>
+
+
+<h3 id='concept_336'>13.3.6. The Multiplication Rule</h3>
+
+<blockquote>The multiplication rule states that the probability that <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+both occur is equal to the probability that <span class='clFormula'>$B$</span>
+occurs times the conditional probability that <span class='clFormula'>$A$</span>
+occurs given that <span class='clFormula'>$B$</span>
+occurs.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Apply the multiplication rule to calculate the probability of both <equation>$A$</equation> and <equation>$B$</equation> occurring</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li> The multiplication rule can be written as: <span class='clFormula'>$P(A \cap B) = P(B) \cdot P(A|B)$</span>
+.</li>
+<li>We obtain the general multiplication rule by multiplying both sides of the definition of conditional probability by the denominator.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>sample space</dt>
+<dd>The set of all possible outcomes of a game, experiment or other situation.</dd>
+</dl>
+
+<h3>The Multiplication Rule</h3>
+
+<p>In probability theory, the Multiplication Rule states that the probability that <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+occur is equal to the probability that <span class='clFormula'>$A$</span>
+occurs times the conditional probability that <span class='clFormula'>$B$</span>
+occurs, given that we know <span class='clFormula'>$A$</span>
+has already occurred. This rule can be written:</p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A \cap B) = P(B) \cdot P(A|B)$</div>
+
+<p>Switching the role of <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+, we can also write the rule  as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;P(A\cap B) = P(A) \cdot P(B|A)$</div>
+
+<p>We obtain the general multiplication rule by multiplying both sides of the definition of conditional probability by the denominator. That is, in the equation <span class='clFormula'>$\displaystyle P(A|B)=\frac{P(A\cap B)}{P(B)}$</span>
+, if we multiply both sides by <span class='clFormula'>$P(B)$</span>
+, we obtain the Multiplication Rule. </p>
+<p>The rule is useful when we know both <span class='clFormula'>$P(B)$</span>
+ and <span class='clFormula'>$P(A|B)$</span>
+, or both <span class='clFormula'>$P(A)$</span>
+ and <span class='clFormula'>$P(B|A).$</span></p>
+
+<h3>Example</h3>
+
+<p>Suppose that we draw two cards out of a deck of cards and let <span class='clFormula'>$A$</span>
+ be the event the the first card is an ace, and <span class='clFormula'>$B$</span>
+ be the event that the second card is an ace, then:</p>
+
+<div class='clFormula'>$\displaystyle P(A)=\frac { 4 }{ 52 }$</div>
+
+<p>And:</p>
+
+<div class='clFormula'>$\displaystyle P\left( { B }|{ A } \right) =\frac { 3 }{ 51 }$</div>
+
+<p>The denominator in the second equation is <span class='clFormula'>$51$</span>
+since we know a card has already been drawn. Therefore, there are <span class='clFormula'>$51$</span>
+left in total. We also know the first card was an ace, therefore:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;P(A \cap B) &amp;= P(A) \cdot P(B|A)\\&#10;&amp;= \frac { 4 }{ 52 } \cdot \frac { 3 }{ 51 } \\&#10;&amp;=0.0045&#10;\end{align}$</div>
+
+
+<h3>Independent Event</h3>
+
+<p>Note that when <span class='clFormula'>$A$</span>
+ and <span class='clFormula'>$B$</span>
+ are independent, we have that <span class='clFormula'>$P(B|A)= P(B)$</span>
+, so the formula becomes <span class='clFormula'>$P(A \cap B)=P(A)P(B)$</span>
+, which we encountered in a previous section. As an example, consider the experiment of rolling a die and flipping a coin. The probability that we get a <span class='clFormula'>$2$</span>
+on the die and a tails on the coin is <span class='clFormula'>$\frac{1}{6}\cdot \frac{1}{2} = \frac{1}{12}$</span>
+, since the two events are independent.  </p>
+
+<h3 id='concept_337'>13.3.7. Independence</h3>
+
+<blockquote>To say that two events are independent means that the occurrence of one does not affect the probability of the other.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the concept of independence in relation to probability theory</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Two events are independent if the following are true: <span class='clFormula'>$P(A|B) = P(A)$</span>
+,<span class='clFormula'>$P(B|A) = P(B)$</span>
+, and <span class='clFormula'>$P(A \ \text{and} \ B) = P(A) \cdot P(B)$</span>
+.</li>
+<li>If any one of these conditions is true, then all of them are true.</li>
+<li>If events <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent, then the chance of <span class='clFormula'>$A$</span>
+occurring does not affect the chance of <span class='clFormula'>$B$</span>
+occurring and vice versa.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>independence</dt>
+<dd>The occurrence of one event does not affect the probability of the occurrence of another.</dd>
+<dt>probability theory</dt>
+<dd>The mathematical study of probability (the likelihood of occurrence of random events in order to predict the behavior of defined systems).</dd>
+</dl>
+
+<h3>Independent Events</h3>
+
+<p>In probability theory, to say that two events are independent means that the occurrence of one does not affect the probability that the other will occur. In other words, if events <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+are independent, then the chance of <span class='clFormula'>$A$</span>
+occurring does not affect the chance of <span class='clFormula'>$B$</span>
+occurring and vice versa. The concept of independence extends to dealing with collections of more than two events.</p>
+<p>Two events are independent if any of the following are true:</p>
+
+<ol>
+
+<div class='clFormula'>$\displaystyle P(A|B) = P(A)$</div>
+
+
+<div class='clFormula'>$\displaystyle P(B|A) = P(B)$</div>
+
+
+<div class='clFormula'>$\displaystyle P(A \ \text{and} \ B) = P(A)\cdot P(B)$</div>
+
+</ol>
+<p>To show that two events are independent, you must show only one of the conditions listed above. If any one of these conditions is true, then all of them are true.</p>
+<p>Translating the symbols into words, the first two mathematical statements listed above say that the probability for the event with the condition is the same as the probability for the event without the condition. For independent events, the condition does not change the probability for the event. The third statement says that the probability of both independent events <span class='clFormula'>$A$</span>
+and <span class='clFormula'>$B$</span>
+occurring is the same as the probability of <span class='clFormula'>$A$</span>
+occurring, multiplied by the probability of <span class='clFormula'>$B$</span>
+occurring.</p>
+<p>As an example, imagine you select two cards consecutively from a complete deck of playing cards. The two selections are not independent. The result of the first selection changes the remaining deck and affects the probabilities for the second selection. This is referred to as selecting "without replacement" because the first card has not been replaced into the deck before the second card is selected.</p>
+<p>However, suppose you were to select two cards "with replacement" by returning your first card to the deck and shuffling the deck before selecting the second card. Because the deck of cards is complete for both selections, the first selection does not affect the probability of the second selection. When selecting cards with replacement, the selections are independent.</p>
+
+
+
+<a href='../images/1309.png'><img class='clImageThumb' src='../images/1309.png' alt='Independent Events'></a>
+
+<div><b><i>Independent Events</i></b></div>
+<p>Selecting two cards from a deck by first selecting one, then replacing it in the deck before selecting a second is an example of independent events.</p>
+
+<p>Consider a fair die role, which provides another example of independent events. If a person roles two die, the outcome of the first roll does not change the probability for the outcome of the second roll.</p>
+
+<h3>Example</h3>
+
+<p>Two friends are playing billiards, and decide to flip a coin to determine who will play first during each round. For the first two rounds, the coin lands on heads. They decide to play a third round, and flip the coin again. What is the probability that the coin will land on heads again?</p>
+<p>First, note that each coin flip is an independent event. The side that a coin lands on does not depend on what occurred previously. </p>
+<p>For any coin flip, there is a <span class='clFormula'>${\frac{1}{2}}$</span>
+chance that the coin will land on heads. Thus, the probability that the coin will land on heads during the third round is <span class='clFormula'>${\frac{1}{2}}$</span>
+.</p>
+
+<h3>Example</h3>
+
+<p>When flipping a coin, what is the probability of getting tails <span class='clFormula'>$5$</span>
+times in a row?</p>
+<p>Recall that each coin flip is independent, and the probability of getting tails is <span class='clFormula'>${\frac{1}{2}}$</span>
+for any flip. Also recall that the following statement holds true for any two independent events A and B:</p>
+
+<div class='clFormula'>$\displaystyle P(A \ \text{and} \ B) = P(A)\cdot P(B)$</div>
+
+<p>Finally, the concept of independence extends to collections of more than <span class='clFormula'>$2$</span>
+events.</p>
+<p>Therefore, the probability of getting tails <span class='clFormula'>$4$</span>
+times in a row is:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{\frac{1}{2}} \cdot {\frac{1}{2}} \cdot {\frac{1}{2}} \cdot {\frac{1}{2}} = {\frac{1}{16}}&#10;$</div>
+
+
+<h3 id='concept_246'>13.3.8. Experimental Probabilities</h3>
+
+<blockquote>The experimental probability is the ratio of the number of outcomes in which an event occurs to the total number of trials in an experiment.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the empirical probability of an event based on given information</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In a general sense, experimental (or empirical) probability estimates probabilities from experience and observation.</li>
+<li>In simple cases, where the result of a trial only determines whether or not the specified event has occurred, modeling using a binomial distribution might be appropriate; then the empirical estimate is the maximum likelihood estimate.</li>
+<li>If a trial yields more information, the empirical probability can be improved upon by adopting further assumptions in the form of a statistical model. If such a model is fitted, it can be used to derive an estimate of the probability of the specified event.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial distribution</dt>
+<dd>The discrete probability distribution of the number of successes in a sequence of <equation>$n$</equation> independent yes/no experiments, each of which yields success with probability <equation>$p$</equation>.</dd>
+<dt>experimental probability</dt>
+<dd>The probability that a certain outcome will occur, as determined through experiment.</dd>
+<dt>discrete</dt>
+<dd>Separate; distinct; individual; non-continuous.</dd>
+</dl>
+
+<p>The experimental (or empirical) probability pertains to data taken from a number of trials. It is a probability calculated from experience,  not from theory. If a sample of <span class='clFormula'>$x$</span>
+trials is observed that results in an event, <span class='clFormula'>$e$</span>
+, occurring <span class='clFormula'>$n$</span>
+times, the probability of event <span class='clFormula'>$e$</span>
+is calculated by the ratio of <span class='clFormula'>$n$</span>
+to <span class='clFormula'>$x$</span>
+.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\text{experimental probability of event} = \frac{\text{occurrences of event}}{\text{total number of trials}}$</div>
+
+<p>Experimental probability contrasts theoretical probability, which is what we would expect to happen. For example, if we flip a coin <span class='clFormula'>$10$</span>
+times, we might expect it to land on heads <span class='clFormula'>$5$</span>
+times, or half of the time. We know that this is unlikely to happen in practice. If we conduct a greater number of trials, it often happens that the experimental probability becomes closer to the theoretical probability. For this reason, large sample sizes (or a greater number of trials) are generally valued.</p>
+<p>In statistical terms, the empirical probability is an estimate of a probability. In simple cases, where the result of a trial only determines whether or not the specified event has occurred, modeling using a binomial distribution might be appropriate. A binomial distribution is the discrete probability distribution of the number of successes in a sequence of <span class='clFormula'>$n$</span>
+independent yes/no experiments. In such cases, the empirical probability is the most likely estimate.</p>
+<p>If a trial yields more information, the empirical probability can be improved on by adopting further assumptions in the form of a statistical model: if such a model is fitted, it can be used to estimate the probability of the specified event. For example, one can easily assign a probability to each possible value in many discrete cases: when throwing a die, each of the six values <span class='clFormula'>$1$</span>
+ to <span class='clFormula'>$6$</span>
+has the probability of <span class='clFormula'>$\frac{1}{6}$</span>
+.</p>
+
+<h3>Advantages</h3>
+
+<p>An advantage of estimating probabilities using empirical probabilities is that this procedure includes few assumptions. For example, consider estimating the probability among a population of men that  satisfy two conditions:</p>
+
+<ol>
+<li>They are over six feet in height.</li>
+<li>They prefer strawberry jam to raspberry jam.</li>
+</ol>
+<p>A direct estimate could be found by counting the number of men who satisfy both conditions to give the empirical probability of the combined condition.</p>
+<p>An alternative estimate could be found by multiplying the proportion of men who are over six feet in height with the proportion of men who prefer strawberry jam to raspberry jam, but this estimate relies on the assumption that the two conditions are statistically independent. </p>
+
+<h3>Disadvantages</h3>
+
+<p>A disadvantage in using empirical probabilities is that without theory to "make sense" of them, it's easy to draw incorrect conclusions. Rolling a six-sided die one hundred times it's entirely possible that well over <span class='clFormula'>$\frac{1}{6}$</span>
+of the rolls will land on <span class='clFormula'>$4$</span>
+. Intuitively we know that the probability of landing on any number should be equal to the probability of landing on the next. Experiments, especially those with lower sampling sizes, can suggest otherwise.</p>
+<p>This shortcoming becomes particularly problematic when estimating probabilities which are either very close to zero, or very close to one. For example, the probability of drawing a number from between <span class='clFormula'>$1$</span>
+ and <span class='clFormula'>$1000$</span>
+is <span class='clFormula'>$\frac{1}{1000}$</span>
+. If <span class='clFormula'>$1000$</span>
+draws are taken and the first number drawn is <span class='clFormula'>$5$</span>
+, there are <span class='clFormula'>$999$</span>
+draws left to draw a <span class='clFormula'>$5$</span>
+again and thus have experimental data that shows double the expected likelihood of drawing a <span class='clFormula'>$5$</span>
+.</p>
+<p>In these cases, very large sample sizes would be needed in order to estimate such probabilities to a good standard of relative accuracy. Here statistical models can help, depending on the context.</p>
+<p>For example, consider estimating the probability that the lowest of the maximum daily temperatures at a site in February in any one year is less than zero degrees Celsius. A record of such temperatures in past years could be used to estimate this probability. A model-based alternative would be to select of family of probability distributions and fit it to the data set containing the values of years past. The fitted distribution would provide an alternative estimate of the desired probability. This alternative method can provide an estimate of the probability even if all values in the record are greater than zero.</p>
+
+</div>
+</div>
+</body>
+</html>

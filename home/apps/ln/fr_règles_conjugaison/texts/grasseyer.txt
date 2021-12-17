@@ -1,0 +1,190 @@
+# grasseyer %[clVerbGroup|1]
+[-
+prononcer les R d'une façon gutturale. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|grasse%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|grasse%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grasse%[m|yé]|
+|ayant|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en grasse%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|grasse%[m|ie]/grasse%[m|ye]|
+|tu|grasse%[m|ies]/grasse%[m|yes]|
+|il|grasse%[m|ie]/grasse%[m|ye]|
+|nous|grasse%[m|yons]|
+|vous|grasse%[m|yez]|
+|ils|grasse%[m|ient]/grasse%[m|yent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grasse%[m|yé]|
+|tu|as |grasse%[m|yé]|
+|il|a|grasse%[m|yé]|
+|nous|avons|grasse%[m|yé]|
+|vous|avez|grasse%[m|yé]|
+|ils|ont|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|grasse%[m|yais]|
+|tu|grasse%[m|yais]|
+|il|grasse%[m|yait]|
+|nous|grasse%[m|yions]|
+|vous|grasse%[m|yiez]|
+|ils|grasse%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grasse%[m|yé]|
+|tu|avais|grasse%[m|yé]|
+|il|avait|grasse%[m|yé]|
+|nous|avions|grasse%[m|yé]|
+|vous|aviez|grasse%[m|yé]|
+|ils|avaient|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|grasse%[m|yai]|
+|tu|grasse%[m|yas]|
+|il|grasse%[m|ya]|
+|nous|grasse%[m|yâmes]|
+|vous|grasse%[m|yâtes]|
+|ils|grasse%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grasse%[m|yé]|
+|tu|eus|grasse%[m|yé]|
+|il|eut|grasse%[m|yé]|
+|nous|e&ucirc;mes|grasse%[m|yé]|
+|vous|e&ucirc;tes|grasse%[m|yé]|
+|ils|eurent|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|grasse%[m|ierai]/grasse%[m|yerai]|
+|tu|grasse%[m|ieras]/grasse%[m|yeras]|
+|il|grasse%[m|iera]/grasse%[m|yera]|
+|nous|grasse%[m|ierons]/grasse%[m|yerons]|
+|vous|grasse%[m|ierez]/grasse%[m|yerez]|
+|ils|grasse%[m|ieront]/grasse%[m|yeront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grasse%[m|yé]|
+|tu|auras|grasse%[m|yé]|
+|il|aura|grasse%[m|yé]|
+|nous|aurons|grasse%[m|yé]|
+|vous|aurez|grasse%[m|yé]|
+|ils|auront|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|grasse%[m|ierais]/grasse%[m|yerais]|
+|tu|grasse%[m|ierais]/grasse%[m|yerais]|
+|il|grasse%[m|ierait]/grasse%[m|yerait]|
+|nous|grasse%[m|ierions]/grasse%[m|yerions]|
+|vous|grasse%[m|ieriez]/grasse%[m|yeriez]|
+|ils|grasse%[m|ieraient]/grasse%[m|yeraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grasse%[m|yé]|
+|tu|aurais|grasse%[m|yé]|
+|il|aurait|grasse%[m|yé]|
+|nous|aurions|grasse%[m|yé]|
+|vous|auriez|grasse%[m|yé]|
+|ils|auraient|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|grasse%[m|ie]/grasse%[m|ye]|
+|que|tu|grasse%[m|ies]/grasse%[m|yes]|
+|qu'|il|grasse%[m|ie]/grasse%[m|ye]|
+|que|nous|grasse%[m|yions]|
+|que|vous|grasse%[m|yiez]|
+|qu'|ils|grasse%[m|ient]/grasse%[m|yent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grasse%[m|yé]|
+|que|tu|aies|grasse%[m|yé]|
+|qu'|il|ait|grasse%[m|yé]|
+|que|nous|ayons|grasse%[m|yé]|
+|que|vous|ayez|grasse%[m|yé]|
+|qu'|ils|aient|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|grasse%[m|yasse]|
+|que|tu|grasse%[m|yasses]|
+|qu'|il|grasse%[m|yât]|
+|que|nous|grasse%[m|yassions]|
+|que|vous|grasse%[m|yassiez]|
+|qu'|ils|grasse%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grasse%[m|yé]|
+|que|tu|eusses|grasse%[m|yé]|
+|qu'|il|eût|grasse%[m|yé]|
+|que|nous|eussions|grasse%[m|yé]|
+|que|vous|eussiez|grasse%[m|yé]|
+|qu'|ils|eussent|grasse%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grasse%[m|ie]/grasse%[m|ye]|
+|grasse%[m|yons]|
+|grasse%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grasse%[m|yé]|
+|ayons|grasse%[m|yé]|
+|ayez|grasse%[m|yé]|
+|]
+

@@ -1,0 +1,190 @@
+# désassimiler %[clVerbGroup|1]
+[-
+effectuer une désassimilation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désassimil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désassimil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désassimil%[m|é]|
+|ayant|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désassimil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désassimil%[m|e]|
+|tu|désassimil%[m|es]|
+|il|désassimil%[m|e]|
+|nous|désassimil%[m|ons]|
+|vous|désassimil%[m|ez]|
+|ils|désassimil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désassimil%[m|é]|
+|tu|as |désassimil%[m|é]|
+|il|a|désassimil%[m|é]|
+|nous|avons|désassimil%[m|é]|
+|vous|avez|désassimil%[m|é]|
+|ils|ont|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désassimil%[m|ais]|
+|tu|désassimil%[m|ais]|
+|il|désassimil%[m|ait]|
+|nous|désassimil%[m|ions]|
+|vous|désassimil%[m|iez]|
+|ils|désassimil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désassimil%[m|é]|
+|tu|avais|désassimil%[m|é]|
+|il|avait|désassimil%[m|é]|
+|nous|avions|désassimil%[m|é]|
+|vous|aviez|désassimil%[m|é]|
+|ils|avaient|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désassimil%[m|ai]|
+|tu|désassimil%[m|as]|
+|il|désassimil%[m|a]|
+|nous|désassimil%[m|âmes]|
+|vous|désassimil%[m|âtes]|
+|ils|désassimil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désassimil%[m|é]|
+|tu|eus|désassimil%[m|é]|
+|il|eut|désassimil%[m|é]|
+|nous|e&ucirc;mes|désassimil%[m|é]|
+|vous|e&ucirc;tes|désassimil%[m|é]|
+|ils|eurent|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désassimil%[m|erai]|
+|tu|désassimil%[m|eras]|
+|il|désassimil%[m|era]|
+|nous|désassimil%[m|erons]|
+|vous|désassimil%[m|erez]|
+|ils|désassimil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désassimil%[m|é]|
+|tu|auras|désassimil%[m|é]|
+|il|aura|désassimil%[m|é]|
+|nous|aurons|désassimil%[m|é]|
+|vous|aurez|désassimil%[m|é]|
+|ils|auront|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désassimil%[m|erais]|
+|tu|désassimil%[m|erais]|
+|il|désassimil%[m|erait]|
+|nous|désassimil%[m|erions]|
+|vous|désassimil%[m|eriez]|
+|ils|désassimil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désassimil%[m|é]|
+|tu|aurais|désassimil%[m|é]|
+|il|aurait|désassimil%[m|é]|
+|nous|aurions|désassimil%[m|é]|
+|vous|auriez|désassimil%[m|é]|
+|ils|auraient|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désassimil%[m|e]|
+|que|tu|désassimil%[m|es]|
+|qu'|il|désassimil%[m|e]|
+|que|nous|désassimil%[m|ions]|
+|que|vous|désassimil%[m|iez]|
+|qu'|ils|désassimil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désassimil%[m|é]|
+|que|tu|aies|désassimil%[m|é]|
+|qu'|il|ait|désassimil%[m|é]|
+|que|nous|ayons|désassimil%[m|é]|
+|que|vous|ayez|désassimil%[m|é]|
+|qu'|ils|aient|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désassimil%[m|asse]|
+|que|tu|désassimil%[m|asses]|
+|qu'|il|désassimil%[m|ât]|
+|que|nous|désassimil%[m|assions]|
+|que|vous|désassimil%[m|assiez]|
+|qu'|ils|désassimil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désassimil%[m|é]|
+|que|tu|eusses|désassimil%[m|é]|
+|qu'|il|eût|désassimil%[m|é]|
+|que|nous|eussions|désassimil%[m|é]|
+|que|vous|eussiez|désassimil%[m|é]|
+|qu'|ils|eussent|désassimil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désassimil%[m|e]|
+|désassimil%[m|ons]|
+|désassimil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désassimil%[m|é]|
+|ayons|désassimil%[m|é]|
+|ayez|désassimil%[m|é]|
+|]
+

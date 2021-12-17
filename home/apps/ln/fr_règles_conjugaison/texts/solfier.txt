@@ -1,0 +1,190 @@
+# solfier %[clVerbGroup|1]
+[-
+chanter en disant les notes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|solfi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|solfi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|solfi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||solfi%[m|é]|
+|ayant|solfi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en solfi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|solfi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|solfi%[m|e]|
+|tu|solfi%[m|es]|
+|il|solfi%[m|e]|
+|nous|solfi%[m|ons]|
+|vous|solfi%[m|ez]|
+|ils|solfi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|solfi%[m|é]|
+|tu|as |solfi%[m|é]|
+|il|a|solfi%[m|é]|
+|nous|avons|solfi%[m|é]|
+|vous|avez|solfi%[m|é]|
+|ils|ont|solfi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|solfi%[m|ais]|
+|tu|solfi%[m|ais]|
+|il|solfi%[m|ait]|
+|nous|solfi%[m|ions]|
+|vous|solfi%[m|iez]|
+|ils|solfi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|solfi%[m|é]|
+|tu|avais|solfi%[m|é]|
+|il|avait|solfi%[m|é]|
+|nous|avions|solfi%[m|é]|
+|vous|aviez|solfi%[m|é]|
+|ils|avaient|solfi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|solfi%[m|ai]|
+|tu|solfi%[m|as]|
+|il|solfi%[m|a]|
+|nous|solfi%[m|âmes]|
+|vous|solfi%[m|âtes]|
+|ils|solfi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|solfi%[m|é]|
+|tu|eus|solfi%[m|é]|
+|il|eut|solfi%[m|é]|
+|nous|e&ucirc;mes|solfi%[m|é]|
+|vous|e&ucirc;tes|solfi%[m|é]|
+|ils|eurent|solfi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|solfi%[m|erai]|
+|tu|solfi%[m|eras]|
+|il|solfi%[m|era]|
+|nous|solfi%[m|erons]|
+|vous|solfi%[m|erez]|
+|ils|solfi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|solfi%[m|é]|
+|tu|auras|solfi%[m|é]|
+|il|aura|solfi%[m|é]|
+|nous|aurons|solfi%[m|é]|
+|vous|aurez|solfi%[m|é]|
+|ils|auront|solfi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|solfi%[m|erais]|
+|tu|solfi%[m|erais]|
+|il|solfi%[m|erait]|
+|nous|solfi%[m|erions]|
+|vous|solfi%[m|eriez]|
+|ils|solfi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|solfi%[m|é]|
+|tu|aurais|solfi%[m|é]|
+|il|aurait|solfi%[m|é]|
+|nous|aurions|solfi%[m|é]|
+|vous|auriez|solfi%[m|é]|
+|ils|auraient|solfi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|solfi%[m|e]|
+|que|tu|solfi%[m|es]|
+|qu'|il|solfi%[m|e]|
+|que|nous|solfi%[m|ions]|
+|que|vous|solfi%[m|iez]|
+|qu'|ils|solfi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|solfi%[m|é]|
+|que|tu|aies|solfi%[m|é]|
+|qu'|il|ait|solfi%[m|é]|
+|que|nous|ayons|solfi%[m|é]|
+|que|vous|ayez|solfi%[m|é]|
+|qu'|ils|aient|solfi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|solfi%[m|asse]|
+|que|tu|solfi%[m|asses]|
+|qu'|il|solfi%[m|ât]|
+|que|nous|solfi%[m|assions]|
+|que|vous|solfi%[m|assiez]|
+|qu'|ils|solfi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|solfi%[m|é]|
+|que|tu|eusses|solfi%[m|é]|
+|qu'|il|eût|solfi%[m|é]|
+|que|nous|eussions|solfi%[m|é]|
+|que|vous|eussiez|solfi%[m|é]|
+|qu'|ils|eussent|solfi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|solfi%[m|e]|
+|solfi%[m|ons]|
+|solfi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|solfi%[m|é]|
+|ayons|solfi%[m|é]|
+|ayez|solfi%[m|é]|
+|]
+

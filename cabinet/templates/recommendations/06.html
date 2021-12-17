@@ -1,0 +1,25 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Викрити - Смешанные доши</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id06001' name='var06001' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Вата-Питта                                </td></tr>
+<tr><td><input id='id06002' name='var06002' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Вата-Капха                                </td></tr>
+<tr><td><input id='id06003' name='var06003' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Питта-Капха                               </td></tr>
+<tr><td><input id='id06004' name='var06004' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Зеленая очистка                           </td></tr>
+<tr><td><input id='id06005' name='var06005' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Клизма                                    </td></tr>
+<tr><td><input id='id06006' name='var06006' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Промасливание                             </td></tr>
+<tr><td><input id='id06007' name='var06007' type='checkbox' placeholder='$arrValues[7]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Уринотерапия                              </td></tr>
+<tr><td><input id='id06008' name='var06008' type='checkbox' placeholder='$arrValues[8]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Уринотерапия - процедуры                  </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

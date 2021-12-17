@@ -1,0 +1,190 @@
+# daller %[clVerbGroup|1]
+[-
+paver de dalles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dall%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dall%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dall%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dall%[m|é]|
+|ayant|dall%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dall%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dall%[m|e]|
+|tu|dall%[m|es]|
+|il|dall%[m|e]|
+|nous|dall%[m|ons]|
+|vous|dall%[m|ez]|
+|ils|dall%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dall%[m|é]|
+|tu|as |dall%[m|é]|
+|il|a|dall%[m|é]|
+|nous|avons|dall%[m|é]|
+|vous|avez|dall%[m|é]|
+|ils|ont|dall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dall%[m|ais]|
+|tu|dall%[m|ais]|
+|il|dall%[m|ait]|
+|nous|dall%[m|ions]|
+|vous|dall%[m|iez]|
+|ils|dall%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dall%[m|é]|
+|tu|avais|dall%[m|é]|
+|il|avait|dall%[m|é]|
+|nous|avions|dall%[m|é]|
+|vous|aviez|dall%[m|é]|
+|ils|avaient|dall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dall%[m|ai]|
+|tu|dall%[m|as]|
+|il|dall%[m|a]|
+|nous|dall%[m|âmes]|
+|vous|dall%[m|âtes]|
+|ils|dall%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dall%[m|é]|
+|tu|eus|dall%[m|é]|
+|il|eut|dall%[m|é]|
+|nous|e&ucirc;mes|dall%[m|é]|
+|vous|e&ucirc;tes|dall%[m|é]|
+|ils|eurent|dall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dall%[m|erai]|
+|tu|dall%[m|eras]|
+|il|dall%[m|era]|
+|nous|dall%[m|erons]|
+|vous|dall%[m|erez]|
+|ils|dall%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dall%[m|é]|
+|tu|auras|dall%[m|é]|
+|il|aura|dall%[m|é]|
+|nous|aurons|dall%[m|é]|
+|vous|aurez|dall%[m|é]|
+|ils|auront|dall%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dall%[m|erais]|
+|tu|dall%[m|erais]|
+|il|dall%[m|erait]|
+|nous|dall%[m|erions]|
+|vous|dall%[m|eriez]|
+|ils|dall%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dall%[m|é]|
+|tu|aurais|dall%[m|é]|
+|il|aurait|dall%[m|é]|
+|nous|aurions|dall%[m|é]|
+|vous|auriez|dall%[m|é]|
+|ils|auraient|dall%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dall%[m|e]|
+|que|tu|dall%[m|es]|
+|qu'|il|dall%[m|e]|
+|que|nous|dall%[m|ions]|
+|que|vous|dall%[m|iez]|
+|qu'|ils|dall%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dall%[m|é]|
+|que|tu|aies|dall%[m|é]|
+|qu'|il|ait|dall%[m|é]|
+|que|nous|ayons|dall%[m|é]|
+|que|vous|ayez|dall%[m|é]|
+|qu'|ils|aient|dall%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dall%[m|asse]|
+|que|tu|dall%[m|asses]|
+|qu'|il|dall%[m|ât]|
+|que|nous|dall%[m|assions]|
+|que|vous|dall%[m|assiez]|
+|qu'|ils|dall%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dall%[m|é]|
+|que|tu|eusses|dall%[m|é]|
+|qu'|il|eût|dall%[m|é]|
+|que|nous|eussions|dall%[m|é]|
+|que|vous|eussiez|dall%[m|é]|
+|qu'|ils|eussent|dall%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dall%[m|e]|
+|dall%[m|ons]|
+|dall%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dall%[m|é]|
+|ayons|dall%[m|é]|
+|ayez|dall%[m|é]|
+|]
+

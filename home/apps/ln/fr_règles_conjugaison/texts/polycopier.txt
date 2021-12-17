@@ -1,0 +1,190 @@
+# polycopier %[clVerbGroup|1]
+[-
+reproduire en polycopie. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|polycopi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|polycopi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||polycopi%[m|é]|
+|ayant|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en polycopi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|polycopi%[m|e]|
+|tu|polycopi%[m|es]|
+|il|polycopi%[m|e]|
+|nous|polycopi%[m|ons]|
+|vous|polycopi%[m|ez]|
+|ils|polycopi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|polycopi%[m|é]|
+|tu|as |polycopi%[m|é]|
+|il|a|polycopi%[m|é]|
+|nous|avons|polycopi%[m|é]|
+|vous|avez|polycopi%[m|é]|
+|ils|ont|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|polycopi%[m|ais]|
+|tu|polycopi%[m|ais]|
+|il|polycopi%[m|ait]|
+|nous|polycopi%[m|ions]|
+|vous|polycopi%[m|iez]|
+|ils|polycopi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|polycopi%[m|é]|
+|tu|avais|polycopi%[m|é]|
+|il|avait|polycopi%[m|é]|
+|nous|avions|polycopi%[m|é]|
+|vous|aviez|polycopi%[m|é]|
+|ils|avaient|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|polycopi%[m|ai]|
+|tu|polycopi%[m|as]|
+|il|polycopi%[m|a]|
+|nous|polycopi%[m|âmes]|
+|vous|polycopi%[m|âtes]|
+|ils|polycopi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|polycopi%[m|é]|
+|tu|eus|polycopi%[m|é]|
+|il|eut|polycopi%[m|é]|
+|nous|e&ucirc;mes|polycopi%[m|é]|
+|vous|e&ucirc;tes|polycopi%[m|é]|
+|ils|eurent|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|polycopi%[m|erai]|
+|tu|polycopi%[m|eras]|
+|il|polycopi%[m|era]|
+|nous|polycopi%[m|erons]|
+|vous|polycopi%[m|erez]|
+|ils|polycopi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|polycopi%[m|é]|
+|tu|auras|polycopi%[m|é]|
+|il|aura|polycopi%[m|é]|
+|nous|aurons|polycopi%[m|é]|
+|vous|aurez|polycopi%[m|é]|
+|ils|auront|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|polycopi%[m|erais]|
+|tu|polycopi%[m|erais]|
+|il|polycopi%[m|erait]|
+|nous|polycopi%[m|erions]|
+|vous|polycopi%[m|eriez]|
+|ils|polycopi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|polycopi%[m|é]|
+|tu|aurais|polycopi%[m|é]|
+|il|aurait|polycopi%[m|é]|
+|nous|aurions|polycopi%[m|é]|
+|vous|auriez|polycopi%[m|é]|
+|ils|auraient|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|polycopi%[m|e]|
+|que|tu|polycopi%[m|es]|
+|qu'|il|polycopi%[m|e]|
+|que|nous|polycopi%[m|ions]|
+|que|vous|polycopi%[m|iez]|
+|qu'|ils|polycopi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|polycopi%[m|é]|
+|que|tu|aies|polycopi%[m|é]|
+|qu'|il|ait|polycopi%[m|é]|
+|que|nous|ayons|polycopi%[m|é]|
+|que|vous|ayez|polycopi%[m|é]|
+|qu'|ils|aient|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|polycopi%[m|asse]|
+|que|tu|polycopi%[m|asses]|
+|qu'|il|polycopi%[m|ât]|
+|que|nous|polycopi%[m|assions]|
+|que|vous|polycopi%[m|assiez]|
+|qu'|ils|polycopi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|polycopi%[m|é]|
+|que|tu|eusses|polycopi%[m|é]|
+|qu'|il|eût|polycopi%[m|é]|
+|que|nous|eussions|polycopi%[m|é]|
+|que|vous|eussiez|polycopi%[m|é]|
+|qu'|ils|eussent|polycopi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|polycopi%[m|e]|
+|polycopi%[m|ons]|
+|polycopi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|polycopi%[m|é]|
+|ayons|polycopi%[m|é]|
+|ayez|polycopi%[m|é]|
+|]
+

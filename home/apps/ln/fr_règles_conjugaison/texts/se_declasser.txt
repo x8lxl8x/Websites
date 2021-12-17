@@ -1,0 +1,190 @@
+# se déclasser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se déclass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|déclass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se déclass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|déclass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se déclass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|déclass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|déclass%[m|e]|
+|tu|te|déclass%[m|es]|
+|il|se|déclass%[m|e]|
+|nous|nous|déclass%[m|ons]|
+|vous|vous|déclass%[m|ez]|
+|ils|se|déclass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|déclass%[m|é]|
+|tu|t'|es|déclass%[m|é]|
+|il|s'|est|déclass%[m|é]|
+|nous|nous|sommes|déclass%[m|és]|
+|vous|vous|êtes|déclass%[m|és]|
+|ils|se|sont|déclass%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|déclass%[m|ais]|
+|tu|te|déclass%[m|ais]|
+|il|se|déclass%[m|ait]|
+|nous|nous|déclass%[m|ions]|
+|vous|vous|déclass%[m|iez]|
+|ils|se|déclass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|déclass%[m|é]|
+|tu|t'|étais|déclass%[m|é]|
+|il|s'|était|déclass%[m|é]|
+|nous|nous|étions|déclass%[m|és]|
+|vous|vous|étiez|déclass%[m|és]|
+|ils|s'|étaient|déclass%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|déclass%[m|ai]|
+|tu|te|déclass%[m|as]|
+|il|se|déclass%[m|a]|
+|nous|nous|déclass%[m|âmes]|
+|vous|vous|déclass%[m|âtes]|
+|ils|se|déclass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|déclass%[m|é]|
+|tu|te|fus|déclass%[m|é]|
+|il|se|fut|déclass%[m|é]|
+|nous|nous|fûmes|déclass%[m|és]|
+|vous|vous|fûtes|déclass%[m|és]|
+|ils|se|furent|déclass%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|déclass%[m|erai]|
+|tu|te|déclass%[m|eras]|
+|il|se|déclass%[m|era]|
+|nous|nous|déclass%[m|erons]|
+|vous|vous|déclass%[m|erez]|
+|ils|se|déclass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|déclass%[m|é]|
+|tu|te|seras|déclass%[m|é]|
+|il|se|sera|déclass%[m|é]|
+|nous|nous|serons|déclass%[m|és]|
+|vous|vous|serez|déclass%[m|és]|
+|ils|se|seront|déclass%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|déclass%[m|erais]|
+|tu|te|déclass%[m|erais]|
+|il|se|déclass%[m|erait]|
+|nous|nous|déclass%[m|erions]|
+|vous|vous|déclass%[m|eriez]|
+|ils|se|déclass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|déclass%[m|é]|
+|tu|te|serais|déclass%[m|é]|
+|il|se|serait|déclass%[m|é]|
+|nous|nous|serions|déclass%[m|és]|
+|vous|vous|seriez|déclass%[m|és]|
+|ils|se|seraient|déclass%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|déclass%[m|e]|
+|que|tu|te|déclass%[m|es]|
+|qu'|il|se|déclass%[m|e]|
+|que|nous|nous|déclass%[m|ions]|
+|que|vous|vous|déclass%[m|iez]|
+|qu'|ils|se|déclass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|déclass%[m|é]|
+|que|tu|te|sois|déclass%[m|é]|
+|qu'|il|se|soit|déclass%[m|é]|
+|que|nous|nous|soyons|déclass%[m|és]|
+|que|vous|vous|soyez|déclass%[m|és]|
+|qu'|ils|se|soient|déclass%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|déclass%[m|asse]|
+|que|tu|te|déclass%[m|asses]|
+|qu'|il|se|déclass%[m|ât]|
+|que|nous|nous|déclass%[m|assions]|
+|que|vous|vous|déclass%[m|assiez]|
+|qu'|ils|se|déclass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|déclass%[m|é]|
+|que|tu|te|fusses|déclass%[m|é]|
+|qu'|il|se|fût|déclass%[m|é]|
+|que|nous|nous|fussions|déclass%[m|és]|
+|que|vous|vous|fussiez|déclass%[m|és]|
+|qu'|ils|se|fussent|déclass%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déclass%[m|e]-toi|
+|déclass%[m|ons]-nous|
+|déclass%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

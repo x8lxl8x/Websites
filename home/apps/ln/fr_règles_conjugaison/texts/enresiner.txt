@@ -1,0 +1,190 @@
+# enrésiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|enrésin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|enrésin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||enrésin%[m|é]|
+|ayant|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en enrésin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|enrésin%[m|e]|
+|tu|enrésin%[m|es]|
+|il|enrésin%[m|e]|
+|nous|enrésin%[m|ons]|
+|vous|enrésin%[m|ez]|
+|ils|enrésin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|enrésin%[m|é]|
+|tu|as |enrésin%[m|é]|
+|il|a|enrésin%[m|é]|
+|nous|avons|enrésin%[m|é]|
+|vous|avez|enrésin%[m|é]|
+|ils|ont|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|enrésin%[m|ais]|
+|tu|enrésin%[m|ais]|
+|il|enrésin%[m|ait]|
+|nous|enrésin%[m|ions]|
+|vous|enrésin%[m|iez]|
+|ils|enrésin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|enrésin%[m|é]|
+|tu|avais|enrésin%[m|é]|
+|il|avait|enrésin%[m|é]|
+|nous|avions|enrésin%[m|é]|
+|vous|aviez|enrésin%[m|é]|
+|ils|avaient|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|enrésin%[m|ai]|
+|tu|enrésin%[m|as]|
+|il|enrésin%[m|a]|
+|nous|enrésin%[m|âmes]|
+|vous|enrésin%[m|âtes]|
+|ils|enrésin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|enrésin%[m|é]|
+|tu|eus|enrésin%[m|é]|
+|il|eut|enrésin%[m|é]|
+|nous|e&ucirc;mes|enrésin%[m|é]|
+|vous|e&ucirc;tes|enrésin%[m|é]|
+|ils|eurent|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|enrésin%[m|erai]|
+|tu|enrésin%[m|eras]|
+|il|enrésin%[m|era]|
+|nous|enrésin%[m|erons]|
+|vous|enrésin%[m|erez]|
+|ils|enrésin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|enrésin%[m|é]|
+|tu|auras|enrésin%[m|é]|
+|il|aura|enrésin%[m|é]|
+|nous|aurons|enrésin%[m|é]|
+|vous|aurez|enrésin%[m|é]|
+|ils|auront|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|enrésin%[m|erais]|
+|tu|enrésin%[m|erais]|
+|il|enrésin%[m|erait]|
+|nous|enrésin%[m|erions]|
+|vous|enrésin%[m|eriez]|
+|ils|enrésin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|enrésin%[m|é]|
+|tu|aurais|enrésin%[m|é]|
+|il|aurait|enrésin%[m|é]|
+|nous|aurions|enrésin%[m|é]|
+|vous|auriez|enrésin%[m|é]|
+|ils|auraient|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|enrésin%[m|e]|
+|que|tu|enrésin%[m|es]|
+|qu'|il|enrésin%[m|e]|
+|que|nous|enrésin%[m|ions]|
+|que|vous|enrésin%[m|iez]|
+|qu'|ils|enrésin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|enrésin%[m|é]|
+|que|tu|aies|enrésin%[m|é]|
+|qu'|il|ait|enrésin%[m|é]|
+|que|nous|ayons|enrésin%[m|é]|
+|que|vous|ayez|enrésin%[m|é]|
+|qu'|ils|aient|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|enrésin%[m|asse]|
+|que|tu|enrésin%[m|asses]|
+|qu'|il|enrésin%[m|ât]|
+|que|nous|enrésin%[m|assions]|
+|que|vous|enrésin%[m|assiez]|
+|qu'|ils|enrésin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|enrésin%[m|é]|
+|que|tu|eusses|enrésin%[m|é]|
+|qu'|il|eût|enrésin%[m|é]|
+|que|nous|eussions|enrésin%[m|é]|
+|que|vous|eussiez|enrésin%[m|é]|
+|qu'|ils|eussent|enrésin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enrésin%[m|e]|
+|enrésin%[m|ons]|
+|enrésin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|enrésin%[m|é]|
+|ayons|enrésin%[m|é]|
+|ayez|enrésin%[m|é]|
+|]
+

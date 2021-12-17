@@ -1,0 +1,190 @@
+# chariboter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|charibot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|charibot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|charibot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||charibot%[m|é]|
+|ayant|charibot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en charibot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|charibot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|charibot%[m|e]|
+|tu|charibot%[m|es]|
+|il|charibot%[m|e]|
+|nous|charibot%[m|ons]|
+|vous|charibot%[m|ez]|
+|ils|charibot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|charibot%[m|é]|
+|tu|as |charibot%[m|é]|
+|il|a|charibot%[m|é]|
+|nous|avons|charibot%[m|é]|
+|vous|avez|charibot%[m|é]|
+|ils|ont|charibot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|charibot%[m|ais]|
+|tu|charibot%[m|ais]|
+|il|charibot%[m|ait]|
+|nous|charibot%[m|ions]|
+|vous|charibot%[m|iez]|
+|ils|charibot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|charibot%[m|é]|
+|tu|avais|charibot%[m|é]|
+|il|avait|charibot%[m|é]|
+|nous|avions|charibot%[m|é]|
+|vous|aviez|charibot%[m|é]|
+|ils|avaient|charibot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|charibot%[m|ai]|
+|tu|charibot%[m|as]|
+|il|charibot%[m|a]|
+|nous|charibot%[m|âmes]|
+|vous|charibot%[m|âtes]|
+|ils|charibot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|charibot%[m|é]|
+|tu|eus|charibot%[m|é]|
+|il|eut|charibot%[m|é]|
+|nous|e&ucirc;mes|charibot%[m|é]|
+|vous|e&ucirc;tes|charibot%[m|é]|
+|ils|eurent|charibot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|charibot%[m|erai]|
+|tu|charibot%[m|eras]|
+|il|charibot%[m|era]|
+|nous|charibot%[m|erons]|
+|vous|charibot%[m|erez]|
+|ils|charibot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|charibot%[m|é]|
+|tu|auras|charibot%[m|é]|
+|il|aura|charibot%[m|é]|
+|nous|aurons|charibot%[m|é]|
+|vous|aurez|charibot%[m|é]|
+|ils|auront|charibot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|charibot%[m|erais]|
+|tu|charibot%[m|erais]|
+|il|charibot%[m|erait]|
+|nous|charibot%[m|erions]|
+|vous|charibot%[m|eriez]|
+|ils|charibot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|charibot%[m|é]|
+|tu|aurais|charibot%[m|é]|
+|il|aurait|charibot%[m|é]|
+|nous|aurions|charibot%[m|é]|
+|vous|auriez|charibot%[m|é]|
+|ils|auraient|charibot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|charibot%[m|e]|
+|que|tu|charibot%[m|es]|
+|qu'|il|charibot%[m|e]|
+|que|nous|charibot%[m|ions]|
+|que|vous|charibot%[m|iez]|
+|qu'|ils|charibot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|charibot%[m|é]|
+|que|tu|aies|charibot%[m|é]|
+|qu'|il|ait|charibot%[m|é]|
+|que|nous|ayons|charibot%[m|é]|
+|que|vous|ayez|charibot%[m|é]|
+|qu'|ils|aient|charibot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|charibot%[m|asse]|
+|que|tu|charibot%[m|asses]|
+|qu'|il|charibot%[m|ât]|
+|que|nous|charibot%[m|assions]|
+|que|vous|charibot%[m|assiez]|
+|qu'|ils|charibot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|charibot%[m|é]|
+|que|tu|eusses|charibot%[m|é]|
+|qu'|il|eût|charibot%[m|é]|
+|que|nous|eussions|charibot%[m|é]|
+|que|vous|eussiez|charibot%[m|é]|
+|qu'|ils|eussent|charibot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|charibot%[m|e]|
+|charibot%[m|ons]|
+|charibot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|charibot%[m|é]|
+|ayons|charibot%[m|é]|
+|ayez|charibot%[m|é]|
+|]
+

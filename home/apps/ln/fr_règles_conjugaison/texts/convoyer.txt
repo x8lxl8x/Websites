@@ -1,0 +1,190 @@
+# convoyer %[clVerbGroup|1]
+[-
+accompagner par un convoi pour protéger. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|convo%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|convo%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|convo%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||convo%[m|yé]|
+|ayant|convo%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en convo%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|convo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|convo%[m|ie]|
+|tu|convo%[m|ies]|
+|il|convo%[m|ie]|
+|nous|convo%[m|yons]|
+|vous|convo%[m|yez]|
+|ils|convo%[m|ient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|convo%[m|yé]|
+|tu|as |convo%[m|yé]|
+|il|a|convo%[m|yé]|
+|nous|avons|convo%[m|yé]|
+|vous|avez|convo%[m|yé]|
+|ils|ont|convo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|convo%[m|yais]|
+|tu|convo%[m|yais]|
+|il|convo%[m|yait]|
+|nous|convo%[m|yions]|
+|vous|convo%[m|yiez]|
+|ils|convo%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|convo%[m|yé]|
+|tu|avais|convo%[m|yé]|
+|il|avait|convo%[m|yé]|
+|nous|avions|convo%[m|yé]|
+|vous|aviez|convo%[m|yé]|
+|ils|avaient|convo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|convo%[m|yai]|
+|tu|convo%[m|yas]|
+|il|convo%[m|ya]|
+|nous|convo%[m|yâmes]|
+|vous|convo%[m|yâtes]|
+|ils|convo%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|convo%[m|yé]|
+|tu|eus|convo%[m|yé]|
+|il|eut|convo%[m|yé]|
+|nous|e&ucirc;mes|convo%[m|yé]|
+|vous|e&ucirc;tes|convo%[m|yé]|
+|ils|eurent|convo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|convo%[m|ierai]|
+|tu|convo%[m|ieras]|
+|il|convo%[m|iera]|
+|nous|convo%[m|ierons]|
+|vous|convo%[m|ierez]|
+|ils|convo%[m|ieront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|convo%[m|yé]|
+|tu|auras|convo%[m|yé]|
+|il|aura|convo%[m|yé]|
+|nous|aurons|convo%[m|yé]|
+|vous|aurez|convo%[m|yé]|
+|ils|auront|convo%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|convo%[m|ierais]|
+|tu|convo%[m|ierais]|
+|il|convo%[m|ierait]|
+|nous|convo%[m|ierions]|
+|vous|convo%[m|ieriez]|
+|ils|convo%[m|ieraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|convo%[m|yé]|
+|tu|aurais|convo%[m|yé]|
+|il|aurait|convo%[m|yé]|
+|nous|aurions|convo%[m|yé]|
+|vous|auriez|convo%[m|yé]|
+|ils|auraient|convo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|convo%[m|ie]|
+|que|tu|convo%[m|ies]|
+|qu'|il|convo%[m|ie]|
+|que|nous|convo%[m|yions]|
+|que|vous|convo%[m|yiez]|
+|qu'|ils|convo%[m|ient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|convo%[m|yé]|
+|que|tu|aies|convo%[m|yé]|
+|qu'|il|ait|convo%[m|yé]|
+|que|nous|ayons|convo%[m|yé]|
+|que|vous|ayez|convo%[m|yé]|
+|qu'|ils|aient|convo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|convo%[m|yasse]|
+|que|tu|convo%[m|yasses]|
+|qu'|il|convo%[m|yât]|
+|que|nous|convo%[m|yassions]|
+|que|vous|convo%[m|yassiez]|
+|qu'|ils|convo%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|convo%[m|yé]|
+|que|tu|eusses|convo%[m|yé]|
+|qu'|il|eût|convo%[m|yé]|
+|que|nous|eussions|convo%[m|yé]|
+|que|vous|eussiez|convo%[m|yé]|
+|qu'|ils|eussent|convo%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|convo%[m|ie]|
+|convo%[m|yons]|
+|convo%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|convo%[m|yé]|
+|ayons|convo%[m|yé]|
+|ayez|convo%[m|yé]|
+|]
+

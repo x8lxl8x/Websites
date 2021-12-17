@@ -1,0 +1,194 @@
+# gronder %[clVerbGroup|1]
+[-
+blâmer depuis une position d'autorité, pour amender ou corriger. 
+émettre un son sourd et prolongé. 
+émettre un son sourd, menaçant et effrayant. 
+réprimander (un enfant) 
+menacer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|grond%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grond%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|grond%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grond%[m|é]|
+|ayant|grond%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en grond%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|grond%[m|e]|
+|tu|grond%[m|es]|
+|il|grond%[m|e]|
+|nous|grond%[m|ons]|
+|vous|grond%[m|ez]|
+|ils|grond%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grond%[m|é]|
+|tu|as |grond%[m|é]|
+|il|a|grond%[m|é]|
+|nous|avons|grond%[m|é]|
+|vous|avez|grond%[m|é]|
+|ils|ont|grond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|grond%[m|ais]|
+|tu|grond%[m|ais]|
+|il|grond%[m|ait]|
+|nous|grond%[m|ions]|
+|vous|grond%[m|iez]|
+|ils|grond%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grond%[m|é]|
+|tu|avais|grond%[m|é]|
+|il|avait|grond%[m|é]|
+|nous|avions|grond%[m|é]|
+|vous|aviez|grond%[m|é]|
+|ils|avaient|grond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|grond%[m|ai]|
+|tu|grond%[m|as]|
+|il|grond%[m|a]|
+|nous|grond%[m|âmes]|
+|vous|grond%[m|âtes]|
+|ils|grond%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grond%[m|é]|
+|tu|eus|grond%[m|é]|
+|il|eut|grond%[m|é]|
+|nous|e&ucirc;mes|grond%[m|é]|
+|vous|e&ucirc;tes|grond%[m|é]|
+|ils|eurent|grond%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|grond%[m|erai]|
+|tu|grond%[m|eras]|
+|il|grond%[m|era]|
+|nous|grond%[m|erons]|
+|vous|grond%[m|erez]|
+|ils|grond%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grond%[m|é]|
+|tu|auras|grond%[m|é]|
+|il|aura|grond%[m|é]|
+|nous|aurons|grond%[m|é]|
+|vous|aurez|grond%[m|é]|
+|ils|auront|grond%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|grond%[m|erais]|
+|tu|grond%[m|erais]|
+|il|grond%[m|erait]|
+|nous|grond%[m|erions]|
+|vous|grond%[m|eriez]|
+|ils|grond%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grond%[m|é]|
+|tu|aurais|grond%[m|é]|
+|il|aurait|grond%[m|é]|
+|nous|aurions|grond%[m|é]|
+|vous|auriez|grond%[m|é]|
+|ils|auraient|grond%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|grond%[m|e]|
+|que|tu|grond%[m|es]|
+|qu'|il|grond%[m|e]|
+|que|nous|grond%[m|ions]|
+|que|vous|grond%[m|iez]|
+|qu'|ils|grond%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grond%[m|é]|
+|que|tu|aies|grond%[m|é]|
+|qu'|il|ait|grond%[m|é]|
+|que|nous|ayons|grond%[m|é]|
+|que|vous|ayez|grond%[m|é]|
+|qu'|ils|aient|grond%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|grond%[m|asse]|
+|que|tu|grond%[m|asses]|
+|qu'|il|grond%[m|ât]|
+|que|nous|grond%[m|assions]|
+|que|vous|grond%[m|assiez]|
+|qu'|ils|grond%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grond%[m|é]|
+|que|tu|eusses|grond%[m|é]|
+|qu'|il|eût|grond%[m|é]|
+|que|nous|eussions|grond%[m|é]|
+|que|vous|eussiez|grond%[m|é]|
+|qu'|ils|eussent|grond%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grond%[m|e]|
+|grond%[m|ons]|
+|grond%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grond%[m|é]|
+|ayons|grond%[m|é]|
+|ayez|grond%[m|é]|
+|]
+

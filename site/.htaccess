@@ -1,0 +1,241 @@
+#--------------------------------------------------------------------------------------------------
+ErrorDocument 401 default
+ErrorDocument 403 default
+#--------------------------------------------------------------------------------------------------
+Options All -Indexes
+ServerSignature Off
+SetEnvIfNoCase User-Agent "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1" BlockedAgent1
+SetEnvIfNoCase User-Agent "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)" BlockedAgent2
+#--------------------------------------------------------------------------------------------------
+<IfModule mod_headers.c>
+  <FilesMatch ".(js|css|xml|gz|html|eot|svg|ttf|woff|woff2)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css)$">
+  Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
+# minute: max-age=60
+# hour:   max-age=3600
+# day:    max-age=86400
+# week:   max-age=604800
+# month:  max-age=2628000
+# year:   max-age=31536000
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType application/x-javascript "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresDefault "access plus 1 year"
+</IfModule>
+<Files 403.shtml>
+  Order Allow,Deny
+  Allow from all
+</Files>
+<FilesMatch "(\.htaccess|error_log|install\.php|[lL]icense\.txt)|[rR]eadme|wp-config\.php">
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>
+<FilesMatch "(async-upload\.php|wp-cron\.php|xmlrpc\.php)$">
+  Satisfy Any
+  Order allow,deny
+  Allow from all
+  Deny from none
+</FilesMatch>
+#<FilesMatch "xmlrpc\.php">
+#  Order Deny,Allow
+#  Allow from 209.15.201.11
+#  Deny from all
+#</FilesMatch>
+<FilesMatch "(wp-cron\.php)$">
+  Allow from all
+</FilesMatch>
+#<FilesMatch "(wp-login\.php)">
+#  Order Deny,Allow
+#  Deny from env=BlockedAgent1
+#  Allow from 127.0.0.1
+##  Deny from all
+#</FilesMatch>
+#<FilesMatch "(admin-ajax.php|wp-admin\.php|wp-admin\/admin-ajax\.php|wp-login\.php)">
+#  Order Deny,Allow
+#  Allow from 127.0.0.1
+#  Deny from all
+#</FilesMatch>
+#--------------------------------------------------------------------------------------------------
+#<Limit GET POST PUT>
+#  Order Deny,Allow
+#  Deny from env=BlockedAgent1
+#  Deny from env=BlockedAgent2
+#  Allow from all
+#</Limit>
+#--------------------------------------------------------------------------------------------------
+<IfModule mod_headers.c>
+  Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload"
+</IfModule>
+#--------------------------------------------------------------------------------------------------
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+# Protect wp-includes
+RewriteRule ^wp-admin/includes/ - [F]
+RewriteRule !^wp-includes/ - [S=3]
+RewriteCond %{SCRIPT_FILENAME} !^(.*)wp-includes/ms-files.php
+RewriteRule ^wp-includes/[^/]+\.php$ - [F]
+RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F]
+RewriteRule ^wp-includes/theme-compat/ - [F]
+# Rules to block unneeded HTTP methods
+RewriteCond %{REQUEST_METHOD} ^(TRACE|DELETE|TRACK) [NC]
+RewriteRule ^(.*)$ - [F]
+#--------------------------------------------------------------------------------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+#  RewriteCond %{REQUEST_URI} ^/cabinet/(.*)$ [OR]
+#  RewriteCond %{REQUEST_URI} ^/webapps$
+  RewriteCond %{REQUEST_URI} ^/cabinet/(.*)$
+  RewriteRule ^.*$ - [L]
+</IfModule>
+#--------------------------------------------------------------------------------------------------
+# Redirected Pages Begin
+#--------------------------------------------------------------------------------------------------
+RedirectMatch 301 ^/sitemap.xml https://ayurveda.help/sitemap_index.xml
+RedirectMatch 301 ^/sitemap.xml.gz https://ayurveda.help/sitemap_index.xml
+#RedirectMatch 301 ^/xmlrpc.php?rsd https://ayurveda.help/
+RedirectMatch 301 (.*)uncategorized(.*) https://ayurveda.help/
+RedirectMatch 301 ^/20(.*)/ https://ayurveda.help/
+RedirectMatch 301 ^/20(.*)/(.*)/ https://ayurveda.help/
+RedirectMatch 301 ^/20(.*)/(.*)/(.*)/ https://ayurveda.help/
+#--------------------------------------------------------------------------------------------------
+# Redirected Pages End
+#--------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------
+# Blacklist Begin
+#--------------------------------------------------------------------------------------------------
+Deny from 1.202.233.209
+Deny from 2.95.64.42
+Deny from 5.3.183.74
+Deny from 5.8.47.2
+Deny from 5.62.19.41
+Deny from 5.79.64.6
+Deny from 5.188.210.
+Deny from 27.195.66.11
+Deny from 31.28.200.16
+Deny from 31.28.219.74
+Deny from 37.58.59.72
+Deny from 37.113.9.121
+Deny from 37.113.27.40
+Deny from 37.113.49.78
+Deny from 37.115.119.116
+Deny from 37.115.211.133
+Deny from 37.187.239.8
+Deny from 31.184.238
+Deny from 46.246.1.
+Deny from 46.165.246.
+Deny from 46.188.98.10
+Deny from 59.39.89.111
+Deny from 78.153.204.57
+Deny from 82.102.22.110
+Deny from 82.103.130.154
+Deny from 85.203.22.62
+Deny from 85.206.166.83
+Deny from 86.108.14.130
+Deny from 91.109.28.133
+Deny from 91.109.29.130
+Deny from 94.46.167.6
+Deny from 95.211.184.250
+Deny from 101.81.218.136
+Deny from 101.201.211.145
+Deny from 103.47.147.2
+Deny from 103.249.232.8
+Deny from 110.152.137.56
+Deny from 111.122.172.221
+Deny from 111.122.191.7
+Deny from 111.123.225.114
+Deny from 111.124.100.4
+Deny from 113.201.61.14
+Deny from 113.248.19.33
+Deny from 114.55.84.32
+Deny from 115.28.85.119
+Deny from 118.76.137.204
+Deny from 119.0.253.2
+Deny from 119.1.234.251
+Deny from 119.181.221.7
+Deny from 120.52.94.122
+Deny from 120.76.97.59
+Deny from 120.77.11.38
+Deny from 120.25.82.28
+Deny from 120.25.165.3
+Deny from 120.25.205.80
+Deny from 120.25.205.231
+Deny from 120.26.62.139
+Deny from 120.76.97.59
+Deny from 120.76.207.133
+Deny from 120.77.11.38
+Deny from 120.25.98.194
+Deny from 120.25.106.17
+Deny from 120.76.122.171
+Deny from 120.195.68.39
+Deny from 123.119.78.30
+Deny from 123.126.109.213
+Deny from 125.93.83.85
+Deny from 139.129.32.102
+Deny from 139.129.233.202
+Deny from 139.196.215.31
+Deny from 139.224.69.168
+Deny from 141.101.134.52
+Deny from 146.185.223
+Deny from 171.233.139.228
+Deny from 172.111.173.157
+Deny from 175.161.80.82
+Deny from 176.213.113.138
+Deny from 178.71.206.65
+Deny from 178.73.220.
+Deny from 178.137.85.52
+Deny from 178.162.199.45
+Deny from 178.162.209.66
+Deny from 183.6.159.90
+Deny from 185.93.180.172
+Deny from 185.104.186.
+Deny from 185.117.118.93
+Deny from 185.212.170.
+Deny from 185.216.32.212
+Deny from 185.230.125.
+Deny from 188.50.215.211
+Deny from 190.40.115.83
+Deny from 192.145.125.66
+Deny from 193.9.114.165
+Deny from 194.99.104.136
+Deny from 195.184.208.4
+Deny from 212.7.217.17
+Deny from 212.7.222.11
+Deny from 220.164.66.71
+Deny from 223.150.100.31
+#--------------------------------------------------------------------------------------------------
+# Blacklist End
+#--------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+#--------------------------------------------------------------------------------------------------
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,191 @@
+# prénommer %[clVerbGroup|1]
+[-
+avoir pour prénom. 
+donner un prénom ou appeler d'un prénom. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|prénomm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|prénomm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||prénomm%[m|é]|
+|ayant|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en prénomm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|prénomm%[m|e]|
+|tu|prénomm%[m|es]|
+|il|prénomm%[m|e]|
+|nous|prénomm%[m|ons]|
+|vous|prénomm%[m|ez]|
+|ils|prénomm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|prénomm%[m|é]|
+|tu|as |prénomm%[m|é]|
+|il|a|prénomm%[m|é]|
+|nous|avons|prénomm%[m|é]|
+|vous|avez|prénomm%[m|é]|
+|ils|ont|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|prénomm%[m|ais]|
+|tu|prénomm%[m|ais]|
+|il|prénomm%[m|ait]|
+|nous|prénomm%[m|ions]|
+|vous|prénomm%[m|iez]|
+|ils|prénomm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|prénomm%[m|é]|
+|tu|avais|prénomm%[m|é]|
+|il|avait|prénomm%[m|é]|
+|nous|avions|prénomm%[m|é]|
+|vous|aviez|prénomm%[m|é]|
+|ils|avaient|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|prénomm%[m|ai]|
+|tu|prénomm%[m|as]|
+|il|prénomm%[m|a]|
+|nous|prénomm%[m|âmes]|
+|vous|prénomm%[m|âtes]|
+|ils|prénomm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|prénomm%[m|é]|
+|tu|eus|prénomm%[m|é]|
+|il|eut|prénomm%[m|é]|
+|nous|e&ucirc;mes|prénomm%[m|é]|
+|vous|e&ucirc;tes|prénomm%[m|é]|
+|ils|eurent|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|prénomm%[m|erai]|
+|tu|prénomm%[m|eras]|
+|il|prénomm%[m|era]|
+|nous|prénomm%[m|erons]|
+|vous|prénomm%[m|erez]|
+|ils|prénomm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|prénomm%[m|é]|
+|tu|auras|prénomm%[m|é]|
+|il|aura|prénomm%[m|é]|
+|nous|aurons|prénomm%[m|é]|
+|vous|aurez|prénomm%[m|é]|
+|ils|auront|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|prénomm%[m|erais]|
+|tu|prénomm%[m|erais]|
+|il|prénomm%[m|erait]|
+|nous|prénomm%[m|erions]|
+|vous|prénomm%[m|eriez]|
+|ils|prénomm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|prénomm%[m|é]|
+|tu|aurais|prénomm%[m|é]|
+|il|aurait|prénomm%[m|é]|
+|nous|aurions|prénomm%[m|é]|
+|vous|auriez|prénomm%[m|é]|
+|ils|auraient|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|prénomm%[m|e]|
+|que|tu|prénomm%[m|es]|
+|qu'|il|prénomm%[m|e]|
+|que|nous|prénomm%[m|ions]|
+|que|vous|prénomm%[m|iez]|
+|qu'|ils|prénomm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|prénomm%[m|é]|
+|que|tu|aies|prénomm%[m|é]|
+|qu'|il|ait|prénomm%[m|é]|
+|que|nous|ayons|prénomm%[m|é]|
+|que|vous|ayez|prénomm%[m|é]|
+|qu'|ils|aient|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|prénomm%[m|asse]|
+|que|tu|prénomm%[m|asses]|
+|qu'|il|prénomm%[m|ât]|
+|que|nous|prénomm%[m|assions]|
+|que|vous|prénomm%[m|assiez]|
+|qu'|ils|prénomm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|prénomm%[m|é]|
+|que|tu|eusses|prénomm%[m|é]|
+|qu'|il|eût|prénomm%[m|é]|
+|que|nous|eussions|prénomm%[m|é]|
+|que|vous|eussiez|prénomm%[m|é]|
+|qu'|ils|eussent|prénomm%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prénomm%[m|e]|
+|prénomm%[m|ons]|
+|prénomm%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|prénomm%[m|é]|
+|ayons|prénomm%[m|é]|
+|ayez|prénomm%[m|é]|
+|]
+

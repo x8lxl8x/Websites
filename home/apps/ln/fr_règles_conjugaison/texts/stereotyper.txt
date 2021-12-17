@@ -1,0 +1,190 @@
+# stéréotyper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|stéréotyp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|stéréotyp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||stéréotyp%[m|é]|
+|ayant|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en stéréotyp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|stéréotyp%[m|e]|
+|tu|stéréotyp%[m|es]|
+|il|stéréotyp%[m|e]|
+|nous|stéréotyp%[m|ons]|
+|vous|stéréotyp%[m|ez]|
+|ils|stéréotyp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|stéréotyp%[m|é]|
+|tu|as |stéréotyp%[m|é]|
+|il|a|stéréotyp%[m|é]|
+|nous|avons|stéréotyp%[m|é]|
+|vous|avez|stéréotyp%[m|é]|
+|ils|ont|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|stéréotyp%[m|ais]|
+|tu|stéréotyp%[m|ais]|
+|il|stéréotyp%[m|ait]|
+|nous|stéréotyp%[m|ions]|
+|vous|stéréotyp%[m|iez]|
+|ils|stéréotyp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|stéréotyp%[m|é]|
+|tu|avais|stéréotyp%[m|é]|
+|il|avait|stéréotyp%[m|é]|
+|nous|avions|stéréotyp%[m|é]|
+|vous|aviez|stéréotyp%[m|é]|
+|ils|avaient|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|stéréotyp%[m|ai]|
+|tu|stéréotyp%[m|as]|
+|il|stéréotyp%[m|a]|
+|nous|stéréotyp%[m|âmes]|
+|vous|stéréotyp%[m|âtes]|
+|ils|stéréotyp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|stéréotyp%[m|é]|
+|tu|eus|stéréotyp%[m|é]|
+|il|eut|stéréotyp%[m|é]|
+|nous|e&ucirc;mes|stéréotyp%[m|é]|
+|vous|e&ucirc;tes|stéréotyp%[m|é]|
+|ils|eurent|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|stéréotyp%[m|erai]|
+|tu|stéréotyp%[m|eras]|
+|il|stéréotyp%[m|era]|
+|nous|stéréotyp%[m|erons]|
+|vous|stéréotyp%[m|erez]|
+|ils|stéréotyp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|stéréotyp%[m|é]|
+|tu|auras|stéréotyp%[m|é]|
+|il|aura|stéréotyp%[m|é]|
+|nous|aurons|stéréotyp%[m|é]|
+|vous|aurez|stéréotyp%[m|é]|
+|ils|auront|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|stéréotyp%[m|erais]|
+|tu|stéréotyp%[m|erais]|
+|il|stéréotyp%[m|erait]|
+|nous|stéréotyp%[m|erions]|
+|vous|stéréotyp%[m|eriez]|
+|ils|stéréotyp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|stéréotyp%[m|é]|
+|tu|aurais|stéréotyp%[m|é]|
+|il|aurait|stéréotyp%[m|é]|
+|nous|aurions|stéréotyp%[m|é]|
+|vous|auriez|stéréotyp%[m|é]|
+|ils|auraient|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|stéréotyp%[m|e]|
+|que|tu|stéréotyp%[m|es]|
+|qu'|il|stéréotyp%[m|e]|
+|que|nous|stéréotyp%[m|ions]|
+|que|vous|stéréotyp%[m|iez]|
+|qu'|ils|stéréotyp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|stéréotyp%[m|é]|
+|que|tu|aies|stéréotyp%[m|é]|
+|qu'|il|ait|stéréotyp%[m|é]|
+|que|nous|ayons|stéréotyp%[m|é]|
+|que|vous|ayez|stéréotyp%[m|é]|
+|qu'|ils|aient|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|stéréotyp%[m|asse]|
+|que|tu|stéréotyp%[m|asses]|
+|qu'|il|stéréotyp%[m|ât]|
+|que|nous|stéréotyp%[m|assions]|
+|que|vous|stéréotyp%[m|assiez]|
+|qu'|ils|stéréotyp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|stéréotyp%[m|é]|
+|que|tu|eusses|stéréotyp%[m|é]|
+|qu'|il|eût|stéréotyp%[m|é]|
+|que|nous|eussions|stéréotyp%[m|é]|
+|que|vous|eussiez|stéréotyp%[m|é]|
+|qu'|ils|eussent|stéréotyp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|stéréotyp%[m|e]|
+|stéréotyp%[m|ons]|
+|stéréotyp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|stéréotyp%[m|é]|
+|ayons|stéréotyp%[m|é]|
+|ayez|stéréotyp%[m|é]|
+|]
+

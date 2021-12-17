@@ -1,0 +1,84 @@
+<h3>Кабинет консультанта - Клиент</h3>
+
+<h4>$strClientNameFirst $strClientNameLast</h4>
+
+<a href='$strDirPhoto/$strClientIdKey/1.jpg'><img class='clThumb' alt='[лицо]'      title='лицо'    src='$strDirPhoto/$strClientIdKey/1.jpg'></a>
+<a href='$strDirPhoto/$strClientIdKey/2.jpg'><img class='clThumb' alt='[полн. рост]'    title='полный рост'  src='$strDirPhoto/$strClientIdKey/2.jpg'></a>
+<a href='$strDirPhoto/$strClientIdKey/3.jpg'><img class='clThumb' alt='[кисти рук]'    title='кисти рук'  src='$strDirPhoto/$strClientIdKey/3.jpg'></a>
+<a href='$strDirPhoto/$strClientIdKey/4.jpg'><img class='clThumb' alt='[пальцы ног]'  title='пальцы ног'  src='$strDirPhoto/$strClientIdKey/4.jpg'></a>
+<a href='$strDirPhoto/$strClientIdKey/5.jpg'><img class='clThumb' alt='[икры ног]'    title='икры ног'  src='$strDirPhoto/$strClientIdKey/5.jpg'></a>
+<br>
+<br>
+<table>
+  <tr><td class='clTd'>Год рождения</td>  <td class='clTd'>$strClientBirthYear</td></tr>
+  <tr><td class='clTd'>Город</td>      <td class='clTd'>$strClientPlaceCity</td></tr>
+  <tr><td class='clTd'>Страна</td>    <td class='clTd'>$strClientPlaceCountry</td></tr>
+  <tr><td class='clTd'>Род занятий</td>  <td class='clTd'>$strClientOccupation</td></tr>
+  <tr><td class='clTd'>Почта</td>      <td class='clTd'>$strClientEmail</td></tr>
+  <tr><td class='clTd'>Ключ</td>      <td class='clTd'>$strClientIdKey</td></tr>
+  <tr><td class='clTd'>Цена</td>      <td class='clTd'>$strClientPrice</td></tr>
+  <tr><td class='clTd'>Пакет</td>      <td class='clTd'>$strClientPackageName</td></tr>
+  <tr><td class='clTd'>Обращение</td>    <td class='clTd'>$strClientDateContacted</td></tr>
+  <tr><td class='clTd'>Запрошено</td>    <td class='clTd'>$strClientDateRequested</td></tr>
+  <tr><td class='clTd'>Оплачено</td>    <td class='clTd'>$strClientDatePaid</td></tr>
+  <tr><td class='clTd'>Заполнено</td>    <td class='clTd'>$strClientDateCompleted</td></tr>
+  <tr><td class='clTd'>Предоставлено</td>  <td class='clTd'>$strClientDateConsulted</td></tr>
+</table>
+<br>
+
+<h4>Опросные формы</h4>
+<div id='idForms'>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=2&amp;varFields=75'>Состояние здоровья</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=3&amp;varFields=52'>Определение аюрведической конституции</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=4&amp;varFields=30'>Определение ментальной конституции</a><br>
+  <br>
+<!-- -->
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=5&amp;varFields=61'>Диагностика по языку</a><br>
+<!-- -->
+  &emsp;<a href='./admin-diagnosis-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=5&amp;varFields=61'>Язык + Диагноз</a><br>
+<!-- -->
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=6&amp;varFields=17'>Диагностика по выделениям</a><br>
+<!-- -->
+  &emsp;<a href='./admin-diagnosis-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=6&amp;varFields=17'>Выделения + Диагноз</a><br>
+<!-- -->
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=7&amp;varFields=13'>Диагностика по моче</a><br>
+<!-- -->
+  &emsp;<a href='./admin-diagnosis-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=7&amp;varFields=13'>Моча + Диагноз</a><br>
+  <br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=8&amp;varFields=89'>Дисбаланс поддош Вата</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=9&amp;varFields=52'>Дисбаланс поддош Питта</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=10&amp;varFields=72'>Дисбаланс поддош Капха</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=11&amp;varFields=1'>Дополнительные сведения</a><br>
+  <a href='./admin-form-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=99&amp;varFields=1'>Переписка с клиентом</a><br>
+</div>
+
+<h4>Рекомендации</h4>
+<div id='idRecommendations'>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=1&amp;varFields=2'>Главное</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=99&amp;varFields=1'>Главное (текст)</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=2&amp;varFields=20'>Теория</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=3&amp;varFields=6'>Викрити - Вата</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=4&amp;varFields=5'>Викрити - Питта</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=5&amp;varFields=6'>Викрити - Капха</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=6&amp;varFields=8'>Викрити - Смешанные доши</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=7&amp;varFields=63'>Проблемы</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=8&amp;varFields=66'>Препараты</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=9&amp;varFields=14'>Асаны</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=10&amp;varFields=10'>Пранаяма</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=11&amp;varFields=14'>Мудры</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=12&amp;varFields=10'>Разное</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=13&amp;varFields=13'>Психосоматика</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=14&amp;varFields=10'>Психология</a><br>
+  <a href='./admin-recommendation-page.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varForm=15&amp;varFields=12'>Материнство</a><br>
+</div>
+
+<h4>Действия</h4>
+<div id='idActions'>
+  <a href='./admin-client-paymenent-change-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varClientEmail=$strClientEmail'>Изменить метод оплаты</a><br>
+  <a href='./admin-client-forms-opened-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varClientEmail=$strClientEmail'>Открыть доступ к изменению форм</a><br>
+  <a href='./admin-recommendations-completed-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varClientNameLast=$strClientNameLast&amp;varClientNameFirst=$strClientNameFirst&amp;varClientEmail=$strClientEmail'>Сообщить о готовности рекомендаций</a><br>
+</div>
+
+<div id='idExitLink'>
+  <a href='./admin-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

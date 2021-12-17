@@ -1,0 +1,190 @@
+# bonir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bon%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bon%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bon%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bon%[m|i]|
+|ayant|bon%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bon%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bon%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bon%[m|is]|
+|tu|bon%[m|is]|
+|il|bon%[m|it]|
+|nous|bon%[m|issons]|
+|vous|bon%[m|issez]|
+|ils|bon%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bon%[m|i]|
+|tu|as |bon%[m|i]|
+|il|a|bon%[m|i]|
+|nous|avons|bon%[m|i]|
+|vous|avez|bon%[m|i]|
+|ils|ont|bon%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bon%[m|issais]|
+|tu|bon%[m|issais]|
+|il|bon%[m|issait]|
+|nous|bon%[m|issions]|
+|vous|bon%[m|issiez]|
+|ils|bon%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bon%[m|i]|
+|tu|avais|bon%[m|i]|
+|il|avait|bon%[m|i]|
+|nous|avions|bon%[m|i]|
+|vous|aviez|bon%[m|i]|
+|ils|avaient|bon%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bon%[m|is]|
+|tu|bon%[m|is]|
+|il|bon%[m|it]|
+|nous|bon%[m|îmes]|
+|vous|bon%[m|îtes]|
+|ils|bon%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bon%[m|i]|
+|tu|eus|bon%[m|i]|
+|il|eut|bon%[m|i]|
+|nous|e&ucirc;mes|bon%[m|i]|
+|vous|e&ucirc;tes|bon%[m|i]|
+|ils|eurent|bon%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bon%[m|irai]|
+|tu|bon%[m|iras]|
+|il|bon%[m|ira]|
+|nous|bon%[m|irons]|
+|vous|bon%[m|irez]|
+|ils|bon%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bon%[m|i]|
+|tu|auras|bon%[m|i]|
+|il|aura|bon%[m|i]|
+|nous|aurons|bon%[m|i]|
+|vous|aurez|bon%[m|i]|
+|ils|auront|bon%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bon%[m|irais]|
+|tu|bon%[m|irais]|
+|il|bon%[m|irait]|
+|nous|bon%[m|irions]|
+|vous|bon%[m|iriez]|
+|ils|bon%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bon%[m|i]|
+|tu|aurais|bon%[m|i]|
+|il|aurait|bon%[m|i]|
+|nous|aurions|bon%[m|i]|
+|vous|auriez|bon%[m|i]|
+|ils|auraient|bon%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bon%[m|isse]|
+|que|tu|bon%[m|isses]|
+|qu'|il|bon%[m|isse]|
+|que|nous|bon%[m|issions]|
+|que|vous|bon%[m|issiez]|
+|qu'|ils|bon%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bon%[m|i]|
+|que|tu|aies|bon%[m|i]|
+|qu'|il|ait|bon%[m|i]|
+|que|nous|ayons|bon%[m|i]|
+|que|vous|ayez|bon%[m|i]|
+|qu'|ils|aient|bon%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bon%[m|isse]|
+|que|tu|bon%[m|isses]|
+|qu'|il|bon%[m|ît]|
+|que|nous|bon%[m|issions]|
+|que|vous|bon%[m|issiez]|
+|qu'|ils|bon%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bon%[m|i]|
+|que|tu|eusses|bon%[m|i]|
+|qu'|il|eût|bon%[m|i]|
+|que|nous|eussions|bon%[m|i]|
+|que|vous|eussiez|bon%[m|i]|
+|qu'|ils|eussent|bon%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bon%[m|is]|
+|bon%[m|issons]|
+|bon%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bon%[m|i]|
+|ayons|bon%[m|i]|
+|ayez|bon%[m|i]|
+|]
+

@@ -1,0 +1,190 @@
+# schpiler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|schpil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|schpil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|schpil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||schpil%[m|é]|
+|ayant|schpil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en schpil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|schpil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|schpil%[m|e]|
+|tu|schpil%[m|es]|
+|il|schpil%[m|e]|
+|nous|schpil%[m|ons]|
+|vous|schpil%[m|ez]|
+|ils|schpil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|schpil%[m|é]|
+|tu|as |schpil%[m|é]|
+|il|a|schpil%[m|é]|
+|nous|avons|schpil%[m|é]|
+|vous|avez|schpil%[m|é]|
+|ils|ont|schpil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|schpil%[m|ais]|
+|tu|schpil%[m|ais]|
+|il|schpil%[m|ait]|
+|nous|schpil%[m|ions]|
+|vous|schpil%[m|iez]|
+|ils|schpil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|schpil%[m|é]|
+|tu|avais|schpil%[m|é]|
+|il|avait|schpil%[m|é]|
+|nous|avions|schpil%[m|é]|
+|vous|aviez|schpil%[m|é]|
+|ils|avaient|schpil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|schpil%[m|ai]|
+|tu|schpil%[m|as]|
+|il|schpil%[m|a]|
+|nous|schpil%[m|âmes]|
+|vous|schpil%[m|âtes]|
+|ils|schpil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|schpil%[m|é]|
+|tu|eus|schpil%[m|é]|
+|il|eut|schpil%[m|é]|
+|nous|e&ucirc;mes|schpil%[m|é]|
+|vous|e&ucirc;tes|schpil%[m|é]|
+|ils|eurent|schpil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|schpil%[m|erai]|
+|tu|schpil%[m|eras]|
+|il|schpil%[m|era]|
+|nous|schpil%[m|erons]|
+|vous|schpil%[m|erez]|
+|ils|schpil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|schpil%[m|é]|
+|tu|auras|schpil%[m|é]|
+|il|aura|schpil%[m|é]|
+|nous|aurons|schpil%[m|é]|
+|vous|aurez|schpil%[m|é]|
+|ils|auront|schpil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|schpil%[m|erais]|
+|tu|schpil%[m|erais]|
+|il|schpil%[m|erait]|
+|nous|schpil%[m|erions]|
+|vous|schpil%[m|eriez]|
+|ils|schpil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|schpil%[m|é]|
+|tu|aurais|schpil%[m|é]|
+|il|aurait|schpil%[m|é]|
+|nous|aurions|schpil%[m|é]|
+|vous|auriez|schpil%[m|é]|
+|ils|auraient|schpil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|schpil%[m|e]|
+|que|tu|schpil%[m|es]|
+|qu'|il|schpil%[m|e]|
+|que|nous|schpil%[m|ions]|
+|que|vous|schpil%[m|iez]|
+|qu'|ils|schpil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|schpil%[m|é]|
+|que|tu|aies|schpil%[m|é]|
+|qu'|il|ait|schpil%[m|é]|
+|que|nous|ayons|schpil%[m|é]|
+|que|vous|ayez|schpil%[m|é]|
+|qu'|ils|aient|schpil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|schpil%[m|asse]|
+|que|tu|schpil%[m|asses]|
+|qu'|il|schpil%[m|ât]|
+|que|nous|schpil%[m|assions]|
+|que|vous|schpil%[m|assiez]|
+|qu'|ils|schpil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|schpil%[m|é]|
+|que|tu|eusses|schpil%[m|é]|
+|qu'|il|eût|schpil%[m|é]|
+|que|nous|eussions|schpil%[m|é]|
+|que|vous|eussiez|schpil%[m|é]|
+|qu'|ils|eussent|schpil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|schpil%[m|e]|
+|schpil%[m|ons]|
+|schpil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|schpil%[m|é]|
+|ayons|schpil%[m|é]|
+|ayez|schpil%[m|é]|
+|]
+

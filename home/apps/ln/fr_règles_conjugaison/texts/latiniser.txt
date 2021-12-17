@@ -1,0 +1,191 @@
+# latiniser %[clVerbGroup|1]
+[-
+donner à un mot une forme latine. 
+donner le caractère latin à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|latinis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|latinis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|latinis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||latinis%[m|é]|
+|ayant|latinis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en latinis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|latinis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|latinis%[m|e]|
+|tu|latinis%[m|es]|
+|il|latinis%[m|e]|
+|nous|latinis%[m|ons]|
+|vous|latinis%[m|ez]|
+|ils|latinis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|latinis%[m|é]|
+|tu|as |latinis%[m|é]|
+|il|a|latinis%[m|é]|
+|nous|avons|latinis%[m|é]|
+|vous|avez|latinis%[m|é]|
+|ils|ont|latinis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|latinis%[m|ais]|
+|tu|latinis%[m|ais]|
+|il|latinis%[m|ait]|
+|nous|latinis%[m|ions]|
+|vous|latinis%[m|iez]|
+|ils|latinis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|latinis%[m|é]|
+|tu|avais|latinis%[m|é]|
+|il|avait|latinis%[m|é]|
+|nous|avions|latinis%[m|é]|
+|vous|aviez|latinis%[m|é]|
+|ils|avaient|latinis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|latinis%[m|ai]|
+|tu|latinis%[m|as]|
+|il|latinis%[m|a]|
+|nous|latinis%[m|âmes]|
+|vous|latinis%[m|âtes]|
+|ils|latinis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|latinis%[m|é]|
+|tu|eus|latinis%[m|é]|
+|il|eut|latinis%[m|é]|
+|nous|e&ucirc;mes|latinis%[m|é]|
+|vous|e&ucirc;tes|latinis%[m|é]|
+|ils|eurent|latinis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|latinis%[m|erai]|
+|tu|latinis%[m|eras]|
+|il|latinis%[m|era]|
+|nous|latinis%[m|erons]|
+|vous|latinis%[m|erez]|
+|ils|latinis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|latinis%[m|é]|
+|tu|auras|latinis%[m|é]|
+|il|aura|latinis%[m|é]|
+|nous|aurons|latinis%[m|é]|
+|vous|aurez|latinis%[m|é]|
+|ils|auront|latinis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|latinis%[m|erais]|
+|tu|latinis%[m|erais]|
+|il|latinis%[m|erait]|
+|nous|latinis%[m|erions]|
+|vous|latinis%[m|eriez]|
+|ils|latinis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|latinis%[m|é]|
+|tu|aurais|latinis%[m|é]|
+|il|aurait|latinis%[m|é]|
+|nous|aurions|latinis%[m|é]|
+|vous|auriez|latinis%[m|é]|
+|ils|auraient|latinis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|latinis%[m|e]|
+|que|tu|latinis%[m|es]|
+|qu'|il|latinis%[m|e]|
+|que|nous|latinis%[m|ions]|
+|que|vous|latinis%[m|iez]|
+|qu'|ils|latinis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|latinis%[m|é]|
+|que|tu|aies|latinis%[m|é]|
+|qu'|il|ait|latinis%[m|é]|
+|que|nous|ayons|latinis%[m|é]|
+|que|vous|ayez|latinis%[m|é]|
+|qu'|ils|aient|latinis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|latinis%[m|asse]|
+|que|tu|latinis%[m|asses]|
+|qu'|il|latinis%[m|ât]|
+|que|nous|latinis%[m|assions]|
+|que|vous|latinis%[m|assiez]|
+|qu'|ils|latinis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|latinis%[m|é]|
+|que|tu|eusses|latinis%[m|é]|
+|qu'|il|eût|latinis%[m|é]|
+|que|nous|eussions|latinis%[m|é]|
+|que|vous|eussiez|latinis%[m|é]|
+|qu'|ils|eussent|latinis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|latinis%[m|e]|
+|latinis%[m|ons]|
+|latinis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|latinis%[m|é]|
+|ayons|latinis%[m|é]|
+|ayez|latinis%[m|é]|
+|]
+

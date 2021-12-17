@@ -1,0 +1,191 @@
+# bomber %[clVerbGroup|1]
+[-
+rendre convexe. 
+devenir convexe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bomb%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bomb%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bomb%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bomb%[m|é]|
+|ayant|bomb%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bomb%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bomb%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bomb%[m|e]|
+|tu|bomb%[m|es]|
+|il|bomb%[m|e]|
+|nous|bomb%[m|ons]|
+|vous|bomb%[m|ez]|
+|ils|bomb%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bomb%[m|é]|
+|tu|as |bomb%[m|é]|
+|il|a|bomb%[m|é]|
+|nous|avons|bomb%[m|é]|
+|vous|avez|bomb%[m|é]|
+|ils|ont|bomb%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bomb%[m|ais]|
+|tu|bomb%[m|ais]|
+|il|bomb%[m|ait]|
+|nous|bomb%[m|ions]|
+|vous|bomb%[m|iez]|
+|ils|bomb%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bomb%[m|é]|
+|tu|avais|bomb%[m|é]|
+|il|avait|bomb%[m|é]|
+|nous|avions|bomb%[m|é]|
+|vous|aviez|bomb%[m|é]|
+|ils|avaient|bomb%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bomb%[m|ai]|
+|tu|bomb%[m|as]|
+|il|bomb%[m|a]|
+|nous|bomb%[m|âmes]|
+|vous|bomb%[m|âtes]|
+|ils|bomb%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bomb%[m|é]|
+|tu|eus|bomb%[m|é]|
+|il|eut|bomb%[m|é]|
+|nous|e&ucirc;mes|bomb%[m|é]|
+|vous|e&ucirc;tes|bomb%[m|é]|
+|ils|eurent|bomb%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bomb%[m|erai]|
+|tu|bomb%[m|eras]|
+|il|bomb%[m|era]|
+|nous|bomb%[m|erons]|
+|vous|bomb%[m|erez]|
+|ils|bomb%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bomb%[m|é]|
+|tu|auras|bomb%[m|é]|
+|il|aura|bomb%[m|é]|
+|nous|aurons|bomb%[m|é]|
+|vous|aurez|bomb%[m|é]|
+|ils|auront|bomb%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bomb%[m|erais]|
+|tu|bomb%[m|erais]|
+|il|bomb%[m|erait]|
+|nous|bomb%[m|erions]|
+|vous|bomb%[m|eriez]|
+|ils|bomb%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bomb%[m|é]|
+|tu|aurais|bomb%[m|é]|
+|il|aurait|bomb%[m|é]|
+|nous|aurions|bomb%[m|é]|
+|vous|auriez|bomb%[m|é]|
+|ils|auraient|bomb%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bomb%[m|e]|
+|que|tu|bomb%[m|es]|
+|qu'|il|bomb%[m|e]|
+|que|nous|bomb%[m|ions]|
+|que|vous|bomb%[m|iez]|
+|qu'|ils|bomb%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bomb%[m|é]|
+|que|tu|aies|bomb%[m|é]|
+|qu'|il|ait|bomb%[m|é]|
+|que|nous|ayons|bomb%[m|é]|
+|que|vous|ayez|bomb%[m|é]|
+|qu'|ils|aient|bomb%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bomb%[m|asse]|
+|que|tu|bomb%[m|asses]|
+|qu'|il|bomb%[m|ât]|
+|que|nous|bomb%[m|assions]|
+|que|vous|bomb%[m|assiez]|
+|qu'|ils|bomb%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bomb%[m|é]|
+|que|tu|eusses|bomb%[m|é]|
+|qu'|il|eût|bomb%[m|é]|
+|que|nous|eussions|bomb%[m|é]|
+|que|vous|eussiez|bomb%[m|é]|
+|qu'|ils|eussent|bomb%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bomb%[m|e]|
+|bomb%[m|ons]|
+|bomb%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bomb%[m|é]|
+|ayons|bomb%[m|é]|
+|ayez|bomb%[m|é]|
+|]
+

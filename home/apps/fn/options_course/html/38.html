@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./37.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./39.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Dividend Play</h1>
+
+<p>One of the more interesting strategies is known as a
+<i>dividend play</i>.&nbsp; It is ironic that it is nearly
+risk-free yet entails a lot of uncertainty.&nbsp; It is
+uncertain because you are betting on the move of the
+trader on the opposite side of your position.</p>
+<p>The dividend play strategy is executed by purchasing
+stock and selling deep-in-the-money calls prior to
+ex-date (the day the stock trades without the
+dividend).&nbsp; Doing so creates a position where the trader
+will break even as a worst-case scenario, but may
+capture the dividend if the long call position fails to
+exercise.</p>
+<p>For example, say a stock is trading for $100 and is
+about to pay a $1 dividend.&nbsp; Also assume that a $70 call
+is trading for $30 (trading at parity).&nbsp; A trader can
+buy the stock and sell the call for a net debit of $70.&nbsp;
+On ex-date, the stock will fall by the amount of the
+dividend to $99 causing the deep-in-the-money call to
+fall to $29.&nbsp; The trader will lose $1 on the price of
+the stock, but gain it back from the dividend.&nbsp; But the
+short call can be purchased back for $1 less.&nbsp; Overall,
+the trader profits by the amount of the dividend.&nbsp; </p>
+<p>However, if the trader is assigned, he will receive
+$70 (the strike), which is the amount paid originally,
+and break even.&nbsp; If not, he keeps the dividend.</p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td>The transactions are as follows:<p>Long
+Stock =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-$100<br>
+<u>Short $70 call =&nbsp;&nbsp;+$30</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $70</p>
+<p>On ex-date, the account values are as
+follows:</p>
+<p>Stock = +$99 (stock price reduced by amount
+of dividend)<br>
+Short $70 call = -$29 (call price falls $1 due
+to stock price reduced by dividend)<br>
+<u>Dividend = +$1</u><br>
+Net credit&nbsp; $71</p>
+<p>The trader can now sell the stock for $99 and
+buy back the short position for a total credit
+of $70, which exactly offsets the original
+debit.&nbsp; <i>In addition, he will keep the $1
+dividend.</i></td>
+</tr>
+</table>
+<br>
+&nbsp;<table cellPadding='18' border='1' id='table5'>
+<tr vAlign='top'>
+<td>Look back to the original position and now
+assume the trader is, instead, assigned before
+ex-date:<p>Original position:</p>
+<p>Long Stock = &nbsp;&nbsp;+$100<br>
+<u>Short $70 call =&nbsp; -$30</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$70</p>
+<p>He will lose the stock from the assignment
+but also lose the $30 obligation because the
+call has been assigned.&nbsp; In exchange, he will
+receive the $70 exercise price, which is exactly
+what was paid originally.</p>
+<p>Because of the low transaction costs, traders
+see it as a low risk, but potentially profitable
+trade.</td>
+</tr>
+</table>
+<h2>Variations with vertical spreads</h2>
+<p>There is a variation of the dividend play that uses
+vertical spreads.&nbsp; For example, say the stock is $100
+and the $65/$70 vertical spread (long $65 call and short
+$70 call) is trading for $5 -- exactly the intrinsic
+amount.</p>
+<p>It is possible for a market maker to attempt to
+purchase this spread at $5 even though there appears to
+be no justification -- in most cases, you will pay $5
+for the spread and sell it for $5, but pay two
+commissions to do so.</p>
+<p>So why would a market maker want to pay $5 for the
+spread?&nbsp; They may exercise the $65 call and hope they
+are not assigned on the $70 call.&nbsp; By exercising the day
+before ex-date, they will capture the dividend of the
+underlying.&nbsp; Of course, if assigned on the short $70
+strike, they will lose the gains and break even.</p>
+<table cellPadding='18' border='1' id='table6'>
+<tr vAlign='top'>
+<td>The transactions are as follows:<p>Long $65
+call =&nbsp;&nbsp;&nbsp;-$35<br>
+<u>Short $70 call =&nbsp;+$30</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$5</p>
+<p>Trader exercises the $65 call and is now:</p>
+<p>Exercise $65 call =&nbsp;&nbsp;-$65<br>
+Long stock =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$100<br>
+<u>Short $70 call =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-$30</u><br>
+Net credit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$5</p>
+<p>Effectively, the trader has legged into a
+covered call position (long stock plus a short
+call).&nbsp; Notice that the long $65 call was
+originally priced at <u>$35</u>.&nbsp; By using it to
+buy stock, he is now long stock worth $100, but
+paid $65 for it -- a net value of <u>$35</u>.&nbsp;
+The market maker is simply changing the form of
+the position and not the value.</p>
+<h2>On ex-date:</h2>
+<p>Long stock = &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$34(remember, the trader
+paid $65 for stock now worth $99)<br>
+Short $70 call =&nbsp;&nbsp;&nbsp;-$29<br>
+<u>Dividend&nbsp; =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$1</u><br>
+Net credit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$6</p>
+<p>The trader gains by the amount of the $1
+dividend.&nbsp; But assume he is assigned instead:</p>
+<p>Now he will lose the stock and receive $70
+for it.&nbsp; In addition, he will lose the short
+call obligation due to the assignment.</p>
+<p>Receive $70 strike =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$70<br>
+Paid $65 for the stock =&nbsp;&nbsp;&nbsp;&nbsp;<u>-$65</u><br>
+Net credit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$5</td>
+</tr>
+</table>
+<p>Because the calls are both so deep-in-the-money, it
+is possible to execute the same strategy with a short
+vertical as well (sell the $65 call and buy the $70
+call).&nbsp; In a similar fashion, the market maker will
+exercise the $70 in an attempt to capture the dividend
+and hope he is not assigned on the $65.&nbsp; If he is
+assigned, he breaks even.&nbsp; </p>
+<p>The market maker can take advantage of the strategy
+with any deep-in-the-money call spread; he will exercise
+whichever call is long and hope he is not assigned on
+the other.</p>
+<p>This strategy also explains why it is possible to see
+quotes such as bid $5 and ask $5 for deep-in-the-money
+call spreads.&nbsp; The market makers, in these cases, are
+often trying to buy or sell the spread for $5 in an
+attempt at a dividend play.</p>
+<p>Remember, this strategy is only useful if you are
+paying very low commissions.&nbsp; We mention it because it
+is useful for understanding why you may see your stock
+called the day before ex-dividend date.</p>
+
+</div>
+</div>
+</body>
+</html>

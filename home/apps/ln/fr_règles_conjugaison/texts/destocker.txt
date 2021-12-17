@@ -1,0 +1,190 @@
+# destocker %[clVerbGroup|1]
+[-
+diminuer le volume d'un stock. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|destock%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|destock%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|destock%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||destock%[m|é]|
+|ayant|destock%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en destock%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|destock%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|destock%[m|e]|
+|tu|destock%[m|es]|
+|il|destock%[m|e]|
+|nous|destock%[m|ons]|
+|vous|destock%[m|ez]|
+|ils|destock%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|destock%[m|é]|
+|tu|as |destock%[m|é]|
+|il|a|destock%[m|é]|
+|nous|avons|destock%[m|é]|
+|vous|avez|destock%[m|é]|
+|ils|ont|destock%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|destock%[m|ais]|
+|tu|destock%[m|ais]|
+|il|destock%[m|ait]|
+|nous|destock%[m|ions]|
+|vous|destock%[m|iez]|
+|ils|destock%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|destock%[m|é]|
+|tu|avais|destock%[m|é]|
+|il|avait|destock%[m|é]|
+|nous|avions|destock%[m|é]|
+|vous|aviez|destock%[m|é]|
+|ils|avaient|destock%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|destock%[m|ai]|
+|tu|destock%[m|as]|
+|il|destock%[m|a]|
+|nous|destock%[m|âmes]|
+|vous|destock%[m|âtes]|
+|ils|destock%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|destock%[m|é]|
+|tu|eus|destock%[m|é]|
+|il|eut|destock%[m|é]|
+|nous|e&ucirc;mes|destock%[m|é]|
+|vous|e&ucirc;tes|destock%[m|é]|
+|ils|eurent|destock%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|destock%[m|erai]|
+|tu|destock%[m|eras]|
+|il|destock%[m|era]|
+|nous|destock%[m|erons]|
+|vous|destock%[m|erez]|
+|ils|destock%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|destock%[m|é]|
+|tu|auras|destock%[m|é]|
+|il|aura|destock%[m|é]|
+|nous|aurons|destock%[m|é]|
+|vous|aurez|destock%[m|é]|
+|ils|auront|destock%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|destock%[m|erais]|
+|tu|destock%[m|erais]|
+|il|destock%[m|erait]|
+|nous|destock%[m|erions]|
+|vous|destock%[m|eriez]|
+|ils|destock%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|destock%[m|é]|
+|tu|aurais|destock%[m|é]|
+|il|aurait|destock%[m|é]|
+|nous|aurions|destock%[m|é]|
+|vous|auriez|destock%[m|é]|
+|ils|auraient|destock%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|destock%[m|e]|
+|que|tu|destock%[m|es]|
+|qu'|il|destock%[m|e]|
+|que|nous|destock%[m|ions]|
+|que|vous|destock%[m|iez]|
+|qu'|ils|destock%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|destock%[m|é]|
+|que|tu|aies|destock%[m|é]|
+|qu'|il|ait|destock%[m|é]|
+|que|nous|ayons|destock%[m|é]|
+|que|vous|ayez|destock%[m|é]|
+|qu'|ils|aient|destock%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|destock%[m|asse]|
+|que|tu|destock%[m|asses]|
+|qu'|il|destock%[m|ât]|
+|que|nous|destock%[m|assions]|
+|que|vous|destock%[m|assiez]|
+|qu'|ils|destock%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|destock%[m|é]|
+|que|tu|eusses|destock%[m|é]|
+|qu'|il|eût|destock%[m|é]|
+|que|nous|eussions|destock%[m|é]|
+|que|vous|eussiez|destock%[m|é]|
+|qu'|ils|eussent|destock%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|destock%[m|e]|
+|destock%[m|ons]|
+|destock%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|destock%[m|é]|
+|ayons|destock%[m|é]|
+|ayez|destock%[m|é]|
+|]
+

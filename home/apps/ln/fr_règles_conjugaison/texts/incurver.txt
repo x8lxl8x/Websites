@@ -1,0 +1,190 @@
+# incurver %[clVerbGroup|1]
+[-
+faire prendre un profil courbe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|incurv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|incurv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|incurv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||incurv%[m|é]|
+|ayant|incurv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en incurv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|incurv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|incurv%[m|e]|
+|tu|incurv%[m|es]|
+|il|incurv%[m|e]|
+|nous|incurv%[m|ons]|
+|vous|incurv%[m|ez]|
+|ils|incurv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|incurv%[m|é]|
+|tu|as |incurv%[m|é]|
+|il|a|incurv%[m|é]|
+|nous|avons|incurv%[m|é]|
+|vous|avez|incurv%[m|é]|
+|ils|ont|incurv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|incurv%[m|ais]|
+|tu|incurv%[m|ais]|
+|il|incurv%[m|ait]|
+|nous|incurv%[m|ions]|
+|vous|incurv%[m|iez]|
+|ils|incurv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|incurv%[m|é]|
+|tu|avais|incurv%[m|é]|
+|il|avait|incurv%[m|é]|
+|nous|avions|incurv%[m|é]|
+|vous|aviez|incurv%[m|é]|
+|ils|avaient|incurv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|incurv%[m|ai]|
+|tu|incurv%[m|as]|
+|il|incurv%[m|a]|
+|nous|incurv%[m|âmes]|
+|vous|incurv%[m|âtes]|
+|ils|incurv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|incurv%[m|é]|
+|tu|eus|incurv%[m|é]|
+|il|eut|incurv%[m|é]|
+|nous|e&ucirc;mes|incurv%[m|é]|
+|vous|e&ucirc;tes|incurv%[m|é]|
+|ils|eurent|incurv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|incurv%[m|erai]|
+|tu|incurv%[m|eras]|
+|il|incurv%[m|era]|
+|nous|incurv%[m|erons]|
+|vous|incurv%[m|erez]|
+|ils|incurv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|incurv%[m|é]|
+|tu|auras|incurv%[m|é]|
+|il|aura|incurv%[m|é]|
+|nous|aurons|incurv%[m|é]|
+|vous|aurez|incurv%[m|é]|
+|ils|auront|incurv%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|incurv%[m|erais]|
+|tu|incurv%[m|erais]|
+|il|incurv%[m|erait]|
+|nous|incurv%[m|erions]|
+|vous|incurv%[m|eriez]|
+|ils|incurv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|incurv%[m|é]|
+|tu|aurais|incurv%[m|é]|
+|il|aurait|incurv%[m|é]|
+|nous|aurions|incurv%[m|é]|
+|vous|auriez|incurv%[m|é]|
+|ils|auraient|incurv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|incurv%[m|e]|
+|que|tu|incurv%[m|es]|
+|qu'|il|incurv%[m|e]|
+|que|nous|incurv%[m|ions]|
+|que|vous|incurv%[m|iez]|
+|qu'|ils|incurv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|incurv%[m|é]|
+|que|tu|aies|incurv%[m|é]|
+|qu'|il|ait|incurv%[m|é]|
+|que|nous|ayons|incurv%[m|é]|
+|que|vous|ayez|incurv%[m|é]|
+|qu'|ils|aient|incurv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|incurv%[m|asse]|
+|que|tu|incurv%[m|asses]|
+|qu'|il|incurv%[m|ât]|
+|que|nous|incurv%[m|assions]|
+|que|vous|incurv%[m|assiez]|
+|qu'|ils|incurv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|incurv%[m|é]|
+|que|tu|eusses|incurv%[m|é]|
+|qu'|il|eût|incurv%[m|é]|
+|que|nous|eussions|incurv%[m|é]|
+|que|vous|eussiez|incurv%[m|é]|
+|qu'|ils|eussent|incurv%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|incurv%[m|e]|
+|incurv%[m|ons]|
+|incurv%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|incurv%[m|é]|
+|ayons|incurv%[m|é]|
+|ayez|incurv%[m|é]|
+|]
+

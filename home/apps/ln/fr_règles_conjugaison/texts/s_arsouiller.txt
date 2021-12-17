@@ -1,0 +1,190 @@
+# s'arsouiller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'arsouill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|arsouill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'arsouill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|arsouill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'arsouill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|arsouill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|arsouill%[m|e]|
+|tu|t'|arsouill%[m|es]|
+|il|s'|arsouill%[m|e]|
+|nous|nous|arsouill%[m|ons]|
+|vous|vous|arsouill%[m|ez]|
+|ils|s'|arsouill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|arsouill%[m|é]|
+|tu|t'|es|arsouill%[m|é]|
+|il|s'|est|arsouill%[m|é]|
+|nous|nous|sommes|arsouill%[m|és]|
+|vous|vous|êtes|arsouill%[m|és]|
+|ils|se|sont|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|arsouill%[m|ais]|
+|tu|t'|arsouill%[m|ais]|
+|il|s'|arsouill%[m|ait]|
+|nous|nous|arsouill%[m|ions]|
+|vous|vous|arsouill%[m|iez]|
+|ils|s'|arsouill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|arsouill%[m|é]|
+|tu|t'|étais|arsouill%[m|é]|
+|il|s'|était|arsouill%[m|é]|
+|nous|nous|étions|arsouill%[m|és]|
+|vous|vous|étiez|arsouill%[m|és]|
+|ils|s'|étaient|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|arsouill%[m|ai]|
+|tu|t'|arsouill%[m|as]|
+|il|s'|arsouill%[m|a]|
+|nous|nous|arsouill%[m|âmes]|
+|vous|vous|arsouill%[m|âtes]|
+|ils|s'|arsouill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|arsouill%[m|é]|
+|tu|te|fus|arsouill%[m|é]|
+|il|se|fut|arsouill%[m|é]|
+|nous|nous|fûmes|arsouill%[m|és]|
+|vous|vous|fûtes|arsouill%[m|és]|
+|ils|se|furent|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|arsouill%[m|erai]|
+|tu|t'|arsouill%[m|eras]|
+|il|s'|arsouill%[m|era]|
+|nous|nous|arsouill%[m|erons]|
+|vous|vous|arsouill%[m|erez]|
+|ils|s'|arsouill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|arsouill%[m|é]|
+|tu|te|seras|arsouill%[m|é]|
+|il|se|sera|arsouill%[m|é]|
+|nous|nous|serons|arsouill%[m|és]|
+|vous|vous|serez|arsouill%[m|és]|
+|ils|se|seront|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|arsouill%[m|erais]|
+|tu|t'|arsouill%[m|erais]|
+|il|s'|arsouill%[m|erait]|
+|nous|nous|arsouill%[m|erions]|
+|vous|vous|arsouill%[m|eriez]|
+|ils|s'|arsouill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|arsouill%[m|é]|
+|tu|te|serais|arsouill%[m|é]|
+|il|se|serait|arsouill%[m|é]|
+|nous|nous|serions|arsouill%[m|és]|
+|vous|vous|seriez|arsouill%[m|és]|
+|ils|se|seraient|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|arsouill%[m|e]|
+|que|tu|t'|arsouill%[m|es]|
+|qu'|il|s'|arsouill%[m|e]|
+|que|nous|nous|arsouill%[m|ions]|
+|que|vous|vous|arsouill%[m|iez]|
+|qu'|ils|s'|arsouill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|arsouill%[m|é]|
+|que|tu|te|sois|arsouill%[m|é]|
+|qu'|il|se|soit|arsouill%[m|é]|
+|que|nous|nous|soyons|arsouill%[m|és]|
+|que|vous|vous|soyez|arsouill%[m|és]|
+|qu'|ils|se|soient|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|arsouill%[m|asse]|
+|que|tu|t'|arsouill%[m|asses]|
+|qu'|il|s'|arsouill%[m|ât]|
+|que|nous|nous|arsouill%[m|assions]|
+|que|vous|vous|arsouill%[m|assiez]|
+|qu'|ils|s'|arsouill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|arsouill%[m|é]|
+|que|tu|te|fusses|arsouill%[m|é]|
+|qu'|il|se|fût|arsouill%[m|é]|
+|que|nous|nous|fussions|arsouill%[m|és]|
+|que|vous|vous|fussiez|arsouill%[m|és]|
+|qu'|ils|se|fussent|arsouill%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arsouill%[m|e]-toi|
+|arsouill%[m|ons]-nous|
+|arsouill%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

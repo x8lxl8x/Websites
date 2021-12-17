@@ -1,0 +1,190 @@
+# surnommer %[clVerbGroup|1]
+[-
+désigner par un surnom. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surnomm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surnomm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surnomm%[m|é]|
+|ayant|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surnomm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surnomm%[m|e]|
+|tu|surnomm%[m|es]|
+|il|surnomm%[m|e]|
+|nous|surnomm%[m|ons]|
+|vous|surnomm%[m|ez]|
+|ils|surnomm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surnomm%[m|é]|
+|tu|as |surnomm%[m|é]|
+|il|a|surnomm%[m|é]|
+|nous|avons|surnomm%[m|é]|
+|vous|avez|surnomm%[m|é]|
+|ils|ont|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surnomm%[m|ais]|
+|tu|surnomm%[m|ais]|
+|il|surnomm%[m|ait]|
+|nous|surnomm%[m|ions]|
+|vous|surnomm%[m|iez]|
+|ils|surnomm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surnomm%[m|é]|
+|tu|avais|surnomm%[m|é]|
+|il|avait|surnomm%[m|é]|
+|nous|avions|surnomm%[m|é]|
+|vous|aviez|surnomm%[m|é]|
+|ils|avaient|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surnomm%[m|ai]|
+|tu|surnomm%[m|as]|
+|il|surnomm%[m|a]|
+|nous|surnomm%[m|âmes]|
+|vous|surnomm%[m|âtes]|
+|ils|surnomm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surnomm%[m|é]|
+|tu|eus|surnomm%[m|é]|
+|il|eut|surnomm%[m|é]|
+|nous|e&ucirc;mes|surnomm%[m|é]|
+|vous|e&ucirc;tes|surnomm%[m|é]|
+|ils|eurent|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surnomm%[m|erai]|
+|tu|surnomm%[m|eras]|
+|il|surnomm%[m|era]|
+|nous|surnomm%[m|erons]|
+|vous|surnomm%[m|erez]|
+|ils|surnomm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surnomm%[m|é]|
+|tu|auras|surnomm%[m|é]|
+|il|aura|surnomm%[m|é]|
+|nous|aurons|surnomm%[m|é]|
+|vous|aurez|surnomm%[m|é]|
+|ils|auront|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surnomm%[m|erais]|
+|tu|surnomm%[m|erais]|
+|il|surnomm%[m|erait]|
+|nous|surnomm%[m|erions]|
+|vous|surnomm%[m|eriez]|
+|ils|surnomm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surnomm%[m|é]|
+|tu|aurais|surnomm%[m|é]|
+|il|aurait|surnomm%[m|é]|
+|nous|aurions|surnomm%[m|é]|
+|vous|auriez|surnomm%[m|é]|
+|ils|auraient|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surnomm%[m|e]|
+|que|tu|surnomm%[m|es]|
+|qu'|il|surnomm%[m|e]|
+|que|nous|surnomm%[m|ions]|
+|que|vous|surnomm%[m|iez]|
+|qu'|ils|surnomm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surnomm%[m|é]|
+|que|tu|aies|surnomm%[m|é]|
+|qu'|il|ait|surnomm%[m|é]|
+|que|nous|ayons|surnomm%[m|é]|
+|que|vous|ayez|surnomm%[m|é]|
+|qu'|ils|aient|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surnomm%[m|asse]|
+|que|tu|surnomm%[m|asses]|
+|qu'|il|surnomm%[m|ât]|
+|que|nous|surnomm%[m|assions]|
+|que|vous|surnomm%[m|assiez]|
+|qu'|ils|surnomm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surnomm%[m|é]|
+|que|tu|eusses|surnomm%[m|é]|
+|qu'|il|eût|surnomm%[m|é]|
+|que|nous|eussions|surnomm%[m|é]|
+|que|vous|eussiez|surnomm%[m|é]|
+|qu'|ils|eussent|surnomm%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surnomm%[m|e]|
+|surnomm%[m|ons]|
+|surnomm%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surnomm%[m|é]|
+|ayons|surnomm%[m|é]|
+|ayez|surnomm%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se protéger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se prot%[m|é]g%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|protég%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se prot%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|protég%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se prot%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|protég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|prot%[m|è]g%[m|e]|
+|tu|te|prot%[m|è]g%[m|es]|
+|il|se|prot%[m|è]g%[m|e]|
+|nous|nous|prot%[m|é]g%[m|eons]|
+|vous|vous|prot%[m|é]g%[m|ez]|
+|ils|se|prot%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|protég%[m|é]|
+|tu|t'|es|protég%[m|é]|
+|il|s'|est|protég%[m|é]|
+|nous|nous|sommes|protég%[m|és]|
+|vous|vous|êtes|protég%[m|és]|
+|ils|se|sont|protég%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|prot%[m|é]g%[m|eais]|
+|tu|te|prot%[m|é]g%[m|eais]|
+|il|se|prot%[m|é]g%[m|eait]|
+|nous|nous|prot%[m|é]g%[m|ions]|
+|vous|vous|prot%[m|é]g%[m|iez]|
+|ils|se|prot%[m|é]g%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|protég%[m|é]|
+|tu|t'|étais|protég%[m|é]|
+|il|s'|était|protég%[m|é]|
+|nous|nous|étions|protég%[m|és]|
+|vous|vous|étiez|protég%[m|és]|
+|ils|s'|étaient|protég%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|prot%[m|é]g%[m|eai]|
+|tu|te|prot%[m|é]g%[m|eas]|
+|il|se|prot%[m|é]g%[m|ea]|
+|nous|nous|prot%[m|é]g%[m|eâmes]|
+|vous|vous|prot%[m|é]g%[m|eâtes]|
+|ils|se|prot%[m|é]g%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|protég%[m|é]|
+|tu|te|fus|protég%[m|é]|
+|il|se|fut|protég%[m|é]|
+|nous|nous|fûmes|protég%[m|és]|
+|vous|vous|fûtes|protég%[m|és]|
+|ils|se|furent|protég%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|prot%[m|é]g%[m|erai]|
+|tu|te|prot%[m|é]g%[m|eras]|
+|il|se|prot%[m|é]g%[m|era]|
+|nous|nous|prot%[m|é]g%[m|erons]|
+|vous|vous|prot%[m|é]g%[m|erez]|
+|ils|se|prot%[m|é]g%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|protég%[m|é]|
+|tu|te|seras|protég%[m|é]|
+|il|se|sera|protég%[m|é]|
+|nous|nous|serons|protég%[m|és]|
+|vous|vous|serez|protég%[m|és]|
+|ils|se|seront|protég%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|prot%[m|é]g%[m|erais]|
+|tu|te|prot%[m|é]g%[m|erais]|
+|il|se|prot%[m|é]g%[m|erait]|
+|nous|nous|prot%[m|é]g%[m|erions]|
+|vous|vous|prot%[m|é]g%[m|eriez]|
+|ils|se|prot%[m|é]g%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|protég%[m|é]|
+|tu|te|serais|protég%[m|é]|
+|il|se|serait|protég%[m|é]|
+|nous|nous|serions|protég%[m|és]|
+|vous|vous|seriez|protég%[m|és]|
+|ils|se|seraient|protég%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|prot%[m|è]g%[m|e]|
+|que|tu|te|prot%[m|è]g%[m|es]|
+|qu'|il|se|prot%[m|è]g%[m|e]|
+|que|nous|nous|prot%[m|é]g%[m|ions]|
+|que|vous|vous|prot%[m|é]g%[m|iez]|
+|qu'|ils|se|prot%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|protég%[m|é]|
+|que|tu|te|sois|protég%[m|é]|
+|qu'|il|se|soit|protég%[m|é]|
+|que|nous|nous|soyons|protég%[m|és]|
+|que|vous|vous|soyez|protég%[m|és]|
+|qu'|ils|se|soient|protég%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|prot%[m|é]g%[m|easse]|
+|que|tu|te|prot%[m|é]g%[m|easses]|
+|qu'|il|se|prot%[m|é]g%[m|eât]|
+|que|nous|nous|prot%[m|é]g%[m|eassions]|
+|que|vous|vous|prot%[m|é]g%[m|eassiez]|
+|qu'|ils|se|prot%[m|é]g%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|protég%[m|é]|
+|que|tu|te|fusses|protég%[m|é]|
+|qu'|il|se|fût|protég%[m|é]|
+|que|nous|nous|fussions|protég%[m|és]|
+|que|vous|vous|fussiez|protég%[m|és]|
+|qu'|ils|se|fussent|protég%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prot%[m|è]g%[m|e]-toi|
+|prot%[m|é]g%[m|eons]-nous|
+|prot%[m|é]g%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

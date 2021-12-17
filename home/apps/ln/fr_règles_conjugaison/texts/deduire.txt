@@ -1,0 +1,192 @@
+# déduire %[clVerbGroup|3]
+[-
+conclure logiquement à partir de propositions posées comme prémisses. 
+retrancher en effectuant une soustraction; défalquer. 
+retrancher une certaine somme d'un total. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dédui%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dédui%[m|t]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dédui%[m|sant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dédui%[m|t]|
+|ayant|dédui%[m|t]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dédui%[m|sant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dédui%[m|t]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dédui%[m|s]|
+|tu|dédui%[m|s]|
+|il|dédui%[m|t]|
+|nous|dédui%[m|sons]|
+|vous|dédui%[m|sez]|
+|ils|dédui%[m|sent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dédui%[m|t]|
+|tu|as |dédui%[m|t]|
+|il|a|dédui%[m|t]|
+|nous|avons|dédui%[m|t]|
+|vous|avez|dédui%[m|t]|
+|ils|ont|dédui%[m|t]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dédui%[m|sais]|
+|tu|dédui%[m|sais]|
+|il|dédui%[m|sait]|
+|nous|dédui%[m|sions]|
+|vous|dédui%[m|siez]|
+|ils|dédui%[m|saient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dédui%[m|t]|
+|tu|avais|dédui%[m|t]|
+|il|avait|dédui%[m|t]|
+|nous|avions|dédui%[m|t]|
+|vous|aviez|dédui%[m|t]|
+|ils|avaient|dédui%[m|t]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dédui%[m|sis]|
+|tu|dédui%[m|sis]|
+|il|dédui%[m|sit]|
+|nous|dédui%[m|sîmes]|
+|vous|dédui%[m|sîtes]|
+|ils|dédui%[m|sirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dédui%[m|t]|
+|tu|eus|dédui%[m|t]|
+|il|eut|dédui%[m|t]|
+|nous|e&ucirc;mes|dédui%[m|t]|
+|vous|e&ucirc;tes|dédui%[m|t]|
+|ils|eurent|dédui%[m|t]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dédui%[m|rai]|
+|tu|dédui%[m|ras]|
+|il|dédui%[m|ra]|
+|nous|dédui%[m|rons]|
+|vous|dédui%[m|rez]|
+|ils|dédui%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dédui%[m|t]|
+|tu|auras|dédui%[m|t]|
+|il|aura|dédui%[m|t]|
+|nous|aurons|dédui%[m|t]|
+|vous|aurez|dédui%[m|t]|
+|ils|auront|dédui%[m|t]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dédui%[m|rais]|
+|tu|dédui%[m|rais]|
+|il|dédui%[m|rait]|
+|nous|dédui%[m|rions]|
+|vous|dédui%[m|riez]|
+|ils|dédui%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dédui%[m|t]|
+|tu|aurais|dédui%[m|t]|
+|il|aurait|dédui%[m|t]|
+|nous|aurions|dédui%[m|t]|
+|vous|auriez|dédui%[m|t]|
+|ils|auraient|dédui%[m|t]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dédui%[m|se]|
+|que|tu|dédui%[m|ses]|
+|qu'|il|dédui%[m|se]|
+|que|nous|dédui%[m|sions]|
+|que|vous|dédui%[m|siez]|
+|qu'|ils|dédui%[m|sent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dédui%[m|t]|
+|que|tu|aies|dédui%[m|t]|
+|qu'|il|ait|dédui%[m|t]|
+|que|nous|ayons|dédui%[m|t]|
+|que|vous|ayez|dédui%[m|t]|
+|qu'|ils|aient|dédui%[m|t]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dédui%[m|sisse]|
+|que|tu|dédui%[m|sisses]|
+|qu'|il|dédui%[m|sît]|
+|que|nous|dédui%[m|sissions]|
+|que|vous|dédui%[m|sissiez]|
+|qu'|ils|dédui%[m|sissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dédui%[m|t]|
+|que|tu|eusses|dédui%[m|t]|
+|qu'|il|eût|dédui%[m|t]|
+|que|nous|eussions|dédui%[m|t]|
+|que|vous|eussiez|dédui%[m|t]|
+|qu'|ils|eussent|dédui%[m|t]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dédui%[m|s]|
+|dédui%[m|sons]|
+|dédui%[m|sez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dédui%[m|t]|
+|ayons|dédui%[m|t]|
+|ayez|dédui%[m|t]|
+|]
+

@@ -1,0 +1,191 @@
+# froncer %[clVerbGroup|1]
+[-
+plisser, rider, contracter. 
+orner de fronces. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fron%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fron%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fron%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fron%[m|cé]|
+|ayant|fron%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fron%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fron%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fron%[m|ce]|
+|tu|fron%[m|ces]|
+|il|fron%[m|ce]|
+|nous|fron%[m|çons]|
+|vous|fron%[m|cez]|
+|ils|fron%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fron%[m|cé]|
+|tu|as |fron%[m|cé]|
+|il|a|fron%[m|cé]|
+|nous|avons|fron%[m|cé]|
+|vous|avez|fron%[m|cé]|
+|ils|ont|fron%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fron%[m|çais]|
+|tu|fron%[m|çais]|
+|il|fron%[m|çait]|
+|nous|fron%[m|cions]|
+|vous|fron%[m|ciez]|
+|ils|fron%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fron%[m|cé]|
+|tu|avais|fron%[m|cé]|
+|il|avait|fron%[m|cé]|
+|nous|avions|fron%[m|cé]|
+|vous|aviez|fron%[m|cé]|
+|ils|avaient|fron%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fron%[m|çai]|
+|tu|fron%[m|ças]|
+|il|fron%[m|ça]|
+|nous|fron%[m|çâmes]|
+|vous|fron%[m|çâtes]|
+|ils|fron%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fron%[m|cé]|
+|tu|eus|fron%[m|cé]|
+|il|eut|fron%[m|cé]|
+|nous|e&ucirc;mes|fron%[m|cé]|
+|vous|e&ucirc;tes|fron%[m|cé]|
+|ils|eurent|fron%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fron%[m|cerai]|
+|tu|fron%[m|ceras]|
+|il|fron%[m|cera]|
+|nous|fron%[m|cerons]|
+|vous|fron%[m|cerez]|
+|ils|fron%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fron%[m|cé]|
+|tu|auras|fron%[m|cé]|
+|il|aura|fron%[m|cé]|
+|nous|aurons|fron%[m|cé]|
+|vous|aurez|fron%[m|cé]|
+|ils|auront|fron%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fron%[m|cerais]|
+|tu|fron%[m|cerais]|
+|il|fron%[m|cerait]|
+|nous|fron%[m|cerions]|
+|vous|fron%[m|ceriez]|
+|ils|fron%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fron%[m|cé]|
+|tu|aurais|fron%[m|cé]|
+|il|aurait|fron%[m|cé]|
+|nous|aurions|fron%[m|cé]|
+|vous|auriez|fron%[m|cé]|
+|ils|auraient|fron%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fron%[m|ce]|
+|que|tu|fron%[m|ces]|
+|qu'|il|fron%[m|ce]|
+|que|nous|fron%[m|cions]|
+|que|vous|fron%[m|ciez]|
+|qu'|ils|fron%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fron%[m|cé]|
+|que|tu|aies|fron%[m|cé]|
+|qu'|il|ait|fron%[m|cé]|
+|que|nous|ayons|fron%[m|cé]|
+|que|vous|ayez|fron%[m|cé]|
+|qu'|ils|aient|fron%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fron%[m|çasse]|
+|que|tu|fron%[m|çasses]|
+|qu'|il|fron%[m|çât]|
+|que|nous|fron%[m|çassions]|
+|que|vous|fron%[m|çassiez]|
+|qu'|ils|fron%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fron%[m|cé]|
+|que|tu|eusses|fron%[m|cé]|
+|qu'|il|eût|fron%[m|cé]|
+|que|nous|eussions|fron%[m|cé]|
+|que|vous|eussiez|fron%[m|cé]|
+|qu'|ils|eussent|fron%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fron%[m|ce]|
+|fron%[m|çons]|
+|fron%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fron%[m|cé]|
+|ayons|fron%[m|cé]|
+|ayez|fron%[m|cé]|
+|]
+

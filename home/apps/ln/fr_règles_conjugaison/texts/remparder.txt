@@ -1,0 +1,190 @@
+# remparder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rempard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rempard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rempard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rempard%[m|é]|
+|ayant|rempard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rempard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rempard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rempard%[m|e]|
+|tu|rempard%[m|es]|
+|il|rempard%[m|e]|
+|nous|rempard%[m|ons]|
+|vous|rempard%[m|ez]|
+|ils|rempard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rempard%[m|é]|
+|tu|as |rempard%[m|é]|
+|il|a|rempard%[m|é]|
+|nous|avons|rempard%[m|é]|
+|vous|avez|rempard%[m|é]|
+|ils|ont|rempard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rempard%[m|ais]|
+|tu|rempard%[m|ais]|
+|il|rempard%[m|ait]|
+|nous|rempard%[m|ions]|
+|vous|rempard%[m|iez]|
+|ils|rempard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rempard%[m|é]|
+|tu|avais|rempard%[m|é]|
+|il|avait|rempard%[m|é]|
+|nous|avions|rempard%[m|é]|
+|vous|aviez|rempard%[m|é]|
+|ils|avaient|rempard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rempard%[m|ai]|
+|tu|rempard%[m|as]|
+|il|rempard%[m|a]|
+|nous|rempard%[m|âmes]|
+|vous|rempard%[m|âtes]|
+|ils|rempard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rempard%[m|é]|
+|tu|eus|rempard%[m|é]|
+|il|eut|rempard%[m|é]|
+|nous|e&ucirc;mes|rempard%[m|é]|
+|vous|e&ucirc;tes|rempard%[m|é]|
+|ils|eurent|rempard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rempard%[m|erai]|
+|tu|rempard%[m|eras]|
+|il|rempard%[m|era]|
+|nous|rempard%[m|erons]|
+|vous|rempard%[m|erez]|
+|ils|rempard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rempard%[m|é]|
+|tu|auras|rempard%[m|é]|
+|il|aura|rempard%[m|é]|
+|nous|aurons|rempard%[m|é]|
+|vous|aurez|rempard%[m|é]|
+|ils|auront|rempard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rempard%[m|erais]|
+|tu|rempard%[m|erais]|
+|il|rempard%[m|erait]|
+|nous|rempard%[m|erions]|
+|vous|rempard%[m|eriez]|
+|ils|rempard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rempard%[m|é]|
+|tu|aurais|rempard%[m|é]|
+|il|aurait|rempard%[m|é]|
+|nous|aurions|rempard%[m|é]|
+|vous|auriez|rempard%[m|é]|
+|ils|auraient|rempard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rempard%[m|e]|
+|que|tu|rempard%[m|es]|
+|qu'|il|rempard%[m|e]|
+|que|nous|rempard%[m|ions]|
+|que|vous|rempard%[m|iez]|
+|qu'|ils|rempard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rempard%[m|é]|
+|que|tu|aies|rempard%[m|é]|
+|qu'|il|ait|rempard%[m|é]|
+|que|nous|ayons|rempard%[m|é]|
+|que|vous|ayez|rempard%[m|é]|
+|qu'|ils|aient|rempard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rempard%[m|asse]|
+|que|tu|rempard%[m|asses]|
+|qu'|il|rempard%[m|ât]|
+|que|nous|rempard%[m|assions]|
+|que|vous|rempard%[m|assiez]|
+|qu'|ils|rempard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rempard%[m|é]|
+|que|tu|eusses|rempard%[m|é]|
+|qu'|il|eût|rempard%[m|é]|
+|que|nous|eussions|rempard%[m|é]|
+|que|vous|eussiez|rempard%[m|é]|
+|qu'|ils|eussent|rempard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rempard%[m|e]|
+|rempard%[m|ons]|
+|rempard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rempard%[m|é]|
+|ayons|rempard%[m|é]|
+|ayez|rempard%[m|é]|
+|]
+

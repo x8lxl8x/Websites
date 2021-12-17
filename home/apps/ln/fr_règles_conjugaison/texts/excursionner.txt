@@ -1,0 +1,190 @@
+# excursionner %[clVerbGroup|1]
+[-
+faire une excursion. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|excursionn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|excursionn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||excursionn%[m|é]|
+|ayant|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en excursionn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|excursionn%[m|e]|
+|tu|excursionn%[m|es]|
+|il|excursionn%[m|e]|
+|nous|excursionn%[m|ons]|
+|vous|excursionn%[m|ez]|
+|ils|excursionn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|excursionn%[m|é]|
+|tu|as |excursionn%[m|é]|
+|il|a|excursionn%[m|é]|
+|nous|avons|excursionn%[m|é]|
+|vous|avez|excursionn%[m|é]|
+|ils|ont|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|excursionn%[m|ais]|
+|tu|excursionn%[m|ais]|
+|il|excursionn%[m|ait]|
+|nous|excursionn%[m|ions]|
+|vous|excursionn%[m|iez]|
+|ils|excursionn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|excursionn%[m|é]|
+|tu|avais|excursionn%[m|é]|
+|il|avait|excursionn%[m|é]|
+|nous|avions|excursionn%[m|é]|
+|vous|aviez|excursionn%[m|é]|
+|ils|avaient|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|excursionn%[m|ai]|
+|tu|excursionn%[m|as]|
+|il|excursionn%[m|a]|
+|nous|excursionn%[m|âmes]|
+|vous|excursionn%[m|âtes]|
+|ils|excursionn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|excursionn%[m|é]|
+|tu|eus|excursionn%[m|é]|
+|il|eut|excursionn%[m|é]|
+|nous|e&ucirc;mes|excursionn%[m|é]|
+|vous|e&ucirc;tes|excursionn%[m|é]|
+|ils|eurent|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|excursionn%[m|erai]|
+|tu|excursionn%[m|eras]|
+|il|excursionn%[m|era]|
+|nous|excursionn%[m|erons]|
+|vous|excursionn%[m|erez]|
+|ils|excursionn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|excursionn%[m|é]|
+|tu|auras|excursionn%[m|é]|
+|il|aura|excursionn%[m|é]|
+|nous|aurons|excursionn%[m|é]|
+|vous|aurez|excursionn%[m|é]|
+|ils|auront|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|excursionn%[m|erais]|
+|tu|excursionn%[m|erais]|
+|il|excursionn%[m|erait]|
+|nous|excursionn%[m|erions]|
+|vous|excursionn%[m|eriez]|
+|ils|excursionn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|excursionn%[m|é]|
+|tu|aurais|excursionn%[m|é]|
+|il|aurait|excursionn%[m|é]|
+|nous|aurions|excursionn%[m|é]|
+|vous|auriez|excursionn%[m|é]|
+|ils|auraient|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|excursionn%[m|e]|
+|que|tu|excursionn%[m|es]|
+|qu'|il|excursionn%[m|e]|
+|que|nous|excursionn%[m|ions]|
+|que|vous|excursionn%[m|iez]|
+|qu'|ils|excursionn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|excursionn%[m|é]|
+|que|tu|aies|excursionn%[m|é]|
+|qu'|il|ait|excursionn%[m|é]|
+|que|nous|ayons|excursionn%[m|é]|
+|que|vous|ayez|excursionn%[m|é]|
+|qu'|ils|aient|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|excursionn%[m|asse]|
+|que|tu|excursionn%[m|asses]|
+|qu'|il|excursionn%[m|ât]|
+|que|nous|excursionn%[m|assions]|
+|que|vous|excursionn%[m|assiez]|
+|qu'|ils|excursionn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|excursionn%[m|é]|
+|que|tu|eusses|excursionn%[m|é]|
+|qu'|il|eût|excursionn%[m|é]|
+|que|nous|eussions|excursionn%[m|é]|
+|que|vous|eussiez|excursionn%[m|é]|
+|qu'|ils|eussent|excursionn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|excursionn%[m|e]|
+|excursionn%[m|ons]|
+|excursionn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|excursionn%[m|é]|
+|ayons|excursionn%[m|é]|
+|ayez|excursionn%[m|é]|
+|]
+

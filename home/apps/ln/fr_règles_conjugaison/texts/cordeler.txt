@@ -1,0 +1,190 @@
+# cordeler %[clVerbGroup|1]
+[-
+tordre en forme de corde. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cordel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cordel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cordel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cordel%[m|é]|
+|ayant|cordel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cordel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cordel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cordel%[m|l]%[m|e]|
+|tu|cordel%[m|l]%[m|es]|
+|il|cordel%[m|l]%[m|e]|
+|nous|cordel%[m|]%[m|ons]|
+|vous|cordel%[m|]%[m|ez]|
+|ils|cordel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cordel%[m|é]|
+|tu|as |cordel%[m|é]|
+|il|a|cordel%[m|é]|
+|nous|avons|cordel%[m|é]|
+|vous|avez|cordel%[m|é]|
+|ils|ont|cordel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cordel%[m|]%[m|ais]|
+|tu|cordel%[m|]%[m|ais]|
+|il|cordel%[m|]%[m|ait]|
+|nous|cordel%[m|]%[m|ions]|
+|vous|cordel%[m|]%[m|iez]|
+|ils|cordel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cordel%[m|é]|
+|tu|avais|cordel%[m|é]|
+|il|avait|cordel%[m|é]|
+|nous|avions|cordel%[m|é]|
+|vous|aviez|cordel%[m|é]|
+|ils|avaient|cordel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cordel%[m|]%[m|ai]|
+|tu|cordel%[m|]%[m|as]|
+|il|cordel%[m|]%[m|a]|
+|nous|cordel%[m|]%[m|âmes]|
+|vous|cordel%[m|]%[m|âtes]|
+|ils|cordel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cordel%[m|é]|
+|tu|eus|cordel%[m|é]|
+|il|eut|cordel%[m|é]|
+|nous|e&ucirc;mes|cordel%[m|é]|
+|vous|e&ucirc;tes|cordel%[m|é]|
+|ils|eurent|cordel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cordel%[m|l]%[m|erai]|
+|tu|cordel%[m|l]%[m|eras]|
+|il|cordel%[m|l]%[m|era]|
+|nous|cordel%[m|l]%[m|erons]|
+|vous|cordel%[m|l]%[m|erez]|
+|ils|cordel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cordel%[m|é]|
+|tu|auras|cordel%[m|é]|
+|il|aura|cordel%[m|é]|
+|nous|aurons|cordel%[m|é]|
+|vous|aurez|cordel%[m|é]|
+|ils|auront|cordel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cordel%[m|l]%[m|erais]|
+|tu|cordel%[m|l]%[m|erais]|
+|il|cordel%[m|l]%[m|erait]|
+|nous|cordel%[m|l]%[m|erions]|
+|vous|cordel%[m|l]%[m|eriez]|
+|ils|cordel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cordel%[m|é]|
+|tu|aurais|cordel%[m|é]|
+|il|aurait|cordel%[m|é]|
+|nous|aurions|cordel%[m|é]|
+|vous|auriez|cordel%[m|é]|
+|ils|auraient|cordel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cordel%[m|l]%[m|e]|
+|que|tu|cordel%[m|l]%[m|es]|
+|qu'|il|cordel%[m|l]%[m|e]|
+|que|nous|cordel%[m|]%[m|ions]|
+|que|vous|cordel%[m|]%[m|iez]|
+|qu'|ils|cordel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cordel%[m|é]|
+|que|tu|aies|cordel%[m|é]|
+|qu'|il|ait|cordel%[m|é]|
+|que|nous|ayons|cordel%[m|é]|
+|que|vous|ayez|cordel%[m|é]|
+|qu'|ils|aient|cordel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cordel%[m|]%[m|asse]|
+|que|tu|cordel%[m|]%[m|asses]|
+|qu'|il|cordel%[m|]%[m|ât]|
+|que|nous|cordel%[m|]%[m|assions]|
+|que|vous|cordel%[m|]%[m|assiez]|
+|qu'|ils|cordel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cordel%[m|é]|
+|que|tu|eusses|cordel%[m|é]|
+|qu'|il|eût|cordel%[m|é]|
+|que|nous|eussions|cordel%[m|é]|
+|que|vous|eussiez|cordel%[m|é]|
+|qu'|ils|eussent|cordel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cordel%[m|l]%[m|e]|
+|cordel%[m|]%[m|ons]|
+|cordel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cordel%[m|é]|
+|ayons|cordel%[m|é]|
+|ayez|cordel%[m|é]|
+|]
+

@@ -1,0 +1,192 @@
+# sembler %[clVerbGroup|1]
+[-
+présenter un aspect particulier. 
+avoir l'air de, donner l'impression de. 
+donner l'impression, donner à penser que. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sembl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sembl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sembl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sembl%[m|é]|
+|ayant|sembl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sembl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sembl%[m|e]|
+|tu|sembl%[m|es]|
+|il|sembl%[m|e]|
+|nous|sembl%[m|ons]|
+|vous|sembl%[m|ez]|
+|ils|sembl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sembl%[m|é]|
+|tu|as |sembl%[m|é]|
+|il|a|sembl%[m|é]|
+|nous|avons|sembl%[m|é]|
+|vous|avez|sembl%[m|é]|
+|ils|ont|sembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sembl%[m|ais]|
+|tu|sembl%[m|ais]|
+|il|sembl%[m|ait]|
+|nous|sembl%[m|ions]|
+|vous|sembl%[m|iez]|
+|ils|sembl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sembl%[m|é]|
+|tu|avais|sembl%[m|é]|
+|il|avait|sembl%[m|é]|
+|nous|avions|sembl%[m|é]|
+|vous|aviez|sembl%[m|é]|
+|ils|avaient|sembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sembl%[m|ai]|
+|tu|sembl%[m|as]|
+|il|sembl%[m|a]|
+|nous|sembl%[m|âmes]|
+|vous|sembl%[m|âtes]|
+|ils|sembl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sembl%[m|é]|
+|tu|eus|sembl%[m|é]|
+|il|eut|sembl%[m|é]|
+|nous|e&ucirc;mes|sembl%[m|é]|
+|vous|e&ucirc;tes|sembl%[m|é]|
+|ils|eurent|sembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sembl%[m|erai]|
+|tu|sembl%[m|eras]|
+|il|sembl%[m|era]|
+|nous|sembl%[m|erons]|
+|vous|sembl%[m|erez]|
+|ils|sembl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sembl%[m|é]|
+|tu|auras|sembl%[m|é]|
+|il|aura|sembl%[m|é]|
+|nous|aurons|sembl%[m|é]|
+|vous|aurez|sembl%[m|é]|
+|ils|auront|sembl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sembl%[m|erais]|
+|tu|sembl%[m|erais]|
+|il|sembl%[m|erait]|
+|nous|sembl%[m|erions]|
+|vous|sembl%[m|eriez]|
+|ils|sembl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sembl%[m|é]|
+|tu|aurais|sembl%[m|é]|
+|il|aurait|sembl%[m|é]|
+|nous|aurions|sembl%[m|é]|
+|vous|auriez|sembl%[m|é]|
+|ils|auraient|sembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sembl%[m|e]|
+|que|tu|sembl%[m|es]|
+|qu'|il|sembl%[m|e]|
+|que|nous|sembl%[m|ions]|
+|que|vous|sembl%[m|iez]|
+|qu'|ils|sembl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sembl%[m|é]|
+|que|tu|aies|sembl%[m|é]|
+|qu'|il|ait|sembl%[m|é]|
+|que|nous|ayons|sembl%[m|é]|
+|que|vous|ayez|sembl%[m|é]|
+|qu'|ils|aient|sembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sembl%[m|asse]|
+|que|tu|sembl%[m|asses]|
+|qu'|il|sembl%[m|ât]|
+|que|nous|sembl%[m|assions]|
+|que|vous|sembl%[m|assiez]|
+|qu'|ils|sembl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sembl%[m|é]|
+|que|tu|eusses|sembl%[m|é]|
+|qu'|il|eût|sembl%[m|é]|
+|que|nous|eussions|sembl%[m|é]|
+|que|vous|eussiez|sembl%[m|é]|
+|qu'|ils|eussent|sembl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sembl%[m|e]|
+|sembl%[m|ons]|
+|sembl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sembl%[m|é]|
+|ayons|sembl%[m|é]|
+|ayez|sembl%[m|é]|
+|]
+

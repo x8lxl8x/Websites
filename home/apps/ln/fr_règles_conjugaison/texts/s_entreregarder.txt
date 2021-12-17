@@ -1,0 +1,190 @@
+# s'entreregarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'entreregard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|entreregard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'entreregard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|entreregard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'entreregard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|entreregard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|entreregard%[m|e]|
+|tu|t'|entreregard%[m|es]|
+|il|s'|entreregard%[m|e]|
+|nous|nous|entreregard%[m|ons]|
+|vous|vous|entreregard%[m|ez]|
+|ils|s'|entreregard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|entreregard%[m|é]|
+|tu|t'|es|entreregard%[m|é]|
+|il|s'|est|entreregard%[m|é]|
+|nous|nous|sommes|entreregard%[m|és]|
+|vous|vous|êtes|entreregard%[m|és]|
+|ils|se|sont|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|entreregard%[m|ais]|
+|tu|t'|entreregard%[m|ais]|
+|il|s'|entreregard%[m|ait]|
+|nous|nous|entreregard%[m|ions]|
+|vous|vous|entreregard%[m|iez]|
+|ils|s'|entreregard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|entreregard%[m|é]|
+|tu|t'|étais|entreregard%[m|é]|
+|il|s'|était|entreregard%[m|é]|
+|nous|nous|étions|entreregard%[m|és]|
+|vous|vous|étiez|entreregard%[m|és]|
+|ils|s'|étaient|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|entreregard%[m|ai]|
+|tu|t'|entreregard%[m|as]|
+|il|s'|entreregard%[m|a]|
+|nous|nous|entreregard%[m|âmes]|
+|vous|vous|entreregard%[m|âtes]|
+|ils|s'|entreregard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|entreregard%[m|é]|
+|tu|te|fus|entreregard%[m|é]|
+|il|se|fut|entreregard%[m|é]|
+|nous|nous|fûmes|entreregard%[m|és]|
+|vous|vous|fûtes|entreregard%[m|és]|
+|ils|se|furent|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|entreregard%[m|erai]|
+|tu|t'|entreregard%[m|eras]|
+|il|s'|entreregard%[m|era]|
+|nous|nous|entreregard%[m|erons]|
+|vous|vous|entreregard%[m|erez]|
+|ils|s'|entreregard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|entreregard%[m|é]|
+|tu|te|seras|entreregard%[m|é]|
+|il|se|sera|entreregard%[m|é]|
+|nous|nous|serons|entreregard%[m|és]|
+|vous|vous|serez|entreregard%[m|és]|
+|ils|se|seront|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|entreregard%[m|erais]|
+|tu|t'|entreregard%[m|erais]|
+|il|s'|entreregard%[m|erait]|
+|nous|nous|entreregard%[m|erions]|
+|vous|vous|entreregard%[m|eriez]|
+|ils|s'|entreregard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|entreregard%[m|é]|
+|tu|te|serais|entreregard%[m|é]|
+|il|se|serait|entreregard%[m|é]|
+|nous|nous|serions|entreregard%[m|és]|
+|vous|vous|seriez|entreregard%[m|és]|
+|ils|se|seraient|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|entreregard%[m|e]|
+|que|tu|t'|entreregard%[m|es]|
+|qu'|il|s'|entreregard%[m|e]|
+|que|nous|nous|entreregard%[m|ions]|
+|que|vous|vous|entreregard%[m|iez]|
+|qu'|ils|s'|entreregard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|entreregard%[m|é]|
+|que|tu|te|sois|entreregard%[m|é]|
+|qu'|il|se|soit|entreregard%[m|é]|
+|que|nous|nous|soyons|entreregard%[m|és]|
+|que|vous|vous|soyez|entreregard%[m|és]|
+|qu'|ils|se|soient|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|entreregard%[m|asse]|
+|que|tu|t'|entreregard%[m|asses]|
+|qu'|il|s'|entreregard%[m|ât]|
+|que|nous|nous|entreregard%[m|assions]|
+|que|vous|vous|entreregard%[m|assiez]|
+|qu'|ils|s'|entreregard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|entreregard%[m|é]|
+|que|tu|te|fusses|entreregard%[m|é]|
+|qu'|il|se|fût|entreregard%[m|é]|
+|que|nous|nous|fussions|entreregard%[m|és]|
+|que|vous|vous|fussiez|entreregard%[m|és]|
+|qu'|ils|se|fussent|entreregard%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|entreregard%[m|e]-toi|
+|entreregard%[m|ons]-nous|
+|entreregard%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

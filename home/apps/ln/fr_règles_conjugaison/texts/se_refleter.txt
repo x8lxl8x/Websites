@@ -1,0 +1,190 @@
+# se refléter %[clVerbGroup|1]
+[-
+se réfléchir plus ou moins distinctement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se refl%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|reflét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se refl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|reflét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se refl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|reflét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|refl%[m|è]t%[m|e]|
+|tu|te|refl%[m|è]t%[m|es]|
+|il|se|refl%[m|è]t%[m|e]|
+|nous|nous|refl%[m|é]t%[m|ons]|
+|vous|vous|refl%[m|é]t%[m|ez]|
+|ils|se|refl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|reflét%[m|é]|
+|tu|t'|es|reflét%[m|é]|
+|il|s'|est|reflét%[m|é]|
+|nous|nous|sommes|reflét%[m|és]|
+|vous|vous|êtes|reflét%[m|és]|
+|ils|se|sont|reflét%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|refl%[m|é]t%[m|ais]|
+|tu|te|refl%[m|é]t%[m|ais]|
+|il|se|refl%[m|é]t%[m|ait]|
+|nous|nous|refl%[m|é]t%[m|ions]|
+|vous|vous|refl%[m|é]t%[m|iez]|
+|ils|se|refl%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|reflét%[m|é]|
+|tu|t'|étais|reflét%[m|é]|
+|il|s'|était|reflét%[m|é]|
+|nous|nous|étions|reflét%[m|és]|
+|vous|vous|étiez|reflét%[m|és]|
+|ils|s'|étaient|reflét%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|refl%[m|é]t%[m|ai]|
+|tu|te|refl%[m|é]t%[m|as]|
+|il|se|refl%[m|é]t%[m|a]|
+|nous|nous|refl%[m|é]t%[m|âmes]|
+|vous|vous|refl%[m|é]t%[m|âtes]|
+|ils|se|refl%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|reflét%[m|é]|
+|tu|te|fus|reflét%[m|é]|
+|il|se|fut|reflét%[m|é]|
+|nous|nous|fûmes|reflét%[m|és]|
+|vous|vous|fûtes|reflét%[m|és]|
+|ils|se|furent|reflét%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|refl%[m|é]t%[m|erai]|
+|tu|te|refl%[m|é]t%[m|eras]|
+|il|se|refl%[m|é]t%[m|era]|
+|nous|nous|refl%[m|é]t%[m|erons]|
+|vous|vous|refl%[m|é]t%[m|erez]|
+|ils|se|refl%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|reflét%[m|é]|
+|tu|te|seras|reflét%[m|é]|
+|il|se|sera|reflét%[m|é]|
+|nous|nous|serons|reflét%[m|és]|
+|vous|vous|serez|reflét%[m|és]|
+|ils|se|seront|reflét%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|refl%[m|é]t%[m|erais]|
+|tu|te|refl%[m|é]t%[m|erais]|
+|il|se|refl%[m|é]t%[m|erait]|
+|nous|nous|refl%[m|é]t%[m|erions]|
+|vous|vous|refl%[m|é]t%[m|eriez]|
+|ils|se|refl%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|reflét%[m|é]|
+|tu|te|serais|reflét%[m|é]|
+|il|se|serait|reflét%[m|é]|
+|nous|nous|serions|reflét%[m|és]|
+|vous|vous|seriez|reflét%[m|és]|
+|ils|se|seraient|reflét%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|refl%[m|è]t%[m|e]|
+|que|tu|te|refl%[m|è]t%[m|es]|
+|qu'|il|se|refl%[m|è]t%[m|e]|
+|que|nous|nous|refl%[m|é]t%[m|ions]|
+|que|vous|vous|refl%[m|é]t%[m|iez]|
+|qu'|ils|se|refl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|reflét%[m|é]|
+|que|tu|te|sois|reflét%[m|é]|
+|qu'|il|se|soit|reflét%[m|é]|
+|que|nous|nous|soyons|reflét%[m|és]|
+|que|vous|vous|soyez|reflét%[m|és]|
+|qu'|ils|se|soient|reflét%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|refl%[m|é]t%[m|asse]|
+|que|tu|te|refl%[m|é]t%[m|asses]|
+|qu'|il|se|refl%[m|é]t%[m|ât]|
+|que|nous|nous|refl%[m|é]t%[m|assions]|
+|que|vous|vous|refl%[m|é]t%[m|assiez]|
+|qu'|ils|se|refl%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|reflét%[m|é]|
+|que|tu|te|fusses|reflét%[m|é]|
+|qu'|il|se|fût|reflét%[m|é]|
+|que|nous|nous|fussions|reflét%[m|és]|
+|que|vous|vous|fussiez|reflét%[m|és]|
+|qu'|ils|se|fussent|reflét%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|refl%[m|è]t%[m|e]-toi|
+|refl%[m|é]t%[m|ons]-nous|
+|refl%[m|é]t%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

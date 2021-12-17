@@ -1,0 +1,190 @@
+# scanner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|scann%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|scann%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|scann%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||scann%[m|é]|
+|ayant|scann%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en scann%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|scann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|scann%[m|e]|
+|tu|scann%[m|es]|
+|il|scann%[m|e]|
+|nous|scann%[m|ons]|
+|vous|scann%[m|ez]|
+|ils|scann%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|scann%[m|é]|
+|tu|as |scann%[m|é]|
+|il|a|scann%[m|é]|
+|nous|avons|scann%[m|é]|
+|vous|avez|scann%[m|é]|
+|ils|ont|scann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|scann%[m|ais]|
+|tu|scann%[m|ais]|
+|il|scann%[m|ait]|
+|nous|scann%[m|ions]|
+|vous|scann%[m|iez]|
+|ils|scann%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|scann%[m|é]|
+|tu|avais|scann%[m|é]|
+|il|avait|scann%[m|é]|
+|nous|avions|scann%[m|é]|
+|vous|aviez|scann%[m|é]|
+|ils|avaient|scann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|scann%[m|ai]|
+|tu|scann%[m|as]|
+|il|scann%[m|a]|
+|nous|scann%[m|âmes]|
+|vous|scann%[m|âtes]|
+|ils|scann%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|scann%[m|é]|
+|tu|eus|scann%[m|é]|
+|il|eut|scann%[m|é]|
+|nous|e&ucirc;mes|scann%[m|é]|
+|vous|e&ucirc;tes|scann%[m|é]|
+|ils|eurent|scann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|scann%[m|erai]|
+|tu|scann%[m|eras]|
+|il|scann%[m|era]|
+|nous|scann%[m|erons]|
+|vous|scann%[m|erez]|
+|ils|scann%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|scann%[m|é]|
+|tu|auras|scann%[m|é]|
+|il|aura|scann%[m|é]|
+|nous|aurons|scann%[m|é]|
+|vous|aurez|scann%[m|é]|
+|ils|auront|scann%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|scann%[m|erais]|
+|tu|scann%[m|erais]|
+|il|scann%[m|erait]|
+|nous|scann%[m|erions]|
+|vous|scann%[m|eriez]|
+|ils|scann%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|scann%[m|é]|
+|tu|aurais|scann%[m|é]|
+|il|aurait|scann%[m|é]|
+|nous|aurions|scann%[m|é]|
+|vous|auriez|scann%[m|é]|
+|ils|auraient|scann%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|scann%[m|e]|
+|que|tu|scann%[m|es]|
+|qu'|il|scann%[m|e]|
+|que|nous|scann%[m|ions]|
+|que|vous|scann%[m|iez]|
+|qu'|ils|scann%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|scann%[m|é]|
+|que|tu|aies|scann%[m|é]|
+|qu'|il|ait|scann%[m|é]|
+|que|nous|ayons|scann%[m|é]|
+|que|vous|ayez|scann%[m|é]|
+|qu'|ils|aient|scann%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|scann%[m|asse]|
+|que|tu|scann%[m|asses]|
+|qu'|il|scann%[m|ât]|
+|que|nous|scann%[m|assions]|
+|que|vous|scann%[m|assiez]|
+|qu'|ils|scann%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|scann%[m|é]|
+|que|tu|eusses|scann%[m|é]|
+|qu'|il|eût|scann%[m|é]|
+|que|nous|eussions|scann%[m|é]|
+|que|vous|eussiez|scann%[m|é]|
+|qu'|ils|eussent|scann%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|scann%[m|e]|
+|scann%[m|ons]|
+|scann%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|scann%[m|é]|
+|ayons|scann%[m|é]|
+|ayez|scann%[m|é]|
+|]
+

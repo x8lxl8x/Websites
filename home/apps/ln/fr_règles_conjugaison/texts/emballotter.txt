@@ -1,0 +1,190 @@
+# emballotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|emballott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|emballott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|emballott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||emballott%[m|é]|
+|ayant|emballott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en emballott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|emballott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|emballott%[m|e]|
+|tu|emballott%[m|es]|
+|il|emballott%[m|e]|
+|nous|emballott%[m|ons]|
+|vous|emballott%[m|ez]|
+|ils|emballott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|emballott%[m|é]|
+|tu|as |emballott%[m|é]|
+|il|a|emballott%[m|é]|
+|nous|avons|emballott%[m|é]|
+|vous|avez|emballott%[m|é]|
+|ils|ont|emballott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|emballott%[m|ais]|
+|tu|emballott%[m|ais]|
+|il|emballott%[m|ait]|
+|nous|emballott%[m|ions]|
+|vous|emballott%[m|iez]|
+|ils|emballott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|emballott%[m|é]|
+|tu|avais|emballott%[m|é]|
+|il|avait|emballott%[m|é]|
+|nous|avions|emballott%[m|é]|
+|vous|aviez|emballott%[m|é]|
+|ils|avaient|emballott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|emballott%[m|ai]|
+|tu|emballott%[m|as]|
+|il|emballott%[m|a]|
+|nous|emballott%[m|âmes]|
+|vous|emballott%[m|âtes]|
+|ils|emballott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|emballott%[m|é]|
+|tu|eus|emballott%[m|é]|
+|il|eut|emballott%[m|é]|
+|nous|e&ucirc;mes|emballott%[m|é]|
+|vous|e&ucirc;tes|emballott%[m|é]|
+|ils|eurent|emballott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|emballott%[m|erai]|
+|tu|emballott%[m|eras]|
+|il|emballott%[m|era]|
+|nous|emballott%[m|erons]|
+|vous|emballott%[m|erez]|
+|ils|emballott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|emballott%[m|é]|
+|tu|auras|emballott%[m|é]|
+|il|aura|emballott%[m|é]|
+|nous|aurons|emballott%[m|é]|
+|vous|aurez|emballott%[m|é]|
+|ils|auront|emballott%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|emballott%[m|erais]|
+|tu|emballott%[m|erais]|
+|il|emballott%[m|erait]|
+|nous|emballott%[m|erions]|
+|vous|emballott%[m|eriez]|
+|ils|emballott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|emballott%[m|é]|
+|tu|aurais|emballott%[m|é]|
+|il|aurait|emballott%[m|é]|
+|nous|aurions|emballott%[m|é]|
+|vous|auriez|emballott%[m|é]|
+|ils|auraient|emballott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|emballott%[m|e]|
+|que|tu|emballott%[m|es]|
+|qu'|il|emballott%[m|e]|
+|que|nous|emballott%[m|ions]|
+|que|vous|emballott%[m|iez]|
+|qu'|ils|emballott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|emballott%[m|é]|
+|que|tu|aies|emballott%[m|é]|
+|qu'|il|ait|emballott%[m|é]|
+|que|nous|ayons|emballott%[m|é]|
+|que|vous|ayez|emballott%[m|é]|
+|qu'|ils|aient|emballott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|emballott%[m|asse]|
+|que|tu|emballott%[m|asses]|
+|qu'|il|emballott%[m|ât]|
+|que|nous|emballott%[m|assions]|
+|que|vous|emballott%[m|assiez]|
+|qu'|ils|emballott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|emballott%[m|é]|
+|que|tu|eusses|emballott%[m|é]|
+|qu'|il|eût|emballott%[m|é]|
+|que|nous|eussions|emballott%[m|é]|
+|que|vous|eussiez|emballott%[m|é]|
+|qu'|ils|eussent|emballott%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emballott%[m|e]|
+|emballott%[m|ons]|
+|emballott%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|emballott%[m|é]|
+|ayons|emballott%[m|é]|
+|ayez|emballott%[m|é]|
+|]
+

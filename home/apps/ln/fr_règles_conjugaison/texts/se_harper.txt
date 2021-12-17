@@ -1,0 +1,190 @@
+# se harper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se harp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|harp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se harp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|harp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se harp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|harp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|harp%[m|e]|
+|tu|te|harp%[m|es]|
+|il|se|harp%[m|e]|
+|nous|nous|harp%[m|ons]|
+|vous|vous|harp%[m|ez]|
+|ils|se|harp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|harp%[m|é]|
+|tu|t'|es|harp%[m|é]|
+|il|s'|est|harp%[m|é]|
+|nous|nous|sommes|harp%[m|és]|
+|vous|vous|êtes|harp%[m|és]|
+|ils|se|sont|harp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|harp%[m|ais]|
+|tu|te|harp%[m|ais]|
+|il|se|harp%[m|ait]|
+|nous|nous|harp%[m|ions]|
+|vous|vous|harp%[m|iez]|
+|ils|se|harp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|harp%[m|é]|
+|tu|t'|étais|harp%[m|é]|
+|il|s'|était|harp%[m|é]|
+|nous|nous|étions|harp%[m|és]|
+|vous|vous|étiez|harp%[m|és]|
+|ils|s'|étaient|harp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|harp%[m|ai]|
+|tu|te|harp%[m|as]|
+|il|se|harp%[m|a]|
+|nous|nous|harp%[m|âmes]|
+|vous|vous|harp%[m|âtes]|
+|ils|se|harp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|harp%[m|é]|
+|tu|te|fus|harp%[m|é]|
+|il|se|fut|harp%[m|é]|
+|nous|nous|fûmes|harp%[m|és]|
+|vous|vous|fûtes|harp%[m|és]|
+|ils|se|furent|harp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|harp%[m|erai]|
+|tu|te|harp%[m|eras]|
+|il|se|harp%[m|era]|
+|nous|nous|harp%[m|erons]|
+|vous|vous|harp%[m|erez]|
+|ils|se|harp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|harp%[m|é]|
+|tu|te|seras|harp%[m|é]|
+|il|se|sera|harp%[m|é]|
+|nous|nous|serons|harp%[m|és]|
+|vous|vous|serez|harp%[m|és]|
+|ils|se|seront|harp%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|harp%[m|erais]|
+|tu|te|harp%[m|erais]|
+|il|se|harp%[m|erait]|
+|nous|nous|harp%[m|erions]|
+|vous|vous|harp%[m|eriez]|
+|ils|se|harp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|harp%[m|é]|
+|tu|te|serais|harp%[m|é]|
+|il|se|serait|harp%[m|é]|
+|nous|nous|serions|harp%[m|és]|
+|vous|vous|seriez|harp%[m|és]|
+|ils|se|seraient|harp%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|harp%[m|e]|
+|que|tu|te|harp%[m|es]|
+|qu'|il|se|harp%[m|e]|
+|que|nous|nous|harp%[m|ions]|
+|que|vous|vous|harp%[m|iez]|
+|qu'|ils|se|harp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|harp%[m|é]|
+|que|tu|te|sois|harp%[m|é]|
+|qu'|il|se|soit|harp%[m|é]|
+|que|nous|nous|soyons|harp%[m|és]|
+|que|vous|vous|soyez|harp%[m|és]|
+|qu'|ils|se|soient|harp%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|harp%[m|asse]|
+|que|tu|te|harp%[m|asses]|
+|qu'|il|se|harp%[m|ât]|
+|que|nous|nous|harp%[m|assions]|
+|que|vous|vous|harp%[m|assiez]|
+|qu'|ils|se|harp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|harp%[m|é]|
+|que|tu|te|fusses|harp%[m|é]|
+|qu'|il|se|fût|harp%[m|é]|
+|que|nous|nous|fussions|harp%[m|és]|
+|que|vous|vous|fussiez|harp%[m|és]|
+|qu'|ils|se|fussent|harp%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|harp%[m|e]-toi|
+|harp%[m|ons]-nous|
+|harp%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

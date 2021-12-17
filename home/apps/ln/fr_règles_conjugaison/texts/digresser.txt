@@ -1,0 +1,190 @@
+# digresser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|digress%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|digress%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|digress%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||digress%[m|é]|
+|ayant|digress%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en digress%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|digress%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|digress%[m|e]|
+|tu|digress%[m|es]|
+|il|digress%[m|e]|
+|nous|digress%[m|ons]|
+|vous|digress%[m|ez]|
+|ils|digress%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|digress%[m|é]|
+|tu|as |digress%[m|é]|
+|il|a|digress%[m|é]|
+|nous|avons|digress%[m|é]|
+|vous|avez|digress%[m|é]|
+|ils|ont|digress%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|digress%[m|ais]|
+|tu|digress%[m|ais]|
+|il|digress%[m|ait]|
+|nous|digress%[m|ions]|
+|vous|digress%[m|iez]|
+|ils|digress%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|digress%[m|é]|
+|tu|avais|digress%[m|é]|
+|il|avait|digress%[m|é]|
+|nous|avions|digress%[m|é]|
+|vous|aviez|digress%[m|é]|
+|ils|avaient|digress%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|digress%[m|ai]|
+|tu|digress%[m|as]|
+|il|digress%[m|a]|
+|nous|digress%[m|âmes]|
+|vous|digress%[m|âtes]|
+|ils|digress%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|digress%[m|é]|
+|tu|eus|digress%[m|é]|
+|il|eut|digress%[m|é]|
+|nous|e&ucirc;mes|digress%[m|é]|
+|vous|e&ucirc;tes|digress%[m|é]|
+|ils|eurent|digress%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|digress%[m|erai]|
+|tu|digress%[m|eras]|
+|il|digress%[m|era]|
+|nous|digress%[m|erons]|
+|vous|digress%[m|erez]|
+|ils|digress%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|digress%[m|é]|
+|tu|auras|digress%[m|é]|
+|il|aura|digress%[m|é]|
+|nous|aurons|digress%[m|é]|
+|vous|aurez|digress%[m|é]|
+|ils|auront|digress%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|digress%[m|erais]|
+|tu|digress%[m|erais]|
+|il|digress%[m|erait]|
+|nous|digress%[m|erions]|
+|vous|digress%[m|eriez]|
+|ils|digress%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|digress%[m|é]|
+|tu|aurais|digress%[m|é]|
+|il|aurait|digress%[m|é]|
+|nous|aurions|digress%[m|é]|
+|vous|auriez|digress%[m|é]|
+|ils|auraient|digress%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|digress%[m|e]|
+|que|tu|digress%[m|es]|
+|qu'|il|digress%[m|e]|
+|que|nous|digress%[m|ions]|
+|que|vous|digress%[m|iez]|
+|qu'|ils|digress%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|digress%[m|é]|
+|que|tu|aies|digress%[m|é]|
+|qu'|il|ait|digress%[m|é]|
+|que|nous|ayons|digress%[m|é]|
+|que|vous|ayez|digress%[m|é]|
+|qu'|ils|aient|digress%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|digress%[m|asse]|
+|que|tu|digress%[m|asses]|
+|qu'|il|digress%[m|ât]|
+|que|nous|digress%[m|assions]|
+|que|vous|digress%[m|assiez]|
+|qu'|ils|digress%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|digress%[m|é]|
+|que|tu|eusses|digress%[m|é]|
+|qu'|il|eût|digress%[m|é]|
+|que|nous|eussions|digress%[m|é]|
+|que|vous|eussiez|digress%[m|é]|
+|qu'|ils|eussent|digress%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|digress%[m|e]|
+|digress%[m|ons]|
+|digress%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|digress%[m|é]|
+|ayons|digress%[m|é]|
+|ayez|digress%[m|é]|
+|]
+

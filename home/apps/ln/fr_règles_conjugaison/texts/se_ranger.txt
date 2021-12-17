@@ -1,0 +1,190 @@
+# se ranger %[clVerbGroup|1]
+[-
+adopter un mode de vie plus conformiste. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rang%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rang%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rang%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rang%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rang%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rang%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rang%[m|e]|
+|tu|te|rang%[m|es]|
+|il|se|rang%[m|e]|
+|nous|nous|rang%[m|eons]|
+|vous|vous|rang%[m|ez]|
+|ils|se|rang%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rang%[m|é]|
+|tu|t'|es|rang%[m|é]|
+|il|s'|est|rang%[m|é]|
+|nous|nous|sommes|rang%[m|és]|
+|vous|vous|êtes|rang%[m|és]|
+|ils|se|sont|rang%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rang%[m|eais]|
+|tu|te|rang%[m|eais]|
+|il|se|rang%[m|eait]|
+|nous|nous|rang%[m|ions]|
+|vous|vous|rang%[m|iez]|
+|ils|se|rang%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rang%[m|é]|
+|tu|t'|étais|rang%[m|é]|
+|il|s'|était|rang%[m|é]|
+|nous|nous|étions|rang%[m|és]|
+|vous|vous|étiez|rang%[m|és]|
+|ils|s'|étaient|rang%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rang%[m|eai]|
+|tu|te|rang%[m|eas]|
+|il|se|rang%[m|ea]|
+|nous|nous|rang%[m|eâmes]|
+|vous|vous|rang%[m|eâtes]|
+|ils|se|rang%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rang%[m|é]|
+|tu|te|fus|rang%[m|é]|
+|il|se|fut|rang%[m|é]|
+|nous|nous|fûmes|rang%[m|és]|
+|vous|vous|fûtes|rang%[m|és]|
+|ils|se|furent|rang%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rang%[m|erai]|
+|tu|te|rang%[m|eras]|
+|il|se|rang%[m|era]|
+|nous|nous|rang%[m|erons]|
+|vous|vous|rang%[m|erez]|
+|ils|se|rang%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rang%[m|é]|
+|tu|te|seras|rang%[m|é]|
+|il|se|sera|rang%[m|é]|
+|nous|nous|serons|rang%[m|és]|
+|vous|vous|serez|rang%[m|és]|
+|ils|se|seront|rang%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rang%[m|erais]|
+|tu|te|rang%[m|erais]|
+|il|se|rang%[m|erait]|
+|nous|nous|rang%[m|erions]|
+|vous|vous|rang%[m|eriez]|
+|ils|se|rang%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rang%[m|é]|
+|tu|te|serais|rang%[m|é]|
+|il|se|serait|rang%[m|é]|
+|nous|nous|serions|rang%[m|és]|
+|vous|vous|seriez|rang%[m|és]|
+|ils|se|seraient|rang%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rang%[m|e]|
+|que|tu|te|rang%[m|es]|
+|qu'|il|se|rang%[m|e]|
+|que|nous|nous|rang%[m|ions]|
+|que|vous|vous|rang%[m|iez]|
+|qu'|ils|se|rang%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rang%[m|é]|
+|que|tu|te|sois|rang%[m|é]|
+|qu'|il|se|soit|rang%[m|é]|
+|que|nous|nous|soyons|rang%[m|és]|
+|que|vous|vous|soyez|rang%[m|és]|
+|qu'|ils|se|soient|rang%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rang%[m|easse]|
+|que|tu|te|rang%[m|easses]|
+|qu'|il|se|rang%[m|eât]|
+|que|nous|nous|rang%[m|eassions]|
+|que|vous|vous|rang%[m|eassiez]|
+|qu'|ils|se|rang%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rang%[m|é]|
+|que|tu|te|fusses|rang%[m|é]|
+|qu'|il|se|fût|rang%[m|é]|
+|que|nous|nous|fussions|rang%[m|és]|
+|que|vous|vous|fussiez|rang%[m|és]|
+|qu'|ils|se|fussent|rang%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rang%[m|e]-toi|
+|rang%[m|eons]-nous|
+|rang%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

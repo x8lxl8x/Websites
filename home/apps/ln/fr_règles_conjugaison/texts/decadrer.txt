@@ -1,0 +1,190 @@
+# décadrer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décadr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décadr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décadr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décadr%[m|é]|
+|ayant|décadr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décadr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décadr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décadr%[m|e]|
+|tu|décadr%[m|es]|
+|il|décadr%[m|e]|
+|nous|décadr%[m|ons]|
+|vous|décadr%[m|ez]|
+|ils|décadr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décadr%[m|é]|
+|tu|as |décadr%[m|é]|
+|il|a|décadr%[m|é]|
+|nous|avons|décadr%[m|é]|
+|vous|avez|décadr%[m|é]|
+|ils|ont|décadr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décadr%[m|ais]|
+|tu|décadr%[m|ais]|
+|il|décadr%[m|ait]|
+|nous|décadr%[m|ions]|
+|vous|décadr%[m|iez]|
+|ils|décadr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décadr%[m|é]|
+|tu|avais|décadr%[m|é]|
+|il|avait|décadr%[m|é]|
+|nous|avions|décadr%[m|é]|
+|vous|aviez|décadr%[m|é]|
+|ils|avaient|décadr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décadr%[m|ai]|
+|tu|décadr%[m|as]|
+|il|décadr%[m|a]|
+|nous|décadr%[m|âmes]|
+|vous|décadr%[m|âtes]|
+|ils|décadr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décadr%[m|é]|
+|tu|eus|décadr%[m|é]|
+|il|eut|décadr%[m|é]|
+|nous|e&ucirc;mes|décadr%[m|é]|
+|vous|e&ucirc;tes|décadr%[m|é]|
+|ils|eurent|décadr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décadr%[m|erai]|
+|tu|décadr%[m|eras]|
+|il|décadr%[m|era]|
+|nous|décadr%[m|erons]|
+|vous|décadr%[m|erez]|
+|ils|décadr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décadr%[m|é]|
+|tu|auras|décadr%[m|é]|
+|il|aura|décadr%[m|é]|
+|nous|aurons|décadr%[m|é]|
+|vous|aurez|décadr%[m|é]|
+|ils|auront|décadr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décadr%[m|erais]|
+|tu|décadr%[m|erais]|
+|il|décadr%[m|erait]|
+|nous|décadr%[m|erions]|
+|vous|décadr%[m|eriez]|
+|ils|décadr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décadr%[m|é]|
+|tu|aurais|décadr%[m|é]|
+|il|aurait|décadr%[m|é]|
+|nous|aurions|décadr%[m|é]|
+|vous|auriez|décadr%[m|é]|
+|ils|auraient|décadr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décadr%[m|e]|
+|que|tu|décadr%[m|es]|
+|qu'|il|décadr%[m|e]|
+|que|nous|décadr%[m|ions]|
+|que|vous|décadr%[m|iez]|
+|qu'|ils|décadr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décadr%[m|é]|
+|que|tu|aies|décadr%[m|é]|
+|qu'|il|ait|décadr%[m|é]|
+|que|nous|ayons|décadr%[m|é]|
+|que|vous|ayez|décadr%[m|é]|
+|qu'|ils|aient|décadr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décadr%[m|asse]|
+|que|tu|décadr%[m|asses]|
+|qu'|il|décadr%[m|ât]|
+|que|nous|décadr%[m|assions]|
+|que|vous|décadr%[m|assiez]|
+|qu'|ils|décadr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décadr%[m|é]|
+|que|tu|eusses|décadr%[m|é]|
+|qu'|il|eût|décadr%[m|é]|
+|que|nous|eussions|décadr%[m|é]|
+|que|vous|eussiez|décadr%[m|é]|
+|qu'|ils|eussent|décadr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décadr%[m|e]|
+|décadr%[m|ons]|
+|décadr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décadr%[m|é]|
+|ayons|décadr%[m|é]|
+|ayez|décadr%[m|é]|
+|]
+

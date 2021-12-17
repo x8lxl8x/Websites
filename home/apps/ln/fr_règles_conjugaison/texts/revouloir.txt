@@ -1,0 +1,190 @@
+# revouloir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rev%[m|ouloir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rev%[m|oulant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rev%[m|oulu]|
+|ayant|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rev%[m|oulant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rev%[m|eux]|
+|tu|rev%[m|eux]|
+|il|rev%[m|eut]|
+|nous|rev%[m|oulons]|
+|vous|rev%[m|oulez]|
+|ils|rev%[m|eulent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rev%[m|oulu]|
+|tu|as |rev%[m|oulu]|
+|il|a|rev%[m|oulu]|
+|nous|avons|rev%[m|oulu]|
+|vous|avez|rev%[m|oulu]|
+|ils|ont|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rev%[m|oulais]|
+|tu|rev%[m|oulais]|
+|il|rev%[m|oulait]|
+|nous|rev%[m|oulions]|
+|vous|rev%[m|ouliez]|
+|ils|rev%[m|oulaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rev%[m|oulu]|
+|tu|avais|rev%[m|oulu]|
+|il|avait|rev%[m|oulu]|
+|nous|avions|rev%[m|oulu]|
+|vous|aviez|rev%[m|oulu]|
+|ils|avaient|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rev%[m|oulus]|
+|tu|rev%[m|oulus]|
+|il|rev%[m|oulut]|
+|nous|rev%[m|oulûmes]|
+|vous|rev%[m|oulûtes]|
+|ils|rev%[m|oulurent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rev%[m|oulu]|
+|tu|eus|rev%[m|oulu]|
+|il|eut|rev%[m|oulu]|
+|nous|e&ucirc;mes|rev%[m|oulu]|
+|vous|e&ucirc;tes|rev%[m|oulu]|
+|ils|eurent|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rev%[m|oudrai]|
+|tu|rev%[m|oudras]|
+|il|rev%[m|oudra]|
+|nous|rev%[m|oudrons]|
+|vous|rev%[m|oudrez]|
+|ils|rev%[m|oudront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rev%[m|oulu]|
+|tu|auras|rev%[m|oulu]|
+|il|aura|rev%[m|oulu]|
+|nous|aurons|rev%[m|oulu]|
+|vous|aurez|rev%[m|oulu]|
+|ils|auront|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rev%[m|oudrais]|
+|tu|rev%[m|oudrais]|
+|il|rev%[m|oudrait]|
+|nous|rev%[m|oudrions]|
+|vous|rev%[m|oudriez]|
+|ils|rev%[m|oudraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rev%[m|oulu]|
+|tu|aurais|rev%[m|oulu]|
+|il|aurait|rev%[m|oulu]|
+|nous|aurions|rev%[m|oulu]|
+|vous|auriez|rev%[m|oulu]|
+|ils|auraient|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rev%[m|euille]|
+|que|tu|rev%[m|euilles]|
+|qu'|il|rev%[m|euille]|
+|que|nous|rev%[m|oulions]|
+|que|vous|rev%[m|ouliez]|
+|qu'|ils|rev%[m|euillent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rev%[m|oulu]|
+|que|tu|aies|rev%[m|oulu]|
+|qu'|il|ait|rev%[m|oulu]|
+|que|nous|ayons|rev%[m|oulu]|
+|que|vous|ayez|rev%[m|oulu]|
+|qu'|ils|aient|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rev%[m|oulusse]|
+|que|tu|rev%[m|oulusses]|
+|qu'|il|rev%[m|oulût]|
+|que|nous|rev%[m|oulussions]|
+|que|vous|rev%[m|oulussiez]|
+|qu'|ils|rev%[m|oulussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rev%[m|oulu]|
+|que|tu|eusses|rev%[m|oulu]|
+|qu'|il|eût|rev%[m|oulu]|
+|que|nous|eussions|rev%[m|oulu]|
+|que|vous|eussiez|rev%[m|oulu]|
+|qu'|ils|eussent|rev%[m|oulu]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rev%[m|eux]/rev%[m|euille]|
+|rev%[m|oulons]|
+|rev%[m|oulez]/rev%[m|euillez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rev%[m|oulu]|
+|ayons|rev%[m|oulu]|
+|ayez|rev%[m|oulu]|
+|]
+

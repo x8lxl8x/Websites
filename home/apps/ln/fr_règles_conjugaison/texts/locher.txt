@@ -1,0 +1,190 @@
+# locher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|loch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|loch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|loch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||loch%[m|é]|
+|ayant|loch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en loch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|loch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|loch%[m|e]|
+|tu|loch%[m|es]|
+|il|loch%[m|e]|
+|nous|loch%[m|ons]|
+|vous|loch%[m|ez]|
+|ils|loch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|loch%[m|é]|
+|tu|as |loch%[m|é]|
+|il|a|loch%[m|é]|
+|nous|avons|loch%[m|é]|
+|vous|avez|loch%[m|é]|
+|ils|ont|loch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|loch%[m|ais]|
+|tu|loch%[m|ais]|
+|il|loch%[m|ait]|
+|nous|loch%[m|ions]|
+|vous|loch%[m|iez]|
+|ils|loch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|loch%[m|é]|
+|tu|avais|loch%[m|é]|
+|il|avait|loch%[m|é]|
+|nous|avions|loch%[m|é]|
+|vous|aviez|loch%[m|é]|
+|ils|avaient|loch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|loch%[m|ai]|
+|tu|loch%[m|as]|
+|il|loch%[m|a]|
+|nous|loch%[m|âmes]|
+|vous|loch%[m|âtes]|
+|ils|loch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|loch%[m|é]|
+|tu|eus|loch%[m|é]|
+|il|eut|loch%[m|é]|
+|nous|e&ucirc;mes|loch%[m|é]|
+|vous|e&ucirc;tes|loch%[m|é]|
+|ils|eurent|loch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|loch%[m|erai]|
+|tu|loch%[m|eras]|
+|il|loch%[m|era]|
+|nous|loch%[m|erons]|
+|vous|loch%[m|erez]|
+|ils|loch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|loch%[m|é]|
+|tu|auras|loch%[m|é]|
+|il|aura|loch%[m|é]|
+|nous|aurons|loch%[m|é]|
+|vous|aurez|loch%[m|é]|
+|ils|auront|loch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|loch%[m|erais]|
+|tu|loch%[m|erais]|
+|il|loch%[m|erait]|
+|nous|loch%[m|erions]|
+|vous|loch%[m|eriez]|
+|ils|loch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|loch%[m|é]|
+|tu|aurais|loch%[m|é]|
+|il|aurait|loch%[m|é]|
+|nous|aurions|loch%[m|é]|
+|vous|auriez|loch%[m|é]|
+|ils|auraient|loch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|loch%[m|e]|
+|que|tu|loch%[m|es]|
+|qu'|il|loch%[m|e]|
+|que|nous|loch%[m|ions]|
+|que|vous|loch%[m|iez]|
+|qu'|ils|loch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|loch%[m|é]|
+|que|tu|aies|loch%[m|é]|
+|qu'|il|ait|loch%[m|é]|
+|que|nous|ayons|loch%[m|é]|
+|que|vous|ayez|loch%[m|é]|
+|qu'|ils|aient|loch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|loch%[m|asse]|
+|que|tu|loch%[m|asses]|
+|qu'|il|loch%[m|ât]|
+|que|nous|loch%[m|assions]|
+|que|vous|loch%[m|assiez]|
+|qu'|ils|loch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|loch%[m|é]|
+|que|tu|eusses|loch%[m|é]|
+|qu'|il|eût|loch%[m|é]|
+|que|nous|eussions|loch%[m|é]|
+|que|vous|eussiez|loch%[m|é]|
+|qu'|ils|eussent|loch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|loch%[m|e]|
+|loch%[m|ons]|
+|loch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|loch%[m|é]|
+|ayons|loch%[m|é]|
+|ayez|loch%[m|é]|
+|]
+

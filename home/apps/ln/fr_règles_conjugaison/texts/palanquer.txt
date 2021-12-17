@@ -1,0 +1,190 @@
+# palanquer %[clVerbGroup|1]
+[-
+lever avec un palan. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|palanqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|palanqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||palanqu%[m|é]|
+|ayant|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en palanqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|palanqu%[m|e]|
+|tu|palanqu%[m|es]|
+|il|palanqu%[m|e]|
+|nous|palanqu%[m|ons]|
+|vous|palanqu%[m|ez]|
+|ils|palanqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|palanqu%[m|é]|
+|tu|as |palanqu%[m|é]|
+|il|a|palanqu%[m|é]|
+|nous|avons|palanqu%[m|é]|
+|vous|avez|palanqu%[m|é]|
+|ils|ont|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|palanqu%[m|ais]|
+|tu|palanqu%[m|ais]|
+|il|palanqu%[m|ait]|
+|nous|palanqu%[m|ions]|
+|vous|palanqu%[m|iez]|
+|ils|palanqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|palanqu%[m|é]|
+|tu|avais|palanqu%[m|é]|
+|il|avait|palanqu%[m|é]|
+|nous|avions|palanqu%[m|é]|
+|vous|aviez|palanqu%[m|é]|
+|ils|avaient|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|palanqu%[m|ai]|
+|tu|palanqu%[m|as]|
+|il|palanqu%[m|a]|
+|nous|palanqu%[m|âmes]|
+|vous|palanqu%[m|âtes]|
+|ils|palanqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|palanqu%[m|é]|
+|tu|eus|palanqu%[m|é]|
+|il|eut|palanqu%[m|é]|
+|nous|e&ucirc;mes|palanqu%[m|é]|
+|vous|e&ucirc;tes|palanqu%[m|é]|
+|ils|eurent|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|palanqu%[m|erai]|
+|tu|palanqu%[m|eras]|
+|il|palanqu%[m|era]|
+|nous|palanqu%[m|erons]|
+|vous|palanqu%[m|erez]|
+|ils|palanqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|palanqu%[m|é]|
+|tu|auras|palanqu%[m|é]|
+|il|aura|palanqu%[m|é]|
+|nous|aurons|palanqu%[m|é]|
+|vous|aurez|palanqu%[m|é]|
+|ils|auront|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|palanqu%[m|erais]|
+|tu|palanqu%[m|erais]|
+|il|palanqu%[m|erait]|
+|nous|palanqu%[m|erions]|
+|vous|palanqu%[m|eriez]|
+|ils|palanqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|palanqu%[m|é]|
+|tu|aurais|palanqu%[m|é]|
+|il|aurait|palanqu%[m|é]|
+|nous|aurions|palanqu%[m|é]|
+|vous|auriez|palanqu%[m|é]|
+|ils|auraient|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|palanqu%[m|e]|
+|que|tu|palanqu%[m|es]|
+|qu'|il|palanqu%[m|e]|
+|que|nous|palanqu%[m|ions]|
+|que|vous|palanqu%[m|iez]|
+|qu'|ils|palanqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|palanqu%[m|é]|
+|que|tu|aies|palanqu%[m|é]|
+|qu'|il|ait|palanqu%[m|é]|
+|que|nous|ayons|palanqu%[m|é]|
+|que|vous|ayez|palanqu%[m|é]|
+|qu'|ils|aient|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|palanqu%[m|asse]|
+|que|tu|palanqu%[m|asses]|
+|qu'|il|palanqu%[m|ât]|
+|que|nous|palanqu%[m|assions]|
+|que|vous|palanqu%[m|assiez]|
+|qu'|ils|palanqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|palanqu%[m|é]|
+|que|tu|eusses|palanqu%[m|é]|
+|qu'|il|eût|palanqu%[m|é]|
+|que|nous|eussions|palanqu%[m|é]|
+|que|vous|eussiez|palanqu%[m|é]|
+|qu'|ils|eussent|palanqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|palanqu%[m|e]|
+|palanqu%[m|ons]|
+|palanqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|palanqu%[m|é]|
+|ayons|palanqu%[m|é]|
+|ayez|palanqu%[m|é]|
+|]
+

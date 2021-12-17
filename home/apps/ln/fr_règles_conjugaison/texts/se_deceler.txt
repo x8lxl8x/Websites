@@ -1,0 +1,190 @@
+# se déceler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se déc%[m|e]l%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|décel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se déc%[m|e]l%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|décel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se déc%[m|e]l%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|décel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|déc%[m|è]l%[m|e]|
+|tu|te|déc%[m|è]l%[m|es]|
+|il|se|déc%[m|è]l%[m|e]|
+|nous|nous|déc%[m|e]l%[m|ons]|
+|vous|vous|déc%[m|e]l%[m|ez]|
+|ils|se|déc%[m|è]l%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|décel%[m|é]|
+|tu|t'|es|décel%[m|é]|
+|il|s'|est|décel%[m|é]|
+|nous|nous|sommes|décel%[m|és]|
+|vous|vous|êtes|décel%[m|és]|
+|ils|se|sont|décel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|déc%[m|e]l%[m|ais]|
+|tu|te|déc%[m|e]l%[m|ais]|
+|il|se|déc%[m|e]l%[m|ait]|
+|nous|nous|déc%[m|e]l%[m|ions]|
+|vous|vous|déc%[m|e]l%[m|iez]|
+|ils|se|déc%[m|e]l%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|décel%[m|é]|
+|tu|t'|étais|décel%[m|é]|
+|il|s'|était|décel%[m|é]|
+|nous|nous|étions|décel%[m|és]|
+|vous|vous|étiez|décel%[m|és]|
+|ils|s'|étaient|décel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|déc%[m|e]l%[m|ai]|
+|tu|te|déc%[m|e]l%[m|as]|
+|il|se|déc%[m|e]l%[m|a]|
+|nous|nous|déc%[m|e]l%[m|âmes]|
+|vous|vous|déc%[m|e]l%[m|âtes]|
+|ils|se|déc%[m|e]l%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|décel%[m|é]|
+|tu|te|fus|décel%[m|é]|
+|il|se|fut|décel%[m|é]|
+|nous|nous|fûmes|décel%[m|és]|
+|vous|vous|fûtes|décel%[m|és]|
+|ils|se|furent|décel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|déc%[m|è]l%[m|erai]|
+|tu|te|déc%[m|è]l%[m|eras]|
+|il|se|déc%[m|è]l%[m|era]|
+|nous|nous|déc%[m|è]l%[m|erons]|
+|vous|vous|déc%[m|è]l%[m|erez]|
+|ils|se|déc%[m|è]l%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|décel%[m|é]|
+|tu|te|seras|décel%[m|é]|
+|il|se|sera|décel%[m|é]|
+|nous|nous|serons|décel%[m|és]|
+|vous|vous|serez|décel%[m|és]|
+|ils|se|seront|décel%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|déc%[m|è]l%[m|erais]|
+|tu|te|déc%[m|è]l%[m|erais]|
+|il|se|déc%[m|è]l%[m|erait]|
+|nous|nous|déc%[m|è]l%[m|erions]|
+|vous|vous|déc%[m|è]l%[m|eriez]|
+|ils|se|déc%[m|è]l%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|décel%[m|é]|
+|tu|te|serais|décel%[m|é]|
+|il|se|serait|décel%[m|é]|
+|nous|nous|serions|décel%[m|és]|
+|vous|vous|seriez|décel%[m|és]|
+|ils|se|seraient|décel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|déc%[m|è]l%[m|e]|
+|que|tu|te|déc%[m|è]l%[m|es]|
+|qu'|il|se|déc%[m|è]l%[m|e]|
+|que|nous|nous|déc%[m|e]l%[m|ions]|
+|que|vous|vous|déc%[m|e]l%[m|iez]|
+|qu'|ils|se|déc%[m|è]l%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|décel%[m|é]|
+|que|tu|te|sois|décel%[m|é]|
+|qu'|il|se|soit|décel%[m|é]|
+|que|nous|nous|soyons|décel%[m|és]|
+|que|vous|vous|soyez|décel%[m|és]|
+|qu'|ils|se|soient|décel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|déc%[m|e]l%[m|asse]|
+|que|tu|te|déc%[m|e]l%[m|asses]|
+|qu'|il|se|déc%[m|e]l%[m|ât]|
+|que|nous|nous|déc%[m|e]l%[m|assions]|
+|que|vous|vous|déc%[m|e]l%[m|assiez]|
+|qu'|ils|se|déc%[m|e]l%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|décel%[m|é]|
+|que|tu|te|fusses|décel%[m|é]|
+|qu'|il|se|fût|décel%[m|é]|
+|que|nous|nous|fussions|décel%[m|és]|
+|que|vous|vous|fussiez|décel%[m|és]|
+|qu'|ils|se|fussent|décel%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déc%[m|è]l%[m|e]-toi|
+|déc%[m|e]l%[m|ons]-nous|
+|déc%[m|e]l%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

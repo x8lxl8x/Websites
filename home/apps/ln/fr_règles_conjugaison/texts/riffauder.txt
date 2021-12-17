@@ -1,0 +1,190 @@
+# riffauder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|riffaud%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|riffaud%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||riffaud%[m|é]|
+|ayant|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en riffaud%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|riffaud%[m|e]|
+|tu|riffaud%[m|es]|
+|il|riffaud%[m|e]|
+|nous|riffaud%[m|ons]|
+|vous|riffaud%[m|ez]|
+|ils|riffaud%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|riffaud%[m|é]|
+|tu|as |riffaud%[m|é]|
+|il|a|riffaud%[m|é]|
+|nous|avons|riffaud%[m|é]|
+|vous|avez|riffaud%[m|é]|
+|ils|ont|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|riffaud%[m|ais]|
+|tu|riffaud%[m|ais]|
+|il|riffaud%[m|ait]|
+|nous|riffaud%[m|ions]|
+|vous|riffaud%[m|iez]|
+|ils|riffaud%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|riffaud%[m|é]|
+|tu|avais|riffaud%[m|é]|
+|il|avait|riffaud%[m|é]|
+|nous|avions|riffaud%[m|é]|
+|vous|aviez|riffaud%[m|é]|
+|ils|avaient|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|riffaud%[m|ai]|
+|tu|riffaud%[m|as]|
+|il|riffaud%[m|a]|
+|nous|riffaud%[m|âmes]|
+|vous|riffaud%[m|âtes]|
+|ils|riffaud%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|riffaud%[m|é]|
+|tu|eus|riffaud%[m|é]|
+|il|eut|riffaud%[m|é]|
+|nous|e&ucirc;mes|riffaud%[m|é]|
+|vous|e&ucirc;tes|riffaud%[m|é]|
+|ils|eurent|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|riffaud%[m|erai]|
+|tu|riffaud%[m|eras]|
+|il|riffaud%[m|era]|
+|nous|riffaud%[m|erons]|
+|vous|riffaud%[m|erez]|
+|ils|riffaud%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|riffaud%[m|é]|
+|tu|auras|riffaud%[m|é]|
+|il|aura|riffaud%[m|é]|
+|nous|aurons|riffaud%[m|é]|
+|vous|aurez|riffaud%[m|é]|
+|ils|auront|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|riffaud%[m|erais]|
+|tu|riffaud%[m|erais]|
+|il|riffaud%[m|erait]|
+|nous|riffaud%[m|erions]|
+|vous|riffaud%[m|eriez]|
+|ils|riffaud%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|riffaud%[m|é]|
+|tu|aurais|riffaud%[m|é]|
+|il|aurait|riffaud%[m|é]|
+|nous|aurions|riffaud%[m|é]|
+|vous|auriez|riffaud%[m|é]|
+|ils|auraient|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|riffaud%[m|e]|
+|que|tu|riffaud%[m|es]|
+|qu'|il|riffaud%[m|e]|
+|que|nous|riffaud%[m|ions]|
+|que|vous|riffaud%[m|iez]|
+|qu'|ils|riffaud%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|riffaud%[m|é]|
+|que|tu|aies|riffaud%[m|é]|
+|qu'|il|ait|riffaud%[m|é]|
+|que|nous|ayons|riffaud%[m|é]|
+|que|vous|ayez|riffaud%[m|é]|
+|qu'|ils|aient|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|riffaud%[m|asse]|
+|que|tu|riffaud%[m|asses]|
+|qu'|il|riffaud%[m|ât]|
+|que|nous|riffaud%[m|assions]|
+|que|vous|riffaud%[m|assiez]|
+|qu'|ils|riffaud%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|riffaud%[m|é]|
+|que|tu|eusses|riffaud%[m|é]|
+|qu'|il|eût|riffaud%[m|é]|
+|que|nous|eussions|riffaud%[m|é]|
+|que|vous|eussiez|riffaud%[m|é]|
+|qu'|ils|eussent|riffaud%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|riffaud%[m|e]|
+|riffaud%[m|ons]|
+|riffaud%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|riffaud%[m|é]|
+|ayons|riffaud%[m|é]|
+|ayez|riffaud%[m|é]|
+|]
+

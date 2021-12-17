@@ -1,0 +1,190 @@
+# se buter %[clVerbGroup|1]
+[-
+s'entêter dans une attitude de refus. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se but%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|but%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se but%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|but%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se but%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|but%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|but%[m|e]|
+|tu|te|but%[m|es]|
+|il|se|but%[m|e]|
+|nous|nous|but%[m|ons]|
+|vous|vous|but%[m|ez]|
+|ils|se|but%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|but%[m|é]|
+|tu|t'|es|but%[m|é]|
+|il|s'|est|but%[m|é]|
+|nous|nous|sommes|but%[m|és]|
+|vous|vous|êtes|but%[m|és]|
+|ils|se|sont|but%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|but%[m|ais]|
+|tu|te|but%[m|ais]|
+|il|se|but%[m|ait]|
+|nous|nous|but%[m|ions]|
+|vous|vous|but%[m|iez]|
+|ils|se|but%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|but%[m|é]|
+|tu|t'|étais|but%[m|é]|
+|il|s'|était|but%[m|é]|
+|nous|nous|étions|but%[m|és]|
+|vous|vous|étiez|but%[m|és]|
+|ils|s'|étaient|but%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|but%[m|ai]|
+|tu|te|but%[m|as]|
+|il|se|but%[m|a]|
+|nous|nous|but%[m|âmes]|
+|vous|vous|but%[m|âtes]|
+|ils|se|but%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|but%[m|é]|
+|tu|te|fus|but%[m|é]|
+|il|se|fut|but%[m|é]|
+|nous|nous|fûmes|but%[m|és]|
+|vous|vous|fûtes|but%[m|és]|
+|ils|se|furent|but%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|but%[m|erai]|
+|tu|te|but%[m|eras]|
+|il|se|but%[m|era]|
+|nous|nous|but%[m|erons]|
+|vous|vous|but%[m|erez]|
+|ils|se|but%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|but%[m|é]|
+|tu|te|seras|but%[m|é]|
+|il|se|sera|but%[m|é]|
+|nous|nous|serons|but%[m|és]|
+|vous|vous|serez|but%[m|és]|
+|ils|se|seront|but%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|but%[m|erais]|
+|tu|te|but%[m|erais]|
+|il|se|but%[m|erait]|
+|nous|nous|but%[m|erions]|
+|vous|vous|but%[m|eriez]|
+|ils|se|but%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|but%[m|é]|
+|tu|te|serais|but%[m|é]|
+|il|se|serait|but%[m|é]|
+|nous|nous|serions|but%[m|és]|
+|vous|vous|seriez|but%[m|és]|
+|ils|se|seraient|but%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|but%[m|e]|
+|que|tu|te|but%[m|es]|
+|qu'|il|se|but%[m|e]|
+|que|nous|nous|but%[m|ions]|
+|que|vous|vous|but%[m|iez]|
+|qu'|ils|se|but%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|but%[m|é]|
+|que|tu|te|sois|but%[m|é]|
+|qu'|il|se|soit|but%[m|é]|
+|que|nous|nous|soyons|but%[m|és]|
+|que|vous|vous|soyez|but%[m|és]|
+|qu'|ils|se|soient|but%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|but%[m|asse]|
+|que|tu|te|but%[m|asses]|
+|qu'|il|se|but%[m|ât]|
+|que|nous|nous|but%[m|assions]|
+|que|vous|vous|but%[m|assiez]|
+|qu'|ils|se|but%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|but%[m|é]|
+|que|tu|te|fusses|but%[m|é]|
+|qu'|il|se|fût|but%[m|é]|
+|que|nous|nous|fussions|but%[m|és]|
+|que|vous|vous|fussiez|but%[m|és]|
+|qu'|ils|se|fussent|but%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|but%[m|e]-toi|
+|but%[m|ons]-nous|
+|but%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

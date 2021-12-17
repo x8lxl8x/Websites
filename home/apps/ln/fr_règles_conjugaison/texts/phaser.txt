@@ -1,0 +1,190 @@
+# phaser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|phas%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|phas%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|phas%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||phas%[m|é]|
+|ayant|phas%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en phas%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|phas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|phas%[m|e]|
+|tu|phas%[m|es]|
+|il|phas%[m|e]|
+|nous|phas%[m|ons]|
+|vous|phas%[m|ez]|
+|ils|phas%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|phas%[m|é]|
+|tu|as |phas%[m|é]|
+|il|a|phas%[m|é]|
+|nous|avons|phas%[m|é]|
+|vous|avez|phas%[m|é]|
+|ils|ont|phas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|phas%[m|ais]|
+|tu|phas%[m|ais]|
+|il|phas%[m|ait]|
+|nous|phas%[m|ions]|
+|vous|phas%[m|iez]|
+|ils|phas%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|phas%[m|é]|
+|tu|avais|phas%[m|é]|
+|il|avait|phas%[m|é]|
+|nous|avions|phas%[m|é]|
+|vous|aviez|phas%[m|é]|
+|ils|avaient|phas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|phas%[m|ai]|
+|tu|phas%[m|as]|
+|il|phas%[m|a]|
+|nous|phas%[m|âmes]|
+|vous|phas%[m|âtes]|
+|ils|phas%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|phas%[m|é]|
+|tu|eus|phas%[m|é]|
+|il|eut|phas%[m|é]|
+|nous|e&ucirc;mes|phas%[m|é]|
+|vous|e&ucirc;tes|phas%[m|é]|
+|ils|eurent|phas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|phas%[m|erai]|
+|tu|phas%[m|eras]|
+|il|phas%[m|era]|
+|nous|phas%[m|erons]|
+|vous|phas%[m|erez]|
+|ils|phas%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|phas%[m|é]|
+|tu|auras|phas%[m|é]|
+|il|aura|phas%[m|é]|
+|nous|aurons|phas%[m|é]|
+|vous|aurez|phas%[m|é]|
+|ils|auront|phas%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|phas%[m|erais]|
+|tu|phas%[m|erais]|
+|il|phas%[m|erait]|
+|nous|phas%[m|erions]|
+|vous|phas%[m|eriez]|
+|ils|phas%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|phas%[m|é]|
+|tu|aurais|phas%[m|é]|
+|il|aurait|phas%[m|é]|
+|nous|aurions|phas%[m|é]|
+|vous|auriez|phas%[m|é]|
+|ils|auraient|phas%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|phas%[m|e]|
+|que|tu|phas%[m|es]|
+|qu'|il|phas%[m|e]|
+|que|nous|phas%[m|ions]|
+|que|vous|phas%[m|iez]|
+|qu'|ils|phas%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|phas%[m|é]|
+|que|tu|aies|phas%[m|é]|
+|qu'|il|ait|phas%[m|é]|
+|que|nous|ayons|phas%[m|é]|
+|que|vous|ayez|phas%[m|é]|
+|qu'|ils|aient|phas%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|phas%[m|asse]|
+|que|tu|phas%[m|asses]|
+|qu'|il|phas%[m|ât]|
+|que|nous|phas%[m|assions]|
+|que|vous|phas%[m|assiez]|
+|qu'|ils|phas%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|phas%[m|é]|
+|que|tu|eusses|phas%[m|é]|
+|qu'|il|eût|phas%[m|é]|
+|que|nous|eussions|phas%[m|é]|
+|que|vous|eussiez|phas%[m|é]|
+|qu'|ils|eussent|phas%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|phas%[m|e]|
+|phas%[m|ons]|
+|phas%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|phas%[m|é]|
+|ayons|phas%[m|é]|
+|ayez|phas%[m|é]|
+|]
+

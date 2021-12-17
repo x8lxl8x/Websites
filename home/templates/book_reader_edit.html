@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0' />
+  <title>{$page_title}</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../styles/global.css'>
+  <script type='text/javascript' src='../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../index.html'><span class='clNavHome'></span></a>
+    <a href='../{$dir_apps}/{$app_area}/index.html'><span class='clNavIndex'></span></a>
+    <a href='./book_reader.php?varFuncId=view&varAppTitle={$app_title}&varAppArea={$app_area}&varAppDir={$app_dir}&varFileName={$file_name}'><span class='clNavUp'></span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<br>
+
+<form id='idMain' name='varMain' method='post' action='./book_reader.php'>
+  <textarea autofocus rows='25' cols='100' id='idTextarea' name='varTextarea' >{$page_content}</textarea>
+  <br>
+  <input id='idSubmitButton'    type='submit' value="Submit">
+  <input name='varFuncId'       type='hidden' value="edit_post">
+  <input name='varAppTitle'     type='hidden' value="{$app_title}">
+  <input name='varAppArea'      type='hidden' value="{$app_area}">
+  <input name='varAppDir'       type='hidden' value="{$app_dir}">
+  <input name='varFileName'     type='hidden' value="{$file_name}">
+</form>
+
+</div>
+</div>
+</body>
+</html>

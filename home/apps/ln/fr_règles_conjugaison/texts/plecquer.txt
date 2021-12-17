@@ -1,0 +1,190 @@
+# plecquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|plecqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|plecqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||plecqu%[m|é]|
+|ayant|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en plecqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|plecqu%[m|e]|
+|tu|plecqu%[m|es]|
+|il|plecqu%[m|e]|
+|nous|plecqu%[m|ons]|
+|vous|plecqu%[m|ez]|
+|ils|plecqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|plecqu%[m|é]|
+|tu|as |plecqu%[m|é]|
+|il|a|plecqu%[m|é]|
+|nous|avons|plecqu%[m|é]|
+|vous|avez|plecqu%[m|é]|
+|ils|ont|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|plecqu%[m|ais]|
+|tu|plecqu%[m|ais]|
+|il|plecqu%[m|ait]|
+|nous|plecqu%[m|ions]|
+|vous|plecqu%[m|iez]|
+|ils|plecqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|plecqu%[m|é]|
+|tu|avais|plecqu%[m|é]|
+|il|avait|plecqu%[m|é]|
+|nous|avions|plecqu%[m|é]|
+|vous|aviez|plecqu%[m|é]|
+|ils|avaient|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|plecqu%[m|ai]|
+|tu|plecqu%[m|as]|
+|il|plecqu%[m|a]|
+|nous|plecqu%[m|âmes]|
+|vous|plecqu%[m|âtes]|
+|ils|plecqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|plecqu%[m|é]|
+|tu|eus|plecqu%[m|é]|
+|il|eut|plecqu%[m|é]|
+|nous|e&ucirc;mes|plecqu%[m|é]|
+|vous|e&ucirc;tes|plecqu%[m|é]|
+|ils|eurent|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|plecqu%[m|erai]|
+|tu|plecqu%[m|eras]|
+|il|plecqu%[m|era]|
+|nous|plecqu%[m|erons]|
+|vous|plecqu%[m|erez]|
+|ils|plecqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|plecqu%[m|é]|
+|tu|auras|plecqu%[m|é]|
+|il|aura|plecqu%[m|é]|
+|nous|aurons|plecqu%[m|é]|
+|vous|aurez|plecqu%[m|é]|
+|ils|auront|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|plecqu%[m|erais]|
+|tu|plecqu%[m|erais]|
+|il|plecqu%[m|erait]|
+|nous|plecqu%[m|erions]|
+|vous|plecqu%[m|eriez]|
+|ils|plecqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|plecqu%[m|é]|
+|tu|aurais|plecqu%[m|é]|
+|il|aurait|plecqu%[m|é]|
+|nous|aurions|plecqu%[m|é]|
+|vous|auriez|plecqu%[m|é]|
+|ils|auraient|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|plecqu%[m|e]|
+|que|tu|plecqu%[m|es]|
+|qu'|il|plecqu%[m|e]|
+|que|nous|plecqu%[m|ions]|
+|que|vous|plecqu%[m|iez]|
+|qu'|ils|plecqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|plecqu%[m|é]|
+|que|tu|aies|plecqu%[m|é]|
+|qu'|il|ait|plecqu%[m|é]|
+|que|nous|ayons|plecqu%[m|é]|
+|que|vous|ayez|plecqu%[m|é]|
+|qu'|ils|aient|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|plecqu%[m|asse]|
+|que|tu|plecqu%[m|asses]|
+|qu'|il|plecqu%[m|ât]|
+|que|nous|plecqu%[m|assions]|
+|que|vous|plecqu%[m|assiez]|
+|qu'|ils|plecqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|plecqu%[m|é]|
+|que|tu|eusses|plecqu%[m|é]|
+|qu'|il|eût|plecqu%[m|é]|
+|que|nous|eussions|plecqu%[m|é]|
+|que|vous|eussiez|plecqu%[m|é]|
+|qu'|ils|eussent|plecqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|plecqu%[m|e]|
+|plecqu%[m|ons]|
+|plecqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|plecqu%[m|é]|
+|ayons|plecqu%[m|é]|
+|ayez|plecqu%[m|é]|
+|]
+

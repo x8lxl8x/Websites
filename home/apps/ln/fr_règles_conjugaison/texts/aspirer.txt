@@ -1,0 +1,191 @@
+# aspirer %[clVerbGroup|1]
+[-
+attirer l'air dans les poumons. 
+attirer un fluide par création d'un vide. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|aspir%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|aspir%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|aspir%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||aspir%[m|é]|
+|ayant|aspir%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en aspir%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|aspir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|aspir%[m|e]|
+|tu|aspir%[m|es]|
+|il|aspir%[m|e]|
+|nous|aspir%[m|ons]|
+|vous|aspir%[m|ez]|
+|ils|aspir%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|aspir%[m|é]|
+|tu|as |aspir%[m|é]|
+|il|a|aspir%[m|é]|
+|nous|avons|aspir%[m|é]|
+|vous|avez|aspir%[m|é]|
+|ils|ont|aspir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|aspir%[m|ais]|
+|tu|aspir%[m|ais]|
+|il|aspir%[m|ait]|
+|nous|aspir%[m|ions]|
+|vous|aspir%[m|iez]|
+|ils|aspir%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|aspir%[m|é]|
+|tu|avais|aspir%[m|é]|
+|il|avait|aspir%[m|é]|
+|nous|avions|aspir%[m|é]|
+|vous|aviez|aspir%[m|é]|
+|ils|avaient|aspir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|aspir%[m|ai]|
+|tu|aspir%[m|as]|
+|il|aspir%[m|a]|
+|nous|aspir%[m|âmes]|
+|vous|aspir%[m|âtes]|
+|ils|aspir%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|aspir%[m|é]|
+|tu|eus|aspir%[m|é]|
+|il|eut|aspir%[m|é]|
+|nous|e&ucirc;mes|aspir%[m|é]|
+|vous|e&ucirc;tes|aspir%[m|é]|
+|ils|eurent|aspir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|aspir%[m|erai]|
+|tu|aspir%[m|eras]|
+|il|aspir%[m|era]|
+|nous|aspir%[m|erons]|
+|vous|aspir%[m|erez]|
+|ils|aspir%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|aspir%[m|é]|
+|tu|auras|aspir%[m|é]|
+|il|aura|aspir%[m|é]|
+|nous|aurons|aspir%[m|é]|
+|vous|aurez|aspir%[m|é]|
+|ils|auront|aspir%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|aspir%[m|erais]|
+|tu|aspir%[m|erais]|
+|il|aspir%[m|erait]|
+|nous|aspir%[m|erions]|
+|vous|aspir%[m|eriez]|
+|ils|aspir%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|aspir%[m|é]|
+|tu|aurais|aspir%[m|é]|
+|il|aurait|aspir%[m|é]|
+|nous|aurions|aspir%[m|é]|
+|vous|auriez|aspir%[m|é]|
+|ils|auraient|aspir%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|aspir%[m|e]|
+|que|tu|aspir%[m|es]|
+|qu'|il|aspir%[m|e]|
+|que|nous|aspir%[m|ions]|
+|que|vous|aspir%[m|iez]|
+|qu'|ils|aspir%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|aspir%[m|é]|
+|que|tu|aies|aspir%[m|é]|
+|qu'|il|ait|aspir%[m|é]|
+|que|nous|ayons|aspir%[m|é]|
+|que|vous|ayez|aspir%[m|é]|
+|qu'|ils|aient|aspir%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|aspir%[m|asse]|
+|que|tu|aspir%[m|asses]|
+|qu'|il|aspir%[m|ât]|
+|que|nous|aspir%[m|assions]|
+|que|vous|aspir%[m|assiez]|
+|qu'|ils|aspir%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|aspir%[m|é]|
+|que|tu|eusses|aspir%[m|é]|
+|qu'|il|eût|aspir%[m|é]|
+|que|nous|eussions|aspir%[m|é]|
+|que|vous|eussiez|aspir%[m|é]|
+|qu'|ils|eussent|aspir%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aspir%[m|e]|
+|aspir%[m|ons]|
+|aspir%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|aspir%[m|é]|
+|ayons|aspir%[m|é]|
+|ayez|aspir%[m|é]|
+|]
+

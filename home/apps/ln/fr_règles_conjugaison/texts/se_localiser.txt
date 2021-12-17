@@ -1,0 +1,190 @@
+# se localiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se localis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|localis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se localis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|localis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se localis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|localis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|localis%[m|e]|
+|tu|te|localis%[m|es]|
+|il|se|localis%[m|e]|
+|nous|nous|localis%[m|ons]|
+|vous|vous|localis%[m|ez]|
+|ils|se|localis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|localis%[m|é]|
+|tu|t'|es|localis%[m|é]|
+|il|s'|est|localis%[m|é]|
+|nous|nous|sommes|localis%[m|és]|
+|vous|vous|êtes|localis%[m|és]|
+|ils|se|sont|localis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|localis%[m|ais]|
+|tu|te|localis%[m|ais]|
+|il|se|localis%[m|ait]|
+|nous|nous|localis%[m|ions]|
+|vous|vous|localis%[m|iez]|
+|ils|se|localis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|localis%[m|é]|
+|tu|t'|étais|localis%[m|é]|
+|il|s'|était|localis%[m|é]|
+|nous|nous|étions|localis%[m|és]|
+|vous|vous|étiez|localis%[m|és]|
+|ils|s'|étaient|localis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|localis%[m|ai]|
+|tu|te|localis%[m|as]|
+|il|se|localis%[m|a]|
+|nous|nous|localis%[m|âmes]|
+|vous|vous|localis%[m|âtes]|
+|ils|se|localis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|localis%[m|é]|
+|tu|te|fus|localis%[m|é]|
+|il|se|fut|localis%[m|é]|
+|nous|nous|fûmes|localis%[m|és]|
+|vous|vous|fûtes|localis%[m|és]|
+|ils|se|furent|localis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|localis%[m|erai]|
+|tu|te|localis%[m|eras]|
+|il|se|localis%[m|era]|
+|nous|nous|localis%[m|erons]|
+|vous|vous|localis%[m|erez]|
+|ils|se|localis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|localis%[m|é]|
+|tu|te|seras|localis%[m|é]|
+|il|se|sera|localis%[m|é]|
+|nous|nous|serons|localis%[m|és]|
+|vous|vous|serez|localis%[m|és]|
+|ils|se|seront|localis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|localis%[m|erais]|
+|tu|te|localis%[m|erais]|
+|il|se|localis%[m|erait]|
+|nous|nous|localis%[m|erions]|
+|vous|vous|localis%[m|eriez]|
+|ils|se|localis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|localis%[m|é]|
+|tu|te|serais|localis%[m|é]|
+|il|se|serait|localis%[m|é]|
+|nous|nous|serions|localis%[m|és]|
+|vous|vous|seriez|localis%[m|és]|
+|ils|se|seraient|localis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|localis%[m|e]|
+|que|tu|te|localis%[m|es]|
+|qu'|il|se|localis%[m|e]|
+|que|nous|nous|localis%[m|ions]|
+|que|vous|vous|localis%[m|iez]|
+|qu'|ils|se|localis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|localis%[m|é]|
+|que|tu|te|sois|localis%[m|é]|
+|qu'|il|se|soit|localis%[m|é]|
+|que|nous|nous|soyons|localis%[m|és]|
+|que|vous|vous|soyez|localis%[m|és]|
+|qu'|ils|se|soient|localis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|localis%[m|asse]|
+|que|tu|te|localis%[m|asses]|
+|qu'|il|se|localis%[m|ât]|
+|que|nous|nous|localis%[m|assions]|
+|que|vous|vous|localis%[m|assiez]|
+|qu'|ils|se|localis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|localis%[m|é]|
+|que|tu|te|fusses|localis%[m|é]|
+|qu'|il|se|fût|localis%[m|é]|
+|que|nous|nous|fussions|localis%[m|és]|
+|que|vous|vous|fussiez|localis%[m|és]|
+|qu'|ils|se|fussent|localis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|localis%[m|e]-toi|
+|localis%[m|ons]-nous|
+|localis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

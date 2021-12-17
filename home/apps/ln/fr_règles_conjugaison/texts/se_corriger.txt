@@ -1,0 +1,190 @@
+# se corriger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se corrig%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|corrig%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se corrig%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|corrig%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se corrig%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|corrig%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|corrig%[m|e]|
+|tu|te|corrig%[m|es]|
+|il|se|corrig%[m|e]|
+|nous|nous|corrig%[m|eons]|
+|vous|vous|corrig%[m|ez]|
+|ils|se|corrig%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|corrig%[m|é]|
+|tu|t'|es|corrig%[m|é]|
+|il|s'|est|corrig%[m|é]|
+|nous|nous|sommes|corrig%[m|és]|
+|vous|vous|êtes|corrig%[m|és]|
+|ils|se|sont|corrig%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|corrig%[m|eais]|
+|tu|te|corrig%[m|eais]|
+|il|se|corrig%[m|eait]|
+|nous|nous|corrig%[m|ions]|
+|vous|vous|corrig%[m|iez]|
+|ils|se|corrig%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|corrig%[m|é]|
+|tu|t'|étais|corrig%[m|é]|
+|il|s'|était|corrig%[m|é]|
+|nous|nous|étions|corrig%[m|és]|
+|vous|vous|étiez|corrig%[m|és]|
+|ils|s'|étaient|corrig%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|corrig%[m|eai]|
+|tu|te|corrig%[m|eas]|
+|il|se|corrig%[m|ea]|
+|nous|nous|corrig%[m|eâmes]|
+|vous|vous|corrig%[m|eâtes]|
+|ils|se|corrig%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|corrig%[m|é]|
+|tu|te|fus|corrig%[m|é]|
+|il|se|fut|corrig%[m|é]|
+|nous|nous|fûmes|corrig%[m|és]|
+|vous|vous|fûtes|corrig%[m|és]|
+|ils|se|furent|corrig%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|corrig%[m|erai]|
+|tu|te|corrig%[m|eras]|
+|il|se|corrig%[m|era]|
+|nous|nous|corrig%[m|erons]|
+|vous|vous|corrig%[m|erez]|
+|ils|se|corrig%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|corrig%[m|é]|
+|tu|te|seras|corrig%[m|é]|
+|il|se|sera|corrig%[m|é]|
+|nous|nous|serons|corrig%[m|és]|
+|vous|vous|serez|corrig%[m|és]|
+|ils|se|seront|corrig%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|corrig%[m|erais]|
+|tu|te|corrig%[m|erais]|
+|il|se|corrig%[m|erait]|
+|nous|nous|corrig%[m|erions]|
+|vous|vous|corrig%[m|eriez]|
+|ils|se|corrig%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|corrig%[m|é]|
+|tu|te|serais|corrig%[m|é]|
+|il|se|serait|corrig%[m|é]|
+|nous|nous|serions|corrig%[m|és]|
+|vous|vous|seriez|corrig%[m|és]|
+|ils|se|seraient|corrig%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|corrig%[m|e]|
+|que|tu|te|corrig%[m|es]|
+|qu'|il|se|corrig%[m|e]|
+|que|nous|nous|corrig%[m|ions]|
+|que|vous|vous|corrig%[m|iez]|
+|qu'|ils|se|corrig%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|corrig%[m|é]|
+|que|tu|te|sois|corrig%[m|é]|
+|qu'|il|se|soit|corrig%[m|é]|
+|que|nous|nous|soyons|corrig%[m|és]|
+|que|vous|vous|soyez|corrig%[m|és]|
+|qu'|ils|se|soient|corrig%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|corrig%[m|easse]|
+|que|tu|te|corrig%[m|easses]|
+|qu'|il|se|corrig%[m|eât]|
+|que|nous|nous|corrig%[m|eassions]|
+|que|vous|vous|corrig%[m|eassiez]|
+|qu'|ils|se|corrig%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|corrig%[m|é]|
+|que|tu|te|fusses|corrig%[m|é]|
+|qu'|il|se|fût|corrig%[m|é]|
+|que|nous|nous|fussions|corrig%[m|és]|
+|que|vous|vous|fussiez|corrig%[m|és]|
+|qu'|ils|se|fussent|corrig%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|corrig%[m|e]-toi|
+|corrig%[m|eons]-nous|
+|corrig%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

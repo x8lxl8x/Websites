@@ -1,0 +1,190 @@
+# se déplacer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se dépla%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|dépla%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se dépla%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|dépla%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se dépla%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|dépla%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|dépla%[m|ce]|
+|tu|te|dépla%[m|ces]|
+|il|se|dépla%[m|ce]|
+|nous|nous|dépla%[m|çons]|
+|vous|vous|dépla%[m|cez]|
+|ils|se|dépla%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|dépla%[m|cé]|
+|tu|t'|es|dépla%[m|cé]|
+|il|s'|est|dépla%[m|cé]|
+|nous|nous|sommes|dépla%[m|cés]|
+|vous|vous|êtes|dépla%[m|cés]|
+|ils|se|sont|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|dépla%[m|çais]|
+|tu|te|dépla%[m|çais]|
+|il|se|dépla%[m|çait]|
+|nous|nous|dépla%[m|cions]|
+|vous|vous|dépla%[m|ciez]|
+|ils|se|dépla%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|dépla%[m|cé]|
+|tu|t'|étais|dépla%[m|cé]|
+|il|s'|était|dépla%[m|cé]|
+|nous|nous|étions|dépla%[m|cés]|
+|vous|vous|étiez|dépla%[m|cés]|
+|ils|s'|étaient|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|dépla%[m|çai]|
+|tu|te|dépla%[m|ças]|
+|il|se|dépla%[m|ça]|
+|nous|nous|dépla%[m|çâmes]|
+|vous|vous|dépla%[m|çâtes]|
+|ils|se|dépla%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|dépla%[m|cé]|
+|tu|te|fus|dépla%[m|cé]|
+|il|se|fut|dépla%[m|cé]|
+|nous|nous|fûmes|dépla%[m|cés]|
+|vous|vous|fûtes|dépla%[m|cés]|
+|ils|se|furent|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|dépla%[m|cerai]|
+|tu|te|dépla%[m|ceras]|
+|il|se|dépla%[m|cera]|
+|nous|nous|dépla%[m|cerons]|
+|vous|vous|dépla%[m|cerez]|
+|ils|se|dépla%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|dépla%[m|cé]|
+|tu|te|seras|dépla%[m|cé]|
+|il|se|sera|dépla%[m|cé]|
+|nous|nous|serons|dépla%[m|cés]|
+|vous|vous|serez|dépla%[m|cés]|
+|ils|se|seront|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|dépla%[m|cerais]|
+|tu|te|dépla%[m|cerais]|
+|il|se|dépla%[m|cerait]|
+|nous|nous|dépla%[m|cerions]|
+|vous|vous|dépla%[m|ceriez]|
+|ils|se|dépla%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|dépla%[m|cé]|
+|tu|te|serais|dépla%[m|cé]|
+|il|se|serait|dépla%[m|cé]|
+|nous|nous|serions|dépla%[m|cés]|
+|vous|vous|seriez|dépla%[m|cés]|
+|ils|se|seraient|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|dépla%[m|ce]|
+|que|tu|te|dépla%[m|ces]|
+|qu'|il|se|dépla%[m|ce]|
+|que|nous|nous|dépla%[m|cions]|
+|que|vous|vous|dépla%[m|ciez]|
+|qu'|ils|se|dépla%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|dépla%[m|cé]|
+|que|tu|te|sois|dépla%[m|cé]|
+|qu'|il|se|soit|dépla%[m|cé]|
+|que|nous|nous|soyons|dépla%[m|cés]|
+|que|vous|vous|soyez|dépla%[m|cés]|
+|qu'|ils|se|soient|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|dépla%[m|çasse]|
+|que|tu|te|dépla%[m|çasses]|
+|qu'|il|se|dépla%[m|çât]|
+|que|nous|nous|dépla%[m|çassions]|
+|que|vous|vous|dépla%[m|çassiez]|
+|qu'|ils|se|dépla%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|dépla%[m|cé]|
+|que|tu|te|fusses|dépla%[m|cé]|
+|qu'|il|se|fût|dépla%[m|cé]|
+|que|nous|nous|fussions|dépla%[m|cés]|
+|que|vous|vous|fussiez|dépla%[m|cés]|
+|qu'|ils|se|fussent|dépla%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dépla%[m|ce]-toi|
+|dépla%[m|çons]-nous|
+|dépla%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

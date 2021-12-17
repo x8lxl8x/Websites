@@ -1,0 +1,370 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./50.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./52.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Jelly Rolls</h1>
+
+<p>Breakfast menu?&nbsp; No, it's an actual options
+strategy.&nbsp; There doesn't appear to be any particular
+reason for the name, although rumor has it that market
+makers on the floor of the Chicago Board Options
+Exchange (CBOE) created it.&nbsp; </p>
+<p>Jelly rolls are primarily used by market makers, but
+are a great tool for retail investors to evaluate the
+fair price between calendar spreads in the same way that
+box spreads can be used to evaluate vertical spreads.</p>
+<p>While you may never enter a jelly roll, they are
+crucial to understand if you are placing calendar
+spreads -- spreads where you buy and sell calls or puts
+of the same strike, but at different expiration months.</p>
+<h2>Jelly rolls</h2>
+<p>There are many ways to view and understand the jelly
+roll strategy, but it is probably easiest to view from
+the market makers perspective.&nbsp; If you read our section
+on synthetics, you will recall that market makers like
+to enter conversions and reversals -- three sided
+positions -- involving stock, calls and puts.&nbsp; </p>
+<p>Conversions (long stock, long puts and short calls)
+and reversals (short stock, short puts and long calls)
+are ways for market makers to lock in profits, so they
+are always looking for orders that allow them to create
+these positions.</p>
+<p>Say a market maker has the following <i>reversal</i>
+for January expiration:</p>
+<p>Short 1,000 shares at $50<br>
+Long 10 $50 calls<br>
+Short 10 $50 puts</p>
+<p>And also has the following <i>conversion</i> for
+March expiration:</p>
+<p>Long 1,000 shares at $50<br>
+Long 10 $50 puts<br>
+Short 10 $50 calls</p>
+<p>This is a jelly roll -- a conversion in one month and
+a reversal in another.</p>
+<p>Notice the market maker is <u>short</u> 1,000 shares
+in the reversal and <u>long</u> 1,000 shares in the
+conversion -- a net zero position.&nbsp; This leaves him with
+long calls and short puts (synthetic long position) in
+January, and long puts and short calls (synthetic short
+position) in March as follows:</p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td><b><u>January reversal</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>March
+conversion</u></b><br>
+<s>Short 1,000 shares at
+$50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long 1,000 shares at $50</s><p>
+Long 10 $50 calls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long
+10 $50 puts<br>
+Short 10 $50 puts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short
+10 $50 calls</p>
+<p><i>The long and short stock positions cancel
+each other (shown in red).&nbsp; The remaining
+positions are a synthetic long position (blue)
+in January and a synthetic short position
+(black) in March.</i></td>
+</tr>
+</table>
+<p>One way to interpret the January synthetic is that
+the market maker <u>will buy stock</u> for $50 at
+expiration.&nbsp; How?&nbsp; If the stock is above $50, he can
+exercise the call and pay $50; if it's below $50, he
+will be assigned on the puts and be forced to buy stock
+at $50.&nbsp; Similarly in March he <u>must sell stock</u>
+for $50.&nbsp; If the stock is above $50, he will be assigned
+on the short calls and be forced to sell stock at $50;
+if the stock is below $50, will exercise the $50 puts
+and receive that amount for the sale.</p>
+<p>The market maker is therefore left with a position
+that forces him to buy stock for $50 in January and sell
+it for $50 in March.&nbsp; What is the cost?&nbsp; It should be
+evident that the market maker is not losing any
+principal as he's buying and selling at $50; however, he
+is missing out on the interest he could have earned
+during the three months had he not been forced to
+purchase the stock in January.&nbsp; Assuming the risk-free
+rate of interest is 6% and exactly three months to
+expiration, the cost is $50 * 3/12 months * 6% = $3/4.&nbsp;
+</p>
+<p>Therefore, the difference in cost between the
+synthetic long position in January and synthetic short
+position in March should be about $3/4.&nbsp; If the January
+synthetic costs $10, the March synthetic should cost
+$10-3/4.</p>
+<p>If the stock pays a dividend, this must be subtracted
+from the position as well, because it represents a cash
+inflow.&nbsp; If the above stock pays a 1/4-point dividend in
+March, the spread value would be reduced by 1/4 point
+from $10-3/4 to $10-1/2.</p>
+<h2>Calendar spreads</h2>
+<p>We can also view the synthetic long and short
+positions as calendar spreads:</p>
+<p><b><u>January</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>March</u></b><br>
+Short 10 $50 puts&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long 10 $50 puts = Long
+calendar spread<br>
+<u>Long 10 $50 call</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Short 10 $50
+calls</u> = Short calendar spread<br>
+= Long synthetic stock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=Short synthetic stock</p>
+<p>If we view the positions vertically, we see the
+market maker has a long synthetic stock position in
+January and short synthetic stock position in March.&nbsp;
+This is the way we were viewing the positions earlier.&nbsp;
+However, we can also view them horizontally and say he
+is long a put calendar spread (long Mar $50 puts and
+short Jan $50 puts) and short a call calendar spread
+(short Mar $50 calls and long Jan $50 calls).</p>
+<p>An equally valid way, then, to view the jelly roll is
+the difference between two calendar spreads (also called
+<i>time</i> or <i>horizontal</i> spreads).</p>
+<p>If you trade calendar spreads, here's where the jelly
+roll can help!</p>
+<h2>Example:</h2>
+<p>Intel (INTC) is currently trading for $36-7/8 with
+the following quotes:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table5'>
+<tr>
+<td v>&nbsp;</td>
+<td colSpan='2' v>
+<p align='center'><b>Calls</b></td>
+<td colSpan='2' v>
+<p align='center'><b>Puts</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Month/Strike</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan&nbsp; $35</b></td>
+<td v>
+<p align='center'>5-3/8</td>
+<td v>
+<p align='center'>5-3/4</td>
+<td v>
+<p align='center'>3-1/8</td>
+<td v>
+<p align='center'>3-1/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Apr&nbsp; $35</b></td>
+<td v>
+<p align='center'>7-1/4</td>
+<td v>
+<p align='center'>7-5/8</td>
+<td v>
+<p align='center'>4-1/4</td>
+<td v>
+<p align='center'>4-5/8</td>
+</tr>
+</table>
+<p>Say you are interested in the following long calendar
+spread:&nbsp; Long April $35 calls and short January $35
+calls.&nbsp; The natural quote is currently $2-1/4 debit:</p>
+<p>Buy Apr&nbsp; $35 calls =&nbsp;&nbsp; $7-5/8<br>
+<u>Sell Jan&nbsp; $35 calls =&nbsp;&nbsp; $5-3/8</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $2-1/4</p>
+<p>Because there is a net payment (debit), this is a <i>
+long</i> calendar spread.</p>
+<p><b><i>Traders often ask if this is a fair price.&nbsp; Is
+there room to negotiate?&nbsp; If so, how much?</i></b></p>
+<p>To answer these questions, let's look at the value of
+the synthetic long and short stock positions from the
+retail investor's side.&nbsp; An investor buying a synthetic
+long position will pay the asking price and sell at the
+bid price.&nbsp; As a guide, these numbers are highlighted
+below: red is a debit and blue is a credit. </p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table6'>
+<tr>
+<td v>&nbsp;</td>
+<td colSpan='2' v>
+<p align='center'><b>Calls</b></td>
+<td colSpan='2' v>
+<p align='center'><b>Puts</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Month/Strike</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan&nbsp; $35</b></td>
+<td v>
+<p align='center'>5-3/8</td>
+<td v>
+<p align='center'>5-3/4</td>
+<td v>
+<p align='center'>3-1/8</td>
+<td v>
+<p align='center'>3-1/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Apr&nbsp; $35</b></td>
+<td v>
+<p align='center'>7-1/4</td>
+<td v>
+<p align='center'>7-5/8</td>
+<td v>
+<p align='center'>4-1/4</td>
+<td v>
+<p align='center'>4-5/8</td>
+</tr>
+</table>
+<p>The retail investor can create the January synthetic
+long and April synthetic short for: +7 1/4 - $5 3/4 + $3
+1/8 - $4 5/8 = $0.&nbsp; So a retail investor will receive
+zero credit for the trade.&nbsp; How much should it be worth
+theoretically?&nbsp; There are approximately 135 days to
+expiration, so the cost of carry is roughly $35 *
+135/360 * 6% = 0.79 cents.&nbsp; </p>
+<p>In addition, any dividends received must be <i>
+subtracted</i>.&nbsp; Intel is currently paying 2 cents per
+share.&nbsp; The dividend is expected during the life of the
+jelly roll, so the cost is reduced from 79 cents to
+about 77 cents[*].&nbsp; Most of the time dividends are not a
+big concern, especially for tech companies.&nbsp; But in
+cases where the dividends are sizeable, be sure to
+factor it into the cost.</p>
+<p>[*]Technically, the credit will be
+reduced by the <i>present value</i> of the dividend.&nbsp;
+This is because the investor must wait to receive the
+dividend.&nbsp; However, since most dividends are small as
+well as the time between buying and selling the stock,
+most traders will just subtract off the full amount of
+the dividend as a very close estimate.</p>
+<p>The trade should be worth a credit of 77 cents, but
+the retail investor receives zero.&nbsp; The spread is
+clearly not priced fairly at the bid and ask prices for
+the retail investor.</p>
+<p>How about from the market makers' perspective?&nbsp; Using
+the same color coded notation as before, the market
+maker can create the synthetic January $35 long position
+by buying the Jan $35 call at the bid and selling the
+Jan $35 put at the ask.&nbsp; He can also create the
+synthetic short April position by purchasing the Apr $35
+put on the bid and selling the Apr $35 call at the ask
+as shown in the chart below:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table7'>
+<tr>
+<td v>&nbsp;</td>
+<td colSpan='2' v>
+<p align='center'><b>Calls</b></td>
+<td colSpan='2' v>
+<p align='center'><b>Puts</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Month/Strike</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan&nbsp; $35</b></td>
+<td v>
+<p align='center'>5-3/8</td>
+<td v>
+<p align='center'>5-3/4</td>
+<td v>
+<p align='center'>3-1/8</td>
+<td v>
+<p align='center'>3-1/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Apr&nbsp; $35</b></td>
+<td v>
+<p align='center'>7-1/4</td>
+<td v>
+<p align='center'>7-5/8</td>
+<td v>
+<p align='center'>4-1/4</td>
+<td v>
+<p align='center'>4-5/8</td>
+</tr>
+</table>
+<p>The synthetic positions will create a net credit of:
+-$5-3/8 + $7-5/8 - $4-1/4 + $3-1/4 = + $1-1/4.</p>
+<p>We said earlier the fair price of the package should
+be about 77 cents; however, the retail investor receives
+nothing, and the market maker wants $1-1/4.&nbsp; </p>
+<p>Notice a key point here.&nbsp; The market maker is able to
+construct the synthetic long and short positions with
+the color coded trades above.&nbsp; If you recall from the
+beginning, we were assuming you were interested in the
+calendar spread consisting of long April $35 calls, and
+short January $35 calls.&nbsp; You would pay the asking price
+on the April $35 calls and sell for the bid price on the
+January $35 calls -- exactly two of the pieces the
+market maker needs to construct his synthetic positions!</p>
+<p>The market maker can offset your trade by buying an
+April $35 put at $4-1/4 and selling the January $35 put
+at $3-1/4 (remember, market makers buy at the bid and
+sell at the ask).&nbsp; In other words, because you want to
+be long the calendar spread, the market maker must be
+short the same spread in order to fill the order.&nbsp; To
+offset the short call calendar spread, he will execute a
+long put calendar spread.</p>
+<p>Because neither party -- neither you nor the market
+maker -- wants to execute the trade for less than 77
+cents, it appears you have about 48 cents with which to
+work.&nbsp; The market maker wants $1-1/4, but theoretically
+should only receive 77 cents for a difference of 48
+cents.&nbsp; You probably won't be able to shave the full 48
+cents off the price, but 1/4 point certainly looks
+reasonable.&nbsp; So the calendar spread we described
+earlier:</p>
+<p>Buy Apr&nbsp; $35 calls =&nbsp;&nbsp; $7-5/8<br>
+Sell Jan&nbsp; $35 calls =&nbsp;&nbsp; $5-3/8</p>
+<p>could probably be filled for a net debit of $2
+instead of the $2-1/4 natural. </p>
+<p>Now, 1/4 point may not seem like much, but on a
+relative basis, it's about 11% better than the $2-1/4
+debit most traders would be tempted to place.</p>
+<p>This is the essence of great options trading --
+becoming a <i>little</i> bit better on each trade.&nbsp; It's
+the little changes that make big differences on profits.</p>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+# être %[clVerbGroup|3]
+[-
+avoir une existence. 
+avoir telle caractéristique (ex. le sang est rouge, le feu est chaud.) 
+-]
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|%[m|être]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|%[m|été]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|%[m|étant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||%[m|été]|
+|ayant|%[m|été]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en %[m|étant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|%[m|été]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|%[m|suis]|
+|tu|%[m|es]|
+|il|%[m|est]|
+|nous|%[m|sommes]|
+|vous|%[m|êtes]|
+|ils|%[m|sont]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|%[m|été]|
+|tu|as |%[m|été]|
+|il|a|%[m|été]|
+|nous|avons|%[m|été]|
+|vous|avez|%[m|été]|
+|ils|ont|%[m|été]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j' |%[m|étais]|
+|tu|%[m|étais]|
+|il|%[m|était]|
+|nous|%[m|étions]|
+|vous|%[m|étiez]|
+|ils|%[m|étaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|%[m|été]|
+|tu|avais|%[m|été]|
+|il|avait|%[m|été]|
+|nous|avions|%[m|été]|
+|vous|aviez|%[m|été]|
+|ils|avaient|%[m|été]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|%[m|fus]|
+|tu|%[m|fus]|
+|il|%[m|fut]|
+|nous|%[m|fûmes]|
+|vous|%[m|fûtes]|
+|ils|%[m|furent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|%[m|été]|
+|tu|eus|%[m|été]|
+|il|eut|%[m|été]|
+|nous|e&ucirc;mes|%[m|été]|
+|vous|e&ucirc;tes|%[m|été]|
+|ils|eurent|%[m|été]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|%[m|serai]|
+|tu|%[m|seras]|
+|il|%[m|sera]|
+|nous|%[m|serons]|
+|vous|%[m|serez]|
+|ils|%[m|seront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|%[m|été]|
+|tu|auras|%[m|été]|
+|il|aura|%[m|été]|
+|nous|aurons|%[m|été]|
+|vous|aurez|%[m|été]|
+|ils|auront|%[m|été]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|%[m|serais]|
+|tu|%[m|serais]|
+|il|%[m|serait]|
+|nous|%[m|serions]|
+|vous|%[m|seriez]|
+|ils|%[m|seraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|%[m|été]|
+|tu|aurais|%[m|été]|
+|il|aurait|%[m|été]|
+|nous|aurions|%[m|été]|
+|vous|auriez|%[m|été]|
+|ils|auraient|%[m|été]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|%[m|sois]|
+|que|tu|%[m|sois]|
+|qu'|il|%[m|soit]|
+|que|nous|%[m|soyons]|
+|que|vous|%[m|soyez]|
+|qu'|ils|%[m|soient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|%[m|été]|
+|que|tu|aies|%[m|été]|
+|qu'|il|ait|%[m|été]|
+|que|nous|ayons|%[m|été]|
+|que|vous|ayez|%[m|été]|
+|qu'|ils|aient|%[m|été]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|%[m|fusse]|
+|que|tu|%[m|fusses]|
+|qu'|il|%[m|fût]|
+|que|nous|%[m|fussions]|
+|que|vous|%[m|fussiez]|
+|qu'|ils|%[m|fussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|%[m|été]|
+|que|tu|eusses|%[m|été]|
+|qu'|il|eût|%[m|été]|
+|que|nous|eussions|%[m|été]|
+|que|vous|eussiez|%[m|été]|
+|qu'|ils|eussent|%[m|été]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|%[m|sois]|
+|%[m|soyons]|
+|%[m|soyez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|%[m|été]|
+|ayons|%[m|été]|
+|ayez|%[m|été]|
+|]
+

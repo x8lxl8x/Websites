@@ -1,0 +1,190 @@
+# toupiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|toupin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|toupin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|toupin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||toupin%[m|é]|
+|ayant|toupin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en toupin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|toupin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|toupin%[m|e]|
+|tu|toupin%[m|es]|
+|il|toupin%[m|e]|
+|nous|toupin%[m|ons]|
+|vous|toupin%[m|ez]|
+|ils|toupin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|toupin%[m|é]|
+|tu|as |toupin%[m|é]|
+|il|a|toupin%[m|é]|
+|nous|avons|toupin%[m|é]|
+|vous|avez|toupin%[m|é]|
+|ils|ont|toupin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|toupin%[m|ais]|
+|tu|toupin%[m|ais]|
+|il|toupin%[m|ait]|
+|nous|toupin%[m|ions]|
+|vous|toupin%[m|iez]|
+|ils|toupin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|toupin%[m|é]|
+|tu|avais|toupin%[m|é]|
+|il|avait|toupin%[m|é]|
+|nous|avions|toupin%[m|é]|
+|vous|aviez|toupin%[m|é]|
+|ils|avaient|toupin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|toupin%[m|ai]|
+|tu|toupin%[m|as]|
+|il|toupin%[m|a]|
+|nous|toupin%[m|âmes]|
+|vous|toupin%[m|âtes]|
+|ils|toupin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|toupin%[m|é]|
+|tu|eus|toupin%[m|é]|
+|il|eut|toupin%[m|é]|
+|nous|e&ucirc;mes|toupin%[m|é]|
+|vous|e&ucirc;tes|toupin%[m|é]|
+|ils|eurent|toupin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|toupin%[m|erai]|
+|tu|toupin%[m|eras]|
+|il|toupin%[m|era]|
+|nous|toupin%[m|erons]|
+|vous|toupin%[m|erez]|
+|ils|toupin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|toupin%[m|é]|
+|tu|auras|toupin%[m|é]|
+|il|aura|toupin%[m|é]|
+|nous|aurons|toupin%[m|é]|
+|vous|aurez|toupin%[m|é]|
+|ils|auront|toupin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|toupin%[m|erais]|
+|tu|toupin%[m|erais]|
+|il|toupin%[m|erait]|
+|nous|toupin%[m|erions]|
+|vous|toupin%[m|eriez]|
+|ils|toupin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|toupin%[m|é]|
+|tu|aurais|toupin%[m|é]|
+|il|aurait|toupin%[m|é]|
+|nous|aurions|toupin%[m|é]|
+|vous|auriez|toupin%[m|é]|
+|ils|auraient|toupin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|toupin%[m|e]|
+|que|tu|toupin%[m|es]|
+|qu'|il|toupin%[m|e]|
+|que|nous|toupin%[m|ions]|
+|que|vous|toupin%[m|iez]|
+|qu'|ils|toupin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|toupin%[m|é]|
+|que|tu|aies|toupin%[m|é]|
+|qu'|il|ait|toupin%[m|é]|
+|que|nous|ayons|toupin%[m|é]|
+|que|vous|ayez|toupin%[m|é]|
+|qu'|ils|aient|toupin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|toupin%[m|asse]|
+|que|tu|toupin%[m|asses]|
+|qu'|il|toupin%[m|ât]|
+|que|nous|toupin%[m|assions]|
+|que|vous|toupin%[m|assiez]|
+|qu'|ils|toupin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|toupin%[m|é]|
+|que|tu|eusses|toupin%[m|é]|
+|qu'|il|eût|toupin%[m|é]|
+|que|nous|eussions|toupin%[m|é]|
+|que|vous|eussiez|toupin%[m|é]|
+|qu'|ils|eussent|toupin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|toupin%[m|e]|
+|toupin%[m|ons]|
+|toupin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|toupin%[m|é]|
+|ayons|toupin%[m|é]|
+|ayez|toupin%[m|é]|
+|]
+

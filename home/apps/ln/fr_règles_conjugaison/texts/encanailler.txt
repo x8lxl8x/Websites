@@ -1,0 +1,190 @@
+# encanailler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|encanaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|encanaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||encanaill%[m|é]|
+|ayant|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en encanaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|encanaill%[m|e]|
+|tu|encanaill%[m|es]|
+|il|encanaill%[m|e]|
+|nous|encanaill%[m|ons]|
+|vous|encanaill%[m|ez]|
+|ils|encanaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|encanaill%[m|é]|
+|tu|as |encanaill%[m|é]|
+|il|a|encanaill%[m|é]|
+|nous|avons|encanaill%[m|é]|
+|vous|avez|encanaill%[m|é]|
+|ils|ont|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|encanaill%[m|ais]|
+|tu|encanaill%[m|ais]|
+|il|encanaill%[m|ait]|
+|nous|encanaill%[m|ions]|
+|vous|encanaill%[m|iez]|
+|ils|encanaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|encanaill%[m|é]|
+|tu|avais|encanaill%[m|é]|
+|il|avait|encanaill%[m|é]|
+|nous|avions|encanaill%[m|é]|
+|vous|aviez|encanaill%[m|é]|
+|ils|avaient|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|encanaill%[m|ai]|
+|tu|encanaill%[m|as]|
+|il|encanaill%[m|a]|
+|nous|encanaill%[m|âmes]|
+|vous|encanaill%[m|âtes]|
+|ils|encanaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|encanaill%[m|é]|
+|tu|eus|encanaill%[m|é]|
+|il|eut|encanaill%[m|é]|
+|nous|e&ucirc;mes|encanaill%[m|é]|
+|vous|e&ucirc;tes|encanaill%[m|é]|
+|ils|eurent|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|encanaill%[m|erai]|
+|tu|encanaill%[m|eras]|
+|il|encanaill%[m|era]|
+|nous|encanaill%[m|erons]|
+|vous|encanaill%[m|erez]|
+|ils|encanaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|encanaill%[m|é]|
+|tu|auras|encanaill%[m|é]|
+|il|aura|encanaill%[m|é]|
+|nous|aurons|encanaill%[m|é]|
+|vous|aurez|encanaill%[m|é]|
+|ils|auront|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|encanaill%[m|erais]|
+|tu|encanaill%[m|erais]|
+|il|encanaill%[m|erait]|
+|nous|encanaill%[m|erions]|
+|vous|encanaill%[m|eriez]|
+|ils|encanaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|encanaill%[m|é]|
+|tu|aurais|encanaill%[m|é]|
+|il|aurait|encanaill%[m|é]|
+|nous|aurions|encanaill%[m|é]|
+|vous|auriez|encanaill%[m|é]|
+|ils|auraient|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|encanaill%[m|e]|
+|que|tu|encanaill%[m|es]|
+|qu'|il|encanaill%[m|e]|
+|que|nous|encanaill%[m|ions]|
+|que|vous|encanaill%[m|iez]|
+|qu'|ils|encanaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|encanaill%[m|é]|
+|que|tu|aies|encanaill%[m|é]|
+|qu'|il|ait|encanaill%[m|é]|
+|que|nous|ayons|encanaill%[m|é]|
+|que|vous|ayez|encanaill%[m|é]|
+|qu'|ils|aient|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|encanaill%[m|asse]|
+|que|tu|encanaill%[m|asses]|
+|qu'|il|encanaill%[m|ât]|
+|que|nous|encanaill%[m|assions]|
+|que|vous|encanaill%[m|assiez]|
+|qu'|ils|encanaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|encanaill%[m|é]|
+|que|tu|eusses|encanaill%[m|é]|
+|qu'|il|eût|encanaill%[m|é]|
+|que|nous|eussions|encanaill%[m|é]|
+|que|vous|eussiez|encanaill%[m|é]|
+|qu'|ils|eussent|encanaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|encanaill%[m|e]|
+|encanaill%[m|ons]|
+|encanaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|encanaill%[m|é]|
+|ayons|encanaill%[m|é]|
+|ayez|encanaill%[m|é]|
+|]
+

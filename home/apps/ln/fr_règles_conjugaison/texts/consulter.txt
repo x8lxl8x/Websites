@@ -1,0 +1,191 @@
+# consulter %[clVerbGroup|1]
+[-
+recevoir des malades à son cabinet pour les examiner. 
+demander avis à quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|consult%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|consult%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|consult%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||consult%[m|é]|
+|ayant|consult%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en consult%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|consult%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|consult%[m|e]|
+|tu|consult%[m|es]|
+|il|consult%[m|e]|
+|nous|consult%[m|ons]|
+|vous|consult%[m|ez]|
+|ils|consult%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|consult%[m|é]|
+|tu|as |consult%[m|é]|
+|il|a|consult%[m|é]|
+|nous|avons|consult%[m|é]|
+|vous|avez|consult%[m|é]|
+|ils|ont|consult%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|consult%[m|ais]|
+|tu|consult%[m|ais]|
+|il|consult%[m|ait]|
+|nous|consult%[m|ions]|
+|vous|consult%[m|iez]|
+|ils|consult%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|consult%[m|é]|
+|tu|avais|consult%[m|é]|
+|il|avait|consult%[m|é]|
+|nous|avions|consult%[m|é]|
+|vous|aviez|consult%[m|é]|
+|ils|avaient|consult%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|consult%[m|ai]|
+|tu|consult%[m|as]|
+|il|consult%[m|a]|
+|nous|consult%[m|âmes]|
+|vous|consult%[m|âtes]|
+|ils|consult%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|consult%[m|é]|
+|tu|eus|consult%[m|é]|
+|il|eut|consult%[m|é]|
+|nous|e&ucirc;mes|consult%[m|é]|
+|vous|e&ucirc;tes|consult%[m|é]|
+|ils|eurent|consult%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|consult%[m|erai]|
+|tu|consult%[m|eras]|
+|il|consult%[m|era]|
+|nous|consult%[m|erons]|
+|vous|consult%[m|erez]|
+|ils|consult%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|consult%[m|é]|
+|tu|auras|consult%[m|é]|
+|il|aura|consult%[m|é]|
+|nous|aurons|consult%[m|é]|
+|vous|aurez|consult%[m|é]|
+|ils|auront|consult%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|consult%[m|erais]|
+|tu|consult%[m|erais]|
+|il|consult%[m|erait]|
+|nous|consult%[m|erions]|
+|vous|consult%[m|eriez]|
+|ils|consult%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|consult%[m|é]|
+|tu|aurais|consult%[m|é]|
+|il|aurait|consult%[m|é]|
+|nous|aurions|consult%[m|é]|
+|vous|auriez|consult%[m|é]|
+|ils|auraient|consult%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|consult%[m|e]|
+|que|tu|consult%[m|es]|
+|qu'|il|consult%[m|e]|
+|que|nous|consult%[m|ions]|
+|que|vous|consult%[m|iez]|
+|qu'|ils|consult%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|consult%[m|é]|
+|que|tu|aies|consult%[m|é]|
+|qu'|il|ait|consult%[m|é]|
+|que|nous|ayons|consult%[m|é]|
+|que|vous|ayez|consult%[m|é]|
+|qu'|ils|aient|consult%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|consult%[m|asse]|
+|que|tu|consult%[m|asses]|
+|qu'|il|consult%[m|ât]|
+|que|nous|consult%[m|assions]|
+|que|vous|consult%[m|assiez]|
+|qu'|ils|consult%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|consult%[m|é]|
+|que|tu|eusses|consult%[m|é]|
+|qu'|il|eût|consult%[m|é]|
+|que|nous|eussions|consult%[m|é]|
+|que|vous|eussiez|consult%[m|é]|
+|qu'|ils|eussent|consult%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|consult%[m|e]|
+|consult%[m|ons]|
+|consult%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|consult%[m|é]|
+|ayons|consult%[m|é]|
+|ayez|consult%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# formater %[clVerbGroup|1]
+[-
+préparer un support à recevoir des données numériques. 
+Structurer un support de données ou des données selon un format.(Arrêté du 30/12/1983 - date de la publication : 22/09/2000 - éd. commission de l'informatique et des composants électroniques) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|format%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|format%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|format%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||format%[m|é]|
+|ayant|format%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en format%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|format%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|format%[m|e]|
+|tu|format%[m|es]|
+|il|format%[m|e]|
+|nous|format%[m|ons]|
+|vous|format%[m|ez]|
+|ils|format%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|format%[m|é]|
+|tu|as |format%[m|é]|
+|il|a|format%[m|é]|
+|nous|avons|format%[m|é]|
+|vous|avez|format%[m|é]|
+|ils|ont|format%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|format%[m|ais]|
+|tu|format%[m|ais]|
+|il|format%[m|ait]|
+|nous|format%[m|ions]|
+|vous|format%[m|iez]|
+|ils|format%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|format%[m|é]|
+|tu|avais|format%[m|é]|
+|il|avait|format%[m|é]|
+|nous|avions|format%[m|é]|
+|vous|aviez|format%[m|é]|
+|ils|avaient|format%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|format%[m|ai]|
+|tu|format%[m|as]|
+|il|format%[m|a]|
+|nous|format%[m|âmes]|
+|vous|format%[m|âtes]|
+|ils|format%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|format%[m|é]|
+|tu|eus|format%[m|é]|
+|il|eut|format%[m|é]|
+|nous|e&ucirc;mes|format%[m|é]|
+|vous|e&ucirc;tes|format%[m|é]|
+|ils|eurent|format%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|format%[m|erai]|
+|tu|format%[m|eras]|
+|il|format%[m|era]|
+|nous|format%[m|erons]|
+|vous|format%[m|erez]|
+|ils|format%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|format%[m|é]|
+|tu|auras|format%[m|é]|
+|il|aura|format%[m|é]|
+|nous|aurons|format%[m|é]|
+|vous|aurez|format%[m|é]|
+|ils|auront|format%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|format%[m|erais]|
+|tu|format%[m|erais]|
+|il|format%[m|erait]|
+|nous|format%[m|erions]|
+|vous|format%[m|eriez]|
+|ils|format%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|format%[m|é]|
+|tu|aurais|format%[m|é]|
+|il|aurait|format%[m|é]|
+|nous|aurions|format%[m|é]|
+|vous|auriez|format%[m|é]|
+|ils|auraient|format%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|format%[m|e]|
+|que|tu|format%[m|es]|
+|qu'|il|format%[m|e]|
+|que|nous|format%[m|ions]|
+|que|vous|format%[m|iez]|
+|qu'|ils|format%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|format%[m|é]|
+|que|tu|aies|format%[m|é]|
+|qu'|il|ait|format%[m|é]|
+|que|nous|ayons|format%[m|é]|
+|que|vous|ayez|format%[m|é]|
+|qu'|ils|aient|format%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|format%[m|asse]|
+|que|tu|format%[m|asses]|
+|qu'|il|format%[m|ât]|
+|que|nous|format%[m|assions]|
+|que|vous|format%[m|assiez]|
+|qu'|ils|format%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|format%[m|é]|
+|que|tu|eusses|format%[m|é]|
+|qu'|il|eût|format%[m|é]|
+|que|nous|eussions|format%[m|é]|
+|que|vous|eussiez|format%[m|é]|
+|qu'|ils|eussent|format%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|format%[m|e]|
+|format%[m|ons]|
+|format%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|format%[m|é]|
+|ayons|format%[m|é]|
+|ayez|format%[m|é]|
+|]
+

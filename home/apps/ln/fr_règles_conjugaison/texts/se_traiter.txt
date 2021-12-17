@@ -1,0 +1,190 @@
+# se traiter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se trait%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|trait%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se trait%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|trait%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se trait%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|trait%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|trait%[m|e]|
+|tu|te|trait%[m|es]|
+|il|se|trait%[m|e]|
+|nous|nous|trait%[m|ons]|
+|vous|vous|trait%[m|ez]|
+|ils|se|trait%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|trait%[m|é]|
+|tu|t'|es|trait%[m|é]|
+|il|s'|est|trait%[m|é]|
+|nous|nous|sommes|trait%[m|és]|
+|vous|vous|êtes|trait%[m|és]|
+|ils|se|sont|trait%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|trait%[m|ais]|
+|tu|te|trait%[m|ais]|
+|il|se|trait%[m|ait]|
+|nous|nous|trait%[m|ions]|
+|vous|vous|trait%[m|iez]|
+|ils|se|trait%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|trait%[m|é]|
+|tu|t'|étais|trait%[m|é]|
+|il|s'|était|trait%[m|é]|
+|nous|nous|étions|trait%[m|és]|
+|vous|vous|étiez|trait%[m|és]|
+|ils|s'|étaient|trait%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|trait%[m|ai]|
+|tu|te|trait%[m|as]|
+|il|se|trait%[m|a]|
+|nous|nous|trait%[m|âmes]|
+|vous|vous|trait%[m|âtes]|
+|ils|se|trait%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|trait%[m|é]|
+|tu|te|fus|trait%[m|é]|
+|il|se|fut|trait%[m|é]|
+|nous|nous|fûmes|trait%[m|és]|
+|vous|vous|fûtes|trait%[m|és]|
+|ils|se|furent|trait%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|trait%[m|erai]|
+|tu|te|trait%[m|eras]|
+|il|se|trait%[m|era]|
+|nous|nous|trait%[m|erons]|
+|vous|vous|trait%[m|erez]|
+|ils|se|trait%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|trait%[m|é]|
+|tu|te|seras|trait%[m|é]|
+|il|se|sera|trait%[m|é]|
+|nous|nous|serons|trait%[m|és]|
+|vous|vous|serez|trait%[m|és]|
+|ils|se|seront|trait%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|trait%[m|erais]|
+|tu|te|trait%[m|erais]|
+|il|se|trait%[m|erait]|
+|nous|nous|trait%[m|erions]|
+|vous|vous|trait%[m|eriez]|
+|ils|se|trait%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|trait%[m|é]|
+|tu|te|serais|trait%[m|é]|
+|il|se|serait|trait%[m|é]|
+|nous|nous|serions|trait%[m|és]|
+|vous|vous|seriez|trait%[m|és]|
+|ils|se|seraient|trait%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|trait%[m|e]|
+|que|tu|te|trait%[m|es]|
+|qu'|il|se|trait%[m|e]|
+|que|nous|nous|trait%[m|ions]|
+|que|vous|vous|trait%[m|iez]|
+|qu'|ils|se|trait%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|trait%[m|é]|
+|que|tu|te|sois|trait%[m|é]|
+|qu'|il|se|soit|trait%[m|é]|
+|que|nous|nous|soyons|trait%[m|és]|
+|que|vous|vous|soyez|trait%[m|és]|
+|qu'|ils|se|soient|trait%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|trait%[m|asse]|
+|que|tu|te|trait%[m|asses]|
+|qu'|il|se|trait%[m|ât]|
+|que|nous|nous|trait%[m|assions]|
+|que|vous|vous|trait%[m|assiez]|
+|qu'|ils|se|trait%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|trait%[m|é]|
+|que|tu|te|fusses|trait%[m|é]|
+|qu'|il|se|fût|trait%[m|é]|
+|que|nous|nous|fussions|trait%[m|és]|
+|que|vous|vous|fussiez|trait%[m|és]|
+|qu'|ils|se|fussent|trait%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|trait%[m|e]-toi|
+|trait%[m|ons]-nous|
+|trait%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

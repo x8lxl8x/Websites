@@ -1,0 +1,190 @@
+# claper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|clap%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|clap%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|clap%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||clap%[m|é]|
+|ayant|clap%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en clap%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|clap%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|clap%[m|e]|
+|tu|clap%[m|es]|
+|il|clap%[m|e]|
+|nous|clap%[m|ons]|
+|vous|clap%[m|ez]|
+|ils|clap%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|clap%[m|é]|
+|tu|as |clap%[m|é]|
+|il|a|clap%[m|é]|
+|nous|avons|clap%[m|é]|
+|vous|avez|clap%[m|é]|
+|ils|ont|clap%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|clap%[m|ais]|
+|tu|clap%[m|ais]|
+|il|clap%[m|ait]|
+|nous|clap%[m|ions]|
+|vous|clap%[m|iez]|
+|ils|clap%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|clap%[m|é]|
+|tu|avais|clap%[m|é]|
+|il|avait|clap%[m|é]|
+|nous|avions|clap%[m|é]|
+|vous|aviez|clap%[m|é]|
+|ils|avaient|clap%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|clap%[m|ai]|
+|tu|clap%[m|as]|
+|il|clap%[m|a]|
+|nous|clap%[m|âmes]|
+|vous|clap%[m|âtes]|
+|ils|clap%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|clap%[m|é]|
+|tu|eus|clap%[m|é]|
+|il|eut|clap%[m|é]|
+|nous|e&ucirc;mes|clap%[m|é]|
+|vous|e&ucirc;tes|clap%[m|é]|
+|ils|eurent|clap%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|clap%[m|erai]|
+|tu|clap%[m|eras]|
+|il|clap%[m|era]|
+|nous|clap%[m|erons]|
+|vous|clap%[m|erez]|
+|ils|clap%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|clap%[m|é]|
+|tu|auras|clap%[m|é]|
+|il|aura|clap%[m|é]|
+|nous|aurons|clap%[m|é]|
+|vous|aurez|clap%[m|é]|
+|ils|auront|clap%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|clap%[m|erais]|
+|tu|clap%[m|erais]|
+|il|clap%[m|erait]|
+|nous|clap%[m|erions]|
+|vous|clap%[m|eriez]|
+|ils|clap%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|clap%[m|é]|
+|tu|aurais|clap%[m|é]|
+|il|aurait|clap%[m|é]|
+|nous|aurions|clap%[m|é]|
+|vous|auriez|clap%[m|é]|
+|ils|auraient|clap%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|clap%[m|e]|
+|que|tu|clap%[m|es]|
+|qu'|il|clap%[m|e]|
+|que|nous|clap%[m|ions]|
+|que|vous|clap%[m|iez]|
+|qu'|ils|clap%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|clap%[m|é]|
+|que|tu|aies|clap%[m|é]|
+|qu'|il|ait|clap%[m|é]|
+|que|nous|ayons|clap%[m|é]|
+|que|vous|ayez|clap%[m|é]|
+|qu'|ils|aient|clap%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|clap%[m|asse]|
+|que|tu|clap%[m|asses]|
+|qu'|il|clap%[m|ât]|
+|que|nous|clap%[m|assions]|
+|que|vous|clap%[m|assiez]|
+|qu'|ils|clap%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|clap%[m|é]|
+|que|tu|eusses|clap%[m|é]|
+|qu'|il|eût|clap%[m|é]|
+|que|nous|eussions|clap%[m|é]|
+|que|vous|eussiez|clap%[m|é]|
+|qu'|ils|eussent|clap%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|clap%[m|e]|
+|clap%[m|ons]|
+|clap%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|clap%[m|é]|
+|ayons|clap%[m|é]|
+|ayez|clap%[m|é]|
+|]
+

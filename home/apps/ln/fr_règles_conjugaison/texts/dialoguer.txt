@@ -1,0 +1,191 @@
+# dialoguer %[clVerbGroup|1]
+[-
+s'entretenir avec quelqu'un. 
+entretenir un dialogue avec quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dialogu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dialogu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dialogu%[m|é]|
+|ayant|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dialogu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dialogu%[m|e]|
+|tu|dialogu%[m|es]|
+|il|dialogu%[m|e]|
+|nous|dialogu%[m|ons]|
+|vous|dialogu%[m|ez]|
+|ils|dialogu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dialogu%[m|é]|
+|tu|as |dialogu%[m|é]|
+|il|a|dialogu%[m|é]|
+|nous|avons|dialogu%[m|é]|
+|vous|avez|dialogu%[m|é]|
+|ils|ont|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dialogu%[m|ais]|
+|tu|dialogu%[m|ais]|
+|il|dialogu%[m|ait]|
+|nous|dialogu%[m|ions]|
+|vous|dialogu%[m|iez]|
+|ils|dialogu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dialogu%[m|é]|
+|tu|avais|dialogu%[m|é]|
+|il|avait|dialogu%[m|é]|
+|nous|avions|dialogu%[m|é]|
+|vous|aviez|dialogu%[m|é]|
+|ils|avaient|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dialogu%[m|ai]|
+|tu|dialogu%[m|as]|
+|il|dialogu%[m|a]|
+|nous|dialogu%[m|âmes]|
+|vous|dialogu%[m|âtes]|
+|ils|dialogu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dialogu%[m|é]|
+|tu|eus|dialogu%[m|é]|
+|il|eut|dialogu%[m|é]|
+|nous|e&ucirc;mes|dialogu%[m|é]|
+|vous|e&ucirc;tes|dialogu%[m|é]|
+|ils|eurent|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dialogu%[m|erai]|
+|tu|dialogu%[m|eras]|
+|il|dialogu%[m|era]|
+|nous|dialogu%[m|erons]|
+|vous|dialogu%[m|erez]|
+|ils|dialogu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dialogu%[m|é]|
+|tu|auras|dialogu%[m|é]|
+|il|aura|dialogu%[m|é]|
+|nous|aurons|dialogu%[m|é]|
+|vous|aurez|dialogu%[m|é]|
+|ils|auront|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dialogu%[m|erais]|
+|tu|dialogu%[m|erais]|
+|il|dialogu%[m|erait]|
+|nous|dialogu%[m|erions]|
+|vous|dialogu%[m|eriez]|
+|ils|dialogu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dialogu%[m|é]|
+|tu|aurais|dialogu%[m|é]|
+|il|aurait|dialogu%[m|é]|
+|nous|aurions|dialogu%[m|é]|
+|vous|auriez|dialogu%[m|é]|
+|ils|auraient|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dialogu%[m|e]|
+|que|tu|dialogu%[m|es]|
+|qu'|il|dialogu%[m|e]|
+|que|nous|dialogu%[m|ions]|
+|que|vous|dialogu%[m|iez]|
+|qu'|ils|dialogu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dialogu%[m|é]|
+|que|tu|aies|dialogu%[m|é]|
+|qu'|il|ait|dialogu%[m|é]|
+|que|nous|ayons|dialogu%[m|é]|
+|que|vous|ayez|dialogu%[m|é]|
+|qu'|ils|aient|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dialogu%[m|asse]|
+|que|tu|dialogu%[m|asses]|
+|qu'|il|dialogu%[m|ât]|
+|que|nous|dialogu%[m|assions]|
+|que|vous|dialogu%[m|assiez]|
+|qu'|ils|dialogu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dialogu%[m|é]|
+|que|tu|eusses|dialogu%[m|é]|
+|qu'|il|eût|dialogu%[m|é]|
+|que|nous|eussions|dialogu%[m|é]|
+|que|vous|eussiez|dialogu%[m|é]|
+|qu'|ils|eussent|dialogu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dialogu%[m|e]|
+|dialogu%[m|ons]|
+|dialogu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dialogu%[m|é]|
+|ayons|dialogu%[m|é]|
+|ayez|dialogu%[m|é]|
+|]
+

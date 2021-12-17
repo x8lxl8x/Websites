@@ -1,0 +1,190 @@
+# replanter %[clVerbGroup|1]
+[-
+planter de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|replant%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|replant%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|replant%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||replant%[m|é]|
+|ayant|replant%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en replant%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|replant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|replant%[m|e]|
+|tu|replant%[m|es]|
+|il|replant%[m|e]|
+|nous|replant%[m|ons]|
+|vous|replant%[m|ez]|
+|ils|replant%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|replant%[m|é]|
+|tu|as |replant%[m|é]|
+|il|a|replant%[m|é]|
+|nous|avons|replant%[m|é]|
+|vous|avez|replant%[m|é]|
+|ils|ont|replant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|replant%[m|ais]|
+|tu|replant%[m|ais]|
+|il|replant%[m|ait]|
+|nous|replant%[m|ions]|
+|vous|replant%[m|iez]|
+|ils|replant%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|replant%[m|é]|
+|tu|avais|replant%[m|é]|
+|il|avait|replant%[m|é]|
+|nous|avions|replant%[m|é]|
+|vous|aviez|replant%[m|é]|
+|ils|avaient|replant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|replant%[m|ai]|
+|tu|replant%[m|as]|
+|il|replant%[m|a]|
+|nous|replant%[m|âmes]|
+|vous|replant%[m|âtes]|
+|ils|replant%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|replant%[m|é]|
+|tu|eus|replant%[m|é]|
+|il|eut|replant%[m|é]|
+|nous|e&ucirc;mes|replant%[m|é]|
+|vous|e&ucirc;tes|replant%[m|é]|
+|ils|eurent|replant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|replant%[m|erai]|
+|tu|replant%[m|eras]|
+|il|replant%[m|era]|
+|nous|replant%[m|erons]|
+|vous|replant%[m|erez]|
+|ils|replant%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|replant%[m|é]|
+|tu|auras|replant%[m|é]|
+|il|aura|replant%[m|é]|
+|nous|aurons|replant%[m|é]|
+|vous|aurez|replant%[m|é]|
+|ils|auront|replant%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|replant%[m|erais]|
+|tu|replant%[m|erais]|
+|il|replant%[m|erait]|
+|nous|replant%[m|erions]|
+|vous|replant%[m|eriez]|
+|ils|replant%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|replant%[m|é]|
+|tu|aurais|replant%[m|é]|
+|il|aurait|replant%[m|é]|
+|nous|aurions|replant%[m|é]|
+|vous|auriez|replant%[m|é]|
+|ils|auraient|replant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|replant%[m|e]|
+|que|tu|replant%[m|es]|
+|qu'|il|replant%[m|e]|
+|que|nous|replant%[m|ions]|
+|que|vous|replant%[m|iez]|
+|qu'|ils|replant%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|replant%[m|é]|
+|que|tu|aies|replant%[m|é]|
+|qu'|il|ait|replant%[m|é]|
+|que|nous|ayons|replant%[m|é]|
+|que|vous|ayez|replant%[m|é]|
+|qu'|ils|aient|replant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|replant%[m|asse]|
+|que|tu|replant%[m|asses]|
+|qu'|il|replant%[m|ât]|
+|que|nous|replant%[m|assions]|
+|que|vous|replant%[m|assiez]|
+|qu'|ils|replant%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|replant%[m|é]|
+|que|tu|eusses|replant%[m|é]|
+|qu'|il|eût|replant%[m|é]|
+|que|nous|eussions|replant%[m|é]|
+|que|vous|eussiez|replant%[m|é]|
+|qu'|ils|eussent|replant%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|replant%[m|e]|
+|replant%[m|ons]|
+|replant%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|replant%[m|é]|
+|ayons|replant%[m|é]|
+|ayez|replant%[m|é]|
+|]
+

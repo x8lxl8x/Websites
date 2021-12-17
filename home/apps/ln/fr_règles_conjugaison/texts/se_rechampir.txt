@@ -1,0 +1,190 @@
+# se rechampir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rechamp%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rechamp%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rechamp%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rechamp%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rechamp%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rechamp%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rechamp%[m|is]|
+|tu|te|rechamp%[m|is]|
+|il|se|rechamp%[m|it]|
+|nous|nous|rechamp%[m|issons]|
+|vous|vous|rechamp%[m|issez]|
+|ils|se|rechamp%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rechamp%[m|i]|
+|tu|t'|es|rechamp%[m|i]|
+|il|s'|est|rechamp%[m|i]|
+|nous|nous|sommes|rechamp%[m|is]|
+|vous|vous|êtes|rechamp%[m|is]|
+|ils|se|sont|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rechamp%[m|issais]|
+|tu|te|rechamp%[m|issais]|
+|il|se|rechamp%[m|issait]|
+|nous|nous|rechamp%[m|issions]|
+|vous|vous|rechamp%[m|issiez]|
+|ils|se|rechamp%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rechamp%[m|i]|
+|tu|t'|étais|rechamp%[m|i]|
+|il|s'|était|rechamp%[m|i]|
+|nous|nous|étions|rechamp%[m|is]|
+|vous|vous|étiez|rechamp%[m|is]|
+|ils|s'|étaient|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rechamp%[m|is]|
+|tu|te|rechamp%[m|is]|
+|il|se|rechamp%[m|it]|
+|nous|nous|rechamp%[m|îmes]|
+|vous|vous|rechamp%[m|îtes]|
+|ils|se|rechamp%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rechamp%[m|i]|
+|tu|te|fus|rechamp%[m|i]|
+|il|se|fut|rechamp%[m|i]|
+|nous|nous|fûmes|rechamp%[m|is]|
+|vous|vous|fûtes|rechamp%[m|is]|
+|ils|se|furent|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rechamp%[m|irai]|
+|tu|te|rechamp%[m|iras]|
+|il|se|rechamp%[m|ira]|
+|nous|nous|rechamp%[m|irons]|
+|vous|vous|rechamp%[m|irez]|
+|ils|se|rechamp%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rechamp%[m|i]|
+|tu|te|seras|rechamp%[m|i]|
+|il|se|sera|rechamp%[m|i]|
+|nous|nous|serons|rechamp%[m|is]|
+|vous|vous|serez|rechamp%[m|is]|
+|ils|se|seront|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rechamp%[m|irais]|
+|tu|te|rechamp%[m|irais]|
+|il|se|rechamp%[m|irait]|
+|nous|nous|rechamp%[m|irions]|
+|vous|vous|rechamp%[m|iriez]|
+|ils|se|rechamp%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rechamp%[m|i]|
+|tu|te|serais|rechamp%[m|i]|
+|il|se|serait|rechamp%[m|i]|
+|nous|nous|serions|rechamp%[m|is]|
+|vous|vous|seriez|rechamp%[m|is]|
+|ils|se|seraient|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rechamp%[m|isse]|
+|que|tu|te|rechamp%[m|isses]|
+|qu'|il|se|rechamp%[m|isse]|
+|que|nous|nous|rechamp%[m|issions]|
+|que|vous|vous|rechamp%[m|issiez]|
+|qu'|ils|se|rechamp%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rechamp%[m|i]|
+|que|tu|te|sois|rechamp%[m|i]|
+|qu'|il|se|soit|rechamp%[m|i]|
+|que|nous|nous|soyons|rechamp%[m|is]|
+|que|vous|vous|soyez|rechamp%[m|is]|
+|qu'|ils|se|soient|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rechamp%[m|isse]|
+|que|tu|te|rechamp%[m|isses]|
+|qu'|il|se|rechamp%[m|ît]|
+|que|nous|nous|rechamp%[m|issions]|
+|que|vous|vous|rechamp%[m|issiez]|
+|qu'|ils|se|rechamp%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rechamp%[m|i]|
+|que|tu|te|fusses|rechamp%[m|i]|
+|qu'|il|se|fût|rechamp%[m|i]|
+|que|nous|nous|fussions|rechamp%[m|is]|
+|que|vous|vous|fussiez|rechamp%[m|is]|
+|qu'|ils|se|fussent|rechamp%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rechamp%[m|is]-toi|
+|rechamp%[m|issons]-nous|
+|rechamp%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

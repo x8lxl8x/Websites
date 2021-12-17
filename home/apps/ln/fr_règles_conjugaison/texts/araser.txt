@@ -1,0 +1,191 @@
+# araser %[clVerbGroup|1]
+[-
+égaliser un mur, une construction. 
+égaliser une pièce à emboîter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|aras%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|aras%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|aras%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||aras%[m|é]|
+|ayant|aras%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en aras%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|aras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|aras%[m|e]|
+|tu|aras%[m|es]|
+|il|aras%[m|e]|
+|nous|aras%[m|ons]|
+|vous|aras%[m|ez]|
+|ils|aras%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|aras%[m|é]|
+|tu|as |aras%[m|é]|
+|il|a|aras%[m|é]|
+|nous|avons|aras%[m|é]|
+|vous|avez|aras%[m|é]|
+|ils|ont|aras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|aras%[m|ais]|
+|tu|aras%[m|ais]|
+|il|aras%[m|ait]|
+|nous|aras%[m|ions]|
+|vous|aras%[m|iez]|
+|ils|aras%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|aras%[m|é]|
+|tu|avais|aras%[m|é]|
+|il|avait|aras%[m|é]|
+|nous|avions|aras%[m|é]|
+|vous|aviez|aras%[m|é]|
+|ils|avaient|aras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|aras%[m|ai]|
+|tu|aras%[m|as]|
+|il|aras%[m|a]|
+|nous|aras%[m|âmes]|
+|vous|aras%[m|âtes]|
+|ils|aras%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|aras%[m|é]|
+|tu|eus|aras%[m|é]|
+|il|eut|aras%[m|é]|
+|nous|e&ucirc;mes|aras%[m|é]|
+|vous|e&ucirc;tes|aras%[m|é]|
+|ils|eurent|aras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|aras%[m|erai]|
+|tu|aras%[m|eras]|
+|il|aras%[m|era]|
+|nous|aras%[m|erons]|
+|vous|aras%[m|erez]|
+|ils|aras%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|aras%[m|é]|
+|tu|auras|aras%[m|é]|
+|il|aura|aras%[m|é]|
+|nous|aurons|aras%[m|é]|
+|vous|aurez|aras%[m|é]|
+|ils|auront|aras%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|aras%[m|erais]|
+|tu|aras%[m|erais]|
+|il|aras%[m|erait]|
+|nous|aras%[m|erions]|
+|vous|aras%[m|eriez]|
+|ils|aras%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|aras%[m|é]|
+|tu|aurais|aras%[m|é]|
+|il|aurait|aras%[m|é]|
+|nous|aurions|aras%[m|é]|
+|vous|auriez|aras%[m|é]|
+|ils|auraient|aras%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|aras%[m|e]|
+|que|tu|aras%[m|es]|
+|qu'|il|aras%[m|e]|
+|que|nous|aras%[m|ions]|
+|que|vous|aras%[m|iez]|
+|qu'|ils|aras%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|aras%[m|é]|
+|que|tu|aies|aras%[m|é]|
+|qu'|il|ait|aras%[m|é]|
+|que|nous|ayons|aras%[m|é]|
+|que|vous|ayez|aras%[m|é]|
+|qu'|ils|aient|aras%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|aras%[m|asse]|
+|que|tu|aras%[m|asses]|
+|qu'|il|aras%[m|ât]|
+|que|nous|aras%[m|assions]|
+|que|vous|aras%[m|assiez]|
+|qu'|ils|aras%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|aras%[m|é]|
+|que|tu|eusses|aras%[m|é]|
+|qu'|il|eût|aras%[m|é]|
+|que|nous|eussions|aras%[m|é]|
+|que|vous|eussiez|aras%[m|é]|
+|qu'|ils|eussent|aras%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aras%[m|e]|
+|aras%[m|ons]|
+|aras%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|aras%[m|é]|
+|ayons|aras%[m|é]|
+|ayez|aras%[m|é]|
+|]
+

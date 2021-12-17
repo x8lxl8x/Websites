@@ -1,0 +1,190 @@
+# transborder %[clVerbGroup|1]
+[-
+transporter une cargaison d'un véhicule à un autre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|transbord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|transbord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|transbord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||transbord%[m|é]|
+|ayant|transbord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en transbord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|transbord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|transbord%[m|e]|
+|tu|transbord%[m|es]|
+|il|transbord%[m|e]|
+|nous|transbord%[m|ons]|
+|vous|transbord%[m|ez]|
+|ils|transbord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|transbord%[m|é]|
+|tu|as |transbord%[m|é]|
+|il|a|transbord%[m|é]|
+|nous|avons|transbord%[m|é]|
+|vous|avez|transbord%[m|é]|
+|ils|ont|transbord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|transbord%[m|ais]|
+|tu|transbord%[m|ais]|
+|il|transbord%[m|ait]|
+|nous|transbord%[m|ions]|
+|vous|transbord%[m|iez]|
+|ils|transbord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|transbord%[m|é]|
+|tu|avais|transbord%[m|é]|
+|il|avait|transbord%[m|é]|
+|nous|avions|transbord%[m|é]|
+|vous|aviez|transbord%[m|é]|
+|ils|avaient|transbord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|transbord%[m|ai]|
+|tu|transbord%[m|as]|
+|il|transbord%[m|a]|
+|nous|transbord%[m|âmes]|
+|vous|transbord%[m|âtes]|
+|ils|transbord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|transbord%[m|é]|
+|tu|eus|transbord%[m|é]|
+|il|eut|transbord%[m|é]|
+|nous|e&ucirc;mes|transbord%[m|é]|
+|vous|e&ucirc;tes|transbord%[m|é]|
+|ils|eurent|transbord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|transbord%[m|erai]|
+|tu|transbord%[m|eras]|
+|il|transbord%[m|era]|
+|nous|transbord%[m|erons]|
+|vous|transbord%[m|erez]|
+|ils|transbord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|transbord%[m|é]|
+|tu|auras|transbord%[m|é]|
+|il|aura|transbord%[m|é]|
+|nous|aurons|transbord%[m|é]|
+|vous|aurez|transbord%[m|é]|
+|ils|auront|transbord%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|transbord%[m|erais]|
+|tu|transbord%[m|erais]|
+|il|transbord%[m|erait]|
+|nous|transbord%[m|erions]|
+|vous|transbord%[m|eriez]|
+|ils|transbord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|transbord%[m|é]|
+|tu|aurais|transbord%[m|é]|
+|il|aurait|transbord%[m|é]|
+|nous|aurions|transbord%[m|é]|
+|vous|auriez|transbord%[m|é]|
+|ils|auraient|transbord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|transbord%[m|e]|
+|que|tu|transbord%[m|es]|
+|qu'|il|transbord%[m|e]|
+|que|nous|transbord%[m|ions]|
+|que|vous|transbord%[m|iez]|
+|qu'|ils|transbord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|transbord%[m|é]|
+|que|tu|aies|transbord%[m|é]|
+|qu'|il|ait|transbord%[m|é]|
+|que|nous|ayons|transbord%[m|é]|
+|que|vous|ayez|transbord%[m|é]|
+|qu'|ils|aient|transbord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|transbord%[m|asse]|
+|que|tu|transbord%[m|asses]|
+|qu'|il|transbord%[m|ât]|
+|que|nous|transbord%[m|assions]|
+|que|vous|transbord%[m|assiez]|
+|qu'|ils|transbord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|transbord%[m|é]|
+|que|tu|eusses|transbord%[m|é]|
+|qu'|il|eût|transbord%[m|é]|
+|que|nous|eussions|transbord%[m|é]|
+|que|vous|eussiez|transbord%[m|é]|
+|qu'|ils|eussent|transbord%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|transbord%[m|e]|
+|transbord%[m|ons]|
+|transbord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|transbord%[m|é]|
+|ayons|transbord%[m|é]|
+|ayez|transbord%[m|é]|
+|]
+

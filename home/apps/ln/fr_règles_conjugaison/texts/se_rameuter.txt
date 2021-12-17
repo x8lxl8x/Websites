@@ -1,0 +1,190 @@
+# se rameuter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rameut%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rameut%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rameut%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rameut%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rameut%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rameut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rameut%[m|e]|
+|tu|te|rameut%[m|es]|
+|il|se|rameut%[m|e]|
+|nous|nous|rameut%[m|ons]|
+|vous|vous|rameut%[m|ez]|
+|ils|se|rameut%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rameut%[m|é]|
+|tu|t'|es|rameut%[m|é]|
+|il|s'|est|rameut%[m|é]|
+|nous|nous|sommes|rameut%[m|és]|
+|vous|vous|êtes|rameut%[m|és]|
+|ils|se|sont|rameut%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rameut%[m|ais]|
+|tu|te|rameut%[m|ais]|
+|il|se|rameut%[m|ait]|
+|nous|nous|rameut%[m|ions]|
+|vous|vous|rameut%[m|iez]|
+|ils|se|rameut%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rameut%[m|é]|
+|tu|t'|étais|rameut%[m|é]|
+|il|s'|était|rameut%[m|é]|
+|nous|nous|étions|rameut%[m|és]|
+|vous|vous|étiez|rameut%[m|és]|
+|ils|s'|étaient|rameut%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rameut%[m|ai]|
+|tu|te|rameut%[m|as]|
+|il|se|rameut%[m|a]|
+|nous|nous|rameut%[m|âmes]|
+|vous|vous|rameut%[m|âtes]|
+|ils|se|rameut%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rameut%[m|é]|
+|tu|te|fus|rameut%[m|é]|
+|il|se|fut|rameut%[m|é]|
+|nous|nous|fûmes|rameut%[m|és]|
+|vous|vous|fûtes|rameut%[m|és]|
+|ils|se|furent|rameut%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rameut%[m|erai]|
+|tu|te|rameut%[m|eras]|
+|il|se|rameut%[m|era]|
+|nous|nous|rameut%[m|erons]|
+|vous|vous|rameut%[m|erez]|
+|ils|se|rameut%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rameut%[m|é]|
+|tu|te|seras|rameut%[m|é]|
+|il|se|sera|rameut%[m|é]|
+|nous|nous|serons|rameut%[m|és]|
+|vous|vous|serez|rameut%[m|és]|
+|ils|se|seront|rameut%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rameut%[m|erais]|
+|tu|te|rameut%[m|erais]|
+|il|se|rameut%[m|erait]|
+|nous|nous|rameut%[m|erions]|
+|vous|vous|rameut%[m|eriez]|
+|ils|se|rameut%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rameut%[m|é]|
+|tu|te|serais|rameut%[m|é]|
+|il|se|serait|rameut%[m|é]|
+|nous|nous|serions|rameut%[m|és]|
+|vous|vous|seriez|rameut%[m|és]|
+|ils|se|seraient|rameut%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rameut%[m|e]|
+|que|tu|te|rameut%[m|es]|
+|qu'|il|se|rameut%[m|e]|
+|que|nous|nous|rameut%[m|ions]|
+|que|vous|vous|rameut%[m|iez]|
+|qu'|ils|se|rameut%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rameut%[m|é]|
+|que|tu|te|sois|rameut%[m|é]|
+|qu'|il|se|soit|rameut%[m|é]|
+|que|nous|nous|soyons|rameut%[m|és]|
+|que|vous|vous|soyez|rameut%[m|és]|
+|qu'|ils|se|soient|rameut%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rameut%[m|asse]|
+|que|tu|te|rameut%[m|asses]|
+|qu'|il|se|rameut%[m|ât]|
+|que|nous|nous|rameut%[m|assions]|
+|que|vous|vous|rameut%[m|assiez]|
+|qu'|ils|se|rameut%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rameut%[m|é]|
+|que|tu|te|fusses|rameut%[m|é]|
+|qu'|il|se|fût|rameut%[m|é]|
+|que|nous|nous|fussions|rameut%[m|és]|
+|que|vous|vous|fussiez|rameut%[m|és]|
+|qu'|ils|se|fussent|rameut%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rameut%[m|e]-toi|
+|rameut%[m|ons]-nous|
+|rameut%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

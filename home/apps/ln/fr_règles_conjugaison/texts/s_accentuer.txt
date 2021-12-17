@@ -1,0 +1,192 @@
+# s'accentuer %[clVerbGroup|1]
+[-
+augmenter l'intensité de la voix sur un son, dans la parole. 
+placer un accent graphique sur une lettre de l'alphabet. 
+rendre plus intense, plus marqué, faire ressortir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'accentu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|accentu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'accentu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|accentu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'accentu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|accentu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|accentu%[m|e]|
+|tu|t'|accentu%[m|es]|
+|il|s'|accentu%[m|e]|
+|nous|nous|accentu%[m|ons]|
+|vous|vous|accentu%[m|ez]|
+|ils|s'|accentu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|accentu%[m|é]|
+|tu|t'|es|accentu%[m|é]|
+|il|s'|est|accentu%[m|é]|
+|nous|nous|sommes|accentu%[m|és]|
+|vous|vous|êtes|accentu%[m|és]|
+|ils|se|sont|accentu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|accentu%[m|ais]|
+|tu|t'|accentu%[m|ais]|
+|il|s'|accentu%[m|ait]|
+|nous|nous|accentu%[m|ions]|
+|vous|vous|accentu%[m|iez]|
+|ils|s'|accentu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|accentu%[m|é]|
+|tu|t'|étais|accentu%[m|é]|
+|il|s'|était|accentu%[m|é]|
+|nous|nous|étions|accentu%[m|és]|
+|vous|vous|étiez|accentu%[m|és]|
+|ils|s'|étaient|accentu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|accentu%[m|ai]|
+|tu|t'|accentu%[m|as]|
+|il|s'|accentu%[m|a]|
+|nous|nous|accentu%[m|âmes]|
+|vous|vous|accentu%[m|âtes]|
+|ils|s'|accentu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|accentu%[m|é]|
+|tu|te|fus|accentu%[m|é]|
+|il|se|fut|accentu%[m|é]|
+|nous|nous|fûmes|accentu%[m|és]|
+|vous|vous|fûtes|accentu%[m|és]|
+|ils|se|furent|accentu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|accentu%[m|erai]|
+|tu|t'|accentu%[m|eras]|
+|il|s'|accentu%[m|era]|
+|nous|nous|accentu%[m|erons]|
+|vous|vous|accentu%[m|erez]|
+|ils|s'|accentu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|accentu%[m|é]|
+|tu|te|seras|accentu%[m|é]|
+|il|se|sera|accentu%[m|é]|
+|nous|nous|serons|accentu%[m|és]|
+|vous|vous|serez|accentu%[m|és]|
+|ils|se|seront|accentu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|accentu%[m|erais]|
+|tu|t'|accentu%[m|erais]|
+|il|s'|accentu%[m|erait]|
+|nous|nous|accentu%[m|erions]|
+|vous|vous|accentu%[m|eriez]|
+|ils|s'|accentu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|accentu%[m|é]|
+|tu|te|serais|accentu%[m|é]|
+|il|se|serait|accentu%[m|é]|
+|nous|nous|serions|accentu%[m|és]|
+|vous|vous|seriez|accentu%[m|és]|
+|ils|se|seraient|accentu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|accentu%[m|e]|
+|que|tu|t'|accentu%[m|es]|
+|qu'|il|s'|accentu%[m|e]|
+|que|nous|nous|accentu%[m|ions]|
+|que|vous|vous|accentu%[m|iez]|
+|qu'|ils|s'|accentu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|accentu%[m|é]|
+|que|tu|te|sois|accentu%[m|é]|
+|qu'|il|se|soit|accentu%[m|é]|
+|que|nous|nous|soyons|accentu%[m|és]|
+|que|vous|vous|soyez|accentu%[m|és]|
+|qu'|ils|se|soient|accentu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|accentu%[m|asse]|
+|que|tu|t'|accentu%[m|asses]|
+|qu'|il|s'|accentu%[m|ât]|
+|que|nous|nous|accentu%[m|assions]|
+|que|vous|vous|accentu%[m|assiez]|
+|qu'|ils|s'|accentu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|accentu%[m|é]|
+|que|tu|te|fusses|accentu%[m|é]|
+|qu'|il|se|fût|accentu%[m|é]|
+|que|nous|nous|fussions|accentu%[m|és]|
+|que|vous|vous|fussiez|accentu%[m|és]|
+|qu'|ils|se|fussent|accentu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accentu%[m|e]-toi|
+|accentu%[m|ons]-nous|
+|accentu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# se consommer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se consomm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|consomm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se consomm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|consomm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se consomm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|consomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|consomm%[m|e]|
+|tu|te|consomm%[m|es]|
+|il|se|consomm%[m|e]|
+|nous|nous|consomm%[m|ons]|
+|vous|vous|consomm%[m|ez]|
+|ils|se|consomm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|consomm%[m|é]|
+|tu|t'|es|consomm%[m|é]|
+|il|s'|est|consomm%[m|é]|
+|nous|nous|sommes|consomm%[m|és]|
+|vous|vous|êtes|consomm%[m|és]|
+|ils|se|sont|consomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|consomm%[m|ais]|
+|tu|te|consomm%[m|ais]|
+|il|se|consomm%[m|ait]|
+|nous|nous|consomm%[m|ions]|
+|vous|vous|consomm%[m|iez]|
+|ils|se|consomm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|consomm%[m|é]|
+|tu|t'|étais|consomm%[m|é]|
+|il|s'|était|consomm%[m|é]|
+|nous|nous|étions|consomm%[m|és]|
+|vous|vous|étiez|consomm%[m|és]|
+|ils|s'|étaient|consomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|consomm%[m|ai]|
+|tu|te|consomm%[m|as]|
+|il|se|consomm%[m|a]|
+|nous|nous|consomm%[m|âmes]|
+|vous|vous|consomm%[m|âtes]|
+|ils|se|consomm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|consomm%[m|é]|
+|tu|te|fus|consomm%[m|é]|
+|il|se|fut|consomm%[m|é]|
+|nous|nous|fûmes|consomm%[m|és]|
+|vous|vous|fûtes|consomm%[m|és]|
+|ils|se|furent|consomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|consomm%[m|erai]|
+|tu|te|consomm%[m|eras]|
+|il|se|consomm%[m|era]|
+|nous|nous|consomm%[m|erons]|
+|vous|vous|consomm%[m|erez]|
+|ils|se|consomm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|consomm%[m|é]|
+|tu|te|seras|consomm%[m|é]|
+|il|se|sera|consomm%[m|é]|
+|nous|nous|serons|consomm%[m|és]|
+|vous|vous|serez|consomm%[m|és]|
+|ils|se|seront|consomm%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|consomm%[m|erais]|
+|tu|te|consomm%[m|erais]|
+|il|se|consomm%[m|erait]|
+|nous|nous|consomm%[m|erions]|
+|vous|vous|consomm%[m|eriez]|
+|ils|se|consomm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|consomm%[m|é]|
+|tu|te|serais|consomm%[m|é]|
+|il|se|serait|consomm%[m|é]|
+|nous|nous|serions|consomm%[m|és]|
+|vous|vous|seriez|consomm%[m|és]|
+|ils|se|seraient|consomm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|consomm%[m|e]|
+|que|tu|te|consomm%[m|es]|
+|qu'|il|se|consomm%[m|e]|
+|que|nous|nous|consomm%[m|ions]|
+|que|vous|vous|consomm%[m|iez]|
+|qu'|ils|se|consomm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|consomm%[m|é]|
+|que|tu|te|sois|consomm%[m|é]|
+|qu'|il|se|soit|consomm%[m|é]|
+|que|nous|nous|soyons|consomm%[m|és]|
+|que|vous|vous|soyez|consomm%[m|és]|
+|qu'|ils|se|soient|consomm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|consomm%[m|asse]|
+|que|tu|te|consomm%[m|asses]|
+|qu'|il|se|consomm%[m|ât]|
+|que|nous|nous|consomm%[m|assions]|
+|que|vous|vous|consomm%[m|assiez]|
+|qu'|ils|se|consomm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|consomm%[m|é]|
+|que|tu|te|fusses|consomm%[m|é]|
+|qu'|il|se|fût|consomm%[m|é]|
+|que|nous|nous|fussions|consomm%[m|és]|
+|que|vous|vous|fussiez|consomm%[m|és]|
+|qu'|ils|se|fussent|consomm%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|consomm%[m|e]-toi|
+|consomm%[m|ons]-nous|
+|consomm%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

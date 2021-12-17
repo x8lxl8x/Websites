@@ -1,0 +1,190 @@
+# lifter %[clVerbGroup|1]
+[-
+exécuter un lift. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|lift%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|lift%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|lift%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||lift%[m|é]|
+|ayant|lift%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en lift%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|lift%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|lift%[m|e]|
+|tu|lift%[m|es]|
+|il|lift%[m|e]|
+|nous|lift%[m|ons]|
+|vous|lift%[m|ez]|
+|ils|lift%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|lift%[m|é]|
+|tu|as |lift%[m|é]|
+|il|a|lift%[m|é]|
+|nous|avons|lift%[m|é]|
+|vous|avez|lift%[m|é]|
+|ils|ont|lift%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|lift%[m|ais]|
+|tu|lift%[m|ais]|
+|il|lift%[m|ait]|
+|nous|lift%[m|ions]|
+|vous|lift%[m|iez]|
+|ils|lift%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|lift%[m|é]|
+|tu|avais|lift%[m|é]|
+|il|avait|lift%[m|é]|
+|nous|avions|lift%[m|é]|
+|vous|aviez|lift%[m|é]|
+|ils|avaient|lift%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|lift%[m|ai]|
+|tu|lift%[m|as]|
+|il|lift%[m|a]|
+|nous|lift%[m|âmes]|
+|vous|lift%[m|âtes]|
+|ils|lift%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|lift%[m|é]|
+|tu|eus|lift%[m|é]|
+|il|eut|lift%[m|é]|
+|nous|e&ucirc;mes|lift%[m|é]|
+|vous|e&ucirc;tes|lift%[m|é]|
+|ils|eurent|lift%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|lift%[m|erai]|
+|tu|lift%[m|eras]|
+|il|lift%[m|era]|
+|nous|lift%[m|erons]|
+|vous|lift%[m|erez]|
+|ils|lift%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|lift%[m|é]|
+|tu|auras|lift%[m|é]|
+|il|aura|lift%[m|é]|
+|nous|aurons|lift%[m|é]|
+|vous|aurez|lift%[m|é]|
+|ils|auront|lift%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|lift%[m|erais]|
+|tu|lift%[m|erais]|
+|il|lift%[m|erait]|
+|nous|lift%[m|erions]|
+|vous|lift%[m|eriez]|
+|ils|lift%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|lift%[m|é]|
+|tu|aurais|lift%[m|é]|
+|il|aurait|lift%[m|é]|
+|nous|aurions|lift%[m|é]|
+|vous|auriez|lift%[m|é]|
+|ils|auraient|lift%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|lift%[m|e]|
+|que|tu|lift%[m|es]|
+|qu'|il|lift%[m|e]|
+|que|nous|lift%[m|ions]|
+|que|vous|lift%[m|iez]|
+|qu'|ils|lift%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|lift%[m|é]|
+|que|tu|aies|lift%[m|é]|
+|qu'|il|ait|lift%[m|é]|
+|que|nous|ayons|lift%[m|é]|
+|que|vous|ayez|lift%[m|é]|
+|qu'|ils|aient|lift%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|lift%[m|asse]|
+|que|tu|lift%[m|asses]|
+|qu'|il|lift%[m|ât]|
+|que|nous|lift%[m|assions]|
+|que|vous|lift%[m|assiez]|
+|qu'|ils|lift%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|lift%[m|é]|
+|que|tu|eusses|lift%[m|é]|
+|qu'|il|eût|lift%[m|é]|
+|que|nous|eussions|lift%[m|é]|
+|que|vous|eussiez|lift%[m|é]|
+|qu'|ils|eussent|lift%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lift%[m|e]|
+|lift%[m|ons]|
+|lift%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|lift%[m|é]|
+|ayons|lift%[m|é]|
+|ayez|lift%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se scinder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se scind%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|scind%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se scind%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|scind%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se scind%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|scind%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|scind%[m|e]|
+|tu|te|scind%[m|es]|
+|il|se|scind%[m|e]|
+|nous|nous|scind%[m|ons]|
+|vous|vous|scind%[m|ez]|
+|ils|se|scind%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|scind%[m|é]|
+|tu|t'|es|scind%[m|é]|
+|il|s'|est|scind%[m|é]|
+|nous|nous|sommes|scind%[m|és]|
+|vous|vous|êtes|scind%[m|és]|
+|ils|se|sont|scind%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|scind%[m|ais]|
+|tu|te|scind%[m|ais]|
+|il|se|scind%[m|ait]|
+|nous|nous|scind%[m|ions]|
+|vous|vous|scind%[m|iez]|
+|ils|se|scind%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|scind%[m|é]|
+|tu|t'|étais|scind%[m|é]|
+|il|s'|était|scind%[m|é]|
+|nous|nous|étions|scind%[m|és]|
+|vous|vous|étiez|scind%[m|és]|
+|ils|s'|étaient|scind%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|scind%[m|ai]|
+|tu|te|scind%[m|as]|
+|il|se|scind%[m|a]|
+|nous|nous|scind%[m|âmes]|
+|vous|vous|scind%[m|âtes]|
+|ils|se|scind%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|scind%[m|é]|
+|tu|te|fus|scind%[m|é]|
+|il|se|fut|scind%[m|é]|
+|nous|nous|fûmes|scind%[m|és]|
+|vous|vous|fûtes|scind%[m|és]|
+|ils|se|furent|scind%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|scind%[m|erai]|
+|tu|te|scind%[m|eras]|
+|il|se|scind%[m|era]|
+|nous|nous|scind%[m|erons]|
+|vous|vous|scind%[m|erez]|
+|ils|se|scind%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|scind%[m|é]|
+|tu|te|seras|scind%[m|é]|
+|il|se|sera|scind%[m|é]|
+|nous|nous|serons|scind%[m|és]|
+|vous|vous|serez|scind%[m|és]|
+|ils|se|seront|scind%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|scind%[m|erais]|
+|tu|te|scind%[m|erais]|
+|il|se|scind%[m|erait]|
+|nous|nous|scind%[m|erions]|
+|vous|vous|scind%[m|eriez]|
+|ils|se|scind%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|scind%[m|é]|
+|tu|te|serais|scind%[m|é]|
+|il|se|serait|scind%[m|é]|
+|nous|nous|serions|scind%[m|és]|
+|vous|vous|seriez|scind%[m|és]|
+|ils|se|seraient|scind%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|scind%[m|e]|
+|que|tu|te|scind%[m|es]|
+|qu'|il|se|scind%[m|e]|
+|que|nous|nous|scind%[m|ions]|
+|que|vous|vous|scind%[m|iez]|
+|qu'|ils|se|scind%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|scind%[m|é]|
+|que|tu|te|sois|scind%[m|é]|
+|qu'|il|se|soit|scind%[m|é]|
+|que|nous|nous|soyons|scind%[m|és]|
+|que|vous|vous|soyez|scind%[m|és]|
+|qu'|ils|se|soient|scind%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|scind%[m|asse]|
+|que|tu|te|scind%[m|asses]|
+|qu'|il|se|scind%[m|ât]|
+|que|nous|nous|scind%[m|assions]|
+|que|vous|vous|scind%[m|assiez]|
+|qu'|ils|se|scind%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|scind%[m|é]|
+|que|tu|te|fusses|scind%[m|é]|
+|qu'|il|se|fût|scind%[m|é]|
+|que|nous|nous|fussions|scind%[m|és]|
+|que|vous|vous|fussiez|scind%[m|és]|
+|qu'|ils|se|fussent|scind%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|scind%[m|e]-toi|
+|scind%[m|ons]-nous|
+|scind%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

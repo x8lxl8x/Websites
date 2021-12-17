@@ -1,0 +1,122 @@
+====== Глагол
+
+=== Категории глагола
+
+<h6>Глагол</h6>
+
+<h1>Категории глагола</h1>
+
+<h2>Категория вида</h2>
+<p>Глаголы бывают <em>совершенного вида</em> и <em>несовершенного вида</em>. Они практически не отличаются от соответствующих в русском языке. Небольшое количество глаголов обладает сразу двумя видовыми значениями (<span class='clSrc'>ofiarować</span> «жертвовать», <span class='clSrc'>anulować</span>, <span class='clSrc'>kazać</span> «велеть, заставить/заставлять»). Есть также слова, не имеющие видовой пары, например, глаголы несовершенного вида <span class='clSrc'>mieć</span> «иметь», <span class='clSrc'>móc</span> «мочь», <span class='clSrc'>dyszeć</span>, <span class='clSrc'>owocować</span> «плодоносить», <span class='clSrc'>rozkoszować</span>; или глаголы совершенного вида <span class='clSrc'>opaść</span>, <span class='clSrc'>osierocić</span>, <span class='clSrc'>osłupieć</span> «остолбенеть», <span class='clSrc'>owdowieć</span>. Могут встретиться случаи, когда разным значениям одного и того же глагола будут соответствовать различные видовые формы (<span class='clSrc'>cisnąć</span> «бросить» - совершенный вид, «жать» - несовершенный вид).</p>
+<p>Однако большинство польских глаголов образуют видовые пары при помощи приставок, суффиксов, изменений в основе:</p>
+<table>
+<tr>
+<th></th>
+<th>Совершенный вид</th>
+<th>Несовершенный вид</th>
+</tr>
+<tr>
+<td rowspan="6">изменение суффикса</td>
+<td><span class='clSrc'>rzucić</span> «бросить»</td>
+<td><span class='clSrc'>rzucać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>wydać</span> «выдать»</td>
+<td><span class='clSrc'>wydawać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>kupić</span> «купить»</td>
+<td><span class='clSrc'>kupować</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>przegrać</span> «проиграць»</td>
+<td><span class='clSrc'>przegrywać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>błysnąć</span> «блеснуть»</td>
+<td><span class='clSrc'>błyskać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>mignąć</span> «моргнуть»</td>
+<td><span class='clSrc'>migać</span></td>
+</tr>
+<tr>
+<td rowspan="3">появление приставки</td>
+<td><span class='clSrc'>wypić</span> «выпить»</td>
+<td><span class='clSrc'>pić</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>napisać</span> «написать»</td>
+<td><span class='clSrc'>pisać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>zrobić</span> «сделать»</td>
+<td><span class='clSrc'>robić</span></td>
+</tr>
+<tr>
+<td>изменение в основе</td>
+<td><span class='clSrc'>zabrać</span> «забрать»</td>
+<td><span class='clSrc'>zabierać</span></td>
+</tr>
+<tr>
+<td rowspan="3">изменение в основе и изменение суффикса</td>
+<td><span class='clSrc'>uschnąć</span> «высохнуть»</td>
+<td><span class='clSrc'>usychać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>odetchnąć</span> «вздохнуть»</td>
+<td><span class='clSrc'>oddychać</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>wrócić</span> «вернуть»</td>
+<td><span class='clSrc'>wracać</span></td>
+</tr>
+<tr>
+<td rowspan="4">образование формы от другой основы</td>
+<td><span class='clSrc'>brać</span> «брать»</td>
+<td><span class='clSrc'>wziąć</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>mówić</span> «говорить»</td>
+<td><span class='clSrc'>powiedzieć</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>widzieć</span> «видеть»</td>
+<td><span class='clSrc'>zobaczyć</span></td>
+</tr>
+<tr>
+<td><span class='clSrc'>obejrzeć</span> «осмотреть»</td>
+<td><span class='clSrc'>oglądać</span></td>
+</tr>
+</table>
+<p>Глаголы несовершенного вида могут образовывать формы настоящего и будущего сложного времени (<span class='clSrc'>piszę</span>, <span class='clSrc'>będę pisał</span>), действительное причастие настоящего времени (<span class='clSrc'>piszący</span>), деепричастие с суффиксом <span class='clSrc'>-ąc</span> (<span class='clSrc'>pisząc</span>), в то время, как глаголы совершенного вида образуют формы простого будущего времени (<span class='clSrc'>napiszę</span>), деепричастия с суффиксами <span class='clSrc'>-wszy-/-łszy-</span> (<span class='clSrc'>pisawszy</span>), и не имеют форм настоящего времени. Формы прошедшего времени, условного и повелительного наклонений образуют глаголы обоих видов.</p>
+<p>При помощи суффиксов у глагола также выражаются значения однократности и многократности:</p>
+<ul>
+<li><span class='clSrc'>nieść</span> «нести» - <span class='clSrc'>nosić</span>,</li>
+<li><span class='clSrc'>mówić</span> «говорить» - <span class='clSrc'>mawiać</span>,</li>
+<li><span class='clSrc'>ciąć</span> «резать» - <span class='clSrc'>wycinać</span>,</li>
+<li><span class='clSrc'>płakać</span> «плакать» - <span class='clSrc'>popłаkiwać</span>,</li>
+<li><span class='clSrc'>chrapać</span> «храпеть» - <span class='clSrc'>pochrapywać</span>,</li>
+<li><span class='clSrc'>jeść</span> «есть» - <span class='clSrc'>jadać</span>,</li>
+<li><span class='clSrc'>czytać</span> «читать» - <span class='clSrc'>czytywać</span>,</li>
+<li><span class='clSrc'>spać</span> «спать» - <span class='clSrc'>sypiać</span>,</li>
+<li><span class='clSrc'>widzieć się</span> «видеться» - <span class='clSrc'>widywać się</span>,</li>
+<li><span class='clSrc'>być</span> «быть» - <span class='clSrc'>bywać</span>,</li>
+<li><span class='clSrc'>siedzieć</span> «cидеть» - <span class='clSrc'>siadywać</span>,</li>
+<li><span class='clSrc'>mieć</span> «иметь» - <span class='clSrc'>miewać</span>,</li>
+<li><span class='clSrc'>chodzić</span> «ходить» - <span class='clSrc'>chadzać</span>,</li>
+<li><span class='clSrc'>płynąć</span> «плыть» - <span class='clSrc'>pływać</span>. </li>
+</ul>
+<h2>Категория наклонения</h2>
+<p>Как и в русском языке, существуют следующие наклонения: <em>изъявительное</em>, которое представляет действие как реально происходящее (<span class='clSrc'>piszę</span>), <em>условное</em>, при котором действие осознается как возможное (<span class='clSrc'>pisałby</span>), <em>повелительное</em>, когда слушающий призывается к выполнению определенного действия (<span class='clSrc'>pisz!</span>).</p>
+<h2>Категория времени</h2>
+<p>Эта категория объединяет следующие грамматические значения: <em>настоящее время</em> (<span class='clSrc'>widzę</span>), <em>прошедшее время</em> (<span class='clSrc'>widziałem</span>, <span class='clSrc'>napisałaś</span>), <em>будущее время</em> (<span class='clSrc'>będę widział</span>, <span class='clSrc'>napiszesz</span>). Эти значения практически не отличаются от существующих в русском языке.</p>
+<h2>Категория залога</h2>
+<p>В рамках этой категории существуют следующие грамматические значения: <em>действительный залог</em>, <em>страдательный залог</em>, <em>возвратный залог</em>.</p>
+<p>Действительный и страдательный залог сосуществуют в предложениях, где сказуемым является переходный глагол, т.е. глагол, сочетающийся с существительным в винительном падеже без предлога. В таких предложениях подлежащее представляет или субъект, выполняющий действие, или объект, на который действие направлено (<span class='clSrc'>on niesie sztandar</span> «он несет флаг» - <span class='clSrc'>sztandar jest niesiony przez niego</span>, <span class='clSrc'>koń pije wodę</span> «конь пьет воду» - <span class='clSrc'>woda jest pita przez konia</span>). Страдательный залог в польском языке выражается исключительно формой страдательного залога причастия (<span class='clSrc'>niesiony</span>, <span class='clSrc'>pita</span>).</p>
+<h2>Категория лица</h2>
+<p>Как и в русском языке, здесь объединяются грамматические значения 3 лиц, но, в отличие от русского языка, они распространяются на все спрягаемые формы, в том числе прошедшего времени и условного наклонения.</p>
+<h2>Категория числа</h2>
+<p>Эта категория объединяет значения <em>единственного и множественного числа</em> и проходит через все спрягаемые глагольные формы.</p>
+<h2>Категория рода</h2>
+<p>Эта категория включает значения <em>мужского, женского и среднего рода</em> и проявляется в прошедшем времени и условном наклонении, а также в системе причастий и деепричастий. Во множественном числе в этих формах реализуется категория мужского лица, которая зависит от категории мужского лица подлежащего. Причастия также имеют категорию падежа.</p>

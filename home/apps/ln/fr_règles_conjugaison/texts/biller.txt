@@ -1,0 +1,190 @@
+# biller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bill%[m|é]|
+|ayant|bill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bill%[m|e]|
+|tu|bill%[m|es]|
+|il|bill%[m|e]|
+|nous|bill%[m|ons]|
+|vous|bill%[m|ez]|
+|ils|bill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bill%[m|é]|
+|tu|as |bill%[m|é]|
+|il|a|bill%[m|é]|
+|nous|avons|bill%[m|é]|
+|vous|avez|bill%[m|é]|
+|ils|ont|bill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bill%[m|ais]|
+|tu|bill%[m|ais]|
+|il|bill%[m|ait]|
+|nous|bill%[m|ions]|
+|vous|bill%[m|iez]|
+|ils|bill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bill%[m|é]|
+|tu|avais|bill%[m|é]|
+|il|avait|bill%[m|é]|
+|nous|avions|bill%[m|é]|
+|vous|aviez|bill%[m|é]|
+|ils|avaient|bill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bill%[m|ai]|
+|tu|bill%[m|as]|
+|il|bill%[m|a]|
+|nous|bill%[m|âmes]|
+|vous|bill%[m|âtes]|
+|ils|bill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bill%[m|é]|
+|tu|eus|bill%[m|é]|
+|il|eut|bill%[m|é]|
+|nous|e&ucirc;mes|bill%[m|é]|
+|vous|e&ucirc;tes|bill%[m|é]|
+|ils|eurent|bill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bill%[m|erai]|
+|tu|bill%[m|eras]|
+|il|bill%[m|era]|
+|nous|bill%[m|erons]|
+|vous|bill%[m|erez]|
+|ils|bill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bill%[m|é]|
+|tu|auras|bill%[m|é]|
+|il|aura|bill%[m|é]|
+|nous|aurons|bill%[m|é]|
+|vous|aurez|bill%[m|é]|
+|ils|auront|bill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bill%[m|erais]|
+|tu|bill%[m|erais]|
+|il|bill%[m|erait]|
+|nous|bill%[m|erions]|
+|vous|bill%[m|eriez]|
+|ils|bill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bill%[m|é]|
+|tu|aurais|bill%[m|é]|
+|il|aurait|bill%[m|é]|
+|nous|aurions|bill%[m|é]|
+|vous|auriez|bill%[m|é]|
+|ils|auraient|bill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bill%[m|e]|
+|que|tu|bill%[m|es]|
+|qu'|il|bill%[m|e]|
+|que|nous|bill%[m|ions]|
+|que|vous|bill%[m|iez]|
+|qu'|ils|bill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bill%[m|é]|
+|que|tu|aies|bill%[m|é]|
+|qu'|il|ait|bill%[m|é]|
+|que|nous|ayons|bill%[m|é]|
+|que|vous|ayez|bill%[m|é]|
+|qu'|ils|aient|bill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bill%[m|asse]|
+|que|tu|bill%[m|asses]|
+|qu'|il|bill%[m|ât]|
+|que|nous|bill%[m|assions]|
+|que|vous|bill%[m|assiez]|
+|qu'|ils|bill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bill%[m|é]|
+|que|tu|eusses|bill%[m|é]|
+|qu'|il|eût|bill%[m|é]|
+|que|nous|eussions|bill%[m|é]|
+|que|vous|eussiez|bill%[m|é]|
+|qu'|ils|eussent|bill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bill%[m|e]|
+|bill%[m|ons]|
+|bill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bill%[m|é]|
+|ayons|bill%[m|é]|
+|ayez|bill%[m|é]|
+|]
+

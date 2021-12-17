@@ -1,0 +1,190 @@
+# boitiller %[clVerbGroup|1]
+[-
+boiter légèrement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|boitill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|boitill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|boitill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||boitill%[m|é]|
+|ayant|boitill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en boitill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|boitill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|boitill%[m|e]|
+|tu|boitill%[m|es]|
+|il|boitill%[m|e]|
+|nous|boitill%[m|ons]|
+|vous|boitill%[m|ez]|
+|ils|boitill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|boitill%[m|é]|
+|tu|as |boitill%[m|é]|
+|il|a|boitill%[m|é]|
+|nous|avons|boitill%[m|é]|
+|vous|avez|boitill%[m|é]|
+|ils|ont|boitill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|boitill%[m|ais]|
+|tu|boitill%[m|ais]|
+|il|boitill%[m|ait]|
+|nous|boitill%[m|ions]|
+|vous|boitill%[m|iez]|
+|ils|boitill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|boitill%[m|é]|
+|tu|avais|boitill%[m|é]|
+|il|avait|boitill%[m|é]|
+|nous|avions|boitill%[m|é]|
+|vous|aviez|boitill%[m|é]|
+|ils|avaient|boitill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|boitill%[m|ai]|
+|tu|boitill%[m|as]|
+|il|boitill%[m|a]|
+|nous|boitill%[m|âmes]|
+|vous|boitill%[m|âtes]|
+|ils|boitill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|boitill%[m|é]|
+|tu|eus|boitill%[m|é]|
+|il|eut|boitill%[m|é]|
+|nous|e&ucirc;mes|boitill%[m|é]|
+|vous|e&ucirc;tes|boitill%[m|é]|
+|ils|eurent|boitill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|boitill%[m|erai]|
+|tu|boitill%[m|eras]|
+|il|boitill%[m|era]|
+|nous|boitill%[m|erons]|
+|vous|boitill%[m|erez]|
+|ils|boitill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|boitill%[m|é]|
+|tu|auras|boitill%[m|é]|
+|il|aura|boitill%[m|é]|
+|nous|aurons|boitill%[m|é]|
+|vous|aurez|boitill%[m|é]|
+|ils|auront|boitill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|boitill%[m|erais]|
+|tu|boitill%[m|erais]|
+|il|boitill%[m|erait]|
+|nous|boitill%[m|erions]|
+|vous|boitill%[m|eriez]|
+|ils|boitill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|boitill%[m|é]|
+|tu|aurais|boitill%[m|é]|
+|il|aurait|boitill%[m|é]|
+|nous|aurions|boitill%[m|é]|
+|vous|auriez|boitill%[m|é]|
+|ils|auraient|boitill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|boitill%[m|e]|
+|que|tu|boitill%[m|es]|
+|qu'|il|boitill%[m|e]|
+|que|nous|boitill%[m|ions]|
+|que|vous|boitill%[m|iez]|
+|qu'|ils|boitill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|boitill%[m|é]|
+|que|tu|aies|boitill%[m|é]|
+|qu'|il|ait|boitill%[m|é]|
+|que|nous|ayons|boitill%[m|é]|
+|que|vous|ayez|boitill%[m|é]|
+|qu'|ils|aient|boitill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|boitill%[m|asse]|
+|que|tu|boitill%[m|asses]|
+|qu'|il|boitill%[m|ât]|
+|que|nous|boitill%[m|assions]|
+|que|vous|boitill%[m|assiez]|
+|qu'|ils|boitill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|boitill%[m|é]|
+|que|tu|eusses|boitill%[m|é]|
+|qu'|il|eût|boitill%[m|é]|
+|que|nous|eussions|boitill%[m|é]|
+|que|vous|eussiez|boitill%[m|é]|
+|qu'|ils|eussent|boitill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boitill%[m|e]|
+|boitill%[m|ons]|
+|boitill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|boitill%[m|é]|
+|ayons|boitill%[m|é]|
+|ayez|boitill%[m|é]|
+|]
+

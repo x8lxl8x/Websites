@@ -1,0 +1,192 @@
+# s'attacher %[clVerbGroup|1]
+[-
+coller au fond d'un plat, d'un récipient. 
+fixer, lier au moyen d'une attache. 
+associer, lier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'attach%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|attach%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'attach%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|attach%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'attach%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|attach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|attach%[m|e]|
+|tu|t'|attach%[m|es]|
+|il|s'|attach%[m|e]|
+|nous|nous|attach%[m|ons]|
+|vous|vous|attach%[m|ez]|
+|ils|s'|attach%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|attach%[m|é]|
+|tu|t'|es|attach%[m|é]|
+|il|s'|est|attach%[m|é]|
+|nous|nous|sommes|attach%[m|és]|
+|vous|vous|êtes|attach%[m|és]|
+|ils|se|sont|attach%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|attach%[m|ais]|
+|tu|t'|attach%[m|ais]|
+|il|s'|attach%[m|ait]|
+|nous|nous|attach%[m|ions]|
+|vous|vous|attach%[m|iez]|
+|ils|s'|attach%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|attach%[m|é]|
+|tu|t'|étais|attach%[m|é]|
+|il|s'|était|attach%[m|é]|
+|nous|nous|étions|attach%[m|és]|
+|vous|vous|étiez|attach%[m|és]|
+|ils|s'|étaient|attach%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|attach%[m|ai]|
+|tu|t'|attach%[m|as]|
+|il|s'|attach%[m|a]|
+|nous|nous|attach%[m|âmes]|
+|vous|vous|attach%[m|âtes]|
+|ils|s'|attach%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|attach%[m|é]|
+|tu|te|fus|attach%[m|é]|
+|il|se|fut|attach%[m|é]|
+|nous|nous|fûmes|attach%[m|és]|
+|vous|vous|fûtes|attach%[m|és]|
+|ils|se|furent|attach%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|attach%[m|erai]|
+|tu|t'|attach%[m|eras]|
+|il|s'|attach%[m|era]|
+|nous|nous|attach%[m|erons]|
+|vous|vous|attach%[m|erez]|
+|ils|s'|attach%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|attach%[m|é]|
+|tu|te|seras|attach%[m|é]|
+|il|se|sera|attach%[m|é]|
+|nous|nous|serons|attach%[m|és]|
+|vous|vous|serez|attach%[m|és]|
+|ils|se|seront|attach%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|attach%[m|erais]|
+|tu|t'|attach%[m|erais]|
+|il|s'|attach%[m|erait]|
+|nous|nous|attach%[m|erions]|
+|vous|vous|attach%[m|eriez]|
+|ils|s'|attach%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|attach%[m|é]|
+|tu|te|serais|attach%[m|é]|
+|il|se|serait|attach%[m|é]|
+|nous|nous|serions|attach%[m|és]|
+|vous|vous|seriez|attach%[m|és]|
+|ils|se|seraient|attach%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|attach%[m|e]|
+|que|tu|t'|attach%[m|es]|
+|qu'|il|s'|attach%[m|e]|
+|que|nous|nous|attach%[m|ions]|
+|que|vous|vous|attach%[m|iez]|
+|qu'|ils|s'|attach%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|attach%[m|é]|
+|que|tu|te|sois|attach%[m|é]|
+|qu'|il|se|soit|attach%[m|é]|
+|que|nous|nous|soyons|attach%[m|és]|
+|que|vous|vous|soyez|attach%[m|és]|
+|qu'|ils|se|soient|attach%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|attach%[m|asse]|
+|que|tu|t'|attach%[m|asses]|
+|qu'|il|s'|attach%[m|ât]|
+|que|nous|nous|attach%[m|assions]|
+|que|vous|vous|attach%[m|assiez]|
+|qu'|ils|s'|attach%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|attach%[m|é]|
+|que|tu|te|fusses|attach%[m|é]|
+|qu'|il|se|fût|attach%[m|é]|
+|que|nous|nous|fussions|attach%[m|és]|
+|que|vous|vous|fussiez|attach%[m|és]|
+|qu'|ils|se|fussent|attach%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attach%[m|e]-toi|
+|attach%[m|ons]-nous|
+|attach%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

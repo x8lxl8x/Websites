@@ -1,0 +1,190 @@
+# renformir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|renform%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|renform%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|renform%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||renform%[m|i]|
+|ayant|renform%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en renform%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|renform%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|renform%[m|is]|
+|tu|renform%[m|is]|
+|il|renform%[m|it]|
+|nous|renform%[m|issons]|
+|vous|renform%[m|issez]|
+|ils|renform%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|renform%[m|i]|
+|tu|as |renform%[m|i]|
+|il|a|renform%[m|i]|
+|nous|avons|renform%[m|i]|
+|vous|avez|renform%[m|i]|
+|ils|ont|renform%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|renform%[m|issais]|
+|tu|renform%[m|issais]|
+|il|renform%[m|issait]|
+|nous|renform%[m|issions]|
+|vous|renform%[m|issiez]|
+|ils|renform%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|renform%[m|i]|
+|tu|avais|renform%[m|i]|
+|il|avait|renform%[m|i]|
+|nous|avions|renform%[m|i]|
+|vous|aviez|renform%[m|i]|
+|ils|avaient|renform%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|renform%[m|is]|
+|tu|renform%[m|is]|
+|il|renform%[m|it]|
+|nous|renform%[m|îmes]|
+|vous|renform%[m|îtes]|
+|ils|renform%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|renform%[m|i]|
+|tu|eus|renform%[m|i]|
+|il|eut|renform%[m|i]|
+|nous|e&ucirc;mes|renform%[m|i]|
+|vous|e&ucirc;tes|renform%[m|i]|
+|ils|eurent|renform%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|renform%[m|irai]|
+|tu|renform%[m|iras]|
+|il|renform%[m|ira]|
+|nous|renform%[m|irons]|
+|vous|renform%[m|irez]|
+|ils|renform%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|renform%[m|i]|
+|tu|auras|renform%[m|i]|
+|il|aura|renform%[m|i]|
+|nous|aurons|renform%[m|i]|
+|vous|aurez|renform%[m|i]|
+|ils|auront|renform%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|renform%[m|irais]|
+|tu|renform%[m|irais]|
+|il|renform%[m|irait]|
+|nous|renform%[m|irions]|
+|vous|renform%[m|iriez]|
+|ils|renform%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|renform%[m|i]|
+|tu|aurais|renform%[m|i]|
+|il|aurait|renform%[m|i]|
+|nous|aurions|renform%[m|i]|
+|vous|auriez|renform%[m|i]|
+|ils|auraient|renform%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|renform%[m|isse]|
+|que|tu|renform%[m|isses]|
+|qu'|il|renform%[m|isse]|
+|que|nous|renform%[m|issions]|
+|que|vous|renform%[m|issiez]|
+|qu'|ils|renform%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|renform%[m|i]|
+|que|tu|aies|renform%[m|i]|
+|qu'|il|ait|renform%[m|i]|
+|que|nous|ayons|renform%[m|i]|
+|que|vous|ayez|renform%[m|i]|
+|qu'|ils|aient|renform%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|renform%[m|isse]|
+|que|tu|renform%[m|isses]|
+|qu'|il|renform%[m|ît]|
+|que|nous|renform%[m|issions]|
+|que|vous|renform%[m|issiez]|
+|qu'|ils|renform%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|renform%[m|i]|
+|que|tu|eusses|renform%[m|i]|
+|qu'|il|eût|renform%[m|i]|
+|que|nous|eussions|renform%[m|i]|
+|que|vous|eussiez|renform%[m|i]|
+|qu'|ils|eussent|renform%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|renform%[m|is]|
+|renform%[m|issons]|
+|renform%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|renform%[m|i]|
+|ayons|renform%[m|i]|
+|ayez|renform%[m|i]|
+|]
+

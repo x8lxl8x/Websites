@@ -1,0 +1,191 @@
+# terminer %[clVerbGroup|1]
+[-
+faire cesser une réunion, une séance. 
+mener à terme, finir quelque chose de commencé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|termin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|termin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|termin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||termin%[m|é]|
+|ayant|termin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en termin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|termin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|termin%[m|e]|
+|tu|termin%[m|es]|
+|il|termin%[m|e]|
+|nous|termin%[m|ons]|
+|vous|termin%[m|ez]|
+|ils|termin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|termin%[m|é]|
+|tu|as |termin%[m|é]|
+|il|a|termin%[m|é]|
+|nous|avons|termin%[m|é]|
+|vous|avez|termin%[m|é]|
+|ils|ont|termin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|termin%[m|ais]|
+|tu|termin%[m|ais]|
+|il|termin%[m|ait]|
+|nous|termin%[m|ions]|
+|vous|termin%[m|iez]|
+|ils|termin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|termin%[m|é]|
+|tu|avais|termin%[m|é]|
+|il|avait|termin%[m|é]|
+|nous|avions|termin%[m|é]|
+|vous|aviez|termin%[m|é]|
+|ils|avaient|termin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|termin%[m|ai]|
+|tu|termin%[m|as]|
+|il|termin%[m|a]|
+|nous|termin%[m|âmes]|
+|vous|termin%[m|âtes]|
+|ils|termin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|termin%[m|é]|
+|tu|eus|termin%[m|é]|
+|il|eut|termin%[m|é]|
+|nous|e&ucirc;mes|termin%[m|é]|
+|vous|e&ucirc;tes|termin%[m|é]|
+|ils|eurent|termin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|termin%[m|erai]|
+|tu|termin%[m|eras]|
+|il|termin%[m|era]|
+|nous|termin%[m|erons]|
+|vous|termin%[m|erez]|
+|ils|termin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|termin%[m|é]|
+|tu|auras|termin%[m|é]|
+|il|aura|termin%[m|é]|
+|nous|aurons|termin%[m|é]|
+|vous|aurez|termin%[m|é]|
+|ils|auront|termin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|termin%[m|erais]|
+|tu|termin%[m|erais]|
+|il|termin%[m|erait]|
+|nous|termin%[m|erions]|
+|vous|termin%[m|eriez]|
+|ils|termin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|termin%[m|é]|
+|tu|aurais|termin%[m|é]|
+|il|aurait|termin%[m|é]|
+|nous|aurions|termin%[m|é]|
+|vous|auriez|termin%[m|é]|
+|ils|auraient|termin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|termin%[m|e]|
+|que|tu|termin%[m|es]|
+|qu'|il|termin%[m|e]|
+|que|nous|termin%[m|ions]|
+|que|vous|termin%[m|iez]|
+|qu'|ils|termin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|termin%[m|é]|
+|que|tu|aies|termin%[m|é]|
+|qu'|il|ait|termin%[m|é]|
+|que|nous|ayons|termin%[m|é]|
+|que|vous|ayez|termin%[m|é]|
+|qu'|ils|aient|termin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|termin%[m|asse]|
+|que|tu|termin%[m|asses]|
+|qu'|il|termin%[m|ât]|
+|que|nous|termin%[m|assions]|
+|que|vous|termin%[m|assiez]|
+|qu'|ils|termin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|termin%[m|é]|
+|que|tu|eusses|termin%[m|é]|
+|qu'|il|eût|termin%[m|é]|
+|que|nous|eussions|termin%[m|é]|
+|que|vous|eussiez|termin%[m|é]|
+|qu'|ils|eussent|termin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|termin%[m|e]|
+|termin%[m|ons]|
+|termin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|termin%[m|é]|
+|ayons|termin%[m|é]|
+|ayez|termin%[m|é]|
+|]
+

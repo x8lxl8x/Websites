@@ -1,0 +1,190 @@
+# rencarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rencard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rencard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rencard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rencard%[m|é]|
+|ayant|rencard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rencard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rencard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rencard%[m|e]|
+|tu|rencard%[m|es]|
+|il|rencard%[m|e]|
+|nous|rencard%[m|ons]|
+|vous|rencard%[m|ez]|
+|ils|rencard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rencard%[m|é]|
+|tu|as |rencard%[m|é]|
+|il|a|rencard%[m|é]|
+|nous|avons|rencard%[m|é]|
+|vous|avez|rencard%[m|é]|
+|ils|ont|rencard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rencard%[m|ais]|
+|tu|rencard%[m|ais]|
+|il|rencard%[m|ait]|
+|nous|rencard%[m|ions]|
+|vous|rencard%[m|iez]|
+|ils|rencard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rencard%[m|é]|
+|tu|avais|rencard%[m|é]|
+|il|avait|rencard%[m|é]|
+|nous|avions|rencard%[m|é]|
+|vous|aviez|rencard%[m|é]|
+|ils|avaient|rencard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rencard%[m|ai]|
+|tu|rencard%[m|as]|
+|il|rencard%[m|a]|
+|nous|rencard%[m|âmes]|
+|vous|rencard%[m|âtes]|
+|ils|rencard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rencard%[m|é]|
+|tu|eus|rencard%[m|é]|
+|il|eut|rencard%[m|é]|
+|nous|e&ucirc;mes|rencard%[m|é]|
+|vous|e&ucirc;tes|rencard%[m|é]|
+|ils|eurent|rencard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rencard%[m|erai]|
+|tu|rencard%[m|eras]|
+|il|rencard%[m|era]|
+|nous|rencard%[m|erons]|
+|vous|rencard%[m|erez]|
+|ils|rencard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rencard%[m|é]|
+|tu|auras|rencard%[m|é]|
+|il|aura|rencard%[m|é]|
+|nous|aurons|rencard%[m|é]|
+|vous|aurez|rencard%[m|é]|
+|ils|auront|rencard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rencard%[m|erais]|
+|tu|rencard%[m|erais]|
+|il|rencard%[m|erait]|
+|nous|rencard%[m|erions]|
+|vous|rencard%[m|eriez]|
+|ils|rencard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rencard%[m|é]|
+|tu|aurais|rencard%[m|é]|
+|il|aurait|rencard%[m|é]|
+|nous|aurions|rencard%[m|é]|
+|vous|auriez|rencard%[m|é]|
+|ils|auraient|rencard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rencard%[m|e]|
+|que|tu|rencard%[m|es]|
+|qu'|il|rencard%[m|e]|
+|que|nous|rencard%[m|ions]|
+|que|vous|rencard%[m|iez]|
+|qu'|ils|rencard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rencard%[m|é]|
+|que|tu|aies|rencard%[m|é]|
+|qu'|il|ait|rencard%[m|é]|
+|que|nous|ayons|rencard%[m|é]|
+|que|vous|ayez|rencard%[m|é]|
+|qu'|ils|aient|rencard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rencard%[m|asse]|
+|que|tu|rencard%[m|asses]|
+|qu'|il|rencard%[m|ât]|
+|que|nous|rencard%[m|assions]|
+|que|vous|rencard%[m|assiez]|
+|qu'|ils|rencard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rencard%[m|é]|
+|que|tu|eusses|rencard%[m|é]|
+|qu'|il|eût|rencard%[m|é]|
+|que|nous|eussions|rencard%[m|é]|
+|que|vous|eussiez|rencard%[m|é]|
+|qu'|ils|eussent|rencard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rencard%[m|e]|
+|rencard%[m|ons]|
+|rencard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rencard%[m|é]|
+|ayons|rencard%[m|é]|
+|ayez|rencard%[m|é]|
+|]
+

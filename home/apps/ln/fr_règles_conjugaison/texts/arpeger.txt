@@ -1,0 +1,190 @@
+# arpéger %[clVerbGroup|1]
+[-
+jouer un passage en arpèges. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|arp%[m|é]g%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|arpég%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|arp%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||arpég%[m|é]|
+|ayant|arpég%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en arp%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|arpég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|arp%[m|è]g%[m|e]|
+|tu|arp%[m|è]g%[m|es]|
+|il|arp%[m|è]g%[m|e]|
+|nous|arp%[m|é]g%[m|eons]|
+|vous|arp%[m|é]g%[m|ez]|
+|ils|arp%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|arpég%[m|é]|
+|tu|as |arpég%[m|é]|
+|il|a|arpég%[m|é]|
+|nous|avons|arpég%[m|é]|
+|vous|avez|arpég%[m|é]|
+|ils|ont|arpég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|arp%[m|é]g%[m|eais]|
+|tu|arp%[m|é]g%[m|eais]|
+|il|arp%[m|é]g%[m|eait]|
+|nous|arp%[m|é]g%[m|ions]|
+|vous|arp%[m|é]g%[m|iez]|
+|ils|arp%[m|é]g%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|arpég%[m|é]|
+|tu|avais|arpég%[m|é]|
+|il|avait|arpég%[m|é]|
+|nous|avions|arpég%[m|é]|
+|vous|aviez|arpég%[m|é]|
+|ils|avaient|arpég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|arp%[m|é]g%[m|eai]|
+|tu|arp%[m|é]g%[m|eas]|
+|il|arp%[m|é]g%[m|ea]|
+|nous|arp%[m|é]g%[m|eâmes]|
+|vous|arp%[m|é]g%[m|eâtes]|
+|ils|arp%[m|é]g%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|arpég%[m|é]|
+|tu|eus|arpég%[m|é]|
+|il|eut|arpég%[m|é]|
+|nous|e&ucirc;mes|arpég%[m|é]|
+|vous|e&ucirc;tes|arpég%[m|é]|
+|ils|eurent|arpég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|arp%[m|é]g%[m|erai]|
+|tu|arp%[m|é]g%[m|eras]|
+|il|arp%[m|é]g%[m|era]|
+|nous|arp%[m|é]g%[m|erons]|
+|vous|arp%[m|é]g%[m|erez]|
+|ils|arp%[m|é]g%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|arpég%[m|é]|
+|tu|auras|arpég%[m|é]|
+|il|aura|arpég%[m|é]|
+|nous|aurons|arpég%[m|é]|
+|vous|aurez|arpég%[m|é]|
+|ils|auront|arpég%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|arp%[m|é]g%[m|erais]|
+|tu|arp%[m|é]g%[m|erais]|
+|il|arp%[m|é]g%[m|erait]|
+|nous|arp%[m|é]g%[m|erions]|
+|vous|arp%[m|é]g%[m|eriez]|
+|ils|arp%[m|é]g%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|arpég%[m|é]|
+|tu|aurais|arpég%[m|é]|
+|il|aurait|arpég%[m|é]|
+|nous|aurions|arpég%[m|é]|
+|vous|auriez|arpég%[m|é]|
+|ils|auraient|arpég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|arp%[m|è]g%[m|e]|
+|que|tu|arp%[m|è]g%[m|es]|
+|qu'|il|arp%[m|è]g%[m|e]|
+|que|nous|arp%[m|é]g%[m|ions]|
+|que|vous|arp%[m|é]g%[m|iez]|
+|qu'|ils|arp%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|arpég%[m|é]|
+|que|tu|aies|arpég%[m|é]|
+|qu'|il|ait|arpég%[m|é]|
+|que|nous|ayons|arpég%[m|é]|
+|que|vous|ayez|arpég%[m|é]|
+|qu'|ils|aient|arpég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|arp%[m|é]g%[m|easse]|
+|que|tu|arp%[m|é]g%[m|easses]|
+|qu'|il|arp%[m|é]g%[m|eât]|
+|que|nous|arp%[m|é]g%[m|eassions]|
+|que|vous|arp%[m|é]g%[m|eassiez]|
+|qu'|ils|arp%[m|é]g%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|arpég%[m|é]|
+|que|tu|eusses|arpég%[m|é]|
+|qu'|il|eût|arpég%[m|é]|
+|que|nous|eussions|arpég%[m|é]|
+|que|vous|eussiez|arpég%[m|é]|
+|qu'|ils|eussent|arpég%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arp%[m|è]g%[m|e]|
+|arp%[m|é]g%[m|eons]|
+|arp%[m|é]g%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|arpég%[m|é]|
+|ayons|arpég%[m|é]|
+|ayez|arpég%[m|é]|
+|]
+

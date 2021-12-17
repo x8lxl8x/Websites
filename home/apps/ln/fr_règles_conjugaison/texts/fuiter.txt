@@ -1,0 +1,190 @@
+# fuiter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fuit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fuit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fuit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fuit%[m|é]|
+|ayant|fuit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fuit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fuit%[m|e]|
+|tu|fuit%[m|es]|
+|il|fuit%[m|e]|
+|nous|fuit%[m|ons]|
+|vous|fuit%[m|ez]|
+|ils|fuit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fuit%[m|é]|
+|tu|as |fuit%[m|é]|
+|il|a|fuit%[m|é]|
+|nous|avons|fuit%[m|é]|
+|vous|avez|fuit%[m|é]|
+|ils|ont|fuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fuit%[m|ais]|
+|tu|fuit%[m|ais]|
+|il|fuit%[m|ait]|
+|nous|fuit%[m|ions]|
+|vous|fuit%[m|iez]|
+|ils|fuit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fuit%[m|é]|
+|tu|avais|fuit%[m|é]|
+|il|avait|fuit%[m|é]|
+|nous|avions|fuit%[m|é]|
+|vous|aviez|fuit%[m|é]|
+|ils|avaient|fuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fuit%[m|ai]|
+|tu|fuit%[m|as]|
+|il|fuit%[m|a]|
+|nous|fuit%[m|âmes]|
+|vous|fuit%[m|âtes]|
+|ils|fuit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fuit%[m|é]|
+|tu|eus|fuit%[m|é]|
+|il|eut|fuit%[m|é]|
+|nous|e&ucirc;mes|fuit%[m|é]|
+|vous|e&ucirc;tes|fuit%[m|é]|
+|ils|eurent|fuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fuit%[m|erai]|
+|tu|fuit%[m|eras]|
+|il|fuit%[m|era]|
+|nous|fuit%[m|erons]|
+|vous|fuit%[m|erez]|
+|ils|fuit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fuit%[m|é]|
+|tu|auras|fuit%[m|é]|
+|il|aura|fuit%[m|é]|
+|nous|aurons|fuit%[m|é]|
+|vous|aurez|fuit%[m|é]|
+|ils|auront|fuit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fuit%[m|erais]|
+|tu|fuit%[m|erais]|
+|il|fuit%[m|erait]|
+|nous|fuit%[m|erions]|
+|vous|fuit%[m|eriez]|
+|ils|fuit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fuit%[m|é]|
+|tu|aurais|fuit%[m|é]|
+|il|aurait|fuit%[m|é]|
+|nous|aurions|fuit%[m|é]|
+|vous|auriez|fuit%[m|é]|
+|ils|auraient|fuit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fuit%[m|e]|
+|que|tu|fuit%[m|es]|
+|qu'|il|fuit%[m|e]|
+|que|nous|fuit%[m|ions]|
+|que|vous|fuit%[m|iez]|
+|qu'|ils|fuit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fuit%[m|é]|
+|que|tu|aies|fuit%[m|é]|
+|qu'|il|ait|fuit%[m|é]|
+|que|nous|ayons|fuit%[m|é]|
+|que|vous|ayez|fuit%[m|é]|
+|qu'|ils|aient|fuit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fuit%[m|asse]|
+|que|tu|fuit%[m|asses]|
+|qu'|il|fuit%[m|ât]|
+|que|nous|fuit%[m|assions]|
+|que|vous|fuit%[m|assiez]|
+|qu'|ils|fuit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fuit%[m|é]|
+|que|tu|eusses|fuit%[m|é]|
+|qu'|il|eût|fuit%[m|é]|
+|que|nous|eussions|fuit%[m|é]|
+|que|vous|eussiez|fuit%[m|é]|
+|qu'|ils|eussent|fuit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fuit%[m|e]|
+|fuit%[m|ons]|
+|fuit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fuit%[m|é]|
+|ayons|fuit%[m|é]|
+|ayez|fuit%[m|é]|
+|]
+

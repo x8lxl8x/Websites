@@ -1,0 +1,193 @@
+# dormir %[clVerbGroup|3]
+[-
+être en état de sommeil. 
+dormir d'un sommeil léger. 
+ne rien produire (choses) 
+être en état d'inactivité. 
+-]
+
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dor%[m|mir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dor%[m|mi]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dor%[m|mant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dor%[m|mi]|
+|ayant|dor%[m|mi]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dor%[m|mant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dor%[m|mi]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dor%[m|s]|
+|tu|dor%[m|s]|
+|il|dor%[m|t]|
+|nous|dor%[m|mons]|
+|vous|dor%[m|mez]|
+|ils|dor%[m|ment]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dor%[m|mi]|
+|tu|as |dor%[m|mi]|
+|il|a|dor%[m|mi]|
+|nous|avons|dor%[m|mi]|
+|vous|avez|dor%[m|mi]|
+|ils|ont|dor%[m|mi]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dor%[m|mais]|
+|tu|dor%[m|mais]|
+|il|dor%[m|mait]|
+|nous|dor%[m|mions]|
+|vous|dor%[m|miez]|
+|ils|dor%[m|maient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dor%[m|mi]|
+|tu|avais|dor%[m|mi]|
+|il|avait|dor%[m|mi]|
+|nous|avions|dor%[m|mi]|
+|vous|aviez|dor%[m|mi]|
+|ils|avaient|dor%[m|mi]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dor%[m|mis]|
+|tu|dor%[m|mis]|
+|il|dor%[m|mit]|
+|nous|dor%[m|mîmes]|
+|vous|dor%[m|mîtes]|
+|ils|dor%[m|mirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dor%[m|mi]|
+|tu|eus|dor%[m|mi]|
+|il|eut|dor%[m|mi]|
+|nous|e&ucirc;mes|dor%[m|mi]|
+|vous|e&ucirc;tes|dor%[m|mi]|
+|ils|eurent|dor%[m|mi]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dor%[m|mirai]|
+|tu|dor%[m|miras]|
+|il|dor%[m|mira]|
+|nous|dor%[m|mirons]|
+|vous|dor%[m|mirez]|
+|ils|dor%[m|miront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dor%[m|mi]|
+|tu|auras|dor%[m|mi]|
+|il|aura|dor%[m|mi]|
+|nous|aurons|dor%[m|mi]|
+|vous|aurez|dor%[m|mi]|
+|ils|auront|dor%[m|mi]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dor%[m|mirais]|
+|tu|dor%[m|mirais]|
+|il|dor%[m|mirait]|
+|nous|dor%[m|mirions]|
+|vous|dor%[m|miriez]|
+|ils|dor%[m|miraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dor%[m|mi]|
+|tu|aurais|dor%[m|mi]|
+|il|aurait|dor%[m|mi]|
+|nous|aurions|dor%[m|mi]|
+|vous|auriez|dor%[m|mi]|
+|ils|auraient|dor%[m|mi]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dor%[m|me]|
+|que|tu|dor%[m|mes]|
+|qu'|il|dor%[m|me]|
+|que|nous|dor%[m|mions]|
+|que|vous|dor%[m|miez]|
+|qu'|ils|dor%[m|ment]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dor%[m|mi]|
+|que|tu|aies|dor%[m|mi]|
+|qu'|il|ait|dor%[m|mi]|
+|que|nous|ayons|dor%[m|mi]|
+|que|vous|ayez|dor%[m|mi]|
+|qu'|ils|aient|dor%[m|mi]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dor%[m|misse]|
+|que|tu|dor%[m|misses]|
+|qu'|il|dor%[m|mît]|
+|que|nous|dor%[m|missions]|
+|que|vous|dor%[m|missiez]|
+|qu'|ils|dor%[m|missent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dor%[m|mi]|
+|que|tu|eusses|dor%[m|mi]|
+|qu'|il|eût|dor%[m|mi]|
+|que|nous|eussions|dor%[m|mi]|
+|que|vous|eussiez|dor%[m|mi]|
+|qu'|ils|eussent|dor%[m|mi]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dor%[m|s]|
+|dor%[m|mons]|
+|dor%[m|mez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dor%[m|mi]|
+|ayons|dor%[m|mi]|
+|ayez|dor%[m|mi]|
+|]
+

@@ -1,0 +1,191 @@
+# desceller %[clVerbGroup|1]
+[-
+défaire ce qui est scellé en brisant le sceau. 
+arracher une chose scellée (dans la pierre) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|descell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|descell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|descell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||descell%[m|é]|
+|ayant|descell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en descell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|descell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|descell%[m|e]|
+|tu|descell%[m|es]|
+|il|descell%[m|e]|
+|nous|descell%[m|ons]|
+|vous|descell%[m|ez]|
+|ils|descell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|descell%[m|é]|
+|tu|as |descell%[m|é]|
+|il|a|descell%[m|é]|
+|nous|avons|descell%[m|é]|
+|vous|avez|descell%[m|é]|
+|ils|ont|descell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|descell%[m|ais]|
+|tu|descell%[m|ais]|
+|il|descell%[m|ait]|
+|nous|descell%[m|ions]|
+|vous|descell%[m|iez]|
+|ils|descell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|descell%[m|é]|
+|tu|avais|descell%[m|é]|
+|il|avait|descell%[m|é]|
+|nous|avions|descell%[m|é]|
+|vous|aviez|descell%[m|é]|
+|ils|avaient|descell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|descell%[m|ai]|
+|tu|descell%[m|as]|
+|il|descell%[m|a]|
+|nous|descell%[m|âmes]|
+|vous|descell%[m|âtes]|
+|ils|descell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|descell%[m|é]|
+|tu|eus|descell%[m|é]|
+|il|eut|descell%[m|é]|
+|nous|e&ucirc;mes|descell%[m|é]|
+|vous|e&ucirc;tes|descell%[m|é]|
+|ils|eurent|descell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|descell%[m|erai]|
+|tu|descell%[m|eras]|
+|il|descell%[m|era]|
+|nous|descell%[m|erons]|
+|vous|descell%[m|erez]|
+|ils|descell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|descell%[m|é]|
+|tu|auras|descell%[m|é]|
+|il|aura|descell%[m|é]|
+|nous|aurons|descell%[m|é]|
+|vous|aurez|descell%[m|é]|
+|ils|auront|descell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|descell%[m|erais]|
+|tu|descell%[m|erais]|
+|il|descell%[m|erait]|
+|nous|descell%[m|erions]|
+|vous|descell%[m|eriez]|
+|ils|descell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|descell%[m|é]|
+|tu|aurais|descell%[m|é]|
+|il|aurait|descell%[m|é]|
+|nous|aurions|descell%[m|é]|
+|vous|auriez|descell%[m|é]|
+|ils|auraient|descell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|descell%[m|e]|
+|que|tu|descell%[m|es]|
+|qu'|il|descell%[m|e]|
+|que|nous|descell%[m|ions]|
+|que|vous|descell%[m|iez]|
+|qu'|ils|descell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|descell%[m|é]|
+|que|tu|aies|descell%[m|é]|
+|qu'|il|ait|descell%[m|é]|
+|que|nous|ayons|descell%[m|é]|
+|que|vous|ayez|descell%[m|é]|
+|qu'|ils|aient|descell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|descell%[m|asse]|
+|que|tu|descell%[m|asses]|
+|qu'|il|descell%[m|ât]|
+|que|nous|descell%[m|assions]|
+|que|vous|descell%[m|assiez]|
+|qu'|ils|descell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|descell%[m|é]|
+|que|tu|eusses|descell%[m|é]|
+|qu'|il|eût|descell%[m|é]|
+|que|nous|eussions|descell%[m|é]|
+|que|vous|eussiez|descell%[m|é]|
+|qu'|ils|eussent|descell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|descell%[m|e]|
+|descell%[m|ons]|
+|descell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|descell%[m|é]|
+|ayons|descell%[m|é]|
+|ayez|descell%[m|é]|
+|]
+

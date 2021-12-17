@@ -1,0 +1,19 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Введение</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id01001' name='var01001' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Основное                                   </td></tr>
+<tr><td><input id='id01002' name='var01002' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Часто задаваемые вопросы                   </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

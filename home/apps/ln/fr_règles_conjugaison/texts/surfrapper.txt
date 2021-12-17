@@ -1,0 +1,190 @@
+# surfrapper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surfrapp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surfrapp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surfrapp%[m|é]|
+|ayant|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surfrapp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surfrapp%[m|e]|
+|tu|surfrapp%[m|es]|
+|il|surfrapp%[m|e]|
+|nous|surfrapp%[m|ons]|
+|vous|surfrapp%[m|ez]|
+|ils|surfrapp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surfrapp%[m|é]|
+|tu|as |surfrapp%[m|é]|
+|il|a|surfrapp%[m|é]|
+|nous|avons|surfrapp%[m|é]|
+|vous|avez|surfrapp%[m|é]|
+|ils|ont|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surfrapp%[m|ais]|
+|tu|surfrapp%[m|ais]|
+|il|surfrapp%[m|ait]|
+|nous|surfrapp%[m|ions]|
+|vous|surfrapp%[m|iez]|
+|ils|surfrapp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surfrapp%[m|é]|
+|tu|avais|surfrapp%[m|é]|
+|il|avait|surfrapp%[m|é]|
+|nous|avions|surfrapp%[m|é]|
+|vous|aviez|surfrapp%[m|é]|
+|ils|avaient|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surfrapp%[m|ai]|
+|tu|surfrapp%[m|as]|
+|il|surfrapp%[m|a]|
+|nous|surfrapp%[m|âmes]|
+|vous|surfrapp%[m|âtes]|
+|ils|surfrapp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surfrapp%[m|é]|
+|tu|eus|surfrapp%[m|é]|
+|il|eut|surfrapp%[m|é]|
+|nous|e&ucirc;mes|surfrapp%[m|é]|
+|vous|e&ucirc;tes|surfrapp%[m|é]|
+|ils|eurent|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surfrapp%[m|erai]|
+|tu|surfrapp%[m|eras]|
+|il|surfrapp%[m|era]|
+|nous|surfrapp%[m|erons]|
+|vous|surfrapp%[m|erez]|
+|ils|surfrapp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surfrapp%[m|é]|
+|tu|auras|surfrapp%[m|é]|
+|il|aura|surfrapp%[m|é]|
+|nous|aurons|surfrapp%[m|é]|
+|vous|aurez|surfrapp%[m|é]|
+|ils|auront|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surfrapp%[m|erais]|
+|tu|surfrapp%[m|erais]|
+|il|surfrapp%[m|erait]|
+|nous|surfrapp%[m|erions]|
+|vous|surfrapp%[m|eriez]|
+|ils|surfrapp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surfrapp%[m|é]|
+|tu|aurais|surfrapp%[m|é]|
+|il|aurait|surfrapp%[m|é]|
+|nous|aurions|surfrapp%[m|é]|
+|vous|auriez|surfrapp%[m|é]|
+|ils|auraient|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surfrapp%[m|e]|
+|que|tu|surfrapp%[m|es]|
+|qu'|il|surfrapp%[m|e]|
+|que|nous|surfrapp%[m|ions]|
+|que|vous|surfrapp%[m|iez]|
+|qu'|ils|surfrapp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surfrapp%[m|é]|
+|que|tu|aies|surfrapp%[m|é]|
+|qu'|il|ait|surfrapp%[m|é]|
+|que|nous|ayons|surfrapp%[m|é]|
+|que|vous|ayez|surfrapp%[m|é]|
+|qu'|ils|aient|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surfrapp%[m|asse]|
+|que|tu|surfrapp%[m|asses]|
+|qu'|il|surfrapp%[m|ât]|
+|que|nous|surfrapp%[m|assions]|
+|que|vous|surfrapp%[m|assiez]|
+|qu'|ils|surfrapp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surfrapp%[m|é]|
+|que|tu|eusses|surfrapp%[m|é]|
+|qu'|il|eût|surfrapp%[m|é]|
+|que|nous|eussions|surfrapp%[m|é]|
+|que|vous|eussiez|surfrapp%[m|é]|
+|qu'|ils|eussent|surfrapp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surfrapp%[m|e]|
+|surfrapp%[m|ons]|
+|surfrapp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surfrapp%[m|é]|
+|ayons|surfrapp%[m|é]|
+|ayez|surfrapp%[m|é]|
+|]
+

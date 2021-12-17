@@ -1,0 +1,190 @@
+# iconiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|iconis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|iconis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|iconis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||iconis%[m|é]|
+|ayant|iconis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en iconis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|iconis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|iconis%[m|e]|
+|tu|iconis%[m|es]|
+|il|iconis%[m|e]|
+|nous|iconis%[m|ons]|
+|vous|iconis%[m|ez]|
+|ils|iconis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|iconis%[m|é]|
+|tu|as |iconis%[m|é]|
+|il|a|iconis%[m|é]|
+|nous|avons|iconis%[m|é]|
+|vous|avez|iconis%[m|é]|
+|ils|ont|iconis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|iconis%[m|ais]|
+|tu|iconis%[m|ais]|
+|il|iconis%[m|ait]|
+|nous|iconis%[m|ions]|
+|vous|iconis%[m|iez]|
+|ils|iconis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|iconis%[m|é]|
+|tu|avais|iconis%[m|é]|
+|il|avait|iconis%[m|é]|
+|nous|avions|iconis%[m|é]|
+|vous|aviez|iconis%[m|é]|
+|ils|avaient|iconis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|iconis%[m|ai]|
+|tu|iconis%[m|as]|
+|il|iconis%[m|a]|
+|nous|iconis%[m|âmes]|
+|vous|iconis%[m|âtes]|
+|ils|iconis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|iconis%[m|é]|
+|tu|eus|iconis%[m|é]|
+|il|eut|iconis%[m|é]|
+|nous|e&ucirc;mes|iconis%[m|é]|
+|vous|e&ucirc;tes|iconis%[m|é]|
+|ils|eurent|iconis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|iconis%[m|erai]|
+|tu|iconis%[m|eras]|
+|il|iconis%[m|era]|
+|nous|iconis%[m|erons]|
+|vous|iconis%[m|erez]|
+|ils|iconis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|iconis%[m|é]|
+|tu|auras|iconis%[m|é]|
+|il|aura|iconis%[m|é]|
+|nous|aurons|iconis%[m|é]|
+|vous|aurez|iconis%[m|é]|
+|ils|auront|iconis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|iconis%[m|erais]|
+|tu|iconis%[m|erais]|
+|il|iconis%[m|erait]|
+|nous|iconis%[m|erions]|
+|vous|iconis%[m|eriez]|
+|ils|iconis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|iconis%[m|é]|
+|tu|aurais|iconis%[m|é]|
+|il|aurait|iconis%[m|é]|
+|nous|aurions|iconis%[m|é]|
+|vous|auriez|iconis%[m|é]|
+|ils|auraient|iconis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|iconis%[m|e]|
+|que|tu|iconis%[m|es]|
+|qu'|il|iconis%[m|e]|
+|que|nous|iconis%[m|ions]|
+|que|vous|iconis%[m|iez]|
+|qu'|ils|iconis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|iconis%[m|é]|
+|que|tu|aies|iconis%[m|é]|
+|qu'|il|ait|iconis%[m|é]|
+|que|nous|ayons|iconis%[m|é]|
+|que|vous|ayez|iconis%[m|é]|
+|qu'|ils|aient|iconis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|iconis%[m|asse]|
+|que|tu|iconis%[m|asses]|
+|qu'|il|iconis%[m|ât]|
+|que|nous|iconis%[m|assions]|
+|que|vous|iconis%[m|assiez]|
+|qu'|ils|iconis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|iconis%[m|é]|
+|que|tu|eusses|iconis%[m|é]|
+|qu'|il|eût|iconis%[m|é]|
+|que|nous|eussions|iconis%[m|é]|
+|que|vous|eussiez|iconis%[m|é]|
+|qu'|ils|eussent|iconis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|iconis%[m|e]|
+|iconis%[m|ons]|
+|iconis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|iconis%[m|é]|
+|ayons|iconis%[m|é]|
+|ayez|iconis%[m|é]|
+|]
+

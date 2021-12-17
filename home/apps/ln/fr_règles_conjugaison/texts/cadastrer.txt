@@ -1,0 +1,190 @@
+# cadastrer %[clVerbGroup|1]
+[-
+inscrire au cadastre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cadastr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cadastr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cadastr%[m|é]|
+|ayant|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cadastr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cadastr%[m|e]|
+|tu|cadastr%[m|es]|
+|il|cadastr%[m|e]|
+|nous|cadastr%[m|ons]|
+|vous|cadastr%[m|ez]|
+|ils|cadastr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cadastr%[m|é]|
+|tu|as |cadastr%[m|é]|
+|il|a|cadastr%[m|é]|
+|nous|avons|cadastr%[m|é]|
+|vous|avez|cadastr%[m|é]|
+|ils|ont|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cadastr%[m|ais]|
+|tu|cadastr%[m|ais]|
+|il|cadastr%[m|ait]|
+|nous|cadastr%[m|ions]|
+|vous|cadastr%[m|iez]|
+|ils|cadastr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cadastr%[m|é]|
+|tu|avais|cadastr%[m|é]|
+|il|avait|cadastr%[m|é]|
+|nous|avions|cadastr%[m|é]|
+|vous|aviez|cadastr%[m|é]|
+|ils|avaient|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cadastr%[m|ai]|
+|tu|cadastr%[m|as]|
+|il|cadastr%[m|a]|
+|nous|cadastr%[m|âmes]|
+|vous|cadastr%[m|âtes]|
+|ils|cadastr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cadastr%[m|é]|
+|tu|eus|cadastr%[m|é]|
+|il|eut|cadastr%[m|é]|
+|nous|e&ucirc;mes|cadastr%[m|é]|
+|vous|e&ucirc;tes|cadastr%[m|é]|
+|ils|eurent|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cadastr%[m|erai]|
+|tu|cadastr%[m|eras]|
+|il|cadastr%[m|era]|
+|nous|cadastr%[m|erons]|
+|vous|cadastr%[m|erez]|
+|ils|cadastr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cadastr%[m|é]|
+|tu|auras|cadastr%[m|é]|
+|il|aura|cadastr%[m|é]|
+|nous|aurons|cadastr%[m|é]|
+|vous|aurez|cadastr%[m|é]|
+|ils|auront|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cadastr%[m|erais]|
+|tu|cadastr%[m|erais]|
+|il|cadastr%[m|erait]|
+|nous|cadastr%[m|erions]|
+|vous|cadastr%[m|eriez]|
+|ils|cadastr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cadastr%[m|é]|
+|tu|aurais|cadastr%[m|é]|
+|il|aurait|cadastr%[m|é]|
+|nous|aurions|cadastr%[m|é]|
+|vous|auriez|cadastr%[m|é]|
+|ils|auraient|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cadastr%[m|e]|
+|que|tu|cadastr%[m|es]|
+|qu'|il|cadastr%[m|e]|
+|que|nous|cadastr%[m|ions]|
+|que|vous|cadastr%[m|iez]|
+|qu'|ils|cadastr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cadastr%[m|é]|
+|que|tu|aies|cadastr%[m|é]|
+|qu'|il|ait|cadastr%[m|é]|
+|que|nous|ayons|cadastr%[m|é]|
+|que|vous|ayez|cadastr%[m|é]|
+|qu'|ils|aient|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cadastr%[m|asse]|
+|que|tu|cadastr%[m|asses]|
+|qu'|il|cadastr%[m|ât]|
+|que|nous|cadastr%[m|assions]|
+|que|vous|cadastr%[m|assiez]|
+|qu'|ils|cadastr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cadastr%[m|é]|
+|que|tu|eusses|cadastr%[m|é]|
+|qu'|il|eût|cadastr%[m|é]|
+|que|nous|eussions|cadastr%[m|é]|
+|que|vous|eussiez|cadastr%[m|é]|
+|qu'|ils|eussent|cadastr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cadastr%[m|e]|
+|cadastr%[m|ons]|
+|cadastr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cadastr%[m|é]|
+|ayons|cadastr%[m|é]|
+|ayez|cadastr%[m|é]|
+|]
+

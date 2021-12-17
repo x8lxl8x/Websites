@@ -1,0 +1,192 @@
+# s'arrondir %[clVerbGroup|2]
+[-
+donner une forme ronde. 
+approximer un nombre en le rendant plus simple. 
+compléter une somme en l'augmentant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'arrond%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|arrond%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'arrond%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|arrond%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'arrond%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|arrond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|arrond%[m|is]|
+|tu|t'|arrond%[m|is]|
+|il|s'|arrond%[m|it]|
+|nous|nous|arrond%[m|issons]|
+|vous|vous|arrond%[m|issez]|
+|ils|s'|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|arrond%[m|i]|
+|tu|t'|es|arrond%[m|i]|
+|il|s'|est|arrond%[m|i]|
+|nous|nous|sommes|arrond%[m|is]|
+|vous|vous|êtes|arrond%[m|is]|
+|ils|se|sont|arrond%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|arrond%[m|issais]|
+|tu|t'|arrond%[m|issais]|
+|il|s'|arrond%[m|issait]|
+|nous|nous|arrond%[m|issions]|
+|vous|vous|arrond%[m|issiez]|
+|ils|s'|arrond%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|arrond%[m|i]|
+|tu|t'|étais|arrond%[m|i]|
+|il|s'|était|arrond%[m|i]|
+|nous|nous|étions|arrond%[m|is]|
+|vous|vous|étiez|arrond%[m|is]|
+|ils|s'|étaient|arrond%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|arrond%[m|is]|
+|tu|t'|arrond%[m|is]|
+|il|s'|arrond%[m|it]|
+|nous|nous|arrond%[m|îmes]|
+|vous|vous|arrond%[m|îtes]|
+|ils|s'|arrond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|arrond%[m|i]|
+|tu|te|fus|arrond%[m|i]|
+|il|se|fut|arrond%[m|i]|
+|nous|nous|fûmes|arrond%[m|is]|
+|vous|vous|fûtes|arrond%[m|is]|
+|ils|se|furent|arrond%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|arrond%[m|irai]|
+|tu|t'|arrond%[m|iras]|
+|il|s'|arrond%[m|ira]|
+|nous|nous|arrond%[m|irons]|
+|vous|vous|arrond%[m|irez]|
+|ils|s'|arrond%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|arrond%[m|i]|
+|tu|te|seras|arrond%[m|i]|
+|il|se|sera|arrond%[m|i]|
+|nous|nous|serons|arrond%[m|is]|
+|vous|vous|serez|arrond%[m|is]|
+|ils|se|seront|arrond%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|arrond%[m|irais]|
+|tu|t'|arrond%[m|irais]|
+|il|s'|arrond%[m|irait]|
+|nous|nous|arrond%[m|irions]|
+|vous|vous|arrond%[m|iriez]|
+|ils|s'|arrond%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|arrond%[m|i]|
+|tu|te|serais|arrond%[m|i]|
+|il|se|serait|arrond%[m|i]|
+|nous|nous|serions|arrond%[m|is]|
+|vous|vous|seriez|arrond%[m|is]|
+|ils|se|seraient|arrond%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|arrond%[m|isse]|
+|que|tu|t'|arrond%[m|isses]|
+|qu'|il|s'|arrond%[m|isse]|
+|que|nous|nous|arrond%[m|issions]|
+|que|vous|vous|arrond%[m|issiez]|
+|qu'|ils|s'|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|arrond%[m|i]|
+|que|tu|te|sois|arrond%[m|i]|
+|qu'|il|se|soit|arrond%[m|i]|
+|que|nous|nous|soyons|arrond%[m|is]|
+|que|vous|vous|soyez|arrond%[m|is]|
+|qu'|ils|se|soient|arrond%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|arrond%[m|isse]|
+|que|tu|t'|arrond%[m|isses]|
+|qu'|il|s'|arrond%[m|ît]|
+|que|nous|nous|arrond%[m|issions]|
+|que|vous|vous|arrond%[m|issiez]|
+|qu'|ils|s'|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|arrond%[m|i]|
+|que|tu|te|fusses|arrond%[m|i]|
+|qu'|il|se|fût|arrond%[m|i]|
+|que|nous|nous|fussions|arrond%[m|is]|
+|que|vous|vous|fussiez|arrond%[m|is]|
+|qu'|ils|se|fussent|arrond%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arrond%[m|is]-toi|
+|arrond%[m|issons]-nous|
+|arrond%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

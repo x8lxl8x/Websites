@@ -1,0 +1,190 @@
+# compacter %[clVerbGroup|1]
+[-
+rendre compact (un sol) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|compact%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|compact%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|compact%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||compact%[m|é]|
+|ayant|compact%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en compact%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|compact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|compact%[m|e]|
+|tu|compact%[m|es]|
+|il|compact%[m|e]|
+|nous|compact%[m|ons]|
+|vous|compact%[m|ez]|
+|ils|compact%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|compact%[m|é]|
+|tu|as |compact%[m|é]|
+|il|a|compact%[m|é]|
+|nous|avons|compact%[m|é]|
+|vous|avez|compact%[m|é]|
+|ils|ont|compact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|compact%[m|ais]|
+|tu|compact%[m|ais]|
+|il|compact%[m|ait]|
+|nous|compact%[m|ions]|
+|vous|compact%[m|iez]|
+|ils|compact%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|compact%[m|é]|
+|tu|avais|compact%[m|é]|
+|il|avait|compact%[m|é]|
+|nous|avions|compact%[m|é]|
+|vous|aviez|compact%[m|é]|
+|ils|avaient|compact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|compact%[m|ai]|
+|tu|compact%[m|as]|
+|il|compact%[m|a]|
+|nous|compact%[m|âmes]|
+|vous|compact%[m|âtes]|
+|ils|compact%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|compact%[m|é]|
+|tu|eus|compact%[m|é]|
+|il|eut|compact%[m|é]|
+|nous|e&ucirc;mes|compact%[m|é]|
+|vous|e&ucirc;tes|compact%[m|é]|
+|ils|eurent|compact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|compact%[m|erai]|
+|tu|compact%[m|eras]|
+|il|compact%[m|era]|
+|nous|compact%[m|erons]|
+|vous|compact%[m|erez]|
+|ils|compact%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|compact%[m|é]|
+|tu|auras|compact%[m|é]|
+|il|aura|compact%[m|é]|
+|nous|aurons|compact%[m|é]|
+|vous|aurez|compact%[m|é]|
+|ils|auront|compact%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|compact%[m|erais]|
+|tu|compact%[m|erais]|
+|il|compact%[m|erait]|
+|nous|compact%[m|erions]|
+|vous|compact%[m|eriez]|
+|ils|compact%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|compact%[m|é]|
+|tu|aurais|compact%[m|é]|
+|il|aurait|compact%[m|é]|
+|nous|aurions|compact%[m|é]|
+|vous|auriez|compact%[m|é]|
+|ils|auraient|compact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|compact%[m|e]|
+|que|tu|compact%[m|es]|
+|qu'|il|compact%[m|e]|
+|que|nous|compact%[m|ions]|
+|que|vous|compact%[m|iez]|
+|qu'|ils|compact%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|compact%[m|é]|
+|que|tu|aies|compact%[m|é]|
+|qu'|il|ait|compact%[m|é]|
+|que|nous|ayons|compact%[m|é]|
+|que|vous|ayez|compact%[m|é]|
+|qu'|ils|aient|compact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|compact%[m|asse]|
+|que|tu|compact%[m|asses]|
+|qu'|il|compact%[m|ât]|
+|que|nous|compact%[m|assions]|
+|que|vous|compact%[m|assiez]|
+|qu'|ils|compact%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|compact%[m|é]|
+|que|tu|eusses|compact%[m|é]|
+|qu'|il|eût|compact%[m|é]|
+|que|nous|eussions|compact%[m|é]|
+|que|vous|eussiez|compact%[m|é]|
+|qu'|ils|eussent|compact%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|compact%[m|e]|
+|compact%[m|ons]|
+|compact%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|compact%[m|é]|
+|ayons|compact%[m|é]|
+|ayez|compact%[m|é]|
+|]
+

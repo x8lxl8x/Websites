@@ -1,0 +1,19 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Переписка с консультантом</h4>
+
+<div class='clComments'>
+<ul>
+<li>сохраняется переписка по теме консультации</li>
+<li>заполняется консультантом</li>
+<li>показывается в режиме чтение</li>
+</ul>
+</div>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+  <textarea readonly rows='20' cols='80' id='id9901' name='var9901' type='textarea'>$arrValues[1]</textarea>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

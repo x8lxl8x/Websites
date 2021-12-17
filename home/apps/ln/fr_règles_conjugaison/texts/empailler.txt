@@ -1,0 +1,191 @@
+# empailler %[clVerbGroup|1]
+[-
+remplir de paille la peau d'un animal mort que l'on veut conserver. 
+garnir, recouvrir de paille. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|empaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|empaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|empaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||empaill%[m|é]|
+|ayant|empaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en empaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|empaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|empaill%[m|e]|
+|tu|empaill%[m|es]|
+|il|empaill%[m|e]|
+|nous|empaill%[m|ons]|
+|vous|empaill%[m|ez]|
+|ils|empaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|empaill%[m|é]|
+|tu|as |empaill%[m|é]|
+|il|a|empaill%[m|é]|
+|nous|avons|empaill%[m|é]|
+|vous|avez|empaill%[m|é]|
+|ils|ont|empaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|empaill%[m|ais]|
+|tu|empaill%[m|ais]|
+|il|empaill%[m|ait]|
+|nous|empaill%[m|ions]|
+|vous|empaill%[m|iez]|
+|ils|empaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|empaill%[m|é]|
+|tu|avais|empaill%[m|é]|
+|il|avait|empaill%[m|é]|
+|nous|avions|empaill%[m|é]|
+|vous|aviez|empaill%[m|é]|
+|ils|avaient|empaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|empaill%[m|ai]|
+|tu|empaill%[m|as]|
+|il|empaill%[m|a]|
+|nous|empaill%[m|âmes]|
+|vous|empaill%[m|âtes]|
+|ils|empaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|empaill%[m|é]|
+|tu|eus|empaill%[m|é]|
+|il|eut|empaill%[m|é]|
+|nous|e&ucirc;mes|empaill%[m|é]|
+|vous|e&ucirc;tes|empaill%[m|é]|
+|ils|eurent|empaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|empaill%[m|erai]|
+|tu|empaill%[m|eras]|
+|il|empaill%[m|era]|
+|nous|empaill%[m|erons]|
+|vous|empaill%[m|erez]|
+|ils|empaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|empaill%[m|é]|
+|tu|auras|empaill%[m|é]|
+|il|aura|empaill%[m|é]|
+|nous|aurons|empaill%[m|é]|
+|vous|aurez|empaill%[m|é]|
+|ils|auront|empaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|empaill%[m|erais]|
+|tu|empaill%[m|erais]|
+|il|empaill%[m|erait]|
+|nous|empaill%[m|erions]|
+|vous|empaill%[m|eriez]|
+|ils|empaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|empaill%[m|é]|
+|tu|aurais|empaill%[m|é]|
+|il|aurait|empaill%[m|é]|
+|nous|aurions|empaill%[m|é]|
+|vous|auriez|empaill%[m|é]|
+|ils|auraient|empaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|empaill%[m|e]|
+|que|tu|empaill%[m|es]|
+|qu'|il|empaill%[m|e]|
+|que|nous|empaill%[m|ions]|
+|que|vous|empaill%[m|iez]|
+|qu'|ils|empaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|empaill%[m|é]|
+|que|tu|aies|empaill%[m|é]|
+|qu'|il|ait|empaill%[m|é]|
+|que|nous|ayons|empaill%[m|é]|
+|que|vous|ayez|empaill%[m|é]|
+|qu'|ils|aient|empaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|empaill%[m|asse]|
+|que|tu|empaill%[m|asses]|
+|qu'|il|empaill%[m|ât]|
+|que|nous|empaill%[m|assions]|
+|que|vous|empaill%[m|assiez]|
+|qu'|ils|empaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|empaill%[m|é]|
+|que|tu|eusses|empaill%[m|é]|
+|qu'|il|eût|empaill%[m|é]|
+|que|nous|eussions|empaill%[m|é]|
+|que|vous|eussiez|empaill%[m|é]|
+|qu'|ils|eussent|empaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|empaill%[m|e]|
+|empaill%[m|ons]|
+|empaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|empaill%[m|é]|
+|ayons|empaill%[m|é]|
+|ayez|empaill%[m|é]|
+|]
+

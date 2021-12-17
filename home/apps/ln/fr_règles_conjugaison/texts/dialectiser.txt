@@ -1,0 +1,190 @@
+# dialectiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dialectis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dialectis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dialectis%[m|é]|
+|ayant|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dialectis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dialectis%[m|e]|
+|tu|dialectis%[m|es]|
+|il|dialectis%[m|e]|
+|nous|dialectis%[m|ons]|
+|vous|dialectis%[m|ez]|
+|ils|dialectis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dialectis%[m|é]|
+|tu|as |dialectis%[m|é]|
+|il|a|dialectis%[m|é]|
+|nous|avons|dialectis%[m|é]|
+|vous|avez|dialectis%[m|é]|
+|ils|ont|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dialectis%[m|ais]|
+|tu|dialectis%[m|ais]|
+|il|dialectis%[m|ait]|
+|nous|dialectis%[m|ions]|
+|vous|dialectis%[m|iez]|
+|ils|dialectis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dialectis%[m|é]|
+|tu|avais|dialectis%[m|é]|
+|il|avait|dialectis%[m|é]|
+|nous|avions|dialectis%[m|é]|
+|vous|aviez|dialectis%[m|é]|
+|ils|avaient|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dialectis%[m|ai]|
+|tu|dialectis%[m|as]|
+|il|dialectis%[m|a]|
+|nous|dialectis%[m|âmes]|
+|vous|dialectis%[m|âtes]|
+|ils|dialectis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dialectis%[m|é]|
+|tu|eus|dialectis%[m|é]|
+|il|eut|dialectis%[m|é]|
+|nous|e&ucirc;mes|dialectis%[m|é]|
+|vous|e&ucirc;tes|dialectis%[m|é]|
+|ils|eurent|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dialectis%[m|erai]|
+|tu|dialectis%[m|eras]|
+|il|dialectis%[m|era]|
+|nous|dialectis%[m|erons]|
+|vous|dialectis%[m|erez]|
+|ils|dialectis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dialectis%[m|é]|
+|tu|auras|dialectis%[m|é]|
+|il|aura|dialectis%[m|é]|
+|nous|aurons|dialectis%[m|é]|
+|vous|aurez|dialectis%[m|é]|
+|ils|auront|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dialectis%[m|erais]|
+|tu|dialectis%[m|erais]|
+|il|dialectis%[m|erait]|
+|nous|dialectis%[m|erions]|
+|vous|dialectis%[m|eriez]|
+|ils|dialectis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dialectis%[m|é]|
+|tu|aurais|dialectis%[m|é]|
+|il|aurait|dialectis%[m|é]|
+|nous|aurions|dialectis%[m|é]|
+|vous|auriez|dialectis%[m|é]|
+|ils|auraient|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dialectis%[m|e]|
+|que|tu|dialectis%[m|es]|
+|qu'|il|dialectis%[m|e]|
+|que|nous|dialectis%[m|ions]|
+|que|vous|dialectis%[m|iez]|
+|qu'|ils|dialectis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dialectis%[m|é]|
+|que|tu|aies|dialectis%[m|é]|
+|qu'|il|ait|dialectis%[m|é]|
+|que|nous|ayons|dialectis%[m|é]|
+|que|vous|ayez|dialectis%[m|é]|
+|qu'|ils|aient|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dialectis%[m|asse]|
+|que|tu|dialectis%[m|asses]|
+|qu'|il|dialectis%[m|ât]|
+|que|nous|dialectis%[m|assions]|
+|que|vous|dialectis%[m|assiez]|
+|qu'|ils|dialectis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dialectis%[m|é]|
+|que|tu|eusses|dialectis%[m|é]|
+|qu'|il|eût|dialectis%[m|é]|
+|que|nous|eussions|dialectis%[m|é]|
+|que|vous|eussiez|dialectis%[m|é]|
+|qu'|ils|eussent|dialectis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dialectis%[m|e]|
+|dialectis%[m|ons]|
+|dialectis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dialectis%[m|é]|
+|ayons|dialectis%[m|é]|
+|ayez|dialectis%[m|é]|
+|]
+

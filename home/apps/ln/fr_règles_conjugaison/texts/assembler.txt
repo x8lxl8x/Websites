@@ -1,0 +1,190 @@
+# assembler %[clVerbGroup|1]
+[-
+mettre ensemble, unir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|assembl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|assembl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|assembl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||assembl%[m|é]|
+|ayant|assembl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en assembl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|assembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|assembl%[m|e]|
+|tu|assembl%[m|es]|
+|il|assembl%[m|e]|
+|nous|assembl%[m|ons]|
+|vous|assembl%[m|ez]|
+|ils|assembl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|assembl%[m|é]|
+|tu|as |assembl%[m|é]|
+|il|a|assembl%[m|é]|
+|nous|avons|assembl%[m|é]|
+|vous|avez|assembl%[m|é]|
+|ils|ont|assembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|assembl%[m|ais]|
+|tu|assembl%[m|ais]|
+|il|assembl%[m|ait]|
+|nous|assembl%[m|ions]|
+|vous|assembl%[m|iez]|
+|ils|assembl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|assembl%[m|é]|
+|tu|avais|assembl%[m|é]|
+|il|avait|assembl%[m|é]|
+|nous|avions|assembl%[m|é]|
+|vous|aviez|assembl%[m|é]|
+|ils|avaient|assembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|assembl%[m|ai]|
+|tu|assembl%[m|as]|
+|il|assembl%[m|a]|
+|nous|assembl%[m|âmes]|
+|vous|assembl%[m|âtes]|
+|ils|assembl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|assembl%[m|é]|
+|tu|eus|assembl%[m|é]|
+|il|eut|assembl%[m|é]|
+|nous|e&ucirc;mes|assembl%[m|é]|
+|vous|e&ucirc;tes|assembl%[m|é]|
+|ils|eurent|assembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|assembl%[m|erai]|
+|tu|assembl%[m|eras]|
+|il|assembl%[m|era]|
+|nous|assembl%[m|erons]|
+|vous|assembl%[m|erez]|
+|ils|assembl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|assembl%[m|é]|
+|tu|auras|assembl%[m|é]|
+|il|aura|assembl%[m|é]|
+|nous|aurons|assembl%[m|é]|
+|vous|aurez|assembl%[m|é]|
+|ils|auront|assembl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|assembl%[m|erais]|
+|tu|assembl%[m|erais]|
+|il|assembl%[m|erait]|
+|nous|assembl%[m|erions]|
+|vous|assembl%[m|eriez]|
+|ils|assembl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|assembl%[m|é]|
+|tu|aurais|assembl%[m|é]|
+|il|aurait|assembl%[m|é]|
+|nous|aurions|assembl%[m|é]|
+|vous|auriez|assembl%[m|é]|
+|ils|auraient|assembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|assembl%[m|e]|
+|que|tu|assembl%[m|es]|
+|qu'|il|assembl%[m|e]|
+|que|nous|assembl%[m|ions]|
+|que|vous|assembl%[m|iez]|
+|qu'|ils|assembl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|assembl%[m|é]|
+|que|tu|aies|assembl%[m|é]|
+|qu'|il|ait|assembl%[m|é]|
+|que|nous|ayons|assembl%[m|é]|
+|que|vous|ayez|assembl%[m|é]|
+|qu'|ils|aient|assembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|assembl%[m|asse]|
+|que|tu|assembl%[m|asses]|
+|qu'|il|assembl%[m|ât]|
+|que|nous|assembl%[m|assions]|
+|que|vous|assembl%[m|assiez]|
+|qu'|ils|assembl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|assembl%[m|é]|
+|que|tu|eusses|assembl%[m|é]|
+|qu'|il|eût|assembl%[m|é]|
+|que|nous|eussions|assembl%[m|é]|
+|que|vous|eussiez|assembl%[m|é]|
+|qu'|ils|eussent|assembl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assembl%[m|e]|
+|assembl%[m|ons]|
+|assembl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|assembl%[m|é]|
+|ayons|assembl%[m|é]|
+|ayez|assembl%[m|é]|
+|]
+

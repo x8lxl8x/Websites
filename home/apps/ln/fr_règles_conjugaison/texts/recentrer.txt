@@ -1,0 +1,190 @@
+# recentrer %[clVerbGroup|1]
+[-
+ramener vers le centre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|recentr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recentr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|recentr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recentr%[m|é]|
+|ayant|recentr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en recentr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recentr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|recentr%[m|e]|
+|tu|recentr%[m|es]|
+|il|recentr%[m|e]|
+|nous|recentr%[m|ons]|
+|vous|recentr%[m|ez]|
+|ils|recentr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recentr%[m|é]|
+|tu|as |recentr%[m|é]|
+|il|a|recentr%[m|é]|
+|nous|avons|recentr%[m|é]|
+|vous|avez|recentr%[m|é]|
+|ils|ont|recentr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|recentr%[m|ais]|
+|tu|recentr%[m|ais]|
+|il|recentr%[m|ait]|
+|nous|recentr%[m|ions]|
+|vous|recentr%[m|iez]|
+|ils|recentr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recentr%[m|é]|
+|tu|avais|recentr%[m|é]|
+|il|avait|recentr%[m|é]|
+|nous|avions|recentr%[m|é]|
+|vous|aviez|recentr%[m|é]|
+|ils|avaient|recentr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|recentr%[m|ai]|
+|tu|recentr%[m|as]|
+|il|recentr%[m|a]|
+|nous|recentr%[m|âmes]|
+|vous|recentr%[m|âtes]|
+|ils|recentr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recentr%[m|é]|
+|tu|eus|recentr%[m|é]|
+|il|eut|recentr%[m|é]|
+|nous|e&ucirc;mes|recentr%[m|é]|
+|vous|e&ucirc;tes|recentr%[m|é]|
+|ils|eurent|recentr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|recentr%[m|erai]|
+|tu|recentr%[m|eras]|
+|il|recentr%[m|era]|
+|nous|recentr%[m|erons]|
+|vous|recentr%[m|erez]|
+|ils|recentr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recentr%[m|é]|
+|tu|auras|recentr%[m|é]|
+|il|aura|recentr%[m|é]|
+|nous|aurons|recentr%[m|é]|
+|vous|aurez|recentr%[m|é]|
+|ils|auront|recentr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|recentr%[m|erais]|
+|tu|recentr%[m|erais]|
+|il|recentr%[m|erait]|
+|nous|recentr%[m|erions]|
+|vous|recentr%[m|eriez]|
+|ils|recentr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recentr%[m|é]|
+|tu|aurais|recentr%[m|é]|
+|il|aurait|recentr%[m|é]|
+|nous|aurions|recentr%[m|é]|
+|vous|auriez|recentr%[m|é]|
+|ils|auraient|recentr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|recentr%[m|e]|
+|que|tu|recentr%[m|es]|
+|qu'|il|recentr%[m|e]|
+|que|nous|recentr%[m|ions]|
+|que|vous|recentr%[m|iez]|
+|qu'|ils|recentr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recentr%[m|é]|
+|que|tu|aies|recentr%[m|é]|
+|qu'|il|ait|recentr%[m|é]|
+|que|nous|ayons|recentr%[m|é]|
+|que|vous|ayez|recentr%[m|é]|
+|qu'|ils|aient|recentr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|recentr%[m|asse]|
+|que|tu|recentr%[m|asses]|
+|qu'|il|recentr%[m|ât]|
+|que|nous|recentr%[m|assions]|
+|que|vous|recentr%[m|assiez]|
+|qu'|ils|recentr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recentr%[m|é]|
+|que|tu|eusses|recentr%[m|é]|
+|qu'|il|eût|recentr%[m|é]|
+|que|nous|eussions|recentr%[m|é]|
+|que|vous|eussiez|recentr%[m|é]|
+|qu'|ils|eussent|recentr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recentr%[m|e]|
+|recentr%[m|ons]|
+|recentr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recentr%[m|é]|
+|ayons|recentr%[m|é]|
+|ayez|recentr%[m|é]|
+|]
+

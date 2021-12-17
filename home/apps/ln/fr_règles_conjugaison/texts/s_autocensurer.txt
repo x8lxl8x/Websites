@@ -1,0 +1,190 @@
+# s'autocensurer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'autocensur%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|autocensur%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'autocensur%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|autocensur%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'autocensur%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|autocensur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|autocensur%[m|e]|
+|tu|t'|autocensur%[m|es]|
+|il|s'|autocensur%[m|e]|
+|nous|nous|autocensur%[m|ons]|
+|vous|vous|autocensur%[m|ez]|
+|ils|s'|autocensur%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|autocensur%[m|é]|
+|tu|t'|es|autocensur%[m|é]|
+|il|s'|est|autocensur%[m|é]|
+|nous|nous|sommes|autocensur%[m|és]|
+|vous|vous|êtes|autocensur%[m|és]|
+|ils|se|sont|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|autocensur%[m|ais]|
+|tu|t'|autocensur%[m|ais]|
+|il|s'|autocensur%[m|ait]|
+|nous|nous|autocensur%[m|ions]|
+|vous|vous|autocensur%[m|iez]|
+|ils|s'|autocensur%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|autocensur%[m|é]|
+|tu|t'|étais|autocensur%[m|é]|
+|il|s'|était|autocensur%[m|é]|
+|nous|nous|étions|autocensur%[m|és]|
+|vous|vous|étiez|autocensur%[m|és]|
+|ils|s'|étaient|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|autocensur%[m|ai]|
+|tu|t'|autocensur%[m|as]|
+|il|s'|autocensur%[m|a]|
+|nous|nous|autocensur%[m|âmes]|
+|vous|vous|autocensur%[m|âtes]|
+|ils|s'|autocensur%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|autocensur%[m|é]|
+|tu|te|fus|autocensur%[m|é]|
+|il|se|fut|autocensur%[m|é]|
+|nous|nous|fûmes|autocensur%[m|és]|
+|vous|vous|fûtes|autocensur%[m|és]|
+|ils|se|furent|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|autocensur%[m|erai]|
+|tu|t'|autocensur%[m|eras]|
+|il|s'|autocensur%[m|era]|
+|nous|nous|autocensur%[m|erons]|
+|vous|vous|autocensur%[m|erez]|
+|ils|s'|autocensur%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|autocensur%[m|é]|
+|tu|te|seras|autocensur%[m|é]|
+|il|se|sera|autocensur%[m|é]|
+|nous|nous|serons|autocensur%[m|és]|
+|vous|vous|serez|autocensur%[m|és]|
+|ils|se|seront|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|autocensur%[m|erais]|
+|tu|t'|autocensur%[m|erais]|
+|il|s'|autocensur%[m|erait]|
+|nous|nous|autocensur%[m|erions]|
+|vous|vous|autocensur%[m|eriez]|
+|ils|s'|autocensur%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|autocensur%[m|é]|
+|tu|te|serais|autocensur%[m|é]|
+|il|se|serait|autocensur%[m|é]|
+|nous|nous|serions|autocensur%[m|és]|
+|vous|vous|seriez|autocensur%[m|és]|
+|ils|se|seraient|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|autocensur%[m|e]|
+|que|tu|t'|autocensur%[m|es]|
+|qu'|il|s'|autocensur%[m|e]|
+|que|nous|nous|autocensur%[m|ions]|
+|que|vous|vous|autocensur%[m|iez]|
+|qu'|ils|s'|autocensur%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|autocensur%[m|é]|
+|que|tu|te|sois|autocensur%[m|é]|
+|qu'|il|se|soit|autocensur%[m|é]|
+|que|nous|nous|soyons|autocensur%[m|és]|
+|que|vous|vous|soyez|autocensur%[m|és]|
+|qu'|ils|se|soient|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|autocensur%[m|asse]|
+|que|tu|t'|autocensur%[m|asses]|
+|qu'|il|s'|autocensur%[m|ât]|
+|que|nous|nous|autocensur%[m|assions]|
+|que|vous|vous|autocensur%[m|assiez]|
+|qu'|ils|s'|autocensur%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|autocensur%[m|é]|
+|que|tu|te|fusses|autocensur%[m|é]|
+|qu'|il|se|fût|autocensur%[m|é]|
+|que|nous|nous|fussions|autocensur%[m|és]|
+|que|vous|vous|fussiez|autocensur%[m|és]|
+|qu'|ils|se|fussent|autocensur%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|autocensur%[m|e]-toi|
+|autocensur%[m|ons]-nous|
+|autocensur%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# tempérer %[clVerbGroup|1]
+[-
+modérer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|temp%[m|é]r%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tempér%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|temp%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tempér%[m|é]|
+|ayant|tempér%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en temp%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tempér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|temp%[m|è]r%[m|e]|
+|tu|temp%[m|è]r%[m|es]|
+|il|temp%[m|è]r%[m|e]|
+|nous|temp%[m|é]r%[m|ons]|
+|vous|temp%[m|é]r%[m|ez]|
+|ils|temp%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tempér%[m|é]|
+|tu|as |tempér%[m|é]|
+|il|a|tempér%[m|é]|
+|nous|avons|tempér%[m|é]|
+|vous|avez|tempér%[m|é]|
+|ils|ont|tempér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|temp%[m|é]r%[m|ais]|
+|tu|temp%[m|é]r%[m|ais]|
+|il|temp%[m|é]r%[m|ait]|
+|nous|temp%[m|é]r%[m|ions]|
+|vous|temp%[m|é]r%[m|iez]|
+|ils|temp%[m|é]r%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tempér%[m|é]|
+|tu|avais|tempér%[m|é]|
+|il|avait|tempér%[m|é]|
+|nous|avions|tempér%[m|é]|
+|vous|aviez|tempér%[m|é]|
+|ils|avaient|tempér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|temp%[m|é]r%[m|ai]|
+|tu|temp%[m|é]r%[m|as]|
+|il|temp%[m|é]r%[m|a]|
+|nous|temp%[m|é]r%[m|âmes]|
+|vous|temp%[m|é]r%[m|âtes]|
+|ils|temp%[m|é]r%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tempér%[m|é]|
+|tu|eus|tempér%[m|é]|
+|il|eut|tempér%[m|é]|
+|nous|e&ucirc;mes|tempér%[m|é]|
+|vous|e&ucirc;tes|tempér%[m|é]|
+|ils|eurent|tempér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|temp%[m|é]r%[m|erai]|
+|tu|temp%[m|é]r%[m|eras]|
+|il|temp%[m|é]r%[m|era]|
+|nous|temp%[m|é]r%[m|erons]|
+|vous|temp%[m|é]r%[m|erez]|
+|ils|temp%[m|é]r%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tempér%[m|é]|
+|tu|auras|tempér%[m|é]|
+|il|aura|tempér%[m|é]|
+|nous|aurons|tempér%[m|é]|
+|vous|aurez|tempér%[m|é]|
+|ils|auront|tempér%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|temp%[m|é]r%[m|erais]|
+|tu|temp%[m|é]r%[m|erais]|
+|il|temp%[m|é]r%[m|erait]|
+|nous|temp%[m|é]r%[m|erions]|
+|vous|temp%[m|é]r%[m|eriez]|
+|ils|temp%[m|é]r%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tempér%[m|é]|
+|tu|aurais|tempér%[m|é]|
+|il|aurait|tempér%[m|é]|
+|nous|aurions|tempér%[m|é]|
+|vous|auriez|tempér%[m|é]|
+|ils|auraient|tempér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|temp%[m|è]r%[m|e]|
+|que|tu|temp%[m|è]r%[m|es]|
+|qu'|il|temp%[m|è]r%[m|e]|
+|que|nous|temp%[m|é]r%[m|ions]|
+|que|vous|temp%[m|é]r%[m|iez]|
+|qu'|ils|temp%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tempér%[m|é]|
+|que|tu|aies|tempér%[m|é]|
+|qu'|il|ait|tempér%[m|é]|
+|que|nous|ayons|tempér%[m|é]|
+|que|vous|ayez|tempér%[m|é]|
+|qu'|ils|aient|tempér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|temp%[m|é]r%[m|asse]|
+|que|tu|temp%[m|é]r%[m|asses]|
+|qu'|il|temp%[m|é]r%[m|ât]|
+|que|nous|temp%[m|é]r%[m|assions]|
+|que|vous|temp%[m|é]r%[m|assiez]|
+|qu'|ils|temp%[m|é]r%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tempér%[m|é]|
+|que|tu|eusses|tempér%[m|é]|
+|qu'|il|eût|tempér%[m|é]|
+|que|nous|eussions|tempér%[m|é]|
+|que|vous|eussiez|tempér%[m|é]|
+|qu'|ils|eussent|tempér%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|temp%[m|è]r%[m|e]|
+|temp%[m|é]r%[m|ons]|
+|temp%[m|é]r%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tempér%[m|é]|
+|ayons|tempér%[m|é]|
+|ayez|tempér%[m|é]|
+|]
+

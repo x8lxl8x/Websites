@@ -1,0 +1,190 @@
+# s'envaser %[clVerbGroup|1]
+[-
+remplir, se remplir de vase. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'envas%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|envas%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'envas%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|envas%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'envas%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|envas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|envas%[m|e]|
+|tu|t'|envas%[m|es]|
+|il|s'|envas%[m|e]|
+|nous|nous|envas%[m|ons]|
+|vous|vous|envas%[m|ez]|
+|ils|s'|envas%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|envas%[m|é]|
+|tu|t'|es|envas%[m|é]|
+|il|s'|est|envas%[m|é]|
+|nous|nous|sommes|envas%[m|és]|
+|vous|vous|êtes|envas%[m|és]|
+|ils|se|sont|envas%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|envas%[m|ais]|
+|tu|t'|envas%[m|ais]|
+|il|s'|envas%[m|ait]|
+|nous|nous|envas%[m|ions]|
+|vous|vous|envas%[m|iez]|
+|ils|s'|envas%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|envas%[m|é]|
+|tu|t'|étais|envas%[m|é]|
+|il|s'|était|envas%[m|é]|
+|nous|nous|étions|envas%[m|és]|
+|vous|vous|étiez|envas%[m|és]|
+|ils|s'|étaient|envas%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|envas%[m|ai]|
+|tu|t'|envas%[m|as]|
+|il|s'|envas%[m|a]|
+|nous|nous|envas%[m|âmes]|
+|vous|vous|envas%[m|âtes]|
+|ils|s'|envas%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|envas%[m|é]|
+|tu|te|fus|envas%[m|é]|
+|il|se|fut|envas%[m|é]|
+|nous|nous|fûmes|envas%[m|és]|
+|vous|vous|fûtes|envas%[m|és]|
+|ils|se|furent|envas%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|envas%[m|erai]|
+|tu|t'|envas%[m|eras]|
+|il|s'|envas%[m|era]|
+|nous|nous|envas%[m|erons]|
+|vous|vous|envas%[m|erez]|
+|ils|s'|envas%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|envas%[m|é]|
+|tu|te|seras|envas%[m|é]|
+|il|se|sera|envas%[m|é]|
+|nous|nous|serons|envas%[m|és]|
+|vous|vous|serez|envas%[m|és]|
+|ils|se|seront|envas%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|envas%[m|erais]|
+|tu|t'|envas%[m|erais]|
+|il|s'|envas%[m|erait]|
+|nous|nous|envas%[m|erions]|
+|vous|vous|envas%[m|eriez]|
+|ils|s'|envas%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|envas%[m|é]|
+|tu|te|serais|envas%[m|é]|
+|il|se|serait|envas%[m|é]|
+|nous|nous|serions|envas%[m|és]|
+|vous|vous|seriez|envas%[m|és]|
+|ils|se|seraient|envas%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|envas%[m|e]|
+|que|tu|t'|envas%[m|es]|
+|qu'|il|s'|envas%[m|e]|
+|que|nous|nous|envas%[m|ions]|
+|que|vous|vous|envas%[m|iez]|
+|qu'|ils|s'|envas%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|envas%[m|é]|
+|que|tu|te|sois|envas%[m|é]|
+|qu'|il|se|soit|envas%[m|é]|
+|que|nous|nous|soyons|envas%[m|és]|
+|que|vous|vous|soyez|envas%[m|és]|
+|qu'|ils|se|soient|envas%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|envas%[m|asse]|
+|que|tu|t'|envas%[m|asses]|
+|qu'|il|s'|envas%[m|ât]|
+|que|nous|nous|envas%[m|assions]|
+|que|vous|vous|envas%[m|assiez]|
+|qu'|ils|s'|envas%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|envas%[m|é]|
+|que|tu|te|fusses|envas%[m|é]|
+|qu'|il|se|fût|envas%[m|é]|
+|que|nous|nous|fussions|envas%[m|és]|
+|que|vous|vous|fussiez|envas%[m|és]|
+|qu'|ils|se|fussent|envas%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|envas%[m|e]-toi|
+|envas%[m|ons]-nous|
+|envas%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

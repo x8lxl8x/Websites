@@ -1,0 +1,29 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Материнство</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id15001' name='var15001' type='checkbox' placeholder='$arrValues[1]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Секс                                      </td></tr>
+<tr><td><input id='id15002' name='var15002' type='checkbox' placeholder='$arrValues[2]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Бесплодие                                 </td></tr>
+<tr><td><input id='id15003' name='var15003' type='checkbox' placeholder='$arrValues[3]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Аюрведические методы лечения бесплодия    </td></tr>
+<tr><td><input id='id15004' name='var15004' type='checkbox' placeholder='$arrValues[4]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Бесплодие                                 </td></tr>
+<tr><td><input id='id15005' name='var15005' type='checkbox' placeholder='$arrValues[5]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Подготовка к зачатию                      </td></tr>
+<tr><td><input id='id15006' name='var15006' type='checkbox' placeholder='$arrValues[6]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Зачатие ребенка                           </td></tr>
+<tr><td><input id='id15007' name='var15007' type='checkbox' placeholder='$arrValues[7]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Беременность                              </td></tr>
+<tr><td><input id='id15008' name='var15008' type='checkbox' placeholder='$arrValues[8]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Развитие ребенка                          </td></tr>
+<tr><td><input id='id15009' name='var15009' type='checkbox' placeholder='$arrValues[9]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 009&nbsp;&nbsp;&nbsp;Кормящим матерям                          </td></tr>
+<tr><td><input id='id15010' name='var15010' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 010&nbsp;&nbsp;&nbsp;Аюрведа о здоровье ребенка                </td></tr>
+<tr><td><input id='id15011' name='var15011' type='checkbox' placeholder='$arrValues[11]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 011&nbsp;&nbsp;&nbsp;Препараты при беременности                </td></tr>
+<tr><td><input id='id15012' name='var15012' type='checkbox' placeholder='$arrValues[12]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 012&nbsp;&nbsp;&nbsp;Специи детям                              </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

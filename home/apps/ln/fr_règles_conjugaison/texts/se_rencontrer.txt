@@ -1,0 +1,192 @@
+# se rencontrer %[clVerbGroup|1]
+[-
+se retrouver en même temps quelque part. 
+faire connaissance, se réunir. 
+se trouver, exister. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rencontr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rencontr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rencontr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rencontr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rencontr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rencontr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rencontr%[m|e]|
+|tu|te|rencontr%[m|es]|
+|il|se|rencontr%[m|e]|
+|nous|nous|rencontr%[m|ons]|
+|vous|vous|rencontr%[m|ez]|
+|ils|se|rencontr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rencontr%[m|é]|
+|tu|t'|es|rencontr%[m|é]|
+|il|s'|est|rencontr%[m|é]|
+|nous|nous|sommes|rencontr%[m|és]|
+|vous|vous|êtes|rencontr%[m|és]|
+|ils|se|sont|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rencontr%[m|ais]|
+|tu|te|rencontr%[m|ais]|
+|il|se|rencontr%[m|ait]|
+|nous|nous|rencontr%[m|ions]|
+|vous|vous|rencontr%[m|iez]|
+|ils|se|rencontr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rencontr%[m|é]|
+|tu|t'|étais|rencontr%[m|é]|
+|il|s'|était|rencontr%[m|é]|
+|nous|nous|étions|rencontr%[m|és]|
+|vous|vous|étiez|rencontr%[m|és]|
+|ils|s'|étaient|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rencontr%[m|ai]|
+|tu|te|rencontr%[m|as]|
+|il|se|rencontr%[m|a]|
+|nous|nous|rencontr%[m|âmes]|
+|vous|vous|rencontr%[m|âtes]|
+|ils|se|rencontr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rencontr%[m|é]|
+|tu|te|fus|rencontr%[m|é]|
+|il|se|fut|rencontr%[m|é]|
+|nous|nous|fûmes|rencontr%[m|és]|
+|vous|vous|fûtes|rencontr%[m|és]|
+|ils|se|furent|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rencontr%[m|erai]|
+|tu|te|rencontr%[m|eras]|
+|il|se|rencontr%[m|era]|
+|nous|nous|rencontr%[m|erons]|
+|vous|vous|rencontr%[m|erez]|
+|ils|se|rencontr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rencontr%[m|é]|
+|tu|te|seras|rencontr%[m|é]|
+|il|se|sera|rencontr%[m|é]|
+|nous|nous|serons|rencontr%[m|és]|
+|vous|vous|serez|rencontr%[m|és]|
+|ils|se|seront|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rencontr%[m|erais]|
+|tu|te|rencontr%[m|erais]|
+|il|se|rencontr%[m|erait]|
+|nous|nous|rencontr%[m|erions]|
+|vous|vous|rencontr%[m|eriez]|
+|ils|se|rencontr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rencontr%[m|é]|
+|tu|te|serais|rencontr%[m|é]|
+|il|se|serait|rencontr%[m|é]|
+|nous|nous|serions|rencontr%[m|és]|
+|vous|vous|seriez|rencontr%[m|és]|
+|ils|se|seraient|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rencontr%[m|e]|
+|que|tu|te|rencontr%[m|es]|
+|qu'|il|se|rencontr%[m|e]|
+|que|nous|nous|rencontr%[m|ions]|
+|que|vous|vous|rencontr%[m|iez]|
+|qu'|ils|se|rencontr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rencontr%[m|é]|
+|que|tu|te|sois|rencontr%[m|é]|
+|qu'|il|se|soit|rencontr%[m|é]|
+|que|nous|nous|soyons|rencontr%[m|és]|
+|que|vous|vous|soyez|rencontr%[m|és]|
+|qu'|ils|se|soient|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rencontr%[m|asse]|
+|que|tu|te|rencontr%[m|asses]|
+|qu'|il|se|rencontr%[m|ât]|
+|que|nous|nous|rencontr%[m|assions]|
+|que|vous|vous|rencontr%[m|assiez]|
+|qu'|ils|se|rencontr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rencontr%[m|é]|
+|que|tu|te|fusses|rencontr%[m|é]|
+|qu'|il|se|fût|rencontr%[m|é]|
+|que|nous|nous|fussions|rencontr%[m|és]|
+|que|vous|vous|fussiez|rencontr%[m|és]|
+|qu'|ils|se|fussent|rencontr%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rencontr%[m|e]-toi|
+|rencontr%[m|ons]-nous|
+|rencontr%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

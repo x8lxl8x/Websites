@@ -1,0 +1,190 @@
+# tictaquer %[clVerbGroup|1]
+[-
+faire un bruit de tic-tac. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tictaqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tictaqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tictaqu%[m|é]|
+|ayant|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tictaqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tictaqu%[m|e]|
+|tu|tictaqu%[m|es]|
+|il|tictaqu%[m|e]|
+|nous|tictaqu%[m|ons]|
+|vous|tictaqu%[m|ez]|
+|ils|tictaqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tictaqu%[m|é]|
+|tu|as |tictaqu%[m|é]|
+|il|a|tictaqu%[m|é]|
+|nous|avons|tictaqu%[m|é]|
+|vous|avez|tictaqu%[m|é]|
+|ils|ont|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tictaqu%[m|ais]|
+|tu|tictaqu%[m|ais]|
+|il|tictaqu%[m|ait]|
+|nous|tictaqu%[m|ions]|
+|vous|tictaqu%[m|iez]|
+|ils|tictaqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tictaqu%[m|é]|
+|tu|avais|tictaqu%[m|é]|
+|il|avait|tictaqu%[m|é]|
+|nous|avions|tictaqu%[m|é]|
+|vous|aviez|tictaqu%[m|é]|
+|ils|avaient|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tictaqu%[m|ai]|
+|tu|tictaqu%[m|as]|
+|il|tictaqu%[m|a]|
+|nous|tictaqu%[m|âmes]|
+|vous|tictaqu%[m|âtes]|
+|ils|tictaqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tictaqu%[m|é]|
+|tu|eus|tictaqu%[m|é]|
+|il|eut|tictaqu%[m|é]|
+|nous|e&ucirc;mes|tictaqu%[m|é]|
+|vous|e&ucirc;tes|tictaqu%[m|é]|
+|ils|eurent|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tictaqu%[m|erai]|
+|tu|tictaqu%[m|eras]|
+|il|tictaqu%[m|era]|
+|nous|tictaqu%[m|erons]|
+|vous|tictaqu%[m|erez]|
+|ils|tictaqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tictaqu%[m|é]|
+|tu|auras|tictaqu%[m|é]|
+|il|aura|tictaqu%[m|é]|
+|nous|aurons|tictaqu%[m|é]|
+|vous|aurez|tictaqu%[m|é]|
+|ils|auront|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tictaqu%[m|erais]|
+|tu|tictaqu%[m|erais]|
+|il|tictaqu%[m|erait]|
+|nous|tictaqu%[m|erions]|
+|vous|tictaqu%[m|eriez]|
+|ils|tictaqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tictaqu%[m|é]|
+|tu|aurais|tictaqu%[m|é]|
+|il|aurait|tictaqu%[m|é]|
+|nous|aurions|tictaqu%[m|é]|
+|vous|auriez|tictaqu%[m|é]|
+|ils|auraient|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tictaqu%[m|e]|
+|que|tu|tictaqu%[m|es]|
+|qu'|il|tictaqu%[m|e]|
+|que|nous|tictaqu%[m|ions]|
+|que|vous|tictaqu%[m|iez]|
+|qu'|ils|tictaqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tictaqu%[m|é]|
+|que|tu|aies|tictaqu%[m|é]|
+|qu'|il|ait|tictaqu%[m|é]|
+|que|nous|ayons|tictaqu%[m|é]|
+|que|vous|ayez|tictaqu%[m|é]|
+|qu'|ils|aient|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tictaqu%[m|asse]|
+|que|tu|tictaqu%[m|asses]|
+|qu'|il|tictaqu%[m|ât]|
+|que|nous|tictaqu%[m|assions]|
+|que|vous|tictaqu%[m|assiez]|
+|qu'|ils|tictaqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tictaqu%[m|é]|
+|que|tu|eusses|tictaqu%[m|é]|
+|qu'|il|eût|tictaqu%[m|é]|
+|que|nous|eussions|tictaqu%[m|é]|
+|que|vous|eussiez|tictaqu%[m|é]|
+|qu'|ils|eussent|tictaqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tictaqu%[m|e]|
+|tictaqu%[m|ons]|
+|tictaqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tictaqu%[m|é]|
+|ayons|tictaqu%[m|é]|
+|ayez|tictaqu%[m|é]|
+|]
+

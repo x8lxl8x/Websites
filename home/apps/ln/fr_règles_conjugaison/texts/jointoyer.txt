@@ -1,0 +1,190 @@
+# jointoyer %[clVerbGroup|1]
+[-
+combler les interstices d'un mur avec du mortier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|jointo%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|jointo%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||jointo%[m|yé]|
+|ayant|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en jointo%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|jointo%[m|ie]|
+|tu|jointo%[m|ies]|
+|il|jointo%[m|ie]|
+|nous|jointo%[m|yons]|
+|vous|jointo%[m|yez]|
+|ils|jointo%[m|ient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|jointo%[m|yé]|
+|tu|as |jointo%[m|yé]|
+|il|a|jointo%[m|yé]|
+|nous|avons|jointo%[m|yé]|
+|vous|avez|jointo%[m|yé]|
+|ils|ont|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|jointo%[m|yais]|
+|tu|jointo%[m|yais]|
+|il|jointo%[m|yait]|
+|nous|jointo%[m|yions]|
+|vous|jointo%[m|yiez]|
+|ils|jointo%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|jointo%[m|yé]|
+|tu|avais|jointo%[m|yé]|
+|il|avait|jointo%[m|yé]|
+|nous|avions|jointo%[m|yé]|
+|vous|aviez|jointo%[m|yé]|
+|ils|avaient|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|jointo%[m|yai]|
+|tu|jointo%[m|yas]|
+|il|jointo%[m|ya]|
+|nous|jointo%[m|yâmes]|
+|vous|jointo%[m|yâtes]|
+|ils|jointo%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|jointo%[m|yé]|
+|tu|eus|jointo%[m|yé]|
+|il|eut|jointo%[m|yé]|
+|nous|e&ucirc;mes|jointo%[m|yé]|
+|vous|e&ucirc;tes|jointo%[m|yé]|
+|ils|eurent|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|jointo%[m|ierai]|
+|tu|jointo%[m|ieras]|
+|il|jointo%[m|iera]|
+|nous|jointo%[m|ierons]|
+|vous|jointo%[m|ierez]|
+|ils|jointo%[m|ieront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|jointo%[m|yé]|
+|tu|auras|jointo%[m|yé]|
+|il|aura|jointo%[m|yé]|
+|nous|aurons|jointo%[m|yé]|
+|vous|aurez|jointo%[m|yé]|
+|ils|auront|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|jointo%[m|ierais]|
+|tu|jointo%[m|ierais]|
+|il|jointo%[m|ierait]|
+|nous|jointo%[m|ierions]|
+|vous|jointo%[m|ieriez]|
+|ils|jointo%[m|ieraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|jointo%[m|yé]|
+|tu|aurais|jointo%[m|yé]|
+|il|aurait|jointo%[m|yé]|
+|nous|aurions|jointo%[m|yé]|
+|vous|auriez|jointo%[m|yé]|
+|ils|auraient|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|jointo%[m|ie]|
+|que|tu|jointo%[m|ies]|
+|qu'|il|jointo%[m|ie]|
+|que|nous|jointo%[m|yions]|
+|que|vous|jointo%[m|yiez]|
+|qu'|ils|jointo%[m|ient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|jointo%[m|yé]|
+|que|tu|aies|jointo%[m|yé]|
+|qu'|il|ait|jointo%[m|yé]|
+|que|nous|ayons|jointo%[m|yé]|
+|que|vous|ayez|jointo%[m|yé]|
+|qu'|ils|aient|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|jointo%[m|yasse]|
+|que|tu|jointo%[m|yasses]|
+|qu'|il|jointo%[m|yât]|
+|que|nous|jointo%[m|yassions]|
+|que|vous|jointo%[m|yassiez]|
+|qu'|ils|jointo%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|jointo%[m|yé]|
+|que|tu|eusses|jointo%[m|yé]|
+|qu'|il|eût|jointo%[m|yé]|
+|que|nous|eussions|jointo%[m|yé]|
+|que|vous|eussiez|jointo%[m|yé]|
+|qu'|ils|eussent|jointo%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|jointo%[m|ie]|
+|jointo%[m|yons]|
+|jointo%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|jointo%[m|yé]|
+|ayons|jointo%[m|yé]|
+|ayez|jointo%[m|yé]|
+|]
+

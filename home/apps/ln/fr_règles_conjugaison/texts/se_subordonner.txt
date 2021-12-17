@@ -1,0 +1,190 @@
+# se subordonner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se subordonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|subordonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se subordonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|subordonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se subordonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|subordonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|subordonn%[m|e]|
+|tu|te|subordonn%[m|es]|
+|il|se|subordonn%[m|e]|
+|nous|nous|subordonn%[m|ons]|
+|vous|vous|subordonn%[m|ez]|
+|ils|se|subordonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|subordonn%[m|é]|
+|tu|t'|es|subordonn%[m|é]|
+|il|s'|est|subordonn%[m|é]|
+|nous|nous|sommes|subordonn%[m|és]|
+|vous|vous|êtes|subordonn%[m|és]|
+|ils|se|sont|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|subordonn%[m|ais]|
+|tu|te|subordonn%[m|ais]|
+|il|se|subordonn%[m|ait]|
+|nous|nous|subordonn%[m|ions]|
+|vous|vous|subordonn%[m|iez]|
+|ils|se|subordonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|subordonn%[m|é]|
+|tu|t'|étais|subordonn%[m|é]|
+|il|s'|était|subordonn%[m|é]|
+|nous|nous|étions|subordonn%[m|és]|
+|vous|vous|étiez|subordonn%[m|és]|
+|ils|s'|étaient|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|subordonn%[m|ai]|
+|tu|te|subordonn%[m|as]|
+|il|se|subordonn%[m|a]|
+|nous|nous|subordonn%[m|âmes]|
+|vous|vous|subordonn%[m|âtes]|
+|ils|se|subordonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|subordonn%[m|é]|
+|tu|te|fus|subordonn%[m|é]|
+|il|se|fut|subordonn%[m|é]|
+|nous|nous|fûmes|subordonn%[m|és]|
+|vous|vous|fûtes|subordonn%[m|és]|
+|ils|se|furent|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|subordonn%[m|erai]|
+|tu|te|subordonn%[m|eras]|
+|il|se|subordonn%[m|era]|
+|nous|nous|subordonn%[m|erons]|
+|vous|vous|subordonn%[m|erez]|
+|ils|se|subordonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|subordonn%[m|é]|
+|tu|te|seras|subordonn%[m|é]|
+|il|se|sera|subordonn%[m|é]|
+|nous|nous|serons|subordonn%[m|és]|
+|vous|vous|serez|subordonn%[m|és]|
+|ils|se|seront|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|subordonn%[m|erais]|
+|tu|te|subordonn%[m|erais]|
+|il|se|subordonn%[m|erait]|
+|nous|nous|subordonn%[m|erions]|
+|vous|vous|subordonn%[m|eriez]|
+|ils|se|subordonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|subordonn%[m|é]|
+|tu|te|serais|subordonn%[m|é]|
+|il|se|serait|subordonn%[m|é]|
+|nous|nous|serions|subordonn%[m|és]|
+|vous|vous|seriez|subordonn%[m|és]|
+|ils|se|seraient|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|subordonn%[m|e]|
+|que|tu|te|subordonn%[m|es]|
+|qu'|il|se|subordonn%[m|e]|
+|que|nous|nous|subordonn%[m|ions]|
+|que|vous|vous|subordonn%[m|iez]|
+|qu'|ils|se|subordonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|subordonn%[m|é]|
+|que|tu|te|sois|subordonn%[m|é]|
+|qu'|il|se|soit|subordonn%[m|é]|
+|que|nous|nous|soyons|subordonn%[m|és]|
+|que|vous|vous|soyez|subordonn%[m|és]|
+|qu'|ils|se|soient|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|subordonn%[m|asse]|
+|que|tu|te|subordonn%[m|asses]|
+|qu'|il|se|subordonn%[m|ât]|
+|que|nous|nous|subordonn%[m|assions]|
+|que|vous|vous|subordonn%[m|assiez]|
+|qu'|ils|se|subordonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|subordonn%[m|é]|
+|que|tu|te|fusses|subordonn%[m|é]|
+|qu'|il|se|fût|subordonn%[m|é]|
+|que|nous|nous|fussions|subordonn%[m|és]|
+|que|vous|vous|fussiez|subordonn%[m|és]|
+|qu'|ils|se|fussent|subordonn%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|subordonn%[m|e]-toi|
+|subordonn%[m|ons]-nous|
+|subordonn%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# embrancher %[clVerbGroup|1]
+[-
+joindre deux embranchements (d'une canalisation, d'une voie etc.) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|embranch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|embranch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|embranch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||embranch%[m|é]|
+|ayant|embranch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en embranch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|embranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|embranch%[m|e]|
+|tu|embranch%[m|es]|
+|il|embranch%[m|e]|
+|nous|embranch%[m|ons]|
+|vous|embranch%[m|ez]|
+|ils|embranch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|embranch%[m|é]|
+|tu|as |embranch%[m|é]|
+|il|a|embranch%[m|é]|
+|nous|avons|embranch%[m|é]|
+|vous|avez|embranch%[m|é]|
+|ils|ont|embranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|embranch%[m|ais]|
+|tu|embranch%[m|ais]|
+|il|embranch%[m|ait]|
+|nous|embranch%[m|ions]|
+|vous|embranch%[m|iez]|
+|ils|embranch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|embranch%[m|é]|
+|tu|avais|embranch%[m|é]|
+|il|avait|embranch%[m|é]|
+|nous|avions|embranch%[m|é]|
+|vous|aviez|embranch%[m|é]|
+|ils|avaient|embranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|embranch%[m|ai]|
+|tu|embranch%[m|as]|
+|il|embranch%[m|a]|
+|nous|embranch%[m|âmes]|
+|vous|embranch%[m|âtes]|
+|ils|embranch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|embranch%[m|é]|
+|tu|eus|embranch%[m|é]|
+|il|eut|embranch%[m|é]|
+|nous|e&ucirc;mes|embranch%[m|é]|
+|vous|e&ucirc;tes|embranch%[m|é]|
+|ils|eurent|embranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|embranch%[m|erai]|
+|tu|embranch%[m|eras]|
+|il|embranch%[m|era]|
+|nous|embranch%[m|erons]|
+|vous|embranch%[m|erez]|
+|ils|embranch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|embranch%[m|é]|
+|tu|auras|embranch%[m|é]|
+|il|aura|embranch%[m|é]|
+|nous|aurons|embranch%[m|é]|
+|vous|aurez|embranch%[m|é]|
+|ils|auront|embranch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|embranch%[m|erais]|
+|tu|embranch%[m|erais]|
+|il|embranch%[m|erait]|
+|nous|embranch%[m|erions]|
+|vous|embranch%[m|eriez]|
+|ils|embranch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|embranch%[m|é]|
+|tu|aurais|embranch%[m|é]|
+|il|aurait|embranch%[m|é]|
+|nous|aurions|embranch%[m|é]|
+|vous|auriez|embranch%[m|é]|
+|ils|auraient|embranch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|embranch%[m|e]|
+|que|tu|embranch%[m|es]|
+|qu'|il|embranch%[m|e]|
+|que|nous|embranch%[m|ions]|
+|que|vous|embranch%[m|iez]|
+|qu'|ils|embranch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|embranch%[m|é]|
+|que|tu|aies|embranch%[m|é]|
+|qu'|il|ait|embranch%[m|é]|
+|que|nous|ayons|embranch%[m|é]|
+|que|vous|ayez|embranch%[m|é]|
+|qu'|ils|aient|embranch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|embranch%[m|asse]|
+|que|tu|embranch%[m|asses]|
+|qu'|il|embranch%[m|ât]|
+|que|nous|embranch%[m|assions]|
+|que|vous|embranch%[m|assiez]|
+|qu'|ils|embranch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|embranch%[m|é]|
+|que|tu|eusses|embranch%[m|é]|
+|qu'|il|eût|embranch%[m|é]|
+|que|nous|eussions|embranch%[m|é]|
+|que|vous|eussiez|embranch%[m|é]|
+|qu'|ils|eussent|embranch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|embranch%[m|e]|
+|embranch%[m|ons]|
+|embranch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|embranch%[m|é]|
+|ayons|embranch%[m|é]|
+|ayez|embranch%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# étiqueter %[clVerbGroup|1]
+[-
+apposer une étiquette sur. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|étiquet%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|étiquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||étiquet%[m|é]|
+|ayant|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en étiquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|étiquet%[m|t]%[m|e]|
+|tu|étiquet%[m|t]%[m|es]|
+|il|étiquet%[m|t]%[m|e]|
+|nous|étiquet%[m|]%[m|ons]|
+|vous|étiquet%[m|]%[m|ez]|
+|ils|étiquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|étiquet%[m|é]|
+|tu|as |étiquet%[m|é]|
+|il|a|étiquet%[m|é]|
+|nous|avons|étiquet%[m|é]|
+|vous|avez|étiquet%[m|é]|
+|ils|ont|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|étiquet%[m|]%[m|ais]|
+|tu|étiquet%[m|]%[m|ais]|
+|il|étiquet%[m|]%[m|ait]|
+|nous|étiquet%[m|]%[m|ions]|
+|vous|étiquet%[m|]%[m|iez]|
+|ils|étiquet%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|étiquet%[m|é]|
+|tu|avais|étiquet%[m|é]|
+|il|avait|étiquet%[m|é]|
+|nous|avions|étiquet%[m|é]|
+|vous|aviez|étiquet%[m|é]|
+|ils|avaient|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|étiquet%[m|]%[m|ai]|
+|tu|étiquet%[m|]%[m|as]|
+|il|étiquet%[m|]%[m|a]|
+|nous|étiquet%[m|]%[m|âmes]|
+|vous|étiquet%[m|]%[m|âtes]|
+|ils|étiquet%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|étiquet%[m|é]|
+|tu|eus|étiquet%[m|é]|
+|il|eut|étiquet%[m|é]|
+|nous|e&ucirc;mes|étiquet%[m|é]|
+|vous|e&ucirc;tes|étiquet%[m|é]|
+|ils|eurent|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|étiquet%[m|t]%[m|erai]|
+|tu|étiquet%[m|t]%[m|eras]|
+|il|étiquet%[m|t]%[m|era]|
+|nous|étiquet%[m|t]%[m|erons]|
+|vous|étiquet%[m|t]%[m|erez]|
+|ils|étiquet%[m|t]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|étiquet%[m|é]|
+|tu|auras|étiquet%[m|é]|
+|il|aura|étiquet%[m|é]|
+|nous|aurons|étiquet%[m|é]|
+|vous|aurez|étiquet%[m|é]|
+|ils|auront|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|étiquet%[m|t]%[m|erais]|
+|tu|étiquet%[m|t]%[m|erais]|
+|il|étiquet%[m|t]%[m|erait]|
+|nous|étiquet%[m|t]%[m|erions]|
+|vous|étiquet%[m|t]%[m|eriez]|
+|ils|étiquet%[m|t]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|étiquet%[m|é]|
+|tu|aurais|étiquet%[m|é]|
+|il|aurait|étiquet%[m|é]|
+|nous|aurions|étiquet%[m|é]|
+|vous|auriez|étiquet%[m|é]|
+|ils|auraient|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|étiquet%[m|t]%[m|e]|
+|que|tu|étiquet%[m|t]%[m|es]|
+|qu'|il|étiquet%[m|t]%[m|e]|
+|que|nous|étiquet%[m|]%[m|ions]|
+|que|vous|étiquet%[m|]%[m|iez]|
+|qu'|ils|étiquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|étiquet%[m|é]|
+|que|tu|aies|étiquet%[m|é]|
+|qu'|il|ait|étiquet%[m|é]|
+|que|nous|ayons|étiquet%[m|é]|
+|que|vous|ayez|étiquet%[m|é]|
+|qu'|ils|aient|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|étiquet%[m|]%[m|asse]|
+|que|tu|étiquet%[m|]%[m|asses]|
+|qu'|il|étiquet%[m|]%[m|ât]|
+|que|nous|étiquet%[m|]%[m|assions]|
+|que|vous|étiquet%[m|]%[m|assiez]|
+|qu'|ils|étiquet%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|étiquet%[m|é]|
+|que|tu|eusses|étiquet%[m|é]|
+|qu'|il|eût|étiquet%[m|é]|
+|que|nous|eussions|étiquet%[m|é]|
+|que|vous|eussiez|étiquet%[m|é]|
+|qu'|ils|eussent|étiquet%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|étiquet%[m|t]%[m|e]|
+|étiquet%[m|]%[m|ons]|
+|étiquet%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|étiquet%[m|é]|
+|ayons|étiquet%[m|é]|
+|ayez|étiquet%[m|é]|
+|]
+

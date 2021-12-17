@@ -1,0 +1,190 @@
+# poutser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pouts%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pouts%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pouts%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pouts%[m|é]|
+|ayant|pouts%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pouts%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pouts%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pouts%[m|e]|
+|tu|pouts%[m|es]|
+|il|pouts%[m|e]|
+|nous|pouts%[m|ons]|
+|vous|pouts%[m|ez]|
+|ils|pouts%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pouts%[m|é]|
+|tu|as |pouts%[m|é]|
+|il|a|pouts%[m|é]|
+|nous|avons|pouts%[m|é]|
+|vous|avez|pouts%[m|é]|
+|ils|ont|pouts%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pouts%[m|ais]|
+|tu|pouts%[m|ais]|
+|il|pouts%[m|ait]|
+|nous|pouts%[m|ions]|
+|vous|pouts%[m|iez]|
+|ils|pouts%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pouts%[m|é]|
+|tu|avais|pouts%[m|é]|
+|il|avait|pouts%[m|é]|
+|nous|avions|pouts%[m|é]|
+|vous|aviez|pouts%[m|é]|
+|ils|avaient|pouts%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pouts%[m|ai]|
+|tu|pouts%[m|as]|
+|il|pouts%[m|a]|
+|nous|pouts%[m|âmes]|
+|vous|pouts%[m|âtes]|
+|ils|pouts%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pouts%[m|é]|
+|tu|eus|pouts%[m|é]|
+|il|eut|pouts%[m|é]|
+|nous|e&ucirc;mes|pouts%[m|é]|
+|vous|e&ucirc;tes|pouts%[m|é]|
+|ils|eurent|pouts%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pouts%[m|erai]|
+|tu|pouts%[m|eras]|
+|il|pouts%[m|era]|
+|nous|pouts%[m|erons]|
+|vous|pouts%[m|erez]|
+|ils|pouts%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pouts%[m|é]|
+|tu|auras|pouts%[m|é]|
+|il|aura|pouts%[m|é]|
+|nous|aurons|pouts%[m|é]|
+|vous|aurez|pouts%[m|é]|
+|ils|auront|pouts%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pouts%[m|erais]|
+|tu|pouts%[m|erais]|
+|il|pouts%[m|erait]|
+|nous|pouts%[m|erions]|
+|vous|pouts%[m|eriez]|
+|ils|pouts%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pouts%[m|é]|
+|tu|aurais|pouts%[m|é]|
+|il|aurait|pouts%[m|é]|
+|nous|aurions|pouts%[m|é]|
+|vous|auriez|pouts%[m|é]|
+|ils|auraient|pouts%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pouts%[m|e]|
+|que|tu|pouts%[m|es]|
+|qu'|il|pouts%[m|e]|
+|que|nous|pouts%[m|ions]|
+|que|vous|pouts%[m|iez]|
+|qu'|ils|pouts%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pouts%[m|é]|
+|que|tu|aies|pouts%[m|é]|
+|qu'|il|ait|pouts%[m|é]|
+|que|nous|ayons|pouts%[m|é]|
+|que|vous|ayez|pouts%[m|é]|
+|qu'|ils|aient|pouts%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pouts%[m|asse]|
+|que|tu|pouts%[m|asses]|
+|qu'|il|pouts%[m|ât]|
+|que|nous|pouts%[m|assions]|
+|que|vous|pouts%[m|assiez]|
+|qu'|ils|pouts%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pouts%[m|é]|
+|que|tu|eusses|pouts%[m|é]|
+|qu'|il|eût|pouts%[m|é]|
+|que|nous|eussions|pouts%[m|é]|
+|que|vous|eussiez|pouts%[m|é]|
+|qu'|ils|eussent|pouts%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pouts%[m|e]|
+|pouts%[m|ons]|
+|pouts%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pouts%[m|é]|
+|ayons|pouts%[m|é]|
+|ayez|pouts%[m|é]|
+|]
+

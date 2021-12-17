@@ -1,0 +1,190 @@
+# flécher %[clVerbGroup|1]
+[-
+placer des flèches pour indiquer une direction. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fl%[m|é]ch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fléch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fl%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fléch%[m|é]|
+|ayant|fléch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fl%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fléch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fl%[m|è]ch%[m|e]|
+|tu|fl%[m|è]ch%[m|es]|
+|il|fl%[m|è]ch%[m|e]|
+|nous|fl%[m|é]ch%[m|ons]|
+|vous|fl%[m|é]ch%[m|ez]|
+|ils|fl%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fléch%[m|é]|
+|tu|as |fléch%[m|é]|
+|il|a|fléch%[m|é]|
+|nous|avons|fléch%[m|é]|
+|vous|avez|fléch%[m|é]|
+|ils|ont|fléch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fl%[m|é]ch%[m|ais]|
+|tu|fl%[m|é]ch%[m|ais]|
+|il|fl%[m|é]ch%[m|ait]|
+|nous|fl%[m|é]ch%[m|ions]|
+|vous|fl%[m|é]ch%[m|iez]|
+|ils|fl%[m|é]ch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fléch%[m|é]|
+|tu|avais|fléch%[m|é]|
+|il|avait|fléch%[m|é]|
+|nous|avions|fléch%[m|é]|
+|vous|aviez|fléch%[m|é]|
+|ils|avaient|fléch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fl%[m|é]ch%[m|ai]|
+|tu|fl%[m|é]ch%[m|as]|
+|il|fl%[m|é]ch%[m|a]|
+|nous|fl%[m|é]ch%[m|âmes]|
+|vous|fl%[m|é]ch%[m|âtes]|
+|ils|fl%[m|é]ch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fléch%[m|é]|
+|tu|eus|fléch%[m|é]|
+|il|eut|fléch%[m|é]|
+|nous|e&ucirc;mes|fléch%[m|é]|
+|vous|e&ucirc;tes|fléch%[m|é]|
+|ils|eurent|fléch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fl%[m|é]ch%[m|erai]|
+|tu|fl%[m|é]ch%[m|eras]|
+|il|fl%[m|é]ch%[m|era]|
+|nous|fl%[m|é]ch%[m|erons]|
+|vous|fl%[m|é]ch%[m|erez]|
+|ils|fl%[m|é]ch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fléch%[m|é]|
+|tu|auras|fléch%[m|é]|
+|il|aura|fléch%[m|é]|
+|nous|aurons|fléch%[m|é]|
+|vous|aurez|fléch%[m|é]|
+|ils|auront|fléch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fl%[m|é]ch%[m|erais]|
+|tu|fl%[m|é]ch%[m|erais]|
+|il|fl%[m|é]ch%[m|erait]|
+|nous|fl%[m|é]ch%[m|erions]|
+|vous|fl%[m|é]ch%[m|eriez]|
+|ils|fl%[m|é]ch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fléch%[m|é]|
+|tu|aurais|fléch%[m|é]|
+|il|aurait|fléch%[m|é]|
+|nous|aurions|fléch%[m|é]|
+|vous|auriez|fléch%[m|é]|
+|ils|auraient|fléch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fl%[m|è]ch%[m|e]|
+|que|tu|fl%[m|è]ch%[m|es]|
+|qu'|il|fl%[m|è]ch%[m|e]|
+|que|nous|fl%[m|é]ch%[m|ions]|
+|que|vous|fl%[m|é]ch%[m|iez]|
+|qu'|ils|fl%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fléch%[m|é]|
+|que|tu|aies|fléch%[m|é]|
+|qu'|il|ait|fléch%[m|é]|
+|que|nous|ayons|fléch%[m|é]|
+|que|vous|ayez|fléch%[m|é]|
+|qu'|ils|aient|fléch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fl%[m|é]ch%[m|asse]|
+|que|tu|fl%[m|é]ch%[m|asses]|
+|qu'|il|fl%[m|é]ch%[m|ât]|
+|que|nous|fl%[m|é]ch%[m|assions]|
+|que|vous|fl%[m|é]ch%[m|assiez]|
+|qu'|ils|fl%[m|é]ch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fléch%[m|é]|
+|que|tu|eusses|fléch%[m|é]|
+|qu'|il|eût|fléch%[m|é]|
+|que|nous|eussions|fléch%[m|é]|
+|que|vous|eussiez|fléch%[m|é]|
+|qu'|ils|eussent|fléch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fl%[m|è]ch%[m|e]|
+|fl%[m|é]ch%[m|ons]|
+|fl%[m|é]ch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fléch%[m|é]|
+|ayons|fléch%[m|é]|
+|ayez|fléch%[m|é]|
+|]
+

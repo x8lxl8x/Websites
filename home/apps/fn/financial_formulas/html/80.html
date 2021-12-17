@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Financial Formulas</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+
+<div id='idContent'>
+
+<h1>Discounted Payback Period</h1>
+
+
+<div class='clOverflow'><div class='clImage'><img src='../images/Discounted%20Payback%20Period%201.gif'></div></div>
+
+*Assumes cash flows are equal<br> **See below for simple and uneven cash flows version<br> <p>The discounted payback period formula is used to calculate the length of time to recoup an investment based on the investment's discounted cash flows. By discounting each individual cash flow, the discounted payback period formula takes into consideration the time value of money.</p>
+<p>The discounted payback period formula is used in capital budgeting to compare a project or projects against the cost of the investment. The simple payback period formula can be used as a quick measurement, however discounting each cash flow can provide a more accurate picture of the investment. As a simple example, suppose that an initial cost of a project is $5000 and each cash flow is $1,000 per year. The simple payback period formula would be 5 years, the initial investment divided by the cash flow each period. However, the discounted payback period would look at each of those $1,000 cash flows based on its present value. Assuming the rate is 10%, the present value of the first cash flow would be $909.09, which is $1,000 divided  <b><i>1+r</i></b> . Each individual cash flow would then be discounted to its present value until it is determined how long it would take to recoup the original $5,000.</p>
+
+<h2>Example of the Discounted Payback Period Formula</h2>
+<p>Using the prior example of a project that costs $5,000 with $1,000 annual cash flows. Assuming the company uses a discount rate of 10%, the discounted payback period for this example would be calculated based on the following equation:</p>
+
+
+<div class='clOverflow'><div class='clImage'><img src='../images/Discounted%20Payback%20Period%202.gif'></div></div>
+
+<p>The equation for this example would be reduced to:</p>
+
+
+<div class='clOverflow'><div class='clImage'><img src='../images/Discounted%20Payback%20Period%203.gif'></div></div>
+
+<p>which results in a discounted payback period of 7.273. Although this formula calculates results with decimals, it is important to consider that there may be a slight difference due to rounding and more importantly, that there may not be a such thing as a partial cash inflow. This may warrant rounding up to determine how long it would take to recoup the initial investment.</p>
+
+<h2>Alternative Discounted Payback Period Formula</h2>
+<p>The formula listed at the top of the page assumes that each cash flow is equal. In many cases, the cash flows will not be equal. The simple version of the discounted payback period formula is:</p>
+
+
+<div class='clOverflow'><div class='clImage'><img src='../images/Discounted%20Payback%20Period%204.gif'></div></div>
+
+<p>This is not as much a formula, as a way of explaining that the discounted cash flow method discounts each inflow until net present value equals zero.</p>
+<p>Another method to simplify the calculation when cash flows are even is to use a table for the present value of annuity factor in order to solve n. The need to solve for n in the present value of annuity formula will be further explained in the following section.</p>
+
+<h2>How is the Discounted Payback Period Derived?</h2>
+<p>The formula shown at the top of the page assumes that all cash flows are equal. If all cash flows are equal, then the investment return is simply an annuity. The point of the discounted payback period formula is to calculate how long before the present value equals the initial investment(NPV = 0). Thus, since PV of the annuity equals the initial investment, solving for n, the number of periods, based on the present value of annuity formula can be used. The only difference between solving for n based on the PV of annuity formula and the formula shown at the top of the page is substituting PV for the initial investment since they are both equal.</p>
+<p>As stated in the prior section, the process of calculating the discounted payback period when all cash flows are equal could be simplified by using a present value of annuity table to calculate n.</p>
+<p>If the cash flows are uneven, then the longer method of discounting each cash flow would be used.</p>
+
+
+</div>
+</div>
+</body>
+</html>

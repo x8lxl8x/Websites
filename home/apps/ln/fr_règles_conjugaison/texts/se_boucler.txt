@@ -1,0 +1,190 @@
+# se boucler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se boucl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|boucl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se boucl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|boucl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se boucl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|boucl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|boucl%[m|e]|
+|tu|te|boucl%[m|es]|
+|il|se|boucl%[m|e]|
+|nous|nous|boucl%[m|ons]|
+|vous|vous|boucl%[m|ez]|
+|ils|se|boucl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|boucl%[m|é]|
+|tu|t'|es|boucl%[m|é]|
+|il|s'|est|boucl%[m|é]|
+|nous|nous|sommes|boucl%[m|és]|
+|vous|vous|êtes|boucl%[m|és]|
+|ils|se|sont|boucl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|boucl%[m|ais]|
+|tu|te|boucl%[m|ais]|
+|il|se|boucl%[m|ait]|
+|nous|nous|boucl%[m|ions]|
+|vous|vous|boucl%[m|iez]|
+|ils|se|boucl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|boucl%[m|é]|
+|tu|t'|étais|boucl%[m|é]|
+|il|s'|était|boucl%[m|é]|
+|nous|nous|étions|boucl%[m|és]|
+|vous|vous|étiez|boucl%[m|és]|
+|ils|s'|étaient|boucl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|boucl%[m|ai]|
+|tu|te|boucl%[m|as]|
+|il|se|boucl%[m|a]|
+|nous|nous|boucl%[m|âmes]|
+|vous|vous|boucl%[m|âtes]|
+|ils|se|boucl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|boucl%[m|é]|
+|tu|te|fus|boucl%[m|é]|
+|il|se|fut|boucl%[m|é]|
+|nous|nous|fûmes|boucl%[m|és]|
+|vous|vous|fûtes|boucl%[m|és]|
+|ils|se|furent|boucl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|boucl%[m|erai]|
+|tu|te|boucl%[m|eras]|
+|il|se|boucl%[m|era]|
+|nous|nous|boucl%[m|erons]|
+|vous|vous|boucl%[m|erez]|
+|ils|se|boucl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|boucl%[m|é]|
+|tu|te|seras|boucl%[m|é]|
+|il|se|sera|boucl%[m|é]|
+|nous|nous|serons|boucl%[m|és]|
+|vous|vous|serez|boucl%[m|és]|
+|ils|se|seront|boucl%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|boucl%[m|erais]|
+|tu|te|boucl%[m|erais]|
+|il|se|boucl%[m|erait]|
+|nous|nous|boucl%[m|erions]|
+|vous|vous|boucl%[m|eriez]|
+|ils|se|boucl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|boucl%[m|é]|
+|tu|te|serais|boucl%[m|é]|
+|il|se|serait|boucl%[m|é]|
+|nous|nous|serions|boucl%[m|és]|
+|vous|vous|seriez|boucl%[m|és]|
+|ils|se|seraient|boucl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|boucl%[m|e]|
+|que|tu|te|boucl%[m|es]|
+|qu'|il|se|boucl%[m|e]|
+|que|nous|nous|boucl%[m|ions]|
+|que|vous|vous|boucl%[m|iez]|
+|qu'|ils|se|boucl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|boucl%[m|é]|
+|que|tu|te|sois|boucl%[m|é]|
+|qu'|il|se|soit|boucl%[m|é]|
+|que|nous|nous|soyons|boucl%[m|és]|
+|que|vous|vous|soyez|boucl%[m|és]|
+|qu'|ils|se|soient|boucl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|boucl%[m|asse]|
+|que|tu|te|boucl%[m|asses]|
+|qu'|il|se|boucl%[m|ât]|
+|que|nous|nous|boucl%[m|assions]|
+|que|vous|vous|boucl%[m|assiez]|
+|qu'|ils|se|boucl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|boucl%[m|é]|
+|que|tu|te|fusses|boucl%[m|é]|
+|qu'|il|se|fût|boucl%[m|é]|
+|que|nous|nous|fussions|boucl%[m|és]|
+|que|vous|vous|fussiez|boucl%[m|és]|
+|qu'|ils|se|fussent|boucl%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boucl%[m|e]-toi|
+|boucl%[m|ons]-nous|
+|boucl%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

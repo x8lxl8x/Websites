@@ -1,0 +1,190 @@
+# déloquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|déloqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|déloqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déloqu%[m|é]|
+|ayant|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en déloqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|déloqu%[m|e]|
+|tu|déloqu%[m|es]|
+|il|déloqu%[m|e]|
+|nous|déloqu%[m|ons]|
+|vous|déloqu%[m|ez]|
+|ils|déloqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déloqu%[m|é]|
+|tu|as |déloqu%[m|é]|
+|il|a|déloqu%[m|é]|
+|nous|avons|déloqu%[m|é]|
+|vous|avez|déloqu%[m|é]|
+|ils|ont|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|déloqu%[m|ais]|
+|tu|déloqu%[m|ais]|
+|il|déloqu%[m|ait]|
+|nous|déloqu%[m|ions]|
+|vous|déloqu%[m|iez]|
+|ils|déloqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déloqu%[m|é]|
+|tu|avais|déloqu%[m|é]|
+|il|avait|déloqu%[m|é]|
+|nous|avions|déloqu%[m|é]|
+|vous|aviez|déloqu%[m|é]|
+|ils|avaient|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|déloqu%[m|ai]|
+|tu|déloqu%[m|as]|
+|il|déloqu%[m|a]|
+|nous|déloqu%[m|âmes]|
+|vous|déloqu%[m|âtes]|
+|ils|déloqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déloqu%[m|é]|
+|tu|eus|déloqu%[m|é]|
+|il|eut|déloqu%[m|é]|
+|nous|e&ucirc;mes|déloqu%[m|é]|
+|vous|e&ucirc;tes|déloqu%[m|é]|
+|ils|eurent|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|déloqu%[m|erai]|
+|tu|déloqu%[m|eras]|
+|il|déloqu%[m|era]|
+|nous|déloqu%[m|erons]|
+|vous|déloqu%[m|erez]|
+|ils|déloqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déloqu%[m|é]|
+|tu|auras|déloqu%[m|é]|
+|il|aura|déloqu%[m|é]|
+|nous|aurons|déloqu%[m|é]|
+|vous|aurez|déloqu%[m|é]|
+|ils|auront|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|déloqu%[m|erais]|
+|tu|déloqu%[m|erais]|
+|il|déloqu%[m|erait]|
+|nous|déloqu%[m|erions]|
+|vous|déloqu%[m|eriez]|
+|ils|déloqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déloqu%[m|é]|
+|tu|aurais|déloqu%[m|é]|
+|il|aurait|déloqu%[m|é]|
+|nous|aurions|déloqu%[m|é]|
+|vous|auriez|déloqu%[m|é]|
+|ils|auraient|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|déloqu%[m|e]|
+|que|tu|déloqu%[m|es]|
+|qu'|il|déloqu%[m|e]|
+|que|nous|déloqu%[m|ions]|
+|que|vous|déloqu%[m|iez]|
+|qu'|ils|déloqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déloqu%[m|é]|
+|que|tu|aies|déloqu%[m|é]|
+|qu'|il|ait|déloqu%[m|é]|
+|que|nous|ayons|déloqu%[m|é]|
+|que|vous|ayez|déloqu%[m|é]|
+|qu'|ils|aient|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|déloqu%[m|asse]|
+|que|tu|déloqu%[m|asses]|
+|qu'|il|déloqu%[m|ât]|
+|que|nous|déloqu%[m|assions]|
+|que|vous|déloqu%[m|assiez]|
+|qu'|ils|déloqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déloqu%[m|é]|
+|que|tu|eusses|déloqu%[m|é]|
+|qu'|il|eût|déloqu%[m|é]|
+|que|nous|eussions|déloqu%[m|é]|
+|que|vous|eussiez|déloqu%[m|é]|
+|qu'|ils|eussent|déloqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déloqu%[m|e]|
+|déloqu%[m|ons]|
+|déloqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déloqu%[m|é]|
+|ayons|déloqu%[m|é]|
+|ayez|déloqu%[m|é]|
+|]
+

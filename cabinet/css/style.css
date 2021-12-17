@@ -1,0 +1,870 @@
+@charset "utf-8";
+
+@font-face
+{
+  font-family:    'CenturyGothic';
+  font-style:     normal;
+  font-weight:    400;
+  src:
+       url('./fonts/CenturyGothic-Regular.eot'),
+       url('./fonts/CenturyGothic-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/CenturyGothic-Regular.woff2') format('woff2'),
+       url('./fonts/CenturyGothic-Regular.woff') format('woff'),
+       url('./fonts/CenturyGothic-Regular.ttf') format('truetype'),
+       url('./fonts/CenturyGothic-Regular.svg#CenturyGothic') format('svg');
+}
+
+@font-face
+{
+  font-family:    'fa-solid';
+  font-style:     normal;
+  font-weight:    400;
+  src:
+       url('./fonts/fa-solid-900.eot'),
+       url('./fonts/fa-solid-900?#iefix') format('embedded-opentype'),
+       url('./fonts/fa-solid-900.woff2') format('woff2'),
+       url('./fonts/fa-solid-900.woff') format('woff'),
+       url('./fonts/fa-solid-900.ttf') format('truetype'),
+       url('./fonts/fa-solid-900.svg#fontawesomeregular') format('svg');
+}
+
+@font-face
+{
+  font-family:    'fa-brands';
+  font-style:     normal;
+  font-weight:    400;
+  src:
+       url('./fonts/fa-brands-400.eot'),
+       url('./fonts/fa-brands-400?#iefix') format('embedded-opentype'),
+       url('./fonts/fa-brands-400.woff2') format('woff2'),
+       url('./fonts/fa-brands-400.woff') format('woff'),
+       url('./fonts/fa-brands-400.ttf') format('truetype'),
+       url('./fonts/fa-brands-400.svg#fontawesomeregular') format('svg');
+}
+
+@font-face
+{
+  font-family:    'Noto Sans';
+  font-style:     normal;
+  font-weight:    400;
+  src:
+       local('Noto Sans'),
+       local('NotoSans-Regular'),
+       url('./fonts/NotoSans-Regular.eot'),
+       url('./fonts/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/NotoSans-Regular.woff2') format('woff2'),
+       url('./fonts/NotoSans-Regular.woff') format('woff'),
+       url('./fonts/NotoSans-Regular.ttf') format('truetype'),
+       url('./fonts/NotoSans-Regular.svg#NotoSans') format('svg');
+}
+
+@font-face
+{
+  font-family:    'Noto Sans';
+  font-style:     normal;
+  font-weight:    700;
+  src:
+       local('Noto Sans'),
+       local('NotoSans-Bold'),
+       url('./fonts/NotoSans-Bold.eot'),
+       url('./fonts/NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/NotoSans-Bold.woff2') format('woff2'),
+       url('./fonts/NotoSans-Bold.woff') format('woff'),
+       url('./fonts/NotoSans-Bold.ttf') format('truetype'),
+       url('./fonts/NotoSans-Bold.svg#NotoSans') format('svg');
+}
+
+body
+{
+  background:           #ffffff;
+  color:                #010101;
+  font-family:          'Noto Sans', sans-serif !important;
+  font-style:           normal;
+  font-size:            100%;
+  font-weight:          normal;
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.500em 0.000em 0.000em 0.000em;
+  text-align:           center;
+}
+
+#idPanel
+{
+  margin:               5.000em auto 0.500em auto;
+  padding:              0.000em 0.000em 1.000em 0.000em;
+  text-align:           center;
+  width:                050.00%
+}
+
+#idHeader
+{
+  clear:                both;
+  position:             fixed;
+  top:                  0px;
+  left:                 0px;
+  right:                0px;
+  height:               0px;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           center;
+  transition:           top 0.3s;
+  width:                100.00%
+}
+
+#idHeaderLine1
+{
+  background-color:     #e00000;
+  background-color:     #e00000;
+  display:              inline-block;
+  font-size:            1.000em;
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.500em 0.500em 0.750em 0.500em;
+  text-align:           right;
+  width:                050.00%;
+}
+
+#idLogo
+{
+  color:                #ffffff;
+  display:              inline-block;
+  float:                left;
+  font-family:          CenturyGothic, sans-serif !important;
+  font-weight:          400;
+  font-size:            2.000em !important;
+  letter-spacing:       0.062em;
+  margin:               0.125em 0.000em 0.000em 0.250em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       text-top !important;
+}
+
+#idLogo a,
+#idLogo a:visited,
+#idLogo a:hover
+{
+  color:                #ffffff;
+  text-decoration:      none;
+}
+
+#idButtonMenu
+{
+  color:                #ffffff;
+  display:              inline-block;
+  font-family:          fa-solid, sans-serif !important;
+  font-size:            1.500em !important;
+  margin:               0.250em 1.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       text-bottom !important;
+}
+
+#idButtonSearch
+{
+  color:                #ffffff;
+  display:              inline-block;
+  font-family:          fa-solid, sans-serif !important;
+  font-size:            1.500em !important;
+  margin:               0.125em 1.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       text-bottom !important;
+}
+
+#idHeaderLine2
+{
+  background-color:     #e6e6e6;
+  color:                #010101;
+  display:              inline-block;
+  font-size:            1.000em;
+  font-weight:          bold;
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.500em 0.500em 0.500em 0.500em;
+  text-align:           left;
+  width:                050.00%
+}
+
+#idHeaderLine2 a,
+#idHeaderLine2 a:visited,
+#idHeaderLine2 a:hover
+{
+  color:                #010101;
+  background-color:     #e6e6e6;
+  text-decoration:      none;
+}
+
+#idHeaderConsultations
+{
+  display:              inline-block;
+  margin:               0.000em 0.500em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.500em;
+  vertical-align:       middle!important;
+}
+
+#idSocialF1,
+#idSocialF2,
+#idSocialF3
+{
+  color:                #000000;
+  display:              inline-block;
+  float:                right;
+  font-family:          fa-brands, sans-serif !important;
+  font-size:            0.750em !important;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.125em 1.500em 0.125em 0.250em;
+  vertical-align:       text-top !important;
+}
+
+#idSocialL
+{
+  color:                #000000;
+  display:              inline-block;
+  float:                right;
+  font-family:          fa-solid, sans-serif !important;
+  font-size:            0.750em !important;
+  margin:               0.000em 0.750em 0.000em 0.000em;
+  padding:              0.125em 1.500em 0.125em 0.250em;
+  vertical-align:       text-top !important;
+}
+
+#idHeaderLine3
+{
+  background-color:     #e6e6e6;
+  color:                #010101;
+  display:              inline-block;
+  font-size:            1.000em;
+  font-weight:          bold;
+  margin:               -0.250em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.500em 0.750em 0.500em;
+  text-align:           left;
+  width:                050.00%
+}
+
+#idHeaderLine3 a,
+#idHeaderLine3 a:visited,
+#idHeaderLine3 a:hover
+{
+  color:                #010101;
+  background-color:     #e6e6e6;
+  text-decoration:      none;
+}
+
+.clMenuEntry
+{
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.500em 0.500em;
+}
+
+.clMenuEntryLast
+{
+  margin:               0.000em 0.000em 0.000em 0.500em;
+  padding:              0.000em 0.000em 0.125em 0.000em;
+}
+
+#idHeaderLine4
+{
+  background-color:     #e6e6e6;
+  color:                #010101;
+  display:              inline-block;
+  font-size:            1.000em;
+  font-weight:          bold;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.500em 1.000em 0.500em;
+  text-align:           left;
+  width:                050.00%
+}
+
+#idSearchBox
+{
+  background-color:     #e6e6e6;
+  border-bottom:        1px solid #888888;
+  float:                left;
+  font-size:            1.000em;
+  font-weight:          bold;
+  line-height:          1.000em;
+  margin:               0.000em 0.000em 0.000em 0.500em;
+  padding:              0.250em 0.000em 0.250em 0.500em;
+  vertical-align:       middle;
+  width:                18.000em;
+}
+
+#idSearchBox #s
+{
+  background-color:     #e6e6e6;
+  border:               none;
+  color:                #888888;
+  font-size:            1.000em;
+  font-weight:          bold;
+  line-height:          1.000em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       middle;
+}
+
+#idSearchBox #idSearchSubmit
+{
+  background-color:     #e6e6e6;
+  border:               none;
+  color:                #888888;
+  font-size:            1.000em;
+  font-weight:          bold;
+  float:                right;
+  line-height:          1.000em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.500em 0.000em 0.000em;
+  vertical-align:       middle;
+}
+
+#idContent
+{
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.500em 1.000em 0.000em 1.000em;
+  text-align:           left;
+}
+
+hr
+{
+  border:               none;
+  background-color:     #aaaaaa;
+  height:               1px;
+  line-height:          1.000em;
+  margin:               1.500em 0.000em 1.2500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.post-content > p
+{
+    font-size:          1.000em;
+}
+
+.post-content > p img
+{
+    height:             150px; width: auto;
+}
+
+
+#idRegulations,
+#idForms,
+#idRecommendations,
+#idActions
+{
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 1.000em 1.500em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+#idInfo
+{
+  margin:               1.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+#idRegulations br,
+#idForms br,
+#idRecommendations br,
+#idActions br,
+#idInfo br
+{
+  margin:               0.000em 0.000em 0.125em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+#idNotification
+{
+  margin:               0.000em 0.000em 1.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+#idNotification br
+{
+  margin:               0.000em 0.000em 0.500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+#idSubmit
+{
+  margin:               2.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+#idExitLink
+{
+  margin:               1.500em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+#idExitLink a,
+#idExitLink a:visited
+{
+  color:                #e00000;
+  text-decoration:      none;
+}
+
+#idExitLink a:hover
+{
+  color:                #888888;
+  text-decoration:      none;
+}
+
+
+#idRestoreKey
+{
+  margin:               1.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+#idRestoreKey a,
+#idRestoreKey a:visited
+{
+  color:                #e00000;
+  text-decoration:      none;
+}
+
+#idRestoreKey a:hover
+{
+  color:                #888888;
+  text-decoration:      none;
+}
+
+
+.clClear
+{
+  clear:                both;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+table, th, td
+{
+  border:               none;
+  border-collapse:      collapse;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+  vertical-align:       middle;
+}
+
+th
+{
+  color:                #010101;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.000em 0.250em 0.000em;
+}
+
+td
+{
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.500em;
+}
+
+td.clTd
+{
+  border:               1px solid #cccccc;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.500em;
+}
+
+p
+{
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.7500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  text-align:           left;
+}
+
+a,
+a:visited
+{
+  color:                #010101;
+  text-decoration:      none;
+}
+
+a:hover
+{
+  color:                #e00000;
+  text-decoration:      none;
+}
+
+b, strong
+{
+  color:                #333333;
+  font-family:          'Noto Sans', sans-serif !important;
+  font-style:           normal;
+  font-weight:          bold;
+}
+
+i, em
+{
+  font-family:          'Noto Sans', sans-serif !important;
+  font-style:           italic;
+  font-weight:          normal;
+}
+
+img
+{
+  border-image-width:   0 0 0 0;
+}
+
+.alignright
+{
+  border:               none;
+  display:              inline;
+  float:                right;
+}
+
+.alignleft
+{
+  border:               none;
+  display:              inline;
+  float:                left;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:                #e00000;
+  font-family:          inherit;
+  font-size:            inherit;
+  font-style:           inherit;
+  font-weight:          inherit;
+  line-height:          inherit;
+  margin:               1.000em 0.000em 1.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+h1 { font-size:         1.175em; }
+h2 { font-size:         1.150em; }
+h3 { font-size:         1.125em; }
+h4 { font-size:         1.100em; }
+h5 { font-size:         1.050em; }
+h6 { font-size:         1.000em; }
+
+a.clLink,
+a.clLink:visited
+{
+  color:                #ee0000;
+  text-decoration:      none;
+}
+
+a.clLink:hover
+{
+  color:                #888888;
+  text-decoration:      none;
+}
+
+input,
+textarea
+{
+  border:               1px solid #999999;
+  background:           #ffffff;
+  color:                #010101;
+  font-family:          'Noto Sans', sans-serif !important;
+  font-style:           normal;
+  font-size:            100%;
+  font-weight:          normal;
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.125em 0.250em 0.125em 0.250em;
+  text-align:           left;
+}
+
+.clNoBorder
+{
+  border:               none;
+  background:           #ffffff;
+  color:                #010101;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.125em 0.250em 0.125em 0.250em;
+  text-align:           left;
+}
+
+input[type='button'],
+input[type='submit'],
+input[type='reset']
+{
+  border:               1px solid #999999;
+  border:               none;
+  background:           #dddddd;
+  color:                #444444;
+  margin:               0.000em 0.500em 0.000em 0.000em;
+  padding:              0.250em 0.250em 0.250em 0.250em;
+  text-align:           left;
+}
+
+select
+{
+  border:               1px solid #999999;
+  background:           #ffffff;
+  color:                #010101;
+  font-family:          'Noto Sans', sans-serif !important;
+  font-style:           normal;
+  font-size:            100%;
+  font-weight:          normal;
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.000em 0.125em;
+  padding:              0.125em 0.000em 0.125em 0.000em;
+  text-align:           left;
+}
+
+input[type='checkbox']
+{
+  border:               none;
+  margin:               0.000em 0.500em 0.000em 0.500em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       middle;
+}
+
+input[type='file']
+{
+  border:               1px solid #dddddd;
+  border:               none;
+  color:                #010101;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  width:                95.00%;
+}
+
+input[type='text'],
+textarea
+{
+  width:                95.00%;
+}
+
+.clInputName01
+{
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.000em;
+  text-align:           left;
+}
+
+.clInputName02
+{
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.500em;
+  text-align:           left;
+  vertical-align:       middle;
+}
+
+.clInputName03
+{
+  border:               1px solid #cccccc;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.500em;
+  text-align:           left;
+}
+
+.clComments
+{
+  color:                #010101;
+  font-size:            1.000em;
+  margin:               1.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clComments li
+{
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+
+.clQuestion
+{
+  margin:               1.000em 0.000em 0.500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clLabel
+{
+  margin:               0.750em 0.000em 0.250em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clThumb
+{
+  margin:               0.000em 0.250em 0.000em 0.250em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  width:                6.250em;
+}
+
+.clCommentInline
+{
+  color:                #aaaaaa;
+  clear:                both;
+  display:              inline-block;
+  float:                right;
+  font-size:            75%;
+  margin:               0.000em 1.500em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clClientTd
+{
+  border:               1px solid #dddddd;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.500em;
+  text-align:           left;
+}
+
+.clClientTdCenter
+{
+  border:               1px solid #dddddd;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.250em 0.500em 0.250em 0.500em;
+  text-align:           center;
+}
+
+.clDiagnosis
+{
+  margin:               0.000em 0.000em 0.500em 1.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clDiagnosis li
+{
+  list-style-position:  outside;
+  list-style-type:      circle;
+  margin:               0.000em 0.000em 0.500em -1.500em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+div.clWikiTable table,
+div.clWikiTable th,
+div.clWikiTable td
+{
+  border:               1px solid #cccccc;
+  border-collapse:      collapse;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.300em 0.500em 0.300em 0.500em;
+  text-align:           left;
+  vertical-align:       middle;
+}
+
+div.clWikiTable th
+{
+  color:                #333333;
+  font-weight:          bold;
+  background-color:     #eeeeee;
+}
+
+.clLiUl_1
+{
+  list-style-type:      disc;
+  margin:               0.000em 0.000em 0.250em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clLiUl_2
+{
+  list-style-type:      square;
+  margin:               0.000em 0.000em 0.250em 2.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clLiOl_1
+{
+  list-style-type:      decimal;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+
+li
+{
+  line-height:          1.500em;
+  margin:               0.000em 0.000em 0.250em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+li:before
+{
+  margin:               0.000em 0.500em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+blockquote
+{
+  border-left:          0.200em solid #cccccc;
+  margin:               0.000em 0.000em 0.000em 1.000em;
+  padding:              0.000em 0.000em 0.000em 0.50em;
+}
+
+code
+{
+  font-family:          monospace !important;
+  font-size:            1.250em;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clRadio
+{
+  margin:               0.125em 0.500em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  vertical-align:       top;
+}
+
+.clIndented
+{
+  margin:               0.000em 0.000em 0.000em 2.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clPaymentMethodHeader
+{
+  color:                #e00000;
+  margin:               0.000em 0.000em 0.000em 0.000em;
+  padding:              0.7500em 0.000em 0.250em 0.000em;
+
+}
+
+.clFunds
+{
+  margin:               0.500em 0.000em 0.500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+  height:               40px !important;
+  width:                auto !important;
+}
+
+:focus
+{
+  outline:              none;
+}
+
+
+@media screen and (max-device-width: 1365px) { #idPanel           { width: 100.00%; } }
+@media screen and (max-device-width: 1365px) { #idHeaderLine1     { width: 100.00%; } }
+@media screen and (max-device-width: 1365px) { #idHeaderLine2     { width: 100.00%; } }
+@media screen and (max-device-width: 1365px) { #idHeaderLine3     { width: 100.00%; } }
+@media screen and (max-device-width: 1365px) { #idHeaderLine4     { width: 100.00%; } }
+
+@media screen and (orientation: portrait) { #idPanel       { width: 100.00%; } }
+@media screen and (orientation: portrait) { #idHeaderLine1 { width: 100.00%; } }
+@media screen and (orientation: portrait) { #idHeaderLine2 { width: 100.00%; } }
+@media screen and (orientation: portrait) { #idHeaderLine3 { width: 100.00%; } }
+@media screen and (orientation: portrait) { #idHeaderLine4 { width: 100.00%; } }
+
+@media screen and (max-device-width: 1366px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  800px) { .post-content > p img { height: 150px; width: auto; } }
+@media screen and (max-device-width:  768px) { .post-content > p img { height: 150px; width: auto; } }
+@media screen and (max-device-width:  600px) { .post-content > p img { height: 150px; width: auto; } }
+@media screen and (max-device-width:  414px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  412px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  384px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  375px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  360px) { .post-content > p img { height: 100px; width: auto; } }
+@media screen and (max-device-width:  320px) { .post-content > p img { height: 090px; width: auto; } }
+
+@media screen and (max-device-width: 1366px) { body { font-size: 100.00%; } }
+@media screen and (max-device-width:  800px) { body { font-size: 150.00%; } }
+@media screen and (max-device-width:  768px) { body { font-size: 125.00%; } }
+@media screen and (max-device-width:  600px) { body { font-size: 125.00%; } }
+@media screen and (max-device-width:  414px) { body { font-size: 090.00%; } }
+@media screen and (max-device-width:  412px) { body { font-size: 090.00%; } }
+@media screen and (max-device-width:  384px) { body { font-size: 090.00%; } }
+@media screen and (max-device-width:  375px) { body { font-size: 100.00%; } }
+@media screen and (max-device-width:  360px) { body { font-size: 090.00%; } }
+@media screen and (max-device-width:  320px) { body { font-size: 090.00%; } }

@@ -1,0 +1,190 @@
+# dépolir %[clVerbGroup|2]
+[-
+ôter le poli. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dépol%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dépol%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dépol%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dépol%[m|i]|
+|ayant|dépol%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dépol%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dépol%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dépol%[m|is]|
+|tu|dépol%[m|is]|
+|il|dépol%[m|it]|
+|nous|dépol%[m|issons]|
+|vous|dépol%[m|issez]|
+|ils|dépol%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dépol%[m|i]|
+|tu|as |dépol%[m|i]|
+|il|a|dépol%[m|i]|
+|nous|avons|dépol%[m|i]|
+|vous|avez|dépol%[m|i]|
+|ils|ont|dépol%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dépol%[m|issais]|
+|tu|dépol%[m|issais]|
+|il|dépol%[m|issait]|
+|nous|dépol%[m|issions]|
+|vous|dépol%[m|issiez]|
+|ils|dépol%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dépol%[m|i]|
+|tu|avais|dépol%[m|i]|
+|il|avait|dépol%[m|i]|
+|nous|avions|dépol%[m|i]|
+|vous|aviez|dépol%[m|i]|
+|ils|avaient|dépol%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dépol%[m|is]|
+|tu|dépol%[m|is]|
+|il|dépol%[m|it]|
+|nous|dépol%[m|îmes]|
+|vous|dépol%[m|îtes]|
+|ils|dépol%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dépol%[m|i]|
+|tu|eus|dépol%[m|i]|
+|il|eut|dépol%[m|i]|
+|nous|e&ucirc;mes|dépol%[m|i]|
+|vous|e&ucirc;tes|dépol%[m|i]|
+|ils|eurent|dépol%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dépol%[m|irai]|
+|tu|dépol%[m|iras]|
+|il|dépol%[m|ira]|
+|nous|dépol%[m|irons]|
+|vous|dépol%[m|irez]|
+|ils|dépol%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dépol%[m|i]|
+|tu|auras|dépol%[m|i]|
+|il|aura|dépol%[m|i]|
+|nous|aurons|dépol%[m|i]|
+|vous|aurez|dépol%[m|i]|
+|ils|auront|dépol%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dépol%[m|irais]|
+|tu|dépol%[m|irais]|
+|il|dépol%[m|irait]|
+|nous|dépol%[m|irions]|
+|vous|dépol%[m|iriez]|
+|ils|dépol%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dépol%[m|i]|
+|tu|aurais|dépol%[m|i]|
+|il|aurait|dépol%[m|i]|
+|nous|aurions|dépol%[m|i]|
+|vous|auriez|dépol%[m|i]|
+|ils|auraient|dépol%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dépol%[m|isse]|
+|que|tu|dépol%[m|isses]|
+|qu'|il|dépol%[m|isse]|
+|que|nous|dépol%[m|issions]|
+|que|vous|dépol%[m|issiez]|
+|qu'|ils|dépol%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dépol%[m|i]|
+|que|tu|aies|dépol%[m|i]|
+|qu'|il|ait|dépol%[m|i]|
+|que|nous|ayons|dépol%[m|i]|
+|que|vous|ayez|dépol%[m|i]|
+|qu'|ils|aient|dépol%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dépol%[m|isse]|
+|que|tu|dépol%[m|isses]|
+|qu'|il|dépol%[m|ît]|
+|que|nous|dépol%[m|issions]|
+|que|vous|dépol%[m|issiez]|
+|qu'|ils|dépol%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dépol%[m|i]|
+|que|tu|eusses|dépol%[m|i]|
+|qu'|il|eût|dépol%[m|i]|
+|que|nous|eussions|dépol%[m|i]|
+|que|vous|eussiez|dépol%[m|i]|
+|qu'|ils|eussent|dépol%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dépol%[m|is]|
+|dépol%[m|issons]|
+|dépol%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dépol%[m|i]|
+|ayons|dépol%[m|i]|
+|ayez|dépol%[m|i]|
+|]
+

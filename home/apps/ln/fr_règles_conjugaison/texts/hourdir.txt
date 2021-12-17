@@ -1,0 +1,190 @@
+# hourdir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|hourd%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|hourd%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|hourd%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||hourd%[m|i]|
+|ayant|hourd%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en hourd%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|hourd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|hourd%[m|is]|
+|tu|hourd%[m|is]|
+|il|hourd%[m|it]|
+|nous|hourd%[m|issons]|
+|vous|hourd%[m|issez]|
+|ils|hourd%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|hourd%[m|i]|
+|tu|as |hourd%[m|i]|
+|il|a|hourd%[m|i]|
+|nous|avons|hourd%[m|i]|
+|vous|avez|hourd%[m|i]|
+|ils|ont|hourd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|hourd%[m|issais]|
+|tu|hourd%[m|issais]|
+|il|hourd%[m|issait]|
+|nous|hourd%[m|issions]|
+|vous|hourd%[m|issiez]|
+|ils|hourd%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|hourd%[m|i]|
+|tu|avais|hourd%[m|i]|
+|il|avait|hourd%[m|i]|
+|nous|avions|hourd%[m|i]|
+|vous|aviez|hourd%[m|i]|
+|ils|avaient|hourd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|hourd%[m|is]|
+|tu|hourd%[m|is]|
+|il|hourd%[m|it]|
+|nous|hourd%[m|îmes]|
+|vous|hourd%[m|îtes]|
+|ils|hourd%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|hourd%[m|i]|
+|tu|eus|hourd%[m|i]|
+|il|eut|hourd%[m|i]|
+|nous|e&ucirc;mes|hourd%[m|i]|
+|vous|e&ucirc;tes|hourd%[m|i]|
+|ils|eurent|hourd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|hourd%[m|irai]|
+|tu|hourd%[m|iras]|
+|il|hourd%[m|ira]|
+|nous|hourd%[m|irons]|
+|vous|hourd%[m|irez]|
+|ils|hourd%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|hourd%[m|i]|
+|tu|auras|hourd%[m|i]|
+|il|aura|hourd%[m|i]|
+|nous|aurons|hourd%[m|i]|
+|vous|aurez|hourd%[m|i]|
+|ils|auront|hourd%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|hourd%[m|irais]|
+|tu|hourd%[m|irais]|
+|il|hourd%[m|irait]|
+|nous|hourd%[m|irions]|
+|vous|hourd%[m|iriez]|
+|ils|hourd%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|hourd%[m|i]|
+|tu|aurais|hourd%[m|i]|
+|il|aurait|hourd%[m|i]|
+|nous|aurions|hourd%[m|i]|
+|vous|auriez|hourd%[m|i]|
+|ils|auraient|hourd%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|hourd%[m|isse]|
+|que|tu|hourd%[m|isses]|
+|qu'|il|hourd%[m|isse]|
+|que|nous|hourd%[m|issions]|
+|que|vous|hourd%[m|issiez]|
+|qu'|ils|hourd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|hourd%[m|i]|
+|que|tu|aies|hourd%[m|i]|
+|qu'|il|ait|hourd%[m|i]|
+|que|nous|ayons|hourd%[m|i]|
+|que|vous|ayez|hourd%[m|i]|
+|qu'|ils|aient|hourd%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|hourd%[m|isse]|
+|que|tu|hourd%[m|isses]|
+|qu'|il|hourd%[m|ît]|
+|que|nous|hourd%[m|issions]|
+|que|vous|hourd%[m|issiez]|
+|qu'|ils|hourd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|hourd%[m|i]|
+|que|tu|eusses|hourd%[m|i]|
+|qu'|il|eût|hourd%[m|i]|
+|que|nous|eussions|hourd%[m|i]|
+|que|vous|eussiez|hourd%[m|i]|
+|qu'|ils|eussent|hourd%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|hourd%[m|is]|
+|hourd%[m|issons]|
+|hourd%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|hourd%[m|i]|
+|ayons|hourd%[m|i]|
+|ayez|hourd%[m|i]|
+|]
+

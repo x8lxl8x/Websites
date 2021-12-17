@@ -1,0 +1,190 @@
+# mouliner %[clVerbGroup|1]
+[-
+écraser un aliment, passer au moulin quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|moulin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|moulin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|moulin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||moulin%[m|é]|
+|ayant|moulin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en moulin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|moulin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|moulin%[m|e]|
+|tu|moulin%[m|es]|
+|il|moulin%[m|e]|
+|nous|moulin%[m|ons]|
+|vous|moulin%[m|ez]|
+|ils|moulin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|moulin%[m|é]|
+|tu|as |moulin%[m|é]|
+|il|a|moulin%[m|é]|
+|nous|avons|moulin%[m|é]|
+|vous|avez|moulin%[m|é]|
+|ils|ont|moulin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|moulin%[m|ais]|
+|tu|moulin%[m|ais]|
+|il|moulin%[m|ait]|
+|nous|moulin%[m|ions]|
+|vous|moulin%[m|iez]|
+|ils|moulin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|moulin%[m|é]|
+|tu|avais|moulin%[m|é]|
+|il|avait|moulin%[m|é]|
+|nous|avions|moulin%[m|é]|
+|vous|aviez|moulin%[m|é]|
+|ils|avaient|moulin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|moulin%[m|ai]|
+|tu|moulin%[m|as]|
+|il|moulin%[m|a]|
+|nous|moulin%[m|âmes]|
+|vous|moulin%[m|âtes]|
+|ils|moulin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|moulin%[m|é]|
+|tu|eus|moulin%[m|é]|
+|il|eut|moulin%[m|é]|
+|nous|e&ucirc;mes|moulin%[m|é]|
+|vous|e&ucirc;tes|moulin%[m|é]|
+|ils|eurent|moulin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|moulin%[m|erai]|
+|tu|moulin%[m|eras]|
+|il|moulin%[m|era]|
+|nous|moulin%[m|erons]|
+|vous|moulin%[m|erez]|
+|ils|moulin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|moulin%[m|é]|
+|tu|auras|moulin%[m|é]|
+|il|aura|moulin%[m|é]|
+|nous|aurons|moulin%[m|é]|
+|vous|aurez|moulin%[m|é]|
+|ils|auront|moulin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|moulin%[m|erais]|
+|tu|moulin%[m|erais]|
+|il|moulin%[m|erait]|
+|nous|moulin%[m|erions]|
+|vous|moulin%[m|eriez]|
+|ils|moulin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|moulin%[m|é]|
+|tu|aurais|moulin%[m|é]|
+|il|aurait|moulin%[m|é]|
+|nous|aurions|moulin%[m|é]|
+|vous|auriez|moulin%[m|é]|
+|ils|auraient|moulin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|moulin%[m|e]|
+|que|tu|moulin%[m|es]|
+|qu'|il|moulin%[m|e]|
+|que|nous|moulin%[m|ions]|
+|que|vous|moulin%[m|iez]|
+|qu'|ils|moulin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|moulin%[m|é]|
+|que|tu|aies|moulin%[m|é]|
+|qu'|il|ait|moulin%[m|é]|
+|que|nous|ayons|moulin%[m|é]|
+|que|vous|ayez|moulin%[m|é]|
+|qu'|ils|aient|moulin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|moulin%[m|asse]|
+|que|tu|moulin%[m|asses]|
+|qu'|il|moulin%[m|ât]|
+|que|nous|moulin%[m|assions]|
+|que|vous|moulin%[m|assiez]|
+|qu'|ils|moulin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|moulin%[m|é]|
+|que|tu|eusses|moulin%[m|é]|
+|qu'|il|eût|moulin%[m|é]|
+|que|nous|eussions|moulin%[m|é]|
+|que|vous|eussiez|moulin%[m|é]|
+|qu'|ils|eussent|moulin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|moulin%[m|e]|
+|moulin%[m|ons]|
+|moulin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|moulin%[m|é]|
+|ayons|moulin%[m|é]|
+|ayez|moulin%[m|é]|
+|]
+

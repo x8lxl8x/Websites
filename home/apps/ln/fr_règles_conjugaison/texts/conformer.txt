@@ -1,0 +1,190 @@
+# conformer %[clVerbGroup|1]
+[-
+rendre conforme à quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|conform%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|conform%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|conform%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||conform%[m|é]|
+|ayant|conform%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en conform%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|conform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|conform%[m|e]|
+|tu|conform%[m|es]|
+|il|conform%[m|e]|
+|nous|conform%[m|ons]|
+|vous|conform%[m|ez]|
+|ils|conform%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|conform%[m|é]|
+|tu|as |conform%[m|é]|
+|il|a|conform%[m|é]|
+|nous|avons|conform%[m|é]|
+|vous|avez|conform%[m|é]|
+|ils|ont|conform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|conform%[m|ais]|
+|tu|conform%[m|ais]|
+|il|conform%[m|ait]|
+|nous|conform%[m|ions]|
+|vous|conform%[m|iez]|
+|ils|conform%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|conform%[m|é]|
+|tu|avais|conform%[m|é]|
+|il|avait|conform%[m|é]|
+|nous|avions|conform%[m|é]|
+|vous|aviez|conform%[m|é]|
+|ils|avaient|conform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|conform%[m|ai]|
+|tu|conform%[m|as]|
+|il|conform%[m|a]|
+|nous|conform%[m|âmes]|
+|vous|conform%[m|âtes]|
+|ils|conform%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|conform%[m|é]|
+|tu|eus|conform%[m|é]|
+|il|eut|conform%[m|é]|
+|nous|e&ucirc;mes|conform%[m|é]|
+|vous|e&ucirc;tes|conform%[m|é]|
+|ils|eurent|conform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|conform%[m|erai]|
+|tu|conform%[m|eras]|
+|il|conform%[m|era]|
+|nous|conform%[m|erons]|
+|vous|conform%[m|erez]|
+|ils|conform%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|conform%[m|é]|
+|tu|auras|conform%[m|é]|
+|il|aura|conform%[m|é]|
+|nous|aurons|conform%[m|é]|
+|vous|aurez|conform%[m|é]|
+|ils|auront|conform%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|conform%[m|erais]|
+|tu|conform%[m|erais]|
+|il|conform%[m|erait]|
+|nous|conform%[m|erions]|
+|vous|conform%[m|eriez]|
+|ils|conform%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|conform%[m|é]|
+|tu|aurais|conform%[m|é]|
+|il|aurait|conform%[m|é]|
+|nous|aurions|conform%[m|é]|
+|vous|auriez|conform%[m|é]|
+|ils|auraient|conform%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|conform%[m|e]|
+|que|tu|conform%[m|es]|
+|qu'|il|conform%[m|e]|
+|que|nous|conform%[m|ions]|
+|que|vous|conform%[m|iez]|
+|qu'|ils|conform%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|conform%[m|é]|
+|que|tu|aies|conform%[m|é]|
+|qu'|il|ait|conform%[m|é]|
+|que|nous|ayons|conform%[m|é]|
+|que|vous|ayez|conform%[m|é]|
+|qu'|ils|aient|conform%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|conform%[m|asse]|
+|que|tu|conform%[m|asses]|
+|qu'|il|conform%[m|ât]|
+|que|nous|conform%[m|assions]|
+|que|vous|conform%[m|assiez]|
+|qu'|ils|conform%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|conform%[m|é]|
+|que|tu|eusses|conform%[m|é]|
+|qu'|il|eût|conform%[m|é]|
+|que|nous|eussions|conform%[m|é]|
+|que|vous|eussiez|conform%[m|é]|
+|qu'|ils|eussent|conform%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|conform%[m|e]|
+|conform%[m|ons]|
+|conform%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|conform%[m|é]|
+|ayons|conform%[m|é]|
+|ayez|conform%[m|é]|
+|]
+

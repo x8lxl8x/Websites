@@ -1,0 +1,191 @@
+# décommander %[clVerbGroup|1]
+[-
+annuler la commande d'une marchandise. 
+différer ou annuler un rendez-vous. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décommand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décommand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décommand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décommand%[m|é]|
+|ayant|décommand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décommand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décommand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décommand%[m|e]|
+|tu|décommand%[m|es]|
+|il|décommand%[m|e]|
+|nous|décommand%[m|ons]|
+|vous|décommand%[m|ez]|
+|ils|décommand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décommand%[m|é]|
+|tu|as |décommand%[m|é]|
+|il|a|décommand%[m|é]|
+|nous|avons|décommand%[m|é]|
+|vous|avez|décommand%[m|é]|
+|ils|ont|décommand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décommand%[m|ais]|
+|tu|décommand%[m|ais]|
+|il|décommand%[m|ait]|
+|nous|décommand%[m|ions]|
+|vous|décommand%[m|iez]|
+|ils|décommand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décommand%[m|é]|
+|tu|avais|décommand%[m|é]|
+|il|avait|décommand%[m|é]|
+|nous|avions|décommand%[m|é]|
+|vous|aviez|décommand%[m|é]|
+|ils|avaient|décommand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décommand%[m|ai]|
+|tu|décommand%[m|as]|
+|il|décommand%[m|a]|
+|nous|décommand%[m|âmes]|
+|vous|décommand%[m|âtes]|
+|ils|décommand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décommand%[m|é]|
+|tu|eus|décommand%[m|é]|
+|il|eut|décommand%[m|é]|
+|nous|e&ucirc;mes|décommand%[m|é]|
+|vous|e&ucirc;tes|décommand%[m|é]|
+|ils|eurent|décommand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décommand%[m|erai]|
+|tu|décommand%[m|eras]|
+|il|décommand%[m|era]|
+|nous|décommand%[m|erons]|
+|vous|décommand%[m|erez]|
+|ils|décommand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décommand%[m|é]|
+|tu|auras|décommand%[m|é]|
+|il|aura|décommand%[m|é]|
+|nous|aurons|décommand%[m|é]|
+|vous|aurez|décommand%[m|é]|
+|ils|auront|décommand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décommand%[m|erais]|
+|tu|décommand%[m|erais]|
+|il|décommand%[m|erait]|
+|nous|décommand%[m|erions]|
+|vous|décommand%[m|eriez]|
+|ils|décommand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décommand%[m|é]|
+|tu|aurais|décommand%[m|é]|
+|il|aurait|décommand%[m|é]|
+|nous|aurions|décommand%[m|é]|
+|vous|auriez|décommand%[m|é]|
+|ils|auraient|décommand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décommand%[m|e]|
+|que|tu|décommand%[m|es]|
+|qu'|il|décommand%[m|e]|
+|que|nous|décommand%[m|ions]|
+|que|vous|décommand%[m|iez]|
+|qu'|ils|décommand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décommand%[m|é]|
+|que|tu|aies|décommand%[m|é]|
+|qu'|il|ait|décommand%[m|é]|
+|que|nous|ayons|décommand%[m|é]|
+|que|vous|ayez|décommand%[m|é]|
+|qu'|ils|aient|décommand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décommand%[m|asse]|
+|que|tu|décommand%[m|asses]|
+|qu'|il|décommand%[m|ât]|
+|que|nous|décommand%[m|assions]|
+|que|vous|décommand%[m|assiez]|
+|qu'|ils|décommand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décommand%[m|é]|
+|que|tu|eusses|décommand%[m|é]|
+|qu'|il|eût|décommand%[m|é]|
+|que|nous|eussions|décommand%[m|é]|
+|que|vous|eussiez|décommand%[m|é]|
+|qu'|ils|eussent|décommand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décommand%[m|e]|
+|décommand%[m|ons]|
+|décommand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décommand%[m|é]|
+|ayons|décommand%[m|é]|
+|ayez|décommand%[m|é]|
+|]
+

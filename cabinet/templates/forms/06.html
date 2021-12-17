@@ -1,0 +1,43 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Диагностика по выделениям</h4>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+<table>
+<tr><th colspan='2'>Кал</th></tr>
+<tr><td><input id='id0601' name='var0601' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал плавает на поверхности воды</td></tr>
+<tr><td><input id='id0602' name='var0602' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал тонет</td></tr>
+<tr><td><input id='id0603' name='var0603' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал не сформирован</td></tr>
+<tr><td><input id='id0604' name='var0604' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал жидкий и пенистый, содержит много непереваренной пищи</td></tr>
+<tr><td><input id='id0605' name='var0605' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал твердый, запоры</td></tr>
+<tr><td><input id='id0606' name='var0606' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал в виде небольших круглых камешков (заячий кал)</td></tr>
+<tr><td><input id='id0607' name='var0607' type='checkbox' placeholder='$arrValues[7]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал лентовидный</td></tr>
+<tr><td><input id='id0608' name='var0608' type='checkbox' placeholder='$arrValues[8]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал мажется, распадается или растрескивается</td></tr>
+<tr><td><input id='id0609' name='var0609' type='checkbox' placeholder='$arrValues[9]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал золотисто-жёлтого цвета</td></tr>
+<tr><td><input id='id0610' name='var0610' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал красного цвета (слизь с кровью)</td></tr>
+<tr><td><input id='id0611' name='var0611' type='checkbox' placeholder='$arrValues[11]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал неокрашенный</td></tr>
+<tr><td><input id='id0612' name='var0612' type='checkbox' placeholder='$arrValues[12]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кал похож на гороховый суп</td></tr>
+<tr><td><input id='id0613' name='var0613' type='checkbox' placeholder='$arrValues[13]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>глисты в кале</td></tr>
+<tr><td colspan='2'>&nbsp;<td></tr>
+
+<tr><th colspan='2'>Отмечайте при очень обильных менструациях <i></>(если нормальные, отмечать не надо)</i></th></tr>
+<tr><td><input id='id0614' name='var0614' type='checkbox' placeholder='$arrValues[14]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>кремового цвета, вязкие, пенятся, кровотечение относительно небольшое, сопровождаются болью</td></tr>
+<tr><td colspan='2'>&nbsp;<td></tr>
+<tr><td><input id='id0615' name='var0615' type='checkbox' placeholder='$arrValues[15]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>желтого, черного, темно-красного  или голубого  цвета, горячие</td></tr>
+<tr><td colspan='2'>&nbsp;<td></tr>
+<tr><td><input id='id0616' name='var0616' type='checkbox' placeholder='$arrValues[16]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>желтоватого или желтовато-белого оттенка, со слизью, а неприятным запахом</td></tr>
+<tr><td colspan='2'>&nbsp;<td></tr>
+<tr><td><input id='id0617' name='var0617' type='checkbox' placeholder='$arrValues[17]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>подобно жидкому мёду или горячему топлёному маслу, цветом похожи на костный мозг и имеют очень неприятный запах</td></tr>
+<tr><td colspan='2'>&nbsp;<td></tr>
+<tr><th colspan='2'>Опишите количество испражнений, и все что считаете нужным добавить: </th></tr>
+<tr><td colspan='2'><textarea rows='3' cols='80' id='id0618' name='var0618' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[18]</textarea></td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

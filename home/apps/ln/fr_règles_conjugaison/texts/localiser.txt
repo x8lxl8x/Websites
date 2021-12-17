@@ -1,0 +1,192 @@
+# localiser %[clVerbGroup|1]
+[-
+déterminer en pensée le lieu où se produit un phénomène. 
+placer dans un certain lieu. 
+délimiter, circonscrire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|localis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|localis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|localis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||localis%[m|é]|
+|ayant|localis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en localis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|localis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|localis%[m|e]|
+|tu|localis%[m|es]|
+|il|localis%[m|e]|
+|nous|localis%[m|ons]|
+|vous|localis%[m|ez]|
+|ils|localis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|localis%[m|é]|
+|tu|as |localis%[m|é]|
+|il|a|localis%[m|é]|
+|nous|avons|localis%[m|é]|
+|vous|avez|localis%[m|é]|
+|ils|ont|localis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|localis%[m|ais]|
+|tu|localis%[m|ais]|
+|il|localis%[m|ait]|
+|nous|localis%[m|ions]|
+|vous|localis%[m|iez]|
+|ils|localis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|localis%[m|é]|
+|tu|avais|localis%[m|é]|
+|il|avait|localis%[m|é]|
+|nous|avions|localis%[m|é]|
+|vous|aviez|localis%[m|é]|
+|ils|avaient|localis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|localis%[m|ai]|
+|tu|localis%[m|as]|
+|il|localis%[m|a]|
+|nous|localis%[m|âmes]|
+|vous|localis%[m|âtes]|
+|ils|localis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|localis%[m|é]|
+|tu|eus|localis%[m|é]|
+|il|eut|localis%[m|é]|
+|nous|e&ucirc;mes|localis%[m|é]|
+|vous|e&ucirc;tes|localis%[m|é]|
+|ils|eurent|localis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|localis%[m|erai]|
+|tu|localis%[m|eras]|
+|il|localis%[m|era]|
+|nous|localis%[m|erons]|
+|vous|localis%[m|erez]|
+|ils|localis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|localis%[m|é]|
+|tu|auras|localis%[m|é]|
+|il|aura|localis%[m|é]|
+|nous|aurons|localis%[m|é]|
+|vous|aurez|localis%[m|é]|
+|ils|auront|localis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|localis%[m|erais]|
+|tu|localis%[m|erais]|
+|il|localis%[m|erait]|
+|nous|localis%[m|erions]|
+|vous|localis%[m|eriez]|
+|ils|localis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|localis%[m|é]|
+|tu|aurais|localis%[m|é]|
+|il|aurait|localis%[m|é]|
+|nous|aurions|localis%[m|é]|
+|vous|auriez|localis%[m|é]|
+|ils|auraient|localis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|localis%[m|e]|
+|que|tu|localis%[m|es]|
+|qu'|il|localis%[m|e]|
+|que|nous|localis%[m|ions]|
+|que|vous|localis%[m|iez]|
+|qu'|ils|localis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|localis%[m|é]|
+|que|tu|aies|localis%[m|é]|
+|qu'|il|ait|localis%[m|é]|
+|que|nous|ayons|localis%[m|é]|
+|que|vous|ayez|localis%[m|é]|
+|qu'|ils|aient|localis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|localis%[m|asse]|
+|que|tu|localis%[m|asses]|
+|qu'|il|localis%[m|ât]|
+|que|nous|localis%[m|assions]|
+|que|vous|localis%[m|assiez]|
+|qu'|ils|localis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|localis%[m|é]|
+|que|tu|eusses|localis%[m|é]|
+|qu'|il|eût|localis%[m|é]|
+|que|nous|eussions|localis%[m|é]|
+|que|vous|eussiez|localis%[m|é]|
+|qu'|ils|eussent|localis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|localis%[m|e]|
+|localis%[m|ons]|
+|localis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|localis%[m|é]|
+|ayons|localis%[m|é]|
+|ayez|localis%[m|é]|
+|]
+

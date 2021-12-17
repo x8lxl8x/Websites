@@ -1,0 +1,289 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./24.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./26.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Implied Volatility</h1>
+
+<p>As you learn more about options, you will eventually
+run into the term &quot;implied volatility.&quot;&nbsp; It is an
+essential concept in option trading; in fact, many
+strategies rely on &quot;volatility&quot; as opposed to
+directional plays with the underlying stock.&nbsp; For
+example, short straddles and calendar spreads are
+volatility plays, as the long position does not want the
+stock to move (or at least move very far).</p>
+<p>Understanding implied volatility allows you to find
+the best options to use, even if just a long or short
+position.&nbsp; It will also allow you to understand why,
+sometimes, the stock moves up but your long call moves
+down which seems contradictory -- until you understand
+implied volatility.</p>
+<p>We'll take it slow, but you will understand implied
+volatility when we're through.</p>
+<h2>A little statistical background</h2>
+<p>We will be using the term <i>standard deviation</i>
+throughout, so we need to have a basic understanding of
+what this means.&nbsp; Standard deviation is a statistical
+measure telling you how likely it is that something <i>
+deviates</i> from the average.&nbsp; We will not be doing the
+exact calculations, but it is necessary to understand
+the concept.</p>
+<p>For example, the average adult male is about 5'9&quot;
+tall.&nbsp; How often will we see one taller than 6'5&quot;?&nbsp; In
+order to answer this, we need to know how the numbers
+are distributed.&nbsp; One of the most popular distributions
+is called a <i>normal distribution</i> or bell curve.&nbsp;
+If we assume that the heights of adult males are
+normally distributed and we have calculated the standard
+deviation, then all we need to do is find where 6'5&quot;
+falls on the bell curve.&nbsp; With a little math, we can
+figure out how likely it is that we will see someone
+6'5&quot; or taller. </p>
+<p>With the standard bell curve, about 68% of the area
+lies within one standard deviation, and about 95% lies
+within two standard deviations.&nbsp; Essentially all
+information lies within three standard deviations under
+a bell curve.</p>
+<h2>Volatility</h2>
+<p>Before we attempt to explain <i>implied volatility</i>,
+we should clarify what is meant by the term <i>
+volatility</i>.&nbsp; Although we hear generic phrases like
+&quot;that stock is volatile,&quot; it is actually a statistical
+concept with a very precise meaning.&nbsp; <b>Volatility is
+the annualized standard deviation of stock price
+movements.</b></p>
+<p>We'll show you what this means with an example:</p>
+<p>Say there is a stock trading at $100 with a
+volatility of 20%.</p>
+<p>If we assume that stock prices are random, then about
+68% of the time (or two out of three chances), the stock
+will be between $80 and $120 after one year.&nbsp; This is
+found by adding and subtracting 20% the volatility to
+the $100 starting stock price.</p>
+<p>Remember, this is <u>one</u> standard deviation from
+the starting point of $100, so that, means that plus and
+minus 20% will occur 68% of the time.&nbsp;&nbsp; </p>
+<p>To continue, we would expect 95% of the time to see
+the stock in one year trading between $60 and $140 (or
+19 out of 20 chances).&nbsp; This was found by adding 2 *
+20%, or two standard deviations from our initial price
+of $100.&nbsp; Because 95% of the bell curve area lies within
+two standard deviations, we expect to see the stock
+within two standard deviations (between $60 and $140)
+95% of the time.</p>
+<p>Now, it may seem a little odd to make a statement
+like &quot;95% of the time, the stock will be between $60 and
+$140.&quot;&nbsp; After all, doesn't it make sense that it either
+<u>will be</u> or <u>won't be</u> between these prices?&nbsp;
+What we mean by this statement is that if the exact
+conditions were to occur over and over many times, 95%
+of the closing prices after one year would be between
+$60 and $140.&nbsp; While it is true that after one year, the
+stock either will or will not be between these prices,
+we do not know that beforehand so we say &quot;95% of the
+time it will be between these prices.&quot;</p>
+<p>It should be intuitive that the higher the volatility
+number, the wider the range of closing prices we would
+expect to see after one year.&nbsp; For example, one would
+expect a wider distribution of closing price
+possibilities for a stock with 40% volatility versus
+20%.&nbsp; </p>
+<h2>The black-scholes option pricing model</h2>
+<p>Now that we have a grasp as to what volatility means,
+let's find out what implied volatility is all about.&nbsp; In
+order to do that, we need to return to the Black-Scholes
+Option Pricing Model (please see our section under this
+title if you need more information).</p>
+<p>The Black-Scholes Option Pricing Model is basically
+an options calculator.&nbsp; It is similar to a car-payment
+calculator where you may input the amount you are
+financing, the interest rate, the term of the loan,
+etc., and the result is your payment.&nbsp; Similarly, with
+the Black-Scholes Model, you put in the five key factors
+that affect an options price: stock price, exercise
+price, risk-free rate of interest, volatility, and time
+to expiration and out pops the price of the call
+option.&nbsp; This is the price we would <i>expect</i> to see
+the option trading for.</p>
+<p>Let's look at this closely:</p>
+<p>Stock price + exercise price + risk-free rate + <b>
+volatility</b> + time = call option price</p>
+<p>Say we want to find out the price of a 3-month, $100
+call option.&nbsp; If we ask hundreds of investors for the
+stock price, we should get the same answer.&nbsp; All they
+have to do is look at the quote.&nbsp; The exercise price is
+given and so is the time so we'll get exactly the same
+answers there.&nbsp; While everybody may not return the exact
+answer as to the risk-free interest rate, they should
+all be very close.&nbsp; Further, interest rates do not
+greatly affect option prices especially over a
+three-month period.&nbsp; So 4 out of the 5 factors (all in
+blue) are basically givens; that is, if we asked
+hundreds of people for these four pieces of information
+(stock price, exercise price, risk-free rate, time to
+expiration), we should get exactly the same answers
+(allowing for a slight variation in the risk-free
+interest rate).&nbsp; </p>
+<p>Now for volatility.&nbsp; What should these hundreds of
+investors tell us is the correct volatility to use?&nbsp;
+Some may say the historic volatility is 20%, so let's
+use that figure.&nbsp; Others may say the historic is 20%,
+but the stock has been at 30% volatility over the past
+month, so let's use that.&nbsp; Still, others may say it has
+been 30% recently, but they feel it will be higher so we
+should use 35%.</p>
+<p>The point is that the only true <u>unknown</u> factor
+of the Black-Scholes Model is volatility, and that's why
+it is so important to understand.&nbsp; It is the one
+variable that determines option prices! </p>
+<p>Let's run through an example with actual numbers.</p>
+<p>&nbsp;&nbsp;&nbsp; $100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; $100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5.5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+20%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 90 days &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;$4.61</p>
+<p>Stock price + exercise price + risk-free rate + <b>
+volatility</b> +&nbsp; time&nbsp;&nbsp;&nbsp;&nbsp; =&nbsp;&nbsp;&nbsp; call option price</p>
+<p>If we actually run the above numbers through a
+Black-Scholes Option Pricing Model we find the $100 call
+option should be trading for $4.61.</p>
+<p>BUT, let's say we look at the option quote and it is
+actually quoting $5 1/2.&nbsp; In this case, the call option
+price becomes a given; our hypothetical hundred traders
+would all return this same value as well.&nbsp; </p>
+<h2>Implied volatility</h2>
+<p>Something must be out of balance as 20% volatility
+returns a call price of $4.61, yet we see it quoting
+$5-1/2.&nbsp; The only term we can adjust on the left hand
+side of the equation is volatility (red) as all the
+other factors (blue) are givens.&nbsp; </p>
+<p>Now the question becomes, what volatility will
+produce an option price of $5-1/2 with all the other
+factors the same?&nbsp; If we go back to the Black-Scholes
+Model, we can try different volatilities until we come
+up with a price of $5-1/2.&nbsp; If we do, we see the
+volatility that makes the equation true (that is, the
+call option price $5-1/2) is 24.6%.&nbsp; </p>
+<p>We would say the <i>implied volatility</i> of the
+option is 24.6%.&nbsp; This means the market is telling us it
+feels the <u>forward volatility</u> or <u>future
+volatility</u> of this stock over the next 90 days is
+about 25% and not the historical 20% we had observed
+earlier.&nbsp; In fact, this is one of the main benefits of
+an options market; it allows a window in which to
+monitor the opinion of the market.</p>
+<h2>Trading volatility</h2>
+<p>One of the main tactics of option traders is trading
+volatility.&nbsp; In order to understand why, we need one
+more statistical concept known as <i>mean reversion</i>.&nbsp;
+While this sounds intimidating, it's really very simple;
+it suggests that many types of data revert back to the
+mean.&nbsp; </p>
+<p>For example, if you flip a coin many times, you would
+expect to have &quot;heads&quot; land 50% of the time.&nbsp; Now, it
+shouldn't shock anybody if, after the first ten flips to
+see 7 heads and 3 tails -- a 70% hit rate.&nbsp; But if you
+keep flipping, that will eventually revert closer to a
+mean of 50%.&nbsp; In other words, on average, the averages
+win!</p>
+<p>The same holds true for options and has been proven
+in many studies.&nbsp; For example, if a stock has an
+historic volatility of 20% but the markets are trading
+it with a volatility of 30% (implied volatility), then
+on average, we should expect to see the volatility
+revert to the mean of 20%.&nbsp; What happens to calls or
+puts when the volatility falls?&nbsp; The price comes down as
+well.&nbsp; The reverse is true, too.&nbsp; If implied volatility
+rises, so will the prices of calls and puts.</p>
+<p>So as a whole, traders tend to buy options with low
+implied volatility hoping that the volatility reverts to
+the higher average and increases in price.&nbsp; Likewise,
+they tend to sell options with high implied volatility
+hoping the premiums deflate as they fall to the historic
+means. </p>
+<h2>Volatility trap</h2>
+<p>Now we may be able to shed some light as to why
+sometimes the call you hold falls in price even though
+the stock rises.&nbsp; This happens to puts as well.&nbsp; You may
+see the stock fall, yet have your put decline in value.&nbsp;
+</p>
+<p>Say you are interested in a stock trading at $50 that
+has an historic volatility of 25% and is about to
+announce earnings.&nbsp; You feel they will have a record
+quarter and great comments from the analysts, so you
+decide to buy 10 $50 calls.&nbsp; </p>
+<p>Now think about this.&nbsp; You are probably not the only
+investor who had the same thought.&nbsp; You very likely
+deduced this from current information and recent
+comments from the company or analysts.&nbsp; <i>So the entire
+market is probably doing the same thing.&nbsp; </i>By acting
+on this information, the price of the calls keeps
+getting bid higher and higher.&nbsp; Let's say it is bid up
+to an implied volatility of 40% instead of the historic
+25%.&nbsp; </p>
+<p>You buy your call option with very high implied
+volatility (remember, options with high implied
+volatilities are the ones professional traders look to
+sell).&nbsp; The stock releases great numbers and comments
+from the analysts and is now up 2 points.&nbsp; But your
+option is now being priced with a volatility of closer
+to 25%.&nbsp; Why, there are no new buyers speculating for a
+good earnings release; it's now old information.&nbsp;
+According to the Black-Scholes Model, you will get a
+two-point increase in the stock price but a 15% decrease
+in volatility, which can leave you holding an option
+that is <u>down</u> in price even though the stock is
+up.&nbsp; This phenomenon is called a <i>volatility trap</i>.</p>
+<p>Be careful when buying or selling options.&nbsp; Check
+with your broker to see what the implied volatilities
+are relative to the historic levels.&nbsp; If they cannot get
+this for you, you should consider finding one that can,
+as the information can be crucial for winning option
+trades.</p>
+<p>Learn to use the tactics professionals use to put the
+odds on their side.&nbsp; If you are selling calls, perhaps
+even a covered call, you should check the implied
+volatilities.&nbsp; If the implied volatility is high, this
+is one more piece of information suggesting the odds are
+on your side.&nbsp; If you want to buy an option, check to
+see if the implied volatilities are low and if it will
+tilt the odds in your favor, assuming your assumptions
+about the underlying stock are correct.&nbsp; </p>
+<p>Please note that buying an option with high implied
+volatilities or selling one with low implied
+volatilities is not necessarily wrong.&nbsp; It's just that
+you have now added another dimension stacked against
+you.&nbsp; </p>
+<h2>How volatile is the market?</h2>
+<p>One way to monitor the overall volatility of the
+market is with the Chicago Board Options Exchange (CBOE)
+indicator called the VIX (volatility index) and can be
+quoted under that same symbol.&nbsp; The VIX was created in
+1993 and calculated by taking a weighted average of the
+<i>implied volatilities</i> of eight S&amp;P 100 (OEX) calls
+and puts.&nbsp; The options have an average time to maturity
+of 30 days, so the VIX is intended to indicate the
+implied volatility of 30-day index options.</p>
+<p>Learn to interpret and use implied volatilities in
+your trading.&nbsp; It will open your eyes to a new way of
+trading options and add a new list of strategies to
+implement.</p>
+
+</div>
+</div>
+</body>
+</html>

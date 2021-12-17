@@ -1,0 +1,190 @@
+# contester %[clVerbGroup|1]
+[-
+mettre en cause un fait, une opinion. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|contest%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|contest%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|contest%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||contest%[m|é]|
+|ayant|contest%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en contest%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|contest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|contest%[m|e]|
+|tu|contest%[m|es]|
+|il|contest%[m|e]|
+|nous|contest%[m|ons]|
+|vous|contest%[m|ez]|
+|ils|contest%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|contest%[m|é]|
+|tu|as |contest%[m|é]|
+|il|a|contest%[m|é]|
+|nous|avons|contest%[m|é]|
+|vous|avez|contest%[m|é]|
+|ils|ont|contest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|contest%[m|ais]|
+|tu|contest%[m|ais]|
+|il|contest%[m|ait]|
+|nous|contest%[m|ions]|
+|vous|contest%[m|iez]|
+|ils|contest%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|contest%[m|é]|
+|tu|avais|contest%[m|é]|
+|il|avait|contest%[m|é]|
+|nous|avions|contest%[m|é]|
+|vous|aviez|contest%[m|é]|
+|ils|avaient|contest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|contest%[m|ai]|
+|tu|contest%[m|as]|
+|il|contest%[m|a]|
+|nous|contest%[m|âmes]|
+|vous|contest%[m|âtes]|
+|ils|contest%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|contest%[m|é]|
+|tu|eus|contest%[m|é]|
+|il|eut|contest%[m|é]|
+|nous|e&ucirc;mes|contest%[m|é]|
+|vous|e&ucirc;tes|contest%[m|é]|
+|ils|eurent|contest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|contest%[m|erai]|
+|tu|contest%[m|eras]|
+|il|contest%[m|era]|
+|nous|contest%[m|erons]|
+|vous|contest%[m|erez]|
+|ils|contest%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|contest%[m|é]|
+|tu|auras|contest%[m|é]|
+|il|aura|contest%[m|é]|
+|nous|aurons|contest%[m|é]|
+|vous|aurez|contest%[m|é]|
+|ils|auront|contest%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|contest%[m|erais]|
+|tu|contest%[m|erais]|
+|il|contest%[m|erait]|
+|nous|contest%[m|erions]|
+|vous|contest%[m|eriez]|
+|ils|contest%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|contest%[m|é]|
+|tu|aurais|contest%[m|é]|
+|il|aurait|contest%[m|é]|
+|nous|aurions|contest%[m|é]|
+|vous|auriez|contest%[m|é]|
+|ils|auraient|contest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|contest%[m|e]|
+|que|tu|contest%[m|es]|
+|qu'|il|contest%[m|e]|
+|que|nous|contest%[m|ions]|
+|que|vous|contest%[m|iez]|
+|qu'|ils|contest%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|contest%[m|é]|
+|que|tu|aies|contest%[m|é]|
+|qu'|il|ait|contest%[m|é]|
+|que|nous|ayons|contest%[m|é]|
+|que|vous|ayez|contest%[m|é]|
+|qu'|ils|aient|contest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|contest%[m|asse]|
+|que|tu|contest%[m|asses]|
+|qu'|il|contest%[m|ât]|
+|que|nous|contest%[m|assions]|
+|que|vous|contest%[m|assiez]|
+|qu'|ils|contest%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|contest%[m|é]|
+|que|tu|eusses|contest%[m|é]|
+|qu'|il|eût|contest%[m|é]|
+|que|nous|eussions|contest%[m|é]|
+|que|vous|eussiez|contest%[m|é]|
+|qu'|ils|eussent|contest%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|contest%[m|e]|
+|contest%[m|ons]|
+|contest%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|contest%[m|é]|
+|ayons|contest%[m|é]|
+|ayez|contest%[m|é]|
+|]
+

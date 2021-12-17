@@ -1,0 +1,190 @@
+# se grammaticaliser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se grammaticalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|grammaticalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se grammaticalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|grammaticalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se grammaticalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|grammaticalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|grammaticalis%[m|e]|
+|tu|te|grammaticalis%[m|es]|
+|il|se|grammaticalis%[m|e]|
+|nous|nous|grammaticalis%[m|ons]|
+|vous|vous|grammaticalis%[m|ez]|
+|ils|se|grammaticalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|grammaticalis%[m|é]|
+|tu|t'|es|grammaticalis%[m|é]|
+|il|s'|est|grammaticalis%[m|é]|
+|nous|nous|sommes|grammaticalis%[m|és]|
+|vous|vous|êtes|grammaticalis%[m|és]|
+|ils|se|sont|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|grammaticalis%[m|ais]|
+|tu|te|grammaticalis%[m|ais]|
+|il|se|grammaticalis%[m|ait]|
+|nous|nous|grammaticalis%[m|ions]|
+|vous|vous|grammaticalis%[m|iez]|
+|ils|se|grammaticalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|grammaticalis%[m|é]|
+|tu|t'|étais|grammaticalis%[m|é]|
+|il|s'|était|grammaticalis%[m|é]|
+|nous|nous|étions|grammaticalis%[m|és]|
+|vous|vous|étiez|grammaticalis%[m|és]|
+|ils|s'|étaient|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|grammaticalis%[m|ai]|
+|tu|te|grammaticalis%[m|as]|
+|il|se|grammaticalis%[m|a]|
+|nous|nous|grammaticalis%[m|âmes]|
+|vous|vous|grammaticalis%[m|âtes]|
+|ils|se|grammaticalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|grammaticalis%[m|é]|
+|tu|te|fus|grammaticalis%[m|é]|
+|il|se|fut|grammaticalis%[m|é]|
+|nous|nous|fûmes|grammaticalis%[m|és]|
+|vous|vous|fûtes|grammaticalis%[m|és]|
+|ils|se|furent|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|grammaticalis%[m|erai]|
+|tu|te|grammaticalis%[m|eras]|
+|il|se|grammaticalis%[m|era]|
+|nous|nous|grammaticalis%[m|erons]|
+|vous|vous|grammaticalis%[m|erez]|
+|ils|se|grammaticalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|grammaticalis%[m|é]|
+|tu|te|seras|grammaticalis%[m|é]|
+|il|se|sera|grammaticalis%[m|é]|
+|nous|nous|serons|grammaticalis%[m|és]|
+|vous|vous|serez|grammaticalis%[m|és]|
+|ils|se|seront|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|grammaticalis%[m|erais]|
+|tu|te|grammaticalis%[m|erais]|
+|il|se|grammaticalis%[m|erait]|
+|nous|nous|grammaticalis%[m|erions]|
+|vous|vous|grammaticalis%[m|eriez]|
+|ils|se|grammaticalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|grammaticalis%[m|é]|
+|tu|te|serais|grammaticalis%[m|é]|
+|il|se|serait|grammaticalis%[m|é]|
+|nous|nous|serions|grammaticalis%[m|és]|
+|vous|vous|seriez|grammaticalis%[m|és]|
+|ils|se|seraient|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|grammaticalis%[m|e]|
+|que|tu|te|grammaticalis%[m|es]|
+|qu'|il|se|grammaticalis%[m|e]|
+|que|nous|nous|grammaticalis%[m|ions]|
+|que|vous|vous|grammaticalis%[m|iez]|
+|qu'|ils|se|grammaticalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|grammaticalis%[m|é]|
+|que|tu|te|sois|grammaticalis%[m|é]|
+|qu'|il|se|soit|grammaticalis%[m|é]|
+|que|nous|nous|soyons|grammaticalis%[m|és]|
+|que|vous|vous|soyez|grammaticalis%[m|és]|
+|qu'|ils|se|soient|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|grammaticalis%[m|asse]|
+|que|tu|te|grammaticalis%[m|asses]|
+|qu'|il|se|grammaticalis%[m|ât]|
+|que|nous|nous|grammaticalis%[m|assions]|
+|que|vous|vous|grammaticalis%[m|assiez]|
+|qu'|ils|se|grammaticalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|grammaticalis%[m|é]|
+|que|tu|te|fusses|grammaticalis%[m|é]|
+|qu'|il|se|fût|grammaticalis%[m|é]|
+|que|nous|nous|fussions|grammaticalis%[m|és]|
+|que|vous|vous|fussiez|grammaticalis%[m|és]|
+|qu'|ils|se|fussent|grammaticalis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grammaticalis%[m|e]-toi|
+|grammaticalis%[m|ons]-nous|
+|grammaticalis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

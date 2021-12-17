@@ -1,0 +1,195 @@
+# appartenir %[clVerbGroup|3]
+[-
+être la possession de quelqu'un en vertu d'un droit ou d'un titre. 
+ne dépendre que de soi-même. 
+être propre à quelqu'un, de son rôle. 
+faire partie de quelque chose. 
+il appartient à l'espèce de s'occuper de son environnement ~ c'est de son devoir. 
+être classé dans (dans une taxonomie ou une ontologie) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|appart%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|appart%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|appart%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||appart%[m|enu]|
+|ayant|appart%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en appart%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|appart%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|appart%[m|iens]|
+|tu|appart%[m|iens]|
+|il|appart%[m|ient]|
+|nous|appart%[m|enons]|
+|vous|appart%[m|enez]|
+|ils|appart%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|appart%[m|enu]|
+|tu|as |appart%[m|enu]|
+|il|a|appart%[m|enu]|
+|nous|avons|appart%[m|enu]|
+|vous|avez|appart%[m|enu]|
+|ils|ont|appart%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|appart%[m|enais]|
+|tu|appart%[m|enais]|
+|il|appart%[m|enait]|
+|nous|appart%[m|enions]|
+|vous|appart%[m|eniez]|
+|ils|appart%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|appart%[m|enu]|
+|tu|avais|appart%[m|enu]|
+|il|avait|appart%[m|enu]|
+|nous|avions|appart%[m|enu]|
+|vous|aviez|appart%[m|enu]|
+|ils|avaient|appart%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|appart%[m|ins]|
+|tu|appart%[m|ins]|
+|il|appart%[m|int]|
+|nous|appart%[m|înmes]|
+|vous|appart%[m|întes]|
+|ils|appart%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|appart%[m|enu]|
+|tu|eus|appart%[m|enu]|
+|il|eut|appart%[m|enu]|
+|nous|e&ucirc;mes|appart%[m|enu]|
+|vous|e&ucirc;tes|appart%[m|enu]|
+|ils|eurent|appart%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|appart%[m|iendrai]|
+|tu|appart%[m|iendras]|
+|il|appart%[m|iendra]|
+|nous|appart%[m|iendrons]|
+|vous|appart%[m|iendrez]|
+|ils|appart%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|appart%[m|enu]|
+|tu|auras|appart%[m|enu]|
+|il|aura|appart%[m|enu]|
+|nous|aurons|appart%[m|enu]|
+|vous|aurez|appart%[m|enu]|
+|ils|auront|appart%[m|enu]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|appart%[m|iendrais]|
+|tu|appart%[m|iendrais]|
+|il|appart%[m|iendrait]|
+|nous|appart%[m|iendrions]|
+|vous|appart%[m|iendriez]|
+|ils|appart%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|appart%[m|enu]|
+|tu|aurais|appart%[m|enu]|
+|il|aurait|appart%[m|enu]|
+|nous|aurions|appart%[m|enu]|
+|vous|auriez|appart%[m|enu]|
+|ils|auraient|appart%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|appart%[m|ienne]|
+|que|tu|appart%[m|iennes]|
+|qu'|il|appart%[m|ienne]|
+|que|nous|appart%[m|enions]|
+|que|vous|appart%[m|eniez]|
+|qu'|ils|appart%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|appart%[m|enu]|
+|que|tu|aies|appart%[m|enu]|
+|qu'|il|ait|appart%[m|enu]|
+|que|nous|ayons|appart%[m|enu]|
+|que|vous|ayez|appart%[m|enu]|
+|qu'|ils|aient|appart%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|appart%[m|insse]|
+|que|tu|appart%[m|insses]|
+|qu'|il|appart%[m|înt]|
+|que|nous|appart%[m|inssions]|
+|que|vous|appart%[m|inssiez]|
+|qu'|ils|appart%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|appart%[m|enu]|
+|que|tu|eusses|appart%[m|enu]|
+|qu'|il|eût|appart%[m|enu]|
+|que|nous|eussions|appart%[m|enu]|
+|que|vous|eussiez|appart%[m|enu]|
+|qu'|ils|eussent|appart%[m|enu]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|appart%[m|iens]|
+|appart%[m|enons]|
+|appart%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|appart%[m|enu]|
+|ayons|appart%[m|enu]|
+|ayez|appart%[m|enu]|
+|]
+

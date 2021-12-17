@@ -1,0 +1,193 @@
+# décliner %[clVerbGroup|1]
+[-
+être dans son déclin. 
+repousser ce qui est proposé. 
+donner toutes ses désinences à un nom, un pronom ou un adjectif (dans les langues à flexion) 
+mentionner le nom, le prénom, les titres et qualités d'une personne. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|déclin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déclin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|déclin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déclin%[m|é]|
+|ayant|déclin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en déclin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déclin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|déclin%[m|e]|
+|tu|déclin%[m|es]|
+|il|déclin%[m|e]|
+|nous|déclin%[m|ons]|
+|vous|déclin%[m|ez]|
+|ils|déclin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déclin%[m|é]|
+|tu|as |déclin%[m|é]|
+|il|a|déclin%[m|é]|
+|nous|avons|déclin%[m|é]|
+|vous|avez|déclin%[m|é]|
+|ils|ont|déclin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|déclin%[m|ais]|
+|tu|déclin%[m|ais]|
+|il|déclin%[m|ait]|
+|nous|déclin%[m|ions]|
+|vous|déclin%[m|iez]|
+|ils|déclin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déclin%[m|é]|
+|tu|avais|déclin%[m|é]|
+|il|avait|déclin%[m|é]|
+|nous|avions|déclin%[m|é]|
+|vous|aviez|déclin%[m|é]|
+|ils|avaient|déclin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|déclin%[m|ai]|
+|tu|déclin%[m|as]|
+|il|déclin%[m|a]|
+|nous|déclin%[m|âmes]|
+|vous|déclin%[m|âtes]|
+|ils|déclin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déclin%[m|é]|
+|tu|eus|déclin%[m|é]|
+|il|eut|déclin%[m|é]|
+|nous|e&ucirc;mes|déclin%[m|é]|
+|vous|e&ucirc;tes|déclin%[m|é]|
+|ils|eurent|déclin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|déclin%[m|erai]|
+|tu|déclin%[m|eras]|
+|il|déclin%[m|era]|
+|nous|déclin%[m|erons]|
+|vous|déclin%[m|erez]|
+|ils|déclin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déclin%[m|é]|
+|tu|auras|déclin%[m|é]|
+|il|aura|déclin%[m|é]|
+|nous|aurons|déclin%[m|é]|
+|vous|aurez|déclin%[m|é]|
+|ils|auront|déclin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|déclin%[m|erais]|
+|tu|déclin%[m|erais]|
+|il|déclin%[m|erait]|
+|nous|déclin%[m|erions]|
+|vous|déclin%[m|eriez]|
+|ils|déclin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déclin%[m|é]|
+|tu|aurais|déclin%[m|é]|
+|il|aurait|déclin%[m|é]|
+|nous|aurions|déclin%[m|é]|
+|vous|auriez|déclin%[m|é]|
+|ils|auraient|déclin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|déclin%[m|e]|
+|que|tu|déclin%[m|es]|
+|qu'|il|déclin%[m|e]|
+|que|nous|déclin%[m|ions]|
+|que|vous|déclin%[m|iez]|
+|qu'|ils|déclin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déclin%[m|é]|
+|que|tu|aies|déclin%[m|é]|
+|qu'|il|ait|déclin%[m|é]|
+|que|nous|ayons|déclin%[m|é]|
+|que|vous|ayez|déclin%[m|é]|
+|qu'|ils|aient|déclin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|déclin%[m|asse]|
+|que|tu|déclin%[m|asses]|
+|qu'|il|déclin%[m|ât]|
+|que|nous|déclin%[m|assions]|
+|que|vous|déclin%[m|assiez]|
+|qu'|ils|déclin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déclin%[m|é]|
+|que|tu|eusses|déclin%[m|é]|
+|qu'|il|eût|déclin%[m|é]|
+|que|nous|eussions|déclin%[m|é]|
+|que|vous|eussiez|déclin%[m|é]|
+|qu'|ils|eussent|déclin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déclin%[m|e]|
+|déclin%[m|ons]|
+|déclin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déclin%[m|é]|
+|ayons|déclin%[m|é]|
+|ayez|déclin%[m|é]|
+|]
+

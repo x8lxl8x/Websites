@@ -1,0 +1,190 @@
+# carminer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|carmin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|carmin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|carmin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||carmin%[m|é]|
+|ayant|carmin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en carmin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|carmin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|carmin%[m|e]|
+|tu|carmin%[m|es]|
+|il|carmin%[m|e]|
+|nous|carmin%[m|ons]|
+|vous|carmin%[m|ez]|
+|ils|carmin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|carmin%[m|é]|
+|tu|as |carmin%[m|é]|
+|il|a|carmin%[m|é]|
+|nous|avons|carmin%[m|é]|
+|vous|avez|carmin%[m|é]|
+|ils|ont|carmin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|carmin%[m|ais]|
+|tu|carmin%[m|ais]|
+|il|carmin%[m|ait]|
+|nous|carmin%[m|ions]|
+|vous|carmin%[m|iez]|
+|ils|carmin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|carmin%[m|é]|
+|tu|avais|carmin%[m|é]|
+|il|avait|carmin%[m|é]|
+|nous|avions|carmin%[m|é]|
+|vous|aviez|carmin%[m|é]|
+|ils|avaient|carmin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|carmin%[m|ai]|
+|tu|carmin%[m|as]|
+|il|carmin%[m|a]|
+|nous|carmin%[m|âmes]|
+|vous|carmin%[m|âtes]|
+|ils|carmin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|carmin%[m|é]|
+|tu|eus|carmin%[m|é]|
+|il|eut|carmin%[m|é]|
+|nous|e&ucirc;mes|carmin%[m|é]|
+|vous|e&ucirc;tes|carmin%[m|é]|
+|ils|eurent|carmin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|carmin%[m|erai]|
+|tu|carmin%[m|eras]|
+|il|carmin%[m|era]|
+|nous|carmin%[m|erons]|
+|vous|carmin%[m|erez]|
+|ils|carmin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|carmin%[m|é]|
+|tu|auras|carmin%[m|é]|
+|il|aura|carmin%[m|é]|
+|nous|aurons|carmin%[m|é]|
+|vous|aurez|carmin%[m|é]|
+|ils|auront|carmin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|carmin%[m|erais]|
+|tu|carmin%[m|erais]|
+|il|carmin%[m|erait]|
+|nous|carmin%[m|erions]|
+|vous|carmin%[m|eriez]|
+|ils|carmin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|carmin%[m|é]|
+|tu|aurais|carmin%[m|é]|
+|il|aurait|carmin%[m|é]|
+|nous|aurions|carmin%[m|é]|
+|vous|auriez|carmin%[m|é]|
+|ils|auraient|carmin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|carmin%[m|e]|
+|que|tu|carmin%[m|es]|
+|qu'|il|carmin%[m|e]|
+|que|nous|carmin%[m|ions]|
+|que|vous|carmin%[m|iez]|
+|qu'|ils|carmin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|carmin%[m|é]|
+|que|tu|aies|carmin%[m|é]|
+|qu'|il|ait|carmin%[m|é]|
+|que|nous|ayons|carmin%[m|é]|
+|que|vous|ayez|carmin%[m|é]|
+|qu'|ils|aient|carmin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|carmin%[m|asse]|
+|que|tu|carmin%[m|asses]|
+|qu'|il|carmin%[m|ât]|
+|que|nous|carmin%[m|assions]|
+|que|vous|carmin%[m|assiez]|
+|qu'|ils|carmin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|carmin%[m|é]|
+|que|tu|eusses|carmin%[m|é]|
+|qu'|il|eût|carmin%[m|é]|
+|que|nous|eussions|carmin%[m|é]|
+|que|vous|eussiez|carmin%[m|é]|
+|qu'|ils|eussent|carmin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|carmin%[m|e]|
+|carmin%[m|ons]|
+|carmin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|carmin%[m|é]|
+|ayons|carmin%[m|é]|
+|ayez|carmin%[m|é]|
+|]
+

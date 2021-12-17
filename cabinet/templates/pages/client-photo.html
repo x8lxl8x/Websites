@@ -1,0 +1,49 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+
+<h4>Фотографии</h4>
+
+<div class='clComments'>
+<b>Требования</b>
+<ul>
+  <li>лицо - крупно, без макияжа</li>
+  <li>тело - как можно меньше одежды</li>
+  <li>икры - ноги развести на 45 градусов и слегка расставить</li>
+  <li>пальцы рук и ног - для определения формы, лак можно оставить</li>
+  <li>формат фотографий - jpg</li>
+  <li>размер каждой фотографии - не более 2Mb</li>
+</ul>
+</div>
+
+<a href='$strDirPhoto/$strIdKey/1.jpg'><img class='clThumb' alt='[лицо]'    title='лицо'    src='$strDirPhoto/$strIdKey/1.jpg'></a>
+<a href='$strDirPhoto/$strIdKey/2.jpg'><img class='clThumb' alt='[полн. рост]'  title='полный рост'  src='$strDirPhoto/$strIdKey/2.jpg'></a>
+<a href='$strDirPhoto/$strIdKey/3.jpg'><img class='clThumb' alt='[кисти рук]'  title='кисти рук'  src='$strDirPhoto/$strIdKey/3.jpg'></a>
+<a href='$strDirPhoto/$strIdKey/4.jpg'><img class='clThumb' alt='[пальцы ног]'  title='пальцы ног'  src='$strDirPhoto/$strIdKey/4.jpg'></a>
+<a href='$strDirPhoto/$strIdKey/5.jpg'><img class='clThumb' alt='[икры ног]'  title='икры ног'  src='$strDirPhoto/$strIdKey/5.jpg'></a>
+
+<div id='idSubmit'>
+
+<h4>Отправить фотографии</h4>
+  <form id='idMain' name='varMain' enctype='multipart/form-data' method='post' action='./client-photo-proc.php?varIdKey=$strIdKey'>
+    <input type='hidden' name='MAX_FILE_SIZE' value='20971520'>
+    <table>
+    <tr><td class='clInputName01'>Лицо      </td><td><input id='id9901' name='varPhoto[]' type='file'></td></tr>
+    <tr><td class='clInputName01'>Полный рост  </td><td><input id='id9902' name='varPhoto[]' type='file'></td></tr>
+    <tr><td class='clInputName01'>Кисти рук    </td><td><input id='id9903' name='varPhoto[]' type='file'></td></tr>
+    <tr><td class='clInputName01'>Пальцы ног  </td><td><input id='id9904' name='varPhoto[]' type='file'></td></tr>
+    <tr><td class='clInputName01'>Икры ног     </td><td><input id='id9905' name='varPhoto[]' type='file'></td></tr>
+    </table>
+
+    <br>
+    <b>Внимание!</b><br><br>
+    <b>1. После нажатия кнопки «Отправить», дождитесь окончания процесса и появления уведомления о результате отправки фотографий.</b>
+    <br><br>
+    <b>2. Если не получается отправить все фотографии одновременно, попробуйте отправить фотографии по одной.</b>
+    <br><br><br>
+    <input type='submit' value='Отправить'>&nbsp;&nbsp;&nbsp;<input type='reset' value='Очистить'>
+    <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+  </form>
+</div>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

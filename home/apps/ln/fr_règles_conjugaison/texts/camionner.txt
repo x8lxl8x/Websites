@@ -1,0 +1,190 @@
+# camionner %[clVerbGroup|1]
+[-
+transporter par camion. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|camionn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|camionn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|camionn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||camionn%[m|é]|
+|ayant|camionn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en camionn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|camionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|camionn%[m|e]|
+|tu|camionn%[m|es]|
+|il|camionn%[m|e]|
+|nous|camionn%[m|ons]|
+|vous|camionn%[m|ez]|
+|ils|camionn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|camionn%[m|é]|
+|tu|as |camionn%[m|é]|
+|il|a|camionn%[m|é]|
+|nous|avons|camionn%[m|é]|
+|vous|avez|camionn%[m|é]|
+|ils|ont|camionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|camionn%[m|ais]|
+|tu|camionn%[m|ais]|
+|il|camionn%[m|ait]|
+|nous|camionn%[m|ions]|
+|vous|camionn%[m|iez]|
+|ils|camionn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|camionn%[m|é]|
+|tu|avais|camionn%[m|é]|
+|il|avait|camionn%[m|é]|
+|nous|avions|camionn%[m|é]|
+|vous|aviez|camionn%[m|é]|
+|ils|avaient|camionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|camionn%[m|ai]|
+|tu|camionn%[m|as]|
+|il|camionn%[m|a]|
+|nous|camionn%[m|âmes]|
+|vous|camionn%[m|âtes]|
+|ils|camionn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|camionn%[m|é]|
+|tu|eus|camionn%[m|é]|
+|il|eut|camionn%[m|é]|
+|nous|e&ucirc;mes|camionn%[m|é]|
+|vous|e&ucirc;tes|camionn%[m|é]|
+|ils|eurent|camionn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|camionn%[m|erai]|
+|tu|camionn%[m|eras]|
+|il|camionn%[m|era]|
+|nous|camionn%[m|erons]|
+|vous|camionn%[m|erez]|
+|ils|camionn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|camionn%[m|é]|
+|tu|auras|camionn%[m|é]|
+|il|aura|camionn%[m|é]|
+|nous|aurons|camionn%[m|é]|
+|vous|aurez|camionn%[m|é]|
+|ils|auront|camionn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|camionn%[m|erais]|
+|tu|camionn%[m|erais]|
+|il|camionn%[m|erait]|
+|nous|camionn%[m|erions]|
+|vous|camionn%[m|eriez]|
+|ils|camionn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|camionn%[m|é]|
+|tu|aurais|camionn%[m|é]|
+|il|aurait|camionn%[m|é]|
+|nous|aurions|camionn%[m|é]|
+|vous|auriez|camionn%[m|é]|
+|ils|auraient|camionn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|camionn%[m|e]|
+|que|tu|camionn%[m|es]|
+|qu'|il|camionn%[m|e]|
+|que|nous|camionn%[m|ions]|
+|que|vous|camionn%[m|iez]|
+|qu'|ils|camionn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|camionn%[m|é]|
+|que|tu|aies|camionn%[m|é]|
+|qu'|il|ait|camionn%[m|é]|
+|que|nous|ayons|camionn%[m|é]|
+|que|vous|ayez|camionn%[m|é]|
+|qu'|ils|aient|camionn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|camionn%[m|asse]|
+|que|tu|camionn%[m|asses]|
+|qu'|il|camionn%[m|ât]|
+|que|nous|camionn%[m|assions]|
+|que|vous|camionn%[m|assiez]|
+|qu'|ils|camionn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|camionn%[m|é]|
+|que|tu|eusses|camionn%[m|é]|
+|qu'|il|eût|camionn%[m|é]|
+|que|nous|eussions|camionn%[m|é]|
+|que|vous|eussiez|camionn%[m|é]|
+|qu'|ils|eussent|camionn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|camionn%[m|e]|
+|camionn%[m|ons]|
+|camionn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|camionn%[m|é]|
+|ayons|camionn%[m|é]|
+|ayez|camionn%[m|é]|
+|]
+

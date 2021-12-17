@@ -1,0 +1,190 @@
+# tomer %[clVerbGroup|1]
+[-
+diviser en tomes (un ouvrage) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tom%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tom%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tom%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tom%[m|é]|
+|ayant|tom%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tom%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tom%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tom%[m|e]|
+|tu|tom%[m|es]|
+|il|tom%[m|e]|
+|nous|tom%[m|ons]|
+|vous|tom%[m|ez]|
+|ils|tom%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tom%[m|é]|
+|tu|as |tom%[m|é]|
+|il|a|tom%[m|é]|
+|nous|avons|tom%[m|é]|
+|vous|avez|tom%[m|é]|
+|ils|ont|tom%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tom%[m|ais]|
+|tu|tom%[m|ais]|
+|il|tom%[m|ait]|
+|nous|tom%[m|ions]|
+|vous|tom%[m|iez]|
+|ils|tom%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tom%[m|é]|
+|tu|avais|tom%[m|é]|
+|il|avait|tom%[m|é]|
+|nous|avions|tom%[m|é]|
+|vous|aviez|tom%[m|é]|
+|ils|avaient|tom%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tom%[m|ai]|
+|tu|tom%[m|as]|
+|il|tom%[m|a]|
+|nous|tom%[m|âmes]|
+|vous|tom%[m|âtes]|
+|ils|tom%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tom%[m|é]|
+|tu|eus|tom%[m|é]|
+|il|eut|tom%[m|é]|
+|nous|e&ucirc;mes|tom%[m|é]|
+|vous|e&ucirc;tes|tom%[m|é]|
+|ils|eurent|tom%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tom%[m|erai]|
+|tu|tom%[m|eras]|
+|il|tom%[m|era]|
+|nous|tom%[m|erons]|
+|vous|tom%[m|erez]|
+|ils|tom%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tom%[m|é]|
+|tu|auras|tom%[m|é]|
+|il|aura|tom%[m|é]|
+|nous|aurons|tom%[m|é]|
+|vous|aurez|tom%[m|é]|
+|ils|auront|tom%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tom%[m|erais]|
+|tu|tom%[m|erais]|
+|il|tom%[m|erait]|
+|nous|tom%[m|erions]|
+|vous|tom%[m|eriez]|
+|ils|tom%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tom%[m|é]|
+|tu|aurais|tom%[m|é]|
+|il|aurait|tom%[m|é]|
+|nous|aurions|tom%[m|é]|
+|vous|auriez|tom%[m|é]|
+|ils|auraient|tom%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tom%[m|e]|
+|que|tu|tom%[m|es]|
+|qu'|il|tom%[m|e]|
+|que|nous|tom%[m|ions]|
+|que|vous|tom%[m|iez]|
+|qu'|ils|tom%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tom%[m|é]|
+|que|tu|aies|tom%[m|é]|
+|qu'|il|ait|tom%[m|é]|
+|que|nous|ayons|tom%[m|é]|
+|que|vous|ayez|tom%[m|é]|
+|qu'|ils|aient|tom%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tom%[m|asse]|
+|que|tu|tom%[m|asses]|
+|qu'|il|tom%[m|ât]|
+|que|nous|tom%[m|assions]|
+|que|vous|tom%[m|assiez]|
+|qu'|ils|tom%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tom%[m|é]|
+|que|tu|eusses|tom%[m|é]|
+|qu'|il|eût|tom%[m|é]|
+|que|nous|eussions|tom%[m|é]|
+|que|vous|eussiez|tom%[m|é]|
+|qu'|ils|eussent|tom%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tom%[m|e]|
+|tom%[m|ons]|
+|tom%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tom%[m|é]|
+|ayons|tom%[m|é]|
+|ayez|tom%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# ensaisiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ensaisin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ensaisin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ensaisin%[m|é]|
+|ayant|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ensaisin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ensaisin%[m|e]|
+|tu|ensaisin%[m|es]|
+|il|ensaisin%[m|e]|
+|nous|ensaisin%[m|ons]|
+|vous|ensaisin%[m|ez]|
+|ils|ensaisin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ensaisin%[m|é]|
+|tu|as |ensaisin%[m|é]|
+|il|a|ensaisin%[m|é]|
+|nous|avons|ensaisin%[m|é]|
+|vous|avez|ensaisin%[m|é]|
+|ils|ont|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ensaisin%[m|ais]|
+|tu|ensaisin%[m|ais]|
+|il|ensaisin%[m|ait]|
+|nous|ensaisin%[m|ions]|
+|vous|ensaisin%[m|iez]|
+|ils|ensaisin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ensaisin%[m|é]|
+|tu|avais|ensaisin%[m|é]|
+|il|avait|ensaisin%[m|é]|
+|nous|avions|ensaisin%[m|é]|
+|vous|aviez|ensaisin%[m|é]|
+|ils|avaient|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ensaisin%[m|ai]|
+|tu|ensaisin%[m|as]|
+|il|ensaisin%[m|a]|
+|nous|ensaisin%[m|âmes]|
+|vous|ensaisin%[m|âtes]|
+|ils|ensaisin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ensaisin%[m|é]|
+|tu|eus|ensaisin%[m|é]|
+|il|eut|ensaisin%[m|é]|
+|nous|e&ucirc;mes|ensaisin%[m|é]|
+|vous|e&ucirc;tes|ensaisin%[m|é]|
+|ils|eurent|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ensaisin%[m|erai]|
+|tu|ensaisin%[m|eras]|
+|il|ensaisin%[m|era]|
+|nous|ensaisin%[m|erons]|
+|vous|ensaisin%[m|erez]|
+|ils|ensaisin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ensaisin%[m|é]|
+|tu|auras|ensaisin%[m|é]|
+|il|aura|ensaisin%[m|é]|
+|nous|aurons|ensaisin%[m|é]|
+|vous|aurez|ensaisin%[m|é]|
+|ils|auront|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ensaisin%[m|erais]|
+|tu|ensaisin%[m|erais]|
+|il|ensaisin%[m|erait]|
+|nous|ensaisin%[m|erions]|
+|vous|ensaisin%[m|eriez]|
+|ils|ensaisin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ensaisin%[m|é]|
+|tu|aurais|ensaisin%[m|é]|
+|il|aurait|ensaisin%[m|é]|
+|nous|aurions|ensaisin%[m|é]|
+|vous|auriez|ensaisin%[m|é]|
+|ils|auraient|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ensaisin%[m|e]|
+|que|tu|ensaisin%[m|es]|
+|qu'|il|ensaisin%[m|e]|
+|que|nous|ensaisin%[m|ions]|
+|que|vous|ensaisin%[m|iez]|
+|qu'|ils|ensaisin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ensaisin%[m|é]|
+|que|tu|aies|ensaisin%[m|é]|
+|qu'|il|ait|ensaisin%[m|é]|
+|que|nous|ayons|ensaisin%[m|é]|
+|que|vous|ayez|ensaisin%[m|é]|
+|qu'|ils|aient|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ensaisin%[m|asse]|
+|que|tu|ensaisin%[m|asses]|
+|qu'|il|ensaisin%[m|ât]|
+|que|nous|ensaisin%[m|assions]|
+|que|vous|ensaisin%[m|assiez]|
+|qu'|ils|ensaisin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ensaisin%[m|é]|
+|que|tu|eusses|ensaisin%[m|é]|
+|qu'|il|eût|ensaisin%[m|é]|
+|que|nous|eussions|ensaisin%[m|é]|
+|que|vous|eussiez|ensaisin%[m|é]|
+|qu'|ils|eussent|ensaisin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ensaisin%[m|e]|
+|ensaisin%[m|ons]|
+|ensaisin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ensaisin%[m|é]|
+|ayons|ensaisin%[m|é]|
+|ayez|ensaisin%[m|é]|
+|]
+

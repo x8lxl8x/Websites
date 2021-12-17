@@ -1,0 +1,191 @@
+# borner %[clVerbGroup|1]
+[-
+poser des bornes, délimiter un terrain. 
+mettre des limites, circonscrire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|born%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|born%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|born%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||born%[m|é]|
+|ayant|born%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en born%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|born%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|born%[m|e]|
+|tu|born%[m|es]|
+|il|born%[m|e]|
+|nous|born%[m|ons]|
+|vous|born%[m|ez]|
+|ils|born%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|born%[m|é]|
+|tu|as |born%[m|é]|
+|il|a|born%[m|é]|
+|nous|avons|born%[m|é]|
+|vous|avez|born%[m|é]|
+|ils|ont|born%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|born%[m|ais]|
+|tu|born%[m|ais]|
+|il|born%[m|ait]|
+|nous|born%[m|ions]|
+|vous|born%[m|iez]|
+|ils|born%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|born%[m|é]|
+|tu|avais|born%[m|é]|
+|il|avait|born%[m|é]|
+|nous|avions|born%[m|é]|
+|vous|aviez|born%[m|é]|
+|ils|avaient|born%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|born%[m|ai]|
+|tu|born%[m|as]|
+|il|born%[m|a]|
+|nous|born%[m|âmes]|
+|vous|born%[m|âtes]|
+|ils|born%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|born%[m|é]|
+|tu|eus|born%[m|é]|
+|il|eut|born%[m|é]|
+|nous|e&ucirc;mes|born%[m|é]|
+|vous|e&ucirc;tes|born%[m|é]|
+|ils|eurent|born%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|born%[m|erai]|
+|tu|born%[m|eras]|
+|il|born%[m|era]|
+|nous|born%[m|erons]|
+|vous|born%[m|erez]|
+|ils|born%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|born%[m|é]|
+|tu|auras|born%[m|é]|
+|il|aura|born%[m|é]|
+|nous|aurons|born%[m|é]|
+|vous|aurez|born%[m|é]|
+|ils|auront|born%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|born%[m|erais]|
+|tu|born%[m|erais]|
+|il|born%[m|erait]|
+|nous|born%[m|erions]|
+|vous|born%[m|eriez]|
+|ils|born%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|born%[m|é]|
+|tu|aurais|born%[m|é]|
+|il|aurait|born%[m|é]|
+|nous|aurions|born%[m|é]|
+|vous|auriez|born%[m|é]|
+|ils|auraient|born%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|born%[m|e]|
+|que|tu|born%[m|es]|
+|qu'|il|born%[m|e]|
+|que|nous|born%[m|ions]|
+|que|vous|born%[m|iez]|
+|qu'|ils|born%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|born%[m|é]|
+|que|tu|aies|born%[m|é]|
+|qu'|il|ait|born%[m|é]|
+|que|nous|ayons|born%[m|é]|
+|que|vous|ayez|born%[m|é]|
+|qu'|ils|aient|born%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|born%[m|asse]|
+|que|tu|born%[m|asses]|
+|qu'|il|born%[m|ât]|
+|que|nous|born%[m|assions]|
+|que|vous|born%[m|assiez]|
+|qu'|ils|born%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|born%[m|é]|
+|que|tu|eusses|born%[m|é]|
+|qu'|il|eût|born%[m|é]|
+|que|nous|eussions|born%[m|é]|
+|que|vous|eussiez|born%[m|é]|
+|qu'|ils|eussent|born%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|born%[m|e]|
+|born%[m|ons]|
+|born%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|born%[m|é]|
+|ayons|born%[m|é]|
+|ayez|born%[m|é]|
+|]
+

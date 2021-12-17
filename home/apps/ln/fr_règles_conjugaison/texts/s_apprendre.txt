@@ -1,0 +1,193 @@
+# s'apprendre %[clVerbGroup|3]
+[-
+acquérir un ensemble de connaissances. 
+être mis au courant, averti. 
+dispenser des connaissances, des nouvelles. 
+transmettre des connaissances, une pratique à quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'appr%[m|endre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|appr%[m|is]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'appr%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|appr%[m|is]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'appr%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|appr%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|appr%[m|ends]|
+|tu|t'|appr%[m|ends]|
+|il|s'|appr%[m|end]|
+|nous|nous|appr%[m|enons]|
+|vous|vous|appr%[m|enez]|
+|ils|s'|appr%[m|ennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|appr%[m|is]|
+|tu|t'|es|appr%[m|is]|
+|il|s'|est|appr%[m|is]|
+|nous|nous|sommes|appr%[m|is]|
+|vous|vous|êtes|appr%[m|is]|
+|ils|se|sont|appr%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|appr%[m|enais]|
+|tu|t'|appr%[m|enais]|
+|il|s'|appr%[m|enait]|
+|nous|nous|appr%[m|enions]|
+|vous|vous|appr%[m|eniez]|
+|ils|s'|appr%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|appr%[m|is]|
+|tu|t'|étais|appr%[m|is]|
+|il|s'|était|appr%[m|is]|
+|nous|nous|étions|appr%[m|is]|
+|vous|vous|étiez|appr%[m|is]|
+|ils|s'|étaient|appr%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|appr%[m|is]|
+|tu|t'|appr%[m|is]|
+|il|s'|appr%[m|it]|
+|nous|nous|appr%[m|îmes]|
+|vous|vous|appr%[m|îtes]|
+|ils|s'|appr%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|appr%[m|is]|
+|tu|te|fus|appr%[m|is]|
+|il|se|fut|appr%[m|is]|
+|nous|nous|fûmes|appr%[m|is]|
+|vous|vous|fûtes|appr%[m|is]|
+|ils|se|furent|appr%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|appr%[m|endrai]|
+|tu|t'|appr%[m|endras]|
+|il|s'|appr%[m|endra]|
+|nous|nous|appr%[m|endrons]|
+|vous|vous|appr%[m|endrez]|
+|ils|s'|appr%[m|endront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|appr%[m|is]|
+|tu|te|seras|appr%[m|is]|
+|il|se|sera|appr%[m|is]|
+|nous|nous|serons|appr%[m|is]|
+|vous|vous|serez|appr%[m|is]|
+|ils|se|seront|appr%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|appr%[m|endrais]|
+|tu|t'|appr%[m|endrais]|
+|il|s'|appr%[m|endrait]|
+|nous|nous|appr%[m|endrions]|
+|vous|vous|appr%[m|endriez]|
+|ils|s'|appr%[m|endraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|appr%[m|is]|
+|tu|te|serais|appr%[m|is]|
+|il|se|serait|appr%[m|is]|
+|nous|nous|serions|appr%[m|is]|
+|vous|vous|seriez|appr%[m|is]|
+|ils|se|seraient|appr%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|appr%[m|enne]|
+|que|tu|t'|appr%[m|ennes]|
+|qu'|il|s'|appr%[m|enne]|
+|que|nous|nous|appr%[m|enions]|
+|que|vous|vous|appr%[m|eniez]|
+|qu'|ils|s'|appr%[m|ennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|appr%[m|is]|
+|que|tu|te|sois|appr%[m|is]|
+|qu'|il|se|soit|appr%[m|is]|
+|que|nous|nous|soyons|appr%[m|is]|
+|que|vous|vous|soyez|appr%[m|is]|
+|qu'|ils|se|soient|appr%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|appr%[m|isse]|
+|que|tu|t'|appr%[m|isses]|
+|qu'|il|s'|appr%[m|ît]|
+|que|nous|nous|appr%[m|issions]|
+|que|vous|vous|appr%[m|issiez]|
+|qu'|ils|s'|appr%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|appr%[m|is]|
+|que|tu|te|fusses|appr%[m|is]|
+|qu'|il|se|fût|appr%[m|is]|
+|que|nous|nous|fussions|appr%[m|is]|
+|que|vous|vous|fussiez|appr%[m|is]|
+|qu'|ils|se|fussent|appr%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|appr%[m|ends]-toi|
+|appr%[m|enons]-nous|
+|appr%[m|enez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

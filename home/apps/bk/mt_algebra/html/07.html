@@ -1,0 +1,2600 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Algebra</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_7'>        7. Polynomials and Rational Functions</a><br>
+<br>
+<a href='#section_345'>      7.1. Introduction to Polynomials</a><br>
+<a href='#concept_68'>       7.1.1. What Are Polynomials?</a><br>
+<a href='#concept_386'>      7.1.2. Adding and Subtracting Polynomials</a><br>
+<a href='#concept_69'>       7.1.3. Multiplying Polynomials</a><br>
+<a href='#concept_145'>      7.1.4. Polynomial and Rational Functions as Models</a><br>
+<br>
+<a href='#section_346'>      7.2. Graphing Polynomial Functions</a><br>
+<a href='#concept_146'>      7.2.1. Basics of Graphing Polynomial Functions</a><br>
+<a href='#concept_143'>      7.2.2. The Leading-Term Test</a><br>
+<br>
+<a href='#section_347'>      7.3. Polynomial Division</a><br>
+<a href='#concept_71'>       7.3.1. Introduction to Factoring Polynomials</a><br>
+<a href='#concept_148'>      7.3.2. Division and Factors</a><br>
+<a href='#concept_149'>      7.3.3. The Remainder Theorem and Synthetic Division</a><br>
+<a href='#concept_150'>      7.3.4. Finding Factors of Polynomials</a><br>
+<br>
+<a href='#section_348'>      7.4. Zeroes of Polynomial Functions</a><br>
+<a href='#concept_151'>      7.4.1. The Fundamental Theorem of Algebra</a><br>
+<a href='#concept_152'>      7.4.2. Finding Polynomials with Given Zeros</a><br>
+<a href='#concept_144'>      7.4.3. Finding Zeros of Factored Polynomials</a><br>
+<a href='#concept_155'>      7.4.4. Integer Coefficients and the Rational Zeros Theorem</a><br>
+<a href='#concept_156'>      7.4.5. The Rule of Signs</a><br>
+<br>
+<a href='#section_349'>      7.5. Rational Functions</a><br>
+<a href='#concept_157'>      7.5.1. Introduction to Rational Functions</a><br>
+<a href='#concept_158'>      7.5.2. Asymptotes</a><br>
+<a href='#concept_159'>      7.5.3. Solving Problems with Rational Functions</a><br>
+<a href='#concept_77'>       7.5.4. Simplifying, Multiplying, and Dividing Rational Expressions</a><br>
+<a href='#concept_212'>      7.5.5. Partial Fractions</a><br>
+<br>
+<a href='#section_33'>       7.6. Inequalities With Polynomial and Rational Functions</a><br>
+<a href='#concept_160'>      7.6.1. Polynomial Inequalities</a><br>
+<a href='#concept_161'>      7.6.2. Rational Inequalities</a><br>
+</div>
+
+<h1 id='chapter_7'>7. Polynomials and Rational Functions</h1>
+
+<h2 id='section_345'>7.1. Introduction to Polynomials</h2>
+
+<h3 id='concept_68'>7.1.1. What Are Polynomials?</h3>
+
+<blockquote>A polynomial is an expression containing constants and variables connected only through basic operations of algebra.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe what polynomials are and their defining characteristics</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A polynomial is a finite expression constructed from variables and constants, using the operations of addition, subtraction, multiplication, and taking non-negative integer powers.</li>
+<li>A polynomial  can be written as the sum of a finite number of terms. Each term consists of the product of a constant (called the coefficient of the term) and a finite number of variables (usually represented by letters) raised to integer powers.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>degree</dt>
+<dd>the sum of the exponents of a term; the order of a polynomial.</dd>
+<dt>coefficient</dt>
+<dd>a constant by which an algebraic term is multiplied.</dd>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. </dd>
+</dl>
+
+<p>Polynomials are widely used algebraic objects. They have the form of a sum of scaled powers of a variable. </p>
+
+<h3>Monomials over <span class='clFormula'>$\mathbb{R}$</span></h3>
+
+<p>Let <span class='clFormula'>$\mathbb{R}$</span>
+be the set of real numbers. A <em>monomial</em> over <span class='clFormula'>$\mathbb{R}$</span>
+in a single variable <span class='clFormula'>$x$</span>
+consists of a non-negative power of <span class='clFormula'>$x$</span>
+, multiplied with a nonzero constant <span class='clFormula'>$c \in \mathbb{R}.$</span>
+So a polynomial looks like</p>
+<p><span class='clFormula'>$cx^n$</span>
+,</p>
+<p>where <span class='clFormula'>$n \geq 0$</span>
+is an integer and <span class='clFormula'>$c \not = 0$</span>
+ is a real number. If we want to give the polynomial a name, say <span class='clFormula'>$M$</span>
+, we denote that its variable is <span class='clFormula'>$x$</span>
+by writing <span class='clFormula'>$x$</span>
+between brackets:</p>
+<p><span class='clFormula'>$M(x)=cx^n$</span>
+.</p>
+<p>The exponent <span class='clFormula'>$n$</span>
+is called the degree<em> of </em><span class='clFormula'>$M(x).$</span>
+The constant <span class='clFormula'>$c$</span>
+is the <em>coefficient</em>.</p>
+
+<h3>Examples</h3>
+
+<p><span class='clFormula'>$\sqrt{2}x^7$</span>
+is a monomial of degree 7 and coefficient <span class='clFormula'>$\sqrt{2}$</span>
+. </p>
+<p><span class='clFormula'>$7x^{\sqrt{2}}$</span>
+, <span class='clFormula'>$\sqrt{2}x^{-7}$</span>
+and <span class='clFormula'>$2x^7 - 7x^2$</span>
+are not monomials. The first and the second do not have a non-negative integer exponent and the third is a sum of two monomials.</p>
+
+<h3>Polynomials over <span class='clFormula'>$\mathbb{R}$</span></h3>
+
+<p>A polynomial over <span class='clFormula'>$\mathbb{R}$</span>
+is a finite sum of monomials over <span class='clFormula'>$\mathbb{R}$</span>
+. For example </p>
+
+<div class='clFormula'>$P(x)= 4x^{13} +3x^2-\pi x + 1$</div>
+
+<p>is the finite sum of the <span class='clFormula'>$4$</span>
+monomials: <span class='clFormula'>$4x^{13}, 3x^2, -\pi x$</span>
+and <span class='clFormula'>$1 = 1x^0.$</span>
+ </p>
+<p>It is also the sum of the 6 monomials:  <span class='clFormula'>$1/3 x^{100}, -1/3 x^{100}, 4x^{13}, 3x^2, -\pi x$</span>
+and <span class='clFormula'>$1$</span>
+, as will be explained in the discussion about addition and subtraction of polynomials. However, we can only write down <span class='clFormula'>$P(x)$</span>
+as the sum of monomials of distinct degree in exactly one way, namely the first we mentioned. These monomials are called the <em>terms</em> of <span class='clFormula'>$P(x).$</span>
+The <em>coefficients </em>of <span class='clFormula'>$P(x)$</span>
+are the coefficients corresponding to its terms.</p>
+<p>Every monomial is also a polynomial, as it can be written as a sum with one term, itself. </p>
+<p>A special example of a polynomial is the zero polynomial</p>
+
+<div class='clFormula'>$Z(x) = 0,$</div>
+
+<p>which is a sum of <span class='clFormula'>$0$</span>
+monomials. </p>
+<p>The <em>degree</em> of a polynomial <span class='clFormula'>$Q(x)$</span>
+is the highest degree of one of its terms. For example, the degree of <span class='clFormula'>$P(x)$</span>
+is <span class='clFormula'>$13$</span>
+.</p>
+<p>The degree of the zero polynomial is defined to be <span class='clFormula'>$-\infty$</span>
+.</p>
+
+<h3>Extra: Polynomials Over General Rings</h3>
+
+<p>This part is for the interested reader only. Most students can skip this part, or just remember that polynomials over <span class='clFormula'>$\mathbb{C}$</span>
+are the same as polynomials over <span class='clFormula'>$\mathbb{R}$</span>
+, but with complex coefficients and that the degree of a monomial in more variables equals the sum of the exponents.</p>
+<p>We have discussed polynomials over <span class='clFormula'>$\mathbb{R}$</span>
+. We shall later see that we can add, subtract and multiply these polynomials. In general, our coefficients <span class='clFormula'>$c$</span>
+do not need to belong to <span class='clFormula'>$\mathbb{R}$</span>
+, but they can belong to any set of "numbers" in which we can add, subtract and multiply. These sets are called rings. Examples of rings are the real numbers <span class='clFormula'>$\mathbb{R}$</span>
+, the integers <span class='clFormula'>$\mathbb{Z}$</span>
+and the complex numbers <span class='clFormula'>$\mathbb{C}$</span>
+. In this case, we talk about complex polynomials, or polynomials over <span class='clFormula'>$\mathbb{C}$</span>
+. The degree of a polynomial is defined in the same way as in the real case.</p>
+<p>In particular, the polynomials over <span class='clFormula'>$\mathbb{R}$</span>
+form a ring, which we denote by <span class='clFormula'>$\mathbb{R}[x]$</span>
+. The polynomials over this ring will be polynomials in two variables <span class='clFormula'>$x$</span>
+and <span class='clFormula'>$y$</span>
+over <span class='clFormula'>$\mathbb{R}$</span>
+.</p>
+<p>Here the degree in <span class='clFormula'>$x$</span>
+of <span class='clFormula'>$x^3y^5$</span>
+is <span class='clFormula'>$3$</span>
+, the degree in <span class='clFormula'>$y$</span>
+of <span class='clFormula'>$x^3y^5$</span>
+is <span class='clFormula'>$5$</span>
+and its joint degree or degree is <span class='clFormula'>$8$</span>
+.</p>
+
+<h3 id='concept_386'>7.1.2. Adding and Subtracting Polynomials</h3>
+
+<blockquote>Polynomials can be added or subtracted by combining like terms.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how to add and subtract polynomials and what it means to do so</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The rules for adding and subtracting algebraic expressions apply to polynomials; only like terms can be combined.</li>
+<li>Any two polynomials can be added or subtracted, regardless of
+the number of terms in each, or the degrees of the polynomials. </li>
+<li>The sum or difference of two polynomials will have the same degree as the polynomial with the higher degree in the problem.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Commutative Property</dt>
+<dd>States that changing the order of numbers being added does not change the result.</dd>
+<dt>degree of a polynomial</dt>
+<dd>The highest value of an exponent placed on a variable in any of the terms of a polynomial.</dd>
+</dl>
+
+<p>Polynomials are algebraic expressions that contain terms that are constructed from variables and constants. Recall the rules for adding and subtracting algebraic expressions, which state that only like terms can be combined. </p>
+<p><em>Like terms</em> are those that are either both constants or have the same variables with the same exponents. For example, <span class='clFormula'>$4x^3$</span>
+and <span class='clFormula'>$x^3$</span>
+are like terms; <span class='clFormula'>$21$</span>
+ and <span class='clFormula'>$82$</span>
+ are also like terms. Adding and subtracting polynomials is as simple as adding and
+subtracting  like terms. When adding polynomials, the commutative property allows us to rearrange the terms to group like terms together. </p>
+<p>Note that any two polynomials can be added or subtracted, regardless of the number of terms in each, or the degrees of the polynomials. The resulting polynomial will have the same degree as the polynomial with the higher degree in the problem.</p>
+<p>You may be asked to add or subtract polynomials that have terms of different degrees. For example, one polynomial may have the term <span class='clFormula'>$x^2$</span>
+, while the other polynomial has no like term. If any term does not have a like term in the other polynomial, it does not need to be combined with any other term. It is simply carried down, with addition or subtraction applied appropriately. See the second example below for a demonstration of this concept.</p>
+
+<h3>Example 1</h3>
+
+<p>Find the sum of <span class='clFormula'>$4x^2 - 5x + 1$</span>
+and <span class='clFormula'>$3x^2 - 8x - 9$</span>
+.</p>
+<p>First, group like terms together:</p>
+
+<div class='clFormula'>$(4x^2 +3x^2 ) + (- 5x-8x) + (1 - 9)$</div>
+
+<p>Combine the like terms for the solution:</p>
+
+<div class='clFormula'>$7x^2 - 13x - 8$</div>
+
+
+<h3>Example 2</h3>
+
+<p>Subtract: <span class='clFormula'>$(5x^3 + x^2 + 9) - (4x^2 + 7x -3)$</span></p>
+<p>Start by grouping like terms. Remember to apply subtraction to each term in the second polynomial. Note that the term <span class='clFormula'>$5x^3$</span>
+in the first polynomial does not have a like term; neither does <span class='clFormula'>$7x$</span>
+in the second polynomial. These are simply carried down.</p>
+
+<div class='clFormula'>$5x^3 + (x^2 - 4x^2) + (- 7x) + (9 - (-3)) \\&#10;5x^3 + (x^2 - 4x^2) - 7x +(9 + 3)$</div>
+
+<p>Now combine the like terms:</p>
+
+<div class='clFormula'>$5x^3 - 3x^2 - 7x + 12$</div>
+
+<p>Notice that the answer is a polynomial of degree 3; this is also the highest degree of a polynomial in the problem.</p>
+
+<h3 id='concept_69'>7.1.3. Multiplying Polynomials</h3>
+
+<blockquote>To multiply two polynomials together, multiply every term of one polynomial by every term of the other polynomial.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how to multiply polynomials using the distributive property and describe the results of doing so</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To multiply a polynomial by a monomial, multiply every term of the polynomial by the monomial and then add the resulting products together.</li>
+<li>To multiply two polynomials together, multiply every term of one polynomial by every term of the other polynomial.</li>
+<li>The degree of a product of two polynomials equals the sum of the degrees of said polynomials.</li>
+<li>The zeros of a product of two polynomial are the zeros of the two factors, combined.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>monomial</dt>
+<dd>An algebraic expression consisting of one term.</dd>
+<dt>commutative</dt>
+<dd>A binary operation is commutative if changing the order of the operands does not change the result, for example addition and multiplication.</dd>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation> . Importantly, because all exponents are positive, it is impossible to divide by <equation>$x$</equation>.</dd>
+</dl>
+
+<p>Multiplying a polynomial by a monomial is a direct application of the distributive and associative properties. Recall that the distributive property says that</p>
+
+<div class='clFormula'>$a(b + c) = ab + ac$</div>
+
+<p>for all real numbers <span class='clFormula'>$a,b$</span>
+and <span class='clFormula'>$c.$</span>
+The associative property says that</p>
+
+<div class='clFormula'>$(ab)c=a(bc)$</div>
+
+<p>for all real numbers <span class='clFormula'>$a,b$</span>
+and <span class='clFormula'>$c.$</span>
+ </p>
+<p>As we will treat variables in the same way as real numbers, the same properties hold whenever <span class='clFormula'>$a,b$</span>
+and/or <span class='clFormula'>$c$</span>
+is a variable. So for the multiplication of a monomial with a polynomial we get the following procedure:</p>
+<p>Multiply every term of the polynomial by the monomial and then add the resulting products together. </p>
+<p>For example,</p>
+
+<div class='clFormula'>$\begin{align}&#10;3x^2(4x-\pi)&amp;=3x^2 \cdot 4x-3x^2 \cdot \pi&#10;\\&amp;=12x^3-3\pi x^2.&#10;\end{align}$</div>
+
+<p>To multiply a polynomial <span class='clFormula'>$P(x) = M_1(x) + M_2(x) + \ldots + M_n(x)$</span>
+with a polynomial <span class='clFormula'>$Q(x) = N_1(x) + N_2(x) + \ldots + N_k(x)$</span>
+, where both are written as a sum of monomials of distinct degrees, we get</p>
+
+<div class='clFormula'>$\begin{align}&#10;P(x)Q(x) &amp;= (M_1(x)+M_2(x)+ \ldots + M_n(x))Q(x)&#10;\\ &amp;=M_1(x)Q(x) + M_2(x)Q(x) + \ldots + M_n(x)Q(x)&#10;\\ &amp;=M_1(x)N_1(x) + \ldots + M_1(x)N_k(x) + \ldots&#10;\\ &amp;+M_n(x)N_1(x) + \ldots + M_n(x)N_k(x)&#10;\end{align}$</div>
+
+<p>and we see that this equals the sum of the products of the terms, where every term of <span class='clFormula'>$P(x)$</span>
+is multiplied exactly once with every term of <span class='clFormula'>$Q(x)$</span>
+. Notice that since the highest degree term of <span class='clFormula'>$P(x)$</span>
+is multiplied with the highest degree term of <span class='clFormula'>$Q(x)$</span>
+we have that the degree of the product equals the sum of the degrees, since</p>
+
+<div class='clFormula'>$a^na^m=a^{m+n}$</div>
+
+<p>for all real numbers (and variables) <span class='clFormula'>$a$</span>
+and all non-negative integers <span class='clFormula'>$m$</span>
+and <span class='clFormula'>$n$</span>
+.</p>
+<p>For convenience, we will use the commutative property of addition to write the expression so that we start with the terms containing <span class='clFormula'>$M_1(x)$</span>
+and end with the terms containing <span class='clFormula'>$M_n(x)$</span>
+.</p>
+<p>This method is commonly called the FOIL method, where we multiply the First, Outside, Inside, and Last pairs in the expression, and then add the products of like terms together.</p>
+<p>For example, to find the product of <span class='clFormula'>$(2x+3)(x-4)$</span>
+, use FOIL and then add the products together: </p>
+
+<div class='clFormula'>$\begin {align} 2x \cdot x+2x \cdot (-4)+3 \cdot x+3 \cdot(-4)&amp;=2x^2-8x+3x-12 &#10;\\ &amp;=2x^2-5x-12&#10;\end {align}$</div>
+
+
+<h3>Zeros of a Product of Polynomials</h3>
+
+<p>Since we made sure that the product of polynomials abides the same laws as if the variables were real numbers, the evaluation of a product of two polynomials in a given point will be the same as the product of the evaluations of the polynomials:</p>
+
+<div class='clFormula'>$P(x_0)Q(x_0) = PQ(x_0)$</div>
+
+<p>for all real numbers <span class='clFormula'>$x_0.$</span>
+ </p>
+<p>In particular <span class='clFormula'>$PQ(x_0) = 0$</span>
+if and only if <span class='clFormula'>$P(x_0)Q(x_0)=0$</span>
+, if and only if <span class='clFormula'>$P(x_0) = 0$</span>
+or <span class='clFormula'>$Q(x_0) = 0$</span>
+. So the roots of a product of polynomials are exactly the roots of its factors, i.e. <span class='clFormula'>$x_0$</span>
+is a zero for <span class='clFormula'>$PQ(x)$</span>
+if it is a zero for <span class='clFormula'>$P(x)$</span>
+or for <span class='clFormula'>$Q(x)$</span>
+(and possibly both).</p>
+
+<h3 id='concept_145'>7.1.4. Polynomial and Rational Functions as Models</h3>
+
+<blockquote>Functions are commonly used in fitting data to a trend line. Polynomial and rational functions are both relatively accurate and  easy to use.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the advantages and disadvantages of using polynomial and rational functions as models</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Researchers will often collect many discrete samples of data, relating two or more variables, without knowing the mathematical relationship between them. Curve fitting is used to create trend lines intended to fill in the points between and beyond collected data points.</li>
+<li>Polynomial<em> </em>functions are easy to use for modeling, but ill-suited to modeling asymptotes and some functional forms, and they can become very inaccurate outside the bounds of the collected data.</li>
+<li>Rational functions can take on a much greater range of shapes and are more accurate both inside and outside the limits of collected data than polynomial functions. However, rational functions are more difficult to use and can include undesirable asymptotes.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>asymptote</dt>
+<dd>A line that a curve approaches arbitrarily closely, as they go to infinity; the limit of the curve, its tangent "at infinity".</dd>
+</dl>
+
+<p>For a set of data containing two (or more) quantitative properties, statisticians use functions to denote a relationship between two or more distinct properties. When we find a function that lies reasonably close to the collected data points, we  create a trend line which says how one property behaves as a function of the other ones. We call this <em>curve fitting</em>. Then we can use this to make predictions about the former property once we know something about the others.</p>
+<p>For example, if you measure the height of <span class='clFormula'>$99$</span>
+10-year olds, and you measure how far they can jump and how fast they can run, you might be able to predict how fast the <span class='clFormula'>$100th$</span>
+kid can run, just by watching them jump. Of course, this is only possible if the two quantities are related: How many uncles a kid has got has probably nothing to do with how far they can jump. </p>
+<p>Polynomial and rational functions are easy to work with because you only need to make use of elementary operations. </p>
+<p>Recall that a polynomial function has the following form:</p>
+
+<div class='clFormula'>$y=a_nx^n+a_{n-1}x^{n-1}+...+a_2x^2+a_1x+a_0$</div>
+
+<p>where <span class='clFormula'>$n$</span>
+(the degree of the polynomial) is an integer greater than or equal to <span class='clFormula'>$0$</span>
+, <span class='clFormula'>$x$</span>
+and <span class='clFormula'>$y$</span>
+are variables, and <span class='clFormula'>$0\not=a_n,a_{n-1},\ldots,a_2, a_1$</span>
+and <span class='clFormula'>$a_0$</span>
+are constants. </p>
+<p>Polynomial functions are very simple in form and easy to use, but they have limitations with regard to statistical modeling. They can take on only a limited number of shapes and are particularly ill-suited to modeling asymptotes. They are finite when <span class='clFormula'>$x$</span>
+is finite and infinite when <span class='clFormula'>$x$</span>
+is infinite. It is especially hard to say something about the value of <span class='clFormula'>$y$</span>
+when <span class='clFormula'>$x$</span>
+is a lot bigger (smaller) than the greatest (smallest) <span class='clFormula'>$x$</span>
+in the dataset.</p>
+<p>This need not be a problem. For lots of datasets, their are no asymptotes and data is more or less bounded. (For example, there are no humans who are <span class='clFormula'>$-10$</span>
+or <span class='clFormula'>$10000$</span>
+years old.)</p>
+<p>Polynomials have also lots of advantages:</p>
+<ul>
+<li>They are well studied: a lot of their properties are known.</li>
+<li>They are easy to compute, using only multiplication and addition.</li>
+<li>They are closed under rescaling or changing of locations: if we change a kilometer to a mile we still get a polynomial.</li>
+</ul>
+<p>To deal with the asymptotic problems of polynomials, we also use rational functions:</p>
+<p>A rational function is the ratio of two polynomial functions and has the following form:</p>
+
+<div class='clFormula'>$y=\frac{a_nx^n+a_{n-1}+x^{n-1}+...+a_2x^2+a_1x+a_0}{b_mx^m+b_{m-1}+x^{m-1}+...+b_2x^2+b_1x+b_0}$</div>
+
+<p>Here, <em>n </em>and <em>m</em> define the degrees of the numerator and denominator, respectively, and together, they define the degree of the polynomial. For example, if <span class='clFormula'>$n=2$</span>
+ and <span class='clFormula'>$m=1$</span>
+, the function is described as a quadratic/linear rational function.</p>
+<p>Rational functions are a little more complex in form than polynomial functions, but they have an advantage in that they can take on a much greater range of shapes and can effectively model asymptotes. They are also more accurate than polynomial functions both inside and outside the limits of collected data. However, rational functions sometimes include undesirable asymptotes that can disrupt an otherwise smooth trend line. They are also a little bit more difficult to compute, since you also need division to compute them. However, they still run fast. </p>
+
+
+
+<a href='../images/0701.png'><img class='clImageThumb' src='../images/0701.png' alt='Curve fitting'></a>
+
+<div><b><i>Curve fitting</i></b></div>
+<p>Polynomial curves generated to fit points (black dots) of a sine function: The red line is a first degree polynomial; the green is a second degree; the orange is a third degree; and the blue is a fourth degree.</p>
+
+<p>Polynomials and rational functions are used for approximation in many everyday devices. For example, every time we take a picture with a smartphone, our phone looks at some data points and fills in the appropriate colors in the blanks, thus saving us a lot of memory, with the help of rational functions. Every time we say something through the phone, our phone tries to reduce the background noise by approximating our sound for short periods of time, again with the help of rational functions. </p>
+<h2 id='section_346'>7.2. Graphing Polynomial Functions</h2>
+
+<h3 id='concept_146'>7.2.1. Basics of Graphing Polynomial Functions</h3>
+
+<blockquote>A polynomial function in one real variable can be represented by a graph.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the factors that affect the graph of a polynomial</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The graph of the zero polynomial <span class='clFormula'>$f(x) = 0$</span>
+is the x-axis.</li>
+<li>The graph of a degree 1 polynomial (or linear function) <span class='clFormula'>$f(x) = a_0 + a_1x$</span>
+, where <span class='clFormula'>$a_1 \neq 0$</span>
+, is a straight line with y-intercept <span class='clFormula'>$a_0$</span>
+ and slope <span class='clFormula'>$a_1$</span>
+ .</li>
+<li>The graph of a degree 2 polynomial <span class='clFormula'>$f(x) = a_0 + a_1x + a_2x^2$</span>
+, where <span class='clFormula'>$a_2 \neq 0$</span>
+ is a parabola.</li>
+<li>The graph of any polynomial with degree 2 or greater <span class='clFormula'>$f(x) = a_0 + a_1x + a_2x^2 + ... + a_nx^n$</span>
+, where <span class='clFormula'>$a_n \neq 0$</span>
+ and <span class='clFormula'>$n \geq 2$</span>
+ is a continuous non-linear curve.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by x.</dd>
+<dt>indeterminate</dt>
+<dd>not accurately determined or determinable.</dd>
+<dt>term</dt>
+<dd>any value (variable or constant) or expression separated from another term by a space or an appropriate character, in an overall expression or table.</dd>
+</dl>
+
+<p>Polynomials appear in a wide variety of areas of mathematics and science. To better study and understand a polynomial, we sometimes like to draw its graph.</p>
+
+<h3>Visible Properties of a Polynomial</h3>
+
+<p>A typical graph of a polynomial function of degree 3 is the following:</p>
+
+
+
+
+
+<a href='../images/0702.png'><img class='clImageThumb' src='../images/0702.png' alt='A polynomial of degree '></a>
+
+<div><b><i>A polynomial of degree <span class='clFormula'>$3$</span></i></b></div>
+<p>Graph of a polynomial function with equation <span class='clFormula'>$y = \frac {x^3}{4} + \frac {3x^2}{4} - \frac {3x}{2} - 2.$</span></p>
+
+<h3>Zeros</h3>
+
+<p>If we factorize the above function we see that <span class='clFormula'>$y = \frac{1}{4}(x-2)(x+1)(x+4)$</span>
+, so the zeros of the polynomial are <span class='clFormula'>$2, -1$</span>
+and <span class='clFormula'>$-4$</span>
+. This is one thing we can read from the graph. In general, we can read the number of zeros from a polynomial just by looking at how many times it meets the <span class='clFormula'>$x$</span>
+-axis. </p>
+
+<h3>Behavior Near Infinity</h3>
+
+<p>As <span class='clFormula'>$\frac {x^3}{4}$</span>
+tends to be much larger (in absolute value) than <span class='clFormula'>$\frac {3x^2}{4} - \frac {3x}{2} - 2$</span>
+when <span class='clFormula'>$x$</span>
+tends to positive or negative infinity, we see that <span class='clFormula'>$y$</span>
+goes, like <span class='clFormula'>$\frac {x^3}{4}$</span>
+, to negative infinity when <span class='clFormula'>$x$</span>
+goes to negative infinity, and to positive infinity when <span class='clFormula'>$x$</span>
+goes to positive infinity. This is again something we can read from the graph. </p>
+<p>In general, polynomials will show the same behavior as their highest-degree term.  Functions of even degree will go to positive or negative infinity (depending on the sign of the coefficient of the highest-degree term) if <span class='clFormula'>$x$</span>
+goes to infinity. Functions of odd degree will go to negative or positive infinity when <span class='clFormula'>$x$</span>
+goes to negative infinity and vice versa, again depending on the highest-degree term coefficient. </p>
+
+<h3>How to Sketch a Graph</h3>
+
+<p>Conversely, if we know the zeros of a polynomial, and we know how it behaves near infinity, we can already make a nice sketch of the graph. We can exactly draw the points <span class='clFormula'>$(z,0)$</span>
+for each root <span class='clFormula'>$z$</span>
+. Between two zeros (and before the smallest zero, and after the greatest zero) a function will always be either positive, or negative. We know whether it is positive or negative at infinity. Every time we cross a zero of odd multiplicity  (if the number of zeros equals the degree of the polynomial, all zeros have multiplicity one and thus odd multiplicity) we change sign. </p>
+<p>So in our example, we start with a negative sign until we reach <span class='clFormula'>$x = -4$</span>
+, when our graph rises above the <span class='clFormula'>$x$</span>
+-axis. At some point it starts to descend again, until we reach <span class='clFormula'>$x=-1$</span>
+and the graph goes below the <span class='clFormula'>$x$</span>
+-axis again till <span class='clFormula'>$x=2$</span>
+, where it becomes positive again. </p>
+<p>With this procedure, we can draw a reasonable sketch of our graph, by only looking at the sign of the function and drawing a smooth line with the same sign! However, we can do better. For example, the number of times a function reaches a local minimum or maximum (i.e. a point where the graph descends and then starts to ascend again, or vice versa) is finite. In particular, it is smaller than the degree of the given polynomial. So if you draw a graph, make sure you draw no more local extremum points than you should. </p>
+
+<h3>Easy Points to Draw</h3>
+
+<p>Another easy point to draw is the intersection with the <span class='clFormula'>$y$</span>
+-axis, as this equals the function value in the point zero, which equals the constant term of the polynomial. We also call this the <span class='clFormula'>$y$</span>
+-intercept of the function. So if we draw our smooth line, we make sure it crosses the <span class='clFormula'>$y$</span>
+-axis in the same place. In general, the more function values we compute, the more points of the graph we know, and the more accurate our graph will be. Conversely, we can easily read the constant term of the polynomial by looking at its intersection with the <span class='clFormula'>$y$</span>
+-axis if its graph is given (and indeed, we can readily read any function value if the graph is given). </p>
+
+<h3> Examples</h3>
+
+<ul>
+<li>The graph of the zero polynomial <span class='clFormula'>$f(x)=0$</span>
+is the <span class='clFormula'>$x$</span>
+-axis, since all real numbers are zeros. </li>
+<li>The graph of a degree <span class='clFormula'>$0$</span>
+polynomial <span class='clFormula'>$f(x)=a_0$</span>
+, where <span class='clFormula'>$a_0 \not = 0$</span>
+, is a horizontal line with <span class='clFormula'>$y$</span>
+-intercept <span class='clFormula'>$a_0$</span>
+.</li>
+<li>The graph of a degree 1 polynomial (or linear function)<span class='clFormula'>$f(x) = a_0 + a_1x$</span>
+, where <span class='clFormula'>$a_1 \not = 0$</span>
+, is a straight line with <span class='clFormula'>$y$</span>
+-intercept <span class='clFormula'>$a_0$</span>
+and slope <span class='clFormula'>$a_1$</span>
+.</li>
+<li>The graph of a degree 2 polynomial <span class='clFormula'>$f(x) = a_0 + a_1x + a_2x^2$</span>
+, where <span class='clFormula'>$a_2 \neq 0$</span>
+is a parabola.</li>
+<li>The graph of a degree 3 polynomial <span class='clFormula'>$f(x) = a_0 + a_1x + a_2x^2 + a_3x^3$</span>
+, where <span class='clFormula'>$a_3 \neq 0$</span>
+, is a cubic curve.</li>
+<li>The graph of any polynomial with degree 2 or greater <span class='clFormula'>$f(x) = a_0 + a_1x + a_2x^2 + ... + a_nx^n$</span>
+, where <span class='clFormula'>$a_n \neq 0$</span>
+and <span class='clFormula'>$n \geq 2$</span>
+is a continuous non-linear curve.</li>
+<li>The graph of a non-constant (univariate) polynomial always tends to infinity when the variable increases indefinitely (in absolute value).</li>
+</ul>
+
+<h3>Examples</h3>
+
+<p>Below are some examples of graphs of functions. </p>
+
+
+
+<a href='../images/0703.png'><img class='clImageThumb' src='../images/0703.png' alt='A polynomial of degree 6'></a>
+
+<div><b><i>A polynomial of degree 6</i></b></div>
+<p>A polynomial of degree 6. Its constant term is between -1 and 0. Its highest-degree coefficient is positive. It has exactly 6 zeroes and 5 local extrema.</p>
+
+
+
+<a href='../images/0704.png'><img class='clImageThumb' src='../images/0704.png' alt='A polynomial of degree 5'></a>
+
+<div><b><i>A polynomial of degree 5</i></b></div>
+<p>A polynomial of degree 5. Its constant term is between 3 and 4. Its highest-degree coefficient is positive. It has 3 real zeros (and two complex ones). However, it has 4 local extrema. </p>
+
+<h3 id='concept_143'>7.2.2. The Leading-Term Test</h3>
+
+<blockquote>Analysis of a polynomial reveals whether the function will increase or decrease as <span class='clFormula'>$x$</span>
+approaches positive and negative infinity.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the leading-term test to describe the end behavior of a polynomial graph</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Properties of the leading term of a polynomial reveal whether the function increases or decreases continually as <span class='clFormula'>$x$</span>
+values approach positive and negative infinity.</li>
+<li>If <span class='clFormula'>$n$</span>
+is odd and <span class='clFormula'>$a_n$</span>
+is positive, the function declines to the left and inclines to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is odd and <span class='clFormula'>$a_n$</span>
+is negative, the function inclines to the left and declines to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is even and <span class='clFormula'>$a_n$</span>
+is positive, the function inclines both to the left and to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is even and <span class='clFormula'>$a_n$</span>
+is negative, the function declines both to the left and to the right.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Leading coefficient</dt>
+<dd>The coefficient of the leading term.</dd>
+<dt>Leading term</dt>
+<dd>The term in a polynomial in which the independent variable is raised to the highest power.</dd>
+</dl>
+
+<h3>Leading Term, Leading Coefficient and Leading Test</h3>
+
+<p>All polynomial functions of first or higher order either increase or decrease indefinitely as <span class='clFormula'>$x$</span>
+values grow larger and smaller. It is possible to determine the end behavior (i.e. the behavior when <span class='clFormula'>$x$</span>
+tends to infinity) of a polynomial function without using a graph. Consider the polynomial function:</p>
+
+<div class='clFormula'>$f(x)=a_nx^n + a_{n-1}x^{n-1}+...+a_1x+a_0$</div>
+
+<p><span class='clFormula'>$a_nx^n$</span>
+ is called the <em>leading term</em> of <span class='clFormula'>$f(x)$</span>
+, while <span class='clFormula'>$a_n \not = 0$</span>
+is known as the leading coefficient. The properties of the leading term and leading coefficient indicate whether <span class='clFormula'>$f(x)$</span>
+increases or decreases continually as the <span class='clFormula'>$x$</span>
+-values approach positive and negative infinity:</p>
+<ul>
+<li>If <span class='clFormula'>$n$</span>
+is odd and <span class='clFormula'>$a_n$</span>
+is positive, the function declines to the left and inclines to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is odd and <span class='clFormula'>$a_n$</span>
+is negative, the function inclines to the left and declines to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is even and <span class='clFormula'>$a_n$</span>
+is positive, the function inclines both to the left and to the right.</li>
+<li>If <span class='clFormula'>$n$</span>
+is even and <span class='clFormula'>$a_n$</span>
+is negative, the function declines both to the left and to the right.</li>
+</ul>
+
+<h3>Examples</h3>
+
+<p>Consider the polynomial</p>
+
+<div class='clFormula'>$f(x) = \frac {x^3}{4} + \frac {3x^2}{4} - \frac {3x}{2} -2.$</div>
+
+<p>In the leading term, <span class='clFormula'>$a_n$</span>
+equals <span class='clFormula'>$\frac {1}{4}$</span>
+and <span class='clFormula'>$n$</span>
+equals <span class='clFormula'>$3$</span>
+. Because <span class='clFormula'>$n$</span>
+is odd and <span class='clFormula'>$a$</span>
+is positive, the graph declines to the left and inclines to the right. This can be seen on its graph below: </p>
+
+
+
+<a href='../images/0705.png'><img class='clImageThumb' src='../images/0705.png' alt='A polynomial of degree '></a>
+
+<div><b><i>A polynomial of degree <span class='clFormula'>$3$</span></i></b></div>
+<p>Graph of a polynomial with equation <span class='clFormula'>$f(x) = \frac {x^3}{4} + \frac {3x^2}{4} - \frac{3x}{2} - 2$</span>
+. Because the degree is odd and the leading coefficient  is positive, the function declines to the left and inclines to the right.</p>
+
+<p>Another example is the function </p>
+
+<div class='clFormula'>$g(x) = - \frac{1}{14} (x+4)(x+1)(x-1)(x-3) + \frac{1}{2}$</div>
+
+<p>which has <span class='clFormula'>$-\frac {x^4}{14}$</span>
+as its leading term and <span class='clFormula'>$- \frac{1}{14}$</span>
+as its leading coefficient. Thus <span class='clFormula'>$g(x)$</span>
+approaches negative infinity as <span class='clFormula'>$x$</span>
+approaches either positive or negative infinity; the graph declines both to the left and to the right as seen in the next figure:</p>
+
+
+
+<a href='../images/0706.png'><img class='clImageThumb' src='../images/0706.png' alt='A polynomial of degree 4'></a>
+
+<div><b><i>A polynomial of degree 4</i></b></div>
+<p>Graph of  <span class='clFormula'>$g(x) = - \frac{1}{14} (x+4)(x+1)(x-1)(x-3) + \frac{1}{2}$</span>
+. As the degree is even and the leading coefficient is negative, the function declines both to the left and to the right.</p>
+
+<h3>The Leading Test Explained</h3>
+
+<p>Intuitively, one can see why we need to look at the leading coefficient to see how a polynomial behaves at infinity: When <span class='clFormula'>$x$</span>
+is very big (in absolute value), then the highest degree term will be much bigger (in absolute value) than the other terms combined. For example <span class='clFormula'>$x - 1000$</span>
+differs a lot from <span class='clFormula'>$x$</span>
+when <span class='clFormula'>$x = 0$</span>
+or <span class='clFormula'>$1000$</span>
+, but (relatively) not when <span class='clFormula'>$x = 9999999999999$</span>
+or <span class='clFormula'>$-9999999999999999$</span>
+. Indeed, both functions can be described as "very big and positive" in the first point and "very big and negative" in the second.</p>
+<p>In general, when we have a polynomial </p>
+
+<div class='clFormula'>$f(x) = a_nx^n + \ldots + a_0$</div>
+
+<p>and the absolute value of <span class='clFormula'>$x$</span>
+is bigger than <span class='clFormula'>$MnK$</span>
+, where <span class='clFormula'>$M$</span>
+is the absolute value of the largest coefficient divided by the leading coefficient, <span class='clFormula'>$n$</span>
+is the degree of the polynomial and <span class='clFormula'>$K$</span>
+is a big number, then the absolute value of <span class='clFormula'>$a_nx^n$</span>
+will be bigger than <span class='clFormula'>$nK$</span>
+times the absolute value of any other term, and bigger than <span class='clFormula'>$K$</span>
+times the other terms combined! So when <span class='clFormula'>$x$</span>
+grows very large, <span class='clFormula'>$f(x)$</span>
+very much resembles its leading term <span class='clFormula'>$a_n x^n.$</span>
+This function grows very big as <span class='clFormula'>$x$</span>
+grows very big.</p>
+<p>Now <span class='clFormula'>$a_nx^n$</span>
+takes on the sign of <span class='clFormula'>$a_n$</span>
+if <span class='clFormula'>$x^n$</span>
+is positive, which happens if <span class='clFormula'>$x$</span>
+is positive or if <span class='clFormula'>$n$</span>
+is even, and the opposite sign of <span class='clFormula'>$a_n$</span>
+if <span class='clFormula'>$x^n$</span>
+is negative, which happens if <span class='clFormula'>$x$</span>
+is negative and <span class='clFormula'>$n$</span>
+is odd. (Notice that we do not care about <span class='clFormula'>$x = 0$</span>
+since we are only interested in very large <span class='clFormula'>$x.$</span>
+)</p>
+<p>Thus, <span class='clFormula'>$a_nx^n$</span>
+  (and thus <span class='clFormula'>$f(x)$</span>
+, in the neighborhood of infinity) goes up (as <span class='clFormula'>$x$</span>
+approaches infinity) if <span class='clFormula'>$a^n$</span>
+is positive and down if <span class='clFormula'>$a_n$</span>
+is negative. Except when <span class='clFormula'>$x$</span>
+is negative and <span class='clFormula'>$n$</span>
+is odd; then the opposite is true. </p>
+<h2 id='section_347'>7.3. Polynomial Division</h2>
+
+<h3 id='concept_71'>7.3.1. Introduction to Factoring Polynomials</h3>
+
+<blockquote>Factoring by grouping divides the terms in a polynomial into groups, which can be factored using the greatest common factor.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe what it means to factor a polynomial and why it is useful to do so</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Factorization or factoring is the decomposition of an object, for example an integer or a polynomial, into a product of other objects, or factors, which when multiplied together give the original.</li>
+<li>Factoring by grouping is done by placing the terms in the polynomial into two or more groups, where each group can be factored separately. The results of these factorizations can sometimes be combined to make an even more simplified expression.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by x.</dd>
+<dt>greatest common divisor</dt>
+<dd>The greatest common divisor of a set is the largest positive integer or polynomial that divides each of the numbers in the set without remainder.</dd>
+<dt>factorization</dt>
+<dd>An expression listing items that, when multiplied together, will produce a desired quantity.</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>For example, to factor the polynomial <span class='clFormula'>$4x^2 + 20x + 3yx + 15y$</span>
+, group similar terms, <span class='clFormula'>$(4x^2 + 20x) + (3yx + 15y)$</span>
+. Factor out the greatest common factor, <span class='clFormula'>$4x(x+5) + 3y(x+5)$</span>
+. Factor out the binomial <span class='clFormula'>$(x+5)(4x+3y)$</span>
+.</li>
+</ul>
+<p>A polynomial consists of a sum of monomials. However, sometimes it will be more useful to write a polynomial as a product of other polynomials with smaller degree, for example to study its zeros. The process of rewriting a polynomial as a product is called <em>factoring. </em></p>
+
+<h3>Factoring and Expanding Polynomials</h3>
+
+<p><em>Factoring</em> is the decomposition of an algebraic object, for example an integer or a polynomial, into a product of other objects, or <em>factors</em>, which when multiplied together give the original. As an example, the integer <span class='clFormula'>$15$</span>
+factors as <span class='clFormula'>$3 \cdot 5$</span>
+, and the polynomial <span class='clFormula'>$x^3 + 2x^2$</span>
+factors as <span class='clFormula'>$x^2(x+2)$</span>
+. In all cases, a product of simpler objects than the original (smaller integers, or polynomials of smaller degree) is obtained. </p>
+<p>For example: </p>
+
+<div class='clFormula'>$\begin{align}3x^3-2x^2-3xy^2+2y^2 &amp;= (3x-2)x^2 + (2-3x)y^2 &#10;\\ &amp; = (3x-2)(x^2-y^2)&#10;\\ &amp; = (3x-2)(x+y)(x-y)&#10;\end{align}$</div>
+
+<p>is a factorization of a polynomial of degree <span class='clFormula'>$3$</span>
+into <span class='clFormula'>$3$</span>
+polynomials of degree <span class='clFormula'>$1$</span>
+. </p>
+<p>The aim of factoring is  to reduce objects to "basic building blocks", such as integers to prime numbers, or polynomials to irreducible polynomials. (These are polynomials which cannot be factored non-trivially.)  </p>
+<p>The inverse procedure of polynomial factorization is expansion, which is just explicitly writing out the multiplication of two or more factors, for example:</p>
+
+<div class='clFormula'>$(x^3-2x+5y)(2x^4-3) = 2x^7 - 4x^5 +10x^4y - 3x^3+  6x-15y&#10;$</div>
+
+
+<h3>Example: Factoring by Grouping</h3>
+
+<p>One way to factor polynomials is factoring by grouping. This is done by grouping the terms in the polynomial into two or more groups in such a way that each group can be factored separately. The results of these factorizations can sometimes be combined to make an even more simplified expression. For example, to factor the polynomial <span class='clFormula'>$4x^2+20x+3yx+15y$</span>
+, we can factor the terms with <span class='clFormula'>$y$</span>
+and those without <span class='clFormula'>$y$</span>
+separately:</p>
+
+<div class='clFormula'>$(4x^2+20x)+(3yx+15y)$</div>
+
+<p>As both terms in the left expression are divisible by <span class='clFormula'>$4x$</span>
+and both terms in the right expression are divisible by <span class='clFormula'>$3y$</span>
+we can again rewrite this as:</p>
+
+<div class='clFormula'>$4x(x+5)+3y(x+5)$</div>
+
+<p>Both groups share the same factor <span class='clFormula'>$(x+5)$</span>
+, so the polynomial is factored as:</p>
+
+<div class='clFormula'>$(x+5)(4x+3y)$</div>
+
+<p>Sometimes, when factoring a polynomial in two or more variables, this last step is not possible and we have to content ourselves with having two or more terms which are each factorized themselves:</p>
+
+<div class='clFormula'>$\begin{align}&#10;x^2 + 2x + y^2 - 2y + 2 &amp; = (x^2 + 2x + 1) + (y^2 - 2y + 1)&#10;\\ &amp; = (x+1)^2 + (y -1)^2.&#10;\end{align}$</div>
+
+
+<h3 id='concept_148'>7.3.2. Division and Factors</h3>
+
+<blockquote>Polynomial long division functions similarly to long division, and if the division leaves no remainder, then the divisor is called a factor.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use polynomial division to find additional factors of a polynomial</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Dividing one polynomial by another can be achieved by using long division. The rules for polynomial long division are the same as the rules learned for long division of integers.</li>
+<li>The four steps of long division are divide, multiply, subtract, and bring down.</li>
+<li>After completing polynomial long division, it is good to check the answers, either by plugging in a number or by multiplying the quotient times the divisor to get the dividend back.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>quotient</dt>
+<dd>The number resulting from the division of one number or expression by another.</dd>
+<dt>divisor</dt>
+<dd>An integer that divides another integer an integral number of times.</dd>
+<dt>dividend</dt>
+<dd>A number or expression that is to be divided by another.</dd>
+</dl>
+
+<h3>Long Division with Integers</h3>
+
+<p>Suppose you are given positive integers <span class='clFormula'>$D$</span>
+and  <span class='clFormula'>$d$</span>
+. We want to find integers <span class='clFormula'>$q$</span>
+and <span class='clFormula'>$r$</span>
+such that <span class='clFormula'>$0 \leq r &lt; d$</span>
+and <span class='clFormula'>$D = qd+r.$</span>
+This we can do with long division, which we all learned to do in elementary school. </p>
+<p>To refresh our memory, we divide <span class='clFormula'>$\frac{745}{13}$</span>
+by hand. We write the numbers down like this:</p>
+
+<div class='clFormula'>$\underline{5 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ 13|745$</div>
+
+<p>As <span class='clFormula'>$7$</span>
+is smaller than <span class='clFormula'>$13$</span>
+, we group the first two digits together and we see that: <span class='clFormula'>$5\cdot 13 = 65 \leq 74 &lt; 78 = 6\cdot 13 $</span></p>
+<p>So we write down a five as our first digit of <span class='clFormula'>$q$</span>
+and subtract <span class='clFormula'>$65$</span>
+from <span class='clFormula'>$74:$</span></p>
+
+<div class='clFormula'>$\underline{ \ 5 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \begin{align}13|&amp;745&#10;\\    -&amp;65&#10;\\  &amp;\ \ 95&#10;\end{align}$</div>
+
+<p>We now group the remaining two digits and see that <span class='clFormula'>$7 \cdot 13 = 91 \leq 95 &lt; 104 = 8 \cdot 13$</span></p>
+<p>So the second digit of <span class='clFormula'>$q$</span>
+is <span class='clFormula'>$8$</span>
+and we subtract <span class='clFormula'>$91$</span>
+from <span class='clFormula'>$95$</span>
+to obtain <span class='clFormula'>$4$</span>
+. As <span class='clFormula'>$4$</span>
+is smaller than <span class='clFormula'>$13$</span>
+, we cannot repeat this procedure and we have found that <span class='clFormula'>$q = 58, r = 4.$</span>
+So <span class='clFormula'>$745$</span>
+contains <span class='clFormula'>$58$</span>
+copies of <span class='clFormula'>$13$</span>
+, and another copy of <span class='clFormula'>$4.$</span></p>
+
+<div class='clFormula'>$\underline{ \ 58 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \begin{align}13|&amp;745&#10;\\    -&amp;65&#10;\\  &amp;\ \ 95&#10;\\  - &amp; \ \ 91&#10;\\ &amp; \ \ \ \ 4&#10;\end{align}$</div>
+
+
+<h3>Dividing Polynomials with Long Division</h3>
+
+<p>The beauty of long division is that the algorithm can be used not for integers only, but also for polynomials. </p>
+<p>Here we think about a larger polynomial as one with a higher degree. So given two polynomials <span class='clFormula'>$D(x)$</span>
+(the<em> dividend</em>) and <span class='clFormula'>$d(x)$</span>
+(the <em>divisor</em>), we are looking for two polynomials <span class='clFormula'>$q(x)$</span>
+(the <em>quotient</em>) and <span class='clFormula'>$r(x)$</span>
+(the <span class='clFormula'>$remainder)$</span>
+such that <span class='clFormula'>$D(x) = d(x)q(x) + r(x)$</span>
+and the degree of <span class='clFormula'>$r(x)$</span>
+is strictly smaller than the degree of <span class='clFormula'>$d(x).$</span></p>
+<p>Conceptually, we want to see how many copies of <span class='clFormula'>$d(x)$</span>
+are contained in <span class='clFormula'>$D(x)$</span>
+(this is the quotient) and then how far <span class='clFormula'>$D(x)$</span>
+is away from being a multiple of <span class='clFormula'>$d(x)$</span>
+(this is the remainder).</p>
+<p> For example, suppose we want to divide <span class='clFormula'>$6x^3-8x^2+4x-2$</span>
+by <span class='clFormula'>$2x-4$</span>
+:</p>
+
+<div class='clFormula'>$\underline{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ 2x-4|6x^3-8x^2+4x-2$</div>
+
+<p>We look at the highest degree terms and we see that <span class='clFormula'>$6x^3=2x\cdot3x^2$</span>
+. So we write down a <span class='clFormula'>$3x^2$</span>
+, multiply the divisor with this result and subtract this from the dividend:</p>
+
+<div class='clFormula'>$\underline{\ \ \ \ \ \ \ 3x^2 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ 2x-4|6x^3-8x^2+4x-2&#10;\\ \ \ \ \ \  - \ \ 6x^3 -12x^2&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 4x^2+4x-2$</div>
+
+<p>Again looking at the highest degree terms, we see that <span class='clFormula'>$4x^2 = 2x\cdot2x$</span>
+, so we write down <span class='clFormula'>$2x$</span>
+as the second term in the quotient and proceed as before:</p>
+
+<div class='clFormula'>$\underline{\ \ \ \ \ \ \ 3x^2 +2x \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ 2x-4|6x^3-8x^2+4x-2&#10;\\ \ \ \ \ \  - \ \ 6x^3 -12x^2&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 4x^2+4x-2&#10;\\ \ \ \ \ \  - \ \ \ \ \ \ \ \ \ \ \ \ \  4x^2 - 8x&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 12x-2$</div>
+
+<p>As <span class='clFormula'>$12x = 2x\cdot 6$</span>
+, our next term will be <span class='clFormula'>$6:$</span></p>
+
+<div class='clFormula'>$\underline{\ \ \ \ \ \ \ 3x^2 +2x +6 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ 2x-4|6x^3-8x^2+4x-2&#10;\\ \ \ \ \ \  - \ \ 6x^3 -12x^2&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 4x^2+4x-2&#10;\\ \ \ \ \ \  - \ \ \ \ \ \ \ \ \ \ \ \ \  4x^2 - 8x&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 12x-2&#10;\\ \ \ \ \ \  - \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 12x - 24&#10;\\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 22$</div>
+
+<p>As multiplying any polynomial with the divisor <span class='clFormula'>$2x-4$</span>
+gets us a polynomial of degree greater than <span class='clFormula'>$0$</span>
+, we cannot divide any further. We see that the quotient <span class='clFormula'>$q(x)$</span><span class='clFormula'>$3x^2+2x+6$</span>
+and the remainder <span class='clFormula'>$r(x)$</span>
+is <span class='clFormula'>$22$</span>
+, so</p>
+<p><span class='clFormula'>$6x^3-8x^2+4x-2 = (2x-4)(3x^2+2x+6) + 22$</span>
+. </p>
+
+<h3>Zero Remainders and Factors</h3>
+
+<p>If the remainder <span class='clFormula'>$r(x)$</span>
+equals <span class='clFormula'>$0$</span>
+, we also say that there is no remainder and do not explicitly write out the <span class='clFormula'>$0$</span>
+. This means that <span class='clFormula'>$D(x)=d(x)q(x)$</span>
+: the dividend is a multiple of the divisor, or the divisor is said to <span class='clFormula'>$$</span><em>divide</em> the dividend. We say that the divisor is a <em>factor</em> of the dividend. (Of course, the quotient will also be a factor.)</p>
+
+<h3>
+<span class='clFormula'>$$</span>
+Checking Your Results</h3>
+
+<p>If you have enough time to check your results, it is always wise to do so. The best way to do this is to explicitly work out the equation </p>
+<p><span class='clFormula'>$D(x) = d(x)q(x)+r(x)$</span>
+.</p>
+<p>Another way is to check this equation for only one value of <span class='clFormula'>$x$</span>
+.</p>
+
+<h3 id='concept_149'>7.3.3. The Remainder Theorem and Synthetic Division</h3>
+
+<blockquote>Synthetic division is a technique for dividing a polynomial and finding the quotient and remainder.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use synthetic division to divide a polynomial</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Synthetic division is most commonly applied when dividing by a monomial such as <span class='clFormula'>$x-a$</span>
+.</li>
+<li>The most useful aspects of synthetic division are that it allows one to calculate without writing variables and uses fewer calculations.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by <equation>$x$</equation>.</dd>
+<dt>remainder</dt>
+<dd>The amount left over after subtracting the divisor as many times as possible from the dividend without producing a negative result. If (dividend) and <equation>$d$</equation> (divisor) are integers, then can always be expressed in the form <equation>$n = dq + r$</equation>, where <equation>$q$</equation>  (quotient) and <equation>$r$</equation> (remainder) are also integers and <equation>$0 \leq r \leq d$</equation> .</dd>
+</dl>
+
+<h3>The Remainder Theorem</h3>
+
+<p>In algebra, the polynomial remainder theorem or little Bézout's theorem, is an application of polynomial long division. It states that the remainder of a polynomial  <span class='clFormula'>$f(x)$</span>
+divided by a linear divisor <span class='clFormula'>$(x-a)$</span>
+is equal to <span class='clFormula'>$f(a)$</span>
+.</p>
+<p>For example, take the polynomial:</p>
+<p> <span class='clFormula'>$f(x)=x^3-12x^2-42$</span>
+ </p>
+<p> Then divide it by <span class='clFormula'>$x-3$</span>
+. </p>
+<p>This gives the quotient <span class='clFormula'>$x^2-9x-27$</span>
+and the remainder <span class='clFormula'>$-123$</span>
+. Therefore, <span class='clFormula'>$f(3)=-123$</span>
+. We can check this by plugging <span class='clFormula'>$3$</span>
+into the equation, which yields:</p>
+
+<div class='clFormula'>$\begin{align}&#10;3^3 - 12\cdot 3^2 - 42 &amp;= 27-108-42&#10;\\ &amp;= -123&#10;\end{align}$</div>
+
+<p>In particular, <span class='clFormula'>$f(a)=0$</span>
+if and only if <span class='clFormula'>$(x-a)$</span>
+divides <span class='clFormula'>$f(x).$</span></p>
+
+<h3>Synthetic division</h3>
+
+<p>To use the remainder theorem, one must first perform division, which is a bit of work. A shorthand way to perform long division is synthetic division. It uses less writing and fewer calculations. It also takes significantly less space than long division. Most importantly, the subtractions in long division are converted to additions by switching the signs at the very beginning, preventing sign errors. Synthetic division only works for  polynomials divided by linear expressions with a leading coefficient equal to <span class='clFormula'>$1.$</span>
+ </p>
+<p>Let's use synthetic division to solve the example above <span class='clFormula'>$f(x)=x^3-12x^2-42 $</span>
+ divided by <span class='clFormula'>$x-3$</span>
+: </p>
+<p>We start by writing down the coefficients from the dividend and the negative second coefficient of the divisor. Note that we explicitly write out all zero terms!</p>
+
+<div class='clFormula'>$\ \ |1 \ -12 \  0 \ -42&#10;\\ 3   |\underline{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \ \ |&#10;$</div>
+
+<p>Bring down the first coefficient and multiply it by the divisor. Place the resulting <span class='clFormula'>$3$</span>
+ under the <span class='clFormula'>$-12$</span>
+.</p>
+
+<div class='clFormula'>$\ \ |1 \ -12 \  0 \ -42&#10;\\ 3   |\underline{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \ \ |1$</div>
+
+<p>Then add the next column of coefficients, get the result and multiply that by the divisor to find the third coefficient <span class='clFormula'>$-27$</span>
+:</p>
+
+<div class='clFormula'>$$</span><span class='clFormula'>$\ \ |1 \ -12 \  0 \ -42&#10;\\ 3   |\underline{\ \ \ \ \ \ \ \ \ 3 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \ \ |1 \ \ \ - 9$</div>
+
+
+<div class='clFormula'>$\ \ |1 \ -12 \ \ \ \ \  0 \ -42&#10;\\ 3   |\underline{\ \ \ \ \ \ \ \ \ 3 \ - 27 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \ \ |1 \ \ \ -9 \ - 27$</div>
+
+<p>So the quotient must be the second degree polynomial <span class='clFormula'>$x^2 - 9x - 27$</span>
+. Now we can also see what the remainder is, just by repeating the procedure:</p>
+
+<div class='clFormula'>$\ \ |1 \ -12 \ \ \ \ \  0 \ -42&#10;\\ 3   |\underline{\ \ \ \ \ \ \ \ \ 3 \ - 27 \ -81 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }&#10;\\ \ \ |1 \ \ \ - 9 \ - 27 \ \textcolor{red}{-123}$</div>
+
+<p>In particular, the number we write on the left is a root of the upper polynomial if and only if the last number we obtain is <span class='clFormula'>$0$</span>
+. </p>
+<p>A special case of this is when the left number is <span class='clFormula'>$1$</span>
+: then the last number equals the sum of all coefficients! Thus <span class='clFormula'>$1$</span>
+is a zero of a polynomial if and only if its coefficients add to <span class='clFormula'>$0.$</span></p>
+
+<h3>Other Leading Coefficients</h3>
+
+<p>When we divide by <span class='clFormula'>$ax-b$</span>
+and <span class='clFormula'>$a \not = 1$</span>
+, we can divide by <span class='clFormula'>$(x-b/a)$</span>
+and then divide the result by <span class='clFormula'>$a$</span>
+. This way we can still use synthetic division.</p>
+
+<h3 id='concept_150'>7.3.4. Finding Factors of Polynomials</h3>
+
+<blockquote>Finding factors of polynomials is important, since it is always best to work with the simplest version of a polynomial.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice the different methods for finding the factors of a polynomial</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Factoring is a critical skill in simplifying functions and solving equations.</li>
+<li>There are four types of factoring shown, which are 1) "pulling out" common factors, 2) factoring perfect squares, 3) the difference between two squares, and then 4) how to factor when the other three techniques are not applicable.</li>
+<li>The first step should always be "pulling out" common factors. Even if this does not factor out the polynomial completely, this will make the rest of the process much easier.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>common factor</dt>
+<dd>A value, variable or combination of the two that is common to all terms of a polynomial.</dd>
+<dt>factor</dt>
+<dd>To express a mathematical quantity as a product of two or more like quantities.</dd>
+</dl>
+
+<p>When multiplying, things are put together. When factoring, things are pulled apart. Factoring is a critical skill in simplifying functions and solving equations.</p>
+<p>There are four basic types of factoring. In each case, it is beneficial to start by showing a multiplication problem, and then show how to use factoring to reverse the results of that multiplication.</p>
+
+<h3>"Pulling Out" Common Factors</h3>
+
+<p>This type of factoring is based on the distributive property, which states: </p>
+
+<div class='clFormula'>$2x(4x^2-7x+3)=8x^3-14x^2+6x$</div>
+
+<p>When factoring, this property is done in reverse. Therefore, starting with an expression such as the one above, it can be noted that every one of those terms is divisible by <span class='clFormula'>$2$</span>
+. Also, every one of those terms is divisible by <span class='clFormula'>$x$</span>
+. Henc, one can "factor out," or "pull out," <span class='clFormula'>$2x$</span>
+.</p>
+
+<div class='clFormula'>$8x^3-14x^2+6x=2x(? { } - ? { } + ? { } ).$</div>
+
+<p>We now divide each term with this common factor to fill in the blanks. For instance, <span class='clFormula'>$8x^3$</span>
+divided by <span class='clFormula'>$2x$</span>
+equals <span class='clFormula'>$4x^2$</span>
+. Doing this for each term, we obtain:</p>
+
+<div class='clFormula'>$8x^3-14x^2+6x=2x(4x^2-7x+3 ).$</div>
+
+<p>For many types of problems, it is easier to work with this factored form.</p>
+<p>As another example, consider <span class='clFormula'>$6x+3$</span>
+. The common factor is <span class='clFormula'>$3$</span>
+. When factoring <span class='clFormula'>$3$</span>
+from <span class='clFormula'>$6x$</span>
+, <span class='clFormula'>$2x$</span>
+is left. When factoring <span class='clFormula'>$3$</span>
+out of <span class='clFormula'>$3$</span>
+, <span class='clFormula'>$1$</span>
+remains:</p>
+<p><span class='clFormula'>$6x+3=3(2x+1)$</span>
+.</p>
+<p>There are two key points to understand about this kind of factoring:</p>
+
+<ol>
+<li>This is the simplest kind of factoring. Whenever trying to factor a complicated expression, always begin by looking for common factors that can be pulled out.</li>
+<li>The factor must be common to all the terms. For instance, <span class='clFormula'>$8x^3-14x^2+6x+7$</span>
+8 has no common factor, since the last term, <span class='clFormula'>$7$</span>
+, is not divisible by <span class='clFormula'>$2$</span>
+or <span class='clFormula'>$x$</span>
+.</li>
+</ol>
+
+<h3>Perfect Squares</h3>
+
+<p>The second type of factoring is based on the "squaring" formulae:</p>
+
+<div class='clFormula'>$(x+a)^2=x^2+2ax+a^2$</div>
+
+
+<div class='clFormula'>$(x-a)^2=x^2-2ax+a^2$</div>
+
+<p>For instance, if the problem is <span class='clFormula'>$x^2 + 6x + 9$</span>
+, then one may recognize the signature of the first formula: the middle term is three doubled, and the last term is three squared. Thus, this simplifies to <span class='clFormula'>$(x+3)^2$</span>
+. Other examples are</p>
+
+<div class='clFormula'>$x^2+10x+25=(x+5)^2$</div>
+
+
+<div class='clFormula'>$x^2+2x+1=(x+1)^2$</div>
+
+<p>If the middle term is negative, then the second formula is:</p>
+
+<div class='clFormula'>$x^2-8x+16=(x-4)^2$</div>
+
+
+<div class='clFormula'>$x^2-14x=49=(x-7)^2$</div>
+
+<p>This type of factoring only works in this specific case: the middle number is something doubled, and the last number is that same value squared. Furthermore, although the middle term can be either positive or negative, the last term cannot be negative. This is because if a negative is squared, the answer is positive. </p>
+<p>To use this method of factoring, one must keep their eyes open to recognize the pattern. The best way to do this is practice.</p>
+
+<h3>Difference Between Two Squares</h3>
+
+<p>The third type of factoring is based on the third of the basic formulae:</p>
+
+<div class='clFormula'>$(x+a)(x-a)=x^2-a^2$</div>
+
+<p>This formula can be run in reverse whenever subtracting two perfect squares. For instance, if there is <span class='clFormula'>$x^2-25$</span>
+, it can be seen that both <span class='clFormula'>$x^2$</span>
+and <span class='clFormula'>$25$</span>
+are perfect squares. Therefore it factors as <span class='clFormula'>$(x+5)(x-5)$</span>
+. Other examples include:</p>
+
+<div class='clFormula'>$x^2-64=(x+8)(x-8)$</div>
+
+
+<div class='clFormula'>$16y^2-49=(4y+7)(4y-7)$</div>
+
+
+<div class='clFormula'>$2x^2-18=2(x^2-9)=2(x+3)(x-3)$</div>
+
+<p>Note that, in the last example, the first step is done by pulling out a factor <span class='clFormula'>$2$</span>
+, and there are two perfect squares left. This follows the rule: always begin by pulling out common factors before trying anything else.</p>
+<p>Note also that when we are working with real numbers, all positive numbers are squares. So </p>
+<p><span class='clFormula'>$x^2 - 3 = (x+\sqrt{3})(x-\sqrt{3})$</span>
+.</p>
+<p>It often happens that we can use this method twice (or more):</p>
+
+<div class='clFormula'>$\begin{align}&#10;x^4-81 &amp; = (x^2 + 9)(x^2-9)&#10;\\ &amp; = (x^2 + 9)(x+3)(x-3).&#10;\end{align}$</div>
+
+<p>It is  important to note that the sum of two squares cannot be factored. </p>
+<p>As in the case of factoring a perfect square, to use this method one has to keep their eyes open to notice the pattern.</p>
+
+<h3>Brute Force Factoring</h3>
+
+<p>This is the hardest way to factor a polynomial, but the one we need to use when the other ones do not suffice.</p>
+<p>In general, we can multiply any number of polynomials with any number of terms using the distributive property. </p>
+<p>To see how to use this for factoring, we again try to notice a pattern. For example, we have:</p>
+
+<div class='clFormula'>$x^2+3x+7x+21=(x+3)(x+7)$</div>
+
+<p>Since
+<span class='clFormula'>$3+7 = 10$</span>
+and <span class='clFormula'>$3 \cdot 7 = 21$</span>
+.</p>
+<p>In general:</p>
+
+<div class='clFormula'>$x^2 + (a+b)x + ab = (x+a) (x+b)$</div>
+
+<p>Or, of course:</p>
+
+<div class='clFormula'>$z^4 + (c-d)z^2 -cd = (z^2+c)(z^2-d)$</div>
+
+<p>which we can factor again by the previous method if <span class='clFormula'>$-c$</span>
+or <span class='clFormula'>$d$</span>
+are positive.</p>
+<p>Especially when we think <span class='clFormula'>$a$</span>
+and <span class='clFormula'>$b$</span>
+are integers, the best tactic to do this is checking for positive and negative factors of the last term, since there are only a limited number of them.</p>
+<h2 id='section_348'>7.4. Zeroes of Polynomial Functions</h2>
+
+<h3 id='concept_151'>7.4.1. The Fundamental Theorem of Algebra</h3>
+
+<blockquote>The fundamental theorem states that every non-constant, single-variable polynomial with complex coefficients has at least one complex root.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the fundamental theorem of algebra</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The fundamental theorem of algebra states that every non-constant, single-variable polynomial with complex coefficients has at least one complex root. This includes polynomials with real coefficients, since every real number is a complex number with zero as its coefficient.</li>
+<li>The fundamental theorem is also stated as follows: every non-zero, single-variable, degree <span class='clFormula'>$n$</span>
+polynomial with complex coefficients has, counted with multiplicity, exactly <span class='clFormula'>$n$</span>
+roots. The equivalence of the two statements can be proven through the use of successive polynomial division.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>multiplicity</dt>
+<dd>the number of values for which a given condition holds</dd>
+</dl>
+
+<p>Some polynomials with real coefficients, like <span class='clFormula'>$x^2 + 1$</span>
+, have no real zeros. As it turns out, every polynomial with a complex coefficient has a complex zero. Every polynomial of odd degree with real coefficients has a real zero.</p>
+
+<h3>The Fundamental Theorem</h3>
+
+<p>The <em>fundamental theorem of algebra</em> says that every non-constant polynomial in a single variable <span class='clFormula'>$z$</span>
+, so any polynomial of the form</p>
+
+<div class='clFormula'>$c_nx^n + c_{n-1}x^{n-1} + \ldots c_0$</div>
+
+<p>where <span class='clFormula'>$n &gt; 0$</span>
+and <span class='clFormula'>$c_n \not = 0$</span>
+, has at least one complex root. </p>
+<p>There are lots of proofs of the fundamental theorem of algebra. However, despite its name, no purely algebraic proof exists, since every proof makes use of the fact that <span class='clFormula'>$\mathbb{C}$</span>
+is complete. </p>
+<p>In particular, since every real number is also a complex number, every polynomial with real coefficients does admit a complex root. For example, the polynomial <span class='clFormula'>$x^2 + 1$</span>
+has <span class='clFormula'>$i$</span>
+as a root.</p>
+
+<h3>Alternative Statement</h3>
+
+<p>Saying that <span class='clFormula'>$x_0$</span>
+is a root of a polynomial <span class='clFormula'>$f(x)$</span>
+is the same as saying that <span class='clFormula'>$(x-x_0)$</span>
+divides <span class='clFormula'>$f(x).$</span>
+We say that a root <span class='clFormula'>$x_0$</span>
+has <em>multiplicity</em> <span class='clFormula'>$m$</span>
+if <span class='clFormula'>$(x-x_0)^m$</span>
+divides <span class='clFormula'>$f(x)$</span>
+but <span class='clFormula'>$(x-x_0)^{m+1}$</span>
+does not. For example, the polynomial </p>
+
+<div class='clFormula'>$x^4(x-i)^3(x+\pi)$</div>
+
+<p>admits one complex root of multiplicity <span class='clFormula'>$4$</span>
+, namely <span class='clFormula'>$x_0 = 0$</span>
+, one complex root of multiplicity <span class='clFormula'>$3$</span>
+, namely <span class='clFormula'>$x_1 = i$</span>
+, and one complex root of multiplicity <span class='clFormula'>$1$</span>
+, namely <span class='clFormula'>$x_2 = - \pi$</span>
+. The sum of the multiplicity of the roots equals the degree of the polynomial, <span class='clFormula'>$8$</span>
+. For non-zero complex polynomials, this turns out to be true in general and follows directly from the fundamental theorem of algebra. </p>
+<p>Indeed, a polynomial of degree <span class='clFormula'>$0$</span>
+takes on the form <span class='clFormula'>$c_0$</span>
+, where <span class='clFormula'>$c_0 \not = 0$</span>
+, and thus has no zeros.</p>
+<p>For a general polynomial <span class='clFormula'>$f(x)$</span>
+of degree <span class='clFormula'>$n$</span>
+, the fundamental theorem of algebra says that we can find one root <span class='clFormula'>$x_0$</span>
+of <span class='clFormula'>$f(x)$</span>
+. Thus we can factor <span class='clFormula'>$f(x)$</span>
+as</p>
+
+<div class='clFormula'>$f(x) = (x-x_0)f_1(x)$</div>
+
+<p>where <span class='clFormula'>$f_1(x)$</span>
+is a non-zero polynomial of degree <span class='clFormula'>$n-1.$</span>
+So if the multiplicities of the roots of <span class='clFormula'>$f_1(x)$</span>
+add to <span class='clFormula'>$n-1$</span>
+, the multiplicity of the roots of <span class='clFormula'>$f$</span>
+add to <span class='clFormula'>$n$</span>
+. </p>
+<p>So since the property is true for all polynomials of degree <span class='clFormula'>$0$</span>
+, it is also true for all polynomials of degree <span class='clFormula'>$1$</span>
+. And since it is true for all polynomials of degree <span class='clFormula'>$1$</span>
+, it is also true for all polynomials of degree <span class='clFormula'>$2$</span>
+. In general, for any <span class='clFormula'>$n \in \mathbb{N}$</span>
+, we will be able to conclude that the property is true for all polynomials of degree <span class='clFormula'>$n.$</span>
+Thus the property is true for all polynomials.</p>
+<p>Conversely, if the multiplicities of the roots of a polynomial add to its degree, and if its degree is at least <span class='clFormula'>$1$</span>
+(i.e. it is not constant), then it follows that it has at least one zero.</p>
+<p>So an alternative statement of the fundamental theorem of algebra is:</p>
+<p>
+<em>The multiplicities of the complex roots of a nonzero polynomial with complex coefficients add to the degree of said polynomial.</em>
+</p>
+
+<h3>The Complex Conjugate Root Theorem</h3>
+
+<p>The complex conjugate<em> root theorem</em> says that if a complex number <span class='clFormula'>$a+bi$</span>
+is a zero of a polynomial with real coefficients, then its complex conjugate <span class='clFormula'>$a-bi$</span>
+is also a zero of this polynomial.</p>
+<p>Now suppose our real polynomial admits a root <span class='clFormula'>$a+bi$</span>
+with <span class='clFormula'>$b \not = 0$</span>
+. By dividing with the real polynomial<span class='clFormula'>$(x-(a+bi))(x-(a-bi))=(x-a)^2 +b^2$</span>
+, we obtain another real polynomial, for which the complex conjugate root theorem again applies. In this way, we see that <em>the total multiplicity of non-real complex roots of a polynomial with real coefficients must always be even</em>. </p>
+<p>This last remark, together with the alternative statement of the fundamental theorem of algebra, tells us that the parity of the real roots (counted with multiplicity) of a polynomial with real coefficients must be the same as the parity of the degree of said polynomial. Therefore, a polynomial of even degree admits an even number of real roots, and a polynomial of odd degree admits an odd number of real roots (counted with multiplicity). In particular, <em>every polynomial of odd degree with real coefficients admits at least one real root.</em><span class='clFormula'>$$</span></p>
+
+<h3 id='concept_152'>7.4.2. Finding Polynomials with Given Zeros</h3>
+
+<blockquote>To construct a polynomial from given zeros, set <span class='clFormula'>$x$</span>
+equal to each zero, move everything to one side, then multiply each resulting equation.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the zeros of a polynomial to write a polynomial with those zeros</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A polynomial constructed from <span class='clFormula'>$n$</span>
+roots will have degree <span class='clFormula'>$n$</span>
+or less. That is to say, if given three roots, then the highest exponential term needed will be <span class='clFormula'>$x^3$</span>
+.</li>
+<li>Each zero given will end up being one term of the factored polynomial. After finding all the factored terms, simply multiply them together to obtain the whole polynomial.</li>
+<li>Because a polynomial and a polynomial multiplied by a constant have the same roots, every time a polynomial is constructed from given zeros, the general solution includes a constant, shown here as <span class='clFormula'>$c$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>polynomial</dt>
+<dd>An expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by <equation>$x$</equation>.</dd>
+<dt>zero</dt>
+<dd>Also known as a root, a zero is an <equation>$x$</equation> value at which the function of <equation>$x$</equation>  is equal to <equation>$0$</equation>.</dd>
+</dl>
+
+<p>One type of problem is to generate a polynomial from given zeros. This can be solved using the property that if <span class='clFormula'>$x_0$</span>
+is a zero of a polynomial, then <span class='clFormula'>$(x-x_0)$</span>
+is a divisor of this polynomial and vice versa. </p>
+<p>We assume that the problem statement is as follows: We are given some zeros. If it is not specified what the multiplicity of the zeros are, we want the zeros to have multiplicity one. There are no other zeros, i.e. if a number is not mentioned in the problem statement, it cannot be a zero of the polynomial we find.</p>
+
+<h3>Degree of the Polynomial</h3>
+
+<p>Remember that the degree of a polynomial, the highest exponent, dictates the maximum number of roots it can have. Thus, the degree of a polynomial with a given number of roots is equal to or greater than the number of roots that are given. If we already count multiplicity in this number, than the degree equals the number of roots. For example, if we are given two zeros, then a polynomial of second degree needs to be constructed.</p>
+
+<h3>Solution and Constants</h3>
+
+<p>If <span class='clFormula'>$x_1, x_2, \ldots x_n$</span>
+are the zeros of <span class='clFormula'>$f(x)$</span>
+and the leading coefficient of <span class='clFormula'>$f(x)$</span>
+is <span class='clFormula'>$1$</span>
+, then <span class='clFormula'>$f(x)$</span>
+factorizes as</p>
+
+<div class='clFormula'>$f(x)=(x-x_1)(x-x_2)\cdots(x-x_n)$</div>
+
+<p>This already gives us the solution of our problem: an answer to our question is just the product of all factors <span class='clFormula'>$(x-x_i)$</span>
+, where the <span class='clFormula'>$x_i$</span>
+are the given zeros! However, we see that this polynomial is not unique:</p>
+<p>For any nonzero constant <span class='clFormula'>$a$</span>
+, we have that <span class='clFormula'>$(af)(x)=af(x)$</span>
+factorizes as</p>
+
+<div class='clFormula'>$af(x) = a(x-x_1)(x-x_2) \cdots (x-x_n)$</div>
+
+<p>Thus if we find a solution <span class='clFormula'>$g(x)$</span>
+for our problem, we have actually found infinitely many solutions <span class='clFormula'>$cg(x)$</span>
+, one for every non-zero number <span class='clFormula'>$c$</span>
+. </p>
+<p>Thus for given zeros <span class='clFormula'>$x_1, x_2, \ldots, x_n$</span>
+we find infinitely many solutions</p>
+
+<div class='clFormula'>$c(x-x_1)(x-x_2)\cdots (x-x_n)$</div>
+
+<p> For example, if given <span class='clFormula'>$a$</span>
+and <span class='clFormula'>$b$</span>
+as zeros, then the resulting initial terms would be a constant <span class='clFormula'>$c$</span>
+times the two factors that give zeros at the appropriate place:</p>
+
+<div class='clFormula'>$c(x-a)(x-b)$</div>
+
+<p>Multiplied out, this gives:</p>
+
+<div class='clFormula'>$cx^2-c(a+b)x+abc$</div>
+
+
+<h3>Example</h3>
+
+<p>Given zeros <span class='clFormula'>$0$</span>
+, <span class='clFormula'>$1$</span>
+, and <span class='clFormula'>$2$</span>
+, our general solution is of the form </p>
+
+<div class='clFormula'>$cx(x-1)(x-2) = cx^3 - 3cx^2 + 2cx$</div>
+
+<p>In the picture below, the blue graph represents the solution for <span class='clFormula'>$c$</span>
+equal to <span class='clFormula'>$1$</span>
+. The red graph represents the solution for <span class='clFormula'>$c$</span>
+equal to <span class='clFormula'>$-1/2$</span>
+.</p>
+
+
+
+<a href='../images/0707.png'><img class='clImageThumb' src='../images/0707.png' alt='Example'></a>
+
+<div><b><i>Example</i></b></div>
+<p>Two polynomials with the same zeros: Both <span class='clFormula'>$f(x)$</span>
+and <span class='clFormula'>$g(x)$</span>
+have zeros <span class='clFormula'>$0, 1$</span>
+and <span class='clFormula'>$2$</span>
+. They are equal up to a constant. Changing the value and sign of the constant does not change the zeroes, since zero multiplied by any constant is still zero. The red graph decreases from infinity, has a local minimum, increases to a local maximum, then decreases to negative infinity. The blue graph increases from negative infinity, reaches a local maximum, decreases to a local minimum, then increases to infinity.</p>
+
+<h3 id='concept_144'>7.4.3. Finding Zeros of Factored Polynomials</h3>
+
+<blockquote>The factored form of a polynomial reveals its zeros, which are defined as points where the function touches the <span class='clFormula'>$x$</span>
+-axis.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the factored form of a polynomial to find its zeros</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A polynomial function may have zero, one, or many zeros.</li>
+<li>All polynomial functions of positive, odd order have at least one zero, while polynomial functions of positive, even order may not have a zero.</li>
+<li>Regardless of odd or even, any polynomial of positive order can have a maximum number of zeros equal to its order.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>zero</dt>
+<dd>Also known as a root, a zero is an <equation>$x$</equation> value at which the function of <equation>$x$</equation> is equal to <equation>$0$</equation>.</dd>
+</dl>
+
+<p>The factored form of a polynomial can reveal where the function crosses the <span class='clFormula'>$x$</span>
+-axis. An <span class='clFormula'>$x$</span>
+-value at which this occurs is called a "zero" or "root".</p>
+
+<h3>Number of Zeros of a Polynomial</h3>
+
+<p>Consider the factored function:</p>
+
+<div class='clFormula'>$f(x)=(x-a_1)(x-a_2)...(x-a_n)$</div>
+
+<p>Each value <span class='clFormula'>$a_1,a_2$</span>
+, and so on is a zero.</p>
+<p>A polynomial function may have many, one, or no zeros. All polynomial functions of positive, odd order have at least one zero (this follows from the fundamental theorem of algebra), while polynomial functions of positive, even order may not have a zero (for example <span class='clFormula'>$x^4+1$</span>
+has no real zero, although it does have complex ones).</p>
+<p>Regardless of odd or even, any polynomial of positive order can have a maximum number of zeros equal to its order. For example, a cubic function can have as many as three zeros, but no more. This is known as the fundamental theorem of algebra.</p>
+
+<h3>Example</h3>
+
+<p>Consider the function</p>
+
+<div class='clFormula'>$f(x)=x^3+2x^2-5x-6$</div>
+
+<p>This can be rewritten in factored form:</p>
+
+<div class='clFormula'>$f(x)=(x+3)(x+1)(x-2)$</div>
+
+<p>Replacing <span class='clFormula'>$x$</span>
+with a value that will make either <span class='clFormula'>$(x+3),(x+1)$</span>
+  or <span class='clFormula'>$(x-2)$</span>
+zero will result in <span class='clFormula'>$f(x)$</span>
+being equal to zero. Thus, the zeros for <span class='clFormula'>$f(x)$</span>
+are at <span class='clFormula'>$x=-3,x=-1$</span>
+and <span class='clFormula'>$x=2.$</span>
+This can also be shown graphically:</p>
+
+
+
+<a href='../images/0708.png'><img class='clImageThumb' src='../images/0708.png' alt='Cubic function'></a>
+
+<div><b><i>Cubic function</i></b></div>
+<p>Graph of the cubic function <span class='clFormula'>$f(x) = x^3 + 2x^2 - 5x - 6 = (x+3)(x+1)(x-2).$</span>
+We see that its roots equal the negative second coefficients of its first degree factors. A cubic polynomial that increases to a local maximum, decreases to a local minimum, then increases to infinity.</p>
+
+
+<h3>Factoring and zeros</h3>
+
+<p>In general, we know from the remainder theorem that <span class='clFormula'>$a$</span>
+is a zero of <span class='clFormula'>$f(x)$</span>
+if and only if <span class='clFormula'>$x-a$</span>
+divides <span class='clFormula'>$f(x).$</span>
+Thus if we can factor <span class='clFormula'>$f(x)$</span>
+in polynomials of as small a degree as possible, we know its zeros by looking at all linear terms in the factorization. This is why factorization is so important: to be able to recognize the zeros of a polynomial quickly.</p>
+<p>It follows from the fundamental theorem of algebra and a fact called the complex conjugate root theorem, that every polynomial with real coefficients can be factorized into linear polynomials and quadratic polynomials without real roots. Thus if you have found such a factorization of a given function, you can be completely sure what  the zeros of that function are.</p>
+
+<h3 id='concept_155'>7.4.4. Integer Coefficients and the Rational Zeros Theorem</h3>
+
+<blockquote>Each solution to a polynomial, expressed as <span class='clFormula'>$x= \frac {p}{q}$</span>
+, must satisfy that <span class='clFormula'>$p$</span>
+and <span class='clFormula'>$q$</span>
+are integer factors of <span class='clFormula'>$a_0$</span>
+and <span class='clFormula'>$a_n$</span>
+, respectively.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the Rational Zeros Theorem to find all possible rational roots of a polynomial</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In algebra, the Rational Zeros Theorem (also known as the Rational Root Theorem, or the Rational Root Test) states a constraint on rational solutions (or roots) of the polynomial equation <span class='clFormula'>$a_nx^n+a_{n-1}x^{n-1}+...+a_0=0$</span>
+with integer coefficients.</li>
+<li>If <span class='clFormula'>$a_0$</span>
+and <span class='clFormula'>$a_n$</span>
+are non-zero, then each rational solution <span class='clFormula'>$x$</span>
+, when written as a fraction <span class='clFormula'>$x= \frac {p}{q}$</span>
+in lowest terms (i.e., the greatest common divisor of <span class='clFormula'>$p$</span>
+and <span class='clFormula'>$q$</span>
+is <span class='clFormula'>$1$</span>
+), satisfies the following: <span class='clFormula'>$1$</span>
+) <span class='clFormula'>$p$</span>
+is an integer factor of the constant term <span class='clFormula'>$a_0$</span>
+, and <span class='clFormula'>$2$</span>
+) <span class='clFormula'>$q$</span>
+is an integer factor of the leading coefficient <span class='clFormula'>$a_n$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Euclid's lemma</dt>
+<dd>One of the fundamental properties of prime numbers. States that if a prime divides the product of two numbers, it must divide at least one of the factors. For example since 133 × 143 = 19019 is divisible by 19, one or both of 133 or 143 must be as well. In fact, 19 × 7 = 133. It is used in the proof of the fundamental theorem of arithmetic.</dd>
+<dt>coprime</dt>
+<dd>Having no positive integer factors, aside from <equation>$1$</equation>, in common with one or more specified other positive integers.</dd>
+</dl>
+
+<p>One way to find zeros of a polynomial is trial and error. A more efficient way is through the use of the Rational Zero Theorem.</p>
+
+<h3>The Rational Zero Theorem</h3>
+
+<p>In algebra, the <em>Rational Zero Theorem</em>, or <em>Rational Root Theorem</em>, or <em>Rational Root Test</em>, states a constraint on rational solutions (also known as zeros, or roots) of the polynomial equation</p>
+
+<div class='clFormula'>$a_nx^n+a_{n-1}x^{n-1}+...+a_0=0$</div>
+
+<p>With integer coefficients <span class='clFormula'>$a_n,a_{n-1},\ldots,a_0.$</span></p>
+<p>If <span class='clFormula'>$a_0$</span>
+and <span class='clFormula'>$a_n$</span>
+are nonzero, then each rational solution <span class='clFormula'>$x= \frac {p}{q}$</span>
+, where <span class='clFormula'>$p$</span>
+and <span class='clFormula'>$q$</span>
+ are coprime integers (i.e. their greatest common divisor is <span class='clFormula'>$1$</span>
+), satisfies:</p>
+<ul>
+<li>
+<span class='clFormula'>$p$</span>
+is a divisor of the constant term <span class='clFormula'>$a_0$</span><sub>.</sub></li>
+<li>
+<span class='clFormula'>$q$</span>
+is a divisor of the leading coefficient <span class='clFormula'>$a_n$</span>
+.</li>
+</ul>
+<p>So <span class='clFormula'>$a_0$</span>
+must be a multiple of <span class='clFormula'>$p$</span>
+, and <span class='clFormula'>$a_n $</span>
+ must be a multiple of <span class='clFormula'>$q$</span>
+.</p>
+<p>Since any integer has only a finite number of divisors, the rational root theorem provides us with a finite number of candidates for rational roots. When given a polynomial with integer coefficients, we can plug in all of these candidates and see whether they are a zero of the given polynomial. Once we have found all the rational zeros (and counted their multiplicity, for example, by dividing using long division), we know  the number of irrational and complex roots.</p>
+<p>Since every polynomial with rational coefficients can be multiplied with an integer to become a polynomial with integer coefficients and the same zeros, the Rational Root Test can also be applied for polynomials with rational coefficients. </p>
+
+<h3>Example</h3>
+
+<p>For example, every rational solution of the cubic equation</p>
+
+<div class='clFormula'>$3x^3-5x^2+5x-2=0$</div>
+
+<p>must be among the numbers symbolically indicated by:</p>
+
+<div class='clFormula'>$\pm \frac {1,2}{1,3}$</div>
+
+
+
+
+<a href='../images/0709.png'><img class='clImageThumb' src='../images/0709.png' alt='Cubic function'></a>
+
+<div><b><i>Cubic function</i></b></div>
+<p>The cubic function <span class='clFormula'>$3x^3-5x^2+5x-2$</span>
+has one real root between <span class='clFormula'>$0$</span>
+and <span class='clFormula'>$1$</span>
+. We can use the Rational Root Test to see whether this root is rational. </p>
+
+<p>i.e. its numerator must divide <span class='clFormula'>$2$</span>
+and its denominator must divide <span class='clFormula'>$3$</span>
+. This gives the list of possible answers</p>
+
+<div class='clFormula'>$1,-1,2,-2,\frac 13, -\frac 13, \frac 23, -\frac 23$</div>
+
+<p>These root candidates can be tested, either by plugging them in directly, or by dividing and checking to see whether there is any remainder, for example using long division. The advantage of this is that once we have found a root, we immediately have found the smaller degree polynomial of which we again wish to find the roots and the rational root theorem will provide us with even fewer candidates for this root. Moreover, once we have established a root, we must use division anyway to check whether it is a multiple root.</p>
+<p> The disadvantage is that we have to use long division more often. When there are a lot of zero candidates for a small degree polynomial, we may just want to plug in candidates and only use division when we have found a root.</p>
+<p>In our example, we can  plug in <span class='clFormula'>$x_0=1$</span>
+to see that it is not a root. In fact, the left hand value is equal to <span class='clFormula'>$1$</span>
+. </p>
+<p>Now we use a little trick: since the constant term of <span class='clFormula'>$(x-x_0)^k$</span>
+equals <span class='clFormula'>$x_0^k$</span>
+for all positive integers <span class='clFormula'>$k$</span>
+, we can substitute <span class='clFormula'>$x$</span>
+by <span class='clFormula'>$t+x_0$</span>
+to find a polynomial with the same leading coefficient as our original polynomial and a constant term equal to the value of the polynomial at <span class='clFormula'>$x_0$</span>
+. In this case we substitute <span class='clFormula'>$x$</span>
+with <span class='clFormula'>$t+1$</span>
+and obtain a polynomial in <span class='clFormula'>$t$</span>
+with leading coefficient <span class='clFormula'>$3$</span>
+and constant term <span class='clFormula'>$1$</span>
+. Thus the candidates for zeros in this polynomial in <span class='clFormula'>$t$</span>
+are </p>
+
+<div class='clFormula'>$t=\pm \frac 1{1,3}$</div>
+
+<p>Thus the candidates for roots of the polynomial in <span class='clFormula'>$x$</span>
+must be one greater than one of these candidates:</p>
+
+<div class='clFormula'>$x=1+t=2,0,\frac 43, \frac 23$</div>
+
+<p>Root candidates that do not occur on both lists are ruled out. The list of rational root candidates has thus shrunk to just <span class='clFormula'>$x=2$</span>
+and <span class='clFormula'>$x=2/3$</span>
+. After checking for these candidates, we see that the only rational root (with multiplicity <span class='clFormula'>$1)$</span>
+is <span class='clFormula'>$2/3$</span>
+, which can also be seen in the graph above. </p>
+
+<h3 id='concept_156'>7.4.5. The Rule of Signs</h3>
+
+<blockquote>The rule of signs gives an upper bound number of positive or negative roots of a polynomial.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the rule of signs to find out the maximum number of positive and negative roots a polynomial has</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The rule of signs gives us an upper bound number of positive or negative roots of a polynomial. It is not a complete criterion, meaning that it does not tell the exact number of positive or negative roots.</li>
+<li>The rule states that if the terms of a polynomial with real coefficients are ordered by descending variable exponent, then the number of positive roots of the polynomial is either equal to the number of sign differences between consecutive nonzero coefficients, or is less by a multiple of 2.</li>
+<li>As a corollary of the rule, the number of negative roots is the number of sign changes after multiplying the coefficients of odd-power terms by <span class='clFormula'>$-1$</span>
+, or less by a multiple of 2.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>sign</dt>
+<dd>positive or negative polarity.</dd>
+<dt>root</dt>
+<dd>any number which, when plugged into the equation, will produce a zero.</dd>
+</dl>
+
+<p>The rule of signs, first described by René Descartes in his work <em>La Géométrie</em>, is a technique for determining the number of positive or negative real roots of a polynomial.</p>
+<p>The rule gives us an upper bound number of positive or negative roots of a polynomial. However, it does not tell the exact number of positive or negative roots.</p>
+
+<h3>Positive Roots</h3>
+
+<p>In order to find the number of positive roots in a polynomial with only one variable, we must first arrange the polynomial by descending variable exponent. For example, <span class='clFormula'>$-x^2 + x^3 + x$</span>
+would be written <span class='clFormula'>$x^3 - x^2 + x$</span>
+. </p>
+<p>Then, we must count the number of sign differences between consecutive nonzero coefficients. This number, or any number less than it by a multiple of 2, could be the number of positive roots. In the example <span class='clFormula'>$x^3 - x^2 + x$</span>
+, there are two sign changes, after the first and second terms. Thus, there are either two or zero positive roots for this polynomial. </p>
+<p>It is important to note that for polynomials with multiple roots of the same value, each of these roots is counted separately. </p>
+
+<h3>Negative Roots</h3>
+
+<p>Finding the negative roots is similar to finding the positive roots. The difference is that you must start by finding the coefficients of odd power (for example, <span class='clFormula'>$x^3$</span>
+or <span class='clFormula'>$x^5$</span>
+, but not <span class='clFormula'>$x^2$</span>
+or <span class='clFormula'>$x^4$</span>
+). Once you have located them, multiply each by <span class='clFormula'>$-1$</span>
+. Then the procedure is the same; count the number of sign changes between consecutive nonzero coefficients. This number, or any number less than it by a multiple of 2, could be your number of negative roots. Again it is important to note that multiple roots of the same value should be counted separately.</p>
+<p>This can also be done by taking the function, <span class='clFormula'>$f(x)$</span>
+, and substituting the <span class='clFormula'>$x$</span>
+for <span class='clFormula'>$-x$</span>
+, so that we have the function <span class='clFormula'>$f(-x)$</span>
+. The reason we only bother to change the sign of the odd power coefficients is because if we substitute in <span class='clFormula'>$-x$</span>
+in an even power, it will just become a positive again. </p>
+<p>For example: <span class='clFormula'>$(-x)^3 = (-x)(-x)(-x) = -x^3$</span>
+ </p>
+<p>but <span class='clFormula'>$(-x)^2 = (-x)(-x) = x^2$</span></p>
+<p>We can see that the negative signs cancel out for any even power. By only multiplying the odd powered coefficients by <span class='clFormula'>$-1$</span>
+, we are essentially saving ourselves a step.</p>
+
+<h3>Example</h3>
+
+<p>Consider the polynomial:</p>
+
+<div class='clFormula'>$f(x)=x^3+x^2-x-1$</div>
+
+<p>This function has one sign change between the second and third terms. Therefore it has exactly one positive root. Don't forget that the first term has a sign, which, in this case, is positive. </p>
+<p>Next, we move on to finding the negative roots. Change the exponents of the odd-powered coefficients, remembering to change the sign of the first term. Once you have done this, you have obtained the second polynomial and are ready to find the number of negative roots. This second polynomial is shown below:</p>
+
+<div class='clFormula'>$f(-x)=-x^3+x^2+x-1$</div>
+
+<p>This polynomial has two sign changes, after the first and third terms. Therefore, we know that it has at most two negative roots. We know that the number of roots of either sign is the number of sign changes, or a multiple of two less than that. So this polynomial has either <span class='clFormula'>$2$</span>
+or <span class='clFormula'>$0$</span>
+negative roots. We can validate this algebraically, as shown below.</p>
+<p>First, factor the polynomial:</p>
+<p><span class='clFormula'>$f(x)=(x+1)(x+1)(x-1)$</span>
+.</p>
+<p>This simplifies to:</p>
+<p><span class='clFormula'>$f(x)=(x+1)^2(x-1)$</span>
+.</p>
+<p>Therefore, the roots are <span class='clFormula'>$-1$</span>
+, <span class='clFormula'>$-1$</span>
+and <span class='clFormula'>$1$</span>
+.</p>
+
+<h3>Complex Roots</h3>
+
+<p>A polynomial of <span class='clFormula'>$n^{\text{th}}$</span>
+degree has exactly <span class='clFormula'>$n$</span>
+roots. The minimum number of complex roots is equal to:</p>
+
+<div class='clFormula'>$n-(p+q)$</div>
+
+<p>where <span class='clFormula'>$n$</span>
+is the total number of roots in a polynomial, <span class='clFormula'>$p$</span>
+is the maximum number of positive roots, and <span class='clFormula'>$q$</span>
+is the maximum number of negative roots.</p>
+
+<h3>Example</h3>
+
+<p>Consider the polynomial:</p>
+
+<div class='clFormula'>$f(x) = x^2+b$</div>
+
+<p>To find the positive roots we count the sign changes. For this example, we will assume that <span class='clFormula'>$b&gt;0$</span>
+. Since there are no sign changes, there are no positive roots <span class='clFormula'>$(p=0)$</span>
+. Now we look for negative roots. Since there are no odd powered coefficients, there are no changes to be made before looking for sign changes; therefore, there are no negative roots <span class='clFormula'>$(q = 0)$</span>
+. Now we apply the complex root equation: <span class='clFormula'>$n - (p+ q) = 2 - (0 + 0) = 2$</span>
+. There are 2 complex roots.</p>
+<h2 id='section_349'>7.5. Rational Functions</h2>
+
+<h3 id='concept_157'>7.5.1. Introduction to Rational Functions</h3>
+
+<blockquote>A rational function is one such that <span class='clFormula'>$f(x) = \frac{P(x)}{Q(x)}$</span>
+, where <span class='clFormula'>$Q(x) \neq 0$</span>
+; the domain of a rational function can be calculated.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe rational functions, including their domains</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A rational function is any function which can be written as the ratio of two polynomial functions, where the polynomial in the denominator is not equal to zero.</li>
+<li>The domain of <span class='clFormula'>$f(x) = \frac{P(x)}{Q(x)}$</span>
+is the set of all points <span class='clFormula'>$x$</span>
+for which the denominator <span class='clFormula'>$Q(x)$</span>
+is not zero.</li>
+<li>Domain restrictions of a rational function can be determined by setting the denominator equal to zero and solving. The <span class='clFormula'>$x$</span>
+-values at which the denominator equals zero are called singularities and are not in the domain of the function.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>vertical asymptote</dt>
+<dd>A vertical straight line which a curve approaches arbitrarily closely, as it goes to infinity. </dd>
+<dt>singularities</dt>
+<dd>The <equation>$x$</equation>-values at which a rational function is not defined, for which the denominator <equation>$Q(x)$</equation> is
+zero.</dd>
+<dt>rational function</dt>
+<dd>Any function whose value can be expressed as the quotient of two polynomials (where the polynomial in the denominator is not zero).</dd>
+<dt>domain</dt>
+<dd>The set of all input values (<equation>$x$</equation>) over which a function is defined.</dd>
+<dt>denominator</dt>
+<dd>The number or expression written below the line in a fraction (thus, <equation>$2$</equation> in <equation>$\frac {1}{2}$</equation>).</dd>
+</dl>
+
+<h3>Rational Functions</h3>
+
+<p>A rational function is any function which can be written as the ratio of two polynomial functions. Neither the coefficients of the polynomials, nor the values taken by the function, are necessarily rational numbers.</p>
+<p>Any function of one variable, <span class='clFormula'>$x$</span>
+, is called a rational function if, and only if, it can be written in the form:</p>
+
+<div class='clFormula'>$f(x) = \dfrac{P(x)}{Q(x)}$</div>
+
+<p>where <span class='clFormula'>$P$</span>
+and <span class='clFormula'>$Q$</span>
+are polynomial functions of <span class='clFormula'>$x$</span>
+and <span class='clFormula'>$Q(x) \neq 0$</span>
+. </p>
+<p>Note that every polynomial function is a rational function with <span class='clFormula'>$Q(x) = 1$</span>
+. A function that cannot be written in the  form of a polynomial, such as
+<span class='clFormula'>$f(x) = \sin(x)$</span>
+, is not a rational function. However, the adjective "irrational" is not generally used for functions.</p>
+<p>A constant function such as <span class='clFormula'>$f(x) = \pi$</span>
+is a rational function since constants are polynomials. Note that the function itself is rational, even though the value of <span class='clFormula'>$f(x)$</span>
+is irrational for all <span class='clFormula'>$x$</span>
+. </p>
+
+<h3>The Domain of a Rational Function</h3>
+
+<p>The domain of a rational function <span class='clFormula'>$f(x) = \frac{P(x)}{Q(x)}$</span>
+is the set of all values of <span class='clFormula'>$x$</span>
+for which the denominator <span class='clFormula'>$Q(x)$</span>
+is not zero. </p>
+<p>For a simple example, consider the rational function  <span class='clFormula'>$y = \frac {1}{x}$</span>
+. The domain is comprised of all values of <span class='clFormula'>$x \neq 0$</span>
+.</p>
+<p>
+Domain restrictions can be calculated by finding singularities, which are the <span class='clFormula'>$x$</span>
+-values for which the denominator <span class='clFormula'>$Q(x)$</span>
+is
+zero. The rational function is not defined for such <span class='clFormula'>$x$</span>
+-values, and these
+values are excluded from the domain set of the function. </p>
+
+
+<p>Factorizing the numerator and denominator of rational
+function helps to identify singularities of algebraic rational functions.
+Singularity occurs when the denominator of a rational function equals <span class='clFormula'>$0$</span>
+, whether or not the linear factor in the denominator cancels
+out with a linear factor in the numerator. </p>
+
+<h3>Example 1</h3>
+
+<p>Consider the rational function</p>
+<p> <span class='clFormula'>$f(x) = \dfrac{(x^2 - 3x -2)}{(x^2 - 4)}$</span></p>
+<p>The domain of this function includes all values of <span class='clFormula'>$x$</span>
+, except where <span class='clFormula'>$x^2 - 4 = 0$</span>
+. </p>
+<p>We can factor the denominator to find the singularities of the function: </p>
+
+<div class='clFormula'>$x^2 - 4 = (x + 2)(x - 2)$</div>
+
+<p> Setting each linear factor equal to zero, we have <span class='clFormula'>$x+2 = 0$</span>
+and <span class='clFormula'>$x-2 = 0$</span>
+. Solving each of these  yields solutions <span class='clFormula'>$x = -2$</span>
+and <span class='clFormula'>$x = 2$</span>
+; thus, the domain includes all <span class='clFormula'>$x$</span>
+not equal to <span class='clFormula'>$2$</span>
+or <span class='clFormula'>$-2$</span>
+. This can be seen in the graph below.</p>
+
+
+
+<a href='../images/0710.png'><img class='clImageThumb' src='../images/0710.png' alt='The domain of a function'></a>
+
+<div><b><i>The domain of a function</i></b></div>
+<p>Graph of a rational function with equation <span class='clFormula'>$\frac{(x^2 - 3x -2)}{(x^2 - 4)}$</span>
+. The domain of this function is all values of <span class='clFormula'>$x$</span>
+except <span class='clFormula'>$+2$</span>
+or <span class='clFormula'>$-2$</span>
+.</p>
+
+<p>Note that there are vertical asymptotes at <span class='clFormula'>$x$</span>
+-values of <span class='clFormula'>$2$</span>
+and <span class='clFormula'>$-2$</span>
+. This means that, although the function approaches these points, it is not defined at them.</p>
+
+<h3>Example 2</h3>
+
+<p>Consider the rational function</p>
+<p>  <span class='clFormula'>$f(x)= \dfrac{(x + 3)}{(x^2 + 2)}$</span></p>
+<p>The domain of this function is all values of <span class='clFormula'>$x$</span>
+except those where <span class='clFormula'>$x^2 + 2 = 0$</span>
+. However,  for <span class='clFormula'>$x^2 + 2=0$</span>
+, <span class='clFormula'>$x^2$</span>
+would need to equal <span class='clFormula'>$-2$</span>
+.  Since this condition cannot be satisfied by a real number, the domain of the function is all real numbers.</p>
+
+<h3 id='concept_158'>7.5.2. Asymptotes</h3>
+
+<blockquote>A rational function can have at most one horizontal or oblique asymptote, and many possible vertical asymptotes; these can be calculated.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Determine when the asymptote of a rational function will be horizontal, oblique, or vertical</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>An asymptote of a curve is a line, such that the distance between the curve and the line approaches zero as they tend to infinity.</li>
+<li>There are three kinds of asymptotes: horizontal, vertical and oblique.</li>
+<li>A rational function has at most one horizontal asymptote or oblique (slant) asymptote, and possibly many vertical asymptotes.</li>
+<li>Vertical asymptotes occur at singularities of a rational function, or points at which the function is not defined. They only occur at
+singularities where the associated linear factor in the denominator
+remains after cancellation. </li>
+<li>The existence of a horizontal or oblique asymptote depends on the degrees of polynomials in
+the numerator and  denominator.
+</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>asymptote</dt>
+<dd>A straight line which a curve approaches arbitrarily closely, as it goes to infinity.</dd>
+<dt>oblique</dt>
+<dd>Not erect or perpendicular; neither parallel to, nor at right angles from, the base; slanting; inclined.</dd>
+<dt>rational function</dt>
+<dd>Any function whose value can be expressed as the quotient of two polynomials (where the polynomial in the denominator is not zero).</dd>
+</dl>
+
+<h3>Types of Asymptotes</h3>
+
+<p>In analytic geometry, an asymptote of a curve is a line such that the distance between the curve and the line approaches zero as they tend to infinity.</p>
+<p>There are  three kinds of asymptotes: <em>horizontal</em>, <em>vertical</em> and <em>oblique</em>. Horizontal asymptotes of curves are horizontal lines that the graph of the function approaches as <span class='clFormula'>$x$</span>
+tends to <span class='clFormula'>$+ \infty$</span>
+or <span class='clFormula'>$- \infty$</span>
+. Horizontal asymptotes are parallel to the <span class='clFormula'>$x$</span>
+-axis. </p>
+<p>Vertical asymptotes are vertical lines near which the function grows without bound. They are parallel to the <span class='clFormula'>$y$</span>
+-axis. </p>
+<p>An asymptote that is neither horizontal or vertical is an oblique (or slant) asymptote. These are diagonal lines so that the difference between the curve and the line approaches <span class='clFormula'>$0$</span>
+as <span class='clFormula'>$x$</span>
+tends to <span class='clFormula'>$+ \infty$</span>
+or <span class='clFormula'>$- \infty$</span>
+. </p>
+<p>Each type of asymptote is shown in the graph below.</p>
+
+
+
+<a href='../images/0711.png'><img class='clImageThumb' src='../images/0711.png' alt='Graph with asymptotes'></a>
+
+<div><b><i>Graph with asymptotes</i></b></div>
+<p>The graph of a function with a horizontal (<span class='clFormula'>$y=0$</span>
+), vertical (<span class='clFormula'>$x=0$</span>
+), and oblique asymptote (blue line).</p>
+
+<h3>Example 1</h3>
+
+<p>Consider the graph of the equation <span class='clFormula'>$f(x) = \frac {1}{x}$</span>
+,  shown below. The coordinates of the points on the curve are of the form <span class='clFormula'>$(x, \frac {1}{x})$</span>
+where <span class='clFormula'>$x$</span>
+is a number other than 0. </p>
+
+
+
+<a href='../images/0712.png'><img class='clImageThumb' src='../images/0712.png' alt='Graph of '></a>
+
+<div><b><i>Graph of <span class='clFormula'>$f(x) = 1/x$</span></i></b></div>
+<p>Both the <span class='clFormula'>$x$</span>
+-axis and <span class='clFormula'>$y$</span>
+-axis are asymptotes.</p>
+
+<p>Notice that as the positive values of <span class='clFormula'>$x$</span>
+become larger and larger,  the corresponding values of <span class='clFormula'>$y$</span>
+become infinitesimally small. However, no matter how large <span class='clFormula'>$x$</span>
+becomes,  <span class='clFormula'>$\frac {1}{x}$</span>
+is never <span class='clFormula'>$0$</span>
+, so the curve never actually touches the <span class='clFormula'>$x$</span>
+-axis. The <span class='clFormula'>$x$</span>
+-axis is a horizontal asymptote of the curve.</p>
+<p>Similarly, as the positive values of <span class='clFormula'>$x$</span>
+become smaller and smaller, the corresponding values of <span class='clFormula'>$y$</span>
+become larger and larger. So the curve extends farther and farther upward as it comes closer and closer to the <span class='clFormula'>$y$</span>
+-axis. The <span class='clFormula'>$y$</span>
+-axis is a vertical asymptote of the curve. </p>
+
+<h3>Asymptotes of Rational Functions</h3>
+
+<p>A rational function has at most one horizontal or oblique asymptote, and possibly many vertical asymptotes. </p>
+<p>Vertical asymptotes occur only when the denominator is zero. In other words, vertical asymptotes occur at singularities, or points at which the rational function is not defined. Vertical asymptotes only occur at singularities when the associated linear factor in the denominator remains after cancellation. </p>
+<p>For example, consider the function: </p>
+<p><span class='clFormula'>$f(x) = \dfrac{(x-1)(x+2)}{(x-1)(x+1)}$</span>
+ </p>
+<p>We can identify from the linear factors in the denominator that two singularities exist, at <span class='clFormula'>$x=1$</span>
+and <span class='clFormula'>$x = -1$</span>
+. However, the linear factor <span class='clFormula'>$(x-1)$</span>
+cancels with a factor in the numerator. Thus, the only vertical asymptote for this function is at <span class='clFormula'>$x=-1$</span>
+.</p>
+<p>The degree of the numerator and degree of the denominator determine whether or not there are any horizontal or oblique asymptotes. </p>
+<p>
+Existence of horizontal asymptote depends on the degree of polynomial in
+the numerator (<span class='clFormula'>$n$</span>
+) and degree of polynomial in the denominator (<span class='clFormula'>$m$</span>
+).
+There are three possible cases:
+</p>
+
+
+
+<ol>
+<li>
+If <span class='clFormula'>$n&gt;m$</span>
+, then there is no horizontal asymptote (However, if <span class='clFormula'>$n = m+1$</span>
+, then there exists a slant asymptote).
+</li>
+<li>
+If <span class='clFormula'>$n&lt;m$</span>
+, then the <span class='clFormula'>$x$</span>
+-axis is a horizontal asymptote.
+</li>
+<li>
+If <span class='clFormula'>$n=m$</span>
+, then a horizontal asymptote exists, and the equation is:</li>
+</ol>
+
+<div class='clFormula'>$\quad \quad y = \frac{\text{Coefficient of highest power term in numerator}}{\text{Coefficient of highest power term in denominator}}$</div>
+
+<p>When the numerator of a rational function has degree exactly one greater than the denominator, the function has an oblique (slant) asymptote. The asymptote is the polynomial term after dividing the numerator and denominator, and is a linear expression.</p>
+
+<h3>Example 2</h3>
+
+<p>Find any vertical asymptotes of</p>
+<p> <span class='clFormula'>$f(x) = \dfrac{(x-1)(x+2)}{(x-1)^2(x+1)}$</span>
+.</p>
+<p>Notice that, based on the linear factors in the denominator, singularities exists at <span class='clFormula'>$x=1$</span>
+and <span class='clFormula'>$x=-1$</span>
+. Also notice that one linear factor <span class='clFormula'>$(x-1)$</span>
+cancels with the numerator. However, one linear factor <span class='clFormula'>$(x-1)$</span>
+remains in the denominator because it is squared. Therefore, a vertical asymptote
+exists at <span class='clFormula'>$x=1$</span>
+. The
+linear factor <span class='clFormula'>$(x + 1)$</span>
+also does not cancel out; thus, a vertical
+asymptote also exists at <span class='clFormula'>$x = -1$</span>
+. </p>
+
+<h3>Example 3</h3>
+
+<p>Find any horizontal or oblique asymptote of</p>
+<p> <span class='clFormula'>$f(x) = \dfrac{2x^2 + x + 1}{x^2 + 16}$</span>
+.</p>
+<p>Because the polynomials in the numerator and denominator have the same degree (<span class='clFormula'>$2$</span>
+), we can identify that there is one horizontal asymptote and no oblique asymptote.</p>
+<p>The coefficient of the highest power term is <span class='clFormula'>$2$</span>
+in the numerator and <span class='clFormula'>$1$</span>
+in the denominator. Hence, horizontal asymptote is given by:</p>
+
+<div class='clFormula'>$y = \frac{2}{1} = 2$</div>
+
+
+<h3 id='concept_159'>7.5.3. Solving Problems with Rational Functions</h3>
+
+<blockquote>The <span class='clFormula'>$x$</span>
+-intercepts of rational functions are found by setting the polynomial in the numerator equal to <span class='clFormula'>$0$</span>
+and solving for <span class='clFormula'>$x$</span>
+.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the numerator of a rational function to solve for its zeros</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li> The <span class='clFormula'>$x$</span>
+-intercepts (also known as zeros or roots) of a function are points where the graph intersects the <span class='clFormula'>$x$</span>
+-axis. Rational functions can have zero, one, or multiple <span class='clFormula'>$x$</span>
+-intercepts. </li>
+<li>For any function, the <span class='clFormula'>$x$</span>
+-intercepts  are <span class='clFormula'>$x$</span>
+-values for which the function has a value of zero: <span class='clFormula'>$f(x) = 0$</span>
+.</li>
+<li>For rational functions, the <span class='clFormula'>$x$</span>
+-intercepts exist when the numerator is equal to <span class='clFormula'>$0$</span>
+. For <span class='clFormula'>$f(x) = \frac{P(x)}{Q(x)}$</span>
+, if <span class='clFormula'>$P(x) = 0$</span>
+, then <span class='clFormula'>$f(x) = 0$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>denominator</dt>
+<dd>The number or expression written below the line in a fraction (thus <equation>$2$</equation> in <equation>$\frac {1}{2}$</equation>).</dd>
+<dt>rational function</dt>
+<dd>Any function whose value can be expressed as the quotient of two polynomials (except division by zero).</dd>
+<dt>numerator</dt>
+<dd>The number or expression written above the line in a fraction (thus <equation>$1$</equation> in <equation>$\frac {1}{2}$</equation>).</dd>
+</dl>
+
+<h3>Finding the <span class='clFormula'>$x$</span>
+-intercepts of Rational Functions</h3>
+
+<p>Recall that a rational function is defined as the ratio of two real polynomials with the condition that the polynomial in the denominator is not a zero polynomial.</p>
+<p><span class='clFormula'>$f(x) = \dfrac{P(x)}{Q(x)}$</span>
+, where <span class='clFormula'>$Q(x) \neq 0$</span></p>
+<p>An example of a rational function is:</p>
+
+<div class='clFormula'>$f(x) = \dfrac{x + 1}{2x^2 - x - 1}$</div>
+
+<p>Rational functions can be graphed on the coordinate plane. We can use algebraic methods to calculate their <span class='clFormula'>$x$</span>
+-intercepts (also known as zeros or roots), which are points where the graph intersects the <span class='clFormula'>$x$</span>
+-axis. Rational functions can have zero, one, or multiple <span class='clFormula'>$x$</span>
+-intercepts. </p>
+<p>For any function, the <span class='clFormula'>$x$</span>
+-intercepts  are <span class='clFormula'>$x$</span>
+-values for which the function has a value of zero: <span class='clFormula'>$f(x) = 0$</span>
+.</p>
+<p>In the case of rational functions, the <span class='clFormula'>$x$</span>
+-intercepts exist when the numerator is equal to <span class='clFormula'>$0$</span>
+. For <span class='clFormula'>$f(x) = \frac{P(x)}{Q(x)}$</span>
+, if <span class='clFormula'>$P(x) = 0$</span>
+, then <span class='clFormula'>$f(x) = 0$</span>
+.</p>
+<p>In order to solve rational functions for their <span class='clFormula'>$x$</span>
+-intercepts, set the polynomial in the numerator equal to zero, and solve for <span class='clFormula'>$x$</span>
+by factoring where applicable.</p>
+
+<h3>Example 1</h3>
+
+<p>Find the <span class='clFormula'>$x$</span>
+-intercepts of this function:</p>
+<p> <span class='clFormula'>$f(x) = \dfrac{x^2 - 3x + 2}{x^2 - 2x -3}$</span>
+ </p>
+<p>Set the numerator of this rational function equal to zero and solve for <span class='clFormula'>$x$</span>
+: </p>
+
+<div class='clFormula'>$\begin {align} 0 &amp;=x^2 - 3x + 2 &#10;\\&amp;= (x - 1)(x - 2)&#10;\end {align}$</div>
+
+<p>Solutions for this polynomial are <span class='clFormula'>$x = 1$</span>
+ or <span class='clFormula'>$x= 2$</span>
+. This means that this function has <span class='clFormula'>$x$</span>
+-intercepts at <span class='clFormula'>$1$</span>
+ and <span class='clFormula'>$2$</span>
+.</p>
+
+<h3>Example 2</h3>
+
+<p>Find the <span class='clFormula'>$x$</span>
+-intercepts of the function:</p>
+<p> <span class='clFormula'>$f(x) = \dfrac {1}{x}$</span>
+ </p>
+<p>Here, the numerator is a constant, and therefore, cannot be set equal to <span class='clFormula'>$0$</span>
+. Thus, this function does not have any <span class='clFormula'>$x$</span>
+-intercepts.</p>
+
+<h3>Example 3</h3>
+
+<p>Find the roots of:</p>
+<p> <span class='clFormula'>$g(x) = \dfrac{x^3 - 2x}{2x^2 - 10} $</span></p>
+<p>Factoring the numerator, we have:</p>
+<p> <span class='clFormula'>$\begin {align}&#10;0&amp;=x^3 - 2x &#10;\\&amp;= x(x^2 - 2)&#10;\end {align}$</span></p>
+<p>Given the factor <span class='clFormula'>$x$</span>
+, the polynomial equals <span class='clFormula'>$0$</span>
+when <span class='clFormula'>$x=0$</span>
+. </p>
+<p>Let the second factor equal zero, and solve for <span class='clFormula'>$x$</span>
+:</p>
+
+<div class='clFormula'>$x^2 - 2 = 0 \\&#10;x^2 = 2 \\&#10;x = \pm \sqrt{2}$</div>
+
+<p>Thus there are three roots, or <span class='clFormula'>$x$</span>
+-intercepts: <span class='clFormula'>$0$</span>
+, <span class='clFormula'>$-\sqrt{2}$</span>
+and <span class='clFormula'>$\sqrt{2}$</span>
+. These can be observed in the graph of the function below.</p>
+
+
+
+<a href='../images/0713.png'><img class='clImageThumb' src='../images/0713.png' alt='Graph of '></a>
+
+<div><b><i>Graph of <span class='clFormula'>$g(x) = \frac{x^3 - 2x}{2x^2 - 10}$</span></i></b></div>
+<p><span class='clFormula'>$x$</span>
+-intercepts exist at <span class='clFormula'>$x = -\sqrt{2}, 0, \sqrt{2}$</span>
+.</p>
+
+<h3 id='concept_77'>7.5.4. Simplifying, Multiplying, and Dividing Rational Expressions</h3>
+
+<blockquote>A rational expression can be treated like a fraction, and can be manipulated via multiplication and division.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice simplifying, multiplying, and dividing rational expressions</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A rational expression is a quotient of two polynomials, where the polynomial in the denominator is not zero.</li>
+<li>Rational expressions can often be simplified by removing terms that can be factored out of the numerator and denominator. These can be either numbers or functions of <span class='clFormula'>$x$</span>
+.</li>
+<li>Rational expressions can  be multiplied together. The numerators of each are multiplied together, as well as their denominators. Sometimes, it is possible to simplify the resulting fraction.</li>
+<li>Rational expressions can be divided by one another. This follows the rules for dividing fractions, where the dividend is multiplied by the reciprocal of the divisor. </li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>expression</dt>
+<dd>An arrangement of symbols denoting values, operations performed on them, and grouping symbols, e.g. <equation>$\displaystyle \frac{(2x+4)}{2}$</equation></dd>
+<dt>rational expression</dt>
+<dd>An expression that can be expressed as the quotient of two polynomials, where the polynomial in the denominator is not zero.</dd>
+<dt>polynomial</dt>
+<dd>An expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by <equation>$x$</equation>.</dd>
+</dl>
+
+<p>A <em>rational expression</em> is a fraction involving polynomials, where the polynomial in the denominator is not zero. Just like a fraction involving numbers, a rational expression can be simplified, multiplied, and divided. The rules for performing these operations often mirror the rules for simplifying, multiplying, and dividing fractions. Performing these operations on rational expressions often involves factoring polynomial expressions out of the numerator and denominator.</p>
+
+<h3>Simplifying a Rational Expression</h3>
+
+<p>Rational expressions can be simplified by factoring the numerator and denominator where possible, and canceling terms. </p>
+<p>As a first example, consider the rational expression <span class='clFormula'>$\frac { 3x^3 }{ x }$</span>
+. This can be simplified by canceling out one factor of <span class='clFormula'>$x$</span>
+in the numerator and denominator, which gives the expression <span class='clFormula'>$3x^2$</span>
+.</p>
+<p>Note that the domain of the equation <span class='clFormula'>$f(x) = \frac{3x^3}{x}$</span>
+does not include <span class='clFormula'>$x=0$</span>
+, as this would cause division by <span class='clFormula'>$0$</span>
+. The latter form is a simplified version of the former graphically.</p>
+<p>Consider a more complicated example:</p>
+
+<div class='clFormula'>$\displaystyle \frac { x^2+5x+6 }{ 2x^2+5x+2 }$</div>
+
+<p>This expression must first be factored to provide the expression</p>
+
+<div class='clFormula'>$\displaystyle \frac {(x+2)(x+3)}{(2x+1)(x+2)}$</div>
+
+<p>which, after canceling the common factor of <span class='clFormula'>$(x+2)$</span>
+from both the numerator and denominator, gives the simplified expression</p>
+
+<div class='clFormula'>$\displaystyle \frac {x+3}{2x+1}$</div>
+
+
+<h3>Multiplying Rational Expressions</h3>
+
+<p>Rational expressions can be multiplied and divided in a similar manner to fractions. Recall that when two fractions are multiplied together, their numerators are multiplied to yield the numerator of their product, and their denominators are multiplied to yield the denominator of their product.</p>
+<p>For a simple example, consider the following, where a rational expression is multiplied by a fraction of whole numbers:</p>
+
+<div class='clFormula'>$\displaystyle \frac {x^2+3}{2x-3} \times \frac{2}{3}$</div>
+
+<p>Following the rule for multiplying fractions, simply multiply their respective numerators and denominators: </p>
+
+<div class='clFormula'>$\displaystyle \frac {2(x^2+3)}{3(2x-3)}$</div>
+
+<p>This can be multiplied through to yield <span class='clFormula'>$\displaystyle \frac {2x^2+6}{6x-9}$</span></p>
+<p>Notice that we multiplied the numerators together and the denominators together, but we did not multiply the numerator by the denominator or vice-versa.</p>
+<p>We follow the same rules to multiply two rational expressions together. The operations are slightly more complicated, as there may be a need to simplify the resulting expression.</p>
+
+<h3>Example 1</h3>
+
+<p>Consider the following:</p>
+<p>  <span class='clFormula'>$\displaystyle \frac {x+1}{x-1} \times \frac {x+2}{x+3}$</span>
+ </p>
+<p>Multiplying these two expressions, we have the product:</p>
+<p> <span class='clFormula'>$\displaystyle\frac {(x+1)(x+2)}{(x-1)(x+3)}$</span></p>
+<p>Multiplying out the numerator and denominator, this can be written as:</p>
+<p> <span class='clFormula'>$\displaystyle \frac {x^2+3x+2}{x^2+2x-3}$</span>
+ </p>
+<p>Notice that this expression cannot be simplified further.</p>
+
+<h3>Dividing Rational Expressions</h3>
+
+<p>Dividing rational expressions follows the same rules as dividing fractions. Recall the rule for dividing fractions: the dividend is multiplied by the reciprocal of the divisor. The same applies to dividing rational expressions; the first expression is multiplied by the reciprocal of the second.</p>
+
+<h3>Example 2</h3>
+
+<p>Consider the following:</p>
+<p> <span class='clFormula'>$\displaystyle \frac {x+1}{x-1} \div \frac {x+2}{x+3}$</span></p>
+<p>Rather than divide the expressions, we multiply <span class='clFormula'>$\displaystyle \frac {x+1}{x-1}$</span>
+by the reciprocal of <span class='clFormula'>$\displaystyle \frac {x+2}{x+3}$</span>
+:</p>
+
+<div class='clFormula'>$\displaystyle \frac{x+1}{x-1} \times \frac {x+3}{x+2}$</div>
+
+<p> Then, multiplication is carried out in the same way as described above:</p>
+
+<div class='clFormula'>$\displaystyle \frac{(x+1)(x+3)}{(x-1)(x+2)} = \frac{x^2 + 3x +3}{x^2 + x - 2}$</div>
+
+<p>The expression cannot be simplified further.</p>
+
+<h3 id='concept_212'>7.5.5. Partial Fractions</h3>
+
+<blockquote>Partial fraction decomposition is a procedure used to reduce the degree of either the numerator or the denominator of a rational function.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice breaking a rational function into partial fractions</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Partial fraction decomposition  is a procedure used to reduce the degree of either the
+numerator or the denominator of a rational function, and involves
+splitting one ratio up into multiple simpler ratios. In mathematical terms, partial fraction decomposition turns a function of the form <span class='clFormula'>$\frac{f(x)}{g(x)}$</span>
+, where <span class='clFormula'>$f$</span>
+and <span class='clFormula'>$g$</span>
+are both polynomials, into a function of the form <span class='clFormula'>$\sum_{j}\frac{f_{j}(x)}{g_{j}(x)}$</span>
+, where <span class='clFormula'>$g_{j}(x)$</span>
+are polynomials that are factors of <span class='clFormula'>$g(x)$</span>
+.</li>
+<li>The main motivation to decompose a rational function into a sum of simpler fractions is to make it simpler to perform linear operations on the sum.</li>
+<li>There are special cases that cannot be solved by the methodology described here. These include rational functions with repeated roots, and those where the degree of the polynomial in the numerator is greater than or equal to that in the denominator.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>degree</dt>
+<dd>the sum of the exponents of a term; the order of a polynomial.</dd>
+<dt>polynomial</dt>
+<dd>an expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as <equation>$a_n x^n + a_{n-1}x^{n-1} + ... + a_0 x^0$</equation>. Importantly, because all exponents are positive, it is impossible to divide by x.</dd>
+</dl>
+
+<h3>Partial Fraction Decomposition</h3>
+
+<p>In algebra, partial fraction decomposition (sometimes called partial fraction expansion) is a procedure used to reduce the degree of either the numerator or the denominator of a rational function. It involves splitting one ratio up into multiple simpler ratios. </p>
+<p>Here's an example of one ratio being split
+into a sum of three simpler ratios:
+ </p>
+
+<div class='clFormula'>$\displaystyle \frac{8x^2 + 3x - 21}{x^3 -7x -6} = &#10;\frac{1}{x+2} + \frac{3}{x-3} + \frac{4}{x+1}$</div>
+
+<p>In mathematical terms, partial fraction expansion is used to change a rational function in the form <span class='clFormula'>$\frac{f(x)}{g(x)}$</span>
+, where <span class='clFormula'>$f$</span>
+and <span class='clFormula'>$g$</span>
+are polynomials, into a function of the form  <span class='clFormula'>$\sum_{j}\frac{f_{j}(x)}{g_{j}(x)}$</span>
+. The denominators of the terms of this summation, <span class='clFormula'>$g_{j}(x)$</span>
+, are polynomials that are factors of <span class='clFormula'>$g(x)$</span>
+, and in general are  of lower degree. </p>
+<p>The main motivation to decompose a rational function into a sum of simpler fractions is to make it easier to perform linear operations on the sum. Reducing complex mathematical problems via partial fraction decomposition allows us to focus on computing each single element of the decomposition rather than the more complex rational function.</p>
+
+<h3>Steps to Decomposing a Rational Function</h3>
+
+<p>Say we have a rational function <span class='clFormula'>$R(x) = \frac{f(x)}{g(x)}$</span>
+, where the degree of the numerator is less than the degree of the denominator. Assume <span class='clFormula'>$R(x)$</span>
+has a denominator that factors into other expressions, as <span class='clFormula'>$g(x)=P(x)\cdot Q(x)$</span>
+, and that there are no repeated roots.</p>
+<p>The first step to decomposing the function <span class='clFormula'>$R(x)$</span>
+is to factor its denominator:</p>
+
+<div class='clFormula'>$\displaystyle R(x) = \frac{f(x)}{(x - a_1)(x - a_2)\cdots (x - a_p)}$</div>
+
+<p>where <span class='clFormula'>$a_1, ... , a_p$</span>
+are the roots of <span class='clFormula'>$g(x)$</span>
+.</p>
+<p>We can then write <span class='clFormula'>$R(x)$</span>
+as the sum of partial fractions:</p>
+
+<div class='clFormula'>$R(x) = \frac{c_1}{(x - a_1)}+&#10;\frac{c_2}{(x - a_2)}+ \cdots +&#10;\frac{c_p}{(x - a_p)}$</div>
+
+<p>where <span class='clFormula'>$c_1, ... , c_p$</span>
+are constants.</p>
+<p>To complete the process, we must
+	  determine the values of these <span class='clFormula'>$c_i$</span>
+	  coefficients.  To find a coefficient, multiply the denominator associated with it by the rational function <span class='clFormula'>$R(x)$</span>
+:</p>
+<p> <span class='clFormula'>$c_i = (x - a_i)R(x)$</span>
+ </p>
+<p>This will yield an expression with an <span class='clFormula'>$x$</span>
+-value. Substitute the associated root <span class='clFormula'>$a_i$</span>
+in for <span class='clFormula'>$x$</span>
+, and solve for the constant. The following problems provide an examples of this technique.</p>
+
+<h3>Example 1</h3>
+
+<p>Apply decomposition to the rational function <span class='clFormula'>$f(x)=\frac{1}{x^{2}+2x-3}$</span></p>
+<p>Factoring the denominator, we have:</p>
+
+<div class='clFormula'>$x^{2}+2x-3=(x+3)(x-1)$</div>
+
+<p>So we have the partial fraction decomposition:</p>
+
+<div class='clFormula'>$f(x)=\frac{1}{x^{2}+2x-3}=\frac{c_1}{x+3}+\frac{c_2}{x-1}$</div>
+
+<p>Now let's solve for the constant <span class='clFormula'>$c_1$</span>
+:</p>
+
+<div class='clFormula'>$c_1 = \frac{1}{x^{2}+2x-3} (x+3) = \frac{x+3}{(x+3)(x-1)} = \frac{1}{x-1}$</div>
+
+<p>Substituting <span class='clFormula'>$x=-3$</span>
+into this equation gives <span class='clFormula'>$c_1 = -\frac{1}{4}$</span>
+.</p>
+<p>Use the same process to solve for <span class='clFormula'>$c_2$</span>
+:</p>
+
+<div class='clFormula'>$c_2 = \frac{1}{x^{2}+2x-3} (x-1) = \frac{x-1}{(x+3)(x-1)} = \frac{1}{x+3}$</div>
+
+<p>Substituting <span class='clFormula'>$x=1$</span>
+gives <span class='clFormula'>$c_2 = \frac{1}{4}$</span>
+. Substituting these coefficients into the decomposed function, we have:</p>
+<p><span class='clFormula'>$f(x)=\frac{1}{x^{2}+2x-3}=\frac{1}{4}(\frac{-1}{x+3}+\frac{1}{x-1})$</span>
+.</p>
+<p>We have rewritten the initial rational function in terms of partial fractions. This is the most simplified form possible, so we are finished.</p>
+
+<h3>Example 2</h3>
+
+<p>Apply decomposition to the rational function <span class='clFormula'>$g(x) = \frac{8x^2 + 3x - 21}{x^3 - 7x - 6}$</span></p>
+<p>Factoring the denominator, we have:</p>
+
+<div class='clFormula'>$x^3 - 7x - 6=(x+2)(x-3)(x+1)$</div>
+
+<p>So we have the partial fraction decomposition:</p>
+
+<div class='clFormula'>$g(x)=\frac{8x^2 + 3x - 21}{x^3 - 7x - 6}=\frac{c_1}{(x+2)} + \frac{c_2}{(x-3)}+ \frac{c_3}{(x+1)}$</div>
+
+<p>We will now solve for each constant <span class='clFormula'>$c_i$</span>
+:</p>
+
+<div class='clFormula'>$c_1 = \frac{8x^2 + 3x - 21}{x^3 - 7x - 6} (x+2) = \frac{8x^2 + 3x - 21}{(x-3)(x+1)} $</div>
+
+<p>Substituting <span class='clFormula'>$x=-2$</span>
+, we have: </p>
+
+<div class='clFormula'>$\begin {align} c_1 &amp;= \frac{8(-2)^2 + 3(-2) - 21}{(-2-3)(-2+1)} &#10;\\&amp;= \frac {32-27}{(-5)(-1)}&#10;\\&amp;=1&#10;\end {align}$</div>
+
+
+<div class='clFormula'>$c_2 = \frac{8x^2 + 3x - 21}{x^3 - 7x - 6} (x-3) = \frac{8x^2 + 3x - 21}{(x+2)(x+1)} $</div>
+
+<p>Substituting <span class='clFormula'>$x=3$</span>
+, we have: </p>
+
+<div class='clFormula'>$\begin {align} c_2 &amp;= \frac{8(3)^2 + 3(3) - 21}{(3+2)(3+1)} &#10;\\&amp;= \frac {72-12}{15}&#10;\\&amp;= 4&#10;\end {align}$</div>
+
+
+<div class='clFormula'>$c_3 = \frac{8x^2 + 3x - 21}{x^3 - 7x - 6} (x+1) = \frac{8x^2 + 3x - 21}{(x+2)(x-3)} $</div>
+
+<p>Substituting <span class='clFormula'>$x=-1$</span>
+, we have: </p>
+
+<div class='clFormula'>$\begin {align}&#10;c_3&amp;=\frac{8(-1)^2 + 3(-1) - 21}{(-1+2)(-1-3)} &#10;\\ &amp;= \frac {8-24}{-4}&#10;\\ &amp;= 4&#10;\end {align}$</div>
+
+<p>We have solved for each constant and have our partial fraction expansion:
+
+	    </p>
+
+<div class='clFormula'>$g(x)=\frac{8x^2 + 3x - 21}{x^3 - 7x - 6}=\frac{1}{(x+2)} + \frac{4}{(x-3)}+ \frac{4}{(x+1)}$</div>
+
+
+<h3>Additional Considerations </h3>
+
+<p>There are some important cases to note, for which partial fraction decomposition becomes more complicated. Decomposition in each of the below cases involves steps in addition to those described above.</p>
+<ul>
+<li>If there are repeated roots in the denominator of a rational function (for example, consider <span class='clFormula'>$G(x) = \frac{x+2}{(x-1)^2(x+3)}$</span>
+, for which <span class='clFormula'>$x=1$</span>
+is a repeated root), additional steps must be taken to decompose the function.</li>
+<li>For a rational function <span class='clFormula'>$R(x) = \frac{f(x)}{g(x)}$</span>
+, if the degree of <span class='clFormula'>$f(x)$</span>
+is greater than or equal to the degree of <span class='clFormula'>$g(x)$</span>
+, the function cannot be decomposed in a straightforward way. It is necessary to perform the Euclidean division of <span class='clFormula'>$f$</span>
+by <span class='clFormula'>$g$</span>
+using polynomial long division, giving <span class='clFormula'>$f(x) = E(X)g(x) + h(x)$</span>
+. Dividing through by <span class='clFormula'>$g(x)$</span>
+gives <span class='clFormula'>$\frac{f(x)}{g(x)}=E(x)+\frac{h(x)}{g(x)}$</span>
+, which you can then perform the decomposition on <span class='clFormula'>$\frac{h(x)}{g(x)}$</span>
+.</li>
+</ul>
+<h2 id='section_33'>7.6. Inequalities With Polynomial and Rational Functions</h2>
+
+<h3 id='concept_160'>7.6.1. Polynomial Inequalities</h3>
+
+<blockquote>Polynomials can be expressed as inequalities, the solutions for which can be determined from the polynomial's zeros.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve for the zeros of a polynomial inequality to find its solution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To solve a polynomial inequality, first rewrite the polynomial in its factored form to find its zeros.</li>
+<li>For each zero, input the value of the zero in place of <span class='clFormula'>$x$</span>
+in the polynomial. Determine the sign (positive or negative) of the polynomial as it passes the zero in the rightward direction.</li>
+<li>Determine the intervals between these roots which satisfy the inequality.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>inequality</dt>
+<dd>A statement that of two quantities, one is specifically less than or greater than another. Symbols: &lt; or ≤ or &gt; or ≥, as appropriate.</dd>
+</dl>
+
+<h3>Solving Polynomial Inequalities</h3>
+
+<p>Like any other function, a polynomial may be written as an inequality, giving a large range of solutions.</p>
+<p>The best way to solve a polynomial inequality is to find its zeros.  The easiest way to find the zeros of a polynomial is to express it in factored form. At these points, the polynomial's value goes from negative to positive or positive to negative.  This knowledge can then be used to determine the solutions of the inequality.  Much of the work involved with solving inequalities is based in observation and judgement of a particular mathematical situation, and is therefore best demonstrated with an example.</p>
+
+<h3>Example</h3>
+
+<p>Consider the polynomial inequality:</p>
+
+<div class='clFormula'>$x^3+2x^2-5x-6&gt;0$</div>
+
+<p>This can be expressed as the product of three terms:</p>
+
+<div class='clFormula'>$(x-2)(x+1)(x+3)&gt;0$</div>
+
+<p>The three terms reveal zeros at <span class='clFormula'>$x=-3$</span>
+, <span class='clFormula'>$x=-1$</span>
+, and <span class='clFormula'>$x=2$</span>
+. We know that the lower limit of the inequality crosses the x-axis at each of these <span class='clFormula'>$x$</span>
+values, but now have to determine which direction (positive or negative) it takes at each crossing.</p>
+<p> <span class='clFormula'>$x+3&gt;0$</span>
+ for <span class='clFormula'>$x&gt;-3$</span></p>
+<p> <span class='clFormula'>$x+1&gt;0$</span>
+ for <span class='clFormula'>$x&gt;-1$</span></p>
+<p> <span class='clFormula'>$x-2&gt;0$</span>
+ for <span class='clFormula'>$x&gt;2$</span></p>
+<p>Thus, as the polynomial crosses the x-axis at <span class='clFormula'>$x=-3$</span>
+, the term <span class='clFormula'>$(x+3)$</span>
+equals zero, becoming positive to the right. At the same point, <span class='clFormula'>$(x+1)$</span>
+and <span class='clFormula'>$(x-2)$</span>
+are negative. The product of a positive and two negatives is positive, so we can conclude that the polynomial becomes positive as it passes <span class='clFormula'>$x=-3$</span>
+.</p>
+<p>The next zero is at <span class='clFormula'>$x=-1$</span>
+. From the explanation above, we know that the polynomial is positive as it approaches its next zero, but we can use the same reasoning for proof.  At <span class='clFormula'>$x=-1$</span>
+, <span class='clFormula'>$(x+1)$</span>
+equals zero, becoming positive to the right. The term <span class='clFormula'>$(x+3)$</span>
+is positive, while <span class='clFormula'>$(x-2)$</span>
+is negative. The product of two positives and a negative is negative, so we can conclude that the polynomial becomes negative as it passes <span class='clFormula'>$x=-1$</span>
+.</p>
+<p>The same process can be used to show that the polynomial becomes positive again at <span class='clFormula'>$x=2$</span>
+.</p>
+<p>Recalling the initial inequality, we can now determine the solution of exactly where the polynomial is greater than zero. Because there is no zero to the left of <span class='clFormula'>$x=-3$</span>
+, we can assume that the polynomial is negative for all <span class='clFormula'>$x$</span>
+ values <span class='clFormula'>$-\infty$</span>
+to <span class='clFormula'>$-3$</span>
+. The polynomial is positive from <span class='clFormula'>$x=-3$</span>
+to <span class='clFormula'>$x=-1$</span>
+before becoming negative once more. It becomes positive at <span class='clFormula'>$x=2$</span>
+, and because there are no more zeros to the right, we can assume the polynomial remains positive as <span class='clFormula'>$x$</span>
+approaches <span class='clFormula'>$\infty$</span>
+.</p>
+<p>Thus, the solution is: <span class='clFormula'>$(-3,-1),(2,\infty)$</span></p>
+<p>For inequalities that are not expressed relative to zero, expressions can be added or subtracted from each side to take it into the desired form.</p>
+
+<h3 id='concept_161'>7.6.2. Rational Inequalities</h3>
+
+<blockquote>Rational inequalities can be solved much like polynomial inequalities.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve for the zeros and asymptotes of a rational inequality to find its solution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>First factor the numerator and denominator polynomial to reveal the zeros in each.</li>
+<li>Substitute <span class='clFormula'>$x$</span>
+with a zero (root) to determine whether the rational function is positive or negative to the right of that point. Repeat for all zeros.</li>
+<li>The intervals that satisfy the inequality symbol will be the answer. Note that for any <span class='clFormula'>$\geq$</span>
+or <span class='clFormula'>$\leq$</span>
+, the interval will only be closed to include the zero if the zero is found in the numerator. If the zero is found in the denominator, that point is undefined, and cannot be included in the solution.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>zero</dt>
+<dd>Also known as a root, a zero is an <equation>$x$</equation> value at which the function of <equation>$x$</equation> is equal to zero.</dd>
+<dt>inequality</dt>
+<dd>A statement that of two quantities one is specifically less than or greater than another. Symbols: <equation>$&lt;$</equation> or <equation>$\leq$</equation> or <equation>$&gt;$</equation> or <equation>$\geq$</equation>, as appropriate.</dd>
+</dl>
+
+<p>As with solving polynomial inequalities, the first step to solving rational inequalities is to find the zeros.  Because a rational expression consists of the ratio of two polynomials, the zeroes for both polynomials will be needed.</p>
+<p>The zeros in the numerator are <span class='clFormula'>$x$</span>
+-values at which the rational inequality crosses from negative to positive or from positive to negative. The zeros in the denominator are <span class='clFormula'>$x$</span>
+-values are at which the rational inequality is undefined, the result of dividing by zero.</p>
+
+<h3>Example</h3>
+
+<p>Consider the rational inequality:</p>
+
+<div class='clFormula'>$\frac{x^2+2x-3}{x^2-4}&gt;0$</div>
+
+<p>This equation can be factored to give:</p>
+
+<div class='clFormula'>$\frac{(x+3)(x-1)}{(x+2)(x-2)}\geq 0$</div>
+
+<p>The numerator has zeros at <span class='clFormula'>$x=-3$</span>
+and <span class='clFormula'>$x=1$</span>
+. The denominator has zeros at <span class='clFormula'>$x=-2$</span>
+and <span class='clFormula'>$x=2$</span>
+.</p>
+<p>As <span class='clFormula'>$x$</span>
+crosses rightward past <span class='clFormula'>$-3$</span>
+, <span class='clFormula'>$(x+3)$</span>
+becomes positive. At that same point, <span class='clFormula'>$(x-1)$</span>
+, <span class='clFormula'>$(x+2)$</span>
+, and <span class='clFormula'>$(x-2)$</span>
+are all negative. The product of a positive and three negatives is negative, so the rational expression becomes negative as it crosses <span class='clFormula'>$x=-3$</span>
+in the rightward direction.</p>
+<p>The same process can be used to determine that the rational expression is positive after passing the zero at <span class='clFormula'>$x=-2$</span>
+, is negative after passing <span class='clFormula'>$x=1$</span>
+, and is positive after passing <span class='clFormula'>$x=2$</span>
+.</p>
+<p>Thus we can conclude that for <span class='clFormula'>$x$</span>
+values on the open interval from <span class='clFormula'>$-\infty$</span>
+ to <span class='clFormula'>$-3$</span>
+, the rational expression is negative. From <span class='clFormula'>$-3$</span>
+to <span class='clFormula'>$-2$</span>
+, it is positive; from <span class='clFormula'>$-2$</span>
+to <span class='clFormula'>$1$</span>
+it is negative; from <span class='clFormula'>$1$</span>
+to <span class='clFormula'>$2$</span>
+it is positive, and from <span class='clFormula'>$2$</span>
+to <span class='clFormula'>$\infty$</span>
+it is negative.</p>
+<p>Because the inequality is written as <span class='clFormula'>$\geq0$</span>
+as opposed to <span class='clFormula'>$&gt;0$</span>
+, we will need to evaluate the <span class='clFormula'>$x$</span>
+values at zeros to determine whether the function is defined.</p>
+<p>In the case of <span class='clFormula'>$x=-2$</span>
+and <span class='clFormula'>$x=2$</span>
+, the rational function has a denominator equal to zero and becomes undefined.</p>
+<p>In the case of <span class='clFormula'>$x=-3$</span>
+and <span class='clFormula'>$x=1$</span>
+, the rational function has a numerator equal to zero, which makes the function overall equal to zero, making it inclusive in the solution.</p>
+<p>Thus, the full solution is:</p>
+<p>[-3, -2), [1, 2) </p>
+
+</div>
+</div>
+</body>
+</html>

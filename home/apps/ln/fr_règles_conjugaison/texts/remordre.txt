@@ -1,0 +1,190 @@
+# remordre %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|remord%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|remord%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|remord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||remord%[m|u]|
+|ayant|remord%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en remord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|remord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|remord%[m|s]|
+|tu|remord%[m|s]|
+|il|remord%[m|]|
+|nous|remord%[m|ons]|
+|vous|remord%[m|ez]|
+|ils|remord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|remord%[m|u]|
+|tu|as |remord%[m|u]|
+|il|a|remord%[m|u]|
+|nous|avons|remord%[m|u]|
+|vous|avez|remord%[m|u]|
+|ils|ont|remord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|remord%[m|ais]|
+|tu|remord%[m|ais]|
+|il|remord%[m|ait]|
+|nous|remord%[m|ions]|
+|vous|remord%[m|iez]|
+|ils|remord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|remord%[m|u]|
+|tu|avais|remord%[m|u]|
+|il|avait|remord%[m|u]|
+|nous|avions|remord%[m|u]|
+|vous|aviez|remord%[m|u]|
+|ils|avaient|remord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|remord%[m|is]|
+|tu|remord%[m|is]|
+|il|remord%[m|it]|
+|nous|remord%[m|îmes]|
+|vous|remord%[m|îtes]|
+|ils|remord%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|remord%[m|u]|
+|tu|eus|remord%[m|u]|
+|il|eut|remord%[m|u]|
+|nous|e&ucirc;mes|remord%[m|u]|
+|vous|e&ucirc;tes|remord%[m|u]|
+|ils|eurent|remord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|remord%[m|rai]|
+|tu|remord%[m|ras]|
+|il|remord%[m|ra]|
+|nous|remord%[m|rons]|
+|vous|remord%[m|rez]|
+|ils|remord%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|remord%[m|u]|
+|tu|auras|remord%[m|u]|
+|il|aura|remord%[m|u]|
+|nous|aurons|remord%[m|u]|
+|vous|aurez|remord%[m|u]|
+|ils|auront|remord%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|remord%[m|rais]|
+|tu|remord%[m|rais]|
+|il|remord%[m|rait]|
+|nous|remord%[m|rions]|
+|vous|remord%[m|riez]|
+|ils|remord%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|remord%[m|u]|
+|tu|aurais|remord%[m|u]|
+|il|aurait|remord%[m|u]|
+|nous|aurions|remord%[m|u]|
+|vous|auriez|remord%[m|u]|
+|ils|auraient|remord%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|remord%[m|e]|
+|que|tu|remord%[m|es]|
+|qu'|il|remord%[m|e]|
+|que|nous|remord%[m|ions]|
+|que|vous|remord%[m|iez]|
+|qu'|ils|remord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|remord%[m|u]|
+|que|tu|aies|remord%[m|u]|
+|qu'|il|ait|remord%[m|u]|
+|que|nous|ayons|remord%[m|u]|
+|que|vous|ayez|remord%[m|u]|
+|qu'|ils|aient|remord%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|remord%[m|isse]|
+|que|tu|remord%[m|isses]|
+|qu'|il|remord%[m|ît]|
+|que|nous|remord%[m|issions]|
+|que|vous|remord%[m|issiez]|
+|qu'|ils|remord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|remord%[m|u]|
+|que|tu|eusses|remord%[m|u]|
+|qu'|il|eût|remord%[m|u]|
+|que|nous|eussions|remord%[m|u]|
+|que|vous|eussiez|remord%[m|u]|
+|qu'|ils|eussent|remord%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|remord%[m|s]|
+|remord%[m|ons]|
+|remord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|remord%[m|u]|
+|ayons|remord%[m|u]|
+|ayez|remord%[m|u]|
+|]
+

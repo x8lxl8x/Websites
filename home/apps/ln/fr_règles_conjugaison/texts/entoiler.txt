@@ -1,0 +1,191 @@
+# entoiler %[clVerbGroup|1]
+[-
+fixer quelque chose sur une toile. 
+garnir de toile. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|entoil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|entoil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|entoil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||entoil%[m|é]|
+|ayant|entoil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en entoil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|entoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|entoil%[m|e]|
+|tu|entoil%[m|es]|
+|il|entoil%[m|e]|
+|nous|entoil%[m|ons]|
+|vous|entoil%[m|ez]|
+|ils|entoil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|entoil%[m|é]|
+|tu|as |entoil%[m|é]|
+|il|a|entoil%[m|é]|
+|nous|avons|entoil%[m|é]|
+|vous|avez|entoil%[m|é]|
+|ils|ont|entoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|entoil%[m|ais]|
+|tu|entoil%[m|ais]|
+|il|entoil%[m|ait]|
+|nous|entoil%[m|ions]|
+|vous|entoil%[m|iez]|
+|ils|entoil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|entoil%[m|é]|
+|tu|avais|entoil%[m|é]|
+|il|avait|entoil%[m|é]|
+|nous|avions|entoil%[m|é]|
+|vous|aviez|entoil%[m|é]|
+|ils|avaient|entoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|entoil%[m|ai]|
+|tu|entoil%[m|as]|
+|il|entoil%[m|a]|
+|nous|entoil%[m|âmes]|
+|vous|entoil%[m|âtes]|
+|ils|entoil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|entoil%[m|é]|
+|tu|eus|entoil%[m|é]|
+|il|eut|entoil%[m|é]|
+|nous|e&ucirc;mes|entoil%[m|é]|
+|vous|e&ucirc;tes|entoil%[m|é]|
+|ils|eurent|entoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|entoil%[m|erai]|
+|tu|entoil%[m|eras]|
+|il|entoil%[m|era]|
+|nous|entoil%[m|erons]|
+|vous|entoil%[m|erez]|
+|ils|entoil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|entoil%[m|é]|
+|tu|auras|entoil%[m|é]|
+|il|aura|entoil%[m|é]|
+|nous|aurons|entoil%[m|é]|
+|vous|aurez|entoil%[m|é]|
+|ils|auront|entoil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|entoil%[m|erais]|
+|tu|entoil%[m|erais]|
+|il|entoil%[m|erait]|
+|nous|entoil%[m|erions]|
+|vous|entoil%[m|eriez]|
+|ils|entoil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|entoil%[m|é]|
+|tu|aurais|entoil%[m|é]|
+|il|aurait|entoil%[m|é]|
+|nous|aurions|entoil%[m|é]|
+|vous|auriez|entoil%[m|é]|
+|ils|auraient|entoil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|entoil%[m|e]|
+|que|tu|entoil%[m|es]|
+|qu'|il|entoil%[m|e]|
+|que|nous|entoil%[m|ions]|
+|que|vous|entoil%[m|iez]|
+|qu'|ils|entoil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|entoil%[m|é]|
+|que|tu|aies|entoil%[m|é]|
+|qu'|il|ait|entoil%[m|é]|
+|que|nous|ayons|entoil%[m|é]|
+|que|vous|ayez|entoil%[m|é]|
+|qu'|ils|aient|entoil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|entoil%[m|asse]|
+|que|tu|entoil%[m|asses]|
+|qu'|il|entoil%[m|ât]|
+|que|nous|entoil%[m|assions]|
+|que|vous|entoil%[m|assiez]|
+|qu'|ils|entoil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|entoil%[m|é]|
+|que|tu|eusses|entoil%[m|é]|
+|qu'|il|eût|entoil%[m|é]|
+|que|nous|eussions|entoil%[m|é]|
+|que|vous|eussiez|entoil%[m|é]|
+|qu'|ils|eussent|entoil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|entoil%[m|e]|
+|entoil%[m|ons]|
+|entoil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|entoil%[m|é]|
+|ayons|entoil%[m|é]|
+|ayez|entoil%[m|é]|
+|]
+

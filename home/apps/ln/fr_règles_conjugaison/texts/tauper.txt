@@ -1,0 +1,190 @@
+# tauper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|taup%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|taup%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|taup%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||taup%[m|é]|
+|ayant|taup%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en taup%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|taup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|taup%[m|e]|
+|tu|taup%[m|es]|
+|il|taup%[m|e]|
+|nous|taup%[m|ons]|
+|vous|taup%[m|ez]|
+|ils|taup%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|taup%[m|é]|
+|tu|as |taup%[m|é]|
+|il|a|taup%[m|é]|
+|nous|avons|taup%[m|é]|
+|vous|avez|taup%[m|é]|
+|ils|ont|taup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|taup%[m|ais]|
+|tu|taup%[m|ais]|
+|il|taup%[m|ait]|
+|nous|taup%[m|ions]|
+|vous|taup%[m|iez]|
+|ils|taup%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|taup%[m|é]|
+|tu|avais|taup%[m|é]|
+|il|avait|taup%[m|é]|
+|nous|avions|taup%[m|é]|
+|vous|aviez|taup%[m|é]|
+|ils|avaient|taup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|taup%[m|ai]|
+|tu|taup%[m|as]|
+|il|taup%[m|a]|
+|nous|taup%[m|âmes]|
+|vous|taup%[m|âtes]|
+|ils|taup%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|taup%[m|é]|
+|tu|eus|taup%[m|é]|
+|il|eut|taup%[m|é]|
+|nous|e&ucirc;mes|taup%[m|é]|
+|vous|e&ucirc;tes|taup%[m|é]|
+|ils|eurent|taup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|taup%[m|erai]|
+|tu|taup%[m|eras]|
+|il|taup%[m|era]|
+|nous|taup%[m|erons]|
+|vous|taup%[m|erez]|
+|ils|taup%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|taup%[m|é]|
+|tu|auras|taup%[m|é]|
+|il|aura|taup%[m|é]|
+|nous|aurons|taup%[m|é]|
+|vous|aurez|taup%[m|é]|
+|ils|auront|taup%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|taup%[m|erais]|
+|tu|taup%[m|erais]|
+|il|taup%[m|erait]|
+|nous|taup%[m|erions]|
+|vous|taup%[m|eriez]|
+|ils|taup%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|taup%[m|é]|
+|tu|aurais|taup%[m|é]|
+|il|aurait|taup%[m|é]|
+|nous|aurions|taup%[m|é]|
+|vous|auriez|taup%[m|é]|
+|ils|auraient|taup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|taup%[m|e]|
+|que|tu|taup%[m|es]|
+|qu'|il|taup%[m|e]|
+|que|nous|taup%[m|ions]|
+|que|vous|taup%[m|iez]|
+|qu'|ils|taup%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|taup%[m|é]|
+|que|tu|aies|taup%[m|é]|
+|qu'|il|ait|taup%[m|é]|
+|que|nous|ayons|taup%[m|é]|
+|que|vous|ayez|taup%[m|é]|
+|qu'|ils|aient|taup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|taup%[m|asse]|
+|que|tu|taup%[m|asses]|
+|qu'|il|taup%[m|ât]|
+|que|nous|taup%[m|assions]|
+|que|vous|taup%[m|assiez]|
+|qu'|ils|taup%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|taup%[m|é]|
+|que|tu|eusses|taup%[m|é]|
+|qu'|il|eût|taup%[m|é]|
+|que|nous|eussions|taup%[m|é]|
+|que|vous|eussiez|taup%[m|é]|
+|qu'|ils|eussent|taup%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|taup%[m|e]|
+|taup%[m|ons]|
+|taup%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|taup%[m|é]|
+|ayons|taup%[m|é]|
+|ayez|taup%[m|é]|
+|]
+

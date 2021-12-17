@@ -1,0 +1,190 @@
+# cameloter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|camelot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|camelot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|camelot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||camelot%[m|é]|
+|ayant|camelot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en camelot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|camelot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|camelot%[m|e]|
+|tu|camelot%[m|es]|
+|il|camelot%[m|e]|
+|nous|camelot%[m|ons]|
+|vous|camelot%[m|ez]|
+|ils|camelot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|camelot%[m|é]|
+|tu|as |camelot%[m|é]|
+|il|a|camelot%[m|é]|
+|nous|avons|camelot%[m|é]|
+|vous|avez|camelot%[m|é]|
+|ils|ont|camelot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|camelot%[m|ais]|
+|tu|camelot%[m|ais]|
+|il|camelot%[m|ait]|
+|nous|camelot%[m|ions]|
+|vous|camelot%[m|iez]|
+|ils|camelot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|camelot%[m|é]|
+|tu|avais|camelot%[m|é]|
+|il|avait|camelot%[m|é]|
+|nous|avions|camelot%[m|é]|
+|vous|aviez|camelot%[m|é]|
+|ils|avaient|camelot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|camelot%[m|ai]|
+|tu|camelot%[m|as]|
+|il|camelot%[m|a]|
+|nous|camelot%[m|âmes]|
+|vous|camelot%[m|âtes]|
+|ils|camelot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|camelot%[m|é]|
+|tu|eus|camelot%[m|é]|
+|il|eut|camelot%[m|é]|
+|nous|e&ucirc;mes|camelot%[m|é]|
+|vous|e&ucirc;tes|camelot%[m|é]|
+|ils|eurent|camelot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|camelot%[m|erai]|
+|tu|camelot%[m|eras]|
+|il|camelot%[m|era]|
+|nous|camelot%[m|erons]|
+|vous|camelot%[m|erez]|
+|ils|camelot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|camelot%[m|é]|
+|tu|auras|camelot%[m|é]|
+|il|aura|camelot%[m|é]|
+|nous|aurons|camelot%[m|é]|
+|vous|aurez|camelot%[m|é]|
+|ils|auront|camelot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|camelot%[m|erais]|
+|tu|camelot%[m|erais]|
+|il|camelot%[m|erait]|
+|nous|camelot%[m|erions]|
+|vous|camelot%[m|eriez]|
+|ils|camelot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|camelot%[m|é]|
+|tu|aurais|camelot%[m|é]|
+|il|aurait|camelot%[m|é]|
+|nous|aurions|camelot%[m|é]|
+|vous|auriez|camelot%[m|é]|
+|ils|auraient|camelot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|camelot%[m|e]|
+|que|tu|camelot%[m|es]|
+|qu'|il|camelot%[m|e]|
+|que|nous|camelot%[m|ions]|
+|que|vous|camelot%[m|iez]|
+|qu'|ils|camelot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|camelot%[m|é]|
+|que|tu|aies|camelot%[m|é]|
+|qu'|il|ait|camelot%[m|é]|
+|que|nous|ayons|camelot%[m|é]|
+|que|vous|ayez|camelot%[m|é]|
+|qu'|ils|aient|camelot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|camelot%[m|asse]|
+|que|tu|camelot%[m|asses]|
+|qu'|il|camelot%[m|ât]|
+|que|nous|camelot%[m|assions]|
+|que|vous|camelot%[m|assiez]|
+|qu'|ils|camelot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|camelot%[m|é]|
+|que|tu|eusses|camelot%[m|é]|
+|qu'|il|eût|camelot%[m|é]|
+|que|nous|eussions|camelot%[m|é]|
+|que|vous|eussiez|camelot%[m|é]|
+|qu'|ils|eussent|camelot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|camelot%[m|e]|
+|camelot%[m|ons]|
+|camelot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|camelot%[m|é]|
+|ayons|camelot%[m|é]|
+|ayez|camelot%[m|é]|
+|]
+

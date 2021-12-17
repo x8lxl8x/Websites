@@ -1,0 +1,27 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Разное</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id12001' name='var12001' type='checkbox' placeholder='$arrValues[1]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Визуализация                           </td></tr>
+<tr><td><input id='id12002' name='var12002' type='checkbox' placeholder='$arrValues[2]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Джала Нети                             </td></tr>
+<tr><td><input id='id12003' name='var12003' type='checkbox' placeholder='$arrValues[3]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Капиллярная гимнастика                 </td></tr>
+<tr><td><input id='id12004' name='var12004' type='checkbox' placeholder='$arrValues[4]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Акупрессура                            </td></tr>
+<tr><td><input id='id12005' name='var12005' type='checkbox' placeholder='$arrValues[5]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Цигун и Тай Чи                         </td></tr>
+<tr><td><input id='id12006' name='var12006' type='checkbox' placeholder='$arrValues[6]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Гимнастический мяч                     </td></tr>
+<tr><td><input id='id12007' name='var12007' type='checkbox' placeholder='$arrValues[7]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Массажеры                              </td></tr>
+<tr><td><input id='id12008' name='var12008' type='checkbox' placeholder='$arrValues[8]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Лучший педикюр                         </td></tr>
+<tr><td><input id='id12009' name='var12009' type='checkbox' placeholder='$arrValues[9]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 009&nbsp;&nbsp;&nbsp;Работа с чакрами                       </td></tr>
+<tr><td><input id='id12010' name='var12010' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 010&nbsp;&nbsp;&nbsp;Мокса-терапия                          </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

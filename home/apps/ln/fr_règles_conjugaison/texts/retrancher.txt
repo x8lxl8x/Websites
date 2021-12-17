@@ -1,0 +1,190 @@
+# retrancher %[clVerbGroup|1]
+[-
+ôter un élément d'un tout. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|retranch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|retranch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|retranch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||retranch%[m|é]|
+|ayant|retranch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en retranch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|retranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|retranch%[m|e]|
+|tu|retranch%[m|es]|
+|il|retranch%[m|e]|
+|nous|retranch%[m|ons]|
+|vous|retranch%[m|ez]|
+|ils|retranch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|retranch%[m|é]|
+|tu|as |retranch%[m|é]|
+|il|a|retranch%[m|é]|
+|nous|avons|retranch%[m|é]|
+|vous|avez|retranch%[m|é]|
+|ils|ont|retranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|retranch%[m|ais]|
+|tu|retranch%[m|ais]|
+|il|retranch%[m|ait]|
+|nous|retranch%[m|ions]|
+|vous|retranch%[m|iez]|
+|ils|retranch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|retranch%[m|é]|
+|tu|avais|retranch%[m|é]|
+|il|avait|retranch%[m|é]|
+|nous|avions|retranch%[m|é]|
+|vous|aviez|retranch%[m|é]|
+|ils|avaient|retranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|retranch%[m|ai]|
+|tu|retranch%[m|as]|
+|il|retranch%[m|a]|
+|nous|retranch%[m|âmes]|
+|vous|retranch%[m|âtes]|
+|ils|retranch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|retranch%[m|é]|
+|tu|eus|retranch%[m|é]|
+|il|eut|retranch%[m|é]|
+|nous|e&ucirc;mes|retranch%[m|é]|
+|vous|e&ucirc;tes|retranch%[m|é]|
+|ils|eurent|retranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|retranch%[m|erai]|
+|tu|retranch%[m|eras]|
+|il|retranch%[m|era]|
+|nous|retranch%[m|erons]|
+|vous|retranch%[m|erez]|
+|ils|retranch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|retranch%[m|é]|
+|tu|auras|retranch%[m|é]|
+|il|aura|retranch%[m|é]|
+|nous|aurons|retranch%[m|é]|
+|vous|aurez|retranch%[m|é]|
+|ils|auront|retranch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|retranch%[m|erais]|
+|tu|retranch%[m|erais]|
+|il|retranch%[m|erait]|
+|nous|retranch%[m|erions]|
+|vous|retranch%[m|eriez]|
+|ils|retranch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|retranch%[m|é]|
+|tu|aurais|retranch%[m|é]|
+|il|aurait|retranch%[m|é]|
+|nous|aurions|retranch%[m|é]|
+|vous|auriez|retranch%[m|é]|
+|ils|auraient|retranch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|retranch%[m|e]|
+|que|tu|retranch%[m|es]|
+|qu'|il|retranch%[m|e]|
+|que|nous|retranch%[m|ions]|
+|que|vous|retranch%[m|iez]|
+|qu'|ils|retranch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|retranch%[m|é]|
+|que|tu|aies|retranch%[m|é]|
+|qu'|il|ait|retranch%[m|é]|
+|que|nous|ayons|retranch%[m|é]|
+|que|vous|ayez|retranch%[m|é]|
+|qu'|ils|aient|retranch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|retranch%[m|asse]|
+|que|tu|retranch%[m|asses]|
+|qu'|il|retranch%[m|ât]|
+|que|nous|retranch%[m|assions]|
+|que|vous|retranch%[m|assiez]|
+|qu'|ils|retranch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|retranch%[m|é]|
+|que|tu|eusses|retranch%[m|é]|
+|qu'|il|eût|retranch%[m|é]|
+|que|nous|eussions|retranch%[m|é]|
+|que|vous|eussiez|retranch%[m|é]|
+|qu'|ils|eussent|retranch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|retranch%[m|e]|
+|retranch%[m|ons]|
+|retranch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|retranch%[m|é]|
+|ayons|retranch%[m|é]|
+|ayez|retranch%[m|é]|
+|]
+

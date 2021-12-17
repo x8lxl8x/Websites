@@ -1,0 +1,17 @@
+# Calling Tiles
+
+When a player discards the tile, other players may call it if it completes a set or their entire hand. There are four different types of calls for discarded tiles:
+
+### Chii
+This is the call to complete a sequence. The chii call can only be used for discards from the player immediately to the left of the player calling
+
+### Pon
+This is the call to complete a triplet. The pon call can be used for discards by any player
+
+### Kan
+This is the call to complete a kan. The kan call can be used for discards by any player. This call is also used when the player has four of the same tile in their hand and wishes to declare it as a kan, or has a previously melded pon and then draw the fourth tile, allowing them to upgrade it to a kan.
+
+### Ron
+This is the call when a player is in tenpai (i.e. only needs one more tile to win) and another player discards the last tile required to complete their winning hand. Ron can be called from any player.
+
+After a set has been called, the tiles are placed face-up to the right of the player who called them. The called tile is rotated so that it is sideways, and is positioned to indicate which player discarded it, e.g. if the right tile is turned sideways then it indicates the player to the right discarded it.

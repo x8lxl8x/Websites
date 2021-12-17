@@ -1,0 +1,190 @@
+# mendigoter %[clVerbGroup|1]
+[-
+faire la quête, mendier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mendigot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mendigot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mendigot%[m|é]|
+|ayant|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mendigot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mendigot%[m|e]|
+|tu|mendigot%[m|es]|
+|il|mendigot%[m|e]|
+|nous|mendigot%[m|ons]|
+|vous|mendigot%[m|ez]|
+|ils|mendigot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mendigot%[m|é]|
+|tu|as |mendigot%[m|é]|
+|il|a|mendigot%[m|é]|
+|nous|avons|mendigot%[m|é]|
+|vous|avez|mendigot%[m|é]|
+|ils|ont|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mendigot%[m|ais]|
+|tu|mendigot%[m|ais]|
+|il|mendigot%[m|ait]|
+|nous|mendigot%[m|ions]|
+|vous|mendigot%[m|iez]|
+|ils|mendigot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mendigot%[m|é]|
+|tu|avais|mendigot%[m|é]|
+|il|avait|mendigot%[m|é]|
+|nous|avions|mendigot%[m|é]|
+|vous|aviez|mendigot%[m|é]|
+|ils|avaient|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mendigot%[m|ai]|
+|tu|mendigot%[m|as]|
+|il|mendigot%[m|a]|
+|nous|mendigot%[m|âmes]|
+|vous|mendigot%[m|âtes]|
+|ils|mendigot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mendigot%[m|é]|
+|tu|eus|mendigot%[m|é]|
+|il|eut|mendigot%[m|é]|
+|nous|e&ucirc;mes|mendigot%[m|é]|
+|vous|e&ucirc;tes|mendigot%[m|é]|
+|ils|eurent|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mendigot%[m|erai]|
+|tu|mendigot%[m|eras]|
+|il|mendigot%[m|era]|
+|nous|mendigot%[m|erons]|
+|vous|mendigot%[m|erez]|
+|ils|mendigot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mendigot%[m|é]|
+|tu|auras|mendigot%[m|é]|
+|il|aura|mendigot%[m|é]|
+|nous|aurons|mendigot%[m|é]|
+|vous|aurez|mendigot%[m|é]|
+|ils|auront|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mendigot%[m|erais]|
+|tu|mendigot%[m|erais]|
+|il|mendigot%[m|erait]|
+|nous|mendigot%[m|erions]|
+|vous|mendigot%[m|eriez]|
+|ils|mendigot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mendigot%[m|é]|
+|tu|aurais|mendigot%[m|é]|
+|il|aurait|mendigot%[m|é]|
+|nous|aurions|mendigot%[m|é]|
+|vous|auriez|mendigot%[m|é]|
+|ils|auraient|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mendigot%[m|e]|
+|que|tu|mendigot%[m|es]|
+|qu'|il|mendigot%[m|e]|
+|que|nous|mendigot%[m|ions]|
+|que|vous|mendigot%[m|iez]|
+|qu'|ils|mendigot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mendigot%[m|é]|
+|que|tu|aies|mendigot%[m|é]|
+|qu'|il|ait|mendigot%[m|é]|
+|que|nous|ayons|mendigot%[m|é]|
+|que|vous|ayez|mendigot%[m|é]|
+|qu'|ils|aient|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mendigot%[m|asse]|
+|que|tu|mendigot%[m|asses]|
+|qu'|il|mendigot%[m|ât]|
+|que|nous|mendigot%[m|assions]|
+|que|vous|mendigot%[m|assiez]|
+|qu'|ils|mendigot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mendigot%[m|é]|
+|que|tu|eusses|mendigot%[m|é]|
+|qu'|il|eût|mendigot%[m|é]|
+|que|nous|eussions|mendigot%[m|é]|
+|que|vous|eussiez|mendigot%[m|é]|
+|qu'|ils|eussent|mendigot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mendigot%[m|e]|
+|mendigot%[m|ons]|
+|mendigot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mendigot%[m|é]|
+|ayons|mendigot%[m|é]|
+|ayez|mendigot%[m|é]|
+|]
+

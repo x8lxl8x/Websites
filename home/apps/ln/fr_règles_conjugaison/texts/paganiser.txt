@@ -1,0 +1,190 @@
+# paganiser %[clVerbGroup|1]
+[-
+donner un caractère païen. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|paganis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|paganis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|paganis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||paganis%[m|é]|
+|ayant|paganis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en paganis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|paganis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|paganis%[m|e]|
+|tu|paganis%[m|es]|
+|il|paganis%[m|e]|
+|nous|paganis%[m|ons]|
+|vous|paganis%[m|ez]|
+|ils|paganis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|paganis%[m|é]|
+|tu|as |paganis%[m|é]|
+|il|a|paganis%[m|é]|
+|nous|avons|paganis%[m|é]|
+|vous|avez|paganis%[m|é]|
+|ils|ont|paganis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|paganis%[m|ais]|
+|tu|paganis%[m|ais]|
+|il|paganis%[m|ait]|
+|nous|paganis%[m|ions]|
+|vous|paganis%[m|iez]|
+|ils|paganis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|paganis%[m|é]|
+|tu|avais|paganis%[m|é]|
+|il|avait|paganis%[m|é]|
+|nous|avions|paganis%[m|é]|
+|vous|aviez|paganis%[m|é]|
+|ils|avaient|paganis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|paganis%[m|ai]|
+|tu|paganis%[m|as]|
+|il|paganis%[m|a]|
+|nous|paganis%[m|âmes]|
+|vous|paganis%[m|âtes]|
+|ils|paganis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|paganis%[m|é]|
+|tu|eus|paganis%[m|é]|
+|il|eut|paganis%[m|é]|
+|nous|e&ucirc;mes|paganis%[m|é]|
+|vous|e&ucirc;tes|paganis%[m|é]|
+|ils|eurent|paganis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|paganis%[m|erai]|
+|tu|paganis%[m|eras]|
+|il|paganis%[m|era]|
+|nous|paganis%[m|erons]|
+|vous|paganis%[m|erez]|
+|ils|paganis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|paganis%[m|é]|
+|tu|auras|paganis%[m|é]|
+|il|aura|paganis%[m|é]|
+|nous|aurons|paganis%[m|é]|
+|vous|aurez|paganis%[m|é]|
+|ils|auront|paganis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|paganis%[m|erais]|
+|tu|paganis%[m|erais]|
+|il|paganis%[m|erait]|
+|nous|paganis%[m|erions]|
+|vous|paganis%[m|eriez]|
+|ils|paganis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|paganis%[m|é]|
+|tu|aurais|paganis%[m|é]|
+|il|aurait|paganis%[m|é]|
+|nous|aurions|paganis%[m|é]|
+|vous|auriez|paganis%[m|é]|
+|ils|auraient|paganis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|paganis%[m|e]|
+|que|tu|paganis%[m|es]|
+|qu'|il|paganis%[m|e]|
+|que|nous|paganis%[m|ions]|
+|que|vous|paganis%[m|iez]|
+|qu'|ils|paganis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|paganis%[m|é]|
+|que|tu|aies|paganis%[m|é]|
+|qu'|il|ait|paganis%[m|é]|
+|que|nous|ayons|paganis%[m|é]|
+|que|vous|ayez|paganis%[m|é]|
+|qu'|ils|aient|paganis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|paganis%[m|asse]|
+|que|tu|paganis%[m|asses]|
+|qu'|il|paganis%[m|ât]|
+|que|nous|paganis%[m|assions]|
+|que|vous|paganis%[m|assiez]|
+|qu'|ils|paganis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|paganis%[m|é]|
+|que|tu|eusses|paganis%[m|é]|
+|qu'|il|eût|paganis%[m|é]|
+|que|nous|eussions|paganis%[m|é]|
+|que|vous|eussiez|paganis%[m|é]|
+|qu'|ils|eussent|paganis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|paganis%[m|e]|
+|paganis%[m|ons]|
+|paganis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|paganis%[m|é]|
+|ayons|paganis%[m|é]|
+|ayez|paganis%[m|é]|
+|]
+

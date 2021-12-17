@@ -1,0 +1,190 @@
+# se batailler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se bataill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|bataill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se bataill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|bataill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se bataill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|bataill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|bataill%[m|e]|
+|tu|te|bataill%[m|es]|
+|il|se|bataill%[m|e]|
+|nous|nous|bataill%[m|ons]|
+|vous|vous|bataill%[m|ez]|
+|ils|se|bataill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|bataill%[m|é]|
+|tu|t'|es|bataill%[m|é]|
+|il|s'|est|bataill%[m|é]|
+|nous|nous|sommes|bataill%[m|és]|
+|vous|vous|êtes|bataill%[m|és]|
+|ils|se|sont|bataill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|bataill%[m|ais]|
+|tu|te|bataill%[m|ais]|
+|il|se|bataill%[m|ait]|
+|nous|nous|bataill%[m|ions]|
+|vous|vous|bataill%[m|iez]|
+|ils|se|bataill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|bataill%[m|é]|
+|tu|t'|étais|bataill%[m|é]|
+|il|s'|était|bataill%[m|é]|
+|nous|nous|étions|bataill%[m|és]|
+|vous|vous|étiez|bataill%[m|és]|
+|ils|s'|étaient|bataill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|bataill%[m|ai]|
+|tu|te|bataill%[m|as]|
+|il|se|bataill%[m|a]|
+|nous|nous|bataill%[m|âmes]|
+|vous|vous|bataill%[m|âtes]|
+|ils|se|bataill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|bataill%[m|é]|
+|tu|te|fus|bataill%[m|é]|
+|il|se|fut|bataill%[m|é]|
+|nous|nous|fûmes|bataill%[m|és]|
+|vous|vous|fûtes|bataill%[m|és]|
+|ils|se|furent|bataill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|bataill%[m|erai]|
+|tu|te|bataill%[m|eras]|
+|il|se|bataill%[m|era]|
+|nous|nous|bataill%[m|erons]|
+|vous|vous|bataill%[m|erez]|
+|ils|se|bataill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|bataill%[m|é]|
+|tu|te|seras|bataill%[m|é]|
+|il|se|sera|bataill%[m|é]|
+|nous|nous|serons|bataill%[m|és]|
+|vous|vous|serez|bataill%[m|és]|
+|ils|se|seront|bataill%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|bataill%[m|erais]|
+|tu|te|bataill%[m|erais]|
+|il|se|bataill%[m|erait]|
+|nous|nous|bataill%[m|erions]|
+|vous|vous|bataill%[m|eriez]|
+|ils|se|bataill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|bataill%[m|é]|
+|tu|te|serais|bataill%[m|é]|
+|il|se|serait|bataill%[m|é]|
+|nous|nous|serions|bataill%[m|és]|
+|vous|vous|seriez|bataill%[m|és]|
+|ils|se|seraient|bataill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|bataill%[m|e]|
+|que|tu|te|bataill%[m|es]|
+|qu'|il|se|bataill%[m|e]|
+|que|nous|nous|bataill%[m|ions]|
+|que|vous|vous|bataill%[m|iez]|
+|qu'|ils|se|bataill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|bataill%[m|é]|
+|que|tu|te|sois|bataill%[m|é]|
+|qu'|il|se|soit|bataill%[m|é]|
+|que|nous|nous|soyons|bataill%[m|és]|
+|que|vous|vous|soyez|bataill%[m|és]|
+|qu'|ils|se|soient|bataill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|bataill%[m|asse]|
+|que|tu|te|bataill%[m|asses]|
+|qu'|il|se|bataill%[m|ât]|
+|que|nous|nous|bataill%[m|assions]|
+|que|vous|vous|bataill%[m|assiez]|
+|qu'|ils|se|bataill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|bataill%[m|é]|
+|que|tu|te|fusses|bataill%[m|é]|
+|qu'|il|se|fût|bataill%[m|é]|
+|que|nous|nous|fussions|bataill%[m|és]|
+|que|vous|vous|fussiez|bataill%[m|és]|
+|qu'|ils|se|fussent|bataill%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bataill%[m|e]-toi|
+|bataill%[m|ons]-nous|
+|bataill%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

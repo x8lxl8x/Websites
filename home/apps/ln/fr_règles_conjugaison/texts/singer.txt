@@ -1,0 +1,190 @@
+# singer %[clVerbGroup|1]
+[-
+imiter (quelqu'un) grossièrement, souvent d'une façon désobligeante. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sing%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sing%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sing%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sing%[m|é]|
+|ayant|sing%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sing%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sing%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sing%[m|e]|
+|tu|sing%[m|es]|
+|il|sing%[m|e]|
+|nous|sing%[m|eons]|
+|vous|sing%[m|ez]|
+|ils|sing%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sing%[m|é]|
+|tu|as |sing%[m|é]|
+|il|a|sing%[m|é]|
+|nous|avons|sing%[m|é]|
+|vous|avez|sing%[m|é]|
+|ils|ont|sing%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sing%[m|eais]|
+|tu|sing%[m|eais]|
+|il|sing%[m|eait]|
+|nous|sing%[m|ions]|
+|vous|sing%[m|iez]|
+|ils|sing%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sing%[m|é]|
+|tu|avais|sing%[m|é]|
+|il|avait|sing%[m|é]|
+|nous|avions|sing%[m|é]|
+|vous|aviez|sing%[m|é]|
+|ils|avaient|sing%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sing%[m|eai]|
+|tu|sing%[m|eas]|
+|il|sing%[m|ea]|
+|nous|sing%[m|eâmes]|
+|vous|sing%[m|eâtes]|
+|ils|sing%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sing%[m|é]|
+|tu|eus|sing%[m|é]|
+|il|eut|sing%[m|é]|
+|nous|e&ucirc;mes|sing%[m|é]|
+|vous|e&ucirc;tes|sing%[m|é]|
+|ils|eurent|sing%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sing%[m|erai]|
+|tu|sing%[m|eras]|
+|il|sing%[m|era]|
+|nous|sing%[m|erons]|
+|vous|sing%[m|erez]|
+|ils|sing%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sing%[m|é]|
+|tu|auras|sing%[m|é]|
+|il|aura|sing%[m|é]|
+|nous|aurons|sing%[m|é]|
+|vous|aurez|sing%[m|é]|
+|ils|auront|sing%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sing%[m|erais]|
+|tu|sing%[m|erais]|
+|il|sing%[m|erait]|
+|nous|sing%[m|erions]|
+|vous|sing%[m|eriez]|
+|ils|sing%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sing%[m|é]|
+|tu|aurais|sing%[m|é]|
+|il|aurait|sing%[m|é]|
+|nous|aurions|sing%[m|é]|
+|vous|auriez|sing%[m|é]|
+|ils|auraient|sing%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sing%[m|e]|
+|que|tu|sing%[m|es]|
+|qu'|il|sing%[m|e]|
+|que|nous|sing%[m|ions]|
+|que|vous|sing%[m|iez]|
+|qu'|ils|sing%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sing%[m|é]|
+|que|tu|aies|sing%[m|é]|
+|qu'|il|ait|sing%[m|é]|
+|que|nous|ayons|sing%[m|é]|
+|que|vous|ayez|sing%[m|é]|
+|qu'|ils|aient|sing%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sing%[m|easse]|
+|que|tu|sing%[m|easses]|
+|qu'|il|sing%[m|eât]|
+|que|nous|sing%[m|eassions]|
+|que|vous|sing%[m|eassiez]|
+|qu'|ils|sing%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sing%[m|é]|
+|que|tu|eusses|sing%[m|é]|
+|qu'|il|eût|sing%[m|é]|
+|que|nous|eussions|sing%[m|é]|
+|que|vous|eussiez|sing%[m|é]|
+|qu'|ils|eussent|sing%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sing%[m|e]|
+|sing%[m|eons]|
+|sing%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sing%[m|é]|
+|ayons|sing%[m|é]|
+|ayez|sing%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# banner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bann%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bann%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bann%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bann%[m|é]|
+|ayant|bann%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bann%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bann%[m|e]|
+|tu|bann%[m|es]|
+|il|bann%[m|e]|
+|nous|bann%[m|ons]|
+|vous|bann%[m|ez]|
+|ils|bann%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bann%[m|é]|
+|tu|as |bann%[m|é]|
+|il|a|bann%[m|é]|
+|nous|avons|bann%[m|é]|
+|vous|avez|bann%[m|é]|
+|ils|ont|bann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bann%[m|ais]|
+|tu|bann%[m|ais]|
+|il|bann%[m|ait]|
+|nous|bann%[m|ions]|
+|vous|bann%[m|iez]|
+|ils|bann%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bann%[m|é]|
+|tu|avais|bann%[m|é]|
+|il|avait|bann%[m|é]|
+|nous|avions|bann%[m|é]|
+|vous|aviez|bann%[m|é]|
+|ils|avaient|bann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bann%[m|ai]|
+|tu|bann%[m|as]|
+|il|bann%[m|a]|
+|nous|bann%[m|âmes]|
+|vous|bann%[m|âtes]|
+|ils|bann%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bann%[m|é]|
+|tu|eus|bann%[m|é]|
+|il|eut|bann%[m|é]|
+|nous|e&ucirc;mes|bann%[m|é]|
+|vous|e&ucirc;tes|bann%[m|é]|
+|ils|eurent|bann%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bann%[m|erai]|
+|tu|bann%[m|eras]|
+|il|bann%[m|era]|
+|nous|bann%[m|erons]|
+|vous|bann%[m|erez]|
+|ils|bann%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bann%[m|é]|
+|tu|auras|bann%[m|é]|
+|il|aura|bann%[m|é]|
+|nous|aurons|bann%[m|é]|
+|vous|aurez|bann%[m|é]|
+|ils|auront|bann%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bann%[m|erais]|
+|tu|bann%[m|erais]|
+|il|bann%[m|erait]|
+|nous|bann%[m|erions]|
+|vous|bann%[m|eriez]|
+|ils|bann%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bann%[m|é]|
+|tu|aurais|bann%[m|é]|
+|il|aurait|bann%[m|é]|
+|nous|aurions|bann%[m|é]|
+|vous|auriez|bann%[m|é]|
+|ils|auraient|bann%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bann%[m|e]|
+|que|tu|bann%[m|es]|
+|qu'|il|bann%[m|e]|
+|que|nous|bann%[m|ions]|
+|que|vous|bann%[m|iez]|
+|qu'|ils|bann%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bann%[m|é]|
+|que|tu|aies|bann%[m|é]|
+|qu'|il|ait|bann%[m|é]|
+|que|nous|ayons|bann%[m|é]|
+|que|vous|ayez|bann%[m|é]|
+|qu'|ils|aient|bann%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bann%[m|asse]|
+|que|tu|bann%[m|asses]|
+|qu'|il|bann%[m|ât]|
+|que|nous|bann%[m|assions]|
+|que|vous|bann%[m|assiez]|
+|qu'|ils|bann%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bann%[m|é]|
+|que|tu|eusses|bann%[m|é]|
+|qu'|il|eût|bann%[m|é]|
+|que|nous|eussions|bann%[m|é]|
+|que|vous|eussiez|bann%[m|é]|
+|qu'|ils|eussent|bann%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bann%[m|e]|
+|bann%[m|ons]|
+|bann%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bann%[m|é]|
+|ayons|bann%[m|é]|
+|ayez|bann%[m|é]|
+|]
+

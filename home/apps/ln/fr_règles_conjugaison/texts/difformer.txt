@@ -1,0 +1,190 @@
+# difformer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|difform%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|difform%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|difform%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||difform%[m|é]|
+|ayant|difform%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en difform%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|difform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|difform%[m|e]|
+|tu|difform%[m|es]|
+|il|difform%[m|e]|
+|nous|difform%[m|ons]|
+|vous|difform%[m|ez]|
+|ils|difform%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|difform%[m|é]|
+|tu|as |difform%[m|é]|
+|il|a|difform%[m|é]|
+|nous|avons|difform%[m|é]|
+|vous|avez|difform%[m|é]|
+|ils|ont|difform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|difform%[m|ais]|
+|tu|difform%[m|ais]|
+|il|difform%[m|ait]|
+|nous|difform%[m|ions]|
+|vous|difform%[m|iez]|
+|ils|difform%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|difform%[m|é]|
+|tu|avais|difform%[m|é]|
+|il|avait|difform%[m|é]|
+|nous|avions|difform%[m|é]|
+|vous|aviez|difform%[m|é]|
+|ils|avaient|difform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|difform%[m|ai]|
+|tu|difform%[m|as]|
+|il|difform%[m|a]|
+|nous|difform%[m|âmes]|
+|vous|difform%[m|âtes]|
+|ils|difform%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|difform%[m|é]|
+|tu|eus|difform%[m|é]|
+|il|eut|difform%[m|é]|
+|nous|e&ucirc;mes|difform%[m|é]|
+|vous|e&ucirc;tes|difform%[m|é]|
+|ils|eurent|difform%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|difform%[m|erai]|
+|tu|difform%[m|eras]|
+|il|difform%[m|era]|
+|nous|difform%[m|erons]|
+|vous|difform%[m|erez]|
+|ils|difform%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|difform%[m|é]|
+|tu|auras|difform%[m|é]|
+|il|aura|difform%[m|é]|
+|nous|aurons|difform%[m|é]|
+|vous|aurez|difform%[m|é]|
+|ils|auront|difform%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|difform%[m|erais]|
+|tu|difform%[m|erais]|
+|il|difform%[m|erait]|
+|nous|difform%[m|erions]|
+|vous|difform%[m|eriez]|
+|ils|difform%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|difform%[m|é]|
+|tu|aurais|difform%[m|é]|
+|il|aurait|difform%[m|é]|
+|nous|aurions|difform%[m|é]|
+|vous|auriez|difform%[m|é]|
+|ils|auraient|difform%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|difform%[m|e]|
+|que|tu|difform%[m|es]|
+|qu'|il|difform%[m|e]|
+|que|nous|difform%[m|ions]|
+|que|vous|difform%[m|iez]|
+|qu'|ils|difform%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|difform%[m|é]|
+|que|tu|aies|difform%[m|é]|
+|qu'|il|ait|difform%[m|é]|
+|que|nous|ayons|difform%[m|é]|
+|que|vous|ayez|difform%[m|é]|
+|qu'|ils|aient|difform%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|difform%[m|asse]|
+|que|tu|difform%[m|asses]|
+|qu'|il|difform%[m|ât]|
+|que|nous|difform%[m|assions]|
+|que|vous|difform%[m|assiez]|
+|qu'|ils|difform%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|difform%[m|é]|
+|que|tu|eusses|difform%[m|é]|
+|qu'|il|eût|difform%[m|é]|
+|que|nous|eussions|difform%[m|é]|
+|que|vous|eussiez|difform%[m|é]|
+|qu'|ils|eussent|difform%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|difform%[m|e]|
+|difform%[m|ons]|
+|difform%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|difform%[m|é]|
+|ayons|difform%[m|é]|
+|ayez|difform%[m|é]|
+|]
+

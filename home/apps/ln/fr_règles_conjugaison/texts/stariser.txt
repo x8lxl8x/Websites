@@ -1,0 +1,190 @@
+# stariser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|staris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|staris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|staris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||staris%[m|é]|
+|ayant|staris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en staris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|staris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|staris%[m|e]|
+|tu|staris%[m|es]|
+|il|staris%[m|e]|
+|nous|staris%[m|ons]|
+|vous|staris%[m|ez]|
+|ils|staris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|staris%[m|é]|
+|tu|as |staris%[m|é]|
+|il|a|staris%[m|é]|
+|nous|avons|staris%[m|é]|
+|vous|avez|staris%[m|é]|
+|ils|ont|staris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|staris%[m|ais]|
+|tu|staris%[m|ais]|
+|il|staris%[m|ait]|
+|nous|staris%[m|ions]|
+|vous|staris%[m|iez]|
+|ils|staris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|staris%[m|é]|
+|tu|avais|staris%[m|é]|
+|il|avait|staris%[m|é]|
+|nous|avions|staris%[m|é]|
+|vous|aviez|staris%[m|é]|
+|ils|avaient|staris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|staris%[m|ai]|
+|tu|staris%[m|as]|
+|il|staris%[m|a]|
+|nous|staris%[m|âmes]|
+|vous|staris%[m|âtes]|
+|ils|staris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|staris%[m|é]|
+|tu|eus|staris%[m|é]|
+|il|eut|staris%[m|é]|
+|nous|e&ucirc;mes|staris%[m|é]|
+|vous|e&ucirc;tes|staris%[m|é]|
+|ils|eurent|staris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|staris%[m|erai]|
+|tu|staris%[m|eras]|
+|il|staris%[m|era]|
+|nous|staris%[m|erons]|
+|vous|staris%[m|erez]|
+|ils|staris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|staris%[m|é]|
+|tu|auras|staris%[m|é]|
+|il|aura|staris%[m|é]|
+|nous|aurons|staris%[m|é]|
+|vous|aurez|staris%[m|é]|
+|ils|auront|staris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|staris%[m|erais]|
+|tu|staris%[m|erais]|
+|il|staris%[m|erait]|
+|nous|staris%[m|erions]|
+|vous|staris%[m|eriez]|
+|ils|staris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|staris%[m|é]|
+|tu|aurais|staris%[m|é]|
+|il|aurait|staris%[m|é]|
+|nous|aurions|staris%[m|é]|
+|vous|auriez|staris%[m|é]|
+|ils|auraient|staris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|staris%[m|e]|
+|que|tu|staris%[m|es]|
+|qu'|il|staris%[m|e]|
+|que|nous|staris%[m|ions]|
+|que|vous|staris%[m|iez]|
+|qu'|ils|staris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|staris%[m|é]|
+|que|tu|aies|staris%[m|é]|
+|qu'|il|ait|staris%[m|é]|
+|que|nous|ayons|staris%[m|é]|
+|que|vous|ayez|staris%[m|é]|
+|qu'|ils|aient|staris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|staris%[m|asse]|
+|que|tu|staris%[m|asses]|
+|qu'|il|staris%[m|ât]|
+|que|nous|staris%[m|assions]|
+|que|vous|staris%[m|assiez]|
+|qu'|ils|staris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|staris%[m|é]|
+|que|tu|eusses|staris%[m|é]|
+|qu'|il|eût|staris%[m|é]|
+|que|nous|eussions|staris%[m|é]|
+|que|vous|eussiez|staris%[m|é]|
+|qu'|ils|eussent|staris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|staris%[m|e]|
+|staris%[m|ons]|
+|staris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|staris%[m|é]|
+|ayons|staris%[m|é]|
+|ayez|staris%[m|é]|
+|]
+

@@ -1,0 +1,508 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Finance Tutorial</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+
+<div id='idContent'>
+
+<h1>EVA: Introduction</h1>
+
+
+
+
+<p>From a commercial standpoint, Economic Value Added (EVA™) is the most successful performance metric used by companies and their consultants. Although much of its popularity is a result of able marketing and deployment by Stern Stewart, owner of the trademark, the metric is justified by financial theory and consistent with valuation principles, which are important to any investor's analysis of a company. </p>
+
+<p>To many, the EVA™ metric (also known as "economic profit") basks in a mystique of complexity. But this tutorial will show you that this complexity is only an illusion. In fact, the entire metric is a development of three simple ideas: cash is king; some expense dollars are really investments in "disguise"; and equity capital is expensive. </p>
+<p>To help you understand EVA™ and its components, we devote each chapter of this tutorial to exploring a different conceptual aspect of economic value added (EVA™) and demonstrating the associated calculations. Over the course of these chapters, we build an EVA™ calculation for the Walt Disney Co (DIS), a publicly traded company, using recent financial statements. And, at the end of this study of EVA™, we compare it to other performance metrics. </p>
+<p> By the end of this tutorial, you will not only be able to calculate EVA™ for yourself, but also, importantly, understand its strengths and weaknesses, observing how it is ideal for some situations, but also - contrary to some dogma - not necessarily the best performance metric for many other situations. </p>
+<p>Because the term EVA™ is trademarked, for convenience's sake, we will instead refer to it as economic profit throughout the tutorial. This is a common practice and, for our purposes, there is no difference. </p>
+
+
+
+<h2>EVA: Overview</h2>
+
+<p></p>
+<p>By David Harper, (Contributing Editor- Investopedia Advisor) </p>
+
+<p>Examining the components of economic profit and studying the finer points of its calculation require an understanding of its underlying principles. Here we look at how it matters as a performance measure - which is distinct from a wealth metric - and how it is closely related to market value added (MVA). Finally, in establishing an overall picture of economic profit, we help you undo any perceived complexity by showing how all of the calculations surrounding economic profit originate from three main ideas. </p>
+<p><strong></strong></p>
+
+<p>Economic Profit Is a Performance Metric </p>
+<p>To understand economic profit, it helps to distinguish between a performance metric and a wealth metric. A <em>performance metric</em> refers to a measure under company control, such as earnings or return on capital. A <em>wealth metric,</em> on the other hand, is a measure of value that - such as equity market capitalization or the price-to-earnings (P/E) multiple -depends on the stock market's collective and forward-looking view. Now, although these two types of metrics are distinct, they are related. </p>
+<p>Every performance metric has a corresponding wealth metric. In theory, over the long run, a performance metric can be expected to impact its corresponding wealth metric. For example, consider the matching pair of earnings per share (EPS), a fundamental performance metric, and the P/E multiple, its corresponding wealth metric. The variables that determine EPS - earnings and shares outstanding - are numbers affected only by the company's actions and decisions. On the other hand, the P/E multiple, which is determined by the company's stock price, depends on the value of these actions and decisions assigned by the stock market. The company therefore influences the P/E ratio but cannot fully control it. Here is another way to think about the difference between the two: EPS is a current (or historical) fact but P/E is a forward-looking and collective opinion. </p>
+<p>The key criterion for the pairing of a performance and wealth metric is consistency: each half of the pair should reference the same group of capital holders <em>and their respective claims' on company assets</em>. For example, EPS by definition concerns the allocation of earnings to common shareholders; the P/E multiple refers to equity market capitalization, which is the value held by shareholders. </p>
+<p>Consider another example: return on capital (ROC) is a performance metric that represents the return both to debt and stockholders, and its corresponding wealth metric is the EBITDA multiple - the value of total debt, plus equity market capitalization (also known as the "enterprise value" or "entity value"), <em>divided by</em> earnings before interest, taxes, depreciation and amortization (EBITDA). This is also called the "price-to-EBIDTA multiple", or "the enterprise multiple". Note how ROC and the EBITDA multiple meet the consistency test. Like ROC, EBITDA captures earnings that accrue to both holders of stock and debt. The EBITDA multiple, therefore, reveals how the market values the company in light of earnings to stockholders and debt-holders. </p>
+<p>Below is a chart listing a few performance metrics and their corresponding wealth metrics. Note that economic profit's corresponding wealth metric is market value added (MVA). We explore this relationship below as we come to understand specifically what economic value is and how works: </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="top"><strong>Performance metric</strong></td><td valign="top"><strong>Wealth metric</strong></td></tr><tr><td valign="top">Return on Equity (ROE), EPS growth</td><td valign="top">P/E Ratio</td></tr><tr><td valign="top">Return on Capital (ROC or ROIC), Operating Income Growth</td><td valign="top">Ratio of: Entity value ÷ EBITDA</td></tr><tr><td valign="top">Economic Profit</td><td valign="top">Market Value Added (MVA)</td></tr><tr><td valign="top">Free Cash Flow</td><td valign="top">Equity Market Capitalization (price x common shares outstanding)</td></tr><tr><td valign="top">Cash Flow Return on Investment (CFROI)</td><td valign="top">Total Shareholder Return (TSR)</td></tr></table>
+
+<strong></p>
+<p>Economic Profit Is Free Cash Flow "Sliced Up" </strong></p>
+<p>Financial theory - that is, the discounted cash flow (DCF) model - says that the intrinsic value of a firm equals the present value (also known as "discounted value") of its future free cash flows. In other words, if we are lucky enough to know the future free cash flows, they can be discounted into a single present value. (For a review of how this works, see <em>Understanding the Time Value of Money</em> and <em>Taking Stock of Discounted Cash Flow</em>.) This idea is illustrated below in Figure 1, where the future cash flows (illustrated through to only year five) are discounted to produce a total company value of $40: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChp1Grafic1.GIF'><img class='clImageThumb' src='../images/EVAChp1Grafic1.GIF'></a>
+
+</p>
+
+<p>Figure 1 </p>
+<p></td></tr></table>
+
+</p>
+<p>Economic profit is based on the same idea. The only difference is that, under economic profit, the intrinsic value of the firm is broken into two parts: invested capital, plus the present value of <em>future economic profits</em>. Here is the comparison:<blockquote dir="ltr"></p>
+<p><u><strong>Traditional Approach</strong></u> </p>
+<p>Intrinsic Value = Present Value of Future <strong>Free Cash Flows </strong> </p>
+<p></blockquote><blockquote dir="ltr"><u><strong>Economic Profit </strong></p>
+<p></u>Intrinsic Value = Invested Capital + Present Value of Future<strong> Economic Profits</strong> </blockquote>As it breaks intrinsic value into parts, you can see why economic profit is often called "residual profit" or "excess earnings". Let's see how this works in Figure 2 below. We are using the same hypothetical assumptions, and the value of the firm's equity remains $40. In this case, however, the green bars in years one through five represent future economic profits, which represent a part of the future free cash flows will therefore always be less than the free cash flows. Later in this chapter we explain the economic calculation of the economic profits, but for now, it's enough to understand that they represent profits earned <em>above the cost of capital</em>. </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChp1Grafic2version2.GIF'><img class='clImageThumb' src='../images/EVAChp1Grafic2version2.GIF'></a>
+
+</p>
+
+<p>Figure 2 </p>
+<p></td></tr></table>
+
+</p>
+<p>Economic profits represent the portion of free cash flows after a capital charge is subtracted. In this example, the future economic profits (which we're lucky enough to know) is discounted to a present value of $20 as represented by the tall green bar stacked on top of the dark blue bar, which represents the invested capital portion of $20. Together these contiguous bars show how economic profit divides a company's intrinsic value into two pieces. </p>
+<p>The final step in understanding the relationship between these two pieces concerns MVA, which represents how the market values the firm above its invested capital. In our example it is simply the name given to the present value of the future economic profits - the tall green $20 bar. If, for example, this company happened to earn zero future economic profits (zero excess profits), the MVA would be zero, and the company's total value would simply be equal to its invested capital. </p>
+<p>
+<p>Now of course the market does not predict future cash flows (or economic profits) perfectly, so we can speak of MVA in two different ways: the MVA as set by the market and the intrinsic (or theoretical) MVA as set by expected future economic profits. But, just as, according to the traditional valuation model, the firm's market valuation is expected to converge with its discounted free cash flow, the observed MVA is expected to converge with its discounted economic profit value. And here, by "observed MVA" we mean the equity market capitalization, minus the invested capital. </p>
+
+<p>These relationships are illustrated as follows (where → is a symbol for "moves toward becoming the same as"): </p>
+<p><strong><u></p>
+<p>Traditional Valuation</u></strong> </p>
+<p>Equity Market Capitalization → Discounted [Free Cash Flows] = Intrinsic Value of Firm Equity </p>
+<p><strong><u></p>
+<p>Economic Profit Valuation</u></strong> </p>
+<p>Equity Market Capitalization → Invested Capital + Discounted [Economic Profit] = Invested Capital + Market Value Added (MVA) </p>
+<p>You can now see why economic profit and MVA are a matched pair: discounted economic profits are equal to intrinsic MVA. And the observed MVA (equity market capitalization, minus invested capital) should move toward becoming intrinsic MVA. </p>
+<p><strong></p>
+<p>Economic Profit: Three Big Steps</strong> </p>
+<p>Let's now look at the overall calculation, which can be broken down into three sets of calculations. Each of these is the mathematical implication of one of the three main ideas supporting the entire economic profit system: </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="top"><strong>Idea</strong></td><td valign="top"><strong>Implication</strong></td></tr><tr><td valign="top">1. Cash flows are the best indicators of performance. The accounting distortions must therefore be "fixed".</td><td valign="top">Translate accrual-based operating profit (EBIT) into cash-bashed net operating profit after taxes (NOPAT).</td></tr><tr><td valign="top">2. Some expenses are really investments and should be capitalized on the balance sheet. True investments must therefore be recognized.</td><td valign="top">Reclassify <strong><em>some</em></strong> current expenses as balance-sheet (equity or debt) items.</td></tr><tr><td valign="top">3. Equity capital is expensive (or, at the very least, not free). This expense must therefore be accounted for.</td><td valign="top">Deduct a capital charge for invested capital.</td></tr></table>
+
+</p>
+<p>Figure 3 below illustrates these ideas: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChp1Grafic3version2.GIF'><img class='clImageThumb' src='../images/EVAChp1Grafic3version2.GIF'></a>
+
+</p>
+
+<p>Figure 3 </p>
+<p></td></tr></table>
+
+</p>
+<p>Let's break this illustration down a little, but don't worry too much about the particulars right now - we cover the details in subsequent sections. </p>
+<p>The calculation starts with earnings before interest and taxes (EBIT), which is a pure income-statement (accounting-based) measure. First, several adjustments are made to move the measure nearer to representing actual cash flow (idea #1). Second, certain expense items (i.e. money spent in the current accounting period) are identified as economically really being investments. That is, they are truly meant to create a long-term asset of some sort. Those expenses are then reclassified onto the balance sheet (idea #2). </p>
+<p>Those first two steps produce net operating profits after taxes (NOPAT). The idea behind NOPAT is to get a cash-based measure of operating performance. By the way, if you are looking for the exact analog of NOPAT on the income statement, you won't find it. The nearest figure is something we might call "earnings <em>before</em> interest but <em>after</em> taxes" (EBIAT). </p>
+<p>Finally, because NOPAT represents profits before the cost of debt service and the cost of equity capital, our next step is to deduct a capital charge (idea #3). The capital charge is what investors, as a group in total, will need to make their investment exactly worthwhile; it could also be called "economic rent". If NOPAT equals the capital charge, then the company just barely met its "rent obligations" to investors - but, in doing so, produced no economic or excess profits. Any NOPAT profits above the capital charge (the small green bars that we examined earlier) are truly in excess and are called economic profits or value added. </p>
+<p><strong></p>
+<p>Summary </strong></p>
+<p>Now you should have a clear picture of the connection between economic profit and market value added: economic profits create MVA. When economic profits are discounted to the present value, they ought to approximate the additional value the market assigns to the company above its invested capital. Finally, the economic profit calculation boils down to three ideas: cash is a better measure of operating performance than accruals, some expenses are truly investments and investment capital is not free. These three ideas will guide all of our calculations through this tutorial. </p>
+<p>
+
+<h2>EVA: Calculating NOPAT</h2>
+
+<p></p>
+
+
+<p>In finding economic profit, the essential step is to calculate net operating profit after taxes (NOPAT), and this chapter looks at how to do it. We get to NOPAT by translating - through a series of adjustments - an accrual-based income statement number into a <em>cash-based</em> profit number. Although there are three basic steps in the process of finding NOPAT, there is no single correct method for arriving at a final number. </p>
+
+<p>The method an investor uses is a matter of how approximate or precise he or she wants to be. Some critics lament that economic profit requires 50-150 adjustments - but many users of economic profit agree that most of the answer is found after a dozen or even fewer adjustments. In fact, beyond a handful of adjustments, you are really only fine-tuning the NOPAT number. And, from an investor's standpoint, a multitude of adjustments simply are not necessary. In using economic profit, the investor's priority is consistency and comparability. In other words, calculating economic profit with 99.9% precision is less important than ensuring the method of calculation is consistent from year to year and from peer to peer. </p>
+<p><strong>The Stages of the Process</strong> </p>
+<p>Getting to NOPAT takes three basic steps:</p><ol type="1"><li>Start with earnings before interest and taxes (EBIT).    </li><li>Make the key adjustments - these come in two flavors:    <ol type="a"><li>Eliminating accounting distortions (convert accrual to cash).        </li><li>Reclassifying some expenses as investments (i.e. capitalizing them to the balance sheet). </li>    </ol></li><li>Subtract cash operating taxes. </li></ol>Please note that steps 2a and 2b correspond to the first two "underlying ideas" discussed in chapter 2. Steps 2a and 2b are the critical adjustments to which the discussion in chapter 2 refers, and we are expounding on them here. </p>
+<p><strong>1. Start with EBIT (Or Something Close to It)</strong> </p>
+<p>Throughout this tutorial, we build a 2004 economic profit calculation for the Walt Disney Company (DIS). Its latest financials are available in the company's 2004 10-K filing (the annual report), and below are selected lines from the income statement. </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVACh2Fig1.gif'><img class='clImageThumb' src='../images/EVACh2Fig1.gif'></a>
+
+</p>
+
+<p>Figure 1 (numbers are in millions)</td></tr></table>
+
+</p>
+<p>For better or worse, GAAP does not mandate any one particular presentation of the income statement, so we need to pay careful attention to the line items. Disney does not disclose EBIT on the income statement, so the first step in the economic profit calculation requires some work. Instead of reporting EBIT, Disney shows 'income before income taxes &amp; minority interests', which is an <em>after</em> (net) interest-expense number. </p>
+<p>Therefore, our first important adjustment is to add interest expense back, or to "move it above" the interest expense, so to speak. With this adjustment, we ensure, as discussed in chapter 2, that our NOPAT number is not reduced by interest paid and is thereby deleveraged: we want a number that captures the profits that accrue to all capital holders including lenders. </p>
+<p>Before moving on to step 2, we provide in Figure 2 below an illustrated summary of the entire calculation that gets us from the line reporting 'income before income taxes &amp; minority interests' on Disney's income statement to NOPAT. In working through the remainder of the three-step process, we'll break this summary down and examine the underlying calculations. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVACh2Fig2.gif'><img class='clImageThumb' src='../images/EVACh2Fig2.gif'></a>
+
+</p>
+<p>Figure 2 - (numbers are in millions)</td></tr></table>
+
+</p>
+<p><strong>2. Make the Key Adjustments: Translate Accrual to Cash, and Capitalize Investments</strong> </p>
+<p>In chapter 2 we explain that adjusting EBIT is twofold and involves (1) converting accrual-based EBIT to a cash-based profit number and (2) capitalizing expenses that ought to be treated as investments. 'To capitalize' is to move an expense to the balance sheet and treat it as a long-term asset instead of a short-term expense - although, here we broaden the term to refer to any adjustment that moves an expense to the balance sheet, becoming either debt or equity. </p>
+<p>Finally, as we move through step 2 of the NOPAT calculation, keep in mind that a capitalizing adjustment changes NOPAT <em>and</em> invested capital (will be discussed in chapter 4 where we consider balance sheet changes). The process of capitalizing an expense is a two-way mirror: we must match an income statement adjustment with a balance sheet adjustment. </p>
+<p>As you can see from Figure 2, our key adjustments (step 2) together culminate into an addition of $781 million to EBIT, which gives us net operating profit (NOP). From NOP we subtract cash operating taxes (step 3) to achieve NOPAT. </p>
+<p>Now, here is the breakdown of the key adjustments (step 2): </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVACh2Fig3r.gif'><img class='clImageThumb' src='../images/EVACh2Fig3r.gif'></a>
+
+</p>
+<p>Figure 3 (numbers are in millions)</td></tr></table>
+
+</p>
+<p>The adjustment related to LIFO reserve is relevant only to those companies who use LIFO inventory accounting. Disney does not use LIFO, so no adjustment is required here, but it is worth noting the importance of the step for those companies that do use LIFO. If the price of these companies' inventory is rising, then cost of goods sold (COGS) is pushed up because under LIFO, COGS reflects the cost of the recently purchased, more expensive inventory. Adding the increase in the LIFO reserve (as indicated in Figure 3) converts the cost of goods to what it would be under FIFO accounting, which is closer to actual cash flows. </p>
+<p>The allowance for bad debt is sometimes very revealing. An increase in this account is not a reduction in (loss of) cash; it reflects a decision to acknowledge additional expenses in anticipation of future cash losses (i.e. a portion of receivables that are not collected). Because its increase represents a paper reduction in profits (not an actual reduction in cash), we add it back to get to the cash-based NOPAT. </p>
+<p>In Disney's case, however, we made a reduction of $21 million. Why? Because instead of experiencing an increase, the account decreased over the period, and, a decrease in the <em>allowance for bad debts</em> should be subtracted (just as an increase should be added). In lowering this allowance, management is creating a paper gain, boosting the calculation of profits! But since this boost is not actual cash, we subtract it ("reverse it out") to get closer to the cash-based number. </p>
+<p>The 'implied interest on operating lease' is probably the most difficult key adjustment to understand, but if you take the time to grasp the rationale for this adjustment, you'll be well on your way to understanding economic profit. Before studying the adjustment's calculation, we should establish that economic profit translates the operating lease into a capital lease - because economically the two leases are similar (even though they are accounted for differently). </p>
+<p>A company gets to treat operating leases as expenses, so, unlike the treatment of capital leases, accounting for operating leases places no liability on the balance sheet. But operating leases are a type of off-balance-sheet financing, so they need to be put back on the balance sheet. This will treat the operating lease like an asset that is funded with a debt-like obligation. But, as this movement to the balance sheet takes place, NOPAT must be credited for the financing component of the lease expense for the same reason that we added back interest expense to 'income before income taxes &amp; minority interests' in step 1. </p>
+<p><p>There are a few ways to get an estimate for the implied interest on an operating lease. Scientific precision is not necessary (unless perhaps you are dealing with a company with a large portion of assets, such as some retail firms). All companies must disclose their future stream of minimum obligations under operating leases, so this disclosure of future obligations - after the obligations are discounted - serves as an estimate of the present value of the obligation. This process is very much like solving the present value of a bond obligation for which we know the cash flows and the interest rate: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVACh2Fig4.gif'><img class='clImageThumb' src='../images/EVACh2Fig4.gif'></a>
+
+</p>
+<p>Figure 4 (numbers are in millions)</td></tr></table>
+
+</p>
+<p>In our example above, we used a discount rate of 6.76% to convert the reported future obligations into a single present value of $11, 866 million. (Note: this is going to be the debt equivalent that we put back onto the balance sheet in our discussion in chapter 4). As explained in the footnote above, this illustration of PV uses a precise method - the implied interest rate is borrowed from the company's disclosure of its capital lease obligations, but we could also have plugged in our own reasonable estimate. <strong></p>
+<p>3. Deduct Cash Operating Taxes</strong> </p>
+<p>The final step in finding NOPAT is to subtract cash operating taxes (the taxes that a company actually pays with cash) from net operating profits. Truth be told, we could use reported taxes and we would still have a viable economic profit number (although purists would cringe at such a practice). But because in financial reporting, the tax books are separate from the financial statements, the amount that companies pay in taxes may be different than the amount they record as a tax expense. The point in using cash taxes is to capture a true cash return generated from the actual cash investment: what if for some reason our company pays abnormally low taxes in the reported year? Subtracting an estimate of cash operating taxes ensures the NOPAT number isn't "fooled" by reported taxes. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVACh2Fig5.gif'><img class='clImageThumb' src='../images/EVACh2Fig5.gif'></a>
+
+</p>
+<p>Figure 5 (numbers are in millions)</td></tr></table>
+
+</p>
+<p>In Figure 5 above we show the underlying calculation for the $1,552 million subtracted in Figure 2. First the increase in deferred tax liability is added to the income-tax expense reported on the income statement (the word "expense" connotes "income-statement item"). The difference between the expense and actual taxes paid is slotted into deferred tax liability, as if it were going to be paid in the future. The deferred tax liability therefore increases when companies pay less in cash taxes than they record on their balance sheet. Because the increase is paper, we subtract it to get closer to actual cash taxes paid. </p>
+<p> The addition of the tax subsidy on deductible expenses relates to a principle that should by now be familiar: we want a number that captures tax expenses <em>before</em> accounting for obligations to both debt and equity holders. The expenses listed on the income statement that are "above" pretax income (the deductible non-operating expenses) get the benefit of a tax shield: they reduce the reported taxable income and therefore the income-tax expense. These effects are reversed by the addition of the tax subsidy on deductible expenses [total tax-deductible non-operating expenses x tax rate (%)] to the reported income-tax expense. </p>
+<p>After we do this, getting our final number, we see that cash operating taxes are higher than reported taxes. </p>
+<p><strong></p>
+<p>Conclusion</strong> </p>
+<p>Although this section drills down on the operating lease and cash operating tax calculations, here's a summary of the general calculation of NOPAT that we demonstrate: start with EBIT, make a set of key adjustments to EBIT and then, to get to NOPAT, subtract an estimate of cash operating taxes that would have been paid under NOP. </p>
+<p>Keep in mind this is not a comprehensive set of potential adjustments (at the end of this tutorial we will show a longer list) but, <em>as long as consistency </em>is maintained when invested capital is calculated, the process shown here is a perfectly reasonable economic profit calculation. </p>
+<p>
+
+<h2>EVA: Calculating Invested Capital</h2>
+
+<p></p>
+<p>By David Harper, (Contributing Editor- Investopedia Advisor) </p>
+
+
+<p>Calculating invested capital is an important step in finding economic profit because a key idea underlying this metric is charging the company for its use of capital. In order for the company to generate a positive economic profit, it must cover the cost of using the invested capital. </p>
+<p>There is more than one way to get to invested capital, but here we use the following three-step method: </p>
+<ol><li>Get invested book capital from the balance sheet.    </li><li>Make adjustments that convert accounting accruals to cash.    </li><li>Make adjustments that recognize off-balance-sheet sources of funds. </li></ol>You will notice that steps 2 and 3 are mirror equivalents of steps we took in chapter 3 to calculate net operating profit after taxes (NOPAT). </p>
+<p><strong></p>
+<p>Step 1 - Pulling Invested Book Capital from the Balance Sheet</strong> </p>
+<p>Let's start by reviewing the balance sheet. Its basic structure says that total assets are equal to the sum of liabilities, plus stockholders' equity: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChp3Fig1_R.gif'><img class='clImageThumb' src='../images/EVAChp3Fig1_R.gif'></a>
+
+</p>
+<p>Figure 1 </p>
+<p></td></tr></table>
+
+</p>
+<p>The first problem with pulling a number directly from the balance sheet is that the balance sheet includes items that are <em>not</em> funding sources. And, for purposes of economic profit, we want to include only the company's funds or financing provided by shareholders and lenders. Consider, for instance, short-term debt, which is a current liability. The company borrowed funds, so this does count as a funding source, and as a part of invested capital. But compare this to accounts payable. These are bills or invoices that are owed to the company's suppliers; the suppliers are not really lending funds or investing in the company. As such, accounts payable is not really part of invested capital. </p>
+<p>In the chart below, we highlight in green those accounts on the balance sheet that are part of invested capital. You can think of them as coming from sources that expect a return on this capital: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChp3Fig2_R.gif'><img class='clImageThumb' src='../images/EVAChp3Fig2_R.gif'></a>
+
+</p>
+<p>Figure 2 </p>
+<p></td></tr></table>
+
+</p>
+<p>One way to calculate invested capital is to add up the green-highlighted liabilities on the right-hand side of the balance sheet. However, it turns out in most cases that the items we want to<em> exclude </em>from invested capital are typically listed in current liabilities. These items we want to exclude are called non-interest-bearing current liabilities (NIBCLS). So a quicker way to calculate invested capital is to start with the left-hand side (the assets) and simply subtract the items on the right that are<em> not </em>part of invested capital. In Figure 2, they include customer advances, accounts payable and accrued liabilities. Because the left-hand side equals the right-hand side, starting with the left-hand side will get us to the same result as adding up all the green-highlighted items. </p>
+<p>If you look at Figure 3 below, you will see how this equivalency works. We start with total assets on the left-hand side and subtract the NIBCLS. By this process of elimination, we get to invested book capital: </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp3Fig3_Rn.gif'><img class='clImageThumb' src='../images/EVAChp3Fig3_Rn.gif'></a>
+
+</p>
+<p>Figure 3</td></tr></table>
+
+</p>
+<p>If you are wondering why we don't subtract 'taxes payable', then you are well on your way toward understanding invested capital! You absolutely could exclude taxes payable since the government doesn't really mean to loan or invest in the company. Actually, including taxes payable is a judgment call. Many analysts let this item remain as a source of invested capital (as we did here) because most companies never pay these deferred taxes. These taxes are perpetually deferred, and for this reason, some call them "quasi equity". If the company were going to pay these taxes, we would exclude taxes payable from invested capital, but since the company - in practice - is going to hold onto the extra cash, we are going to charge them for the use of it. </p>
+<p>Now let's perform this calculation on Disney. Below in Figure 4 we show the result of subtracting the non-interest-bearing current liabilities from total assets: </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp3Fig4_R.gif'><img class='clImageThumb' src='../images/EVAChp3Fig4_R.gif'></a>
+
+</p>
+<p>Figure 4 (numbers are in millions)</td></tr></table>
+
+  </p>
+<p><strong>Importance of Consistency Between NOPAT and Invested Capital</strong> </p>
+<p>Notice that, among the liabilities, a minority interest account of $798 million is included in our invested capital number (i.e. we did not exclude it). This minority interest represents partial interests in Disney subsidiaries held by other companies. For example, Disney may own 90% of a subsidiary, while another company owns the other 10%. When the balance sheets are consolidated (or "rolled up"), all of the assets are included in Disney's balance sheet, even though 10% of this subsidiary's assets belong to another company. A minority interest account equal to this other company's ownership in the subsidiary is therefore created; this minority interest effectively reduces Disney's equity account accordingly. </p>
+<p>So why did we include this equity account in invested capital? The reason is the first economic profit principle discussed in chapter 3: the most important thing is consistency between net operating profit after taxes (NOPAT) and invested capital. The return number (NOPAT) must be consistent with the base number (invested capital). And when we calculated NOPAT, we started with EBIT, which is before (or "above") the minority interest deduction on the income statement - in other words, our NOPAT number is <em>not</em> reduced by the minority interest. So to be consistent, we do not reduce our invested capital by the minority interest. </p>
+<p>It would be acceptable, although less common, to subtract minority interest from NOPAT and exclude it also from the invested capital calculation. The important thing to keep in mind is the consistency principle, which can solve many of your dilemmas concerning economic profit adjustments: ask if you included or excluded the account from the NOPAT number and treat the adjustment similarly when working with the balance sheet. </p>
+<p><strong>Steps 2 and 3 - Making the Cash and Balance Sheet Adjustments</strong> </p>
+<p>Now that we have calculated invested capital, we have only to make the other two types of adjustments: cash flow adjustments and off-balance-sheet adjustments. Here again, we are guided by our previous decisions in regard to NOPAT. As a reminder, Figure 5 shows the adjustments we already made in chapter 3: </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVACh2Fig3r.gif'><img class='clImageThumb' src='../images/EVACh2Fig3r.gif'></a>
+
+</p>
+<p>Figure 5 (numbers are in millions) </p>
+<p></td></tr></table>
+
+</p>
+<p>We are going to match these adjustments on the balance sheet. First, in regard to converting accrual to cash, our goal is simply to adjust the balance sheet to get closer to cash. Second, in performing the important step of capitalizing debt/equity equivalents, our goal is to capture investments or debt obligations that - for whatever reason - are not currently on the balance sheet. </p>
+
+
+<p>Disney has many operating leases that are economically equivalent to long-term capital leases and therefore represent a debt obligation (note we already did the calculation in chapter 3, where we estimated the present value of these lease obligations at $11,866 million). In the worksheet below in Figure 6, we perform the cash flow adjustments and off-balance-sheet adjustments: </p>
+
+
+<table><tr><td>
+
+<a href='../images/EVAChp3Fig6_R.gif'><img class='clImageThumb' src='../images/EVAChp3Fig6_R.gif'></a>
+
+</p>
+<p>  </p>
+<p>Figure 6 (numbers are in millions)  </p>
+<p>1. Only applies if company uses LIFO inventory accounting </p>
+<p>2. This is an important idea: if the firm expensed R&amp;D, we want to capitalize it as an asset. This simply treats the money spent as if it were spent on a long-term asset like a manufacturing plant. </p>
+<p></td></tr></table>
+
+</p>
+<p>See how our adjustments to invested capital matched our adjustments to get to NOPAT. In both cases, we adjusted for the allowance for bad debt - because it is a paper reserve that does not reflect cash received. In both cases, we treated operating leases like capital leases by adding back the interest component and putting the obligation back onto the balance sheet. </p>
+<p>Our worksheet above shows two 'N/As' because, although they do not apply in Disney's case, they are often significant in the economic profit calculation. First, if Disney had a LIFO reserve, we would add that to the invested capital base. Second, if research and development were expensed, we would capitalize it, that is, add it to the balance sheet and thereby treat it as an asset with a long-term payoff. In the next chapter, we itemize a full set of generic adjustments for all situations. </p>
+<p>So, for making Disney's cash and balance sheet adjustments, only two additions are needed to arrive at an invested capital base of $58,950 million. This number represents a reasonable estimate of the assets that are funded by debt and equity sources. </p>
+<p><strong>Summary</strong> </p>
+<p>Invested capital, which we calculated here, reflects an estimate of the total funds held on behalf of shareholders, lenders and any other financing sources. A key idea in economic profit is that, in the calculation, a company is charged "rent" for the use of these funds. Economic profit then represents all profit in excess of this rental charge. </p>
+<p>
+
+<h2>EVA: Pulling It All Together</h2>
+
+<p></p>
+<p>By David Harper, (Editor In Chief - Investopedia Advisor) </p>
+
+<p>By working through the components of economic profit over the previous chapters, we've been building an economic profit calculation for Disney. Now it's time we pull together these components into the formula to arrive at the final number. </p>
+<p><strong></strong></p>
+<p>The Formula </p>
+<p>As a reminder, here is the basic economic profit calculation: </p>
+<p>Economic Profit = NOPAT - Capital Charge (Invested Capital x WACC) </p>
+<p>Economic profit is NOPAT minus a capital charge, which represents a sort of rental fee charged to the company for its use of capital. In other words, economic profit is the profits (or returns) our company must generate in order to satisfy the lenders and shareholders who have "rented" capital to the company. Keep in mind that economic profit is a period metric, like earnings or cash flow. In our case, we are referring to Disney's economic profit over the 2004 fiscal year. </p>
+<p>The only step that we need to perform before the ultimate economic profit calculation is to estimate the capital charge. </p>
+<p>As a reminder, here is the basic economic profit calculation: Economic Profit = NOPAT - Capital Charge (Invested Capital x WACC) Economic profit is  minus a capital charge, which represents a sort of rental fee charged to the company for its use of capital. In other words, economic profit is the profits (or returns) our company must generate in order to satisfy the lenders and shareholders who have "rented" capital to the company. Keep in mind that economic profit is a period metric, like earnings or cash flow. In our case, we are referring to Disney's economic profit over the 2004 fiscal year. The only step that we need to perform before the ultimate economic profit calculation is to estimate the capital charge. </p>
+<p><strong></p>
+<p>Capital Charge Equals Invested Capital Multiplied by WACC</strong> </p>
+<p>We already calculated invested capital in chapter 4. Now we need to estimate Disney's weighted average cost of capital (WACC). This is the average return expected by the blended investor base. In order to calculate WACC, we need a cost of debt and a cost of equity. </p>
+<p><em></p>
+<p>Cost of Debt</em> </p>
+<p>The cost of debt can be found on the 10-K footnotes. In Disney's case, however, we need to make an estimate because the company relies on several different types of debt. We can make this estimate by looking at its long-term debt rating (at the time of the annual report, Disney's Standard and Poor's long-term debt rating was 'BBB+', which is medium grade). Disney's debt rating corresponds to a debt cost of about 5%. (Note that this will be higher than the risk-free rate since it is a corporate bond with credit risk.) </p>
+<p>This 5% rate, however, is a pretax cost of debt - companies can deduct interest expense from their tax bill, and reap a true cash benefit. The after-tax cost of debt is therefore lower. To obtain this number we multiple the pretax cost of debt by the so-called tax shield or (1-tax rate). Disney's 2004 effective tax rate is 32%, so the tax shield is 68%, and the after-tax cost of debt equals 5% multiplied by 68%, or 3.4%. </p>
+<p><em></p>
+<p>Cost of Equity</em> </p>
+<p>Unlike the cost of debt, which is explicit and can be referenced, the cost of equity is implicit: shareholders expect returns on their investment, but unlike interest rates, these returns are neither uniform nor decided or set. </p>
+<p>  Because of cost of equity's theoretical basis, there are several methods for calculating it. Here we use the capital asset pricing model (CAPM), which is a traditional method but subject to much criticism. In the CAPM, the expected return is a function of one factor only: the presumed risk of the stock as implied by the equity's beta. A higher beta implies greater risk which, in turn, increases the expected return - and the expected return is the same as the cost of equity. (Expected return is simply the view from the investor's perspective while cost of capital is the same number from the company's perspective.) </p>
+
+<p>The CAPM formula says the following:</p><blockquote dir="ltr">Cost of Equity = Risk-Free Rate + (Beta x Equity Premium)</blockquote>Let's look briefly at the different elements of the equation. Beta, as a measure of risk, is a measure of the stock's sensitivity to the overall market. A beta of 1.0 implies the stock will track closely with the market. A beta greater than 1.0 implies the stock is more volatile than the market. Disney's beta at the end of the fiscal year was 1.15. This implies slightly more risk than the overall market, on both the upside and downside. </p>
+<p>The equity premium is the overall average excess return that investors in the stock market expect above that of a risk-less investment like U.S. Treasury bonds, which for our calculation is 4%. There is always vigorous debate over what the correct equity premium is (for more on the calculation and debate, see the article series <em>The Equity Risk Premium</em>.) We will use an equity premium of 4%, which is middle of the road as some would argue this is too high and some might argue it is too low. </p>
+<p> By using the CAPM formula, we add 4.6% (a 4% equity premium x 1.15 beta) to a risk-less rate of 4%. Our estimate for Disney's cost of equity capital therefore equals 8.6%. </p>
+<p>The calculations for both Disney's cost of debt and cost of equity are illustrated below in Figure 1:  </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp4Fig1_R.gif'><img class='clImageThumb' src='../images/EVAChp4Fig1_R.gif'></a>
+
+Figure 1</td></tr></table>
+
+<strong>The Weighted Average Cost of Capital</strong> </p>
+<p>Now we can calculate the WACC. To do this, we simply multiply the cost of debt and equity by their respective proportions of invested capital, and then add the two resulting numbers together.  </p>
+<p>The proportion of debt and equity depends on the total dollar amount of each, and this information we can find on Disney's 2004 balance sheet. If we add up the debt (i.e. long-term debt plus short-term debt plus other liabilities), we get $17.11 billion. The market value of the equity (market capitalization) is $56.962 billion. Debt is therefore 23% of invested capital and equity is 77%. (Note we used the book value of debt - debt from the balance sheet - but we used the market value of equity. Theoretically, we want the market value of both. But it is much easier to get the book value of debt, and it typically tracks very closely to the market value, so we were satisfied to use book value.) </p>
+<p>In Figure 2 below, we multiply each type of cost of capital (calculated in Figure 1) by its respective proportion of total capital. Then we add the two weighted costs together to arrive at WACC.   </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp4Fig2_RR.gif'><img class='clImageThumb' src='../images/EVAChp4Fig2_RR.gif'></a>
+
+Figure 2</td></tr></table>
+
+<em></p>
+<p>The WACC and Debt-to-Equity Relationship</em> </p>
+<p>You may have already noticed that debt is cheaper than equity. There are two reasons for this: first, the pretax cost of debt is lower because it has a prior claim on the company's assets. Second, it enjoys the tax shield (i.e. it is a tax-deductible charge), which is why a balance sheet totally devoid of debt may be suboptimal. Because debt is cheaper, by swapping some equity for debt, a company may be able to reduce its WACC. </p>
+<p>
+<p>So why not swap all equity for debt? Well, that would be too risky; a company must service its debt, and a greater share of debt increases the risk of default and/or bankruptcy. In Figure 3 below, we graph estimates of WACC for Disney at different debt-to-equity ratios. At a debt-to-equity ratio of 0.9, the graph plots a minimum value. In theory, this would be Disney's optimal capital structure because it minimizes their cost of capital - after 0.9, higher ratios begin to produce a higher WACC. But, this is merely theoretical and depends on our assumptions. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp4Fig3_R.gif'><img class='clImageThumb' src='../images/EVAChp4Fig3_R.gif'></a>
+
+Figure 3</td></tr></table>
+
+<strong></p>
+<p>The Economic Profit Calculation</strong> </p>
+<p>We now have all of the elements to perform the final economic profit calculation, which is the subtraction of a capital charge from NOPAT. The capital charge is invested capital multiplied by WACC (a percentage). This is all shown below in Figure 4: </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChp4Fig4_RR.gif'><img class='clImageThumb' src='../images/EVAChp4Fig4_RR.gif'></a>
+
+</p>
+<p>Figure 4 (numbers in millions)</td></tr></table>
+
+</p>
+<p>The economic profit number tells us that, despite generating $3.597 billion in after-tax net operating profits, Disney did not quite cover its cost of capital. Of course, it fully serviced its debt, but the point of economic profit is to charge the company for the use of equity capital – when we incorporate this cost, we find that Disney lost (some would say "destroyed value") $765 million in economic profit over the year. </p>
+<p><strong></p>
+<p>Summary</strong> </p>
+<p>In this installment, we performed the final economic profit calculation, pulling together the components we explored and calculated throughout this tutorial. We started with NOPAT (calculated in chapter 3). Then we estimated invested capital (chapter 4). In this chapter we then estimated the capital charge by multiplying invested capital by the weighted average cost of capital. Finally, we subtracted the capital charge from NOPAT in order to get economic profit over the one-year period. </p>
+<p>
+
+<h2>EVA: What Does It Really Mean?</h2>
+
+<p></p>
+
+
+
+<p>As we performed a sequence of calculations to find Disney's (DIS) 2004 economic profit, we discovered that despite positive accounting earnings, the company produced negative economic profit. Now that we've gone over the components of economic profit and the steps to finding it, in this chapter, we want to achieve three things: (1) itemize a list of core adjustments you should consider if you want to calculate economic profit for a company, (2) put into perspective the economic profit metric by comparing it to alternative metrics and (3) consider the key strengths and weakness of the economic profit metric. </p>
+<p><strong></p>
+<p>The Recap</strong> </p>
+<p>Now that you've viewed economic profit in action, you've likely observed that most of its perceived complexity results from <em>two types of adjustments</em> that convert accounting earnings into net operating profit after taxes (NOPAT). The goal of these adjustments is to translate an accounting profit into an economic profit that more accurately reflects cash invested and cash generated. The illustration below recaps the process. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChap5Fig1.gif'><img class='clImageThumb' src='../images/EVAChap5Fig1.gif'></a>
+
+</p>
+<p>Figure 1</td></tr></table>
+
+</p>
+<p>To make the conversion, we can start with any income statement line, but it is easiest to start with earnings before interest and taxes (EBIT). Then we make two types of adjustments in order to convert EBIT into NOPAT. First, we reverse accruals to capture cash flows, and second, we capitalize expenses that ought to be treated like investments. Once we have NOPAT, we need only to subtract the capital charge, which is equal to total invested capital - which we find by making appropriate adjustments to invested book capital, found on the balance sheet - multiplied by the weighted average cost of capital (WACC). </p>
+<p><strong>The Core Adjustments</strong> </p>
+<p>Remember the importance of being consistent throughout the course of your calculations: always match an income statement adjustment - in getting NOPAT - to a corresponding balance sheet adjustment - in getting invested capital. This is more important than the number of your adjustments! </p>
+<p>The "perfect" economic profit calculation is fully loaded; that is, it captures every dollar of invested capital and makes every adjustment to determine the precise level of cash flow. But the need for a perfect economic profit number is questionable. Many academic studies have demonstrated that the incremental information gained beyond a handful of key adjustments is minimal. You are therefore okay to use a few adjustments to arrive at an approximation. </p>
+<p>The table below shows a list of selected core adjustments. Each income statement adjustment in the left-hand column helps to convert EBIT to NOPAT; each corresponding balance sheet adjustment in the right-hand column helps convert book capital to invested capital. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChap5Table.gif'><img class='clImageThumb' src='../images/EVAChap5Table.gif'></a>
+
+</td></tr></table>
+
+</p>
+<p><strong>Putting Economic Profit into Perspective</strong> </p>
+<p>To determine what economic profit tells us as an analytical tool for investors, we need to compare it to several other popular metrics. Let's start by determining the levels of analysis: does the metric capture dollars created for the entire entity (both lenders and shareholders) or only the shareholders, or does it capture excess (residual) dollars created for both shareholders and lenders? Figure 2 below summarizes which levels of analysis the different types of valuation metrics occupy, and it indicates which are performance metrics and which are wealth metrics. </p>
+<p>
+
+<table><tr><td></p>
+<p>
+
+<a href='../images/EVAChap5Fig2.gif'><img class='clImageThumb' src='../images/EVAChap5Fig2.gif'></a>
+
+</p>
+<p>Figure 2</td></tr></table>
+
+</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/EVAChap5Fig2Key.gif'><img class='clImageThumb' src='../images/EVAChap5Fig2Key.gif'></a>
+
+</td></tr></table>
+
+</p>
+<p>In Figure 2, the levels of analysis are labeled across the top row. Under entity, we show two columns of metrics: before reinvestment and after reinvestment. These columns distinguish between those metrics that include capital expenditures and those that don't. For example, EBITDA is before depreciation and amortization (D&amp;A) and therefore is before the non-cash charge that reduces earnings by the amortized investment. But EBIT is after D&amp;A and, although not cash based, does recognize a charge for investments. </p>
+<p>Down the left-hand side we have three rows of performance metrics and one row of wealth metrics. The first row of performance metrics shows accrual metrics, which are based on accounting flows, and below each accrual metric is the cash flow metric analog based on the same level of analysis. For example, the cash flow analog to EBIT is free cash flow to the firm (FCFF). EBIT is the earnings that accrue to both shareholder and lenders - in other words, it accrues to the entire entity or enterprise. And FCFF is the equivalent in cash flows. </p>
+<p> By looking at the chart, you may be asking yourself what the difference is between economic profit and cash value added (CVA), both of which are <em>residual</em> dollar returns. Despite its use of adjustments, economic profit is essentially accrual based. Consider NOPAT's inclusion of - or put another way, reduction by - depreciation and amortization, which are non-cash charges. So, whatever adjustments we make, we are still incorporating accruals. CVA, on the other hand, is a metric designed to correct/reverse this by adding back the non-cash charges of depreciation and amortization. </p>
+<p>Figure 2 also shows how the performance metrics - whether capturing enterprise, shareholder or residual dynamics - have corresponding return metrics and wealth metrics. Return on gross invested capital (ROGIC), for example, corresponds to EBITDA because it adds back depreciation to capital in the denominator - ROGIC is before D&amp;A just as EBITDA is before D&amp;A. (ROGIC is similar to return on gross assets (ROGA).) </p>
+
+<p>Economic spread, which expresses economic dollars in percentage terms, is the returns-metric analogue to economic profit. To understand this, we simply rearrange our basic economic profit calculation: </p>
+<p>
+
+<table><tr><td>Economic profit =         NOPAT - [WACC × Invested Capital]                                     (NOPAT = ROIC × Invested Capital) </p>
+<p><em>Therefore</em>                                                             <em> </p>
+<p></em></p>
+<p>Economic profit =         [ROIC × Invested Capital] - [WACC × Invested Capital]  Economic profit =         [ROIC - WACC] × Invested Capital</td></tr></table>
+
+</p>
+<p>The difference between return on invested capital (ROIC) and the weighted average cost of capital is the economic spread: spread = [ROIC – WACC]. </p>
+<p><strong><strong> </p>
+<p>
+</strong>Strengths and Weaknesses of Economic Profit</strong> </p>
+<p>The map of metrics above helps us to understand that economic profit it is one of several valid performance measures, each of which offer a different type of insight into a company. Economic profit's strengths include the following:<ul type="disc"><li>Because it is a residual performance metric, it conveniently summarizes <em>into a single statistic</em> the value created <em>above and beyond</em> all financial obligations    </li><li>By applying a capital charge, it corrects the key deficiency of earnings and earnings per share (EPS): they do not incorporate the balance sheet. Economic profit explicitly recognizes - by way of the capital charge - that capital is not free and, if growth is purchased with capital, economic profit recognizes that the growth is not free and assigns a charge for the capital used to purchase the growth.    </li><li>As an operational metric, it helps managers clarify how they create value. Generally, they do it either by investing additional capital that produces returns above WACC, by reducing capital employed in a business, by improving returns by growing revenues or reducing expenses or by reducing the cost of capital. </li></ul>Now consider the weaknesses of economic profit:<ul type="disc"><li>Unless fully loaded and all cash adjustments are made, economic profit can be subject to accrual distortions. For example, because NOPAT is after depreciation and amortization, a company that does not reinvest capital to maintain its plant and equipment can improve its accrual bottom line simply by virtue of the declining D&amp;A line. This sort of attempt at boosting economic profit is known as harvesting the assets.    </li><li>It has the limitations of any single-period, historical metric: last year's economic profit will not necessarily give you an insight into future performance. This can be especially true if a company is in a turnaround situation or makes a large lump-sum investment, in which case, economic profit will immediately suffer (due to the higher invested capital base) but the expected future period payoff will not show up as a benefit in the calculation. </li></ul>Because it relies on invested capital, it is more suitable for analyzing asset-intensive firms (those whose value comes largely from tangible assets on the balance sheet) that exhibit somewhat predictable growth trends. The best use of economic profit tends to be in traditional and mature industries. It therefore has less relevance for firms that are valuable largely because of intangible, off-balance-sheet assets; economic profit has shown limited success in high-tech and service-oriented companies. </p>
+<p>
+
+<h2>EVA: Conclusion</h2>
+
+
+
+
+<p>Economic profit - otherwise known as "Economic Value Added" (EVA™) is based on classic financial theory, and, for this reason, is not entirely different from traditional free cash flow measures. Three conceptual pillars support economic profit: </p><ol><li>Cash flows are more reliable than accruals. </li><li>Some period expenses are - in economic reality - actually long-term investments. </li><li>The company does not create value until a threshold level of return is generated for shareholders. </li></ol><p>As you perform your own economic profit calculations, keep the following in mind: </p><ul><li>Economic profit boils down to a set of adjustments that translate an accrual-based earnings before interest and taxes (EBIT) into a cash-based net operating profit after taxes (NOPAT). </p>
+<p></li><li>Although the list of potential adjustments is long, it is important not to be seduced into an almost-impossible quest for absolute precision. From an investor's perspective, consistency is more important. That is, an income statement adjustment should always be matched by a balance sheet adjustment. For example, if we add back minority interest to earnings, then we need to add the minority interest balance sheet account to invested capital. We can add neither or both, but there is no truly right answer. In this example, it comes down to whether we prefer our economic profit to have an operational perspective (add both) or a financial perspective (add neither). </p>
+<p></li><li>Avoid seeking precision in the calculation of weighted average cost of capital (WACC), a dubious academic exercise. It is far better to charge the company with an approximate but consistent estimate of WACC than to try to chase down the elusive cost of equity. (Several companies, after trying to explain a precise WACC to employees, have come to abandon a precise WACC in favor of a round number like 10%; e.g. "cost of capital is 10%".) </li></ul>Finally, to help you consider whether economic profit is an appropriate performance metric for the company you are evaluating, we have discussed the following strengths and weaknesses: </p>
+<p><strong>Strengths</strong> </p>
+<p><ul><li>If you had to rely on only one single performance number, economic profit is probably the best because it contains so much information (mathematicians would call it "elegant"): economic profit incorporates balance sheet data into an adjusted income statement metric. </li><li>Economic profit works best for companies whose tangible assets (assets on the balance sheet) correlate with the market value of assets - as is often the case with mature industrial companies.  </li></ul><strong>Weaknesses</strong> </p>
+<p><ul><li>Although some proponents argue economic profit is "all you need", it is very risky to depend on an single metric. </li><li>The companies least suited for economic profit are high-growth, new-economy and high-technology companies, for whom assets are 'off balance sheet' or intangible. </p>
+<p></li></ul>
+<div>
+</p>
+<p>
+
+
+
+</div>
+</div>
+</body>
+</html>

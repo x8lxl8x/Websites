@@ -1,0 +1,190 @@
+# coutoner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|couton%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|couton%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|couton%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||couton%[m|é]|
+|ayant|couton%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en couton%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|couton%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|couton%[m|e]|
+|tu|couton%[m|es]|
+|il|couton%[m|e]|
+|nous|couton%[m|ons]|
+|vous|couton%[m|ez]|
+|ils|couton%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|couton%[m|é]|
+|tu|as |couton%[m|é]|
+|il|a|couton%[m|é]|
+|nous|avons|couton%[m|é]|
+|vous|avez|couton%[m|é]|
+|ils|ont|couton%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|couton%[m|ais]|
+|tu|couton%[m|ais]|
+|il|couton%[m|ait]|
+|nous|couton%[m|ions]|
+|vous|couton%[m|iez]|
+|ils|couton%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|couton%[m|é]|
+|tu|avais|couton%[m|é]|
+|il|avait|couton%[m|é]|
+|nous|avions|couton%[m|é]|
+|vous|aviez|couton%[m|é]|
+|ils|avaient|couton%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|couton%[m|ai]|
+|tu|couton%[m|as]|
+|il|couton%[m|a]|
+|nous|couton%[m|âmes]|
+|vous|couton%[m|âtes]|
+|ils|couton%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|couton%[m|é]|
+|tu|eus|couton%[m|é]|
+|il|eut|couton%[m|é]|
+|nous|e&ucirc;mes|couton%[m|é]|
+|vous|e&ucirc;tes|couton%[m|é]|
+|ils|eurent|couton%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|couton%[m|erai]|
+|tu|couton%[m|eras]|
+|il|couton%[m|era]|
+|nous|couton%[m|erons]|
+|vous|couton%[m|erez]|
+|ils|couton%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|couton%[m|é]|
+|tu|auras|couton%[m|é]|
+|il|aura|couton%[m|é]|
+|nous|aurons|couton%[m|é]|
+|vous|aurez|couton%[m|é]|
+|ils|auront|couton%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|couton%[m|erais]|
+|tu|couton%[m|erais]|
+|il|couton%[m|erait]|
+|nous|couton%[m|erions]|
+|vous|couton%[m|eriez]|
+|ils|couton%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|couton%[m|é]|
+|tu|aurais|couton%[m|é]|
+|il|aurait|couton%[m|é]|
+|nous|aurions|couton%[m|é]|
+|vous|auriez|couton%[m|é]|
+|ils|auraient|couton%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|couton%[m|e]|
+|que|tu|couton%[m|es]|
+|qu'|il|couton%[m|e]|
+|que|nous|couton%[m|ions]|
+|que|vous|couton%[m|iez]|
+|qu'|ils|couton%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|couton%[m|é]|
+|que|tu|aies|couton%[m|é]|
+|qu'|il|ait|couton%[m|é]|
+|que|nous|ayons|couton%[m|é]|
+|que|vous|ayez|couton%[m|é]|
+|qu'|ils|aient|couton%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|couton%[m|asse]|
+|que|tu|couton%[m|asses]|
+|qu'|il|couton%[m|ât]|
+|que|nous|couton%[m|assions]|
+|que|vous|couton%[m|assiez]|
+|qu'|ils|couton%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|couton%[m|é]|
+|que|tu|eusses|couton%[m|é]|
+|qu'|il|eût|couton%[m|é]|
+|que|nous|eussions|couton%[m|é]|
+|que|vous|eussiez|couton%[m|é]|
+|qu'|ils|eussent|couton%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|couton%[m|e]|
+|couton%[m|ons]|
+|couton%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|couton%[m|é]|
+|ayons|couton%[m|é]|
+|ayez|couton%[m|é]|
+|]
+

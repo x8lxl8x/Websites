@@ -1,0 +1,190 @@
+# patter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|patt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|patt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|patt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||patt%[m|é]|
+|ayant|patt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en patt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|patt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|patt%[m|e]|
+|tu|patt%[m|es]|
+|il|patt%[m|e]|
+|nous|patt%[m|ons]|
+|vous|patt%[m|ez]|
+|ils|patt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|patt%[m|é]|
+|tu|as |patt%[m|é]|
+|il|a|patt%[m|é]|
+|nous|avons|patt%[m|é]|
+|vous|avez|patt%[m|é]|
+|ils|ont|patt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|patt%[m|ais]|
+|tu|patt%[m|ais]|
+|il|patt%[m|ait]|
+|nous|patt%[m|ions]|
+|vous|patt%[m|iez]|
+|ils|patt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|patt%[m|é]|
+|tu|avais|patt%[m|é]|
+|il|avait|patt%[m|é]|
+|nous|avions|patt%[m|é]|
+|vous|aviez|patt%[m|é]|
+|ils|avaient|patt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|patt%[m|ai]|
+|tu|patt%[m|as]|
+|il|patt%[m|a]|
+|nous|patt%[m|âmes]|
+|vous|patt%[m|âtes]|
+|ils|patt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|patt%[m|é]|
+|tu|eus|patt%[m|é]|
+|il|eut|patt%[m|é]|
+|nous|e&ucirc;mes|patt%[m|é]|
+|vous|e&ucirc;tes|patt%[m|é]|
+|ils|eurent|patt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|patt%[m|erai]|
+|tu|patt%[m|eras]|
+|il|patt%[m|era]|
+|nous|patt%[m|erons]|
+|vous|patt%[m|erez]|
+|ils|patt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|patt%[m|é]|
+|tu|auras|patt%[m|é]|
+|il|aura|patt%[m|é]|
+|nous|aurons|patt%[m|é]|
+|vous|aurez|patt%[m|é]|
+|ils|auront|patt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|patt%[m|erais]|
+|tu|patt%[m|erais]|
+|il|patt%[m|erait]|
+|nous|patt%[m|erions]|
+|vous|patt%[m|eriez]|
+|ils|patt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|patt%[m|é]|
+|tu|aurais|patt%[m|é]|
+|il|aurait|patt%[m|é]|
+|nous|aurions|patt%[m|é]|
+|vous|auriez|patt%[m|é]|
+|ils|auraient|patt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|patt%[m|e]|
+|que|tu|patt%[m|es]|
+|qu'|il|patt%[m|e]|
+|que|nous|patt%[m|ions]|
+|que|vous|patt%[m|iez]|
+|qu'|ils|patt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|patt%[m|é]|
+|que|tu|aies|patt%[m|é]|
+|qu'|il|ait|patt%[m|é]|
+|que|nous|ayons|patt%[m|é]|
+|que|vous|ayez|patt%[m|é]|
+|qu'|ils|aient|patt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|patt%[m|asse]|
+|que|tu|patt%[m|asses]|
+|qu'|il|patt%[m|ât]|
+|que|nous|patt%[m|assions]|
+|que|vous|patt%[m|assiez]|
+|qu'|ils|patt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|patt%[m|é]|
+|que|tu|eusses|patt%[m|é]|
+|qu'|il|eût|patt%[m|é]|
+|que|nous|eussions|patt%[m|é]|
+|que|vous|eussiez|patt%[m|é]|
+|qu'|ils|eussent|patt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|patt%[m|e]|
+|patt%[m|ons]|
+|patt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|patt%[m|é]|
+|ayons|patt%[m|é]|
+|ayez|patt%[m|é]|
+|]
+

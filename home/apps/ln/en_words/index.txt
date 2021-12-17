@@ -1,0 +1,6 @@
+<span class='clIndex'>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Words&varAppArea=ln&varAppDir=en_words&varFileName=01.txt'>Time</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Words&varAppArea=ln&varAppDir=en_words&varFileName=02.txt'>Adverbs of Degree</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Words&varAppArea=ln&varAppDir=en_words&varFileName=03.txt'>Adjectives of Positive Feelings</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Words&varAppArea=ln&varAppDir=en_words&varFileName=04.txt'>Adjectives of Negative Feeligs</a><br>
+</span>

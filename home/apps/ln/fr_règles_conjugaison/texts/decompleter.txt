@@ -1,0 +1,190 @@
+# décompléter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décompl%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décompl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décomplét%[m|é]|
+|ayant|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décompl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décompl%[m|è]t%[m|e]|
+|tu|décompl%[m|è]t%[m|es]|
+|il|décompl%[m|è]t%[m|e]|
+|nous|décompl%[m|é]t%[m|ons]|
+|vous|décompl%[m|é]t%[m|ez]|
+|ils|décompl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décomplét%[m|é]|
+|tu|as |décomplét%[m|é]|
+|il|a|décomplét%[m|é]|
+|nous|avons|décomplét%[m|é]|
+|vous|avez|décomplét%[m|é]|
+|ils|ont|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décompl%[m|é]t%[m|ais]|
+|tu|décompl%[m|é]t%[m|ais]|
+|il|décompl%[m|é]t%[m|ait]|
+|nous|décompl%[m|é]t%[m|ions]|
+|vous|décompl%[m|é]t%[m|iez]|
+|ils|décompl%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décomplét%[m|é]|
+|tu|avais|décomplét%[m|é]|
+|il|avait|décomplét%[m|é]|
+|nous|avions|décomplét%[m|é]|
+|vous|aviez|décomplét%[m|é]|
+|ils|avaient|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décompl%[m|é]t%[m|ai]|
+|tu|décompl%[m|é]t%[m|as]|
+|il|décompl%[m|é]t%[m|a]|
+|nous|décompl%[m|é]t%[m|âmes]|
+|vous|décompl%[m|é]t%[m|âtes]|
+|ils|décompl%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décomplét%[m|é]|
+|tu|eus|décomplét%[m|é]|
+|il|eut|décomplét%[m|é]|
+|nous|e&ucirc;mes|décomplét%[m|é]|
+|vous|e&ucirc;tes|décomplét%[m|é]|
+|ils|eurent|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décompl%[m|é]t%[m|erai]|
+|tu|décompl%[m|é]t%[m|eras]|
+|il|décompl%[m|é]t%[m|era]|
+|nous|décompl%[m|é]t%[m|erons]|
+|vous|décompl%[m|é]t%[m|erez]|
+|ils|décompl%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décomplét%[m|é]|
+|tu|auras|décomplét%[m|é]|
+|il|aura|décomplét%[m|é]|
+|nous|aurons|décomplét%[m|é]|
+|vous|aurez|décomplét%[m|é]|
+|ils|auront|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décompl%[m|é]t%[m|erais]|
+|tu|décompl%[m|é]t%[m|erais]|
+|il|décompl%[m|é]t%[m|erait]|
+|nous|décompl%[m|é]t%[m|erions]|
+|vous|décompl%[m|é]t%[m|eriez]|
+|ils|décompl%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décomplét%[m|é]|
+|tu|aurais|décomplét%[m|é]|
+|il|aurait|décomplét%[m|é]|
+|nous|aurions|décomplét%[m|é]|
+|vous|auriez|décomplét%[m|é]|
+|ils|auraient|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décompl%[m|è]t%[m|e]|
+|que|tu|décompl%[m|è]t%[m|es]|
+|qu'|il|décompl%[m|è]t%[m|e]|
+|que|nous|décompl%[m|é]t%[m|ions]|
+|que|vous|décompl%[m|é]t%[m|iez]|
+|qu'|ils|décompl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décomplét%[m|é]|
+|que|tu|aies|décomplét%[m|é]|
+|qu'|il|ait|décomplét%[m|é]|
+|que|nous|ayons|décomplét%[m|é]|
+|que|vous|ayez|décomplét%[m|é]|
+|qu'|ils|aient|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décompl%[m|é]t%[m|asse]|
+|que|tu|décompl%[m|é]t%[m|asses]|
+|qu'|il|décompl%[m|é]t%[m|ât]|
+|que|nous|décompl%[m|é]t%[m|assions]|
+|que|vous|décompl%[m|é]t%[m|assiez]|
+|qu'|ils|décompl%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décomplét%[m|é]|
+|que|tu|eusses|décomplét%[m|é]|
+|qu'|il|eût|décomplét%[m|é]|
+|que|nous|eussions|décomplét%[m|é]|
+|que|vous|eussiez|décomplét%[m|é]|
+|qu'|ils|eussent|décomplét%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décompl%[m|è]t%[m|e]|
+|décompl%[m|é]t%[m|ons]|
+|décompl%[m|é]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décomplét%[m|é]|
+|ayons|décomplét%[m|é]|
+|ayez|décomplét%[m|é]|
+|]
+

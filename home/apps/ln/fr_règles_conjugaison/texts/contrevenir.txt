@@ -1,0 +1,190 @@
+# contrevenir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|contrev%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|contrev%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||contrev%[m|enu]|
+|ayant|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en contrev%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|contrev%[m|iens]|
+|tu|contrev%[m|iens]|
+|il|contrev%[m|ient]|
+|nous|contrev%[m|enons]|
+|vous|contrev%[m|enez]|
+|ils|contrev%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|contrev%[m|enu]|
+|tu|as |contrev%[m|enu]|
+|il|a|contrev%[m|enu]|
+|nous|avons|contrev%[m|enu]|
+|vous|avez|contrev%[m|enu]|
+|ils|ont|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|contrev%[m|enais]|
+|tu|contrev%[m|enais]|
+|il|contrev%[m|enait]|
+|nous|contrev%[m|enions]|
+|vous|contrev%[m|eniez]|
+|ils|contrev%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|contrev%[m|enu]|
+|tu|avais|contrev%[m|enu]|
+|il|avait|contrev%[m|enu]|
+|nous|avions|contrev%[m|enu]|
+|vous|aviez|contrev%[m|enu]|
+|ils|avaient|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|contrev%[m|ins]|
+|tu|contrev%[m|ins]|
+|il|contrev%[m|int]|
+|nous|contrev%[m|înmes]|
+|vous|contrev%[m|întes]|
+|ils|contrev%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|contrev%[m|enu]|
+|tu|eus|contrev%[m|enu]|
+|il|eut|contrev%[m|enu]|
+|nous|e&ucirc;mes|contrev%[m|enu]|
+|vous|e&ucirc;tes|contrev%[m|enu]|
+|ils|eurent|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|contrev%[m|iendrai]|
+|tu|contrev%[m|iendras]|
+|il|contrev%[m|iendra]|
+|nous|contrev%[m|iendrons]|
+|vous|contrev%[m|iendrez]|
+|ils|contrev%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|contrev%[m|enu]|
+|tu|auras|contrev%[m|enu]|
+|il|aura|contrev%[m|enu]|
+|nous|aurons|contrev%[m|enu]|
+|vous|aurez|contrev%[m|enu]|
+|ils|auront|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|contrev%[m|iendrais]|
+|tu|contrev%[m|iendrais]|
+|il|contrev%[m|iendrait]|
+|nous|contrev%[m|iendrions]|
+|vous|contrev%[m|iendriez]|
+|ils|contrev%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|contrev%[m|enu]|
+|tu|aurais|contrev%[m|enu]|
+|il|aurait|contrev%[m|enu]|
+|nous|aurions|contrev%[m|enu]|
+|vous|auriez|contrev%[m|enu]|
+|ils|auraient|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|contrev%[m|ienne]|
+|que|tu|contrev%[m|iennes]|
+|qu'|il|contrev%[m|ienne]|
+|que|nous|contrev%[m|enions]|
+|que|vous|contrev%[m|eniez]|
+|qu'|ils|contrev%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|contrev%[m|enu]|
+|que|tu|aies|contrev%[m|enu]|
+|qu'|il|ait|contrev%[m|enu]|
+|que|nous|ayons|contrev%[m|enu]|
+|que|vous|ayez|contrev%[m|enu]|
+|qu'|ils|aient|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|contrev%[m|insse]|
+|que|tu|contrev%[m|insses]|
+|qu'|il|contrev%[m|înt]|
+|que|nous|contrev%[m|inssions]|
+|que|vous|contrev%[m|inssiez]|
+|qu'|ils|contrev%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|contrev%[m|enu]|
+|que|tu|eusses|contrev%[m|enu]|
+|qu'|il|eût|contrev%[m|enu]|
+|que|nous|eussions|contrev%[m|enu]|
+|que|vous|eussiez|contrev%[m|enu]|
+|qu'|ils|eussent|contrev%[m|enu]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|contrev%[m|iens]|
+|contrev%[m|enons]|
+|contrev%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|contrev%[m|enu]|
+|ayons|contrev%[m|enu]|
+|ayez|contrev%[m|enu]|
+|]
+

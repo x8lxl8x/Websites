@@ -1,0 +1,190 @@
+# mucher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|much%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|much%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|much%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||much%[m|é]|
+|ayant|much%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en much%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|much%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|much%[m|e]|
+|tu|much%[m|es]|
+|il|much%[m|e]|
+|nous|much%[m|ons]|
+|vous|much%[m|ez]|
+|ils|much%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|much%[m|é]|
+|tu|as |much%[m|é]|
+|il|a|much%[m|é]|
+|nous|avons|much%[m|é]|
+|vous|avez|much%[m|é]|
+|ils|ont|much%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|much%[m|ais]|
+|tu|much%[m|ais]|
+|il|much%[m|ait]|
+|nous|much%[m|ions]|
+|vous|much%[m|iez]|
+|ils|much%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|much%[m|é]|
+|tu|avais|much%[m|é]|
+|il|avait|much%[m|é]|
+|nous|avions|much%[m|é]|
+|vous|aviez|much%[m|é]|
+|ils|avaient|much%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|much%[m|ai]|
+|tu|much%[m|as]|
+|il|much%[m|a]|
+|nous|much%[m|âmes]|
+|vous|much%[m|âtes]|
+|ils|much%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|much%[m|é]|
+|tu|eus|much%[m|é]|
+|il|eut|much%[m|é]|
+|nous|e&ucirc;mes|much%[m|é]|
+|vous|e&ucirc;tes|much%[m|é]|
+|ils|eurent|much%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|much%[m|erai]|
+|tu|much%[m|eras]|
+|il|much%[m|era]|
+|nous|much%[m|erons]|
+|vous|much%[m|erez]|
+|ils|much%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|much%[m|é]|
+|tu|auras|much%[m|é]|
+|il|aura|much%[m|é]|
+|nous|aurons|much%[m|é]|
+|vous|aurez|much%[m|é]|
+|ils|auront|much%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|much%[m|erais]|
+|tu|much%[m|erais]|
+|il|much%[m|erait]|
+|nous|much%[m|erions]|
+|vous|much%[m|eriez]|
+|ils|much%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|much%[m|é]|
+|tu|aurais|much%[m|é]|
+|il|aurait|much%[m|é]|
+|nous|aurions|much%[m|é]|
+|vous|auriez|much%[m|é]|
+|ils|auraient|much%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|much%[m|e]|
+|que|tu|much%[m|es]|
+|qu'|il|much%[m|e]|
+|que|nous|much%[m|ions]|
+|que|vous|much%[m|iez]|
+|qu'|ils|much%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|much%[m|é]|
+|que|tu|aies|much%[m|é]|
+|qu'|il|ait|much%[m|é]|
+|que|nous|ayons|much%[m|é]|
+|que|vous|ayez|much%[m|é]|
+|qu'|ils|aient|much%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|much%[m|asse]|
+|que|tu|much%[m|asses]|
+|qu'|il|much%[m|ât]|
+|que|nous|much%[m|assions]|
+|que|vous|much%[m|assiez]|
+|qu'|ils|much%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|much%[m|é]|
+|que|tu|eusses|much%[m|é]|
+|qu'|il|eût|much%[m|é]|
+|que|nous|eussions|much%[m|é]|
+|que|vous|eussiez|much%[m|é]|
+|qu'|ils|eussent|much%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|much%[m|e]|
+|much%[m|ons]|
+|much%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|much%[m|é]|
+|ayons|much%[m|é]|
+|ayez|much%[m|é]|
+|]
+

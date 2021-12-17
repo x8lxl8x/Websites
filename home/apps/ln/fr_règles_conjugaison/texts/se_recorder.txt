@@ -1,0 +1,190 @@
+# se recorder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se record%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|record%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se record%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|record%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se record%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|record%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|record%[m|e]|
+|tu|te|record%[m|es]|
+|il|se|record%[m|e]|
+|nous|nous|record%[m|ons]|
+|vous|vous|record%[m|ez]|
+|ils|se|record%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|record%[m|é]|
+|tu|t'|es|record%[m|é]|
+|il|s'|est|record%[m|é]|
+|nous|nous|sommes|record%[m|és]|
+|vous|vous|êtes|record%[m|és]|
+|ils|se|sont|record%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|record%[m|ais]|
+|tu|te|record%[m|ais]|
+|il|se|record%[m|ait]|
+|nous|nous|record%[m|ions]|
+|vous|vous|record%[m|iez]|
+|ils|se|record%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|record%[m|é]|
+|tu|t'|étais|record%[m|é]|
+|il|s'|était|record%[m|é]|
+|nous|nous|étions|record%[m|és]|
+|vous|vous|étiez|record%[m|és]|
+|ils|s'|étaient|record%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|record%[m|ai]|
+|tu|te|record%[m|as]|
+|il|se|record%[m|a]|
+|nous|nous|record%[m|âmes]|
+|vous|vous|record%[m|âtes]|
+|ils|se|record%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|record%[m|é]|
+|tu|te|fus|record%[m|é]|
+|il|se|fut|record%[m|é]|
+|nous|nous|fûmes|record%[m|és]|
+|vous|vous|fûtes|record%[m|és]|
+|ils|se|furent|record%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|record%[m|erai]|
+|tu|te|record%[m|eras]|
+|il|se|record%[m|era]|
+|nous|nous|record%[m|erons]|
+|vous|vous|record%[m|erez]|
+|ils|se|record%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|record%[m|é]|
+|tu|te|seras|record%[m|é]|
+|il|se|sera|record%[m|é]|
+|nous|nous|serons|record%[m|és]|
+|vous|vous|serez|record%[m|és]|
+|ils|se|seront|record%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|record%[m|erais]|
+|tu|te|record%[m|erais]|
+|il|se|record%[m|erait]|
+|nous|nous|record%[m|erions]|
+|vous|vous|record%[m|eriez]|
+|ils|se|record%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|record%[m|é]|
+|tu|te|serais|record%[m|é]|
+|il|se|serait|record%[m|é]|
+|nous|nous|serions|record%[m|és]|
+|vous|vous|seriez|record%[m|és]|
+|ils|se|seraient|record%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|record%[m|e]|
+|que|tu|te|record%[m|es]|
+|qu'|il|se|record%[m|e]|
+|que|nous|nous|record%[m|ions]|
+|que|vous|vous|record%[m|iez]|
+|qu'|ils|se|record%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|record%[m|é]|
+|que|tu|te|sois|record%[m|é]|
+|qu'|il|se|soit|record%[m|é]|
+|que|nous|nous|soyons|record%[m|és]|
+|que|vous|vous|soyez|record%[m|és]|
+|qu'|ils|se|soient|record%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|record%[m|asse]|
+|que|tu|te|record%[m|asses]|
+|qu'|il|se|record%[m|ât]|
+|que|nous|nous|record%[m|assions]|
+|que|vous|vous|record%[m|assiez]|
+|qu'|ils|se|record%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|record%[m|é]|
+|que|tu|te|fusses|record%[m|é]|
+|qu'|il|se|fût|record%[m|é]|
+|que|nous|nous|fussions|record%[m|és]|
+|que|vous|vous|fussiez|record%[m|és]|
+|qu'|ils|se|fussent|record%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|record%[m|e]-toi|
+|record%[m|ons]-nous|
+|record%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# assoiffer %[clVerbGroup|1]
+[-
+donner soif à quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|assoiff%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|assoiff%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||assoiff%[m|é]|
+|ayant|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en assoiff%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|assoiff%[m|e]|
+|tu|assoiff%[m|es]|
+|il|assoiff%[m|e]|
+|nous|assoiff%[m|ons]|
+|vous|assoiff%[m|ez]|
+|ils|assoiff%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|assoiff%[m|é]|
+|tu|as |assoiff%[m|é]|
+|il|a|assoiff%[m|é]|
+|nous|avons|assoiff%[m|é]|
+|vous|avez|assoiff%[m|é]|
+|ils|ont|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|assoiff%[m|ais]|
+|tu|assoiff%[m|ais]|
+|il|assoiff%[m|ait]|
+|nous|assoiff%[m|ions]|
+|vous|assoiff%[m|iez]|
+|ils|assoiff%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|assoiff%[m|é]|
+|tu|avais|assoiff%[m|é]|
+|il|avait|assoiff%[m|é]|
+|nous|avions|assoiff%[m|é]|
+|vous|aviez|assoiff%[m|é]|
+|ils|avaient|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|assoiff%[m|ai]|
+|tu|assoiff%[m|as]|
+|il|assoiff%[m|a]|
+|nous|assoiff%[m|âmes]|
+|vous|assoiff%[m|âtes]|
+|ils|assoiff%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|assoiff%[m|é]|
+|tu|eus|assoiff%[m|é]|
+|il|eut|assoiff%[m|é]|
+|nous|e&ucirc;mes|assoiff%[m|é]|
+|vous|e&ucirc;tes|assoiff%[m|é]|
+|ils|eurent|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|assoiff%[m|erai]|
+|tu|assoiff%[m|eras]|
+|il|assoiff%[m|era]|
+|nous|assoiff%[m|erons]|
+|vous|assoiff%[m|erez]|
+|ils|assoiff%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|assoiff%[m|é]|
+|tu|auras|assoiff%[m|é]|
+|il|aura|assoiff%[m|é]|
+|nous|aurons|assoiff%[m|é]|
+|vous|aurez|assoiff%[m|é]|
+|ils|auront|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|assoiff%[m|erais]|
+|tu|assoiff%[m|erais]|
+|il|assoiff%[m|erait]|
+|nous|assoiff%[m|erions]|
+|vous|assoiff%[m|eriez]|
+|ils|assoiff%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|assoiff%[m|é]|
+|tu|aurais|assoiff%[m|é]|
+|il|aurait|assoiff%[m|é]|
+|nous|aurions|assoiff%[m|é]|
+|vous|auriez|assoiff%[m|é]|
+|ils|auraient|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|assoiff%[m|e]|
+|que|tu|assoiff%[m|es]|
+|qu'|il|assoiff%[m|e]|
+|que|nous|assoiff%[m|ions]|
+|que|vous|assoiff%[m|iez]|
+|qu'|ils|assoiff%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|assoiff%[m|é]|
+|que|tu|aies|assoiff%[m|é]|
+|qu'|il|ait|assoiff%[m|é]|
+|que|nous|ayons|assoiff%[m|é]|
+|que|vous|ayez|assoiff%[m|é]|
+|qu'|ils|aient|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|assoiff%[m|asse]|
+|que|tu|assoiff%[m|asses]|
+|qu'|il|assoiff%[m|ât]|
+|que|nous|assoiff%[m|assions]|
+|que|vous|assoiff%[m|assiez]|
+|qu'|ils|assoiff%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|assoiff%[m|é]|
+|que|tu|eusses|assoiff%[m|é]|
+|qu'|il|eût|assoiff%[m|é]|
+|que|nous|eussions|assoiff%[m|é]|
+|que|vous|eussiez|assoiff%[m|é]|
+|qu'|ils|eussent|assoiff%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assoiff%[m|e]|
+|assoiff%[m|ons]|
+|assoiff%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|assoiff%[m|é]|
+|ayons|assoiff%[m|é]|
+|ayez|assoiff%[m|é]|
+|]
+

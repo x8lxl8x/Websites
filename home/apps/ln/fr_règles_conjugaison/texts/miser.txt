@@ -1,0 +1,190 @@
+# miser %[clVerbGroup|1]
+[-
+déposer une mise, un enjeu, parier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mis%[m|é]|
+|ayant|mis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mis%[m|e]|
+|tu|mis%[m|es]|
+|il|mis%[m|e]|
+|nous|mis%[m|ons]|
+|vous|mis%[m|ez]|
+|ils|mis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mis%[m|é]|
+|tu|as |mis%[m|é]|
+|il|a|mis%[m|é]|
+|nous|avons|mis%[m|é]|
+|vous|avez|mis%[m|é]|
+|ils|ont|mis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mis%[m|ais]|
+|tu|mis%[m|ais]|
+|il|mis%[m|ait]|
+|nous|mis%[m|ions]|
+|vous|mis%[m|iez]|
+|ils|mis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mis%[m|é]|
+|tu|avais|mis%[m|é]|
+|il|avait|mis%[m|é]|
+|nous|avions|mis%[m|é]|
+|vous|aviez|mis%[m|é]|
+|ils|avaient|mis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mis%[m|ai]|
+|tu|mis%[m|as]|
+|il|mis%[m|a]|
+|nous|mis%[m|âmes]|
+|vous|mis%[m|âtes]|
+|ils|mis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mis%[m|é]|
+|tu|eus|mis%[m|é]|
+|il|eut|mis%[m|é]|
+|nous|e&ucirc;mes|mis%[m|é]|
+|vous|e&ucirc;tes|mis%[m|é]|
+|ils|eurent|mis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mis%[m|erai]|
+|tu|mis%[m|eras]|
+|il|mis%[m|era]|
+|nous|mis%[m|erons]|
+|vous|mis%[m|erez]|
+|ils|mis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mis%[m|é]|
+|tu|auras|mis%[m|é]|
+|il|aura|mis%[m|é]|
+|nous|aurons|mis%[m|é]|
+|vous|aurez|mis%[m|é]|
+|ils|auront|mis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mis%[m|erais]|
+|tu|mis%[m|erais]|
+|il|mis%[m|erait]|
+|nous|mis%[m|erions]|
+|vous|mis%[m|eriez]|
+|ils|mis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mis%[m|é]|
+|tu|aurais|mis%[m|é]|
+|il|aurait|mis%[m|é]|
+|nous|aurions|mis%[m|é]|
+|vous|auriez|mis%[m|é]|
+|ils|auraient|mis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mis%[m|e]|
+|que|tu|mis%[m|es]|
+|qu'|il|mis%[m|e]|
+|que|nous|mis%[m|ions]|
+|que|vous|mis%[m|iez]|
+|qu'|ils|mis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mis%[m|é]|
+|que|tu|aies|mis%[m|é]|
+|qu'|il|ait|mis%[m|é]|
+|que|nous|ayons|mis%[m|é]|
+|que|vous|ayez|mis%[m|é]|
+|qu'|ils|aient|mis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mis%[m|asse]|
+|que|tu|mis%[m|asses]|
+|qu'|il|mis%[m|ât]|
+|que|nous|mis%[m|assions]|
+|que|vous|mis%[m|assiez]|
+|qu'|ils|mis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mis%[m|é]|
+|que|tu|eusses|mis%[m|é]|
+|qu'|il|eût|mis%[m|é]|
+|que|nous|eussions|mis%[m|é]|
+|que|vous|eussiez|mis%[m|é]|
+|qu'|ils|eussent|mis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mis%[m|e]|
+|mis%[m|ons]|
+|mis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mis%[m|é]|
+|ayons|mis%[m|é]|
+|ayez|mis%[m|é]|
+|]
+

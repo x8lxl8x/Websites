@@ -1,0 +1,190 @@
+# se doucher %[clVerbGroup|1]
+[-
+prendre une douche. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se douch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|douch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se douch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|douch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se douch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|douch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|douch%[m|e]|
+|tu|te|douch%[m|es]|
+|il|se|douch%[m|e]|
+|nous|nous|douch%[m|ons]|
+|vous|vous|douch%[m|ez]|
+|ils|se|douch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|douch%[m|é]|
+|tu|t'|es|douch%[m|é]|
+|il|s'|est|douch%[m|é]|
+|nous|nous|sommes|douch%[m|és]|
+|vous|vous|êtes|douch%[m|és]|
+|ils|se|sont|douch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|douch%[m|ais]|
+|tu|te|douch%[m|ais]|
+|il|se|douch%[m|ait]|
+|nous|nous|douch%[m|ions]|
+|vous|vous|douch%[m|iez]|
+|ils|se|douch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|douch%[m|é]|
+|tu|t'|étais|douch%[m|é]|
+|il|s'|était|douch%[m|é]|
+|nous|nous|étions|douch%[m|és]|
+|vous|vous|étiez|douch%[m|és]|
+|ils|s'|étaient|douch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|douch%[m|ai]|
+|tu|te|douch%[m|as]|
+|il|se|douch%[m|a]|
+|nous|nous|douch%[m|âmes]|
+|vous|vous|douch%[m|âtes]|
+|ils|se|douch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|douch%[m|é]|
+|tu|te|fus|douch%[m|é]|
+|il|se|fut|douch%[m|é]|
+|nous|nous|fûmes|douch%[m|és]|
+|vous|vous|fûtes|douch%[m|és]|
+|ils|se|furent|douch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|douch%[m|erai]|
+|tu|te|douch%[m|eras]|
+|il|se|douch%[m|era]|
+|nous|nous|douch%[m|erons]|
+|vous|vous|douch%[m|erez]|
+|ils|se|douch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|douch%[m|é]|
+|tu|te|seras|douch%[m|é]|
+|il|se|sera|douch%[m|é]|
+|nous|nous|serons|douch%[m|és]|
+|vous|vous|serez|douch%[m|és]|
+|ils|se|seront|douch%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|douch%[m|erais]|
+|tu|te|douch%[m|erais]|
+|il|se|douch%[m|erait]|
+|nous|nous|douch%[m|erions]|
+|vous|vous|douch%[m|eriez]|
+|ils|se|douch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|douch%[m|é]|
+|tu|te|serais|douch%[m|é]|
+|il|se|serait|douch%[m|é]|
+|nous|nous|serions|douch%[m|és]|
+|vous|vous|seriez|douch%[m|és]|
+|ils|se|seraient|douch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|douch%[m|e]|
+|que|tu|te|douch%[m|es]|
+|qu'|il|se|douch%[m|e]|
+|que|nous|nous|douch%[m|ions]|
+|que|vous|vous|douch%[m|iez]|
+|qu'|ils|se|douch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|douch%[m|é]|
+|que|tu|te|sois|douch%[m|é]|
+|qu'|il|se|soit|douch%[m|é]|
+|que|nous|nous|soyons|douch%[m|és]|
+|que|vous|vous|soyez|douch%[m|és]|
+|qu'|ils|se|soient|douch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|douch%[m|asse]|
+|que|tu|te|douch%[m|asses]|
+|qu'|il|se|douch%[m|ât]|
+|que|nous|nous|douch%[m|assions]|
+|que|vous|vous|douch%[m|assiez]|
+|qu'|ils|se|douch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|douch%[m|é]|
+|que|tu|te|fusses|douch%[m|é]|
+|qu'|il|se|fût|douch%[m|é]|
+|que|nous|nous|fussions|douch%[m|és]|
+|que|vous|vous|fussiez|douch%[m|és]|
+|qu'|ils|se|fussent|douch%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|douch%[m|e]-toi|
+|douch%[m|ons]-nous|
+|douch%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

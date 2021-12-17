@@ -1,0 +1,190 @@
+# contacter %[clVerbGroup|1]
+[-
+entrer en relation avec quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|contact%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|contact%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|contact%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||contact%[m|é]|
+|ayant|contact%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en contact%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|contact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|contact%[m|e]|
+|tu|contact%[m|es]|
+|il|contact%[m|e]|
+|nous|contact%[m|ons]|
+|vous|contact%[m|ez]|
+|ils|contact%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|contact%[m|é]|
+|tu|as |contact%[m|é]|
+|il|a|contact%[m|é]|
+|nous|avons|contact%[m|é]|
+|vous|avez|contact%[m|é]|
+|ils|ont|contact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|contact%[m|ais]|
+|tu|contact%[m|ais]|
+|il|contact%[m|ait]|
+|nous|contact%[m|ions]|
+|vous|contact%[m|iez]|
+|ils|contact%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|contact%[m|é]|
+|tu|avais|contact%[m|é]|
+|il|avait|contact%[m|é]|
+|nous|avions|contact%[m|é]|
+|vous|aviez|contact%[m|é]|
+|ils|avaient|contact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|contact%[m|ai]|
+|tu|contact%[m|as]|
+|il|contact%[m|a]|
+|nous|contact%[m|âmes]|
+|vous|contact%[m|âtes]|
+|ils|contact%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|contact%[m|é]|
+|tu|eus|contact%[m|é]|
+|il|eut|contact%[m|é]|
+|nous|e&ucirc;mes|contact%[m|é]|
+|vous|e&ucirc;tes|contact%[m|é]|
+|ils|eurent|contact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|contact%[m|erai]|
+|tu|contact%[m|eras]|
+|il|contact%[m|era]|
+|nous|contact%[m|erons]|
+|vous|contact%[m|erez]|
+|ils|contact%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|contact%[m|é]|
+|tu|auras|contact%[m|é]|
+|il|aura|contact%[m|é]|
+|nous|aurons|contact%[m|é]|
+|vous|aurez|contact%[m|é]|
+|ils|auront|contact%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|contact%[m|erais]|
+|tu|contact%[m|erais]|
+|il|contact%[m|erait]|
+|nous|contact%[m|erions]|
+|vous|contact%[m|eriez]|
+|ils|contact%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|contact%[m|é]|
+|tu|aurais|contact%[m|é]|
+|il|aurait|contact%[m|é]|
+|nous|aurions|contact%[m|é]|
+|vous|auriez|contact%[m|é]|
+|ils|auraient|contact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|contact%[m|e]|
+|que|tu|contact%[m|es]|
+|qu'|il|contact%[m|e]|
+|que|nous|contact%[m|ions]|
+|que|vous|contact%[m|iez]|
+|qu'|ils|contact%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|contact%[m|é]|
+|que|tu|aies|contact%[m|é]|
+|qu'|il|ait|contact%[m|é]|
+|que|nous|ayons|contact%[m|é]|
+|que|vous|ayez|contact%[m|é]|
+|qu'|ils|aient|contact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|contact%[m|asse]|
+|que|tu|contact%[m|asses]|
+|qu'|il|contact%[m|ât]|
+|que|nous|contact%[m|assions]|
+|que|vous|contact%[m|assiez]|
+|qu'|ils|contact%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|contact%[m|é]|
+|que|tu|eusses|contact%[m|é]|
+|qu'|il|eût|contact%[m|é]|
+|que|nous|eussions|contact%[m|é]|
+|que|vous|eussiez|contact%[m|é]|
+|qu'|ils|eussent|contact%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|contact%[m|e]|
+|contact%[m|ons]|
+|contact%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|contact%[m|é]|
+|ayons|contact%[m|é]|
+|ayez|contact%[m|é]|
+|]
+

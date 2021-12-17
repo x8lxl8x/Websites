@@ -1,0 +1,222 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./48.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./50.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Synthetic Short</h1>
+
+<p>If you read the section on synthetics, you should
+have a handle on how they work.&nbsp; Now we'll show you how
+powerful they can be.</p>
+<h2>Shorting stock</h2>
+<p>Before we talk about synthetic short stock, let's go
+through the basic short sale.</p>
+<p>A popular strategy among bearish investors is
+shorting stock.&nbsp; When you short stock, you are selling
+it first and then buying it back later at hopefully a
+lower price.&nbsp; Short sellers are attempting to sell high
+and buy low -- just in the reverse order of bullish
+investors.&nbsp; </p>
+<p>In order to sell stock you don't own, you must borrow
+it from another investor.&nbsp; While this may sound
+complicated, it is a seamless transaction and usually
+takes a matter of seconds to execute.</p>
+<p>Notice how the short stock position is exactly
+opposite the long position:</p>
+
+<img width='300px' src='../images/094.gif'>
+
+<p>This means the investor who is short stock has
+unlimited upside liability.&nbsp; As the stock moves higher,
+the short position increases its losses.&nbsp; </p>
+<h2>Uptick</h2>
+<p>There is one catch with selling stock short; the sale
+must be done on an <i>uptick </i>or a <i>zero-plus tick</i>.&nbsp;
+What is an uptick?&nbsp; Say a stock is quoted bid $25 and
+offered at $25-1/2 with the last trade at $25.&nbsp; If the
+next trade is higher than the last trade of $25, that
+new trade is an uptick.&nbsp; If the trade is lower, it is a
+downtick.&nbsp; </p>
+<p>When you look at the last trade of a stock, you will
+usually see a &quot;+&quot; or &quot;-&quot; sign to the side (or on some
+systems, an up or down arrow).&nbsp; The &quot;+&quot; indicates and
+uptick and the &quot;-&quot; a downtick.&nbsp; Using the above example,
+if the next trade is $25-1/4, you will see the last
+trade reported as +$25-1/4.&nbsp; If the following trade is
+back to $25, you will see -$25.&nbsp; </p>
+<p>If the next trade is $25-1/4, again, you will see
++$25.&nbsp; What if the following trade is also $25- 1/4?&nbsp;
+That is called a <i>zero-plus</i> tick indicating that
+the last <i>change</i> was an uptick but the recent
+prices are unchanged.</p>
+<p>The uptick rule was created to prevent investors from
+selling into a sharp downtrend, thereby nearly
+guaranteeing a profit.&nbsp; The rule is of little
+significance to the investor other than it must be met.&nbsp;
+There is nothing the trader needs to do other than place
+the order -- either it will fill or it won't.&nbsp; </p>
+<p><b>Because of the uptick rule, it is possible for a
+short sale to not execute even if it is a <i>market
+order</i>!</b></p>
+<p>We've seen there are two main obstacles to overcome
+when shorting stock: shares must be located to be
+borrowed <i>and</i> the sale must occur on an uptick.</p>
+<h2>Locating shares</h2>
+<p>Although it is fairly uncommon, it is possible for
+shares to not be available for shorting.&nbsp; Around April
+of 1999, there was a four-month period where Amazon.com
+(AMZN) was starting to fall after being on a record
+climb to the upside (shown in red circle below).&nbsp; Prior
+to that, investors saw it fall from nearly $100 to just
+above $40 (blue circle).&nbsp; So once it started falling
+again in late April, investors were eager to sell it
+short hoping it would fall back to $40.</p>
+
+<img width='300px' src='../images/095.gif'>
+
+<p>But many investors were unable to capitalize on the
+situation, as there was a two-week period or so where <u>
+no</u> shares were available to short!&nbsp; </p>
+<p>Most investors would let the situation pass as an
+unfortunate market technicality, and miss out on a
+potentially terrific trading opportunity.</p>
+<p>But if these same investors understood synthetic
+options, they would have participated fully on the short
+side.&nbsp; Better yet, they would avoid the uptick rule.</p>
+<h2>Synthetic short stock</h2>
+<p>If you read our section on synthetics, you will
+recall the equation for synthetic options is Stock + Put
+- Call = ?&nbsp; Because we want to find out the synthetic
+equivalent of short stock, we need to get short stock
+(minus stock) by itself in the equation.&nbsp; If we subtract
+stock from both sides, we get Put - Call = - Stock and
+there's the answer: Long put + short call = short stock.</p>
+<p>Basically what investors are doing with synthetic
+short sales is buying puts, and that gives them the
+right to sell the stock so, will appreciate as the stock
+falls -- just like a short stock position.&nbsp; However,
+puts can be very expensive especially under the
+conditions in the chart above.&nbsp; So in order to pay for
+the puts, investors will sell calls and use the proceeds
+to buy the puts.&nbsp; If the stock is trading for $100, the
+trader should theoretically receive a credit from the
+trade.&nbsp; But due to bid-ask spread and commissions, the
+synthetic short sale will usually result in a slight
+debit.</p>
+<p>From a profit and loss standpoint, the synthetic
+short position looks like this:</p>
+
+<img width='300px' src='../images/096.gif'>
+
+<p>We can see that is looks exactly like our short stock
+position shown earlier; at expiration, the investor
+gains point-for-point if the stock falls, and loses
+point-for-point if it rises.&nbsp; The synthetic position, at
+expiration, is behaving exactly like short stock.</p>
+<p>It is important to remember that options do not
+behave like stock until expiration unless they are very
+deep-in-the-money.&nbsp; So if a trader executes a synthetic
+short at a strike of $100, the profit and loss diagram
+will not have the above shape until expiration.&nbsp; If a
+trader wishes to have the options behave more like
+stock, he should consider buying an in-the-money put and
+selling and in-the-money call.&nbsp; </p>
+<p>What's great about the synthetic short is that it <u>
+does not need an uptick</u> to execute.&nbsp; You simply
+place your order to buy the put and sell the call.&nbsp; Of
+course, it is usually suggested these two trades be
+placed simultaneously to prevent <i>execution</i> or
+risk -- the risk of an unfavorable market move while you
+are executing two separate orders.</p>
+<p>Bear in mind that the short call position is naked.&nbsp;
+This means you will generally need level-3 option
+approval and, in addition, will have an option
+requirement in order to hold the naked call position.&nbsp;
+Be sure to check with your broker if you are unsure as
+to how that works.&nbsp; The requirement is not a huge offset
+for the synthetic position compared to short stock; the
+short stock position will be charged with a 50% Reg T
+requirement, which is not applicable to the synthetic.</p>
+<h2>Bullet strategy</h2>
+<p>There is an interesting strategy known as a &quot;bullet&quot;
+where investors can actually intensify the fall of a
+stock and increase the odds that they will make money.&nbsp;
+Here's how it works,&nbsp; Say a stock is in a rapid
+decline.&nbsp; You'd like to short it, but you're concerned
+there may not be an uptick.&nbsp; However, if you buy a put,
+the market maker will be forced to short the stock and
+buy a call to create the long put position for you.&nbsp;
+Market makers are not subject to the uptick rule; they
+can just hit the bid and execute a short sale.&nbsp; </p>
+<p>One strategy is to buy <i>deep-in-the-money puts</i>,
+which force market makers to hedge nearly
+dollar-for-dollar and short an equal number of shares.&nbsp;
+For example, say a stock is trading for $100 and falling
+sharply.&nbsp; If you buy a deep-in-the-money put such as a
+$130 (or wherever delta is near 1), the market maker
+will sell nearly 100 shares for each put, thereby
+putting more downward pressure on the underlying.&nbsp;
+Because you hold a deep-in-the-money put, it will
+appreciate nearly dollar-for-dollar with each point fall
+in the underlying.</p>
+<p>To exacerbate the fall further, you can enter the
+deep-in-the-money synthetic short position by selling
+the calls, too.&nbsp; Now the market maker will be forced to
+short the stock again nearly point-for-point.&nbsp; So if you
+buy 10 puts and sell 10 calls (both deep-in-the-money),
+the market maker will be forced to short nearly 2,000
+shares without an uptick.</p>
+<h2>Semifutures</h2>
+<p>There is a related strategy that has a little less
+risk called a <i>semifuture</i>.&nbsp; The strategy can be
+used as a long or short position.&nbsp; If you want a
+synthetic short position with a little less risk, you
+can split the strike prices, such as buy the $50 put and
+sell the $55 call.&nbsp; The more distance you put between
+the strikes the less upside risk there is.&nbsp; From a
+profit and loss standpoint, the short semifuture
+position looks like this:</p>
+
+<img width='300px' src='../images/097.gif'>
+
+<p>You can see that the flat area between $50 and $55
+creates less risk to the upside.&nbsp; In other words, with
+synthetic stock at $50, the trader is exposed to losses
+for any stock price above $50.&nbsp; With the semifuture, the
+trader is not exposed to losses until the stock is above
+$55.</p>
+<p>The semifuture strategy can be split further.&nbsp; For
+example, the trader may buy the $45 put and sell the $55
+call.&nbsp; Now there will be less risk to the upside, but
+also less profit to the downside as shown in the
+following chart:&nbsp; </p>
+
+<img width='300px' src='../images/098.gif'>
+
+<p>Market downturns can be fast and furious, which is
+what attracts speculators to short sales.&nbsp; Many
+investors recognize potential situations, but are unable
+to capitalize on them due to market restrictions.&nbsp; If
+you understand synthetics, you can overcome many
+restrictions and profit from your outlook on the market.</p>
+
+</div>
+</div>
+</body>
+</html>

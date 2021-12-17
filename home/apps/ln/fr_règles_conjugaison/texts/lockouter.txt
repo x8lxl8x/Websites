@@ -1,0 +1,190 @@
+# lockouter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|lockout%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|lockout%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|lockout%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||lockout%[m|é]|
+|ayant|lockout%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en lockout%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|lockout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|lockout%[m|e]|
+|tu|lockout%[m|es]|
+|il|lockout%[m|e]|
+|nous|lockout%[m|ons]|
+|vous|lockout%[m|ez]|
+|ils|lockout%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|lockout%[m|é]|
+|tu|as |lockout%[m|é]|
+|il|a|lockout%[m|é]|
+|nous|avons|lockout%[m|é]|
+|vous|avez|lockout%[m|é]|
+|ils|ont|lockout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|lockout%[m|ais]|
+|tu|lockout%[m|ais]|
+|il|lockout%[m|ait]|
+|nous|lockout%[m|ions]|
+|vous|lockout%[m|iez]|
+|ils|lockout%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|lockout%[m|é]|
+|tu|avais|lockout%[m|é]|
+|il|avait|lockout%[m|é]|
+|nous|avions|lockout%[m|é]|
+|vous|aviez|lockout%[m|é]|
+|ils|avaient|lockout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|lockout%[m|ai]|
+|tu|lockout%[m|as]|
+|il|lockout%[m|a]|
+|nous|lockout%[m|âmes]|
+|vous|lockout%[m|âtes]|
+|ils|lockout%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|lockout%[m|é]|
+|tu|eus|lockout%[m|é]|
+|il|eut|lockout%[m|é]|
+|nous|e&ucirc;mes|lockout%[m|é]|
+|vous|e&ucirc;tes|lockout%[m|é]|
+|ils|eurent|lockout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|lockout%[m|erai]|
+|tu|lockout%[m|eras]|
+|il|lockout%[m|era]|
+|nous|lockout%[m|erons]|
+|vous|lockout%[m|erez]|
+|ils|lockout%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|lockout%[m|é]|
+|tu|auras|lockout%[m|é]|
+|il|aura|lockout%[m|é]|
+|nous|aurons|lockout%[m|é]|
+|vous|aurez|lockout%[m|é]|
+|ils|auront|lockout%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|lockout%[m|erais]|
+|tu|lockout%[m|erais]|
+|il|lockout%[m|erait]|
+|nous|lockout%[m|erions]|
+|vous|lockout%[m|eriez]|
+|ils|lockout%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|lockout%[m|é]|
+|tu|aurais|lockout%[m|é]|
+|il|aurait|lockout%[m|é]|
+|nous|aurions|lockout%[m|é]|
+|vous|auriez|lockout%[m|é]|
+|ils|auraient|lockout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|lockout%[m|e]|
+|que|tu|lockout%[m|es]|
+|qu'|il|lockout%[m|e]|
+|que|nous|lockout%[m|ions]|
+|que|vous|lockout%[m|iez]|
+|qu'|ils|lockout%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|lockout%[m|é]|
+|que|tu|aies|lockout%[m|é]|
+|qu'|il|ait|lockout%[m|é]|
+|que|nous|ayons|lockout%[m|é]|
+|que|vous|ayez|lockout%[m|é]|
+|qu'|ils|aient|lockout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|lockout%[m|asse]|
+|que|tu|lockout%[m|asses]|
+|qu'|il|lockout%[m|ât]|
+|que|nous|lockout%[m|assions]|
+|que|vous|lockout%[m|assiez]|
+|qu'|ils|lockout%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|lockout%[m|é]|
+|que|tu|eusses|lockout%[m|é]|
+|qu'|il|eût|lockout%[m|é]|
+|que|nous|eussions|lockout%[m|é]|
+|que|vous|eussiez|lockout%[m|é]|
+|qu'|ils|eussent|lockout%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lockout%[m|e]|
+|lockout%[m|ons]|
+|lockout%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|lockout%[m|é]|
+|ayons|lockout%[m|é]|
+|ayez|lockout%[m|é]|
+|]
+

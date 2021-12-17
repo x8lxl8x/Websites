@@ -1,0 +1,190 @@
+# adjectiver %[clVerbGroup|1]
+[-
+donner la fonction d'adjectif à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|adjectiv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|adjectiv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||adjectiv%[m|é]|
+|ayant|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en adjectiv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|adjectiv%[m|e]|
+|tu|adjectiv%[m|es]|
+|il|adjectiv%[m|e]|
+|nous|adjectiv%[m|ons]|
+|vous|adjectiv%[m|ez]|
+|ils|adjectiv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|adjectiv%[m|é]|
+|tu|as |adjectiv%[m|é]|
+|il|a|adjectiv%[m|é]|
+|nous|avons|adjectiv%[m|é]|
+|vous|avez|adjectiv%[m|é]|
+|ils|ont|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|adjectiv%[m|ais]|
+|tu|adjectiv%[m|ais]|
+|il|adjectiv%[m|ait]|
+|nous|adjectiv%[m|ions]|
+|vous|adjectiv%[m|iez]|
+|ils|adjectiv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|adjectiv%[m|é]|
+|tu|avais|adjectiv%[m|é]|
+|il|avait|adjectiv%[m|é]|
+|nous|avions|adjectiv%[m|é]|
+|vous|aviez|adjectiv%[m|é]|
+|ils|avaient|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|adjectiv%[m|ai]|
+|tu|adjectiv%[m|as]|
+|il|adjectiv%[m|a]|
+|nous|adjectiv%[m|âmes]|
+|vous|adjectiv%[m|âtes]|
+|ils|adjectiv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|adjectiv%[m|é]|
+|tu|eus|adjectiv%[m|é]|
+|il|eut|adjectiv%[m|é]|
+|nous|e&ucirc;mes|adjectiv%[m|é]|
+|vous|e&ucirc;tes|adjectiv%[m|é]|
+|ils|eurent|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|adjectiv%[m|erai]|
+|tu|adjectiv%[m|eras]|
+|il|adjectiv%[m|era]|
+|nous|adjectiv%[m|erons]|
+|vous|adjectiv%[m|erez]|
+|ils|adjectiv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|adjectiv%[m|é]|
+|tu|auras|adjectiv%[m|é]|
+|il|aura|adjectiv%[m|é]|
+|nous|aurons|adjectiv%[m|é]|
+|vous|aurez|adjectiv%[m|é]|
+|ils|auront|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|adjectiv%[m|erais]|
+|tu|adjectiv%[m|erais]|
+|il|adjectiv%[m|erait]|
+|nous|adjectiv%[m|erions]|
+|vous|adjectiv%[m|eriez]|
+|ils|adjectiv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|adjectiv%[m|é]|
+|tu|aurais|adjectiv%[m|é]|
+|il|aurait|adjectiv%[m|é]|
+|nous|aurions|adjectiv%[m|é]|
+|vous|auriez|adjectiv%[m|é]|
+|ils|auraient|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|adjectiv%[m|e]|
+|que|tu|adjectiv%[m|es]|
+|qu'|il|adjectiv%[m|e]|
+|que|nous|adjectiv%[m|ions]|
+|que|vous|adjectiv%[m|iez]|
+|qu'|ils|adjectiv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|adjectiv%[m|é]|
+|que|tu|aies|adjectiv%[m|é]|
+|qu'|il|ait|adjectiv%[m|é]|
+|que|nous|ayons|adjectiv%[m|é]|
+|que|vous|ayez|adjectiv%[m|é]|
+|qu'|ils|aient|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|adjectiv%[m|asse]|
+|que|tu|adjectiv%[m|asses]|
+|qu'|il|adjectiv%[m|ât]|
+|que|nous|adjectiv%[m|assions]|
+|que|vous|adjectiv%[m|assiez]|
+|qu'|ils|adjectiv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|adjectiv%[m|é]|
+|que|tu|eusses|adjectiv%[m|é]|
+|qu'|il|eût|adjectiv%[m|é]|
+|que|nous|eussions|adjectiv%[m|é]|
+|que|vous|eussiez|adjectiv%[m|é]|
+|qu'|ils|eussent|adjectiv%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|adjectiv%[m|e]|
+|adjectiv%[m|ons]|
+|adjectiv%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|adjectiv%[m|é]|
+|ayons|adjectiv%[m|é]|
+|ayez|adjectiv%[m|é]|
+|]
+

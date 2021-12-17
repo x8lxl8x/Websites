@@ -1,0 +1,190 @@
+# loquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|loqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|loqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|loqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||loqu%[m|é]|
+|ayant|loqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en loqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|loqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|loqu%[m|e]|
+|tu|loqu%[m|es]|
+|il|loqu%[m|e]|
+|nous|loqu%[m|ons]|
+|vous|loqu%[m|ez]|
+|ils|loqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|loqu%[m|é]|
+|tu|as |loqu%[m|é]|
+|il|a|loqu%[m|é]|
+|nous|avons|loqu%[m|é]|
+|vous|avez|loqu%[m|é]|
+|ils|ont|loqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|loqu%[m|ais]|
+|tu|loqu%[m|ais]|
+|il|loqu%[m|ait]|
+|nous|loqu%[m|ions]|
+|vous|loqu%[m|iez]|
+|ils|loqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|loqu%[m|é]|
+|tu|avais|loqu%[m|é]|
+|il|avait|loqu%[m|é]|
+|nous|avions|loqu%[m|é]|
+|vous|aviez|loqu%[m|é]|
+|ils|avaient|loqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|loqu%[m|ai]|
+|tu|loqu%[m|as]|
+|il|loqu%[m|a]|
+|nous|loqu%[m|âmes]|
+|vous|loqu%[m|âtes]|
+|ils|loqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|loqu%[m|é]|
+|tu|eus|loqu%[m|é]|
+|il|eut|loqu%[m|é]|
+|nous|e&ucirc;mes|loqu%[m|é]|
+|vous|e&ucirc;tes|loqu%[m|é]|
+|ils|eurent|loqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|loqu%[m|erai]|
+|tu|loqu%[m|eras]|
+|il|loqu%[m|era]|
+|nous|loqu%[m|erons]|
+|vous|loqu%[m|erez]|
+|ils|loqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|loqu%[m|é]|
+|tu|auras|loqu%[m|é]|
+|il|aura|loqu%[m|é]|
+|nous|aurons|loqu%[m|é]|
+|vous|aurez|loqu%[m|é]|
+|ils|auront|loqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|loqu%[m|erais]|
+|tu|loqu%[m|erais]|
+|il|loqu%[m|erait]|
+|nous|loqu%[m|erions]|
+|vous|loqu%[m|eriez]|
+|ils|loqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|loqu%[m|é]|
+|tu|aurais|loqu%[m|é]|
+|il|aurait|loqu%[m|é]|
+|nous|aurions|loqu%[m|é]|
+|vous|auriez|loqu%[m|é]|
+|ils|auraient|loqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|loqu%[m|e]|
+|que|tu|loqu%[m|es]|
+|qu'|il|loqu%[m|e]|
+|que|nous|loqu%[m|ions]|
+|que|vous|loqu%[m|iez]|
+|qu'|ils|loqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|loqu%[m|é]|
+|que|tu|aies|loqu%[m|é]|
+|qu'|il|ait|loqu%[m|é]|
+|que|nous|ayons|loqu%[m|é]|
+|que|vous|ayez|loqu%[m|é]|
+|qu'|ils|aient|loqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|loqu%[m|asse]|
+|que|tu|loqu%[m|asses]|
+|qu'|il|loqu%[m|ât]|
+|que|nous|loqu%[m|assions]|
+|que|vous|loqu%[m|assiez]|
+|qu'|ils|loqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|loqu%[m|é]|
+|que|tu|eusses|loqu%[m|é]|
+|qu'|il|eût|loqu%[m|é]|
+|que|nous|eussions|loqu%[m|é]|
+|que|vous|eussiez|loqu%[m|é]|
+|qu'|ils|eussent|loqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|loqu%[m|e]|
+|loqu%[m|ons]|
+|loqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|loqu%[m|é]|
+|ayons|loqu%[m|é]|
+|ayez|loqu%[m|é]|
+|]
+

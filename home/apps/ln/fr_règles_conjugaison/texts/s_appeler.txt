@@ -1,0 +1,205 @@
+# s'appeler %[clVerbGroup|1]
+[-
+inviter (quelqu'un) à venir. 
+nommer (quelqu'un à une fonction) (ex. appeler Jean à un poste de direction.) 
+enrôler comme appelé (ex. Il a été appelé en 1988) 
+imposer une action (sujet=chose) (ex. le devoir nous appelle) 
+prononcer (le nom de quelqu'un) lors de l'appel. 
+exprimer le désir (de quelque chose) (ex. appeler une discussion, un baiser, c-à-d demander à quelqu'un un baiser, un entretien etc.) 
+donner un nom à quelque chose ou quelqu'un. 
+avoir pour nom. 
+entrer en communication par téléphone. 
+faire fonctionner (un programme informatique) (ex. appeler une routine) 
+se confier à l'action (de quelqu'un) (ex. j'en appelle, je m'en remets à votre bon coeur.) 
+réclamer la réformation (d'un jugement) devant une juridiction supérieure. 
+inviter quelqu'un à venir en prononçant son nom ou en lui adressant un signal quelconque. 
+entraîner, impliquer (ex. la guerre appelle la guerre, comme le mensonge appelle le mensonge) 
+exiger (ex. cette question appelle toute votre attention) 
+se nommer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'appel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|appel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'appel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|appel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'appel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|appel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|appel%[m|l]%[m|e]|
+|tu|t'|appel%[m|l]%[m|es]|
+|il|s'|appel%[m|l]%[m|e]|
+|nous|nous|appel%[m|]%[m|ons]|
+|vous|vous|appel%[m|]%[m|ez]|
+|ils|s'|appel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|appel%[m|é]|
+|tu|t'|es|appel%[m|é]|
+|il|s'|est|appel%[m|é]|
+|nous|nous|sommes|appel%[m|és]|
+|vous|vous|êtes|appel%[m|és]|
+|ils|se|sont|appel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|appel%[m|]%[m|ais]|
+|tu|t'|appel%[m|]%[m|ais]|
+|il|s'|appel%[m|]%[m|ait]|
+|nous|nous|appel%[m|]%[m|ions]|
+|vous|vous|appel%[m|]%[m|iez]|
+|ils|s'|appel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|appel%[m|é]|
+|tu|t'|étais|appel%[m|é]|
+|il|s'|était|appel%[m|é]|
+|nous|nous|étions|appel%[m|és]|
+|vous|vous|étiez|appel%[m|és]|
+|ils|s'|étaient|appel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|appel%[m|]%[m|ai]|
+|tu|t'|appel%[m|]%[m|as]|
+|il|s'|appel%[m|]%[m|a]|
+|nous|nous|appel%[m|]%[m|âmes]|
+|vous|vous|appel%[m|]%[m|âtes]|
+|ils|s'|appel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|appel%[m|é]|
+|tu|te|fus|appel%[m|é]|
+|il|se|fut|appel%[m|é]|
+|nous|nous|fûmes|appel%[m|és]|
+|vous|vous|fûtes|appel%[m|és]|
+|ils|se|furent|appel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|appel%[m|l]%[m|erai]|
+|tu|t'|appel%[m|l]%[m|eras]|
+|il|s'|appel%[m|l]%[m|era]|
+|nous|nous|appel%[m|l]%[m|erons]|
+|vous|vous|appel%[m|l]%[m|erez]|
+|ils|s'|appel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|appel%[m|é]|
+|tu|te|seras|appel%[m|é]|
+|il|se|sera|appel%[m|é]|
+|nous|nous|serons|appel%[m|és]|
+|vous|vous|serez|appel%[m|és]|
+|ils|se|seront|appel%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|appel%[m|l]%[m|erais]|
+|tu|t'|appel%[m|l]%[m|erais]|
+|il|s'|appel%[m|l]%[m|erait]|
+|nous|nous|appel%[m|l]%[m|erions]|
+|vous|vous|appel%[m|l]%[m|eriez]|
+|ils|s'|appel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|appel%[m|é]|
+|tu|te|serais|appel%[m|é]|
+|il|se|serait|appel%[m|é]|
+|nous|nous|serions|appel%[m|és]|
+|vous|vous|seriez|appel%[m|és]|
+|ils|se|seraient|appel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|appel%[m|l]%[m|e]|
+|que|tu|t'|appel%[m|l]%[m|es]|
+|qu'|il|s'|appel%[m|l]%[m|e]|
+|que|nous|nous|appel%[m|]%[m|ions]|
+|que|vous|vous|appel%[m|]%[m|iez]|
+|qu'|ils|s'|appel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|appel%[m|é]|
+|que|tu|te|sois|appel%[m|é]|
+|qu'|il|se|soit|appel%[m|é]|
+|que|nous|nous|soyons|appel%[m|és]|
+|que|vous|vous|soyez|appel%[m|és]|
+|qu'|ils|se|soient|appel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|appel%[m|]%[m|asse]|
+|que|tu|t'|appel%[m|]%[m|asses]|
+|qu'|il|s'|appel%[m|]%[m|ât]|
+|que|nous|nous|appel%[m|]%[m|assions]|
+|que|vous|vous|appel%[m|]%[m|assiez]|
+|qu'|ils|s'|appel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|appel%[m|é]|
+|que|tu|te|fusses|appel%[m|é]|
+|qu'|il|se|fût|appel%[m|é]|
+|que|nous|nous|fussions|appel%[m|és]|
+|que|vous|vous|fussiez|appel%[m|és]|
+|qu'|ils|se|fussent|appel%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|appel%[m|l]%[m|e]-toi|
+|appel%[m|]%[m|ons]-nous|
+|appel%[m|]%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

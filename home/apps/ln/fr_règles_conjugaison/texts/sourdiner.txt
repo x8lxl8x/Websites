@@ -1,0 +1,190 @@
+# sourdiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sourdin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sourdin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sourdin%[m|é]|
+|ayant|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sourdin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sourdin%[m|e]|
+|tu|sourdin%[m|es]|
+|il|sourdin%[m|e]|
+|nous|sourdin%[m|ons]|
+|vous|sourdin%[m|ez]|
+|ils|sourdin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sourdin%[m|é]|
+|tu|as |sourdin%[m|é]|
+|il|a|sourdin%[m|é]|
+|nous|avons|sourdin%[m|é]|
+|vous|avez|sourdin%[m|é]|
+|ils|ont|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sourdin%[m|ais]|
+|tu|sourdin%[m|ais]|
+|il|sourdin%[m|ait]|
+|nous|sourdin%[m|ions]|
+|vous|sourdin%[m|iez]|
+|ils|sourdin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sourdin%[m|é]|
+|tu|avais|sourdin%[m|é]|
+|il|avait|sourdin%[m|é]|
+|nous|avions|sourdin%[m|é]|
+|vous|aviez|sourdin%[m|é]|
+|ils|avaient|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sourdin%[m|ai]|
+|tu|sourdin%[m|as]|
+|il|sourdin%[m|a]|
+|nous|sourdin%[m|âmes]|
+|vous|sourdin%[m|âtes]|
+|ils|sourdin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sourdin%[m|é]|
+|tu|eus|sourdin%[m|é]|
+|il|eut|sourdin%[m|é]|
+|nous|e&ucirc;mes|sourdin%[m|é]|
+|vous|e&ucirc;tes|sourdin%[m|é]|
+|ils|eurent|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sourdin%[m|erai]|
+|tu|sourdin%[m|eras]|
+|il|sourdin%[m|era]|
+|nous|sourdin%[m|erons]|
+|vous|sourdin%[m|erez]|
+|ils|sourdin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sourdin%[m|é]|
+|tu|auras|sourdin%[m|é]|
+|il|aura|sourdin%[m|é]|
+|nous|aurons|sourdin%[m|é]|
+|vous|aurez|sourdin%[m|é]|
+|ils|auront|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sourdin%[m|erais]|
+|tu|sourdin%[m|erais]|
+|il|sourdin%[m|erait]|
+|nous|sourdin%[m|erions]|
+|vous|sourdin%[m|eriez]|
+|ils|sourdin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sourdin%[m|é]|
+|tu|aurais|sourdin%[m|é]|
+|il|aurait|sourdin%[m|é]|
+|nous|aurions|sourdin%[m|é]|
+|vous|auriez|sourdin%[m|é]|
+|ils|auraient|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sourdin%[m|e]|
+|que|tu|sourdin%[m|es]|
+|qu'|il|sourdin%[m|e]|
+|que|nous|sourdin%[m|ions]|
+|que|vous|sourdin%[m|iez]|
+|qu'|ils|sourdin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sourdin%[m|é]|
+|que|tu|aies|sourdin%[m|é]|
+|qu'|il|ait|sourdin%[m|é]|
+|que|nous|ayons|sourdin%[m|é]|
+|que|vous|ayez|sourdin%[m|é]|
+|qu'|ils|aient|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sourdin%[m|asse]|
+|que|tu|sourdin%[m|asses]|
+|qu'|il|sourdin%[m|ât]|
+|que|nous|sourdin%[m|assions]|
+|que|vous|sourdin%[m|assiez]|
+|qu'|ils|sourdin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sourdin%[m|é]|
+|que|tu|eusses|sourdin%[m|é]|
+|qu'|il|eût|sourdin%[m|é]|
+|que|nous|eussions|sourdin%[m|é]|
+|que|vous|eussiez|sourdin%[m|é]|
+|qu'|ils|eussent|sourdin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sourdin%[m|e]|
+|sourdin%[m|ons]|
+|sourdin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sourdin%[m|é]|
+|ayons|sourdin%[m|é]|
+|ayez|sourdin%[m|é]|
+|]
+

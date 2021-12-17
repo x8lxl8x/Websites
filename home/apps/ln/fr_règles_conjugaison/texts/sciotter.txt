@@ -1,0 +1,190 @@
+# sciotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sciott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sciott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sciott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sciott%[m|é]|
+|ayant|sciott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sciott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sciott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sciott%[m|e]|
+|tu|sciott%[m|es]|
+|il|sciott%[m|e]|
+|nous|sciott%[m|ons]|
+|vous|sciott%[m|ez]|
+|ils|sciott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sciott%[m|é]|
+|tu|as |sciott%[m|é]|
+|il|a|sciott%[m|é]|
+|nous|avons|sciott%[m|é]|
+|vous|avez|sciott%[m|é]|
+|ils|ont|sciott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sciott%[m|ais]|
+|tu|sciott%[m|ais]|
+|il|sciott%[m|ait]|
+|nous|sciott%[m|ions]|
+|vous|sciott%[m|iez]|
+|ils|sciott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sciott%[m|é]|
+|tu|avais|sciott%[m|é]|
+|il|avait|sciott%[m|é]|
+|nous|avions|sciott%[m|é]|
+|vous|aviez|sciott%[m|é]|
+|ils|avaient|sciott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sciott%[m|ai]|
+|tu|sciott%[m|as]|
+|il|sciott%[m|a]|
+|nous|sciott%[m|âmes]|
+|vous|sciott%[m|âtes]|
+|ils|sciott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sciott%[m|é]|
+|tu|eus|sciott%[m|é]|
+|il|eut|sciott%[m|é]|
+|nous|e&ucirc;mes|sciott%[m|é]|
+|vous|e&ucirc;tes|sciott%[m|é]|
+|ils|eurent|sciott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sciott%[m|erai]|
+|tu|sciott%[m|eras]|
+|il|sciott%[m|era]|
+|nous|sciott%[m|erons]|
+|vous|sciott%[m|erez]|
+|ils|sciott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sciott%[m|é]|
+|tu|auras|sciott%[m|é]|
+|il|aura|sciott%[m|é]|
+|nous|aurons|sciott%[m|é]|
+|vous|aurez|sciott%[m|é]|
+|ils|auront|sciott%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sciott%[m|erais]|
+|tu|sciott%[m|erais]|
+|il|sciott%[m|erait]|
+|nous|sciott%[m|erions]|
+|vous|sciott%[m|eriez]|
+|ils|sciott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sciott%[m|é]|
+|tu|aurais|sciott%[m|é]|
+|il|aurait|sciott%[m|é]|
+|nous|aurions|sciott%[m|é]|
+|vous|auriez|sciott%[m|é]|
+|ils|auraient|sciott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sciott%[m|e]|
+|que|tu|sciott%[m|es]|
+|qu'|il|sciott%[m|e]|
+|que|nous|sciott%[m|ions]|
+|que|vous|sciott%[m|iez]|
+|qu'|ils|sciott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sciott%[m|é]|
+|que|tu|aies|sciott%[m|é]|
+|qu'|il|ait|sciott%[m|é]|
+|que|nous|ayons|sciott%[m|é]|
+|que|vous|ayez|sciott%[m|é]|
+|qu'|ils|aient|sciott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sciott%[m|asse]|
+|que|tu|sciott%[m|asses]|
+|qu'|il|sciott%[m|ât]|
+|que|nous|sciott%[m|assions]|
+|que|vous|sciott%[m|assiez]|
+|qu'|ils|sciott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sciott%[m|é]|
+|que|tu|eusses|sciott%[m|é]|
+|qu'|il|eût|sciott%[m|é]|
+|que|nous|eussions|sciott%[m|é]|
+|que|vous|eussiez|sciott%[m|é]|
+|qu'|ils|eussent|sciott%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sciott%[m|e]|
+|sciott%[m|ons]|
+|sciott%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sciott%[m|é]|
+|ayons|sciott%[m|é]|
+|ayez|sciott%[m|é]|
+|]
+

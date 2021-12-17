@@ -1,0 +1,190 @@
+# splitter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|splitt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|splitt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|splitt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||splitt%[m|é]|
+|ayant|splitt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en splitt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|splitt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|splitt%[m|e]|
+|tu|splitt%[m|es]|
+|il|splitt%[m|e]|
+|nous|splitt%[m|ons]|
+|vous|splitt%[m|ez]|
+|ils|splitt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|splitt%[m|é]|
+|tu|as |splitt%[m|é]|
+|il|a|splitt%[m|é]|
+|nous|avons|splitt%[m|é]|
+|vous|avez|splitt%[m|é]|
+|ils|ont|splitt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|splitt%[m|ais]|
+|tu|splitt%[m|ais]|
+|il|splitt%[m|ait]|
+|nous|splitt%[m|ions]|
+|vous|splitt%[m|iez]|
+|ils|splitt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|splitt%[m|é]|
+|tu|avais|splitt%[m|é]|
+|il|avait|splitt%[m|é]|
+|nous|avions|splitt%[m|é]|
+|vous|aviez|splitt%[m|é]|
+|ils|avaient|splitt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|splitt%[m|ai]|
+|tu|splitt%[m|as]|
+|il|splitt%[m|a]|
+|nous|splitt%[m|âmes]|
+|vous|splitt%[m|âtes]|
+|ils|splitt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|splitt%[m|é]|
+|tu|eus|splitt%[m|é]|
+|il|eut|splitt%[m|é]|
+|nous|e&ucirc;mes|splitt%[m|é]|
+|vous|e&ucirc;tes|splitt%[m|é]|
+|ils|eurent|splitt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|splitt%[m|erai]|
+|tu|splitt%[m|eras]|
+|il|splitt%[m|era]|
+|nous|splitt%[m|erons]|
+|vous|splitt%[m|erez]|
+|ils|splitt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|splitt%[m|é]|
+|tu|auras|splitt%[m|é]|
+|il|aura|splitt%[m|é]|
+|nous|aurons|splitt%[m|é]|
+|vous|aurez|splitt%[m|é]|
+|ils|auront|splitt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|splitt%[m|erais]|
+|tu|splitt%[m|erais]|
+|il|splitt%[m|erait]|
+|nous|splitt%[m|erions]|
+|vous|splitt%[m|eriez]|
+|ils|splitt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|splitt%[m|é]|
+|tu|aurais|splitt%[m|é]|
+|il|aurait|splitt%[m|é]|
+|nous|aurions|splitt%[m|é]|
+|vous|auriez|splitt%[m|é]|
+|ils|auraient|splitt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|splitt%[m|e]|
+|que|tu|splitt%[m|es]|
+|qu'|il|splitt%[m|e]|
+|que|nous|splitt%[m|ions]|
+|que|vous|splitt%[m|iez]|
+|qu'|ils|splitt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|splitt%[m|é]|
+|que|tu|aies|splitt%[m|é]|
+|qu'|il|ait|splitt%[m|é]|
+|que|nous|ayons|splitt%[m|é]|
+|que|vous|ayez|splitt%[m|é]|
+|qu'|ils|aient|splitt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|splitt%[m|asse]|
+|que|tu|splitt%[m|asses]|
+|qu'|il|splitt%[m|ât]|
+|que|nous|splitt%[m|assions]|
+|que|vous|splitt%[m|assiez]|
+|qu'|ils|splitt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|splitt%[m|é]|
+|que|tu|eusses|splitt%[m|é]|
+|qu'|il|eût|splitt%[m|é]|
+|que|nous|eussions|splitt%[m|é]|
+|que|vous|eussiez|splitt%[m|é]|
+|qu'|ils|eussent|splitt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|splitt%[m|e]|
+|splitt%[m|ons]|
+|splitt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|splitt%[m|é]|
+|ayons|splitt%[m|é]|
+|ayez|splitt%[m|é]|
+|]
+

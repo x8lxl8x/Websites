@@ -1,0 +1,190 @@
+# mitarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mitard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mitard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mitard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mitard%[m|é]|
+|ayant|mitard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mitard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mitard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mitard%[m|e]|
+|tu|mitard%[m|es]|
+|il|mitard%[m|e]|
+|nous|mitard%[m|ons]|
+|vous|mitard%[m|ez]|
+|ils|mitard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mitard%[m|é]|
+|tu|as |mitard%[m|é]|
+|il|a|mitard%[m|é]|
+|nous|avons|mitard%[m|é]|
+|vous|avez|mitard%[m|é]|
+|ils|ont|mitard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mitard%[m|ais]|
+|tu|mitard%[m|ais]|
+|il|mitard%[m|ait]|
+|nous|mitard%[m|ions]|
+|vous|mitard%[m|iez]|
+|ils|mitard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mitard%[m|é]|
+|tu|avais|mitard%[m|é]|
+|il|avait|mitard%[m|é]|
+|nous|avions|mitard%[m|é]|
+|vous|aviez|mitard%[m|é]|
+|ils|avaient|mitard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mitard%[m|ai]|
+|tu|mitard%[m|as]|
+|il|mitard%[m|a]|
+|nous|mitard%[m|âmes]|
+|vous|mitard%[m|âtes]|
+|ils|mitard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mitard%[m|é]|
+|tu|eus|mitard%[m|é]|
+|il|eut|mitard%[m|é]|
+|nous|e&ucirc;mes|mitard%[m|é]|
+|vous|e&ucirc;tes|mitard%[m|é]|
+|ils|eurent|mitard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mitard%[m|erai]|
+|tu|mitard%[m|eras]|
+|il|mitard%[m|era]|
+|nous|mitard%[m|erons]|
+|vous|mitard%[m|erez]|
+|ils|mitard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mitard%[m|é]|
+|tu|auras|mitard%[m|é]|
+|il|aura|mitard%[m|é]|
+|nous|aurons|mitard%[m|é]|
+|vous|aurez|mitard%[m|é]|
+|ils|auront|mitard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mitard%[m|erais]|
+|tu|mitard%[m|erais]|
+|il|mitard%[m|erait]|
+|nous|mitard%[m|erions]|
+|vous|mitard%[m|eriez]|
+|ils|mitard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mitard%[m|é]|
+|tu|aurais|mitard%[m|é]|
+|il|aurait|mitard%[m|é]|
+|nous|aurions|mitard%[m|é]|
+|vous|auriez|mitard%[m|é]|
+|ils|auraient|mitard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mitard%[m|e]|
+|que|tu|mitard%[m|es]|
+|qu'|il|mitard%[m|e]|
+|que|nous|mitard%[m|ions]|
+|que|vous|mitard%[m|iez]|
+|qu'|ils|mitard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mitard%[m|é]|
+|que|tu|aies|mitard%[m|é]|
+|qu'|il|ait|mitard%[m|é]|
+|que|nous|ayons|mitard%[m|é]|
+|que|vous|ayez|mitard%[m|é]|
+|qu'|ils|aient|mitard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mitard%[m|asse]|
+|que|tu|mitard%[m|asses]|
+|qu'|il|mitard%[m|ât]|
+|que|nous|mitard%[m|assions]|
+|que|vous|mitard%[m|assiez]|
+|qu'|ils|mitard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mitard%[m|é]|
+|que|tu|eusses|mitard%[m|é]|
+|qu'|il|eût|mitard%[m|é]|
+|que|nous|eussions|mitard%[m|é]|
+|que|vous|eussiez|mitard%[m|é]|
+|qu'|ils|eussent|mitard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mitard%[m|e]|
+|mitard%[m|ons]|
+|mitard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mitard%[m|é]|
+|ayons|mitard%[m|é]|
+|ayez|mitard%[m|é]|
+|]
+

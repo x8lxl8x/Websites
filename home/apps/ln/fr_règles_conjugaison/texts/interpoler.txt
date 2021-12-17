@@ -1,0 +1,191 @@
+# interpoler %[clVerbGroup|1]
+[-
+glisser dans un texte des mots ou des phrases qui n'appartiennent pas à l'auteur. 
+intercaler dans une suite d'éléments donnés des valeurs intermédiaires. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|interpol%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|interpol%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|interpol%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||interpol%[m|é]|
+|ayant|interpol%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en interpol%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|interpol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|interpol%[m|e]|
+|tu|interpol%[m|es]|
+|il|interpol%[m|e]|
+|nous|interpol%[m|ons]|
+|vous|interpol%[m|ez]|
+|ils|interpol%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|interpol%[m|é]|
+|tu|as |interpol%[m|é]|
+|il|a|interpol%[m|é]|
+|nous|avons|interpol%[m|é]|
+|vous|avez|interpol%[m|é]|
+|ils|ont|interpol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|interpol%[m|ais]|
+|tu|interpol%[m|ais]|
+|il|interpol%[m|ait]|
+|nous|interpol%[m|ions]|
+|vous|interpol%[m|iez]|
+|ils|interpol%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|interpol%[m|é]|
+|tu|avais|interpol%[m|é]|
+|il|avait|interpol%[m|é]|
+|nous|avions|interpol%[m|é]|
+|vous|aviez|interpol%[m|é]|
+|ils|avaient|interpol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|interpol%[m|ai]|
+|tu|interpol%[m|as]|
+|il|interpol%[m|a]|
+|nous|interpol%[m|âmes]|
+|vous|interpol%[m|âtes]|
+|ils|interpol%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|interpol%[m|é]|
+|tu|eus|interpol%[m|é]|
+|il|eut|interpol%[m|é]|
+|nous|e&ucirc;mes|interpol%[m|é]|
+|vous|e&ucirc;tes|interpol%[m|é]|
+|ils|eurent|interpol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|interpol%[m|erai]|
+|tu|interpol%[m|eras]|
+|il|interpol%[m|era]|
+|nous|interpol%[m|erons]|
+|vous|interpol%[m|erez]|
+|ils|interpol%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|interpol%[m|é]|
+|tu|auras|interpol%[m|é]|
+|il|aura|interpol%[m|é]|
+|nous|aurons|interpol%[m|é]|
+|vous|aurez|interpol%[m|é]|
+|ils|auront|interpol%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|interpol%[m|erais]|
+|tu|interpol%[m|erais]|
+|il|interpol%[m|erait]|
+|nous|interpol%[m|erions]|
+|vous|interpol%[m|eriez]|
+|ils|interpol%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|interpol%[m|é]|
+|tu|aurais|interpol%[m|é]|
+|il|aurait|interpol%[m|é]|
+|nous|aurions|interpol%[m|é]|
+|vous|auriez|interpol%[m|é]|
+|ils|auraient|interpol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|interpol%[m|e]|
+|que|tu|interpol%[m|es]|
+|qu'|il|interpol%[m|e]|
+|que|nous|interpol%[m|ions]|
+|que|vous|interpol%[m|iez]|
+|qu'|ils|interpol%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|interpol%[m|é]|
+|que|tu|aies|interpol%[m|é]|
+|qu'|il|ait|interpol%[m|é]|
+|que|nous|ayons|interpol%[m|é]|
+|que|vous|ayez|interpol%[m|é]|
+|qu'|ils|aient|interpol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|interpol%[m|asse]|
+|que|tu|interpol%[m|asses]|
+|qu'|il|interpol%[m|ât]|
+|que|nous|interpol%[m|assions]|
+|que|vous|interpol%[m|assiez]|
+|qu'|ils|interpol%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|interpol%[m|é]|
+|que|tu|eusses|interpol%[m|é]|
+|qu'|il|eût|interpol%[m|é]|
+|que|nous|eussions|interpol%[m|é]|
+|que|vous|eussiez|interpol%[m|é]|
+|qu'|ils|eussent|interpol%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|interpol%[m|e]|
+|interpol%[m|ons]|
+|interpol%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|interpol%[m|é]|
+|ayons|interpol%[m|é]|
+|ayez|interpol%[m|é]|
+|]
+

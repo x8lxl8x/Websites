@@ -1,0 +1,190 @@
+# rewriter %[clVerbGroup|1]
+[-
+récrire un texte afin de le rendre publiable. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rewrit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rewrit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rewrit%[m|é]|
+|ayant|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rewrit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rewrit%[m|e]|
+|tu|rewrit%[m|es]|
+|il|rewrit%[m|e]|
+|nous|rewrit%[m|ons]|
+|vous|rewrit%[m|ez]|
+|ils|rewrit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rewrit%[m|é]|
+|tu|as |rewrit%[m|é]|
+|il|a|rewrit%[m|é]|
+|nous|avons|rewrit%[m|é]|
+|vous|avez|rewrit%[m|é]|
+|ils|ont|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rewrit%[m|ais]|
+|tu|rewrit%[m|ais]|
+|il|rewrit%[m|ait]|
+|nous|rewrit%[m|ions]|
+|vous|rewrit%[m|iez]|
+|ils|rewrit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rewrit%[m|é]|
+|tu|avais|rewrit%[m|é]|
+|il|avait|rewrit%[m|é]|
+|nous|avions|rewrit%[m|é]|
+|vous|aviez|rewrit%[m|é]|
+|ils|avaient|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rewrit%[m|ai]|
+|tu|rewrit%[m|as]|
+|il|rewrit%[m|a]|
+|nous|rewrit%[m|âmes]|
+|vous|rewrit%[m|âtes]|
+|ils|rewrit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rewrit%[m|é]|
+|tu|eus|rewrit%[m|é]|
+|il|eut|rewrit%[m|é]|
+|nous|e&ucirc;mes|rewrit%[m|é]|
+|vous|e&ucirc;tes|rewrit%[m|é]|
+|ils|eurent|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rewrit%[m|erai]|
+|tu|rewrit%[m|eras]|
+|il|rewrit%[m|era]|
+|nous|rewrit%[m|erons]|
+|vous|rewrit%[m|erez]|
+|ils|rewrit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rewrit%[m|é]|
+|tu|auras|rewrit%[m|é]|
+|il|aura|rewrit%[m|é]|
+|nous|aurons|rewrit%[m|é]|
+|vous|aurez|rewrit%[m|é]|
+|ils|auront|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rewrit%[m|erais]|
+|tu|rewrit%[m|erais]|
+|il|rewrit%[m|erait]|
+|nous|rewrit%[m|erions]|
+|vous|rewrit%[m|eriez]|
+|ils|rewrit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rewrit%[m|é]|
+|tu|aurais|rewrit%[m|é]|
+|il|aurait|rewrit%[m|é]|
+|nous|aurions|rewrit%[m|é]|
+|vous|auriez|rewrit%[m|é]|
+|ils|auraient|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rewrit%[m|e]|
+|que|tu|rewrit%[m|es]|
+|qu'|il|rewrit%[m|e]|
+|que|nous|rewrit%[m|ions]|
+|que|vous|rewrit%[m|iez]|
+|qu'|ils|rewrit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rewrit%[m|é]|
+|que|tu|aies|rewrit%[m|é]|
+|qu'|il|ait|rewrit%[m|é]|
+|que|nous|ayons|rewrit%[m|é]|
+|que|vous|ayez|rewrit%[m|é]|
+|qu'|ils|aient|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rewrit%[m|asse]|
+|que|tu|rewrit%[m|asses]|
+|qu'|il|rewrit%[m|ât]|
+|que|nous|rewrit%[m|assions]|
+|que|vous|rewrit%[m|assiez]|
+|qu'|ils|rewrit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rewrit%[m|é]|
+|que|tu|eusses|rewrit%[m|é]|
+|qu'|il|eût|rewrit%[m|é]|
+|que|nous|eussions|rewrit%[m|é]|
+|que|vous|eussiez|rewrit%[m|é]|
+|qu'|ils|eussent|rewrit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rewrit%[m|e]|
+|rewrit%[m|ons]|
+|rewrit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rewrit%[m|é]|
+|ayons|rewrit%[m|é]|
+|ayez|rewrit%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# s'agencer %[clVerbGroup|1]
+[-
+combiner, organiser des éléments dans un certain ordre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'agen%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|agen%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'agen%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|agen%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'agen%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|agen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|agen%[m|ce]|
+|tu|t'|agen%[m|ces]|
+|il|s'|agen%[m|ce]|
+|nous|nous|agen%[m|çons]|
+|vous|vous|agen%[m|cez]|
+|ils|s'|agen%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|agen%[m|cé]|
+|tu|t'|es|agen%[m|cé]|
+|il|s'|est|agen%[m|cé]|
+|nous|nous|sommes|agen%[m|cés]|
+|vous|vous|êtes|agen%[m|cés]|
+|ils|se|sont|agen%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|agen%[m|çais]|
+|tu|t'|agen%[m|çais]|
+|il|s'|agen%[m|çait]|
+|nous|nous|agen%[m|cions]|
+|vous|vous|agen%[m|ciez]|
+|ils|s'|agen%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|agen%[m|cé]|
+|tu|t'|étais|agen%[m|cé]|
+|il|s'|était|agen%[m|cé]|
+|nous|nous|étions|agen%[m|cés]|
+|vous|vous|étiez|agen%[m|cés]|
+|ils|s'|étaient|agen%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|agen%[m|çai]|
+|tu|t'|agen%[m|ças]|
+|il|s'|agen%[m|ça]|
+|nous|nous|agen%[m|çâmes]|
+|vous|vous|agen%[m|çâtes]|
+|ils|s'|agen%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|agen%[m|cé]|
+|tu|te|fus|agen%[m|cé]|
+|il|se|fut|agen%[m|cé]|
+|nous|nous|fûmes|agen%[m|cés]|
+|vous|vous|fûtes|agen%[m|cés]|
+|ils|se|furent|agen%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|agen%[m|cerai]|
+|tu|t'|agen%[m|ceras]|
+|il|s'|agen%[m|cera]|
+|nous|nous|agen%[m|cerons]|
+|vous|vous|agen%[m|cerez]|
+|ils|s'|agen%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|agen%[m|cé]|
+|tu|te|seras|agen%[m|cé]|
+|il|se|sera|agen%[m|cé]|
+|nous|nous|serons|agen%[m|cés]|
+|vous|vous|serez|agen%[m|cés]|
+|ils|se|seront|agen%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|agen%[m|cerais]|
+|tu|t'|agen%[m|cerais]|
+|il|s'|agen%[m|cerait]|
+|nous|nous|agen%[m|cerions]|
+|vous|vous|agen%[m|ceriez]|
+|ils|s'|agen%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|agen%[m|cé]|
+|tu|te|serais|agen%[m|cé]|
+|il|se|serait|agen%[m|cé]|
+|nous|nous|serions|agen%[m|cés]|
+|vous|vous|seriez|agen%[m|cés]|
+|ils|se|seraient|agen%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|agen%[m|ce]|
+|que|tu|t'|agen%[m|ces]|
+|qu'|il|s'|agen%[m|ce]|
+|que|nous|nous|agen%[m|cions]|
+|que|vous|vous|agen%[m|ciez]|
+|qu'|ils|s'|agen%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|agen%[m|cé]|
+|que|tu|te|sois|agen%[m|cé]|
+|qu'|il|se|soit|agen%[m|cé]|
+|que|nous|nous|soyons|agen%[m|cés]|
+|que|vous|vous|soyez|agen%[m|cés]|
+|qu'|ils|se|soient|agen%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|agen%[m|çasse]|
+|que|tu|t'|agen%[m|çasses]|
+|qu'|il|s'|agen%[m|çât]|
+|que|nous|nous|agen%[m|çassions]|
+|que|vous|vous|agen%[m|çassiez]|
+|qu'|ils|s'|agen%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|agen%[m|cé]|
+|que|tu|te|fusses|agen%[m|cé]|
+|qu'|il|se|fût|agen%[m|cé]|
+|que|nous|nous|fussions|agen%[m|cés]|
+|que|vous|vous|fussiez|agen%[m|cés]|
+|qu'|ils|se|fussent|agen%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|agen%[m|ce]-toi|
+|agen%[m|çons]-nous|
+|agen%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# se soulever %[clVerbGroup|1]
+[-
+se révolter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se soul%[m|e]v%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|soulev%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se soul%[m|e]v%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|soulev%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se soul%[m|e]v%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|soulev%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|soul%[m|è]v%[m|e]|
+|tu|te|soul%[m|è]v%[m|es]|
+|il|se|soul%[m|è]v%[m|e]|
+|nous|nous|soul%[m|e]v%[m|ons]|
+|vous|vous|soul%[m|e]v%[m|ez]|
+|ils|se|soul%[m|è]v%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|soulev%[m|é]|
+|tu|t'|es|soulev%[m|é]|
+|il|s'|est|soulev%[m|é]|
+|nous|nous|sommes|soulev%[m|és]|
+|vous|vous|êtes|soulev%[m|és]|
+|ils|se|sont|soulev%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|soul%[m|e]v%[m|ais]|
+|tu|te|soul%[m|e]v%[m|ais]|
+|il|se|soul%[m|e]v%[m|ait]|
+|nous|nous|soul%[m|e]v%[m|ions]|
+|vous|vous|soul%[m|e]v%[m|iez]|
+|ils|se|soul%[m|e]v%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|soulev%[m|é]|
+|tu|t'|étais|soulev%[m|é]|
+|il|s'|était|soulev%[m|é]|
+|nous|nous|étions|soulev%[m|és]|
+|vous|vous|étiez|soulev%[m|és]|
+|ils|s'|étaient|soulev%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|soul%[m|e]v%[m|ai]|
+|tu|te|soul%[m|e]v%[m|as]|
+|il|se|soul%[m|e]v%[m|a]|
+|nous|nous|soul%[m|e]v%[m|âmes]|
+|vous|vous|soul%[m|e]v%[m|âtes]|
+|ils|se|soul%[m|e]v%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|soulev%[m|é]|
+|tu|te|fus|soulev%[m|é]|
+|il|se|fut|soulev%[m|é]|
+|nous|nous|fûmes|soulev%[m|és]|
+|vous|vous|fûtes|soulev%[m|és]|
+|ils|se|furent|soulev%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|soul%[m|è]v%[m|erai]|
+|tu|te|soul%[m|è]v%[m|eras]|
+|il|se|soul%[m|è]v%[m|era]|
+|nous|nous|soul%[m|è]v%[m|erons]|
+|vous|vous|soul%[m|è]v%[m|erez]|
+|ils|se|soul%[m|è]v%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|soulev%[m|é]|
+|tu|te|seras|soulev%[m|é]|
+|il|se|sera|soulev%[m|é]|
+|nous|nous|serons|soulev%[m|és]|
+|vous|vous|serez|soulev%[m|és]|
+|ils|se|seront|soulev%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|soul%[m|è]v%[m|erais]|
+|tu|te|soul%[m|è]v%[m|erais]|
+|il|se|soul%[m|è]v%[m|erait]|
+|nous|nous|soul%[m|è]v%[m|erions]|
+|vous|vous|soul%[m|è]v%[m|eriez]|
+|ils|se|soul%[m|è]v%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|soulev%[m|é]|
+|tu|te|serais|soulev%[m|é]|
+|il|se|serait|soulev%[m|é]|
+|nous|nous|serions|soulev%[m|és]|
+|vous|vous|seriez|soulev%[m|és]|
+|ils|se|seraient|soulev%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|soul%[m|è]v%[m|e]|
+|que|tu|te|soul%[m|è]v%[m|es]|
+|qu'|il|se|soul%[m|è]v%[m|e]|
+|que|nous|nous|soul%[m|e]v%[m|ions]|
+|que|vous|vous|soul%[m|e]v%[m|iez]|
+|qu'|ils|se|soul%[m|è]v%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|soulev%[m|é]|
+|que|tu|te|sois|soulev%[m|é]|
+|qu'|il|se|soit|soulev%[m|é]|
+|que|nous|nous|soyons|soulev%[m|és]|
+|que|vous|vous|soyez|soulev%[m|és]|
+|qu'|ils|se|soient|soulev%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|soul%[m|e]v%[m|asse]|
+|que|tu|te|soul%[m|e]v%[m|asses]|
+|qu'|il|se|soul%[m|e]v%[m|ât]|
+|que|nous|nous|soul%[m|e]v%[m|assions]|
+|que|vous|vous|soul%[m|e]v%[m|assiez]|
+|qu'|ils|se|soul%[m|e]v%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|soulev%[m|é]|
+|que|tu|te|fusses|soulev%[m|é]|
+|qu'|il|se|fût|soulev%[m|é]|
+|que|nous|nous|fussions|soulev%[m|és]|
+|que|vous|vous|fussiez|soulev%[m|és]|
+|qu'|ils|se|fussent|soulev%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|soul%[m|è]v%[m|e]-toi|
+|soul%[m|e]v%[m|ons]-nous|
+|soul%[m|e]v%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

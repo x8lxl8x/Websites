@@ -1,0 +1,190 @@
+# tinter %[clVerbGroup|1]
+[-
+produire un son aigu à intervalles réguliers. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tint%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tint%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tint%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tint%[m|é]|
+|ayant|tint%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tint%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tint%[m|e]|
+|tu|tint%[m|es]|
+|il|tint%[m|e]|
+|nous|tint%[m|ons]|
+|vous|tint%[m|ez]|
+|ils|tint%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tint%[m|é]|
+|tu|as |tint%[m|é]|
+|il|a|tint%[m|é]|
+|nous|avons|tint%[m|é]|
+|vous|avez|tint%[m|é]|
+|ils|ont|tint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tint%[m|ais]|
+|tu|tint%[m|ais]|
+|il|tint%[m|ait]|
+|nous|tint%[m|ions]|
+|vous|tint%[m|iez]|
+|ils|tint%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tint%[m|é]|
+|tu|avais|tint%[m|é]|
+|il|avait|tint%[m|é]|
+|nous|avions|tint%[m|é]|
+|vous|aviez|tint%[m|é]|
+|ils|avaient|tint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tint%[m|ai]|
+|tu|tint%[m|as]|
+|il|tint%[m|a]|
+|nous|tint%[m|âmes]|
+|vous|tint%[m|âtes]|
+|ils|tint%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tint%[m|é]|
+|tu|eus|tint%[m|é]|
+|il|eut|tint%[m|é]|
+|nous|e&ucirc;mes|tint%[m|é]|
+|vous|e&ucirc;tes|tint%[m|é]|
+|ils|eurent|tint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tint%[m|erai]|
+|tu|tint%[m|eras]|
+|il|tint%[m|era]|
+|nous|tint%[m|erons]|
+|vous|tint%[m|erez]|
+|ils|tint%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tint%[m|é]|
+|tu|auras|tint%[m|é]|
+|il|aura|tint%[m|é]|
+|nous|aurons|tint%[m|é]|
+|vous|aurez|tint%[m|é]|
+|ils|auront|tint%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tint%[m|erais]|
+|tu|tint%[m|erais]|
+|il|tint%[m|erait]|
+|nous|tint%[m|erions]|
+|vous|tint%[m|eriez]|
+|ils|tint%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tint%[m|é]|
+|tu|aurais|tint%[m|é]|
+|il|aurait|tint%[m|é]|
+|nous|aurions|tint%[m|é]|
+|vous|auriez|tint%[m|é]|
+|ils|auraient|tint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tint%[m|e]|
+|que|tu|tint%[m|es]|
+|qu'|il|tint%[m|e]|
+|que|nous|tint%[m|ions]|
+|que|vous|tint%[m|iez]|
+|qu'|ils|tint%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tint%[m|é]|
+|que|tu|aies|tint%[m|é]|
+|qu'|il|ait|tint%[m|é]|
+|que|nous|ayons|tint%[m|é]|
+|que|vous|ayez|tint%[m|é]|
+|qu'|ils|aient|tint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tint%[m|asse]|
+|que|tu|tint%[m|asses]|
+|qu'|il|tint%[m|ât]|
+|que|nous|tint%[m|assions]|
+|que|vous|tint%[m|assiez]|
+|qu'|ils|tint%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tint%[m|é]|
+|que|tu|eusses|tint%[m|é]|
+|qu'|il|eût|tint%[m|é]|
+|que|nous|eussions|tint%[m|é]|
+|que|vous|eussiez|tint%[m|é]|
+|qu'|ils|eussent|tint%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tint%[m|e]|
+|tint%[m|ons]|
+|tint%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tint%[m|é]|
+|ayons|tint%[m|é]|
+|ayez|tint%[m|é]|
+|]
+

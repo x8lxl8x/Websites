@@ -1,0 +1,190 @@
+# javeler %[clVerbGroup|1]
+[-
+mettre en javelles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|javel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|javel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|javel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||javel%[m|é]|
+|ayant|javel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en javel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|javel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|javel%[m|l]%[m|e]|
+|tu|javel%[m|l]%[m|es]|
+|il|javel%[m|l]%[m|e]|
+|nous|javel%[m|]%[m|ons]|
+|vous|javel%[m|]%[m|ez]|
+|ils|javel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|javel%[m|é]|
+|tu|as |javel%[m|é]|
+|il|a|javel%[m|é]|
+|nous|avons|javel%[m|é]|
+|vous|avez|javel%[m|é]|
+|ils|ont|javel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|javel%[m|]%[m|ais]|
+|tu|javel%[m|]%[m|ais]|
+|il|javel%[m|]%[m|ait]|
+|nous|javel%[m|]%[m|ions]|
+|vous|javel%[m|]%[m|iez]|
+|ils|javel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|javel%[m|é]|
+|tu|avais|javel%[m|é]|
+|il|avait|javel%[m|é]|
+|nous|avions|javel%[m|é]|
+|vous|aviez|javel%[m|é]|
+|ils|avaient|javel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|javel%[m|]%[m|ai]|
+|tu|javel%[m|]%[m|as]|
+|il|javel%[m|]%[m|a]|
+|nous|javel%[m|]%[m|âmes]|
+|vous|javel%[m|]%[m|âtes]|
+|ils|javel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|javel%[m|é]|
+|tu|eus|javel%[m|é]|
+|il|eut|javel%[m|é]|
+|nous|e&ucirc;mes|javel%[m|é]|
+|vous|e&ucirc;tes|javel%[m|é]|
+|ils|eurent|javel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|javel%[m|l]%[m|erai]|
+|tu|javel%[m|l]%[m|eras]|
+|il|javel%[m|l]%[m|era]|
+|nous|javel%[m|l]%[m|erons]|
+|vous|javel%[m|l]%[m|erez]|
+|ils|javel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|javel%[m|é]|
+|tu|auras|javel%[m|é]|
+|il|aura|javel%[m|é]|
+|nous|aurons|javel%[m|é]|
+|vous|aurez|javel%[m|é]|
+|ils|auront|javel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|javel%[m|l]%[m|erais]|
+|tu|javel%[m|l]%[m|erais]|
+|il|javel%[m|l]%[m|erait]|
+|nous|javel%[m|l]%[m|erions]|
+|vous|javel%[m|l]%[m|eriez]|
+|ils|javel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|javel%[m|é]|
+|tu|aurais|javel%[m|é]|
+|il|aurait|javel%[m|é]|
+|nous|aurions|javel%[m|é]|
+|vous|auriez|javel%[m|é]|
+|ils|auraient|javel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|javel%[m|l]%[m|e]|
+|que|tu|javel%[m|l]%[m|es]|
+|qu'|il|javel%[m|l]%[m|e]|
+|que|nous|javel%[m|]%[m|ions]|
+|que|vous|javel%[m|]%[m|iez]|
+|qu'|ils|javel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|javel%[m|é]|
+|que|tu|aies|javel%[m|é]|
+|qu'|il|ait|javel%[m|é]|
+|que|nous|ayons|javel%[m|é]|
+|que|vous|ayez|javel%[m|é]|
+|qu'|ils|aient|javel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|javel%[m|]%[m|asse]|
+|que|tu|javel%[m|]%[m|asses]|
+|qu'|il|javel%[m|]%[m|ât]|
+|que|nous|javel%[m|]%[m|assions]|
+|que|vous|javel%[m|]%[m|assiez]|
+|qu'|ils|javel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|javel%[m|é]|
+|que|tu|eusses|javel%[m|é]|
+|qu'|il|eût|javel%[m|é]|
+|que|nous|eussions|javel%[m|é]|
+|que|vous|eussiez|javel%[m|é]|
+|qu'|ils|eussent|javel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|javel%[m|l]%[m|e]|
+|javel%[m|]%[m|ons]|
+|javel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|javel%[m|é]|
+|ayons|javel%[m|é]|
+|ayez|javel%[m|é]|
+|]
+

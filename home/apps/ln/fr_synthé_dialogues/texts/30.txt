@@ -1,0 +1,22 @@
+# La Politesse n&deg; 7
+## Dans le compartiment d'un train
+
+%[clChar|M:]Pardon, monsieur, ne pourriez-vous pas m'aider à monter cette valise, s'il vous plaît?
+%[clChar|F:]J'allais vous le proposer, mademoiselle. Avec plaisir, naturellement.
+
+%[clChar|M:]Merci bien de votre amabilité.
+%[clChar|F:]De rien, mademoiselle.
+
+%[clChar|M:]Je vous ai empêché de lire.
+%[clChar|F:]Il n'y a pas de mal.
+
+%[clChar|M:]Oh, pour comble de malheur j'ai laissé tomber votre valise!
+%[clChar|F:]Ça ne fait rien. Le voyageur prend une cigarette.
+
+%[clChar|F:]Vous permettez, mademoiselle?
+
+%[clChar|M:]Faites donc, monsieur. Ça ne vous dérange pas si je baisse la vitre?
+%[clChar|F:]Du tout, je vous en prie.
+
+%[clChar|M:]Quelle est la station prochaine, s'il vous plaît?
+%[clChar|F:]Je ne saurais vous le dire, mademoiselle.

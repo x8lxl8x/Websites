@@ -1,0 +1,190 @@
+# voisiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|voisin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|voisin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|voisin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||voisin%[m|é]|
+|ayant|voisin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en voisin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|voisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|voisin%[m|e]|
+|tu|voisin%[m|es]|
+|il|voisin%[m|e]|
+|nous|voisin%[m|ons]|
+|vous|voisin%[m|ez]|
+|ils|voisin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|voisin%[m|é]|
+|tu|as |voisin%[m|é]|
+|il|a|voisin%[m|é]|
+|nous|avons|voisin%[m|é]|
+|vous|avez|voisin%[m|é]|
+|ils|ont|voisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|voisin%[m|ais]|
+|tu|voisin%[m|ais]|
+|il|voisin%[m|ait]|
+|nous|voisin%[m|ions]|
+|vous|voisin%[m|iez]|
+|ils|voisin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|voisin%[m|é]|
+|tu|avais|voisin%[m|é]|
+|il|avait|voisin%[m|é]|
+|nous|avions|voisin%[m|é]|
+|vous|aviez|voisin%[m|é]|
+|ils|avaient|voisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|voisin%[m|ai]|
+|tu|voisin%[m|as]|
+|il|voisin%[m|a]|
+|nous|voisin%[m|âmes]|
+|vous|voisin%[m|âtes]|
+|ils|voisin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|voisin%[m|é]|
+|tu|eus|voisin%[m|é]|
+|il|eut|voisin%[m|é]|
+|nous|e&ucirc;mes|voisin%[m|é]|
+|vous|e&ucirc;tes|voisin%[m|é]|
+|ils|eurent|voisin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|voisin%[m|erai]|
+|tu|voisin%[m|eras]|
+|il|voisin%[m|era]|
+|nous|voisin%[m|erons]|
+|vous|voisin%[m|erez]|
+|ils|voisin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|voisin%[m|é]|
+|tu|auras|voisin%[m|é]|
+|il|aura|voisin%[m|é]|
+|nous|aurons|voisin%[m|é]|
+|vous|aurez|voisin%[m|é]|
+|ils|auront|voisin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|voisin%[m|erais]|
+|tu|voisin%[m|erais]|
+|il|voisin%[m|erait]|
+|nous|voisin%[m|erions]|
+|vous|voisin%[m|eriez]|
+|ils|voisin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|voisin%[m|é]|
+|tu|aurais|voisin%[m|é]|
+|il|aurait|voisin%[m|é]|
+|nous|aurions|voisin%[m|é]|
+|vous|auriez|voisin%[m|é]|
+|ils|auraient|voisin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|voisin%[m|e]|
+|que|tu|voisin%[m|es]|
+|qu'|il|voisin%[m|e]|
+|que|nous|voisin%[m|ions]|
+|que|vous|voisin%[m|iez]|
+|qu'|ils|voisin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|voisin%[m|é]|
+|que|tu|aies|voisin%[m|é]|
+|qu'|il|ait|voisin%[m|é]|
+|que|nous|ayons|voisin%[m|é]|
+|que|vous|ayez|voisin%[m|é]|
+|qu'|ils|aient|voisin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|voisin%[m|asse]|
+|que|tu|voisin%[m|asses]|
+|qu'|il|voisin%[m|ât]|
+|que|nous|voisin%[m|assions]|
+|que|vous|voisin%[m|assiez]|
+|qu'|ils|voisin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|voisin%[m|é]|
+|que|tu|eusses|voisin%[m|é]|
+|qu'|il|eût|voisin%[m|é]|
+|que|nous|eussions|voisin%[m|é]|
+|que|vous|eussiez|voisin%[m|é]|
+|qu'|ils|eussent|voisin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|voisin%[m|e]|
+|voisin%[m|ons]|
+|voisin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|voisin%[m|é]|
+|ayons|voisin%[m|é]|
+|ayez|voisin%[m|é]|
+|]
+

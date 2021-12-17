@@ -1,0 +1,190 @@
+# musser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|muss%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|muss%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|muss%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||muss%[m|é]|
+|ayant|muss%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en muss%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|muss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|muss%[m|e]|
+|tu|muss%[m|es]|
+|il|muss%[m|e]|
+|nous|muss%[m|ons]|
+|vous|muss%[m|ez]|
+|ils|muss%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|muss%[m|é]|
+|tu|as |muss%[m|é]|
+|il|a|muss%[m|é]|
+|nous|avons|muss%[m|é]|
+|vous|avez|muss%[m|é]|
+|ils|ont|muss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|muss%[m|ais]|
+|tu|muss%[m|ais]|
+|il|muss%[m|ait]|
+|nous|muss%[m|ions]|
+|vous|muss%[m|iez]|
+|ils|muss%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|muss%[m|é]|
+|tu|avais|muss%[m|é]|
+|il|avait|muss%[m|é]|
+|nous|avions|muss%[m|é]|
+|vous|aviez|muss%[m|é]|
+|ils|avaient|muss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|muss%[m|ai]|
+|tu|muss%[m|as]|
+|il|muss%[m|a]|
+|nous|muss%[m|âmes]|
+|vous|muss%[m|âtes]|
+|ils|muss%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|muss%[m|é]|
+|tu|eus|muss%[m|é]|
+|il|eut|muss%[m|é]|
+|nous|e&ucirc;mes|muss%[m|é]|
+|vous|e&ucirc;tes|muss%[m|é]|
+|ils|eurent|muss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|muss%[m|erai]|
+|tu|muss%[m|eras]|
+|il|muss%[m|era]|
+|nous|muss%[m|erons]|
+|vous|muss%[m|erez]|
+|ils|muss%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|muss%[m|é]|
+|tu|auras|muss%[m|é]|
+|il|aura|muss%[m|é]|
+|nous|aurons|muss%[m|é]|
+|vous|aurez|muss%[m|é]|
+|ils|auront|muss%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|muss%[m|erais]|
+|tu|muss%[m|erais]|
+|il|muss%[m|erait]|
+|nous|muss%[m|erions]|
+|vous|muss%[m|eriez]|
+|ils|muss%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|muss%[m|é]|
+|tu|aurais|muss%[m|é]|
+|il|aurait|muss%[m|é]|
+|nous|aurions|muss%[m|é]|
+|vous|auriez|muss%[m|é]|
+|ils|auraient|muss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|muss%[m|e]|
+|que|tu|muss%[m|es]|
+|qu'|il|muss%[m|e]|
+|que|nous|muss%[m|ions]|
+|que|vous|muss%[m|iez]|
+|qu'|ils|muss%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|muss%[m|é]|
+|que|tu|aies|muss%[m|é]|
+|qu'|il|ait|muss%[m|é]|
+|que|nous|ayons|muss%[m|é]|
+|que|vous|ayez|muss%[m|é]|
+|qu'|ils|aient|muss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|muss%[m|asse]|
+|que|tu|muss%[m|asses]|
+|qu'|il|muss%[m|ât]|
+|que|nous|muss%[m|assions]|
+|que|vous|muss%[m|assiez]|
+|qu'|ils|muss%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|muss%[m|é]|
+|que|tu|eusses|muss%[m|é]|
+|qu'|il|eût|muss%[m|é]|
+|que|nous|eussions|muss%[m|é]|
+|que|vous|eussiez|muss%[m|é]|
+|qu'|ils|eussent|muss%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|muss%[m|e]|
+|muss%[m|ons]|
+|muss%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|muss%[m|é]|
+|ayons|muss%[m|é]|
+|ayez|muss%[m|é]|
+|]
+

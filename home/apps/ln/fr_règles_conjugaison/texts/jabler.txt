@@ -1,0 +1,190 @@
+# jabler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|jabl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|jabl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|jabl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||jabl%[m|é]|
+|ayant|jabl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en jabl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|jabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|jabl%[m|e]|
+|tu|jabl%[m|es]|
+|il|jabl%[m|e]|
+|nous|jabl%[m|ons]|
+|vous|jabl%[m|ez]|
+|ils|jabl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|jabl%[m|é]|
+|tu|as |jabl%[m|é]|
+|il|a|jabl%[m|é]|
+|nous|avons|jabl%[m|é]|
+|vous|avez|jabl%[m|é]|
+|ils|ont|jabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|jabl%[m|ais]|
+|tu|jabl%[m|ais]|
+|il|jabl%[m|ait]|
+|nous|jabl%[m|ions]|
+|vous|jabl%[m|iez]|
+|ils|jabl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|jabl%[m|é]|
+|tu|avais|jabl%[m|é]|
+|il|avait|jabl%[m|é]|
+|nous|avions|jabl%[m|é]|
+|vous|aviez|jabl%[m|é]|
+|ils|avaient|jabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|jabl%[m|ai]|
+|tu|jabl%[m|as]|
+|il|jabl%[m|a]|
+|nous|jabl%[m|âmes]|
+|vous|jabl%[m|âtes]|
+|ils|jabl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|jabl%[m|é]|
+|tu|eus|jabl%[m|é]|
+|il|eut|jabl%[m|é]|
+|nous|e&ucirc;mes|jabl%[m|é]|
+|vous|e&ucirc;tes|jabl%[m|é]|
+|ils|eurent|jabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|jabl%[m|erai]|
+|tu|jabl%[m|eras]|
+|il|jabl%[m|era]|
+|nous|jabl%[m|erons]|
+|vous|jabl%[m|erez]|
+|ils|jabl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|jabl%[m|é]|
+|tu|auras|jabl%[m|é]|
+|il|aura|jabl%[m|é]|
+|nous|aurons|jabl%[m|é]|
+|vous|aurez|jabl%[m|é]|
+|ils|auront|jabl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|jabl%[m|erais]|
+|tu|jabl%[m|erais]|
+|il|jabl%[m|erait]|
+|nous|jabl%[m|erions]|
+|vous|jabl%[m|eriez]|
+|ils|jabl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|jabl%[m|é]|
+|tu|aurais|jabl%[m|é]|
+|il|aurait|jabl%[m|é]|
+|nous|aurions|jabl%[m|é]|
+|vous|auriez|jabl%[m|é]|
+|ils|auraient|jabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|jabl%[m|e]|
+|que|tu|jabl%[m|es]|
+|qu'|il|jabl%[m|e]|
+|que|nous|jabl%[m|ions]|
+|que|vous|jabl%[m|iez]|
+|qu'|ils|jabl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|jabl%[m|é]|
+|que|tu|aies|jabl%[m|é]|
+|qu'|il|ait|jabl%[m|é]|
+|que|nous|ayons|jabl%[m|é]|
+|que|vous|ayez|jabl%[m|é]|
+|qu'|ils|aient|jabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|jabl%[m|asse]|
+|que|tu|jabl%[m|asses]|
+|qu'|il|jabl%[m|ât]|
+|que|nous|jabl%[m|assions]|
+|que|vous|jabl%[m|assiez]|
+|qu'|ils|jabl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|jabl%[m|é]|
+|que|tu|eusses|jabl%[m|é]|
+|qu'|il|eût|jabl%[m|é]|
+|que|nous|eussions|jabl%[m|é]|
+|que|vous|eussiez|jabl%[m|é]|
+|qu'|ils|eussent|jabl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|jabl%[m|e]|
+|jabl%[m|ons]|
+|jabl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|jabl%[m|é]|
+|ayons|jabl%[m|é]|
+|ayez|jabl%[m|é]|
+|]
+

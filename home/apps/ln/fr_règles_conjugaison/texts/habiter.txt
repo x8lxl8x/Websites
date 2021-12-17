@@ -1,0 +1,191 @@
+# habiter %[clVerbGroup|1]
+[-
+résider, demeurer dans une ville, un pays. 
+loger dans une habitation de manière permanente : habiter un appartement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|habit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|habit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|habit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||habit%[m|é]|
+|ayant|habit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en habit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|habit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|habit%[m|e]|
+|tu|habit%[m|es]|
+|il|habit%[m|e]|
+|nous|habit%[m|ons]|
+|vous|habit%[m|ez]|
+|ils|habit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|habit%[m|é]|
+|tu|as |habit%[m|é]|
+|il|a|habit%[m|é]|
+|nous|avons|habit%[m|é]|
+|vous|avez|habit%[m|é]|
+|ils|ont|habit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|habit%[m|ais]|
+|tu|habit%[m|ais]|
+|il|habit%[m|ait]|
+|nous|habit%[m|ions]|
+|vous|habit%[m|iez]|
+|ils|habit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|habit%[m|é]|
+|tu|avais|habit%[m|é]|
+|il|avait|habit%[m|é]|
+|nous|avions|habit%[m|é]|
+|vous|aviez|habit%[m|é]|
+|ils|avaient|habit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|habit%[m|ai]|
+|tu|habit%[m|as]|
+|il|habit%[m|a]|
+|nous|habit%[m|âmes]|
+|vous|habit%[m|âtes]|
+|ils|habit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|habit%[m|é]|
+|tu|eus|habit%[m|é]|
+|il|eut|habit%[m|é]|
+|nous|e&ucirc;mes|habit%[m|é]|
+|vous|e&ucirc;tes|habit%[m|é]|
+|ils|eurent|habit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|habit%[m|erai]|
+|tu|habit%[m|eras]|
+|il|habit%[m|era]|
+|nous|habit%[m|erons]|
+|vous|habit%[m|erez]|
+|ils|habit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|habit%[m|é]|
+|tu|auras|habit%[m|é]|
+|il|aura|habit%[m|é]|
+|nous|aurons|habit%[m|é]|
+|vous|aurez|habit%[m|é]|
+|ils|auront|habit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|habit%[m|erais]|
+|tu|habit%[m|erais]|
+|il|habit%[m|erait]|
+|nous|habit%[m|erions]|
+|vous|habit%[m|eriez]|
+|ils|habit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|habit%[m|é]|
+|tu|aurais|habit%[m|é]|
+|il|aurait|habit%[m|é]|
+|nous|aurions|habit%[m|é]|
+|vous|auriez|habit%[m|é]|
+|ils|auraient|habit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|habit%[m|e]|
+|que|tu|habit%[m|es]|
+|qu'|il|habit%[m|e]|
+|que|nous|habit%[m|ions]|
+|que|vous|habit%[m|iez]|
+|qu'|ils|habit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|habit%[m|é]|
+|que|tu|aies|habit%[m|é]|
+|qu'|il|ait|habit%[m|é]|
+|que|nous|ayons|habit%[m|é]|
+|que|vous|ayez|habit%[m|é]|
+|qu'|ils|aient|habit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|habit%[m|asse]|
+|que|tu|habit%[m|asses]|
+|qu'|il|habit%[m|ât]|
+|que|nous|habit%[m|assions]|
+|que|vous|habit%[m|assiez]|
+|qu'|ils|habit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|habit%[m|é]|
+|que|tu|eusses|habit%[m|é]|
+|qu'|il|eût|habit%[m|é]|
+|que|nous|eussions|habit%[m|é]|
+|que|vous|eussiez|habit%[m|é]|
+|qu'|ils|eussent|habit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|habit%[m|e]|
+|habit%[m|ons]|
+|habit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|habit%[m|é]|
+|ayons|habit%[m|é]|
+|ayez|habit%[m|é]|
+|]
+

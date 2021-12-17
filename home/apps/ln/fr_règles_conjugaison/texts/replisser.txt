@@ -1,0 +1,190 @@
+# replisser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repliss%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repliss%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repliss%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repliss%[m|é]|
+|ayant|repliss%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repliss%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repliss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repliss%[m|e]|
+|tu|repliss%[m|es]|
+|il|repliss%[m|e]|
+|nous|repliss%[m|ons]|
+|vous|repliss%[m|ez]|
+|ils|repliss%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repliss%[m|é]|
+|tu|as |repliss%[m|é]|
+|il|a|repliss%[m|é]|
+|nous|avons|repliss%[m|é]|
+|vous|avez|repliss%[m|é]|
+|ils|ont|repliss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repliss%[m|ais]|
+|tu|repliss%[m|ais]|
+|il|repliss%[m|ait]|
+|nous|repliss%[m|ions]|
+|vous|repliss%[m|iez]|
+|ils|repliss%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repliss%[m|é]|
+|tu|avais|repliss%[m|é]|
+|il|avait|repliss%[m|é]|
+|nous|avions|repliss%[m|é]|
+|vous|aviez|repliss%[m|é]|
+|ils|avaient|repliss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repliss%[m|ai]|
+|tu|repliss%[m|as]|
+|il|repliss%[m|a]|
+|nous|repliss%[m|âmes]|
+|vous|repliss%[m|âtes]|
+|ils|repliss%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repliss%[m|é]|
+|tu|eus|repliss%[m|é]|
+|il|eut|repliss%[m|é]|
+|nous|e&ucirc;mes|repliss%[m|é]|
+|vous|e&ucirc;tes|repliss%[m|é]|
+|ils|eurent|repliss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repliss%[m|erai]|
+|tu|repliss%[m|eras]|
+|il|repliss%[m|era]|
+|nous|repliss%[m|erons]|
+|vous|repliss%[m|erez]|
+|ils|repliss%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repliss%[m|é]|
+|tu|auras|repliss%[m|é]|
+|il|aura|repliss%[m|é]|
+|nous|aurons|repliss%[m|é]|
+|vous|aurez|repliss%[m|é]|
+|ils|auront|repliss%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repliss%[m|erais]|
+|tu|repliss%[m|erais]|
+|il|repliss%[m|erait]|
+|nous|repliss%[m|erions]|
+|vous|repliss%[m|eriez]|
+|ils|repliss%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repliss%[m|é]|
+|tu|aurais|repliss%[m|é]|
+|il|aurait|repliss%[m|é]|
+|nous|aurions|repliss%[m|é]|
+|vous|auriez|repliss%[m|é]|
+|ils|auraient|repliss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repliss%[m|e]|
+|que|tu|repliss%[m|es]|
+|qu'|il|repliss%[m|e]|
+|que|nous|repliss%[m|ions]|
+|que|vous|repliss%[m|iez]|
+|qu'|ils|repliss%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repliss%[m|é]|
+|que|tu|aies|repliss%[m|é]|
+|qu'|il|ait|repliss%[m|é]|
+|que|nous|ayons|repliss%[m|é]|
+|que|vous|ayez|repliss%[m|é]|
+|qu'|ils|aient|repliss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repliss%[m|asse]|
+|que|tu|repliss%[m|asses]|
+|qu'|il|repliss%[m|ât]|
+|que|nous|repliss%[m|assions]|
+|que|vous|repliss%[m|assiez]|
+|qu'|ils|repliss%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repliss%[m|é]|
+|que|tu|eusses|repliss%[m|é]|
+|qu'|il|eût|repliss%[m|é]|
+|que|nous|eussions|repliss%[m|é]|
+|que|vous|eussiez|repliss%[m|é]|
+|qu'|ils|eussent|repliss%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repliss%[m|e]|
+|repliss%[m|ons]|
+|repliss%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repliss%[m|é]|
+|ayons|repliss%[m|é]|
+|ayez|repliss%[m|é]|
+|]
+

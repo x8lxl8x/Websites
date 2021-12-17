@@ -1,0 +1,190 @@
+# se botter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se bott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|bott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se bott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|bott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se bott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|bott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|bott%[m|e]|
+|tu|te|bott%[m|es]|
+|il|se|bott%[m|e]|
+|nous|nous|bott%[m|ons]|
+|vous|vous|bott%[m|ez]|
+|ils|se|bott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|bott%[m|é]|
+|tu|t'|es|bott%[m|é]|
+|il|s'|est|bott%[m|é]|
+|nous|nous|sommes|bott%[m|és]|
+|vous|vous|êtes|bott%[m|és]|
+|ils|se|sont|bott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|bott%[m|ais]|
+|tu|te|bott%[m|ais]|
+|il|se|bott%[m|ait]|
+|nous|nous|bott%[m|ions]|
+|vous|vous|bott%[m|iez]|
+|ils|se|bott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|bott%[m|é]|
+|tu|t'|étais|bott%[m|é]|
+|il|s'|était|bott%[m|é]|
+|nous|nous|étions|bott%[m|és]|
+|vous|vous|étiez|bott%[m|és]|
+|ils|s'|étaient|bott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|bott%[m|ai]|
+|tu|te|bott%[m|as]|
+|il|se|bott%[m|a]|
+|nous|nous|bott%[m|âmes]|
+|vous|vous|bott%[m|âtes]|
+|ils|se|bott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|bott%[m|é]|
+|tu|te|fus|bott%[m|é]|
+|il|se|fut|bott%[m|é]|
+|nous|nous|fûmes|bott%[m|és]|
+|vous|vous|fûtes|bott%[m|és]|
+|ils|se|furent|bott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|bott%[m|erai]|
+|tu|te|bott%[m|eras]|
+|il|se|bott%[m|era]|
+|nous|nous|bott%[m|erons]|
+|vous|vous|bott%[m|erez]|
+|ils|se|bott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|bott%[m|é]|
+|tu|te|seras|bott%[m|é]|
+|il|se|sera|bott%[m|é]|
+|nous|nous|serons|bott%[m|és]|
+|vous|vous|serez|bott%[m|és]|
+|ils|se|seront|bott%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|bott%[m|erais]|
+|tu|te|bott%[m|erais]|
+|il|se|bott%[m|erait]|
+|nous|nous|bott%[m|erions]|
+|vous|vous|bott%[m|eriez]|
+|ils|se|bott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|bott%[m|é]|
+|tu|te|serais|bott%[m|é]|
+|il|se|serait|bott%[m|é]|
+|nous|nous|serions|bott%[m|és]|
+|vous|vous|seriez|bott%[m|és]|
+|ils|se|seraient|bott%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|bott%[m|e]|
+|que|tu|te|bott%[m|es]|
+|qu'|il|se|bott%[m|e]|
+|que|nous|nous|bott%[m|ions]|
+|que|vous|vous|bott%[m|iez]|
+|qu'|ils|se|bott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|bott%[m|é]|
+|que|tu|te|sois|bott%[m|é]|
+|qu'|il|se|soit|bott%[m|é]|
+|que|nous|nous|soyons|bott%[m|és]|
+|que|vous|vous|soyez|bott%[m|és]|
+|qu'|ils|se|soient|bott%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|bott%[m|asse]|
+|que|tu|te|bott%[m|asses]|
+|qu'|il|se|bott%[m|ât]|
+|que|nous|nous|bott%[m|assions]|
+|que|vous|vous|bott%[m|assiez]|
+|qu'|ils|se|bott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|bott%[m|é]|
+|que|tu|te|fusses|bott%[m|é]|
+|qu'|il|se|fût|bott%[m|é]|
+|que|nous|nous|fussions|bott%[m|és]|
+|que|vous|vous|fussiez|bott%[m|és]|
+|qu'|ils|se|fussent|bott%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bott%[m|e]-toi|
+|bott%[m|ons]-nous|
+|bott%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

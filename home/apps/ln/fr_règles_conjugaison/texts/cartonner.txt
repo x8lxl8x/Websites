@@ -1,0 +1,191 @@
+# cartonner %[clVerbGroup|1]
+[-
+relier un livre en carton. 
+garnir de carton. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cartonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cartonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cartonn%[m|é]|
+|ayant|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cartonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cartonn%[m|e]|
+|tu|cartonn%[m|es]|
+|il|cartonn%[m|e]|
+|nous|cartonn%[m|ons]|
+|vous|cartonn%[m|ez]|
+|ils|cartonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cartonn%[m|é]|
+|tu|as |cartonn%[m|é]|
+|il|a|cartonn%[m|é]|
+|nous|avons|cartonn%[m|é]|
+|vous|avez|cartonn%[m|é]|
+|ils|ont|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cartonn%[m|ais]|
+|tu|cartonn%[m|ais]|
+|il|cartonn%[m|ait]|
+|nous|cartonn%[m|ions]|
+|vous|cartonn%[m|iez]|
+|ils|cartonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cartonn%[m|é]|
+|tu|avais|cartonn%[m|é]|
+|il|avait|cartonn%[m|é]|
+|nous|avions|cartonn%[m|é]|
+|vous|aviez|cartonn%[m|é]|
+|ils|avaient|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cartonn%[m|ai]|
+|tu|cartonn%[m|as]|
+|il|cartonn%[m|a]|
+|nous|cartonn%[m|âmes]|
+|vous|cartonn%[m|âtes]|
+|ils|cartonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cartonn%[m|é]|
+|tu|eus|cartonn%[m|é]|
+|il|eut|cartonn%[m|é]|
+|nous|e&ucirc;mes|cartonn%[m|é]|
+|vous|e&ucirc;tes|cartonn%[m|é]|
+|ils|eurent|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cartonn%[m|erai]|
+|tu|cartonn%[m|eras]|
+|il|cartonn%[m|era]|
+|nous|cartonn%[m|erons]|
+|vous|cartonn%[m|erez]|
+|ils|cartonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cartonn%[m|é]|
+|tu|auras|cartonn%[m|é]|
+|il|aura|cartonn%[m|é]|
+|nous|aurons|cartonn%[m|é]|
+|vous|aurez|cartonn%[m|é]|
+|ils|auront|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cartonn%[m|erais]|
+|tu|cartonn%[m|erais]|
+|il|cartonn%[m|erait]|
+|nous|cartonn%[m|erions]|
+|vous|cartonn%[m|eriez]|
+|ils|cartonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cartonn%[m|é]|
+|tu|aurais|cartonn%[m|é]|
+|il|aurait|cartonn%[m|é]|
+|nous|aurions|cartonn%[m|é]|
+|vous|auriez|cartonn%[m|é]|
+|ils|auraient|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cartonn%[m|e]|
+|que|tu|cartonn%[m|es]|
+|qu'|il|cartonn%[m|e]|
+|que|nous|cartonn%[m|ions]|
+|que|vous|cartonn%[m|iez]|
+|qu'|ils|cartonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cartonn%[m|é]|
+|que|tu|aies|cartonn%[m|é]|
+|qu'|il|ait|cartonn%[m|é]|
+|que|nous|ayons|cartonn%[m|é]|
+|que|vous|ayez|cartonn%[m|é]|
+|qu'|ils|aient|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cartonn%[m|asse]|
+|que|tu|cartonn%[m|asses]|
+|qu'|il|cartonn%[m|ât]|
+|que|nous|cartonn%[m|assions]|
+|que|vous|cartonn%[m|assiez]|
+|qu'|ils|cartonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cartonn%[m|é]|
+|que|tu|eusses|cartonn%[m|é]|
+|qu'|il|eût|cartonn%[m|é]|
+|que|nous|eussions|cartonn%[m|é]|
+|que|vous|eussiez|cartonn%[m|é]|
+|qu'|ils|eussent|cartonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cartonn%[m|e]|
+|cartonn%[m|ons]|
+|cartonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cartonn%[m|é]|
+|ayons|cartonn%[m|é]|
+|ayez|cartonn%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se paddocker %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se paddock%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|paddock%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se paddock%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|paddock%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se paddock%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|paddock%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|paddock%[m|e]|
+|tu|te|paddock%[m|es]|
+|il|se|paddock%[m|e]|
+|nous|nous|paddock%[m|ons]|
+|vous|vous|paddock%[m|ez]|
+|ils|se|paddock%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|paddock%[m|é]|
+|tu|t'|es|paddock%[m|é]|
+|il|s'|est|paddock%[m|é]|
+|nous|nous|sommes|paddock%[m|és]|
+|vous|vous|êtes|paddock%[m|és]|
+|ils|se|sont|paddock%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|paddock%[m|ais]|
+|tu|te|paddock%[m|ais]|
+|il|se|paddock%[m|ait]|
+|nous|nous|paddock%[m|ions]|
+|vous|vous|paddock%[m|iez]|
+|ils|se|paddock%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|paddock%[m|é]|
+|tu|t'|étais|paddock%[m|é]|
+|il|s'|était|paddock%[m|é]|
+|nous|nous|étions|paddock%[m|és]|
+|vous|vous|étiez|paddock%[m|és]|
+|ils|s'|étaient|paddock%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|paddock%[m|ai]|
+|tu|te|paddock%[m|as]|
+|il|se|paddock%[m|a]|
+|nous|nous|paddock%[m|âmes]|
+|vous|vous|paddock%[m|âtes]|
+|ils|se|paddock%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|paddock%[m|é]|
+|tu|te|fus|paddock%[m|é]|
+|il|se|fut|paddock%[m|é]|
+|nous|nous|fûmes|paddock%[m|és]|
+|vous|vous|fûtes|paddock%[m|és]|
+|ils|se|furent|paddock%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|paddock%[m|erai]|
+|tu|te|paddock%[m|eras]|
+|il|se|paddock%[m|era]|
+|nous|nous|paddock%[m|erons]|
+|vous|vous|paddock%[m|erez]|
+|ils|se|paddock%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|paddock%[m|é]|
+|tu|te|seras|paddock%[m|é]|
+|il|se|sera|paddock%[m|é]|
+|nous|nous|serons|paddock%[m|és]|
+|vous|vous|serez|paddock%[m|és]|
+|ils|se|seront|paddock%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|paddock%[m|erais]|
+|tu|te|paddock%[m|erais]|
+|il|se|paddock%[m|erait]|
+|nous|nous|paddock%[m|erions]|
+|vous|vous|paddock%[m|eriez]|
+|ils|se|paddock%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|paddock%[m|é]|
+|tu|te|serais|paddock%[m|é]|
+|il|se|serait|paddock%[m|é]|
+|nous|nous|serions|paddock%[m|és]|
+|vous|vous|seriez|paddock%[m|és]|
+|ils|se|seraient|paddock%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|paddock%[m|e]|
+|que|tu|te|paddock%[m|es]|
+|qu'|il|se|paddock%[m|e]|
+|que|nous|nous|paddock%[m|ions]|
+|que|vous|vous|paddock%[m|iez]|
+|qu'|ils|se|paddock%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|paddock%[m|é]|
+|que|tu|te|sois|paddock%[m|é]|
+|qu'|il|se|soit|paddock%[m|é]|
+|que|nous|nous|soyons|paddock%[m|és]|
+|que|vous|vous|soyez|paddock%[m|és]|
+|qu'|ils|se|soient|paddock%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|paddock%[m|asse]|
+|que|tu|te|paddock%[m|asses]|
+|qu'|il|se|paddock%[m|ât]|
+|que|nous|nous|paddock%[m|assions]|
+|que|vous|vous|paddock%[m|assiez]|
+|qu'|ils|se|paddock%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|paddock%[m|é]|
+|que|tu|te|fusses|paddock%[m|é]|
+|qu'|il|se|fût|paddock%[m|é]|
+|que|nous|nous|fussions|paddock%[m|és]|
+|que|vous|vous|fussiez|paddock%[m|és]|
+|qu'|ils|se|fussent|paddock%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|paddock%[m|e]-toi|
+|paddock%[m|ons]-nous|
+|paddock%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

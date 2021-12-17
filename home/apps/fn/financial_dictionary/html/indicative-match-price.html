@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Financial Dictionary</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='javascript:history.back()'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<h1>Indicative Match Price</h1>
+
+<p>The price at which the maximum volume of orders can be executed at the time of an auction. Indicative match price represents the price at which the greatest number of buy and sell orders can be traded during a single price auction, such as the opening or closing auction on the NYSE Arca. If two or more prices can maximize executable volume - i.e. there are multiple indicative match prices - the auction occurs at the last sale price. The indicative match price facilitates price discovery and transparency while helping resolve order imbalances.</p>
+
+<p>As an example, consider a closing auction scenario. In this case, if there is no order imbalance, all market-on-close (MOC) orders are executed at the indicative match price. If an order imbalance exists, the maximum MOC orders are executed based on time priority.</p>
+
+<p>The following examples demonstrate the concept of indicative match price for Widget Co. stock on the NYSE Arca exchange.</p>
+
+<p><i>Example 1: No order imbalance</i></p>
+
+<ul>
+<li>Market order to buy 2,500 shares of Widget Co.</li>
+<li>Market order to sell 1,000 shares</li>
+<li>Limit order to sell 500 shares at $25.50</li>
+<li>Limit order to sell 1,000 shares at $25.75</li>
+</ul>
+
+<p>Indicative Price Match = $25.75.
+This price will be published by NYSE Arca, which will also show matched volume of 2,500 shares without an imbalance.</p>
+
+<p><i>Example 2: Order imbalance</i></p>
+
+<ul>
+<li>Market order to buy 10,000 shares of Widget Co.</li>
+<li>Limit order to sell 3,000 shares at $26</li>
+<li>Market order to sell 1,000 shares</li>
+<li>Limit order to sell 2,000 shares at $26.25</li>
+</ul>
+
+<p>Indicative match price = $26.25.
+This price will be published by NYSE Arca, which will also show volume of 10,000 shares and a total imbalance of 4,000 shares.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+# s'attiédir %[clVerbGroup|2]
+[-
+rendre tiède, moins chaud. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'attiéd%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|attiéd%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'attiéd%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|attiéd%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'attiéd%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|attiéd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|attiéd%[m|is]|
+|tu|t'|attiéd%[m|is]|
+|il|s'|attiéd%[m|it]|
+|nous|nous|attiéd%[m|issons]|
+|vous|vous|attiéd%[m|issez]|
+|ils|s'|attiéd%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|attiéd%[m|i]|
+|tu|t'|es|attiéd%[m|i]|
+|il|s'|est|attiéd%[m|i]|
+|nous|nous|sommes|attiéd%[m|is]|
+|vous|vous|êtes|attiéd%[m|is]|
+|ils|se|sont|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|attiéd%[m|issais]|
+|tu|t'|attiéd%[m|issais]|
+|il|s'|attiéd%[m|issait]|
+|nous|nous|attiéd%[m|issions]|
+|vous|vous|attiéd%[m|issiez]|
+|ils|s'|attiéd%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|attiéd%[m|i]|
+|tu|t'|étais|attiéd%[m|i]|
+|il|s'|était|attiéd%[m|i]|
+|nous|nous|étions|attiéd%[m|is]|
+|vous|vous|étiez|attiéd%[m|is]|
+|ils|s'|étaient|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|attiéd%[m|is]|
+|tu|t'|attiéd%[m|is]|
+|il|s'|attiéd%[m|it]|
+|nous|nous|attiéd%[m|îmes]|
+|vous|vous|attiéd%[m|îtes]|
+|ils|s'|attiéd%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|attiéd%[m|i]|
+|tu|te|fus|attiéd%[m|i]|
+|il|se|fut|attiéd%[m|i]|
+|nous|nous|fûmes|attiéd%[m|is]|
+|vous|vous|fûtes|attiéd%[m|is]|
+|ils|se|furent|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|attiéd%[m|irai]|
+|tu|t'|attiéd%[m|iras]|
+|il|s'|attiéd%[m|ira]|
+|nous|nous|attiéd%[m|irons]|
+|vous|vous|attiéd%[m|irez]|
+|ils|s'|attiéd%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|attiéd%[m|i]|
+|tu|te|seras|attiéd%[m|i]|
+|il|se|sera|attiéd%[m|i]|
+|nous|nous|serons|attiéd%[m|is]|
+|vous|vous|serez|attiéd%[m|is]|
+|ils|se|seront|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|attiéd%[m|irais]|
+|tu|t'|attiéd%[m|irais]|
+|il|s'|attiéd%[m|irait]|
+|nous|nous|attiéd%[m|irions]|
+|vous|vous|attiéd%[m|iriez]|
+|ils|s'|attiéd%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|attiéd%[m|i]|
+|tu|te|serais|attiéd%[m|i]|
+|il|se|serait|attiéd%[m|i]|
+|nous|nous|serions|attiéd%[m|is]|
+|vous|vous|seriez|attiéd%[m|is]|
+|ils|se|seraient|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|attiéd%[m|isse]|
+|que|tu|t'|attiéd%[m|isses]|
+|qu'|il|s'|attiéd%[m|isse]|
+|que|nous|nous|attiéd%[m|issions]|
+|que|vous|vous|attiéd%[m|issiez]|
+|qu'|ils|s'|attiéd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|attiéd%[m|i]|
+|que|tu|te|sois|attiéd%[m|i]|
+|qu'|il|se|soit|attiéd%[m|i]|
+|que|nous|nous|soyons|attiéd%[m|is]|
+|que|vous|vous|soyez|attiéd%[m|is]|
+|qu'|ils|se|soient|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|attiéd%[m|isse]|
+|que|tu|t'|attiéd%[m|isses]|
+|qu'|il|s'|attiéd%[m|ît]|
+|que|nous|nous|attiéd%[m|issions]|
+|que|vous|vous|attiéd%[m|issiez]|
+|qu'|ils|s'|attiéd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|attiéd%[m|i]|
+|que|tu|te|fusses|attiéd%[m|i]|
+|qu'|il|se|fût|attiéd%[m|i]|
+|que|nous|nous|fussions|attiéd%[m|is]|
+|que|vous|vous|fussiez|attiéd%[m|is]|
+|qu'|ils|se|fussent|attiéd%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attiéd%[m|is]-toi|
+|attiéd%[m|issons]-nous|
+|attiéd%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

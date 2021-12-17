@@ -1,0 +1,1313 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Finance</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_5'>        5. The Time Value of Money</a><br>
+<br>
+<a href='#section_54'>       5.1. Introduction to the Time Value of Money</a><br>
+<a href='#concept_254'>      5.1.1. Defining the Time Value of Money</a><br>
+<a href='#concept_255'>      5.1.2. Importance of the Time Value of Money</a><br>
+<br>
+<a href='#section_55'>       5.2. Future Value, Single Amount</a><br>
+<a href='#concept_256'>      5.2.1. Single-Period Investment</a><br>
+<a href='#concept_257'>      5.2.2. Multi-Period Investment</a><br>
+<a href='#concept_258'>      5.2.3. Calculating Future Value</a><br>
+<a href='#concept_259'>      5.2.4. Approaches to Calculating Future Value</a><br>
+<br>
+<a href='#section_56'>       5.3. Present Value, Single Amount</a><br>
+<a href='#concept_260'>      5.3.1. Single-Period Investment</a><br>
+<a href='#concept_261'>      5.3.2. Multi-Period Investment</a><br>
+<a href='#concept_262'>      5.3.3. The Discount Rate</a><br>
+<a href='#concept_263'>      5.3.4. Number of Periods</a><br>
+<a href='#concept_264'>      5.3.5. Calculating Present Value</a><br>
+<br>
+<a href='#section_57'>       5.4. Annuities</a><br>
+<a href='#concept_265'>      5.4.1. Annuities</a><br>
+<a href='#concept_266'>      5.4.2. Future Value of Annuity</a><br>
+<a href='#concept_267'>      5.4.3. Present Value of Annuity</a><br>
+<a href='#concept_268'>      5.4.4. Calculating Annuities</a><br>
+<br>
+<a href='#section_58'>       5.5. Valuing Multiple Cash Flows</a><br>
+<a href='#concept_269'>      5.5.1. Future Value, Multiple Flows</a><br>
+<a href='#concept_270'>      5.5.2. Present Value, Multiple Flows</a><br>
+<br>
+<a href='#section_59'>       5.6. Additional Detail on Present and Future Values</a><br>
+<a href='#concept_271'>      5.6.1. The Relationship Between Present and Future Value</a><br>
+<a href='#concept_272'>      5.6.2. Calculating Perpetuities</a><br>
+<a href='#concept_273'>      5.6.3. Calculating Values for Different Durations of Compounding Periods</a><br>
+<a href='#concept_274'>      5.6.4. Comparing Interest Rates</a><br>
+<a href='#concept_275'>      5.6.5. Calculating Values for Fractional Time Periods</a><br>
+<a href='#concept_276'>      5.6.6. Loans and Loan Amortization</a><br>
+<br>
+<a href='#section_60'>       5.7. Yield</a><br>
+<a href='#concept_277'>      5.7.1. Calculating the Yield of a Single-Period Investment</a><br>
+<a href='#concept_278'>      5.7.2. Calculating the Yield of an Annuity</a><br>
+</div>
+
+<h1 id='chapter_5'>5. The Time Value of Money</h2>
+
+<h2 id='section_54'>5.1. Introduction to the Time Value of Money</h2>
+
+<h3 id='concept_254'>5.1.1. Defining the Time Value of Money</h3>
+
+<blockquote>The Time Value of Money is the concept that money is worth more today that it is in the future.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Identify the variables that are used to calculate the time value of money</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Being given \$100 today is better than being given \$100 in the future because you don't have to wait for your money.</li>
+<li>Money today has a value (present value, or PV) and money in the future has a value (future value, or FV).</li>
+<li>The amount that the value of the money changes after one year is called the interest rate (i). For example, if money today is worth 10% more in one year, the interest rate is 10%.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Interest Rate (i or r)</dt>
+<dd>The cost of not having money for one period, or the amount paid on an investment per year.</dd>
+<dt>Present Value (PV)</dt>
+<dd>The value of the money today.</dd>
+<dt>Future Value (FV)</dt>
+<dd>The value of the money in the future.</dd>
+</dl>
+
+<p>One of the most fundamental concepts in finance is the Time Value of Money. It states that money today is worth more than money in the future.</p>
+<p>Imagine you are lucky enough to have someone come up to you and say "I want to give you \$500. You can either have \$500 right now, or I can give you \$500 in a year. What would you prefer? " Presumably, you would ask to have the \$500 right now. If you took the money now, you could use it to buy a TV. If you chose to take the money in one year, you could still use it to buy the same TV, but there is a cost. The TV might not be for sale, inflation may mean that the TV now costs \$600, or simply, you would have to wait a year to do so and should be paid for having to wait. Since there's no cost to taking the money now, you might as well take it.</p>
+<p>There is some value, however, that you could be paid in one year that <em>would</em> be worth the same to you as \$500 today. Say it's \$550- you are completely indifferent between taking \$500 today and \$550 next year because even if you had to wait a year to get your money, you think \$50 is worth waiting.</p>
+<p>In finance, there are special names for each of these numbers to help ensure that everyone is talking about the same thing. The \$500 you get today is called the Present Value (PV). This is what the money is worth right now. The \$550 is called the Future Value (FV). This is what \$500 today is worth after the time period (t)- one year in this example. In this example money with a PV of \$500 has a FV of \$550. The rate that you must be paid per year in order to not have the money is called an Interest Rate (i or r).</p>
+<p>All four of the variables (PV, FV, r, and t) are tied together in the equation in . Don't worry if this seems confusing; the concept will be explored in more depth later.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+rt)$</div>
+
+<div><b><i>Simple Interest Formula</i></b></div>
+<p><i>Simple interest is when interest is only paid on the amount you originally invested (the principal). You don't earn interest on interest you previously earned.</i></p>
+
+<h3 id='concept_255'>5.1.2. Importance of the Time Value of Money</h3>
+
+<blockquote>Time value of money is integral in making the best use of a financial player's limited funds.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe why the time value of money is important when analyzing a potential project</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Money today is worth more than the same quantity of money in the future. You can invest a dollar today and receive a return on your investment.</li>
+<li>Loans, investments, and any other deal must be compared at a single point in time to determine if it's a good deal or not.</li>
+<li>The process of determining how much a future cash flow is worth today is called discounting. It is done for most major business transactions during investing decisions in capital budgeting.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>discounting</dt>
+<dd>The process of determining how much money paid/received in the future is worth today. You discount future values of cash back to the present using the discount rate.</dd>
+<dt>interest rate</dt>
+<dd>The percentage of an amount of money charged for its use per some period of time. It can also be thought of as the cost of not having money for one period, or the amount paid on an investment per year.</dd>
+</dl>
+
+<h3>Why is the Time Value of Money Important?</h3>
+
+<p>The time value of money is a concept integral to all parts of business. A business does not want to know just what an investment is worth today­it wants to know the total value of the investment. What is the investment worth in total? Let's take a look at a couple of examples.</p>
+<p>Suppose you are one of the lucky people to win the lottery. You are given two options on how to receive the money.</p>
+
+<ol>
+<li>Option 1: Take \$5,000,000 right now.</li>
+<li>Option 2: Get paid \$600,000 every year for the next 10 years.</li>
+</ol>
+<p>In option 1, you get \$5,000,000 and in option 2 you get \$6,000,000. Option 2 may seem like the better bet because you get an extra \$1,000,000, but the time value of money theory says that since some of the money is paid to you in the future, it is worth less. By figuring out how much option 2 is worth today (through a process called discounting), you'll be able to make an apples-to-apples comparison between the two options. If option 2 turns out to be worth less than \$5,000,000 today, you should choose option 1, or vice versa.</p>
+<p>Let's look at another example. Suppose you go to the bank and deposit \$100. Bank 1 says that if you promise not to withdraw the money for 5 years, they'll pay you an interest rate of 5% a year. Before you sign up, consider that there is a cost to you for not having access to your money for 5 years. At the end of 5 years, Bank 1 will give you back \$128. But you also know that you can go to Bank 2 and get a guaranteed 6% interest rate, so your money is actually worth 6% a year for every year you don't have it. Converting our present cash worth into future value using the two different interest rates offered by Banks 1 and 2, we see that putting our money in Bank 1 gives us roughly \$128 in 5 years, while Bank 2's interest rate gives \$134. Between these two options, Bank 2 is the better deal for maximizing future value.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^t$</div>
+
+<div><b><i>Compound Interest</i></b></div>
+<p><i>In this formula, your deposit (\$100) is PV, i is the interest rate (5% for Bank 1, 6% for Bank 2), t is time (5 years), and FV is the future value.</i></p>
+<h2 id='section_55'>5.2. Future Value, Single Amount</h2>
+
+<h3 id='concept_256'>5.2.1. Single-Period Investment</h3>
+
+<blockquote>Since the number of periods (n or t) is one, FV=PV(1+i), where i is the interest rate.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the future value of a single-period investment</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Single-period investments use a specified way of calculating future and present value.</li>
+<li>Single-period investments take place over one period (usually one year).</li>
+<li>In a single-period investment, you only need to know two of the three variables PV, FV, and i. The number of periods is implied as one since it is a single-period.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Single-period investment</dt>
+<dd>An investment that takes place over one period, usually one year.</dd>
+<dt>Multi-period investment</dt>
+<dd>An investment that takes place over more than one periods.</dd>
+<dt>Periods (t or n)</dt>
+<dd>Units of time. Usually one year.</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>What is the value of a single-period, \$100 investment at a 5% interest rate? PV=100 and i=5% (or .05) so FV=100(1+.05). FV=100(1.05) FV=\$105.</li>
+</ul>
+<p>The amount of time between the present and future is called the number of periods. A period is a general block of time. Usually, a period is one year. The number of periods can be represented as either <em>t </em>or <em>n.</em></p>
+<p>Suppose you're making an investment, such as depositing your money in a bank. If you plan on leaving the money there for one year, you're making a <em>single-period investment.</em> Any investment for more than one year is called a multi-period investment<em>.</em></p>
+<p>Let's go through an example of a single-period investment. As you know, if you know three of the following four values, you can solve for the fourth:</p>
+
+<ol>
+<li>Present Value (PV)</li>
+<li>Future Value (FV)</li>
+<li>Interest Rate (i or r) [Note: for all formulas, express interest in it's decimal form, not as a whole number. 7% is .07, 12% is .12, and so on. ]</li>
+<li>Number of Periods (t or n)</li>
+</ol>
+<p>In a single-period, there is only one formula you need to know: FV=PV(1+i). The full formulas, which we will be addressing later, are as follows:</p>
+<p>Compound interest: <span class='clFormula'>$FV = PV \cdot (1+i)^t$</span>
+.</p>
+<p>Simple interest: <span class='clFormula'>$FV=PV \cdot (1+rt)$</span></p>
+<p>We will address these later, but note that when <span class='clFormula'>$t=1$</span>
+both formulas become <span class='clFormula'>$FV=PV \cdot (1+i)$</span></p>
+<p>For example, suppose you deposit \$100 into a bank account that pays 3% interest. What is the balance in your account after one year?</p>
+<p>In this case, your PV is \$100 and your interest is 3%. You want to know the value of your investment in the future, so you're solving for FV. Since this is a single-period investment, t (or n) is 1. Plugging the numbers into the formula, you get FV=100(1+.03) so FV=100(1.03) so FV=103. Your balance will be \$103 in one year.</p>
+
+<h3 id='concept_257'>5.2.2. Multi-Period Investment</h3>
+
+<blockquote>Multi-period investments take place over more than one period (usually multiple years). They can either accrue simple or compound interest.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the future value of a multi-period investment with simple and complex interest rates</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Investments that accrue simple interest have interest paid based on the amount of the principal, not the balance in the account.</li>
+<li>Investments that accrue compound interest have interest paid on the balance of the account. This means that interest is paid on interest earned in previous periods.</li>
+<li>Simple interest increases the balance linearly, while compound interest increases it exponentially.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>accrue</dt>
+<dd>To add, or grow.</dd>
+<dt>principal</dt>
+<dd>The money originally invested or loaned, on which basis interest and returns are calculated.</dd>
+</dl>
+
+<p>There are two primary ways of determining how much an investment will be worth in the future if the time frame is more than one period.</p>
+<p>The first concept of accruing (or earning) interest is called "simple interest. " Simple interest means that you earn interest only on the principal. Your total balance will go up each period, because you earn interest each period, but the interest is paid only on the amount you originally borrowed/deposited. Simple interest is expressed through the formula in.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+rt)$</div>
+
+<div><b><i>Simple Interest Formula</i></b></div>
+<p><i>Simple interest is when interest is only paid on the amount you originally invested (the principal). You don't earn interest on interest you previously earned.</i></p>
+
+<p>Suppose you make a deposit of \$100 in the bank and earn 5% interest per year. After one year, you earn 5% interest, or \$5, bringing your total balance to \$105. One more year passes, and it's time to accrue more interest. Since simple interest is paid only on your principal (\$100), you earn 5% of \$100, not 5% of \$105. That means you earn another \$5 in the second year, and will earn \$5 for every year of the investment. In simple interest, you earn interest based on the original deposit amount, not the account balance.</p>
+<p>The second way of accruing interest is called "compound interest. " In this case, interest is paid at the end of each period based on the balance in the account. In simple interest, it is only how much the principal is that matters. In compound interest, it is what the balance is that matters. Compound interest is named as such because the interest compounds: Interest is paid on interest. The formula for compound interest is.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^t$</div>
+
+<div><b><i>Compound Interest</i></b></div>
+<p><i>Interest is paid at the total amount in the account, which may include interest earned in previous periods.</i></p>
+
+<p>Suppose you make the same \$100 deposit into a bank account that pays 5%, but this time, the interest is compounded. After the first year, you will again have \$105. At the end of the second year, you also earn 5%, but it's 5% of your balance, or \$105. You earn \$5.25 in interest in the second year, bringing your balance to \$110.25. In the third year, you earn interest of 5% of your balance, or \$110.25. You earn \$5.51 in interest bringing your total to \$115.76.</p>
+<p>Compare compound interest to simple interest. Simple interest earns you 5% of your principal each year, or \$5 a year. Your balance will go up linearly each year. Compound interest earns you \$5 in the first year, \$5.25 in the second, a little more in the third, and so on. Your balance will go up exponentially.</p>
+<p>Simple interest is rarely used compared to compound interest, but it's good to know both types.</p>
+
+<h3 id='concept_258'>5.2.3. Calculating Future Value</h3>
+
+<blockquote>The Future Value can be calculated by knowing the present value, interest rate, and number of periods, and plugging them into an equation.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Distinguish between calculating future value with simple interest and with compound interest</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The future value is the value of a given amount of money at a certain point in the future if it earns a rate of interest.</li>
+<li>The future value of a present value is calculated by plugging the present value, interest rate, and number of periods into one of two equations.</li>
+<li>Unless otherwise noted, it is safe to assume that interest compounds and is not simple interest.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>compound interest</dt>
+<dd>Interest, as on a loan or a bank account, that is calculated on the total on the principal plus accumulated unpaid interest.</dd>
+</dl>
+
+<p>When calculating a future value (FV), you are calculating how much a given amount of money today will be worth some time in the future. In order to calculate the FV, the other three variables (present value, interest rate, and number of periods) must be known. Recall that the interest rate is represented by either r or i, and the number of periods is represented by either t or n. It is also important to remember that the interest rate and the periods must be in the same units. That is, if the interest rate is 5% per year, one period is one year. However, if the interest rate is 5% per <em>month</em>, t or n must reflect the number of periods in terms of months.</p>
+
+<h3>Example 1</h3>
+
+<p>What is the FV of a \$500, 10-year loan with 7% annual interest?</p>
+<p>In this case, the PV is \$500, t is 10 years, and i is 7% per year. The next step is to plug these numbers into an equation. But recall that there are two different formulas for the two different types of interest, simple interest and compound interest . If the problem doesn't specify how the interest is accrued, assume it is compound interest, at least for business problems.</p>
+
+<div class='clFormula'>$FV = PV(1+rt)^t$</div>
+
+<div><b><i>Compound Interest</i></b></div>
+<p><i>Interest is paid at the total amount in the account, which may include interest earned in previous periods.</i></p>
+
+<div class='clFormula'>$FV = PV(1+rt)$</div>
+
+<div><b><i>Simple Interest Formula</i></b></div>
+<p><i>Simple interest is when interest is only paid on the amount you originally invested (the principal). You don't earn interest on interest you previously earned.</i></p>
+
+<p>So from the formula, we see that FV=PV(1+i)<sup>t </sup>so FV=500(1+.07)<sup>10</sup>. Therefore, FV=\$983.58.</p>
+<p>In practical terms, you just calculated how much your loan will be in 10 years. This assumes that you don't need to make any payments during the 10 years, and that the interest compounds. Unless the problem states otherwise, it is safe to make these assumptions - you will be told if there are payments during the 10 year period or if it is simple interest.</p>
+
+<h3>Example 2</h3>
+
+<p>Suppose we want to again find the future value of a \$500, 10-year loan, but with an interest rate of 1% per month. In order to get our total number of periods (t), we would multiply 12 months by 10 years, which equals 120 periods. Therefore:</p>
+<p>FV=500(1+.01)<sup>120</sup></p>
+<p>FV=\$1,650.19</p>
+
+<h3 id='concept_259'>5.2.4. Approaches to Calculating Future Value</h3>
+
+<blockquote>Calculating FV is a matter of identifying PV, i (or r), and t (or n), and then plugging them into the compound or simple interest formula.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe the difference between compounding interest and simple interest</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The "present" can be moved based on whatever makes the problem easiest. Just remember that moving the date of the present also changes the number of periods until the future for the FV.</li>
+<li>To find FV, you must first identify PV, the interest rate, and the number of periods from the present to the future.</li>
+<li>The interest rate and the number of periods must have consistent units. If one period is one year, the interest rate must be X% per year, and vis versa.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>quarter</dt>
+<dd>A period of three consecutive months (1/4 of a year).</dd>
+</dl>
+
+<p>The method of calculating future value for a single amount is relatively straightforward; it's just a matter of plugging numbers into an equation. The tough part is correctly identifying what information needs to be plugged in.</p>
+<p>As previously discussed, there are four things that you need to know in order to find the FV:</p>
+
+<ol>
+<li>How does the interest accrue? Is it simple or compounding interest?</li>
+<li>Present Value</li>
+<li>Interest Rate</li>
+<li>Number of periods</li>
+</ol>
+<p>Let's take one complex problem as an example:</p>
+<p>On June 1, 2014, you will take out a \$5000 loan for 8-years. The loan accrues interest at a rate of 3% per quarter. On January 1, 2015, you will take out another \$5000, eight-year loan, with this one accruing 5% interest per year. The loan accrues interest on the principal only. What is the total future value of your loans on December 31, 2017?</p>
+<p>First, the question is really two questions: What is the value of the first loan in 2017, and what is the value of the second in 2017? Once both values are found, simply add them together.</p>
+<p>Let's talk about the first loan first. The present value is \$5,000 on June 1, 2014. It is possible to find the value of the loan today, and then find it's value in 2017, but since the value is the same in 2017, it's okay to just imagine it is 2014 today. Next, we need to identify the interest rate. The problem says it's 3% per quarter, or 3% every three months. Since the problem doesn't say otherwise, we assume that the interest on this loan is compounded. That means we will use the formula in . Finally, we need to identify the number of periods. There are two and a half years between the inception of the loan and when we need the FV. But recall that the interest rate and periods must be in the same units. That means that the interest must either be converted to % per year, or one period must be one quarter. Let's take one period to be one quarter. That means there are 10 periods. Please note that we don't really care when the loan ends in this problem–we only care about the value of the loan on December 31, 2017.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^t$</div>
+
+<div><b><i>Compound Interest</i></b></div>
+<p><i>Interest is paid at the total amount in the account, which may include interest earned in previous periods.</i></p>
+
+<p>Next, we simply plug the numbers into . PV=5000, i=.03, and t=10. That gives us a FV of \$6,719.58.</p>
+<p>Now let's find the value of the second loan at December 31, 2017. Again, PV=\$5000, but this time, pretend it is January 1, 2015. This time, the interest is 5% per year and it is explicitly stated to be simple interest. That means we use the formula in . January 31, 2017 is exactly two years from the January 1, 2015 and since the interest is measured per year, we can set t=2 years.</p>
+<p>When we plug all of those numbers into , we find that FV=\$5,500.00</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+rt)$</div>
+
+<div><b><i>Simple Interest Formula</i></b></div>
+<p><i>Simple interest is when interest is only paid on the amount you originally invested (the principal). You don't earn interest on interest you previously earned.</i></p>
+
+<p>Since the problem asks for the total FV of the loans, we add \$6,719.58 to \$5,500.00, and get a total value of \$12,219.58</p>
+<h2 id='section_56'>5.3. Present Value, Single Amount</h2>
+
+<h3 id='concept_260'>5.3.1. Single-Period Investment</h3>
+
+<blockquote>When considering a single-period investment, n is one, so the PV is simply FV divided by 1+i.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present value of a future, single-period payment</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A single period investment has the number of periods (n or t) equal to one.</li>
+<li>For both simple and compound interest, the PV is FV divided by 1+i.</li>
+<li>The time value of money framework says that money in the future is not worth as much as money in the present.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>interest rate</dt>
+<dd>The percentage of an amount of money charged for its use per some period of time. It can also be thought of as the cost of not having money for one period, or the amount paid on an investment per year.</dd>
+<dt>period</dt>
+<dd>The length of time during which interest accrues.</dd>
+</dl>
+
+<p>The time value of money framework says that money in the future is not worth as much as money in the present. Investors would prefer to have the money today because then they are able to spend it, save it, or invest it right now instead of having to wait to be able to use it.</p>
+<p>The difference between what the money is worth today and what it will be worth at a point in the future can be quantified. The value of the money today is called the present value<em> (PV), </em>and the value of the money in the future is called the future value<em> (FV). </em>There is also a name for the cost of not having the money today: the interest rate or discount rate<em> (i or r).</em> For example, if the interest rate is 3% per year, it means that you would be willing to pay 3% of the money to have it one year sooner. The amount of time is also represented by a variable: the <em>number of periods (n). </em>One period could be any length of time, such as one day, one month, or one year, but it must be clearly defined, consistent with the time units in the interest rate, and constant throughout your calculations.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^n$</div>
+
+<div><b><i>FV of a single payment</i></b></div>
+<p><i>The FV is related to the PV by being i% more each period.</i></p>
+
+<p>All of these variables are related through an equation that helps you find the PV of a single amount of money. That is, it tells you what a single payment is worth today, but not what a series of payments is worth today (that will come later). relates all of the variables together. In order to find the PV, you must know the FV, i, and n.</p>
+<p>When considering a single-period investment, n is, by definition, one. That means that the PV is simply FV divided by 1+i. There is a cost to not having the money for one year, which is what the interest rate represents. Therefore, the PV is i% less than the FV.</p>
+
+<h3 id='concept_261'>5.3.2. Multi-Period Investment</h3>
+
+<blockquote>Multi-period investments require an understanding of compound interest, incorporating the time value of money over time.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the return on a multi-period investment over time</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A dollar today is worth more than a dollar tomorrow, and the time value of money must take into account foregone opportunities.</li>
+<li>Single period investments are relatively simple to calculate in terms of future value, applying the interest rate to a present value a single time.</li>
+<li>Multi-period investments require a slightly more complex equation, where interest gets compounded based on the number of periods the investment spans.</li>
+<li>As a result of multiple periods, it is usually a good idea to calculate the average rate of return (cumulatively) over the lifetime of the investment.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Compound interest</dt>
+<dd>An interest rate applied to multiple applications of interest during the lifetime of the investment.</dd>
+</dl>
+
+<p>When investing, the time value of money is a core concept investors simply cannot ignore. A dollar today is valued higher than a dollar tomorrow, and when utilizing the capital it is important to recognize the opportunity cost involved in what could have been invested in instead. </p>
+<h3>Single Period Investments</h3>
+
+<p>With single period investments, the concept of time value of money is relatively straightforward. The future value is simply the present value applied to the interest rate compounded one time. When comparing this to the opportunity costs involved, the rate of return of an alternative investment during the same time is similarly straightforward.</p>
+<p>The variables involved in understanding the time value of money in these investments are:</p>
+<ul>
+<li>Present Value (PV)</li>
+<li>Future Value (FV)</li>
+<li>Interest Rate (i or r) [Note: for all formulas, express interest in its decimal form, not as a whole number. 7% is .07, 12% is .12, and so on. ]</li>
+<li>Number of Periods (t or n)</li>
+</ul>
+<p>With these variables, a single period investment could be calculated as follows:</p>
+
+<div class='clFormula'>${\displaystyle FV=PV(1+rt)}$</div>
+
+<p>'t' in this equation would simply be 1, simplifying this equation to FV = PV(1+r).</p>
+<h3>Multi-period Investments</h3>
+
+<p>With multi-periods in mind, interest begins to compound. Compound interest simple means that the interest from the first period is added to the future present value, and the interest rate the next time around is now being applied to a larger amount. This turns into an exponential calculation of interest, calculated as follows:</p>
+
+<div class='clFormula'>${\displaystyle FV=PV(1+i)^{t}}$</div>
+
+<p>This means that the interest rate of a given period may not be the same percentage as the interest rate over multiple periods (in most situations). A useful tool at this point is a way to create an average rate of return over the life of the investment, which can be derived with the following:</p>
+
+<div class='clFormula'>${\displaystyle {\bar {r}}={\frac {1}{n}}\sum _{i=1}^{n}{r_{i}}={\frac {1}{n}}(r_{1}+\cdots +r_{n})}$</div>
+
+<h3>Conclusion</h3>
+
+<p>All and all, the difference from a time value of money perspective between single and multiple period investments is relatively straightforward. Normalizing expected returns in present value terms (or projecting future returns over multiple time periods of compounding interest) paints a clearer and more accurate picture of the actual worth of a given investment opportunity.</p>
+
+
+
+<a href='../images/0501.png'><img class='clImageThumb' src='../images/0501.png' alt='Time Value of Money'></a>
+
+<div><b><i>Time Value of Money</i></b></div>
+<p><i>Time value of money requires an understanding of how return rates impact fixed values over time.</i></p>
+
+<h3 id='concept_262'>5.3.3. The Discount Rate</h3>
+
+<blockquote>Discounting is the procedure of finding what a future sum of money is worth today.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe what real world costs to the investor comprise an investment's interest rate</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The discount rate represents some cost (or group of costs) to the investor or creditor.</li>
+<li>Some costs to the investor or creditor are opportunity cost, liquidity cost, risk, and inflation.</li>
+<li>The discount rate is used by both the creditor and debtor to find the present value of an amount of money.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>discount rate</dt>
+<dd>The interest rate used to discount future cash flows of a financial instrument; the annual interest rate used to decrease the amounts of future cash flow to yield their present value.</dd>
+<dt>discounting</dt>
+<dd>The process of finding the present value using the discount rate.</dd>
+<dt>discount</dt>
+<dd>to account for the time value of money</dd>
+</dl>
+
+<p>Another common name for finding present value (PV) is discounting<em>. </em>Discounting is the procedure of finding what a future sum of money is worth today. As you know from the previous sections, to find the PV of a payment you need to know the future value (FV), the number of time periods in question, and the interest rate. The interest rate, in this context, is more commonly called the <em>discount rate</em>.</p>
+<p>The discount rate represents some cost (or group of costs) to the investor or creditor. The sum of these costs amounts to a percentage which becomes the interest rate (plus a small profit, sometimes). Here are some of the most significant costs from the investor/creditor's point of view:</p>
+
+<ol>
+<li>Opportunity Cost: The cost of <em>not </em>having the cash on hand at a certain point of time. If the investor/creditor had the cash s/he could spend it, but since it has been invested/loaned out, s/he incurs the cost of not being able to spend it.</li>
+<li>Inflation: The real value of a single dollar decreases over time with inflation. That means that even if everything else is constant, a \$100 item will retail for more than \$100 in the future. Inflation is generally positive in most countries at most times (if it's not, it's called deflation, but it's rare).</li>
+<li>Risk: There is a chance that you will not get your money back because it is a bad investment, the debtor defaults. You require compensation for taking on that risk.</li>
+<li>Liquidity: Investing or loaning out cash necessarily reduces your liquidity.</li>
+</ol>
+<p>All of these costs combine to determine the interest rate on an account, and that interest rate in turn is the rate at which the sum is discounted.</p>
+<p>The PV and the discount rate are related through the same formula we have been using, <span class='clFormula'>$\Large \frac { FV }{ [(1+i)]^n }$</span>
+.</p>
+<p>If FV and n are held as constants, then as the discount rate (i) increases, PV decreases. PV and the discount rate, therefore, vary inversely, a fundamental relationship in finance. Suppose you expect \$1,000 dollars in one year's time (FV = \$1,000) . To determine the present value, you would need to <em>discount </em>it by some interest rate (i). If this discount rate were 5%, the \$1,000 in a year's time would be the equivalent of \$952.38 to you today (1000/[1.00 + 0.05]).</p>
+
+<h3 id='concept_263'>5.3.4. Number of Periods</h3>
+
+<blockquote>The number of periods corresponds to the number of times the interest is accrued.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Define what a period is in terms of present value calculations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A period is just a general term for a length of time. It can be anything- one month, one year, one decade- but it must be clearly defined and fixed.</li>
+<li>For both simple and compound interest, the number of periods varies jointly with FV and inversely with PV.</li>
+<li>The number of periods is also part of the units of the discount rate: if one period is one year, the discount rate must be defined as X% per year. If one period is one month, the discount rate must be X% per month.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>period</dt>
+<dd>The length of time during which interest accrues.</dd>
+</dl>
+
+<p>In , n represents the number of periods. A period is just a general term for a length of time. It can be anything- one month, one year, one decade- but it must be clearly defined and fixed. The length of one period must be the same at the beginning of an investment and at the end. It is also part of the units of the discount rate: if one period is one year, the discount rate must be defined as X% per year. If one period is one month, the discount rate must be X% per month.</p>
+
+<div class='clFormula'>$FV = PV(1+i)^n$</div>
+
+<div><b><i>FV of a single payment</i></b></div>
+<p><i>The PV and FV are directly related.</i></p>
+
+<p>The number of periods corresponds to the number of times the interest is accrued. In the case of simple interest the number of periods, t, is multiplied by their interest rate. This makes sense because if you earn \$30 of interest in the first period, you also earn \$30 of interest in the last period, so the total amount of interest earned is simple t x \$30.</p>
+<p>Simple interest is rarely used in comparison to compound interest . In compound interest, the interest in one period is also paid on all interest accrued in previous periods. Therefore, there is an exponential relationship between PV and FV, which is reflected in (1+i)<sup>n </sup>.</p>
+
+<p>For both forms of interest, the number of periods varies jointly with FV and inversely with PV. Logically, if more time passes between the present and the future, the FV must be higher or the PV lower (assuming the discount rate remains constant).</p>
+
+<h3 id='concept_264'>5.3.5. Calculating Present Value</h3>
+
+<blockquote>Calculating the present value (PV) is a matter of plugging FV, the interest rate, and the number of periods into an equation.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Distinguish between the formula used for calculating present value with simple interest and the formula used for present value with compound interest</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The first step is to identify if the interest is simple or compound. Most of the time, it is compound.</li>
+<li>The interest rate and number of periods must have consistent units.</li>
+<li>The PV is what a future sum is worth today given a specific interest rate (often called a "discount rate").</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>compound interest</dt>
+<dd>Interest, as on a loan or a bank account, that is calculated on the total on the principal plus accumulated unpaid interest.</dd>
+<dt>simple interest</dt>
+<dd>interest paid only on the principal.</dd>
+</dl>
+
+<p>Finding the present value (PV) of an amount of money is finding the amount of money today that is worth the same as an amount of money in the future, given a certain interest rate.</p>
+<p>Calculating the present value (PV) of a single amount is a matter of combining all of the different parts we have already discussed. But first, you must determine whether the type of interest is simple or compound interest. If the interest is simple interest, you plug the numbers into the simple interest formula.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+rt)$</div>
+
+<div><b><i>Simple Interest Formula</i></b></div>
+<p><i>Simple interest is when interest is only paid on the amount you originally invested (the principal). You don't earn interest on interest you previously earned.</i></p>
+
+<p>If it is compound interest, you can rearrange the compound interest formula to calculate the present value.</p>
+
+<div class='clFormula'>$PV = \Large \frac{FV}{(1 + i)^n}$</div>
+
+<div><b><i>Present Value Single Payment</i></b></div>
+<p><i>Finding the PV is a matter of plugging in for the three other variables.</i></p>
+
+<h3>Inputs</h3>
+
+<ul>
+<li>
+<em>Future Value: </em>The known value of the money at a declared point in the future.</li>
+<li>
+<em>Interest Rate (Discount Rate): </em>Represented as either i or r. This is the percentage of interest paid each period.</li>
+<li>
+<em>Number of periods: </em>Represented as n or t.</li>
+</ul>
+<p>Once you know these three variables, you can plug them into the appropriate equation. If the problem doesn't say otherwise, it's safe to assume the interest compounds. If you happen to be using a program like Excel, the interest is compounded in the PV formula. Simple interest is pretty rare.</p>
+<p>One area where there is often a mistake is in defining the number of periods and the interest rate. They have to have consistent units, which may require some work. For example, interest is often listed as X% per year. The problem may talk about finding the PV 24 months before the FV, but the number of periods must be in years since the interest rate is listed per year. Therefore, n = 2. As long as the units are consistent, however, finding the PV is done by plug-and-chug.</p>
+<h2 id='section_57'>5.4. Annuities</h2>
+
+<h3 id='concept_265'>5.4.1. Annuities</h3>
+
+<blockquote>An annuity is a type of investment in which regular payments are made over the course of multiple periods.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Classify the different types of annuity</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Annuities have payments of a fixed size paid at regular intervals.</li>
+<li>There are three types of annuities: annuities-due, ordinary annuities, and perpetuities.</li>
+<li>Annuities help both the creditor and debtor have predictable cash flows, and it spreads payments of the investment out over time.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>period</dt>
+<dd>The length of time during which interest accrues.</dd>
+</dl>
+
+<p>An annuity is a type of multi-period investment where there is a certain principal deposited and then regular payments made over the course of the investment. The payments are all a fixed size. For example, a car loan may be an annuity: In order to get the car, you are given a loan to buy the car. In return you make an initial payment (down payment), and then payments each month of a fixed amount. There is still an interest rate implicitly charged in the loan. The sum of all the payments will be greater than the loan amount, just as with a regular loan, but the payment schedule is spread out over time.</p>
+<p>Suppose you are the bank that makes the car loan. There are three advantages to making the loan an annuity. The first is that there is a regular, known cash flow. You know how much money you'll be getting from the loan and when you'll be getting them. The second is that it should be easier for the person you are loaning to to repay, because they are not expected to pay one large amount at once. The third reason why banks like to make annuity loans is that it helps them monitor the financial health of the debtor. If the debtor starts missing payments, the bank knows right away that there is a problem, and they could potentially amend the loan to make it better for both parties.</p>
+<p>Similar advantages apply to the debtor. There are predictable payments, and paying smaller amounts over multiple periods may be advantageous over paying the whole loan plus interest and fees back at once.</p>
+<p>Since annuities, by definition, extend over multiple periods, there are different types of annuities based on when in the period the payments are made. The three types are:</p>
+
+<ol>
+<li>
+<em>Annuity-due:</em> Payments are made at the beginning of the period . For example, if a period is one month, payments are made on the first of each month.</li>
+<li>
+<em>Ordinary Annuity:</em> Payments are made at the end of the period . If a period is one month, this means that payments are made on the 28th/30th/31st of each month. Mortgage payments are usually ordinary annuities.</li>
+<li>
+<em>Perpetuities: </em>Payments continue forever. This is much rarer than the first two types.</li>
+</ol><h3 id='concept_266'>5.4.2. Future Value of Annuity</h3>
+
+<blockquote>The future value of an annuity is the sum of the future values of all of the payments in the annuity.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the future value of different types of annuities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To find the FV, you need to know the payment amount, the interest rate of the account the payments are deposited in, the number of periods per year, and the time frame in years.</li>
+<li>The first and last payments of an annuity due both occur one period before they would in an ordinary annuity, so they have different values in the future.</li>
+<li>There are different formulas for annuities due and ordinary annuities because of when the first and last payments occur.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>annuity-due</dt>
+<dd>An investment with fixed-payments that occur at regular intervals, paid at the beginning of each period.</dd>
+<dt>ordinary repair</dt>
+<dd>expense accrued in normal maintenance of an asset</dd>
+<dt>annuity-due</dt>
+<dd>a stream of fixed payments where payments are made at the beginning of each period</dd>
+<dt>ordinary annuity</dt>
+<dd>An investment with fixed-payments that occur at regular intervals, paid at the end of each period.</dd>
+</dl>
+
+<p>The future value of an annuity is the sum of the future values of all of the payments in the annuity. It is possible to take the FV of all cash flows and add them together, but this isn't really pragmatic if there are more than a couple of payments.</p>
+<p>If you were to manually find the FV of all the payments, it would be important to be explicit about when the inception and termination of the annuity is. For an annuity-due, the payments occur at the beginning of each period, so the first payment is at the inception of the annuity, and the last one occurs one period before the termination.</p>
+<p>For an ordinary annuity, however, the payments occur at the end of the period. This means the first payment is one period after the start of the annuity, and the last one occurs right at the end. There are different FV calculations for annuities due and ordinary annuities because of when the first and last payments occur.</p>
+<p>There are some formulas to make calculating the FV of an annuity easier. For both of the formulas we will discuss, you need to know the payment amount (<em>m</em>, though often written as <em>pmt</em> or <em>p</em>), the interest rate of the account the payments are deposited in (<em>r, </em>though sometimes <em>i</em>), the number of periods per year (<em>n</em>), and the time frame in years (<em>t</em>).</p>
+<p>The formula for an ordinary annuity is as follows:</p>
+
+<div class='clFormula'>$\displaystyle{A=\frac{m[(1+r/n)^{nt}-1]}{r/n}}$</div>
+
+<p>where <em>m</em> is the payment amount, <em>r</em> is the interest rate, <em>n</em> is the number of periods per year, and <em>t</em> is the length of time in years.</p>
+<p>In contrast, the formula for an annuity-due is as follows:</p>
+
+<div class='clFormula'>$\displaystyle{A=\frac{m[(1+r/n)^{nt+1}-1]}{r/n}-m}$</div>
+<p>Provided you know <em>m</em>, <em>r</em>, <em>n</em>, and <em>t</em>, therefore, you can find the future value (FV) of an annuity.</p>
+
+<h3 id='concept_267'>5.4.3. Present Value of Annuity</h3>
+
+<blockquote>The PV of an annuity can be found by calculating the PV of each individual payment and then summing them up.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present value of annuities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The PV for both annuities-due and ordinary annuities can be calculated using the size of the payments, the interest rate, and number of periods.</li>
+<li>The PV of a perpetuity can be found by dividing the size of the payments by the interest rate.</li>
+<li>Payment size is represented as p, pmt, or A; interest rate by i or r; and number of periods by n or t.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>perpetuity</dt>
+<dd>An annuity in which the periodic payments begin on a fixed date and continue indefinitely.</dd>
+</dl>
+
+<p>The Present Value (PV) of an annuity can be found by calculating the PV of each individual payment and then summing them up . As in the case of finding the Future Value (FV) of an annuity, it is important to note when each payment occurs. Annuities-due have payments at the beginning of each period, and ordinary annuities have them at the end.</p>
+<p>Recall that the first payment of an annuity-due occurs at the start of the annuity, and the final payment occurs one period before the end. The PV of an annuity-due can be calculated as follows:</p>
+
+<div class='clFormula'>$\displaystyle{ P_0 = \frac{P_n}{(1+i)^n} = P \frac{1-(1+i)^{-n}}{i} \cdot (1+i) }$</div>
+<p>where <span class='clFormula'>$P$</span>
+is the size of the payment (sometimes <span class='clFormula'>$A$</span>
+or <span class='clFormula'>$pmt$</span>
+), <span class='clFormula'>$i$</span>
+is the interest rate, and <span class='clFormula'>$n$</span>
+is the number of periods.</p>
+<p>An ordinary annuity has annuity payments at the end of each period, so the formula is slightly different than for an annuity-due. An ordinary annuity has one full period before the first payment (so it must be discounted) and the last payment occurs at the termination of the annuity (so it must be discounted for one period more than the last period in an annuity-due). The formula is:</p>
+
+<div class='clFormula'>$\displaystyle{ { P }_{ 0 }=\frac { { P }_{ n } }{ { (1+i) }^{ n } } =P\cdot \sum _{ k=1 }^{ n }{ \frac { 1 }{ { (1+i) }^{ n+k-1 } } } =P\cdot \frac { 1-\left[ \frac { 1 }{ { (1+i })^{ n } } \right] }{ i }}$</div>
+
+<p>where, again, <span class='clFormula'>$P$</span>
+, <span class='clFormula'>$i$</span>
+, and <span class='clFormula'>$n$</span>
+are the size of the payment, the interest rate, and the number of periods, respectively.</p>
+<p>Both annuities-due and ordinary annuities have a finite number of payments, so it is possible, though cumbersome, to find the PV for each period. For perpetuities, however, there are an infinite number of periods, so we need a formula to find the PV. The formula for calculating the PV is the size of each payment divided by the interest rate.</p>
+
+<h3>Example 1</h3>
+
+<p>Suppose you have won a lottery that pays \$1,000 per month for the next 20 years. But, you prefer to have the entire amount now. If the interest rate is 8%, how much will you accept?</p>
+<p>Consider for argument purposes that two people, Mr. Cash, and Mr. Credit, have won the same lottery of \$1,000 per month for the next 20 years. Now, Mr. Credit is happy with his \$1,000 monthly payment, but Mr. Cash wants to have the entire amount now. Our job is to determine how much Mr. Cash should get. We reason as follows: If Mr. Cash accepts x dollars, then the x dollars deposited at 8% for 20 years should yield the same amount as the \$1,000 monthly payments for 20 years. In other words, we are comparing the future values for both Mr. Cash and Mr. Credit, and we would like the future values to be equal.</p>
+<p>Since Mr. Cash is receiving a lump sum of x dollars, its future value is given by the lump sum formula:</p>
+
+<div class='clFormula'>$\displaystyle{ {x \left( \frac{1+.08}{12} \right)} ^{240} }$</div>
+
+<p>Since Mr. Credit is receiving a sequence of payments, or an annuity, of \$1,000 per month, its future value is given by the annuity formula:</p>
+
+<div class='clFormula'>$\displaystyle{ \frac{1000 \left[ \left( \frac{1+0.08}{12} \right) ^{240}-1 \right]} {\frac{0.08}{12}} }$</div>
+
+<p>The only way Mr. Cash will agree to the amount he receives is if these two future values are equal. So we set them equal and solve for the unknown:</p>
+
+<div class='clFormula'>$\displaystyle{ {x \left( \frac{1+.08}{12} \right)} ^{240} = \frac{1000 \left[ \left( \frac{1+0.08}{12} \right) ^{240}-1 \right]} {\frac{0.08}{12}}}$</div>
+
+<div class='clFormula'>$x\cdot (4.9268) = \ 1,000 \cdot (589.02041)$</div>
+
+<div class='clFormula'>$x \cdot 4.9268 = \ 589,020.41$</div>
+
+<div class='clFormula'>$x = \ 119,554.36$</div>
+
+<p>The reader should also note that if Mr. Cash takes his lump sum of \$119,554.36 and invests it at 8% compounded monthly, he will have \$589,020.41 in 20 years.</p>
+
+<h3>Example 2</h3>
+
+<p>Find the monthly payment for a car costing \$15,000 if the loan is amortized over five years at an interest rate of 9%.</p>
+<p>Again, consider the following scenario: Two people, Mr. Cash and Mr. Credit, go to buy the same car that costs \$15,000. Mr. Cash pays cash and drives away, but Mr. Credit wants to make monthly payments for five years. Our job is to determine the amount of the monthly payment.</p>
+<p>We reason as follows: If Mr. Credit pays <em>x</em> dollars per month, then the <em>x</em> dollar payment deposited each month at 9% for 5 years should yield the same amount as the \$15,000 lump sum deposited for 5 years. Again, we are comparing the future values for both Mr. Cash and Mr. Credit, and we would like them to be the same.</p>
+<p>Since Mr. Cash is paying a lump sum of \$15,000, its future value is given by the lump sum formula:</p>
+
+<div class='clFormula'>$\displaystyle{ \\$ 15,000\cdot { \left( \frac{1+.09}{12} \right) }^{60}}$</div>
+
+<p>Mr. Credit wishes to make a sequence of payments, or an annuity, of x dollars per month, and its future value is given by the annuity formula:</p>
+
+<div class='clFormula'>$\displaystyle{ \frac { x{ \left[ { \left( \frac{1+0.09}{12} \right) }^{ 60 }-1 \right] } }{ \frac{0.09}{12} }}$</div>
+
+<p>We set the two future amounts equal and solve for the unknown:</p>
+
+<div class='clFormula'>$\displaystyle{15,000\cdot { \left( \frac{1+.09}{12} \right) }^{60} = \frac { x{ \left[ { \left( \frac{1+0.09}{12} \right) }^{ 60 }-1 \right] } }{ \frac{0.09}{12} }}$</div>
+
+<div class='clFormula'>$\ 15,000 \cdot 1.5657 = x \cdot 75.4241$</div>
+
+<div class='clFormula'>$\ 311.38 = x$</div>
+
+<h3 id='concept_268'>5.4.4. Calculating Annuities</h3>
+
+<blockquote>Understanding the relationship between each variable and the broader concept of the time value of money enables simple valuation calculations of annuities.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present or future value of various annuities based on the information given</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Annuities are basically loans that are paid back over a set period of time at a set interest rate with consistent payments each period.</li>
+<li>A mortgage or car loan are simple examples of an annuity. Borrowers agree to pay a given amount each month when borrowing capital to compensate for the risk and the time value of money.</li>
+<li>The six potential variables included in an annuity calculation are the present value, the future value, interest, time (number of periods), payment amount, and payment growth (if applicable).</li>
+<li>Through integrating each of these (excluding payment growth, if payments are consistent over time), it is simple to solve for the present of future value of a given annuity.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>annuity</dt>
+<dd>A right to receive amounts of money regularly over a certain fixed period in repayment of a loan or investment (or perpetually, in the case of a perpetuity).</dd>
+</dl>
+<h3>Annuities Defined</h3>
+
+<p>To understand how to calculate an annuity, it's useful to understand the variables that impact the calculation. An annuity is essentially a loan, a multi-period investment that is paid back over a fixed (or perpetual, in the case of a perpetuity)  period of time. The amount paid back over time is relative to the amount of time it takes to pay it back, the interest rate being applied, and the principal (when creating the annuity, this is the present value). </p>
+<p>Generally speaking, annuities and perpetuities will have consistent payments over time. However, it is also an option to scale payments up or down, for various reasons. </p>
+<h3>Variables</h3>
+
+<p>This gives us six simple variables to use in our calculations:</p>
+
+<ol>
+<li>Present Value (PV) - This is the value of the annuity at time 0 (when the annuity is first created)</li>
+<li>Future Value (FV) - This is the value of the annuity at time n (i.e. at the conclusion of the life of the annuity).</li>
+<li>Payments (A) - Each period will require individual payments that will be represented by this amount. </li>
+<li>Number of Payments (n) - The number of payments (A) will equate to the number of expected periods of payment over the life of the annuity.</li>
+<li>Interest (i) - Annuities occur over time, and thus a given rate of return (interest) is applied to capture the time value of money.</li>
+<li>Growth (g) - For annuities that have changes in payments, there is a growth rate applied to these payments over time.</li>
+</ol>
+<h3>Calculating Annuities</h3>
+
+<p>With all of the inputs above at hand, it's fairly simply to value various types of annuities. Generally investors, lenders, and borrowers are interested in the present and future value of annuities.</p>
+
+<h3>Present Value</h3>
+
+<p>The present value of an annuity can be calculated as follows:</p>
+
+<div class='clFormula'>${\displaystyle PV(A)\,=\,{\frac {A}{i}}\cdot \left[{1-{\frac {1}{\left(1+i\right)^{n}}}}\right]}$</div>
+
+<p>For a growth annuity (where the payment amount changes at a predetermined rate over the life of the annuity), the present value can be calculated as follows:</p>
+
+<div class='clFormula'>${\displaystyle PV\,=\,{A \over (i-g)}\left[1-\left({1+g \over 1+i}\right)^{n}\right]}$</div>
+
+<h3>Future Value</h3>
+
+<p>The future value of an annuity can be determined using this equation:</p>
+
+<div class='clFormula'>${\displaystyle FV(A)\,=\,A\cdot {\frac {\left(1+i\right)^{n}-1}{i}}}$</div>
+
+<p>In a situation where payments grow over time, the future value can be determined using this equation:</p>
+
+<div class='clFormula'>${\displaystyle FV(A)\,=\,A\cdot {\frac {\left(1+i\right)^{n}-\left(1+g\right)^{n}}{i-g}}}$</div>
+
+<h3>Various Formula Arrangements</h3>
+
+<p>It is also possible to use existing information to solve for missing information. Which is to say, if you know interest and time, you can solve for the following (given the following):</p>
+
+<a href='../images/0502.png'><img class='clImageThumb' src='../images/0502.png' alt='Annuities Equations'></a>
+
+<div><b><i>Annuities Equations</i></b></div>
+<p><i>This table is a useful way to view the calculation of annuities variables from a number of directions. Understanding how to manipulate the formula will underline the relationship between the variables, and provide some conceptual clarity as to what annuities are.</i></p>
+
+<h2 id='section_58'>5.5. Valuing Multiple Cash Flows</h2>
+
+<h3 id='concept_269'>5.5.1. Future Value, Multiple Flows</h3>
+
+<blockquote>To find the FV of multiple cash flows, sum the FV of each cash flow.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the Future Value of Multiple Annuities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The FV of multiple cash flows is the sum of the FV of each cash flow.</li>
+<li>To sum the FV of each cash flow, each must be calculated to the same point in the future.</li>
+<li>If the multiple cash flows are a fixed size, occur at regular intervals, and earn a constant interest rate, it is an annuity. There are formulas for calculating the FV of an annuity.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>incremental cash flows</dt>
+<dd>the additional money flowing in or out of a business due to a project</dd>
+<dt>annuity</dt>
+<dd>A specified income payable at stated intervals for a fixed or a contingent period, often for the recipient's life, in consideration of a stipulated premium paid either in prior installment payments or in a single payment. For example, a retirement annuity paid to a public officer following his or her retirement.</dd>
+<dt>cash flow</dt>
+<dd>The sum of cash revenues and expenditures over a period of time.</dd>
+</dl>
+
+<h3>Future Value, Multiple Cash Flows</h3>
+
+<p>Finding the future value (FV) of multiple cash flows means that there are more than one payment/investment, and a business wants to find the total FV at a certain point in time. These payments can have varying sizes, occur at varying times, and earn varying interest rates, but they all have a certain value at a specific time in the future.</p>
+<p>The first step in finding the FV of multiple cash flows is to define when the future is. Once that is done, you can determine the FV of each cash flow using the formula in . Then, simply add all of the future values together.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^n$</div>
+
+<div><b><i>FV of a single payment</i></b></div>
+<p>The FV of multiple cash flows is the sum of the future values of each cash flow.</i></p>
+
+<p>Manually calculating the FV of each cash flow and then summing them together can be a tedious process. If the cash flows are irregular, don't happen at regular intervals, or earn different interest rates, there isn't a special way to find the total FV.</p>
+<p>However, if the cash flows do happen at regular intervals, are a fixed size, and earn a uniform interest rate, there is an easier way to find the total FV. Investments that have these three traits are called "annuities. "</p>
+<p>There are formulas to find the FV of an annuity depending on some characteristics, such as whether the payments occur at the beginning or end of each period. There is a module that goes through exactly how to calculate the FV of annuities.</p>
+<p>If the multiple cash flows are a part of an annuity, you're in luck; there is a simple way to find the FV. If the cash flows aren't uniform, don't occur at fixed intervals, or earn different interest rates, the only way to find the FV is do find the FV of each cash flow and then add them together.</p>
+
+<h3 id='concept_270'>5.5.2. Present Value, Multiple Flows</h3>
+
+<blockquote>The PV of multiple cash flows is simply the sum of the present values of each individual cash flow.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present value of an investment portfolio that has multiple cash flows</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To find the PV of multiple cash flows, each cash flow much be discounted to a specific point in time and then added to the others.</li>
+<li>To discount annuities to a time prior to their start date, they must be discounted to the start date, and then discounted to the present as a single cash flow.</li>
+<li>Multiple cash flow investments that are not annuities unfortunately cannot be discounted by any other method but by discounting each cash flow and summing them together.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>discount</dt>
+<dd>To find the value of a sum of money at some earlier point in time. To find the present value.</dd>
+<dt>net present value</dt>
+<dd>the present value of a project or an investment decision determined by summing the discounted incoming and outgoing future cash flows resulting from the decision</dd>
+</dl>
+
+<p>The PV of multiple cash flows follows the same logic as the FV of multiple cash flows. The PV of multiple cash flows is simply the sum of the present values of each individual cash flow .</p>
+
+<div class='clFormula'>$PV = \Large{\sum\limits_{t=0}^n \frac{FV_t}{(1+i)^t}}$</div>
+
+<div><b><i>Sum FV</i></b></div>
+<p><i>The PV of an investment is the sum of the present values of all its payments.</i></p>
+
+<p>Each cash flow must be discounted to the same point in time. For example, you cannot sum the PV of two loans at the beginning of the loans if one starts in 2012 and one starts in 2014. If you want to find the PV in 2012, you need to discount the second loan an additional two years, even though it doesn't start until 2014.</p>
+<p>The calculations get markedly simpler if the cash flows make up an annuity. In order to be an annuity (and use the formulas explained in the annuity module), the cash flows need to have three traits:</p>
+
+<ol>
+<li>Constant payment size</li>
+<li>Payments occur at fixed intervals</li>
+<li>A constant interest rate</li>
+</ol>
+<p>Things may get slightly messy if there are multiple annuities, and you need to discount them to a date before the beginning of the payments.</p>
+<p>Suppose there are two sets of cash flows which you determine are both annuities. The first extends from 1/1/14 to 1/1/16, and the second extends from 1/1/15 to 1/1/17. You want to find the total PV of all the cash flows on 1/1/13.</p>
+<p>The annuity formulas are good for determining the PV at the date of the inception of the annuity. That means that it's not enough to simply plug in the payment size, interest rate, and number of periods between 1/1/13 and the end of the annuities. If you do, that supposes that both annuities begin on 1/1/13, but neither do. Instead, you have to first find the PV of the first annuity on 1/1/14 and the second on 1/1/15 because that's when the annuities begin.</p>
+<p>You now have two present values, but both are still in the future. You then can discount those present values as if they were single sums to 1/1/13.</p>
+<p>Unfortunately, if the cash flows do not fit the characteristics of an annuity, there isn't a simple way to find the PV of multiple cash flows: each cash flow much be discounted and then all of the PVs must be summed together.</p>
+
+<h3>Example</h3>
+
+<p>A corporation must decide whether to introduce a new product line. The new product will have start-up expenditures, operational expenditures, and then it will have associated incoming cash receipts (sales) and disbursements (Cash paid for materials, supplies, direct labor, maintenance, repairs, and direct overhead) over 12 years. This project will have an immediate (t=0) cash outflow of 100,000 (which might include all cash paid for the machinery, transportation-in and set-up expenditures, and initial employee training disbursements. ) The annual net cash flow (receipts less disbursements) from this new line for years 1-12 is forecast as follows: -54672, -39161, 3054, 7128, 25927, 28838, 46088, 77076, 46726, 76852, 132332, 166047, reflecting two years of running deficits as experience and sales are built up, with net cash receipts forecast positive after that. At the end of the 12 years it's estimated that the entire line becomes obsolete and its scrap value just covers all the removal and disposal expenditures. All values are after-tax, and the required rate of return is given to be 10%. (This also makes the simplifying assumption that the net cash received or paid is lumped into a single transaction occurring on the last day of each year. )</p>
+<p>The present value (PV) can be calculated for each year:</p>
+<p>T=0: <span class='clFormula'>$\frac{-100,000}{(1+0.10)^0}=100,000$</span></p>
+<p>T=1: <span class='clFormula'>$\frac{-54672}{(1+0.10)^1}=-49701.81818$</span></p>
+<p>T=2: <span class='clFormula'>$\frac{-39161}{(1+0.10)^2}=-32364.46281$</span></p>
+<p>T=3: <span class='clFormula'>$\frac{3054}{(1+0.10)^3}=2294.515402$</span></p>
+<p>T=4: <span class='clFormula'>$\frac{7128}{(1+0.10)^4}=4868.51991$</span></p>
+<p>T=5: <span class='clFormula'>$\frac{25927}{(1+0.10)^5}=16098.62714$</span></p>
+<p>T=6: <span class='clFormula'>$\frac{28838}{(1+0.10)^6}=16278.29919$</span></p>
+<p>T=7: <span class='clFormula'>$\frac{46088}{(1+0.10)^7}=23650.43135$</span></p>
+<p>T=8: <span class='clFormula'>$\frac{77076}{(1+0.10)^8}=35956.52284$</span></p>
+<p>T=9: <span class='clFormula'>$\frac{46726}{(1+0.10)^9}=19816.38532$</span></p>
+<p>T=10: <span class='clFormula'>$\frac{76852}{(1+0.10)^{10}}=29629.77288$</span></p>
+<p>T=11: <span class='clFormula'>$\frac{132332}{(1+0.10)^{11}}=46381.55871$</span></p>
+<p>T=12: <span class='clFormula'>$\frac{166047}{(1+0.10)^{12}}=52907.69139$</span></p>
+<p>The sum of all these present values is the net present value, which equals 65,816.04. Since the NPV is greater than zero, it would be better to invest in the project than to do nothing, and the corporation should invest in this project if there is no alternative with a higher NPV.</p>
+
+<h2 id='section_59'>5.6. Additional Detail on Present and Future Values</h2>
+
+<h3 id='concept_271'>5.6.1. The Relationship Between Present and Future Value</h3>
+
+<blockquote>Present value (PV) and future value (FV) measure how much the value of money has changed over time.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the relationship between present value and future value</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The future value (FV) measures the nominal future sum of money that a given sum of money is "worth" at a specified time in the future assuming a certain interest rate, or more generally, rate of return. The FV is calculated by multiplying the present value by the accumulation function.</li>
+<li>PV and FV vary jointly: when one increases, the other increases, assuming that the interest rate and number of periods remain constant.</li>
+<li>As the interest rate (discount rate) and number of periods increase, FV increases or PV decreases.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>discounting</dt>
+<dd>The process of finding the present value using the discount rate.</dd>
+<dt>present value</dt>
+<dd>a future amount of money that has been discounted to reflect its current value, as if it existed today</dd>
+<dt>capitalization</dt>
+<dd>The process of finding the future value of a sum by evaluating the present value.</dd>
+</dl>
+
+<p>The future value (FV) measures the nominal future sum of money that a given sum of money is "worth" at a specified time in the future assuming a certain interest rate, or more generally, rate of return. The FV is calculated by multiplying the present value by the accumulation function. The value does not include corrections for inflation or other factors that affect the true value of money in the future. The process of finding the FV is often called capitalization.</p>
+<p>On the other hand, the present value (PV) is the value on a given date of a payment or series of payments made at other times. The process of finding the PV from the FV is called discounting<em>.</em></p>
+<p>PV and FV are related , which reflects compounding interest (simple interest has n multiplied by i, instead of as the exponent). Since it's really rare to use simple interest, this formula is the important one.</p>
+
+<div class='clFormula'>$FV = PV \cdot (1+i)^n$</div>
+
+<div><b><i>FV of a single payment</i></b></div>
+<p><i>The PV and FV are directly related.</i></p>
+
+<p>PV and FV vary directly: when one increases, the other increases, assuming that the interest rate and number of periods remain constant.</p>
+<p>The interest rate (or discount rate) and the number of periods are the two other variables that affect the FV and PV. The higher the interest rate, the lower the PV and the higher the FV. The same relationships apply for the number of periods. The more time that passes, or the more interest accrued per period, the higher the FV will be if the PV is constant, and vice versa.</p>
+<p>The formula implicitly assumes that there is only a single payment. If there are multiple payments, the PV is the sum of the present values of each payment and the FV is the sum of the future values of each payment.</p>
+
+<h3 id='concept_272'>5.6.2. Calculating Perpetuities</h3>
+
+<blockquote>The present value of a perpetuity is simply the payment size divided by the interest rate and there is no future value.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present value of a perpetuity</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Perpetuities are a special type of annuity; a perpetuity is an annuity that has no end, or a stream of cash payments that continues forever.</li>
+<li>To find the future value of a perpetuity requires having a future date, which effectively converts the perpetuity to an ordinary annuity until that point.</li>
+<li>Perpetuities with growing payments are called Growing Perpetuities; the growth rate is subtracted from the interest rate in the present value equation.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>growth rate</dt>
+<dd>The percentage by which the payments grow each period.</dd>
+</dl>
+
+<p>Perpetuities are a special type of annuity; a perpetuity is an annuity that has no end, or a stream of cash payments that continues forever. Essentially, they are ordinary annuities, but have no end date. There aren't many actual perpetuities, but the United Kingdom has issued them in the past.</p>
+<p>Since there is no end date, the annuity formulas we have explored don't apply here. There is no end date, so there is no future value formula. To find the FV of a perpetuity would require setting a number of periods which would mean that the perpetuity up to that point can be treated as an ordinary annuity.</p>
+<p>There is, however, a PV formula for perpetuities . The PV is simply the payment size (A) divided by the interest rate (r). Notice that there is no n, or number of periods. More accurately, is what results when you take the limit of the ordinary annuity PV formula as n → ∞.</p>
+<p>It is also possible that an annuity has payments that grow at a certain rate per period. The rate at which the payments change is fittingly called the growth rate (g). The PV of a growing perpetuity is represented as:</p>
+
+<div class='clFormula'>$PVGP = \Large {A \over ( i - g )}$</div>
+
+<p>It is essentially the same as in except that the growth rate is subtracted from the interest rate. Another way to think about it is that for a normal perpetuity, the growth rate is just 0, so the formula boils down to the payment size divided by r.</p>
+
+<h3 id='concept_273'>5.6.3. Calculating Values for Different Durations of Compounding Periods</h3>
+
+<blockquote>Finding the Effective Annual Rate (EAR) accounts for compounding during the year, and is easily adjusted to different period durations.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the present and future value of something that has different compounding periods</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The units of the period (e.g. one year) must be the same as the units in the interest rate (e.g. 7% per year).</li>
+<li>When interest compounds more than once a year, the effective interest rate (EAR) is different from the nominal interest rate.</li>
+<li>The equation in skips the step of solving for EAR, and is directly usable to find the present or future value of a sum.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Future Value</dt>
+<dd>The value of an asset at a specific date. It measures the nominal future sum of money that a given sum of money is "worth" at a specified time in the future, assuming a certain interest rate, or more generally, rate of return, it is the present value multiplied by the accumulation function.</dd>
+<dt>present value</dt>
+<dd>Also known as present discounted value, is the value on a given date of a payment or series of payments made at other times. If the payments are in the future, they are discounted to reflect the time value of money and other factors such as investment risk. If they are in the past, their value is correspondingly enhanced to reflect that those payments have been (or could have been) earning interest in the intervening time. Present value calculations are widely used in business and economics to provide a means to compare cash flows at different times on a meaningful "like to like" basis.</dd>
+</dl>
+
+<p>Sometimes, the units of the number of periods does not match the units in the interest rate. For example, the interest rate could be 12% compounded monthly, but one period is one year. Since the units have to be consistent to find the PV or FV, you could change one period to one month. But suppose you want to convert the interest rate into an annual rate. Since interest generally compounds, it is not as simple as multiplying 1% by 12 (1% compounded each month). This atom will discuss how to handle different compounding periods.</p>
+
+<h3>Effective Annual Rate</h3>
+
+<p>The effective annual rate (EAR) is a measurement of how much interest actually accrues per year if it compounds more than once per year. The EAR can be found through the formula in where i is the nominal interest rate and n is the number of times the interest compounds per year (for continuous compounding, see ). Once the EAR is solved, that becomes the interest rate that is used in any of the capitalization or discounting formulas.</p>
+
+<div class='clFormula'>$\Large{r = e^i - 1}$</div>
+
+<div><b><i>EAR with Continuous Compounding</i></b></div>
+<p><i>The effective rate when interest compounds continuously.</i></p>
+
+<div class='clFormula'>$\Large{r = (1+ i/n)^n-1}$</div>
+
+<div><b><i>Calculating the effective annual rate</i></b></div>
+<p><i>The effective annual rate for interest that compounds more than once per year.</i></p>
+
+<p>For example, if there is 8% interest that compounds quarterly, you plug .08 in for i and 4 in for n. That calculates an EAR of .0824 or 8.24%. You can think of it as 2% interest accruing every quarter, but since the interest compounds, the amount of interest that actually accrues is slightly more than 8%. If you wanted to find the FV of a sum of money, you would have to use 8.24% not 8%.</p>
+
+<h3>Solving for Present and Future Values with Different Compounding Periods</h3>
+
+<p>Solving for the EAR and then using that number as the effective interest rate in present and future value (PV/FV) calculations is demonstrated here. Luckily, it's possible to incorporate compounding periods into the standard time-value of money formula. The equation in is the same as the formulas we have used before, except with different notation. In this equation, A(t) corresponds to FV, A<sub>0</sub> corresponds to Present Value, r is the nominal interest rate, n is the number of compounding periods per year, and t is the number of years.</p>
+
+<div class='clFormula'>$\Large{A(t)=A_0\Big(1 + {r \over n} \Big)^{nt}}$</div>
+
+<div><b><i>FV Periodic Compounding</i></b></div>
+<p><i>Finding the FV (A(t)) given the PV (Ao), nominal interest rate (r), number of compounding periods per year (n), and number of years (t).</i></p>
+
+<p>The equation follows the same logic as the standard formula. r/n is simply the nominal interest per compounding period, and nt represents the total number of compounding periods.</p>
+
+<h3>Solving for n</h3>
+
+<p>The last tricky part of using these formulas is figuring out how many periods there are. If PV, FV, and the interest rate are known, solving for the number of periods can be tricky because n is in the exponent. It makes solving for n manually messy. shows an easy way to solve for n. Remember that the units are important: the units on n must be consistent with the units of the interest rate (i).</p>
+
+<div class='clFormula'>$\Large{n=\frac{log(FV) \, - \, log(PV)}{log(1+i)}}$</div>
+
+<div><b><i>Solving for n</i></b></div>
+<p><i>This formula allows you to figure out how many periods are needed to achieve a certain future value, given a present value and an interest rate.</i></p>
+
+<h3 id='concept_274'>5.6.4. Comparing Interest Rates</h3>
+
+<blockquote>Variables, such as compounding, inflation, and the cost of capital must be considered before comparing interest rates.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the differences between effective interest rates, real interest rates, and cost of capital</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A nominal interest rate that compounds has a different effective rate (EAR), because interest is accrued on interest.</li>
+<li>The Fisher Equation approximates the amount of interest accrued after accounting for inflation.</li>
+<li>A company will theoretically only invest if the expected return is higher than their cost of capital, even if the return has a high nominal value.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>inflation</dt>
+<dd>An increase in the general level of prices or in the cost of living.</dd>
+</dl>
+
+<p>The amount of interest you would have to pay on a loan or would earn on an investment is clearly an important consideration when making any financial decisions. However, it is not enough to simply compare the nominal values of two interest rates to see which is higher.</p>
+
+<h3>Effective Interest Rates</h3>
+
+<p>The reason why the nominal interest rate is only part of the story is due to compounding. Since interest compounds, the amount of interest actually accrued may be different than the nominal amount. The last section went through one method for finding the amount of interest that actually accrues: the Effective Annual Rate (EAR).</p>
+<p>The EAR is a calculation that account for interest that compounds more than one time per year. It provides an annual interest rate that accounts for compounded interest during the year. If two investments are otherwise identical, you would naturally pick the one with the higher EAR, even if the nominal rate is lower.</p>
+
+<h3>Real Interest Rates</h3>
+
+<p>Interest rates are charged for a number of reasons, but one is to ensure that the creditor lowers his or her exposure to inflation. Inflation causes a nominal amount of money in the present to have less purchasing power in the future. Expected inflation rates are an integral part of determining whether or not an interest rate is high enough for the creditor.</p>
+<p>The Fisher Equation is a simple way of determining the real interest rate, or the interest rate accrued after accounting for inflation. To find the real interest rate, simply subtract the expected inflation rate from the nominal interest rate.</p>
+
+<div class='clFormula'>$\Large i \approx r + \pi$</div>
+
+<div><b><i>Fisher Equation</i></b></div>
+<p><i>The nominal interest rate is approximately the sum of the real interest rate and inflation.</i></p>
+
+<p>For example, suppose you have the option of choosing to invest in two companies. Company 1 will pay you 5% per year, but is in a country with an expected inflation rate of 4% per year. Company 2 will only pay 3% per year, but is in a country with an expected inflation of 1% per year. By the Fisher Equation, the real interest rates are 1% and 2% for Company 1 and Company 2, respectively. Thus, Company 2 is the better investment, even though Company 1 pays a higher nominal interest rate.</p>
+
+<h3>Cost of Capital</h3>
+
+<p>Another major consideration is whether or not the interest rate is higher than your cost of capital. The cost of capital is the rate of return that capital could be expected to earn in an alternative investment of equivalent risk. Many companies have a standard cost of capital that they use to determine whether or not an investment is worthwhile.</p>
+<p>In theory, a company will never make an investment if the expected return on the investment is less than their cost of capital. Even if a 10% annual return sounds really nice, a company with a 13% cost of capital will not make that investment.</p>
+
+<h3 id='concept_275'>5.6.5. Calculating Values for Fractional Time Periods</h3>
+
+<blockquote>The value of money and the balance of the account may be different when considering fractional time periods.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the future and present value of an account when a fraction of a compounding period has passed</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The balance of an account only changes when interest is paid. To find the balance, round the fractional time period down to the period when interest was last accrued.</li>
+<li>To find the PV or FV, ignore when interest was last paid an use the fractional time period as the time period in the equation.</li>
+<li>The discount rate is really the cost of not having the money over time, so for PV/FV calculations, it doesn't matter if the interest hasn't been added to the account yet.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>time period assumption</dt>
+<dd>business profit or loses are measured on timely basis</dd>
+<dt>compounding period</dt>
+<dd>The length of time between the points at which interest is paid.</dd>
+<dt>time value of money</dt>
+<dd>the value of an asset accounting for a given amount of interest earned or inflation accrued over a given period</dd>
+</dl>
+
+<p>Up to this point, we have implicitly assumed that the number of periods in question matches to a multiple of the compounding period. That means that the point in the future is also a point where interest accrues. But what happens if we are dealing with fractional time periods?</p>
+<p>Compounding periods can be any length of time, and the length of the period affects the rate at which interest accrues.</p>
+
+
+
+<a href='../images/0503.png'><img class='clImageThumb' src='../images/0503.png' alt='Compounding Interest'></a>
+
+<div><b><i>Compounding Interest</i></b></div>
+<p><i>The effect of earning 20% annual interest on an initial \$1,000 investment at various compounding frequencies.</i></p>
+
+<p>Suppose the compounding period is one year, starting January1, 2012. If the problem asks you to find the value at June 1, 2014, there is a bit of a conundrum. The last time interest was actually paid was at January 1, 2014, but the time-value of money theory clearly suggests that it should be worth more in June than in January.</p>
+<p>In the case of fractional time periods, the devil is in the details. The question could ask for the future value, present value, etc., or it could ask for the future balance, which have different answers.</p>
+
+<h3>Future/Present Value</h3>
+
+<p>If the problem asks for the future value (FV) or present value (PV), it doesn't really matter that you are dealing with a fractional time period. You can plug in a fractional time period to the appropriate equation to find the FV or PV. The reasoning behind this is that the interest rate in the equation isn't exactly the interest rate that is earned on the money. It is the same as that number, but more broadly, is the cost of not having the money for a time period. Since there is still a cost to not having the money for that fraction of a compounding period, the FV still rises.</p>
+
+<h3>Account Balance</h3>
+
+<p>The question could alternatively ask for the balance of the account. In this case, you need to find the amount of money that is actually in the account, so you round the number of periods <em>down </em>to the nearest whole number (assuming one period is the same as a compounding period; if not, round down to the nearest compounding period). Even if interest compounds every period, and you are asked to find the balance at the 6.9999<sup>th</sup> period, you need to round down to 6. The last time the account actually accrued interest was at period 6; the interest for period 7 has not yet been paid.</p>
+<p>If the account accrues interest continuously, there is no problem: there can't be a fractional time period, so the balance of the account is always exactly the value of the money.</p>
+
+<h3 id='concept_276'>5.6.6. Loans and Loan Amortization</h3>
+
+<blockquote>When borrowing money to be paid back via a number of installments over time, it is important to understand the time value of money and how to build an amortization schedule.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Understand  amortization schedules</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Amortization of a loan is the process of identifying a payment amount for each period of repayment on a given outstanding debt.</li>
+<li>Repaying capital over time at an interest rate requires an amortization schedule, which both parties agree to prior to the exchange of capital. This schedule determines the repayment period, as well as the amount of repayment per period.</li>
+<li>Time value of money is a central concept to amortization. A dollar today, for example, is worth more than a dollar tomorrow due to the opportunity cost of other investments.</li>
+<li>When purchasing a home for \$100,000 over 30 years at 8% interest (consistent payments each month), for example, the total amount of repayment is more than 2.5 times the original principal of \$100,000.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>amortization</dt>
+<dd>This is the process of scheduling intervals of payment over time to pay back an existing debt, taking into account the time value of money.</dd>
+</dl>
+
+<p> When lending money (or borrowing, depending on your perspective), it is  common to have multiple payback periods over time (i.e. multiple, smaller cash flow installments to pay back the larger borrowed sum). In these situations, an amortization schedule will be created. This will determine how much will be paid back each period, and how many periods of repayment will be required to cover the principal balance. This must be agreed upon prior to the initial borrowing occurs, and signed by both parties.</p>
+<h3>Time Value of Money</h3>
+
+<p>Now if you add up all of the separate payments in an amortization schedule, you'll find the total exceeds the amount borrowed. This is because amortization schedules must take into account the time value of money. Time value of money is a fairly simple concept at it's core: a dollar today is worth more than a dollar tomorrow. </p>
+<p>Why? Because capital can be invested, and those investments can yield returns. Lending your money to someone means incurring the opportunity cost of the other things you could do with that money. This gets even more drastic as the scale of capital increases, as the returns on capital over time are expressed in a percentage of the capital invested. Say you spend \$100 on some stock, and turn 10% on that investment. You now have \$110, a profit of \$10. Say instead of only a \$100, you put in \$10,000. Now you have \$11,000, a profit of \$1,000. </p>
+<h3>Principle and Interest</h3>
+
+<p>As a result of this calculation, amortization schedules charge interest over time as a percentage of the principal borrowed. The calculation will incorporate the number of payment periods (n), the principal (P), the amortization payment (A) and the interest rate (r).</p>
+
+<div class='clFormula'>${\displaystyle P\,=\,A\cdot {\frac {1-\left({\frac {1}{1+r}}\right)^{n}}{r}}}$</div>
+
+<p>To make this a bit more realistic, let's insert some numbers. Let's say you find a dream house, at the reasonable rate of \$100,000. Unfortunately, a bit of irresponsible borrowing in your past means you must pay 8% interest over a 30 year loan, which will be paid via a monthly amortization schedule (12 months x 30 years = 360 payments total). If you do  the math, you should find yourself paying \$734 per month 360 times. 360 x 734 will leave you in the ballpark of \$264,000 in total repayment. that means you are paying more than 2.5 times as much for this house due to time value of money! This bit of knowledge is absolutely critical for personal financial decisions, as well as for high level business decisions. </p>
+
+
+
+<a href='../images/0504.png'><img class='clImageThumb' src='../images/0504.png' alt='Amortization Schedule Example'></a>
+
+<div><b><i>Amortization Schedule Example</i></b></div>
+<p><i>This shows the first few installments in the example discussed above (i.e. borrowing \$100,000 at 8% interest paid monthly over 30 years).</i></p>
+
+<h2 id='section_60'>5.7. Yield</h2>
+
+<h3 id='concept_277'>5.7.1. Calculating the Yield of a Single-Period Investment</h3>
+
+<blockquote>The yield of a single period investment is simply <span class='clFormula'>$\frac{(FV \, - \, PV)}{PV} \ast 100%.$</span>
+.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Differentiate between the different methods of calculating yield of a single period investment</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>There are a number of ways to calculate yield, but the most common ones are to calculate the percent change from the initial investment, APR, and APY (or EAR).</li>
+<li>APR (annual percentage rate) is a commonly used calculation that figures out the nominal amount of interest accrued per year. It does not account for compounding interest.</li>
+<li>APY (annual percentage yield) is a way of using the nominal interest rate to calculate the effective interest rate per year. It accounts for compounding interest.</li>
+<li>EAR (effective annual rate) is a special type of APY that uses APR as the nominal interest rate.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>effective-interest method</dt>
+<dd>amortizing a debt according to the effective interest rate paid</dd>
+<dt>Nominal Interest</dt>
+<dd>The amount of interest accrued per year without accounting for compounding.</dd>
+<dt>Effective Interest</dt>
+<dd>The amount of interest accrued per year after accounting for compounding.</dd>
+</dl>
+
+<h3>Determining Yield</h3>
+
+<p>The <em>yield</em> on an investment is the amount of money that is returned to the owner at the end of the term. In short, it's how much you get back on your investment.</p>
+<p>Naturally, this is a number that people care a lot about. The whole point of making an investment is to get a yield. There are a number of different ways to calculate an investment's yield, though. You may get slightly different numbers using different methods, so it's important to make sure that you use the same method when you are comparing yields. This section will address the yield calculation methods you are most likely to encounter, though there are many more.</p>
+
+<h3>Change-In-Value</h3>
+
+<p>The most basic type of yield calculation is the change-in-value calculation. This is simply the change in value (FV minus PV) divided by the PV times 100%. This calculation measures how different the FV is from the PV as a percentage of PV.</p>
+
+<div class='clFormula'>$\text{Percentage Change} = \large{\frac{\Delta V}{V_1}  = \frac{V_2 - V_1}{V_1} \times 100}$</div>
+
+<div><b><i>Percent Change</i></b></div>
+<p>The percent change in value is the change in value from PV to FV (V2 to V1) divided by PV (V1) times 100%.</i></p>
+
+<h3>Annual Percentage Rate</h3>
+
+<p>Another common way of calculating yield is to determine the Annual Percentage Rate, or APR. You may have heard of APR from ads for car loans or credit cards. These generally have monthly loans or fees, but if you want to get an idea of how much you will accrue in interest per year, you need to calculate an APR. Nominal APR is simply the interest rate multiplied by the number of payment periods per year. However, since interest compounds, nominal APR is not a very accurate measure of the amount of interest you actually accrue.</p>
+
+<h3>Effective Annual Rate</h3>
+
+<p>To find the effective APR, the actual amount of interest you would accrue per year, we use the Effective Annual Rate, or EAR.</p>
+
+<div class='clFormula'>$EAR = \Big(1 + \Large  \frac{\Large APR}{n}\Big)^n - 1$</div>
+
+<div><b><i>EAR</i></b></div>
+<p><i>The Effective Annual Rate is the amount of interest actually accrued per year based on the APR. n is the number of compounding periods of APR per year.</i></p>
+
+<p>For example, you may see an ad that says you can get a car loan at an APR of 10% compounded monthly. That means that APR=.10 and n=12 (the APR compounds 12 times per year). That means the EAR is 10.47%.</p>
+<p>The EAR is a form of the Annual Percentage Yield (APY). APY may also be calculated using interest rates other than APR, so a more general formula is in . The logic behind calculating APY is the same as that used when calculating EAR: we want to know how much you actually accrue in interest per year. Interest usually compounds, so there is a difference between the nominal interest rate (e.g. monthly interest times 12) and the effective interest rate.</p>
+
+<div class='clFormula'>$APY = \Big(1 + \Large  \frac{\LARGE i_{nom}}{N}\Big)^N - 1$</div>
+
+<div><b><i>Annual Percentage Yield</i></b></div>
+<p><i>The Annual Percentage Yield is a way or normalizing the nominal interest rate. Basically, it is a way to account for the time factor in order to get a more accurate number for the actual interest rate.inom is the nominal interest rate.N is the number of compounding periods per year.</i></p>
+
+<h3 id='concept_278'>5.7.2. Calculating the Yield of an Annuity</h3>
+
+<blockquote>The yield of an annuity is commonly found using either the percent change in the value from PV to FV, or the internal rate of return.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the yield of an annuity using the internal rate of return method</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The yield of an annuity may be found by discounting to find the PV, and then finding the percentage change from the PV to the FV.</li>
+<li>The Internal Rate of Return (IRR) is the discount rate at which the NPV of an investment equals 0.</li>
+<li>The IRR calculates an annualized yield of an annuity.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Net Present Value (NPV)</dt>
+<dd>The present value of a project or an investment decision determined by summing the discounted incoming and outgoing future cash flows resulting from the decision.</dd>
+<dt>Internal Rate of Return (IRR)</dt>
+<dd>The discount rate that will cause the NPV of an investment to equal 0.</dd>
+<dt>yield</dt>
+<dd>In finance, the term yield describes the amount in cash that returns to the owners of a security. Normally it does not include the price variations, at the difference of the total return. Yield applies to various stated rates of return on stocks (common and preferred, and convertible), fixed income instruments (bonds, notes, bills, strips, zero coupon), and some other investment type insurance products</dd>
+</dl>
+
+<p>The yield of annuity can be calculated in similar ways to the yield for a single payment, but two methods are most common.</p>
+<p>The first is the standard percentage-change method. Just as for a single payment, this method calculated the percentage difference between the FV and the PV. Since annuities include multiple payments over the lifetime of the investment, the PV (or V<sub>1</sub> in is the present value of the <em>entire</em> investment, not just the first payment.</p>
+<p>The second popular method is called the internal rate of return (IRR). The IRR is the interest rate (or discount rate) that causes the Net Present Value (NPV) of the annuity to equal 0. That means that the PV of the cash outflows equals the PV of the cash inflows. The higher the IRR, the more desirable is the investment. In theory, you should make investment with an IRR greater than the cost of capital.</p>
+<p>Let's take an example investment: It is not technically an annuity because the payments vary, but still is a good example for how to find IRR:</p>
+<p>Suppose you have a potential investment that would require you to make a \$4,000 investment today, but would return cash flows of \$1,200, \$1,410, \$1,875, and \$1,050 in the four successive years. This investment has an implicit rate of return, but you don't know what it is. You plug the numbers into the NPV formula and set NPV equal to 0. You then solve for r, which is your IRR (it's not easy to solve this problem by hand. You will likely need to use a business calculator or Excel). When r = 14.3%, NPV = 0, so therefore the IRR of the investment is 14.3%.</p>
+
+<div class='clFormula'>$NPV = -4000 + \large{\frac{1200}{(1+r)^1} + \frac{1410}{(1+r)^2} + \frac{1875}{(1+r)^3} + \frac{1050}{(1+r)^4}} = 0$</div>
+
+<div><b><i>IRR Example</i></b></div>
+<p><i>The setup to find the IRR of the investment with cash flows of -4000, 1200, 1410, 1875, and 1050. By setting NPV = 0 and solving for r, you can find the IRR of this investment.</i></p>
+
+</div>
+</div>
+</body>
+</html>

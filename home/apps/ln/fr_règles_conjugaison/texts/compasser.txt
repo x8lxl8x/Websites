@@ -1,0 +1,191 @@
+# compasser %[clVerbGroup|1]
+[-
+mesurer avec un compas. 
+organiser minutieusement, sans spontanéité (pour un comportement, un style) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|compass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|compass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|compass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||compass%[m|é]|
+|ayant|compass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en compass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|compass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|compass%[m|e]|
+|tu|compass%[m|es]|
+|il|compass%[m|e]|
+|nous|compass%[m|ons]|
+|vous|compass%[m|ez]|
+|ils|compass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|compass%[m|é]|
+|tu|as |compass%[m|é]|
+|il|a|compass%[m|é]|
+|nous|avons|compass%[m|é]|
+|vous|avez|compass%[m|é]|
+|ils|ont|compass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|compass%[m|ais]|
+|tu|compass%[m|ais]|
+|il|compass%[m|ait]|
+|nous|compass%[m|ions]|
+|vous|compass%[m|iez]|
+|ils|compass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|compass%[m|é]|
+|tu|avais|compass%[m|é]|
+|il|avait|compass%[m|é]|
+|nous|avions|compass%[m|é]|
+|vous|aviez|compass%[m|é]|
+|ils|avaient|compass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|compass%[m|ai]|
+|tu|compass%[m|as]|
+|il|compass%[m|a]|
+|nous|compass%[m|âmes]|
+|vous|compass%[m|âtes]|
+|ils|compass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|compass%[m|é]|
+|tu|eus|compass%[m|é]|
+|il|eut|compass%[m|é]|
+|nous|e&ucirc;mes|compass%[m|é]|
+|vous|e&ucirc;tes|compass%[m|é]|
+|ils|eurent|compass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|compass%[m|erai]|
+|tu|compass%[m|eras]|
+|il|compass%[m|era]|
+|nous|compass%[m|erons]|
+|vous|compass%[m|erez]|
+|ils|compass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|compass%[m|é]|
+|tu|auras|compass%[m|é]|
+|il|aura|compass%[m|é]|
+|nous|aurons|compass%[m|é]|
+|vous|aurez|compass%[m|é]|
+|ils|auront|compass%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|compass%[m|erais]|
+|tu|compass%[m|erais]|
+|il|compass%[m|erait]|
+|nous|compass%[m|erions]|
+|vous|compass%[m|eriez]|
+|ils|compass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|compass%[m|é]|
+|tu|aurais|compass%[m|é]|
+|il|aurait|compass%[m|é]|
+|nous|aurions|compass%[m|é]|
+|vous|auriez|compass%[m|é]|
+|ils|auraient|compass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|compass%[m|e]|
+|que|tu|compass%[m|es]|
+|qu'|il|compass%[m|e]|
+|que|nous|compass%[m|ions]|
+|que|vous|compass%[m|iez]|
+|qu'|ils|compass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|compass%[m|é]|
+|que|tu|aies|compass%[m|é]|
+|qu'|il|ait|compass%[m|é]|
+|que|nous|ayons|compass%[m|é]|
+|que|vous|ayez|compass%[m|é]|
+|qu'|ils|aient|compass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|compass%[m|asse]|
+|que|tu|compass%[m|asses]|
+|qu'|il|compass%[m|ât]|
+|que|nous|compass%[m|assions]|
+|que|vous|compass%[m|assiez]|
+|qu'|ils|compass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|compass%[m|é]|
+|que|tu|eusses|compass%[m|é]|
+|qu'|il|eût|compass%[m|é]|
+|que|nous|eussions|compass%[m|é]|
+|que|vous|eussiez|compass%[m|é]|
+|qu'|ils|eussent|compass%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|compass%[m|e]|
+|compass%[m|ons]|
+|compass%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|compass%[m|é]|
+|ayons|compass%[m|é]|
+|ayez|compass%[m|é]|
+|]
+

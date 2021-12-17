@@ -1,0 +1,385 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./32.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./34.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Equity Collar</h1>
+
+<p>The <i>equity collar</i> or sometimes just <i>collar</i>
+is a popular strategy among institutional and floor
+traders.&nbsp; It can also a great strategy for retail
+investors, although most are unfamiliar with it.&nbsp; </p>
+<p>Equity collars involves long stock paired with a long
+put and short call to provide <u>limited</u> upside
+profits in exchange for <u>limited</u> downside losses.</p>
+<h2>Equity collar example:</h2>
+<p>Assume an investor is long 1,000 shares of stock at
+$100.&nbsp; He is willing to sell the stock at $105, but is
+also worried about the downside risk.&nbsp; He could sell the
+$105 calls, and use those proceeds to finance the long
+$95 puts.&nbsp; These three positions, long stock, short
+call, and long put make up an equity collar.</p>
+<p>There is no reason this investor must sell the $105
+call and buy the $95 put.&nbsp; Instead, he could sell the
+$100 call and buy the $100 put, or sell the $110 call
+and buy the $100 put.&nbsp; There are many ways to position
+the collar including out-of-the-money, at-the-money and
+in-the-money options.&nbsp; Each has a unique set of risks
+and rewards and we will look at many variations.</p>
+<p>First, notice a couple of things about the collar.&nbsp;
+The above investor was long stock and then sold the $105
+calls -- a covered call position.&nbsp; However, the risk of
+a covered call is to the downside (please see our
+section on &quot;Covered Calls&quot; and &quot;Synthetics&quot; if you are
+not sure why).&nbsp; So to reduce the downside risk, the
+investor used the proceeds from the sale of the calls to
+buy the puts.&nbsp; </p>
+<p>If the stock rises above $105, he will be forced to
+sell his stock for $105 per share regardless of how high
+it goes.&nbsp; But if the stock falls, he can always elect to
+sell the shares for $95 per share.</p>
+<p>From a profit and loss standpoint, the collar looks
+like this:</p>
+
+<img width='300px' src='../images/040.gif'>
+
+<p>We are assuming this investor paid $100 per share for
+the stock, sold the calls, and bought the puts for a
+credit of $1.&nbsp; If the stock falls below $95, he will
+exercise the put and receive $95 for a total profit of
+$96 after taking into account the $1 credit.&nbsp; Bear in
+mind that the investor paid $100 for the stock, so this
+is still a $4 loss overall.</p>
+<p>If the stock rises above $105, he will be assigned on
+the short calls and be forced to sell the stock for
+$105.&nbsp; With the $1 credit, this yields a profit of $106
+for any stock price above $105.&nbsp; Because the investor
+paid $100 for the stock, a $6 profit is made for any
+stock price above $105.</p>
+<p>Sometimes it is easier to view the profit and loss
+diagram to take into account the cost of the stock.&nbsp; We
+can view the above chart by subtracting out the $100
+cost for the stock and see the true profits and losses
+for all stock prices:</p>
+
+<img width='300px' src='../images/041.gif'>
+
+<p>If you read our section on &quot;Basic Spreads&quot; and
+&quot;Synthetics,&quot; you may have noticed the above profit and
+loss diagram looks very much like a bull spread.&nbsp; In
+fact, the collar strategy is a synthetic bull spread.&nbsp;
+Also, you may remember the three-sided position used by
+market makers called a <i>conversion</i>.&nbsp; Because the
+strike prices are unequal in this example, this strategy
+is sometimes called a <i>split-price conversion</i>.</p>
+<p>If you're still not sure why it is the same as a bull
+spread, the following may help.&nbsp; Keep in mind that a
+bull spread with the above positions would be long $95
+call and short $105 call.</p>
+<p>Collar = Long stock + long $95 put + short $105 call</p>
+<p>Synthetically, the long $95 put = short stock + long
+$95 call </p>
+<p>So replace the long $95 put with short stock and long
+$95 call as follows:</p>
+<p>Collar = Long stock + (short stock + long $95 call) +
+short $105 call</p>
+<p>The long and short stock cancel out and you're left
+with a long $95 call + short $105 call -- a bull spread.</p>
+<h2>Collars for credits or debits?</h2>
+<p>There are many investors who believe the best
+strategy with collars is to execute them for credits.&nbsp;
+After all, why not get paid to have the long put and
+short call position?</p>
+<p>Investors who believe this are not understanding
+profit and losses with the total position.&nbsp; If you
+execute a collar for a credit versus a debit with all
+else the same, you will open the doors to a larger
+loss.&nbsp; Once you understand synthetics, you will see you
+are <u>paying</u> for the credit synthetically by
+allowing a larger loss potential.&nbsp; This is not to say
+that it is not a good strategy to execute for credits.
+Just be sure that you understand the total picture, and
+that it is in line with your expectations on the stock.&nbsp;
+In other words, do not execute for credits if your
+bigger concern is the downside risk of the stock.</p>
+<p>Let's run through several examples to make sure you
+understand it.</p>
+<p>Corning (GLW) is currently trading for $59-3/4 with
+the following option quotes for January (approximately 2
+months to expiration):</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table6'>
+<tr>
+<td rowSpan='2' v>&nbsp;</td>
+<td colSpan='3' v>
+<p align='center'><b>Calls</b></td>
+<td colSpan='3' v>
+<p align='center'><b>Puts</b></td>
+</tr>
+<tr>
+<td colSpan='2' v>
+<p align='center'><b>Bid</b></td>
+<td v>
+<p align='center'><b>Ask</b></td>
+<td v>
+<p align='center'><b>Bid</b></td>
+<td colSpan='2' v>
+<p align='center'><b>Ask</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan $50</b></td>
+<td v>
+<p align='center'>13 5/8</td>
+<td colSpan='2' v>
+<p align='center'>14 3/8</td>
+<td colSpan='2' v>
+<p align='center'>4</td>
+<td v>
+<p align='center'>4 3/8</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan $55</b></td>
+<td v>
+<p align='center'>11</td>
+<td colSpan='2' v>
+<p align='center'>11 3/4</td>
+<td colSpan='2' v>
+<p align='center'>5 7/8</td>
+<td v>
+<p align='center'>6 3/8</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan $60</b></td>
+<td v>
+<p align='center'>8 1/2</td>
+<td colSpan='2' v>
+<p align='center'>8 3/4</td>
+<td colSpan='2' v>
+<p align='center'>8 1/4</td>
+<td v>
+<p align='center'>8 3/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan $65</b></td>
+<td v>
+<p align='center'>6 1/4</td>
+<td colSpan='2' v>
+<p align='center'>6 3/4</td>
+<td colSpan='2' v>
+<p align='center'>10 7/8</td>
+<td v>
+<p align='center'>11 5/8</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Jan $70</b></td>
+<td v>
+<p align='center'>4 3/4</td>
+<td colSpan='2' v>
+<p align='center'>5 1/8</td>
+<td colSpan='2' v>
+<p align='center'>14 1/8</td>
+<td v>
+<p align='center'>14 7/8</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<h2>Same strike collars (Conversions)</h2>
+<p>Say an investor buys 1,000 shares and sells 10 $60
+calls and buys 10 $60 puts -- a collar with both strike
+prices the same.&nbsp; If you read our section on synthetic
+options, you will recognize this strategy as a <i>
+conversion</i>.</p>
+<p>The investor will pay $59-3/4 for the stock, receive
+$8-1/2 for the call (the bid) and pay $8-3/4 (the ask)
+for the put.&nbsp; The options (not counting commissions)
+cost 1/4 point.&nbsp; The most this investor will gain on the
+stock is 1/4 of a point if the stock rises above $60 at
+expiration.&nbsp; But because it cost 1/4 to establish the
+collar, there is no net gain from the position; it is
+effectively locked at $60.</p>
+<p>This investor is guaranteed to receive $60 at
+expiration in two months.&nbsp; If the stock is above $60, he
+will be assigned on the short calls and receive $60; if
+it closes below $60, he will exercise the puts and
+receive $60.&nbsp; </p>
+<p>Notice that the investor's cost basis is also raised
+by 1/4 point.&nbsp; He paid $59-3/4 and paid 1/4 point for
+the options for a total of $60.</p>
+<p>What does this cost?&nbsp; If interest rates are roughly
+5%, then $60 * 5% * 2 months (2/12 year)= 1/2 point.&nbsp;
+So, strictly from a monetary standpoint, this collar is
+not a good strategy, as it will cost you 1/2 point in
+lost interest.&nbsp; Basically, this investor is buying stock
+today for $60, and guaranteeing the sale in two months
+at $60 for no money, as he will be losing out on
+interest he could be earning if he just sold the stock
+today.</p>
+<p>Now, this may be a good strategy for someone who is
+deferring a sale of stock.&nbsp; In the past, this was done
+with a box position where the investor would short 1,000
+shares against their long 1,000 effectively locking in
+the current price, as did our collar trader above.&nbsp;
+Recent tax law changes have effectively eliminated the
+box position as a tax advantaged trade.&nbsp; But we can
+still execute it synthetically.&nbsp; Notice that the trader
+is long shares at an effective price of $60.&nbsp; The short
+$60 call and long $60 put constitute a synthetic <u>
+short</u> position.&nbsp; So the investor truly is long and
+short the same stock -- a box position.&nbsp; This is exactly
+why our trader will not profit -- or lose -- anything
+from the above collar.</p>
+<h2>Collars for credits</h2>
+<p>Say our same investor, instead, chose to sell the $60
+call for $8-1/2 but buy the $55 put for $6-3/8.&nbsp; Now, he
+has a credit of $2-1/8 effectively, reducing the cost
+basis on the stock by this amount to $57-5/8 ($59-3/4 -
+$2-1/8 = $57-5/8).&nbsp; Notice, though, that his &quot;insurance&quot;
+from the put doesn't start until $55, so he can still
+lose $2-5/8 points (he pays $57-5/8 and sells for $55)
+if he exercises these puts.&nbsp; This is what we were
+referring to when we said traders who execute collars
+for credits wind up paying for it by additional downside
+risk.</p>
+<p>The trader who executed the collar for a net zero had
+no downside risk, but when executed for a credit, now
+has a $2-5/8 risk.&nbsp; This is exactly why the market will
+&quot;pay&quot; you credits for this type of collar.&nbsp; Effectively
+this credit trader is assuming a &quot;deductible&quot; of
+$2-5/8.&nbsp; Notice too that the market only paid him $2-1/8
+for it.&nbsp; Again, the credit collars do not come for free.</p>
+<p>This is a great strategy if the trader is very
+fearful of downside risk below $55 yet willing to sell
+his stock for $60.&nbsp; He will profit by the $2-1/8 credit
+if the stock sits flat through expiration.</p>
+<h2>Collars for debits</h2>
+<p>Now let's assume the trader sells the $70 call for
+$4-3/4 and buys the $60 put for $8 3/4 for a net debit
+of $4.&nbsp; Now the cost basis on the stock is raised from
+$59-3/4 to $63-3/4.&nbsp; In exchange, he can sell his stock
+for $60 for a $3-3/4 loss, but may be forced to sell the
+stock for $70 realizing a $6-1/4 profit.</p>
+<p>This time, the trader is allowing a larger loss --
+$3-3/4 instead of $2-5/8.&nbsp; Why did this happen when he
+paid a debit to begin with?&nbsp; This is due to the fact
+that the $70 out-of-the-money call was sold.&nbsp; The trader
+wants more profit if the stock rises,&nbsp; because all else
+being equal, all investors would rather have more profit
+than not. The markets will effectively charge you for
+that privilege.</p>
+<p>Notice that <u>no</u> collar combination will prevent
+a loss!&nbsp; This is due to the fact that the markets will
+not assume the risk for free.&nbsp; If you buy the stock at
+$59-3/4, no matter which combination of short calls and
+long puts you choose, you must accept some downside risk
+after accounting for the debits or credits from the
+collar.&nbsp; If you buy the $60 put for $8-3/4, you just
+bumped your cost basis to $68-1/2.&nbsp; True, you are
+guaranteed to be able to sell your stock at $60 but this
+leaves a loss of $8- 1/2 points.&nbsp; By selling calls
+against the long put position, it will <u>lessen</u> the
+expense of the put, but never to the point of no loss.&nbsp;
+Even with the zero debit at-the-money collar we looked
+at earlier, the trader still lost on foregone interest
+and retained no upside potential in the stock.</p>
+<p>The only time a collar can lock in a profit is if the
+trader had purchased the stock previously at a lower
+price, say, $50.&nbsp; With the above prices, he can now
+execute a number of collars to guarantee a profit and
+still leave upside potential.&nbsp; But this still doesn't
+come for free either, as the trader was holding the
+stock for some time and assuming <u>all</u> off the
+downside risk.&nbsp; Now that the stock has moved in his
+favor, he may be able to lock in gains with a collar.</p>
+<p>This is when collars are especially attractive.&nbsp;
+Consider using them when you have significant profits
+especially if there is a big announcement such as
+earnings that may cause the stock to plummet.&nbsp; The
+collar can still yield healthy upside potential while
+greatly reducing downside risk.</p>
+<h2>Collar comparisons</h2>
+<p>The following chart shows four of many possible
+combinations of collars that could be constructed from
+the above option quotes.&nbsp; There are two important things
+to notice:&nbsp; (1) None of the collars prevent a loss, and
+(2) The higher the debit, the <u>lower</u> the loss and
+the <u>higher</u> the reward.&nbsp; This confirms what we
+said earlier when it was noted that a trader who places
+collars for credits is allowing for more downside risk.&nbsp;
+Notice in the chart how the trader receiving the $6-5/8
+credit has the lowest profit and highest loss.&nbsp; Again,
+this does not mean that it is not a good strategy to
+execute for credits.&nbsp; Just be sure you understand that
+it does not come for free.</p>
+
+<img width='300px' src='../images/042.gif'>
+
+<h2>Reverse equity collars</h2>
+<p>We mentioned earlier that equity collars are actually
+bull spreads.&nbsp; This allows the investor, in most cases,
+to participate in additional upside in the stock as well
+as reduce the downside exposure.&nbsp; What if the investor's
+main concern is the downside?&nbsp; Is there a way to hedge
+that portion in exchange for the upside gains?&nbsp; Yes, and
+that is called a <i>reverse equity collar</i>.</p>
+<p>In order to execute a reverse equity collar, one
+needs only to buy the higher strike put and sell the
+lower strike call -- an in-the-money collar.&nbsp; Notice
+how, up until now, we have always purchased the put with
+a lower strike, and sold a call with a higher strike.&nbsp;
+This will always net a synthetic bull spread.&nbsp; If we
+execute the reverse, we end up with a synthetic bear
+spread.</p>
+<p>Using the option quotes in the above box, let's
+assume a trader buys stock at $59-3/4, buys the $65 put
+for $11-5/8, and sells the $55 call for $11 for a net
+debit of $5/8.&nbsp; The following chart shows the profit and
+loss diagram for a reverse equity collar:</p>
+
+<img width='300px' src='../images/043.gif'>
+
+<p>Notice how the chart favors the downside; that is, it
+becomees more profitable as the stock falls, which is
+not the case with a regular collar.</p>
+<p>Once again, this shows just how versatile options can
+be, and why all investors should take the time to
+understand them.</p>
+<p>Collars are fairly complex in that they require three
+positions.&nbsp; Most brokerage firms will require level 1
+option approval level to place a collar and they can be
+used in an Individual Retirement Account (IRA).&nbsp; They
+are fairly simple to understand once you become familiar
+with them, and a powerful hedging tool to add to your
+list of tactics.</p>
+
+</div>
+</div>
+</body>
+</html>

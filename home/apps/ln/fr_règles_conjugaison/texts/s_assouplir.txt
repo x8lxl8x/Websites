@@ -1,0 +1,191 @@
+# s'assouplir %[clVerbGroup|2]
+[-
+rendre plus souple. 
+rendre moins rigide une règle. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'assoupl%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|assoupl%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'assoupl%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|assoupl%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'assoupl%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|assoupl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|assoupl%[m|is]|
+|tu|t'|assoupl%[m|is]|
+|il|s'|assoupl%[m|it]|
+|nous|nous|assoupl%[m|issons]|
+|vous|vous|assoupl%[m|issez]|
+|ils|s'|assoupl%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|assoupl%[m|i]|
+|tu|t'|es|assoupl%[m|i]|
+|il|s'|est|assoupl%[m|i]|
+|nous|nous|sommes|assoupl%[m|is]|
+|vous|vous|êtes|assoupl%[m|is]|
+|ils|se|sont|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|assoupl%[m|issais]|
+|tu|t'|assoupl%[m|issais]|
+|il|s'|assoupl%[m|issait]|
+|nous|nous|assoupl%[m|issions]|
+|vous|vous|assoupl%[m|issiez]|
+|ils|s'|assoupl%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|assoupl%[m|i]|
+|tu|t'|étais|assoupl%[m|i]|
+|il|s'|était|assoupl%[m|i]|
+|nous|nous|étions|assoupl%[m|is]|
+|vous|vous|étiez|assoupl%[m|is]|
+|ils|s'|étaient|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|assoupl%[m|is]|
+|tu|t'|assoupl%[m|is]|
+|il|s'|assoupl%[m|it]|
+|nous|nous|assoupl%[m|îmes]|
+|vous|vous|assoupl%[m|îtes]|
+|ils|s'|assoupl%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|assoupl%[m|i]|
+|tu|te|fus|assoupl%[m|i]|
+|il|se|fut|assoupl%[m|i]|
+|nous|nous|fûmes|assoupl%[m|is]|
+|vous|vous|fûtes|assoupl%[m|is]|
+|ils|se|furent|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|assoupl%[m|irai]|
+|tu|t'|assoupl%[m|iras]|
+|il|s'|assoupl%[m|ira]|
+|nous|nous|assoupl%[m|irons]|
+|vous|vous|assoupl%[m|irez]|
+|ils|s'|assoupl%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|assoupl%[m|i]|
+|tu|te|seras|assoupl%[m|i]|
+|il|se|sera|assoupl%[m|i]|
+|nous|nous|serons|assoupl%[m|is]|
+|vous|vous|serez|assoupl%[m|is]|
+|ils|se|seront|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|assoupl%[m|irais]|
+|tu|t'|assoupl%[m|irais]|
+|il|s'|assoupl%[m|irait]|
+|nous|nous|assoupl%[m|irions]|
+|vous|vous|assoupl%[m|iriez]|
+|ils|s'|assoupl%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|assoupl%[m|i]|
+|tu|te|serais|assoupl%[m|i]|
+|il|se|serait|assoupl%[m|i]|
+|nous|nous|serions|assoupl%[m|is]|
+|vous|vous|seriez|assoupl%[m|is]|
+|ils|se|seraient|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|assoupl%[m|isse]|
+|que|tu|t'|assoupl%[m|isses]|
+|qu'|il|s'|assoupl%[m|isse]|
+|que|nous|nous|assoupl%[m|issions]|
+|que|vous|vous|assoupl%[m|issiez]|
+|qu'|ils|s'|assoupl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|assoupl%[m|i]|
+|que|tu|te|sois|assoupl%[m|i]|
+|qu'|il|se|soit|assoupl%[m|i]|
+|que|nous|nous|soyons|assoupl%[m|is]|
+|que|vous|vous|soyez|assoupl%[m|is]|
+|qu'|ils|se|soient|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|assoupl%[m|isse]|
+|que|tu|t'|assoupl%[m|isses]|
+|qu'|il|s'|assoupl%[m|ît]|
+|que|nous|nous|assoupl%[m|issions]|
+|que|vous|vous|assoupl%[m|issiez]|
+|qu'|ils|s'|assoupl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|assoupl%[m|i]|
+|que|tu|te|fusses|assoupl%[m|i]|
+|qu'|il|se|fût|assoupl%[m|i]|
+|que|nous|nous|fussions|assoupl%[m|is]|
+|que|vous|vous|fussiez|assoupl%[m|is]|
+|qu'|ils|se|fussent|assoupl%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assoupl%[m|is]-toi|
+|assoupl%[m|issons]-nous|
+|assoupl%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

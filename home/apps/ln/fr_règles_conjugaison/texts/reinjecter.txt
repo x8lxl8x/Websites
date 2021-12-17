@@ -1,0 +1,190 @@
+# réinjecter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|réinject%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|réinject%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|réinject%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||réinject%[m|é]|
+|ayant|réinject%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en réinject%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|réinject%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|réinject%[m|e]|
+|tu|réinject%[m|es]|
+|il|réinject%[m|e]|
+|nous|réinject%[m|ons]|
+|vous|réinject%[m|ez]|
+|ils|réinject%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|réinject%[m|é]|
+|tu|as |réinject%[m|é]|
+|il|a|réinject%[m|é]|
+|nous|avons|réinject%[m|é]|
+|vous|avez|réinject%[m|é]|
+|ils|ont|réinject%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|réinject%[m|ais]|
+|tu|réinject%[m|ais]|
+|il|réinject%[m|ait]|
+|nous|réinject%[m|ions]|
+|vous|réinject%[m|iez]|
+|ils|réinject%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|réinject%[m|é]|
+|tu|avais|réinject%[m|é]|
+|il|avait|réinject%[m|é]|
+|nous|avions|réinject%[m|é]|
+|vous|aviez|réinject%[m|é]|
+|ils|avaient|réinject%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|réinject%[m|ai]|
+|tu|réinject%[m|as]|
+|il|réinject%[m|a]|
+|nous|réinject%[m|âmes]|
+|vous|réinject%[m|âtes]|
+|ils|réinject%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|réinject%[m|é]|
+|tu|eus|réinject%[m|é]|
+|il|eut|réinject%[m|é]|
+|nous|e&ucirc;mes|réinject%[m|é]|
+|vous|e&ucirc;tes|réinject%[m|é]|
+|ils|eurent|réinject%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|réinject%[m|erai]|
+|tu|réinject%[m|eras]|
+|il|réinject%[m|era]|
+|nous|réinject%[m|erons]|
+|vous|réinject%[m|erez]|
+|ils|réinject%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|réinject%[m|é]|
+|tu|auras|réinject%[m|é]|
+|il|aura|réinject%[m|é]|
+|nous|aurons|réinject%[m|é]|
+|vous|aurez|réinject%[m|é]|
+|ils|auront|réinject%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|réinject%[m|erais]|
+|tu|réinject%[m|erais]|
+|il|réinject%[m|erait]|
+|nous|réinject%[m|erions]|
+|vous|réinject%[m|eriez]|
+|ils|réinject%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|réinject%[m|é]|
+|tu|aurais|réinject%[m|é]|
+|il|aurait|réinject%[m|é]|
+|nous|aurions|réinject%[m|é]|
+|vous|auriez|réinject%[m|é]|
+|ils|auraient|réinject%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|réinject%[m|e]|
+|que|tu|réinject%[m|es]|
+|qu'|il|réinject%[m|e]|
+|que|nous|réinject%[m|ions]|
+|que|vous|réinject%[m|iez]|
+|qu'|ils|réinject%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|réinject%[m|é]|
+|que|tu|aies|réinject%[m|é]|
+|qu'|il|ait|réinject%[m|é]|
+|que|nous|ayons|réinject%[m|é]|
+|que|vous|ayez|réinject%[m|é]|
+|qu'|ils|aient|réinject%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|réinject%[m|asse]|
+|que|tu|réinject%[m|asses]|
+|qu'|il|réinject%[m|ât]|
+|que|nous|réinject%[m|assions]|
+|que|vous|réinject%[m|assiez]|
+|qu'|ils|réinject%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|réinject%[m|é]|
+|que|tu|eusses|réinject%[m|é]|
+|qu'|il|eût|réinject%[m|é]|
+|que|nous|eussions|réinject%[m|é]|
+|que|vous|eussiez|réinject%[m|é]|
+|qu'|ils|eussent|réinject%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|réinject%[m|e]|
+|réinject%[m|ons]|
+|réinject%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|réinject%[m|é]|
+|ayons|réinject%[m|é]|
+|ayez|réinject%[m|é]|
+|]
+

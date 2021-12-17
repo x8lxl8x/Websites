@@ -1,0 +1,190 @@
+# emmarger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|emmarg%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|emmarg%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||emmarg%[m|é]|
+|ayant|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en emmarg%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|emmarg%[m|e]|
+|tu|emmarg%[m|es]|
+|il|emmarg%[m|e]|
+|nous|emmarg%[m|ons]|
+|vous|emmarg%[m|ez]|
+|ils|emmarg%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|emmarg%[m|é]|
+|tu|as |emmarg%[m|é]|
+|il|a|emmarg%[m|é]|
+|nous|avons|emmarg%[m|é]|
+|vous|avez|emmarg%[m|é]|
+|ils|ont|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|emmarg%[m|ais]|
+|tu|emmarg%[m|ais]|
+|il|emmarg%[m|ait]|
+|nous|emmarg%[m|ions]|
+|vous|emmarg%[m|iez]|
+|ils|emmarg%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|emmarg%[m|é]|
+|tu|avais|emmarg%[m|é]|
+|il|avait|emmarg%[m|é]|
+|nous|avions|emmarg%[m|é]|
+|vous|aviez|emmarg%[m|é]|
+|ils|avaient|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|emmarg%[m|ai]|
+|tu|emmarg%[m|as]|
+|il|emmarg%[m|a]|
+|nous|emmarg%[m|âmes]|
+|vous|emmarg%[m|âtes]|
+|ils|emmarg%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|emmarg%[m|é]|
+|tu|eus|emmarg%[m|é]|
+|il|eut|emmarg%[m|é]|
+|nous|e&ucirc;mes|emmarg%[m|é]|
+|vous|e&ucirc;tes|emmarg%[m|é]|
+|ils|eurent|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|emmarg%[m|erai]|
+|tu|emmarg%[m|eras]|
+|il|emmarg%[m|era]|
+|nous|emmarg%[m|erons]|
+|vous|emmarg%[m|erez]|
+|ils|emmarg%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|emmarg%[m|é]|
+|tu|auras|emmarg%[m|é]|
+|il|aura|emmarg%[m|é]|
+|nous|aurons|emmarg%[m|é]|
+|vous|aurez|emmarg%[m|é]|
+|ils|auront|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|emmarg%[m|erais]|
+|tu|emmarg%[m|erais]|
+|il|emmarg%[m|erait]|
+|nous|emmarg%[m|erions]|
+|vous|emmarg%[m|eriez]|
+|ils|emmarg%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|emmarg%[m|é]|
+|tu|aurais|emmarg%[m|é]|
+|il|aurait|emmarg%[m|é]|
+|nous|aurions|emmarg%[m|é]|
+|vous|auriez|emmarg%[m|é]|
+|ils|auraient|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|emmarg%[m|e]|
+|que|tu|emmarg%[m|es]|
+|qu'|il|emmarg%[m|e]|
+|que|nous|emmarg%[m|ions]|
+|que|vous|emmarg%[m|iez]|
+|qu'|ils|emmarg%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|emmarg%[m|é]|
+|que|tu|aies|emmarg%[m|é]|
+|qu'|il|ait|emmarg%[m|é]|
+|que|nous|ayons|emmarg%[m|é]|
+|que|vous|ayez|emmarg%[m|é]|
+|qu'|ils|aient|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|emmarg%[m|asse]|
+|que|tu|emmarg%[m|asses]|
+|qu'|il|emmarg%[m|ât]|
+|que|nous|emmarg%[m|assions]|
+|que|vous|emmarg%[m|assiez]|
+|qu'|ils|emmarg%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|emmarg%[m|é]|
+|que|tu|eusses|emmarg%[m|é]|
+|qu'|il|eût|emmarg%[m|é]|
+|que|nous|eussions|emmarg%[m|é]|
+|que|vous|eussiez|emmarg%[m|é]|
+|qu'|ils|eussent|emmarg%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emmarg%[m|e]|
+|emmarg%[m|ons]|
+|emmarg%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|emmarg%[m|é]|
+|ayons|emmarg%[m|é]|
+|ayez|emmarg%[m|é]|
+|]
+

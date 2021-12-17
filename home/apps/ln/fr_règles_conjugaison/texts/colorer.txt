@@ -1,0 +1,190 @@
+# colorer %[clVerbGroup|1]
+[-
+donner une certaine couleur, des couleurs plus vives à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|color%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|color%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|color%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||color%[m|é]|
+|ayant|color%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en color%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|color%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|color%[m|e]|
+|tu|color%[m|es]|
+|il|color%[m|e]|
+|nous|color%[m|ons]|
+|vous|color%[m|ez]|
+|ils|color%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|color%[m|é]|
+|tu|as |color%[m|é]|
+|il|a|color%[m|é]|
+|nous|avons|color%[m|é]|
+|vous|avez|color%[m|é]|
+|ils|ont|color%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|color%[m|ais]|
+|tu|color%[m|ais]|
+|il|color%[m|ait]|
+|nous|color%[m|ions]|
+|vous|color%[m|iez]|
+|ils|color%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|color%[m|é]|
+|tu|avais|color%[m|é]|
+|il|avait|color%[m|é]|
+|nous|avions|color%[m|é]|
+|vous|aviez|color%[m|é]|
+|ils|avaient|color%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|color%[m|ai]|
+|tu|color%[m|as]|
+|il|color%[m|a]|
+|nous|color%[m|âmes]|
+|vous|color%[m|âtes]|
+|ils|color%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|color%[m|é]|
+|tu|eus|color%[m|é]|
+|il|eut|color%[m|é]|
+|nous|e&ucirc;mes|color%[m|é]|
+|vous|e&ucirc;tes|color%[m|é]|
+|ils|eurent|color%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|color%[m|erai]|
+|tu|color%[m|eras]|
+|il|color%[m|era]|
+|nous|color%[m|erons]|
+|vous|color%[m|erez]|
+|ils|color%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|color%[m|é]|
+|tu|auras|color%[m|é]|
+|il|aura|color%[m|é]|
+|nous|aurons|color%[m|é]|
+|vous|aurez|color%[m|é]|
+|ils|auront|color%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|color%[m|erais]|
+|tu|color%[m|erais]|
+|il|color%[m|erait]|
+|nous|color%[m|erions]|
+|vous|color%[m|eriez]|
+|ils|color%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|color%[m|é]|
+|tu|aurais|color%[m|é]|
+|il|aurait|color%[m|é]|
+|nous|aurions|color%[m|é]|
+|vous|auriez|color%[m|é]|
+|ils|auraient|color%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|color%[m|e]|
+|que|tu|color%[m|es]|
+|qu'|il|color%[m|e]|
+|que|nous|color%[m|ions]|
+|que|vous|color%[m|iez]|
+|qu'|ils|color%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|color%[m|é]|
+|que|tu|aies|color%[m|é]|
+|qu'|il|ait|color%[m|é]|
+|que|nous|ayons|color%[m|é]|
+|que|vous|ayez|color%[m|é]|
+|qu'|ils|aient|color%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|color%[m|asse]|
+|que|tu|color%[m|asses]|
+|qu'|il|color%[m|ât]|
+|que|nous|color%[m|assions]|
+|que|vous|color%[m|assiez]|
+|qu'|ils|color%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|color%[m|é]|
+|que|tu|eusses|color%[m|é]|
+|qu'|il|eût|color%[m|é]|
+|que|nous|eussions|color%[m|é]|
+|que|vous|eussiez|color%[m|é]|
+|qu'|ils|eussent|color%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|color%[m|e]|
+|color%[m|ons]|
+|color%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|color%[m|é]|
+|ayons|color%[m|é]|
+|ayez|color%[m|é]|
+|]
+

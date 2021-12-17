@@ -1,0 +1,57 @@
+<style type='text/css'>
+body
+{
+  background:           #000000;
+  color:                #ffffff;
+}
+
+#idTime
+{
+  color:                #cccccc;
+  font-size:            2.000em;
+  margin:               0.500em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+#idCurrency
+{
+  margin:               1.000em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clSymbol
+{
+  color:                #cccccc;
+  font-size:            0.500em;
+  margin:              -1.000em 0.000em 1.500em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+.clValue
+{
+  font-size:            5.000em;
+  margin:               1.250em 0.000em 0.000em 0.000em;
+  padding:              0.000em 0.000em 0.000em 0.000em;
+}
+
+#idTopbar
+{
+  display:              none;
+}
+
+#idContent
+{
+  background:           #000000;
+  text-align:           center;
+}
+</style>
+
+<script>
+  var varElement = document.createElement('meta');
+  varElement.name = 'theme-color';
+  varElement.content = '#000000';
+  document.head.appendChild( varElement );
+</script>
+
+<div id='idTime'>{$strTime}&ensp;&ensp;{$strTimeUTC}</div>
+<div id='idCurrency'>{$strCurrencies}</div>

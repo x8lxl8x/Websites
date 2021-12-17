@@ -1,0 +1,34 @@
+/*------------------------------------------------------------------------------------------------*/
+
+td.zh
+{
+	font-family:		'Source Han Sans TW', 'Source Han Sans CN', sans-serif;
+	font-size:			1.250em;
+	line-height:		1.250em;
+	text-align:			left;
+	margin:				0.000em 0.000em 0.000em 0.000em;
+	padding:			0.000em 0.250em 0.000em 0.250em;
+	vertical-align:		middle;
+}
+
+td.ru
+{
+	text-align:			left;
+	margin:				0.000em 0.000em 0.000em 0.000em;
+	padding:			0.000em 0.250em 0.000em 0.250em;
+}
+
+td.hx
+{
+	color:				#000000;
+	font-size:			0.750em;
+}
+
+td.hx img
+{
+	margin:				0.000em 0.000em 0.000em 0.000em;
+	padding:			0.250em 0.250em 0.250em 0.250em;
+	vertical-align:		middle;
+}
+
+/*------------------------------------------------------------------------------------------------*/

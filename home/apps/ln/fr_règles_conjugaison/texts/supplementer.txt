@@ -1,0 +1,190 @@
+# supplémenter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|supplément%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|supplément%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|supplément%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||supplément%[m|é]|
+|ayant|supplément%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en supplément%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|supplément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|supplément%[m|e]|
+|tu|supplément%[m|es]|
+|il|supplément%[m|e]|
+|nous|supplément%[m|ons]|
+|vous|supplément%[m|ez]|
+|ils|supplément%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|supplément%[m|é]|
+|tu|as |supplément%[m|é]|
+|il|a|supplément%[m|é]|
+|nous|avons|supplément%[m|é]|
+|vous|avez|supplément%[m|é]|
+|ils|ont|supplément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|supplément%[m|ais]|
+|tu|supplément%[m|ais]|
+|il|supplément%[m|ait]|
+|nous|supplément%[m|ions]|
+|vous|supplément%[m|iez]|
+|ils|supplément%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|supplément%[m|é]|
+|tu|avais|supplément%[m|é]|
+|il|avait|supplément%[m|é]|
+|nous|avions|supplément%[m|é]|
+|vous|aviez|supplément%[m|é]|
+|ils|avaient|supplément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|supplément%[m|ai]|
+|tu|supplément%[m|as]|
+|il|supplément%[m|a]|
+|nous|supplément%[m|âmes]|
+|vous|supplément%[m|âtes]|
+|ils|supplément%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|supplément%[m|é]|
+|tu|eus|supplément%[m|é]|
+|il|eut|supplément%[m|é]|
+|nous|e&ucirc;mes|supplément%[m|é]|
+|vous|e&ucirc;tes|supplément%[m|é]|
+|ils|eurent|supplément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|supplément%[m|erai]|
+|tu|supplément%[m|eras]|
+|il|supplément%[m|era]|
+|nous|supplément%[m|erons]|
+|vous|supplément%[m|erez]|
+|ils|supplément%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|supplément%[m|é]|
+|tu|auras|supplément%[m|é]|
+|il|aura|supplément%[m|é]|
+|nous|aurons|supplément%[m|é]|
+|vous|aurez|supplément%[m|é]|
+|ils|auront|supplément%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|supplément%[m|erais]|
+|tu|supplément%[m|erais]|
+|il|supplément%[m|erait]|
+|nous|supplément%[m|erions]|
+|vous|supplément%[m|eriez]|
+|ils|supplément%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|supplément%[m|é]|
+|tu|aurais|supplément%[m|é]|
+|il|aurait|supplément%[m|é]|
+|nous|aurions|supplément%[m|é]|
+|vous|auriez|supplément%[m|é]|
+|ils|auraient|supplément%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|supplément%[m|e]|
+|que|tu|supplément%[m|es]|
+|qu'|il|supplément%[m|e]|
+|que|nous|supplément%[m|ions]|
+|que|vous|supplément%[m|iez]|
+|qu'|ils|supplément%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|supplément%[m|é]|
+|que|tu|aies|supplément%[m|é]|
+|qu'|il|ait|supplément%[m|é]|
+|que|nous|ayons|supplément%[m|é]|
+|que|vous|ayez|supplément%[m|é]|
+|qu'|ils|aient|supplément%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|supplément%[m|asse]|
+|que|tu|supplément%[m|asses]|
+|qu'|il|supplément%[m|ât]|
+|que|nous|supplément%[m|assions]|
+|que|vous|supplément%[m|assiez]|
+|qu'|ils|supplément%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|supplément%[m|é]|
+|que|tu|eusses|supplément%[m|é]|
+|qu'|il|eût|supplément%[m|é]|
+|que|nous|eussions|supplément%[m|é]|
+|que|vous|eussiez|supplément%[m|é]|
+|qu'|ils|eussent|supplément%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|supplément%[m|e]|
+|supplément%[m|ons]|
+|supplément%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|supplément%[m|é]|
+|ayons|supplément%[m|é]|
+|ayez|supplément%[m|é]|
+|]
+

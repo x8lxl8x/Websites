@@ -1,0 +1,190 @@
+# ressayer %[clVerbGroup|1]
+[-
+essayer de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ressa%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ressa%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ressa%[m|yé]|
+|ayant|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ressa%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|ressa%[m|ie]/ressa%[m|ye]|
+|tu|ressa%[m|ies]/ressa%[m|yes]|
+|il|ressa%[m|ie]/ressa%[m|ye]|
+|nous|ressa%[m|yons]|
+|vous|ressa%[m|yez]|
+|ils|ressa%[m|ient]/ressa%[m|yent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ressa%[m|yé]|
+|tu|as |ressa%[m|yé]|
+|il|a|ressa%[m|yé]|
+|nous|avons|ressa%[m|yé]|
+|vous|avez|ressa%[m|yé]|
+|ils|ont|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|ressa%[m|yais]|
+|tu|ressa%[m|yais]|
+|il|ressa%[m|yait]|
+|nous|ressa%[m|yions]|
+|vous|ressa%[m|yiez]|
+|ils|ressa%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ressa%[m|yé]|
+|tu|avais|ressa%[m|yé]|
+|il|avait|ressa%[m|yé]|
+|nous|avions|ressa%[m|yé]|
+|vous|aviez|ressa%[m|yé]|
+|ils|avaient|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|ressa%[m|yai]|
+|tu|ressa%[m|yas]|
+|il|ressa%[m|ya]|
+|nous|ressa%[m|yâmes]|
+|vous|ressa%[m|yâtes]|
+|ils|ressa%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ressa%[m|yé]|
+|tu|eus|ressa%[m|yé]|
+|il|eut|ressa%[m|yé]|
+|nous|e&ucirc;mes|ressa%[m|yé]|
+|vous|e&ucirc;tes|ressa%[m|yé]|
+|ils|eurent|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|ressa%[m|ierai]/ressa%[m|yerai]|
+|tu|ressa%[m|ieras]/ressa%[m|yeras]|
+|il|ressa%[m|iera]/ressa%[m|yera]|
+|nous|ressa%[m|ierons]/ressa%[m|yerons]|
+|vous|ressa%[m|ierez]/ressa%[m|yerez]|
+|ils|ressa%[m|ieront]/ressa%[m|yeront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ressa%[m|yé]|
+|tu|auras|ressa%[m|yé]|
+|il|aura|ressa%[m|yé]|
+|nous|aurons|ressa%[m|yé]|
+|vous|aurez|ressa%[m|yé]|
+|ils|auront|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|ressa%[m|ierais]/ressa%[m|yerais]|
+|tu|ressa%[m|ierais]/ressa%[m|yerais]|
+|il|ressa%[m|ierait]/ressa%[m|yerait]|
+|nous|ressa%[m|ierions]/ressa%[m|yerions]|
+|vous|ressa%[m|ieriez]/ressa%[m|yeriez]|
+|ils|ressa%[m|ieraient]/ressa%[m|yeraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ressa%[m|yé]|
+|tu|aurais|ressa%[m|yé]|
+|il|aurait|ressa%[m|yé]|
+|nous|aurions|ressa%[m|yé]|
+|vous|auriez|ressa%[m|yé]|
+|ils|auraient|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|ressa%[m|ie]/ressa%[m|ye]|
+|que|tu|ressa%[m|ies]/ressa%[m|yes]|
+|qu'|il|ressa%[m|ie]/ressa%[m|ye]|
+|que|nous|ressa%[m|yions]|
+|que|vous|ressa%[m|yiez]|
+|qu'|ils|ressa%[m|ient]/ressa%[m|yent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ressa%[m|yé]|
+|que|tu|aies|ressa%[m|yé]|
+|qu'|il|ait|ressa%[m|yé]|
+|que|nous|ayons|ressa%[m|yé]|
+|que|vous|ayez|ressa%[m|yé]|
+|qu'|ils|aient|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|ressa%[m|yasse]|
+|que|tu|ressa%[m|yasses]|
+|qu'|il|ressa%[m|yât]|
+|que|nous|ressa%[m|yassions]|
+|que|vous|ressa%[m|yassiez]|
+|qu'|ils|ressa%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ressa%[m|yé]|
+|que|tu|eusses|ressa%[m|yé]|
+|qu'|il|eût|ressa%[m|yé]|
+|que|nous|eussions|ressa%[m|yé]|
+|que|vous|eussiez|ressa%[m|yé]|
+|qu'|ils|eussent|ressa%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ressa%[m|ie]/ressa%[m|ye]|
+|ressa%[m|yons]|
+|ressa%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ressa%[m|yé]|
+|ayons|ressa%[m|yé]|
+|ayez|ressa%[m|yé]|
+|]
+

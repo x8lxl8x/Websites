@@ -1,0 +1,190 @@
+# refaçonner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|refaçonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|refaçonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||refaçonn%[m|é]|
+|ayant|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en refaçonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|refaçonn%[m|e]|
+|tu|refaçonn%[m|es]|
+|il|refaçonn%[m|e]|
+|nous|refaçonn%[m|ons]|
+|vous|refaçonn%[m|ez]|
+|ils|refaçonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|refaçonn%[m|é]|
+|tu|as |refaçonn%[m|é]|
+|il|a|refaçonn%[m|é]|
+|nous|avons|refaçonn%[m|é]|
+|vous|avez|refaçonn%[m|é]|
+|ils|ont|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|refaçonn%[m|ais]|
+|tu|refaçonn%[m|ais]|
+|il|refaçonn%[m|ait]|
+|nous|refaçonn%[m|ions]|
+|vous|refaçonn%[m|iez]|
+|ils|refaçonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|refaçonn%[m|é]|
+|tu|avais|refaçonn%[m|é]|
+|il|avait|refaçonn%[m|é]|
+|nous|avions|refaçonn%[m|é]|
+|vous|aviez|refaçonn%[m|é]|
+|ils|avaient|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|refaçonn%[m|ai]|
+|tu|refaçonn%[m|as]|
+|il|refaçonn%[m|a]|
+|nous|refaçonn%[m|âmes]|
+|vous|refaçonn%[m|âtes]|
+|ils|refaçonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|refaçonn%[m|é]|
+|tu|eus|refaçonn%[m|é]|
+|il|eut|refaçonn%[m|é]|
+|nous|e&ucirc;mes|refaçonn%[m|é]|
+|vous|e&ucirc;tes|refaçonn%[m|é]|
+|ils|eurent|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|refaçonn%[m|erai]|
+|tu|refaçonn%[m|eras]|
+|il|refaçonn%[m|era]|
+|nous|refaçonn%[m|erons]|
+|vous|refaçonn%[m|erez]|
+|ils|refaçonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|refaçonn%[m|é]|
+|tu|auras|refaçonn%[m|é]|
+|il|aura|refaçonn%[m|é]|
+|nous|aurons|refaçonn%[m|é]|
+|vous|aurez|refaçonn%[m|é]|
+|ils|auront|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|refaçonn%[m|erais]|
+|tu|refaçonn%[m|erais]|
+|il|refaçonn%[m|erait]|
+|nous|refaçonn%[m|erions]|
+|vous|refaçonn%[m|eriez]|
+|ils|refaçonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|refaçonn%[m|é]|
+|tu|aurais|refaçonn%[m|é]|
+|il|aurait|refaçonn%[m|é]|
+|nous|aurions|refaçonn%[m|é]|
+|vous|auriez|refaçonn%[m|é]|
+|ils|auraient|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|refaçonn%[m|e]|
+|que|tu|refaçonn%[m|es]|
+|qu'|il|refaçonn%[m|e]|
+|que|nous|refaçonn%[m|ions]|
+|que|vous|refaçonn%[m|iez]|
+|qu'|ils|refaçonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|refaçonn%[m|é]|
+|que|tu|aies|refaçonn%[m|é]|
+|qu'|il|ait|refaçonn%[m|é]|
+|que|nous|ayons|refaçonn%[m|é]|
+|que|vous|ayez|refaçonn%[m|é]|
+|qu'|ils|aient|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|refaçonn%[m|asse]|
+|que|tu|refaçonn%[m|asses]|
+|qu'|il|refaçonn%[m|ât]|
+|que|nous|refaçonn%[m|assions]|
+|que|vous|refaçonn%[m|assiez]|
+|qu'|ils|refaçonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|refaçonn%[m|é]|
+|que|tu|eusses|refaçonn%[m|é]|
+|qu'|il|eût|refaçonn%[m|é]|
+|que|nous|eussions|refaçonn%[m|é]|
+|que|vous|eussiez|refaçonn%[m|é]|
+|qu'|ils|eussent|refaçonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|refaçonn%[m|e]|
+|refaçonn%[m|ons]|
+|refaçonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|refaçonn%[m|é]|
+|ayons|refaçonn%[m|é]|
+|ayez|refaçonn%[m|é]|
+|]
+

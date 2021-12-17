@@ -1,0 +1,191 @@
+# s'empreindre %[clVerbGroup|3]
+[-
+marquer par pression sur une surface. 
+marquer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'emprei%[m|ndre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|emprei%[m|nt]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'emprei%[m|gnant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|emprei%[m|nt]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'emprei%[m|gnant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|emprei%[m|nt]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|emprei%[m|ns]|
+|tu|t'|emprei%[m|ns]|
+|il|s'|emprei%[m|nt]|
+|nous|nous|emprei%[m|gnons]|
+|vous|vous|emprei%[m|gnez]|
+|ils|s'|emprei%[m|gnent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|emprei%[m|nt]|
+|tu|t'|es|emprei%[m|nt]|
+|il|s'|est|emprei%[m|nt]|
+|nous|nous|sommes|emprei%[m|nts]|
+|vous|vous|êtes|emprei%[m|nts]|
+|ils|se|sont|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|emprei%[m|gnais]|
+|tu|t'|emprei%[m|gnais]|
+|il|s'|emprei%[m|gnait]|
+|nous|nous|emprei%[m|gnions]|
+|vous|vous|emprei%[m|gniez]|
+|ils|s'|emprei%[m|gnaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|emprei%[m|nt]|
+|tu|t'|étais|emprei%[m|nt]|
+|il|s'|était|emprei%[m|nt]|
+|nous|nous|étions|emprei%[m|nts]|
+|vous|vous|étiez|emprei%[m|nts]|
+|ils|s'|étaient|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|emprei%[m|gnis]|
+|tu|t'|emprei%[m|gnis]|
+|il|s'|emprei%[m|gnit]|
+|nous|nous|emprei%[m|gnîmes]|
+|vous|vous|emprei%[m|gnîtes]|
+|ils|s'|emprei%[m|gnirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|emprei%[m|nt]|
+|tu|te|fus|emprei%[m|nt]|
+|il|se|fut|emprei%[m|nt]|
+|nous|nous|fûmes|emprei%[m|nts]|
+|vous|vous|fûtes|emprei%[m|nts]|
+|ils|se|furent|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|emprei%[m|ndrai]|
+|tu|t'|emprei%[m|ndras]|
+|il|s'|emprei%[m|ndra]|
+|nous|nous|emprei%[m|ndrons]|
+|vous|vous|emprei%[m|ndrez]|
+|ils|s'|emprei%[m|ndront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|emprei%[m|nt]|
+|tu|te|seras|emprei%[m|nt]|
+|il|se|sera|emprei%[m|nt]|
+|nous|nous|serons|emprei%[m|nts]|
+|vous|vous|serez|emprei%[m|nts]|
+|ils|se|seront|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|emprei%[m|ndrais]|
+|tu|t'|emprei%[m|ndrais]|
+|il|s'|emprei%[m|ndrait]|
+|nous|nous|emprei%[m|ndrions]|
+|vous|vous|emprei%[m|ndriez]|
+|ils|s'|emprei%[m|ndraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|emprei%[m|nt]|
+|tu|te|serais|emprei%[m|nt]|
+|il|se|serait|emprei%[m|nt]|
+|nous|nous|serions|emprei%[m|nts]|
+|vous|vous|seriez|emprei%[m|nts]|
+|ils|se|seraient|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|emprei%[m|gne]|
+|que|tu|t'|emprei%[m|gnes]|
+|qu'|il|s'|emprei%[m|gne]|
+|que|nous|nous|emprei%[m|gnions]|
+|que|vous|vous|emprei%[m|gniez]|
+|qu'|ils|s'|emprei%[m|gnent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|emprei%[m|nt]|
+|que|tu|te|sois|emprei%[m|nt]|
+|qu'|il|se|soit|emprei%[m|nt]|
+|que|nous|nous|soyons|emprei%[m|nts]|
+|que|vous|vous|soyez|emprei%[m|nts]|
+|qu'|ils|se|soient|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|emprei%[m|gnisse]|
+|que|tu|t'|emprei%[m|gnisses]|
+|qu'|il|s'|emprei%[m|gnît]|
+|que|nous|nous|emprei%[m|gnissions]|
+|que|vous|vous|emprei%[m|gnissiez]|
+|qu'|ils|s'|emprei%[m|gnissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|emprei%[m|nt]|
+|que|tu|te|fusses|emprei%[m|nt]|
+|qu'|il|se|fût|emprei%[m|nt]|
+|que|nous|nous|fussions|emprei%[m|nts]|
+|que|vous|vous|fussiez|emprei%[m|nts]|
+|qu'|ils|se|fussent|emprei%[m|nts]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emprei%[m|ns]-toi|
+|emprei%[m|gnons]-nous|
+|emprei%[m|gnez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

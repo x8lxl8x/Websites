@@ -1,0 +1,190 @@
+# se farcir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se farc%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|farc%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se farc%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|farc%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se farc%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|farc%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|farc%[m|is]|
+|tu|te|farc%[m|is]|
+|il|se|farc%[m|it]|
+|nous|nous|farc%[m|issons]|
+|vous|vous|farc%[m|issez]|
+|ils|se|farc%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|farc%[m|i]|
+|tu|t'|es|farc%[m|i]|
+|il|s'|est|farc%[m|i]|
+|nous|nous|sommes|farc%[m|is]|
+|vous|vous|êtes|farc%[m|is]|
+|ils|se|sont|farc%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|farc%[m|issais]|
+|tu|te|farc%[m|issais]|
+|il|se|farc%[m|issait]|
+|nous|nous|farc%[m|issions]|
+|vous|vous|farc%[m|issiez]|
+|ils|se|farc%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|farc%[m|i]|
+|tu|t'|étais|farc%[m|i]|
+|il|s'|était|farc%[m|i]|
+|nous|nous|étions|farc%[m|is]|
+|vous|vous|étiez|farc%[m|is]|
+|ils|s'|étaient|farc%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|farc%[m|is]|
+|tu|te|farc%[m|is]|
+|il|se|farc%[m|it]|
+|nous|nous|farc%[m|îmes]|
+|vous|vous|farc%[m|îtes]|
+|ils|se|farc%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|farc%[m|i]|
+|tu|te|fus|farc%[m|i]|
+|il|se|fut|farc%[m|i]|
+|nous|nous|fûmes|farc%[m|is]|
+|vous|vous|fûtes|farc%[m|is]|
+|ils|se|furent|farc%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|farc%[m|irai]|
+|tu|te|farc%[m|iras]|
+|il|se|farc%[m|ira]|
+|nous|nous|farc%[m|irons]|
+|vous|vous|farc%[m|irez]|
+|ils|se|farc%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|farc%[m|i]|
+|tu|te|seras|farc%[m|i]|
+|il|se|sera|farc%[m|i]|
+|nous|nous|serons|farc%[m|is]|
+|vous|vous|serez|farc%[m|is]|
+|ils|se|seront|farc%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|farc%[m|irais]|
+|tu|te|farc%[m|irais]|
+|il|se|farc%[m|irait]|
+|nous|nous|farc%[m|irions]|
+|vous|vous|farc%[m|iriez]|
+|ils|se|farc%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|farc%[m|i]|
+|tu|te|serais|farc%[m|i]|
+|il|se|serait|farc%[m|i]|
+|nous|nous|serions|farc%[m|is]|
+|vous|vous|seriez|farc%[m|is]|
+|ils|se|seraient|farc%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|farc%[m|isse]|
+|que|tu|te|farc%[m|isses]|
+|qu'|il|se|farc%[m|isse]|
+|que|nous|nous|farc%[m|issions]|
+|que|vous|vous|farc%[m|issiez]|
+|qu'|ils|se|farc%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|farc%[m|i]|
+|que|tu|te|sois|farc%[m|i]|
+|qu'|il|se|soit|farc%[m|i]|
+|que|nous|nous|soyons|farc%[m|is]|
+|que|vous|vous|soyez|farc%[m|is]|
+|qu'|ils|se|soient|farc%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|farc%[m|isse]|
+|que|tu|te|farc%[m|isses]|
+|qu'|il|se|farc%[m|ît]|
+|que|nous|nous|farc%[m|issions]|
+|que|vous|vous|farc%[m|issiez]|
+|qu'|ils|se|farc%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|farc%[m|i]|
+|que|tu|te|fusses|farc%[m|i]|
+|qu'|il|se|fût|farc%[m|i]|
+|que|nous|nous|fussions|farc%[m|is]|
+|que|vous|vous|fussiez|farc%[m|is]|
+|qu'|ils|se|fussent|farc%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|farc%[m|is]-toi|
+|farc%[m|issons]-nous|
+|farc%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

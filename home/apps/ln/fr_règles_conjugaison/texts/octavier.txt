@@ -1,0 +1,191 @@
+# octavier %[clVerbGroup|1]
+[-
+jouer l'octave haute de la note au lieu de la note elle-même. 
+jouer à une octave au-dessus. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|octavi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|octavi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|octavi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||octavi%[m|é]|
+|ayant|octavi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en octavi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|octavi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|octavi%[m|e]|
+|tu|octavi%[m|es]|
+|il|octavi%[m|e]|
+|nous|octavi%[m|ons]|
+|vous|octavi%[m|ez]|
+|ils|octavi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|octavi%[m|é]|
+|tu|as |octavi%[m|é]|
+|il|a|octavi%[m|é]|
+|nous|avons|octavi%[m|é]|
+|vous|avez|octavi%[m|é]|
+|ils|ont|octavi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|octavi%[m|ais]|
+|tu|octavi%[m|ais]|
+|il|octavi%[m|ait]|
+|nous|octavi%[m|ions]|
+|vous|octavi%[m|iez]|
+|ils|octavi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|octavi%[m|é]|
+|tu|avais|octavi%[m|é]|
+|il|avait|octavi%[m|é]|
+|nous|avions|octavi%[m|é]|
+|vous|aviez|octavi%[m|é]|
+|ils|avaient|octavi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|octavi%[m|ai]|
+|tu|octavi%[m|as]|
+|il|octavi%[m|a]|
+|nous|octavi%[m|âmes]|
+|vous|octavi%[m|âtes]|
+|ils|octavi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|octavi%[m|é]|
+|tu|eus|octavi%[m|é]|
+|il|eut|octavi%[m|é]|
+|nous|e&ucirc;mes|octavi%[m|é]|
+|vous|e&ucirc;tes|octavi%[m|é]|
+|ils|eurent|octavi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|octavi%[m|erai]|
+|tu|octavi%[m|eras]|
+|il|octavi%[m|era]|
+|nous|octavi%[m|erons]|
+|vous|octavi%[m|erez]|
+|ils|octavi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|octavi%[m|é]|
+|tu|auras|octavi%[m|é]|
+|il|aura|octavi%[m|é]|
+|nous|aurons|octavi%[m|é]|
+|vous|aurez|octavi%[m|é]|
+|ils|auront|octavi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|octavi%[m|erais]|
+|tu|octavi%[m|erais]|
+|il|octavi%[m|erait]|
+|nous|octavi%[m|erions]|
+|vous|octavi%[m|eriez]|
+|ils|octavi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|octavi%[m|é]|
+|tu|aurais|octavi%[m|é]|
+|il|aurait|octavi%[m|é]|
+|nous|aurions|octavi%[m|é]|
+|vous|auriez|octavi%[m|é]|
+|ils|auraient|octavi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|octavi%[m|e]|
+|que|tu|octavi%[m|es]|
+|qu'|il|octavi%[m|e]|
+|que|nous|octavi%[m|ions]|
+|que|vous|octavi%[m|iez]|
+|qu'|ils|octavi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|octavi%[m|é]|
+|que|tu|aies|octavi%[m|é]|
+|qu'|il|ait|octavi%[m|é]|
+|que|nous|ayons|octavi%[m|é]|
+|que|vous|ayez|octavi%[m|é]|
+|qu'|ils|aient|octavi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|octavi%[m|asse]|
+|que|tu|octavi%[m|asses]|
+|qu'|il|octavi%[m|ât]|
+|que|nous|octavi%[m|assions]|
+|que|vous|octavi%[m|assiez]|
+|qu'|ils|octavi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|octavi%[m|é]|
+|que|tu|eusses|octavi%[m|é]|
+|qu'|il|eût|octavi%[m|é]|
+|que|nous|eussions|octavi%[m|é]|
+|que|vous|eussiez|octavi%[m|é]|
+|qu'|ils|eussent|octavi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|octavi%[m|e]|
+|octavi%[m|ons]|
+|octavi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|octavi%[m|é]|
+|ayons|octavi%[m|é]|
+|ayez|octavi%[m|é]|
+|]
+

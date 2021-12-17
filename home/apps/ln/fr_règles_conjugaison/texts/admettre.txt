@@ -1,0 +1,193 @@
+# admettre %[clVerbGroup|3]
+[-
+accepter de recevoir quelqu'un. 
+considérer comme plausible, acceptable. 
+laisser entrer. 
+accepter, permettre que quelque chose se fasse. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|adm%[m|ettre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|adm%[m|is]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|adm%[m|ettant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||adm%[m|is]|
+|ayant|adm%[m|is]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en adm%[m|ettant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|adm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|adm%[m|ets]|
+|tu|adm%[m|ets]|
+|il|adm%[m|et]|
+|nous|adm%[m|ettons]|
+|vous|adm%[m|ettez]|
+|ils|adm%[m|ettent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|adm%[m|is]|
+|tu|as |adm%[m|is]|
+|il|a|adm%[m|is]|
+|nous|avons|adm%[m|is]|
+|vous|avez|adm%[m|is]|
+|ils|ont|adm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|adm%[m|ettais]|
+|tu|adm%[m|ettais]|
+|il|adm%[m|ettait]|
+|nous|adm%[m|ettions]|
+|vous|adm%[m|ettiez]|
+|ils|adm%[m|ettaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|adm%[m|is]|
+|tu|avais|adm%[m|is]|
+|il|avait|adm%[m|is]|
+|nous|avions|adm%[m|is]|
+|vous|aviez|adm%[m|is]|
+|ils|avaient|adm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|adm%[m|is]|
+|tu|adm%[m|is]|
+|il|adm%[m|it]|
+|nous|adm%[m|îmes]|
+|vous|adm%[m|îtes]|
+|ils|adm%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|adm%[m|is]|
+|tu|eus|adm%[m|is]|
+|il|eut|adm%[m|is]|
+|nous|e&ucirc;mes|adm%[m|is]|
+|vous|e&ucirc;tes|adm%[m|is]|
+|ils|eurent|adm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|adm%[m|ettrai]|
+|tu|adm%[m|ettras]|
+|il|adm%[m|ettra]|
+|nous|adm%[m|ettrons]|
+|vous|adm%[m|ettrez]|
+|ils|adm%[m|ettront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|adm%[m|is]|
+|tu|auras|adm%[m|is]|
+|il|aura|adm%[m|is]|
+|nous|aurons|adm%[m|is]|
+|vous|aurez|adm%[m|is]|
+|ils|auront|adm%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|adm%[m|ettrais]|
+|tu|adm%[m|ettrais]|
+|il|adm%[m|ettrait]|
+|nous|adm%[m|ettrions]|
+|vous|adm%[m|ettriez]|
+|ils|adm%[m|ettraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|adm%[m|is]|
+|tu|aurais|adm%[m|is]|
+|il|aurait|adm%[m|is]|
+|nous|aurions|adm%[m|is]|
+|vous|auriez|adm%[m|is]|
+|ils|auraient|adm%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|adm%[m|ette]|
+|que|tu|adm%[m|ettes]|
+|qu'|il|adm%[m|ette]|
+|que|nous|adm%[m|ettions]|
+|que|vous|adm%[m|ettiez]|
+|qu'|ils|adm%[m|ettent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|adm%[m|is]|
+|que|tu|aies|adm%[m|is]|
+|qu'|il|ait|adm%[m|is]|
+|que|nous|ayons|adm%[m|is]|
+|que|vous|ayez|adm%[m|is]|
+|qu'|ils|aient|adm%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|adm%[m|isse]|
+|que|tu|adm%[m|isses]|
+|qu'|il|adm%[m|ît]|
+|que|nous|adm%[m|issions]|
+|que|vous|adm%[m|issiez]|
+|qu'|ils|adm%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|adm%[m|is]|
+|que|tu|eusses|adm%[m|is]|
+|qu'|il|eût|adm%[m|is]|
+|que|nous|eussions|adm%[m|is]|
+|que|vous|eussiez|adm%[m|is]|
+|qu'|ils|eussent|adm%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|adm%[m|ets]|
+|adm%[m|ettons]|
+|adm%[m|ettez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|adm%[m|is]|
+|ayons|adm%[m|is]|
+|ayez|adm%[m|is]|
+|]
+

@@ -1,0 +1,190 @@
+# s'alourdir %[clVerbGroup|2]
+[-
+rendre plus lourd. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'alourd%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|alourd%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'alourd%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|alourd%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'alourd%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|alourd%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|alourd%[m|is]|
+|tu|t'|alourd%[m|is]|
+|il|s'|alourd%[m|it]|
+|nous|nous|alourd%[m|issons]|
+|vous|vous|alourd%[m|issez]|
+|ils|s'|alourd%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|alourd%[m|i]|
+|tu|t'|es|alourd%[m|i]|
+|il|s'|est|alourd%[m|i]|
+|nous|nous|sommes|alourd%[m|is]|
+|vous|vous|êtes|alourd%[m|is]|
+|ils|se|sont|alourd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|alourd%[m|issais]|
+|tu|t'|alourd%[m|issais]|
+|il|s'|alourd%[m|issait]|
+|nous|nous|alourd%[m|issions]|
+|vous|vous|alourd%[m|issiez]|
+|ils|s'|alourd%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|alourd%[m|i]|
+|tu|t'|étais|alourd%[m|i]|
+|il|s'|était|alourd%[m|i]|
+|nous|nous|étions|alourd%[m|is]|
+|vous|vous|étiez|alourd%[m|is]|
+|ils|s'|étaient|alourd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|alourd%[m|is]|
+|tu|t'|alourd%[m|is]|
+|il|s'|alourd%[m|it]|
+|nous|nous|alourd%[m|îmes]|
+|vous|vous|alourd%[m|îtes]|
+|ils|s'|alourd%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|alourd%[m|i]|
+|tu|te|fus|alourd%[m|i]|
+|il|se|fut|alourd%[m|i]|
+|nous|nous|fûmes|alourd%[m|is]|
+|vous|vous|fûtes|alourd%[m|is]|
+|ils|se|furent|alourd%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|alourd%[m|irai]|
+|tu|t'|alourd%[m|iras]|
+|il|s'|alourd%[m|ira]|
+|nous|nous|alourd%[m|irons]|
+|vous|vous|alourd%[m|irez]|
+|ils|s'|alourd%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|alourd%[m|i]|
+|tu|te|seras|alourd%[m|i]|
+|il|se|sera|alourd%[m|i]|
+|nous|nous|serons|alourd%[m|is]|
+|vous|vous|serez|alourd%[m|is]|
+|ils|se|seront|alourd%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|alourd%[m|irais]|
+|tu|t'|alourd%[m|irais]|
+|il|s'|alourd%[m|irait]|
+|nous|nous|alourd%[m|irions]|
+|vous|vous|alourd%[m|iriez]|
+|ils|s'|alourd%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|alourd%[m|i]|
+|tu|te|serais|alourd%[m|i]|
+|il|se|serait|alourd%[m|i]|
+|nous|nous|serions|alourd%[m|is]|
+|vous|vous|seriez|alourd%[m|is]|
+|ils|se|seraient|alourd%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|alourd%[m|isse]|
+|que|tu|t'|alourd%[m|isses]|
+|qu'|il|s'|alourd%[m|isse]|
+|que|nous|nous|alourd%[m|issions]|
+|que|vous|vous|alourd%[m|issiez]|
+|qu'|ils|s'|alourd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|alourd%[m|i]|
+|que|tu|te|sois|alourd%[m|i]|
+|qu'|il|se|soit|alourd%[m|i]|
+|que|nous|nous|soyons|alourd%[m|is]|
+|que|vous|vous|soyez|alourd%[m|is]|
+|qu'|ils|se|soient|alourd%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|alourd%[m|isse]|
+|que|tu|t'|alourd%[m|isses]|
+|qu'|il|s'|alourd%[m|ît]|
+|que|nous|nous|alourd%[m|issions]|
+|que|vous|vous|alourd%[m|issiez]|
+|qu'|ils|s'|alourd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|alourd%[m|i]|
+|que|tu|te|fusses|alourd%[m|i]|
+|qu'|il|se|fût|alourd%[m|i]|
+|que|nous|nous|fussions|alourd%[m|is]|
+|que|vous|vous|fussiez|alourd%[m|is]|
+|qu'|ils|se|fussent|alourd%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|alourd%[m|is]-toi|
+|alourd%[m|issons]-nous|
+|alourd%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

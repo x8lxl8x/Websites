@@ -1,0 +1,193 @@
+# s'entretenir %[clVerbGroup|3]
+[-
+tenir dans le même état, en bon état. 
+fournir le nécessaire à quelqu'un. 
+faire durer. 
+parler avec quelqu'un, converser. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'entret%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|entret%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'entret%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|entret%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'entret%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|entret%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|entret%[m|iens]|
+|tu|t'|entret%[m|iens]|
+|il|s'|entret%[m|ient]|
+|nous|nous|entret%[m|enons]|
+|vous|vous|entret%[m|enez]|
+|ils|s'|entret%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|entret%[m|enu]|
+|tu|t'|es|entret%[m|enu]|
+|il|s'|est|entret%[m|enu]|
+|nous|nous|sommes|entret%[m|enus]|
+|vous|vous|êtes|entret%[m|enus]|
+|ils|se|sont|entret%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|entret%[m|enais]|
+|tu|t'|entret%[m|enais]|
+|il|s'|entret%[m|enait]|
+|nous|nous|entret%[m|enions]|
+|vous|vous|entret%[m|eniez]|
+|ils|s'|entret%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|entret%[m|enu]|
+|tu|t'|étais|entret%[m|enu]|
+|il|s'|était|entret%[m|enu]|
+|nous|nous|étions|entret%[m|enus]|
+|vous|vous|étiez|entret%[m|enus]|
+|ils|s'|étaient|entret%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|entret%[m|ins]|
+|tu|t'|entret%[m|ins]|
+|il|s'|entret%[m|int]|
+|nous|nous|entret%[m|înmes]|
+|vous|vous|entret%[m|întes]|
+|ils|s'|entret%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|entret%[m|enu]|
+|tu|te|fus|entret%[m|enu]|
+|il|se|fut|entret%[m|enu]|
+|nous|nous|fûmes|entret%[m|enus]|
+|vous|vous|fûtes|entret%[m|enus]|
+|ils|se|furent|entret%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|entret%[m|iendrai]|
+|tu|t'|entret%[m|iendras]|
+|il|s'|entret%[m|iendra]|
+|nous|nous|entret%[m|iendrons]|
+|vous|vous|entret%[m|iendrez]|
+|ils|s'|entret%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|entret%[m|enu]|
+|tu|te|seras|entret%[m|enu]|
+|il|se|sera|entret%[m|enu]|
+|nous|nous|serons|entret%[m|enus]|
+|vous|vous|serez|entret%[m|enus]|
+|ils|se|seront|entret%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|entret%[m|iendrais]|
+|tu|t'|entret%[m|iendrais]|
+|il|s'|entret%[m|iendrait]|
+|nous|nous|entret%[m|iendrions]|
+|vous|vous|entret%[m|iendriez]|
+|ils|s'|entret%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|entret%[m|enu]|
+|tu|te|serais|entret%[m|enu]|
+|il|se|serait|entret%[m|enu]|
+|nous|nous|serions|entret%[m|enus]|
+|vous|vous|seriez|entret%[m|enus]|
+|ils|se|seraient|entret%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|entret%[m|ienne]|
+|que|tu|t'|entret%[m|iennes]|
+|qu'|il|s'|entret%[m|ienne]|
+|que|nous|nous|entret%[m|enions]|
+|que|vous|vous|entret%[m|eniez]|
+|qu'|ils|s'|entret%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|entret%[m|enu]|
+|que|tu|te|sois|entret%[m|enu]|
+|qu'|il|se|soit|entret%[m|enu]|
+|que|nous|nous|soyons|entret%[m|enus]|
+|que|vous|vous|soyez|entret%[m|enus]|
+|qu'|ils|se|soient|entret%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|entret%[m|insse]|
+|que|tu|t'|entret%[m|insses]|
+|qu'|il|s'|entret%[m|înt]|
+|que|nous|nous|entret%[m|inssions]|
+|que|vous|vous|entret%[m|inssiez]|
+|qu'|ils|s'|entret%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|entret%[m|enu]|
+|que|tu|te|fusses|entret%[m|enu]|
+|qu'|il|se|fût|entret%[m|enu]|
+|que|nous|nous|fussions|entret%[m|enus]|
+|que|vous|vous|fussiez|entret%[m|enus]|
+|qu'|ils|se|fussent|entret%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|entret%[m|iens]-toi|
+|entret%[m|enons]-nous|
+|entret%[m|enez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

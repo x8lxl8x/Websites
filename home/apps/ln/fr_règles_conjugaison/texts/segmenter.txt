@@ -1,0 +1,190 @@
+# segmenter %[clVerbGroup|1]
+[-
+diviser en segments. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|segment%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|segment%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|segment%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||segment%[m|é]|
+|ayant|segment%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en segment%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|segment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|segment%[m|e]|
+|tu|segment%[m|es]|
+|il|segment%[m|e]|
+|nous|segment%[m|ons]|
+|vous|segment%[m|ez]|
+|ils|segment%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|segment%[m|é]|
+|tu|as |segment%[m|é]|
+|il|a|segment%[m|é]|
+|nous|avons|segment%[m|é]|
+|vous|avez|segment%[m|é]|
+|ils|ont|segment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|segment%[m|ais]|
+|tu|segment%[m|ais]|
+|il|segment%[m|ait]|
+|nous|segment%[m|ions]|
+|vous|segment%[m|iez]|
+|ils|segment%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|segment%[m|é]|
+|tu|avais|segment%[m|é]|
+|il|avait|segment%[m|é]|
+|nous|avions|segment%[m|é]|
+|vous|aviez|segment%[m|é]|
+|ils|avaient|segment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|segment%[m|ai]|
+|tu|segment%[m|as]|
+|il|segment%[m|a]|
+|nous|segment%[m|âmes]|
+|vous|segment%[m|âtes]|
+|ils|segment%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|segment%[m|é]|
+|tu|eus|segment%[m|é]|
+|il|eut|segment%[m|é]|
+|nous|e&ucirc;mes|segment%[m|é]|
+|vous|e&ucirc;tes|segment%[m|é]|
+|ils|eurent|segment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|segment%[m|erai]|
+|tu|segment%[m|eras]|
+|il|segment%[m|era]|
+|nous|segment%[m|erons]|
+|vous|segment%[m|erez]|
+|ils|segment%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|segment%[m|é]|
+|tu|auras|segment%[m|é]|
+|il|aura|segment%[m|é]|
+|nous|aurons|segment%[m|é]|
+|vous|aurez|segment%[m|é]|
+|ils|auront|segment%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|segment%[m|erais]|
+|tu|segment%[m|erais]|
+|il|segment%[m|erait]|
+|nous|segment%[m|erions]|
+|vous|segment%[m|eriez]|
+|ils|segment%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|segment%[m|é]|
+|tu|aurais|segment%[m|é]|
+|il|aurait|segment%[m|é]|
+|nous|aurions|segment%[m|é]|
+|vous|auriez|segment%[m|é]|
+|ils|auraient|segment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|segment%[m|e]|
+|que|tu|segment%[m|es]|
+|qu'|il|segment%[m|e]|
+|que|nous|segment%[m|ions]|
+|que|vous|segment%[m|iez]|
+|qu'|ils|segment%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|segment%[m|é]|
+|que|tu|aies|segment%[m|é]|
+|qu'|il|ait|segment%[m|é]|
+|que|nous|ayons|segment%[m|é]|
+|que|vous|ayez|segment%[m|é]|
+|qu'|ils|aient|segment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|segment%[m|asse]|
+|que|tu|segment%[m|asses]|
+|qu'|il|segment%[m|ât]|
+|que|nous|segment%[m|assions]|
+|que|vous|segment%[m|assiez]|
+|qu'|ils|segment%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|segment%[m|é]|
+|que|tu|eusses|segment%[m|é]|
+|qu'|il|eût|segment%[m|é]|
+|que|nous|eussions|segment%[m|é]|
+|que|vous|eussiez|segment%[m|é]|
+|qu'|ils|eussent|segment%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|segment%[m|e]|
+|segment%[m|ons]|
+|segment%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|segment%[m|é]|
+|ayons|segment%[m|é]|
+|ayez|segment%[m|é]|
+|]
+

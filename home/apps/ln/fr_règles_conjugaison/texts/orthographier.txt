@@ -1,0 +1,190 @@
+# orthographier %[clVerbGroup|1]
+[-
+écrire suivant les règles de l'orthographe admises. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|orthographi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|orthographi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||orthographi%[m|é]|
+|ayant|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en orthographi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|orthographi%[m|e]|
+|tu|orthographi%[m|es]|
+|il|orthographi%[m|e]|
+|nous|orthographi%[m|ons]|
+|vous|orthographi%[m|ez]|
+|ils|orthographi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|orthographi%[m|é]|
+|tu|as |orthographi%[m|é]|
+|il|a|orthographi%[m|é]|
+|nous|avons|orthographi%[m|é]|
+|vous|avez|orthographi%[m|é]|
+|ils|ont|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|orthographi%[m|ais]|
+|tu|orthographi%[m|ais]|
+|il|orthographi%[m|ait]|
+|nous|orthographi%[m|ions]|
+|vous|orthographi%[m|iez]|
+|ils|orthographi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|orthographi%[m|é]|
+|tu|avais|orthographi%[m|é]|
+|il|avait|orthographi%[m|é]|
+|nous|avions|orthographi%[m|é]|
+|vous|aviez|orthographi%[m|é]|
+|ils|avaient|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|orthographi%[m|ai]|
+|tu|orthographi%[m|as]|
+|il|orthographi%[m|a]|
+|nous|orthographi%[m|âmes]|
+|vous|orthographi%[m|âtes]|
+|ils|orthographi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|orthographi%[m|é]|
+|tu|eus|orthographi%[m|é]|
+|il|eut|orthographi%[m|é]|
+|nous|e&ucirc;mes|orthographi%[m|é]|
+|vous|e&ucirc;tes|orthographi%[m|é]|
+|ils|eurent|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|orthographi%[m|erai]|
+|tu|orthographi%[m|eras]|
+|il|orthographi%[m|era]|
+|nous|orthographi%[m|erons]|
+|vous|orthographi%[m|erez]|
+|ils|orthographi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|orthographi%[m|é]|
+|tu|auras|orthographi%[m|é]|
+|il|aura|orthographi%[m|é]|
+|nous|aurons|orthographi%[m|é]|
+|vous|aurez|orthographi%[m|é]|
+|ils|auront|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|orthographi%[m|erais]|
+|tu|orthographi%[m|erais]|
+|il|orthographi%[m|erait]|
+|nous|orthographi%[m|erions]|
+|vous|orthographi%[m|eriez]|
+|ils|orthographi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|orthographi%[m|é]|
+|tu|aurais|orthographi%[m|é]|
+|il|aurait|orthographi%[m|é]|
+|nous|aurions|orthographi%[m|é]|
+|vous|auriez|orthographi%[m|é]|
+|ils|auraient|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|orthographi%[m|e]|
+|que|tu|orthographi%[m|es]|
+|qu'|il|orthographi%[m|e]|
+|que|nous|orthographi%[m|ions]|
+|que|vous|orthographi%[m|iez]|
+|qu'|ils|orthographi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|orthographi%[m|é]|
+|que|tu|aies|orthographi%[m|é]|
+|qu'|il|ait|orthographi%[m|é]|
+|que|nous|ayons|orthographi%[m|é]|
+|que|vous|ayez|orthographi%[m|é]|
+|qu'|ils|aient|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|orthographi%[m|asse]|
+|que|tu|orthographi%[m|asses]|
+|qu'|il|orthographi%[m|ât]|
+|que|nous|orthographi%[m|assions]|
+|que|vous|orthographi%[m|assiez]|
+|qu'|ils|orthographi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|orthographi%[m|é]|
+|que|tu|eusses|orthographi%[m|é]|
+|qu'|il|eût|orthographi%[m|é]|
+|que|nous|eussions|orthographi%[m|é]|
+|que|vous|eussiez|orthographi%[m|é]|
+|qu'|ils|eussent|orthographi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|orthographi%[m|e]|
+|orthographi%[m|ons]|
+|orthographi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|orthographi%[m|é]|
+|ayons|orthographi%[m|é]|
+|ayez|orthographi%[m|é]|
+|]
+

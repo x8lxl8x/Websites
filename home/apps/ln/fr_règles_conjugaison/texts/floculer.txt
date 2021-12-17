@@ -1,0 +1,190 @@
+# floculer %[clVerbGroup|1]
+[-
+précipiter par floculation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flocul%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flocul%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flocul%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flocul%[m|é]|
+|ayant|flocul%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flocul%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flocul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flocul%[m|e]|
+|tu|flocul%[m|es]|
+|il|flocul%[m|e]|
+|nous|flocul%[m|ons]|
+|vous|flocul%[m|ez]|
+|ils|flocul%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flocul%[m|é]|
+|tu|as |flocul%[m|é]|
+|il|a|flocul%[m|é]|
+|nous|avons|flocul%[m|é]|
+|vous|avez|flocul%[m|é]|
+|ils|ont|flocul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flocul%[m|ais]|
+|tu|flocul%[m|ais]|
+|il|flocul%[m|ait]|
+|nous|flocul%[m|ions]|
+|vous|flocul%[m|iez]|
+|ils|flocul%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flocul%[m|é]|
+|tu|avais|flocul%[m|é]|
+|il|avait|flocul%[m|é]|
+|nous|avions|flocul%[m|é]|
+|vous|aviez|flocul%[m|é]|
+|ils|avaient|flocul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flocul%[m|ai]|
+|tu|flocul%[m|as]|
+|il|flocul%[m|a]|
+|nous|flocul%[m|âmes]|
+|vous|flocul%[m|âtes]|
+|ils|flocul%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flocul%[m|é]|
+|tu|eus|flocul%[m|é]|
+|il|eut|flocul%[m|é]|
+|nous|e&ucirc;mes|flocul%[m|é]|
+|vous|e&ucirc;tes|flocul%[m|é]|
+|ils|eurent|flocul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flocul%[m|erai]|
+|tu|flocul%[m|eras]|
+|il|flocul%[m|era]|
+|nous|flocul%[m|erons]|
+|vous|flocul%[m|erez]|
+|ils|flocul%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flocul%[m|é]|
+|tu|auras|flocul%[m|é]|
+|il|aura|flocul%[m|é]|
+|nous|aurons|flocul%[m|é]|
+|vous|aurez|flocul%[m|é]|
+|ils|auront|flocul%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flocul%[m|erais]|
+|tu|flocul%[m|erais]|
+|il|flocul%[m|erait]|
+|nous|flocul%[m|erions]|
+|vous|flocul%[m|eriez]|
+|ils|flocul%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flocul%[m|é]|
+|tu|aurais|flocul%[m|é]|
+|il|aurait|flocul%[m|é]|
+|nous|aurions|flocul%[m|é]|
+|vous|auriez|flocul%[m|é]|
+|ils|auraient|flocul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flocul%[m|e]|
+|que|tu|flocul%[m|es]|
+|qu'|il|flocul%[m|e]|
+|que|nous|flocul%[m|ions]|
+|que|vous|flocul%[m|iez]|
+|qu'|ils|flocul%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flocul%[m|é]|
+|que|tu|aies|flocul%[m|é]|
+|qu'|il|ait|flocul%[m|é]|
+|que|nous|ayons|flocul%[m|é]|
+|que|vous|ayez|flocul%[m|é]|
+|qu'|ils|aient|flocul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flocul%[m|asse]|
+|que|tu|flocul%[m|asses]|
+|qu'|il|flocul%[m|ât]|
+|que|nous|flocul%[m|assions]|
+|que|vous|flocul%[m|assiez]|
+|qu'|ils|flocul%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flocul%[m|é]|
+|que|tu|eusses|flocul%[m|é]|
+|qu'|il|eût|flocul%[m|é]|
+|que|nous|eussions|flocul%[m|é]|
+|que|vous|eussiez|flocul%[m|é]|
+|qu'|ils|eussent|flocul%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flocul%[m|e]|
+|flocul%[m|ons]|
+|flocul%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flocul%[m|é]|
+|ayons|flocul%[m|é]|
+|ayez|flocul%[m|é]|
+|]
+

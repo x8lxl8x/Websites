@@ -1,0 +1,190 @@
+# s'accoter %[clVerbGroup|1]
+[-
+appuyer d'un côté. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'accot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|accot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'accot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|accot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'accot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|accot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|accot%[m|e]|
+|tu|t'|accot%[m|es]|
+|il|s'|accot%[m|e]|
+|nous|nous|accot%[m|ons]|
+|vous|vous|accot%[m|ez]|
+|ils|s'|accot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|accot%[m|é]|
+|tu|t'|es|accot%[m|é]|
+|il|s'|est|accot%[m|é]|
+|nous|nous|sommes|accot%[m|és]|
+|vous|vous|êtes|accot%[m|és]|
+|ils|se|sont|accot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|accot%[m|ais]|
+|tu|t'|accot%[m|ais]|
+|il|s'|accot%[m|ait]|
+|nous|nous|accot%[m|ions]|
+|vous|vous|accot%[m|iez]|
+|ils|s'|accot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|accot%[m|é]|
+|tu|t'|étais|accot%[m|é]|
+|il|s'|était|accot%[m|é]|
+|nous|nous|étions|accot%[m|és]|
+|vous|vous|étiez|accot%[m|és]|
+|ils|s'|étaient|accot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|accot%[m|ai]|
+|tu|t'|accot%[m|as]|
+|il|s'|accot%[m|a]|
+|nous|nous|accot%[m|âmes]|
+|vous|vous|accot%[m|âtes]|
+|ils|s'|accot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|accot%[m|é]|
+|tu|te|fus|accot%[m|é]|
+|il|se|fut|accot%[m|é]|
+|nous|nous|fûmes|accot%[m|és]|
+|vous|vous|fûtes|accot%[m|és]|
+|ils|se|furent|accot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|accot%[m|erai]|
+|tu|t'|accot%[m|eras]|
+|il|s'|accot%[m|era]|
+|nous|nous|accot%[m|erons]|
+|vous|vous|accot%[m|erez]|
+|ils|s'|accot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|accot%[m|é]|
+|tu|te|seras|accot%[m|é]|
+|il|se|sera|accot%[m|é]|
+|nous|nous|serons|accot%[m|és]|
+|vous|vous|serez|accot%[m|és]|
+|ils|se|seront|accot%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|accot%[m|erais]|
+|tu|t'|accot%[m|erais]|
+|il|s'|accot%[m|erait]|
+|nous|nous|accot%[m|erions]|
+|vous|vous|accot%[m|eriez]|
+|ils|s'|accot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|accot%[m|é]|
+|tu|te|serais|accot%[m|é]|
+|il|se|serait|accot%[m|é]|
+|nous|nous|serions|accot%[m|és]|
+|vous|vous|seriez|accot%[m|és]|
+|ils|se|seraient|accot%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|accot%[m|e]|
+|que|tu|t'|accot%[m|es]|
+|qu'|il|s'|accot%[m|e]|
+|que|nous|nous|accot%[m|ions]|
+|que|vous|vous|accot%[m|iez]|
+|qu'|ils|s'|accot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|accot%[m|é]|
+|que|tu|te|sois|accot%[m|é]|
+|qu'|il|se|soit|accot%[m|é]|
+|que|nous|nous|soyons|accot%[m|és]|
+|que|vous|vous|soyez|accot%[m|és]|
+|qu'|ils|se|soient|accot%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|accot%[m|asse]|
+|que|tu|t'|accot%[m|asses]|
+|qu'|il|s'|accot%[m|ât]|
+|que|nous|nous|accot%[m|assions]|
+|que|vous|vous|accot%[m|assiez]|
+|qu'|ils|s'|accot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|accot%[m|é]|
+|que|tu|te|fusses|accot%[m|é]|
+|qu'|il|se|fût|accot%[m|é]|
+|que|nous|nous|fussions|accot%[m|és]|
+|que|vous|vous|fussiez|accot%[m|és]|
+|qu'|ils|se|fussent|accot%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accot%[m|e]-toi|
+|accot%[m|ons]-nous|
+|accot%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

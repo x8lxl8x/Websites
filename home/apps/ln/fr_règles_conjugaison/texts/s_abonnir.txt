@@ -1,0 +1,190 @@
+# s'abonnir %[clVerbGroup|2]
+[-
+bonifier une terre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'abonn%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|abonn%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'abonn%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|abonn%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'abonn%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|abonn%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|abonn%[m|is]|
+|tu|t'|abonn%[m|is]|
+|il|s'|abonn%[m|it]|
+|nous|nous|abonn%[m|issons]|
+|vous|vous|abonn%[m|issez]|
+|ils|s'|abonn%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|abonn%[m|i]|
+|tu|t'|es|abonn%[m|i]|
+|il|s'|est|abonn%[m|i]|
+|nous|nous|sommes|abonn%[m|is]|
+|vous|vous|êtes|abonn%[m|is]|
+|ils|se|sont|abonn%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|abonn%[m|issais]|
+|tu|t'|abonn%[m|issais]|
+|il|s'|abonn%[m|issait]|
+|nous|nous|abonn%[m|issions]|
+|vous|vous|abonn%[m|issiez]|
+|ils|s'|abonn%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|abonn%[m|i]|
+|tu|t'|étais|abonn%[m|i]|
+|il|s'|était|abonn%[m|i]|
+|nous|nous|étions|abonn%[m|is]|
+|vous|vous|étiez|abonn%[m|is]|
+|ils|s'|étaient|abonn%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|abonn%[m|is]|
+|tu|t'|abonn%[m|is]|
+|il|s'|abonn%[m|it]|
+|nous|nous|abonn%[m|îmes]|
+|vous|vous|abonn%[m|îtes]|
+|ils|s'|abonn%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|abonn%[m|i]|
+|tu|te|fus|abonn%[m|i]|
+|il|se|fut|abonn%[m|i]|
+|nous|nous|fûmes|abonn%[m|is]|
+|vous|vous|fûtes|abonn%[m|is]|
+|ils|se|furent|abonn%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|abonn%[m|irai]|
+|tu|t'|abonn%[m|iras]|
+|il|s'|abonn%[m|ira]|
+|nous|nous|abonn%[m|irons]|
+|vous|vous|abonn%[m|irez]|
+|ils|s'|abonn%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|abonn%[m|i]|
+|tu|te|seras|abonn%[m|i]|
+|il|se|sera|abonn%[m|i]|
+|nous|nous|serons|abonn%[m|is]|
+|vous|vous|serez|abonn%[m|is]|
+|ils|se|seront|abonn%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|abonn%[m|irais]|
+|tu|t'|abonn%[m|irais]|
+|il|s'|abonn%[m|irait]|
+|nous|nous|abonn%[m|irions]|
+|vous|vous|abonn%[m|iriez]|
+|ils|s'|abonn%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|abonn%[m|i]|
+|tu|te|serais|abonn%[m|i]|
+|il|se|serait|abonn%[m|i]|
+|nous|nous|serions|abonn%[m|is]|
+|vous|vous|seriez|abonn%[m|is]|
+|ils|se|seraient|abonn%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|abonn%[m|isse]|
+|que|tu|t'|abonn%[m|isses]|
+|qu'|il|s'|abonn%[m|isse]|
+|que|nous|nous|abonn%[m|issions]|
+|que|vous|vous|abonn%[m|issiez]|
+|qu'|ils|s'|abonn%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|abonn%[m|i]|
+|que|tu|te|sois|abonn%[m|i]|
+|qu'|il|se|soit|abonn%[m|i]|
+|que|nous|nous|soyons|abonn%[m|is]|
+|que|vous|vous|soyez|abonn%[m|is]|
+|qu'|ils|se|soient|abonn%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|abonn%[m|isse]|
+|que|tu|t'|abonn%[m|isses]|
+|qu'|il|s'|abonn%[m|ît]|
+|que|nous|nous|abonn%[m|issions]|
+|que|vous|vous|abonn%[m|issiez]|
+|qu'|ils|s'|abonn%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|abonn%[m|i]|
+|que|tu|te|fusses|abonn%[m|i]|
+|qu'|il|se|fût|abonn%[m|i]|
+|que|nous|nous|fussions|abonn%[m|is]|
+|que|vous|vous|fussiez|abonn%[m|is]|
+|qu'|ils|se|fussent|abonn%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|abonn%[m|is]-toi|
+|abonn%[m|issons]-nous|
+|abonn%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

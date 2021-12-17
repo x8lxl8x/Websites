@@ -1,0 +1,190 @@
+# pester %[clVerbGroup|1]
+[-
+manifester son mécontentement, sa colère ou sa mauvaise humeur par des paroles acrimonieuses. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pest%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pest%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pest%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pest%[m|é]|
+|ayant|pest%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pest%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pest%[m|e]|
+|tu|pest%[m|es]|
+|il|pest%[m|e]|
+|nous|pest%[m|ons]|
+|vous|pest%[m|ez]|
+|ils|pest%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pest%[m|é]|
+|tu|as |pest%[m|é]|
+|il|a|pest%[m|é]|
+|nous|avons|pest%[m|é]|
+|vous|avez|pest%[m|é]|
+|ils|ont|pest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pest%[m|ais]|
+|tu|pest%[m|ais]|
+|il|pest%[m|ait]|
+|nous|pest%[m|ions]|
+|vous|pest%[m|iez]|
+|ils|pest%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pest%[m|é]|
+|tu|avais|pest%[m|é]|
+|il|avait|pest%[m|é]|
+|nous|avions|pest%[m|é]|
+|vous|aviez|pest%[m|é]|
+|ils|avaient|pest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pest%[m|ai]|
+|tu|pest%[m|as]|
+|il|pest%[m|a]|
+|nous|pest%[m|âmes]|
+|vous|pest%[m|âtes]|
+|ils|pest%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pest%[m|é]|
+|tu|eus|pest%[m|é]|
+|il|eut|pest%[m|é]|
+|nous|e&ucirc;mes|pest%[m|é]|
+|vous|e&ucirc;tes|pest%[m|é]|
+|ils|eurent|pest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pest%[m|erai]|
+|tu|pest%[m|eras]|
+|il|pest%[m|era]|
+|nous|pest%[m|erons]|
+|vous|pest%[m|erez]|
+|ils|pest%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pest%[m|é]|
+|tu|auras|pest%[m|é]|
+|il|aura|pest%[m|é]|
+|nous|aurons|pest%[m|é]|
+|vous|aurez|pest%[m|é]|
+|ils|auront|pest%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pest%[m|erais]|
+|tu|pest%[m|erais]|
+|il|pest%[m|erait]|
+|nous|pest%[m|erions]|
+|vous|pest%[m|eriez]|
+|ils|pest%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pest%[m|é]|
+|tu|aurais|pest%[m|é]|
+|il|aurait|pest%[m|é]|
+|nous|aurions|pest%[m|é]|
+|vous|auriez|pest%[m|é]|
+|ils|auraient|pest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pest%[m|e]|
+|que|tu|pest%[m|es]|
+|qu'|il|pest%[m|e]|
+|que|nous|pest%[m|ions]|
+|que|vous|pest%[m|iez]|
+|qu'|ils|pest%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pest%[m|é]|
+|que|tu|aies|pest%[m|é]|
+|qu'|il|ait|pest%[m|é]|
+|que|nous|ayons|pest%[m|é]|
+|que|vous|ayez|pest%[m|é]|
+|qu'|ils|aient|pest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pest%[m|asse]|
+|que|tu|pest%[m|asses]|
+|qu'|il|pest%[m|ât]|
+|que|nous|pest%[m|assions]|
+|que|vous|pest%[m|assiez]|
+|qu'|ils|pest%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pest%[m|é]|
+|que|tu|eusses|pest%[m|é]|
+|qu'|il|eût|pest%[m|é]|
+|que|nous|eussions|pest%[m|é]|
+|que|vous|eussiez|pest%[m|é]|
+|qu'|ils|eussent|pest%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pest%[m|e]|
+|pest%[m|ons]|
+|pest%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pest%[m|é]|
+|ayons|pest%[m|é]|
+|ayez|pest%[m|é]|
+|]
+

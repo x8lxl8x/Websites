@@ -1,0 +1,190 @@
+# festiner %[clVerbGroup|1]
+[-
+faire un festin. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|festin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|festin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|festin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||festin%[m|é]|
+|ayant|festin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en festin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|festin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|festin%[m|e]|
+|tu|festin%[m|es]|
+|il|festin%[m|e]|
+|nous|festin%[m|ons]|
+|vous|festin%[m|ez]|
+|ils|festin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|festin%[m|é]|
+|tu|as |festin%[m|é]|
+|il|a|festin%[m|é]|
+|nous|avons|festin%[m|é]|
+|vous|avez|festin%[m|é]|
+|ils|ont|festin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|festin%[m|ais]|
+|tu|festin%[m|ais]|
+|il|festin%[m|ait]|
+|nous|festin%[m|ions]|
+|vous|festin%[m|iez]|
+|ils|festin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|festin%[m|é]|
+|tu|avais|festin%[m|é]|
+|il|avait|festin%[m|é]|
+|nous|avions|festin%[m|é]|
+|vous|aviez|festin%[m|é]|
+|ils|avaient|festin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|festin%[m|ai]|
+|tu|festin%[m|as]|
+|il|festin%[m|a]|
+|nous|festin%[m|âmes]|
+|vous|festin%[m|âtes]|
+|ils|festin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|festin%[m|é]|
+|tu|eus|festin%[m|é]|
+|il|eut|festin%[m|é]|
+|nous|e&ucirc;mes|festin%[m|é]|
+|vous|e&ucirc;tes|festin%[m|é]|
+|ils|eurent|festin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|festin%[m|erai]|
+|tu|festin%[m|eras]|
+|il|festin%[m|era]|
+|nous|festin%[m|erons]|
+|vous|festin%[m|erez]|
+|ils|festin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|festin%[m|é]|
+|tu|auras|festin%[m|é]|
+|il|aura|festin%[m|é]|
+|nous|aurons|festin%[m|é]|
+|vous|aurez|festin%[m|é]|
+|ils|auront|festin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|festin%[m|erais]|
+|tu|festin%[m|erais]|
+|il|festin%[m|erait]|
+|nous|festin%[m|erions]|
+|vous|festin%[m|eriez]|
+|ils|festin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|festin%[m|é]|
+|tu|aurais|festin%[m|é]|
+|il|aurait|festin%[m|é]|
+|nous|aurions|festin%[m|é]|
+|vous|auriez|festin%[m|é]|
+|ils|auraient|festin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|festin%[m|e]|
+|que|tu|festin%[m|es]|
+|qu'|il|festin%[m|e]|
+|que|nous|festin%[m|ions]|
+|que|vous|festin%[m|iez]|
+|qu'|ils|festin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|festin%[m|é]|
+|que|tu|aies|festin%[m|é]|
+|qu'|il|ait|festin%[m|é]|
+|que|nous|ayons|festin%[m|é]|
+|que|vous|ayez|festin%[m|é]|
+|qu'|ils|aient|festin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|festin%[m|asse]|
+|que|tu|festin%[m|asses]|
+|qu'|il|festin%[m|ât]|
+|que|nous|festin%[m|assions]|
+|que|vous|festin%[m|assiez]|
+|qu'|ils|festin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|festin%[m|é]|
+|que|tu|eusses|festin%[m|é]|
+|qu'|il|eût|festin%[m|é]|
+|que|nous|eussions|festin%[m|é]|
+|que|vous|eussiez|festin%[m|é]|
+|qu'|ils|eussent|festin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|festin%[m|e]|
+|festin%[m|ons]|
+|festin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|festin%[m|é]|
+|ayons|festin%[m|é]|
+|ayez|festin%[m|é]|
+|]
+

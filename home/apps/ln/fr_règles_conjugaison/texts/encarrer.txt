@@ -1,0 +1,190 @@
+# encarrer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|encarr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|encarr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|encarr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||encarr%[m|é]|
+|ayant|encarr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en encarr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|encarr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|encarr%[m|e]|
+|tu|encarr%[m|es]|
+|il|encarr%[m|e]|
+|nous|encarr%[m|ons]|
+|vous|encarr%[m|ez]|
+|ils|encarr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|encarr%[m|é]|
+|tu|as |encarr%[m|é]|
+|il|a|encarr%[m|é]|
+|nous|avons|encarr%[m|é]|
+|vous|avez|encarr%[m|é]|
+|ils|ont|encarr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|encarr%[m|ais]|
+|tu|encarr%[m|ais]|
+|il|encarr%[m|ait]|
+|nous|encarr%[m|ions]|
+|vous|encarr%[m|iez]|
+|ils|encarr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|encarr%[m|é]|
+|tu|avais|encarr%[m|é]|
+|il|avait|encarr%[m|é]|
+|nous|avions|encarr%[m|é]|
+|vous|aviez|encarr%[m|é]|
+|ils|avaient|encarr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|encarr%[m|ai]|
+|tu|encarr%[m|as]|
+|il|encarr%[m|a]|
+|nous|encarr%[m|âmes]|
+|vous|encarr%[m|âtes]|
+|ils|encarr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|encarr%[m|é]|
+|tu|eus|encarr%[m|é]|
+|il|eut|encarr%[m|é]|
+|nous|e&ucirc;mes|encarr%[m|é]|
+|vous|e&ucirc;tes|encarr%[m|é]|
+|ils|eurent|encarr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|encarr%[m|erai]|
+|tu|encarr%[m|eras]|
+|il|encarr%[m|era]|
+|nous|encarr%[m|erons]|
+|vous|encarr%[m|erez]|
+|ils|encarr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|encarr%[m|é]|
+|tu|auras|encarr%[m|é]|
+|il|aura|encarr%[m|é]|
+|nous|aurons|encarr%[m|é]|
+|vous|aurez|encarr%[m|é]|
+|ils|auront|encarr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|encarr%[m|erais]|
+|tu|encarr%[m|erais]|
+|il|encarr%[m|erait]|
+|nous|encarr%[m|erions]|
+|vous|encarr%[m|eriez]|
+|ils|encarr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|encarr%[m|é]|
+|tu|aurais|encarr%[m|é]|
+|il|aurait|encarr%[m|é]|
+|nous|aurions|encarr%[m|é]|
+|vous|auriez|encarr%[m|é]|
+|ils|auraient|encarr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|encarr%[m|e]|
+|que|tu|encarr%[m|es]|
+|qu'|il|encarr%[m|e]|
+|que|nous|encarr%[m|ions]|
+|que|vous|encarr%[m|iez]|
+|qu'|ils|encarr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|encarr%[m|é]|
+|que|tu|aies|encarr%[m|é]|
+|qu'|il|ait|encarr%[m|é]|
+|que|nous|ayons|encarr%[m|é]|
+|que|vous|ayez|encarr%[m|é]|
+|qu'|ils|aient|encarr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|encarr%[m|asse]|
+|que|tu|encarr%[m|asses]|
+|qu'|il|encarr%[m|ât]|
+|que|nous|encarr%[m|assions]|
+|que|vous|encarr%[m|assiez]|
+|qu'|ils|encarr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|encarr%[m|é]|
+|que|tu|eusses|encarr%[m|é]|
+|qu'|il|eût|encarr%[m|é]|
+|que|nous|eussions|encarr%[m|é]|
+|que|vous|eussiez|encarr%[m|é]|
+|qu'|ils|eussent|encarr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|encarr%[m|e]|
+|encarr%[m|ons]|
+|encarr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|encarr%[m|é]|
+|ayons|encarr%[m|é]|
+|ayez|encarr%[m|é]|
+|]
+

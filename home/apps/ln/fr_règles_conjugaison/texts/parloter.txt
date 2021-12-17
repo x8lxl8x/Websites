@@ -1,0 +1,190 @@
+# parloter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|parlot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|parlot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|parlot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||parlot%[m|é]|
+|ayant|parlot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en parlot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|parlot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|parlot%[m|e]|
+|tu|parlot%[m|es]|
+|il|parlot%[m|e]|
+|nous|parlot%[m|ons]|
+|vous|parlot%[m|ez]|
+|ils|parlot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|parlot%[m|é]|
+|tu|as |parlot%[m|é]|
+|il|a|parlot%[m|é]|
+|nous|avons|parlot%[m|é]|
+|vous|avez|parlot%[m|é]|
+|ils|ont|parlot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|parlot%[m|ais]|
+|tu|parlot%[m|ais]|
+|il|parlot%[m|ait]|
+|nous|parlot%[m|ions]|
+|vous|parlot%[m|iez]|
+|ils|parlot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|parlot%[m|é]|
+|tu|avais|parlot%[m|é]|
+|il|avait|parlot%[m|é]|
+|nous|avions|parlot%[m|é]|
+|vous|aviez|parlot%[m|é]|
+|ils|avaient|parlot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|parlot%[m|ai]|
+|tu|parlot%[m|as]|
+|il|parlot%[m|a]|
+|nous|parlot%[m|âmes]|
+|vous|parlot%[m|âtes]|
+|ils|parlot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|parlot%[m|é]|
+|tu|eus|parlot%[m|é]|
+|il|eut|parlot%[m|é]|
+|nous|e&ucirc;mes|parlot%[m|é]|
+|vous|e&ucirc;tes|parlot%[m|é]|
+|ils|eurent|parlot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|parlot%[m|erai]|
+|tu|parlot%[m|eras]|
+|il|parlot%[m|era]|
+|nous|parlot%[m|erons]|
+|vous|parlot%[m|erez]|
+|ils|parlot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|parlot%[m|é]|
+|tu|auras|parlot%[m|é]|
+|il|aura|parlot%[m|é]|
+|nous|aurons|parlot%[m|é]|
+|vous|aurez|parlot%[m|é]|
+|ils|auront|parlot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|parlot%[m|erais]|
+|tu|parlot%[m|erais]|
+|il|parlot%[m|erait]|
+|nous|parlot%[m|erions]|
+|vous|parlot%[m|eriez]|
+|ils|parlot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|parlot%[m|é]|
+|tu|aurais|parlot%[m|é]|
+|il|aurait|parlot%[m|é]|
+|nous|aurions|parlot%[m|é]|
+|vous|auriez|parlot%[m|é]|
+|ils|auraient|parlot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|parlot%[m|e]|
+|que|tu|parlot%[m|es]|
+|qu'|il|parlot%[m|e]|
+|que|nous|parlot%[m|ions]|
+|que|vous|parlot%[m|iez]|
+|qu'|ils|parlot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|parlot%[m|é]|
+|que|tu|aies|parlot%[m|é]|
+|qu'|il|ait|parlot%[m|é]|
+|que|nous|ayons|parlot%[m|é]|
+|que|vous|ayez|parlot%[m|é]|
+|qu'|ils|aient|parlot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|parlot%[m|asse]|
+|que|tu|parlot%[m|asses]|
+|qu'|il|parlot%[m|ât]|
+|que|nous|parlot%[m|assions]|
+|que|vous|parlot%[m|assiez]|
+|qu'|ils|parlot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|parlot%[m|é]|
+|que|tu|eusses|parlot%[m|é]|
+|qu'|il|eût|parlot%[m|é]|
+|que|nous|eussions|parlot%[m|é]|
+|que|vous|eussiez|parlot%[m|é]|
+|qu'|ils|eussent|parlot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|parlot%[m|e]|
+|parlot%[m|ons]|
+|parlot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|parlot%[m|é]|
+|ayons|parlot%[m|é]|
+|ayez|parlot%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# feuiller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|feuill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|feuill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|feuill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||feuill%[m|é]|
+|ayant|feuill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en feuill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|feuill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|feuill%[m|e]|
+|tu|feuill%[m|es]|
+|il|feuill%[m|e]|
+|nous|feuill%[m|ons]|
+|vous|feuill%[m|ez]|
+|ils|feuill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|feuill%[m|é]|
+|tu|as |feuill%[m|é]|
+|il|a|feuill%[m|é]|
+|nous|avons|feuill%[m|é]|
+|vous|avez|feuill%[m|é]|
+|ils|ont|feuill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|feuill%[m|ais]|
+|tu|feuill%[m|ais]|
+|il|feuill%[m|ait]|
+|nous|feuill%[m|ions]|
+|vous|feuill%[m|iez]|
+|ils|feuill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|feuill%[m|é]|
+|tu|avais|feuill%[m|é]|
+|il|avait|feuill%[m|é]|
+|nous|avions|feuill%[m|é]|
+|vous|aviez|feuill%[m|é]|
+|ils|avaient|feuill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|feuill%[m|ai]|
+|tu|feuill%[m|as]|
+|il|feuill%[m|a]|
+|nous|feuill%[m|âmes]|
+|vous|feuill%[m|âtes]|
+|ils|feuill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|feuill%[m|é]|
+|tu|eus|feuill%[m|é]|
+|il|eut|feuill%[m|é]|
+|nous|e&ucirc;mes|feuill%[m|é]|
+|vous|e&ucirc;tes|feuill%[m|é]|
+|ils|eurent|feuill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|feuill%[m|erai]|
+|tu|feuill%[m|eras]|
+|il|feuill%[m|era]|
+|nous|feuill%[m|erons]|
+|vous|feuill%[m|erez]|
+|ils|feuill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|feuill%[m|é]|
+|tu|auras|feuill%[m|é]|
+|il|aura|feuill%[m|é]|
+|nous|aurons|feuill%[m|é]|
+|vous|aurez|feuill%[m|é]|
+|ils|auront|feuill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|feuill%[m|erais]|
+|tu|feuill%[m|erais]|
+|il|feuill%[m|erait]|
+|nous|feuill%[m|erions]|
+|vous|feuill%[m|eriez]|
+|ils|feuill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|feuill%[m|é]|
+|tu|aurais|feuill%[m|é]|
+|il|aurait|feuill%[m|é]|
+|nous|aurions|feuill%[m|é]|
+|vous|auriez|feuill%[m|é]|
+|ils|auraient|feuill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|feuill%[m|e]|
+|que|tu|feuill%[m|es]|
+|qu'|il|feuill%[m|e]|
+|que|nous|feuill%[m|ions]|
+|que|vous|feuill%[m|iez]|
+|qu'|ils|feuill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|feuill%[m|é]|
+|que|tu|aies|feuill%[m|é]|
+|qu'|il|ait|feuill%[m|é]|
+|que|nous|ayons|feuill%[m|é]|
+|que|vous|ayez|feuill%[m|é]|
+|qu'|ils|aient|feuill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|feuill%[m|asse]|
+|que|tu|feuill%[m|asses]|
+|qu'|il|feuill%[m|ât]|
+|que|nous|feuill%[m|assions]|
+|que|vous|feuill%[m|assiez]|
+|qu'|ils|feuill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|feuill%[m|é]|
+|que|tu|eusses|feuill%[m|é]|
+|qu'|il|eût|feuill%[m|é]|
+|que|nous|eussions|feuill%[m|é]|
+|que|vous|eussiez|feuill%[m|é]|
+|qu'|ils|eussent|feuill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|feuill%[m|e]|
+|feuill%[m|ons]|
+|feuill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|feuill%[m|é]|
+|ayons|feuill%[m|é]|
+|ayez|feuill%[m|é]|
+|]
+

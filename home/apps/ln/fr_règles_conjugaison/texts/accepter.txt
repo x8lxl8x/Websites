@@ -1,0 +1,193 @@
+# accepter %[clVerbGroup|1]
+[-
+prendre volontairement ce qui est proposé. 
+admettre, considérer comme vrai. 
+se montrer prêt à. 
+donner son accord à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|accept%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|accept%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|accept%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||accept%[m|é]|
+|ayant|accept%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en accept%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|accept%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|accept%[m|e]|
+|tu|accept%[m|es]|
+|il|accept%[m|e]|
+|nous|accept%[m|ons]|
+|vous|accept%[m|ez]|
+|ils|accept%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|accept%[m|é]|
+|tu|as |accept%[m|é]|
+|il|a|accept%[m|é]|
+|nous|avons|accept%[m|é]|
+|vous|avez|accept%[m|é]|
+|ils|ont|accept%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|accept%[m|ais]|
+|tu|accept%[m|ais]|
+|il|accept%[m|ait]|
+|nous|accept%[m|ions]|
+|vous|accept%[m|iez]|
+|ils|accept%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|accept%[m|é]|
+|tu|avais|accept%[m|é]|
+|il|avait|accept%[m|é]|
+|nous|avions|accept%[m|é]|
+|vous|aviez|accept%[m|é]|
+|ils|avaient|accept%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|accept%[m|ai]|
+|tu|accept%[m|as]|
+|il|accept%[m|a]|
+|nous|accept%[m|âmes]|
+|vous|accept%[m|âtes]|
+|ils|accept%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|accept%[m|é]|
+|tu|eus|accept%[m|é]|
+|il|eut|accept%[m|é]|
+|nous|e&ucirc;mes|accept%[m|é]|
+|vous|e&ucirc;tes|accept%[m|é]|
+|ils|eurent|accept%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|accept%[m|erai]|
+|tu|accept%[m|eras]|
+|il|accept%[m|era]|
+|nous|accept%[m|erons]|
+|vous|accept%[m|erez]|
+|ils|accept%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|accept%[m|é]|
+|tu|auras|accept%[m|é]|
+|il|aura|accept%[m|é]|
+|nous|aurons|accept%[m|é]|
+|vous|aurez|accept%[m|é]|
+|ils|auront|accept%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|accept%[m|erais]|
+|tu|accept%[m|erais]|
+|il|accept%[m|erait]|
+|nous|accept%[m|erions]|
+|vous|accept%[m|eriez]|
+|ils|accept%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|accept%[m|é]|
+|tu|aurais|accept%[m|é]|
+|il|aurait|accept%[m|é]|
+|nous|aurions|accept%[m|é]|
+|vous|auriez|accept%[m|é]|
+|ils|auraient|accept%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|accept%[m|e]|
+|que|tu|accept%[m|es]|
+|qu'|il|accept%[m|e]|
+|que|nous|accept%[m|ions]|
+|que|vous|accept%[m|iez]|
+|qu'|ils|accept%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|accept%[m|é]|
+|que|tu|aies|accept%[m|é]|
+|qu'|il|ait|accept%[m|é]|
+|que|nous|ayons|accept%[m|é]|
+|que|vous|ayez|accept%[m|é]|
+|qu'|ils|aient|accept%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|accept%[m|asse]|
+|que|tu|accept%[m|asses]|
+|qu'|il|accept%[m|ât]|
+|que|nous|accept%[m|assions]|
+|que|vous|accept%[m|assiez]|
+|qu'|ils|accept%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|accept%[m|é]|
+|que|tu|eusses|accept%[m|é]|
+|qu'|il|eût|accept%[m|é]|
+|que|nous|eussions|accept%[m|é]|
+|que|vous|eussiez|accept%[m|é]|
+|qu'|ils|eussent|accept%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accept%[m|e]|
+|accept%[m|ons]|
+|accept%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|accept%[m|é]|
+|ayons|accept%[m|é]|
+|ayez|accept%[m|é]|
+|]
+

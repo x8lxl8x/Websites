@@ -1,0 +1,190 @@
+# clamser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|clams%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|clams%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|clams%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||clams%[m|é]|
+|ayant|clams%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en clams%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|clams%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|clams%[m|e]|
+|tu|clams%[m|es]|
+|il|clams%[m|e]|
+|nous|clams%[m|ons]|
+|vous|clams%[m|ez]|
+|ils|clams%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|clams%[m|é]|
+|tu|as |clams%[m|é]|
+|il|a|clams%[m|é]|
+|nous|avons|clams%[m|é]|
+|vous|avez|clams%[m|é]|
+|ils|ont|clams%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|clams%[m|ais]|
+|tu|clams%[m|ais]|
+|il|clams%[m|ait]|
+|nous|clams%[m|ions]|
+|vous|clams%[m|iez]|
+|ils|clams%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|clams%[m|é]|
+|tu|avais|clams%[m|é]|
+|il|avait|clams%[m|é]|
+|nous|avions|clams%[m|é]|
+|vous|aviez|clams%[m|é]|
+|ils|avaient|clams%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|clams%[m|ai]|
+|tu|clams%[m|as]|
+|il|clams%[m|a]|
+|nous|clams%[m|âmes]|
+|vous|clams%[m|âtes]|
+|ils|clams%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|clams%[m|é]|
+|tu|eus|clams%[m|é]|
+|il|eut|clams%[m|é]|
+|nous|e&ucirc;mes|clams%[m|é]|
+|vous|e&ucirc;tes|clams%[m|é]|
+|ils|eurent|clams%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|clams%[m|erai]|
+|tu|clams%[m|eras]|
+|il|clams%[m|era]|
+|nous|clams%[m|erons]|
+|vous|clams%[m|erez]|
+|ils|clams%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|clams%[m|é]|
+|tu|auras|clams%[m|é]|
+|il|aura|clams%[m|é]|
+|nous|aurons|clams%[m|é]|
+|vous|aurez|clams%[m|é]|
+|ils|auront|clams%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|clams%[m|erais]|
+|tu|clams%[m|erais]|
+|il|clams%[m|erait]|
+|nous|clams%[m|erions]|
+|vous|clams%[m|eriez]|
+|ils|clams%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|clams%[m|é]|
+|tu|aurais|clams%[m|é]|
+|il|aurait|clams%[m|é]|
+|nous|aurions|clams%[m|é]|
+|vous|auriez|clams%[m|é]|
+|ils|auraient|clams%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|clams%[m|e]|
+|que|tu|clams%[m|es]|
+|qu'|il|clams%[m|e]|
+|que|nous|clams%[m|ions]|
+|que|vous|clams%[m|iez]|
+|qu'|ils|clams%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|clams%[m|é]|
+|que|tu|aies|clams%[m|é]|
+|qu'|il|ait|clams%[m|é]|
+|que|nous|ayons|clams%[m|é]|
+|que|vous|ayez|clams%[m|é]|
+|qu'|ils|aient|clams%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|clams%[m|asse]|
+|que|tu|clams%[m|asses]|
+|qu'|il|clams%[m|ât]|
+|que|nous|clams%[m|assions]|
+|que|vous|clams%[m|assiez]|
+|qu'|ils|clams%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|clams%[m|é]|
+|que|tu|eusses|clams%[m|é]|
+|qu'|il|eût|clams%[m|é]|
+|que|nous|eussions|clams%[m|é]|
+|que|vous|eussiez|clams%[m|é]|
+|qu'|ils|eussent|clams%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|clams%[m|e]|
+|clams%[m|ons]|
+|clams%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|clams%[m|é]|
+|ayons|clams%[m|é]|
+|ayez|clams%[m|é]|
+|]
+

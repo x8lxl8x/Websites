@@ -1,0 +1,191 @@
+# persister %[clVerbGroup|1]
+[-
+durer, rester malgré tout, continuer, subsister. Le vent persiste. 
+s'obstiner, persévérer, demeurer inébranlable en tout. Persister à nier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|persist%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|persist%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|persist%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||persist%[m|é]|
+|ayant|persist%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en persist%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|persist%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|persist%[m|e]|
+|tu|persist%[m|es]|
+|il|persist%[m|e]|
+|nous|persist%[m|ons]|
+|vous|persist%[m|ez]|
+|ils|persist%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|persist%[m|é]|
+|tu|as |persist%[m|é]|
+|il|a|persist%[m|é]|
+|nous|avons|persist%[m|é]|
+|vous|avez|persist%[m|é]|
+|ils|ont|persist%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|persist%[m|ais]|
+|tu|persist%[m|ais]|
+|il|persist%[m|ait]|
+|nous|persist%[m|ions]|
+|vous|persist%[m|iez]|
+|ils|persist%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|persist%[m|é]|
+|tu|avais|persist%[m|é]|
+|il|avait|persist%[m|é]|
+|nous|avions|persist%[m|é]|
+|vous|aviez|persist%[m|é]|
+|ils|avaient|persist%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|persist%[m|ai]|
+|tu|persist%[m|as]|
+|il|persist%[m|a]|
+|nous|persist%[m|âmes]|
+|vous|persist%[m|âtes]|
+|ils|persist%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|persist%[m|é]|
+|tu|eus|persist%[m|é]|
+|il|eut|persist%[m|é]|
+|nous|e&ucirc;mes|persist%[m|é]|
+|vous|e&ucirc;tes|persist%[m|é]|
+|ils|eurent|persist%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|persist%[m|erai]|
+|tu|persist%[m|eras]|
+|il|persist%[m|era]|
+|nous|persist%[m|erons]|
+|vous|persist%[m|erez]|
+|ils|persist%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|persist%[m|é]|
+|tu|auras|persist%[m|é]|
+|il|aura|persist%[m|é]|
+|nous|aurons|persist%[m|é]|
+|vous|aurez|persist%[m|é]|
+|ils|auront|persist%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|persist%[m|erais]|
+|tu|persist%[m|erais]|
+|il|persist%[m|erait]|
+|nous|persist%[m|erions]|
+|vous|persist%[m|eriez]|
+|ils|persist%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|persist%[m|é]|
+|tu|aurais|persist%[m|é]|
+|il|aurait|persist%[m|é]|
+|nous|aurions|persist%[m|é]|
+|vous|auriez|persist%[m|é]|
+|ils|auraient|persist%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|persist%[m|e]|
+|que|tu|persist%[m|es]|
+|qu'|il|persist%[m|e]|
+|que|nous|persist%[m|ions]|
+|que|vous|persist%[m|iez]|
+|qu'|ils|persist%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|persist%[m|é]|
+|que|tu|aies|persist%[m|é]|
+|qu'|il|ait|persist%[m|é]|
+|que|nous|ayons|persist%[m|é]|
+|que|vous|ayez|persist%[m|é]|
+|qu'|ils|aient|persist%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|persist%[m|asse]|
+|que|tu|persist%[m|asses]|
+|qu'|il|persist%[m|ât]|
+|que|nous|persist%[m|assions]|
+|que|vous|persist%[m|assiez]|
+|qu'|ils|persist%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|persist%[m|é]|
+|que|tu|eusses|persist%[m|é]|
+|qu'|il|eût|persist%[m|é]|
+|que|nous|eussions|persist%[m|é]|
+|que|vous|eussiez|persist%[m|é]|
+|qu'|ils|eussent|persist%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|persist%[m|e]|
+|persist%[m|ons]|
+|persist%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|persist%[m|é]|
+|ayons|persist%[m|é]|
+|ayez|persist%[m|é]|
+|]
+

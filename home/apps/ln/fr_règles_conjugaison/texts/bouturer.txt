@@ -1,0 +1,190 @@
+# bouturer %[clVerbGroup|1]
+[-
+reproduire par boutures. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|boutur%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|boutur%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|boutur%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||boutur%[m|é]|
+|ayant|boutur%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en boutur%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|boutur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|boutur%[m|e]|
+|tu|boutur%[m|es]|
+|il|boutur%[m|e]|
+|nous|boutur%[m|ons]|
+|vous|boutur%[m|ez]|
+|ils|boutur%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|boutur%[m|é]|
+|tu|as |boutur%[m|é]|
+|il|a|boutur%[m|é]|
+|nous|avons|boutur%[m|é]|
+|vous|avez|boutur%[m|é]|
+|ils|ont|boutur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|boutur%[m|ais]|
+|tu|boutur%[m|ais]|
+|il|boutur%[m|ait]|
+|nous|boutur%[m|ions]|
+|vous|boutur%[m|iez]|
+|ils|boutur%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|boutur%[m|é]|
+|tu|avais|boutur%[m|é]|
+|il|avait|boutur%[m|é]|
+|nous|avions|boutur%[m|é]|
+|vous|aviez|boutur%[m|é]|
+|ils|avaient|boutur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|boutur%[m|ai]|
+|tu|boutur%[m|as]|
+|il|boutur%[m|a]|
+|nous|boutur%[m|âmes]|
+|vous|boutur%[m|âtes]|
+|ils|boutur%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|boutur%[m|é]|
+|tu|eus|boutur%[m|é]|
+|il|eut|boutur%[m|é]|
+|nous|e&ucirc;mes|boutur%[m|é]|
+|vous|e&ucirc;tes|boutur%[m|é]|
+|ils|eurent|boutur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|boutur%[m|erai]|
+|tu|boutur%[m|eras]|
+|il|boutur%[m|era]|
+|nous|boutur%[m|erons]|
+|vous|boutur%[m|erez]|
+|ils|boutur%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|boutur%[m|é]|
+|tu|auras|boutur%[m|é]|
+|il|aura|boutur%[m|é]|
+|nous|aurons|boutur%[m|é]|
+|vous|aurez|boutur%[m|é]|
+|ils|auront|boutur%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|boutur%[m|erais]|
+|tu|boutur%[m|erais]|
+|il|boutur%[m|erait]|
+|nous|boutur%[m|erions]|
+|vous|boutur%[m|eriez]|
+|ils|boutur%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|boutur%[m|é]|
+|tu|aurais|boutur%[m|é]|
+|il|aurait|boutur%[m|é]|
+|nous|aurions|boutur%[m|é]|
+|vous|auriez|boutur%[m|é]|
+|ils|auraient|boutur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|boutur%[m|e]|
+|que|tu|boutur%[m|es]|
+|qu'|il|boutur%[m|e]|
+|que|nous|boutur%[m|ions]|
+|que|vous|boutur%[m|iez]|
+|qu'|ils|boutur%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|boutur%[m|é]|
+|que|tu|aies|boutur%[m|é]|
+|qu'|il|ait|boutur%[m|é]|
+|que|nous|ayons|boutur%[m|é]|
+|que|vous|ayez|boutur%[m|é]|
+|qu'|ils|aient|boutur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|boutur%[m|asse]|
+|que|tu|boutur%[m|asses]|
+|qu'|il|boutur%[m|ât]|
+|que|nous|boutur%[m|assions]|
+|que|vous|boutur%[m|assiez]|
+|qu'|ils|boutur%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|boutur%[m|é]|
+|que|tu|eusses|boutur%[m|é]|
+|qu'|il|eût|boutur%[m|é]|
+|que|nous|eussions|boutur%[m|é]|
+|que|vous|eussiez|boutur%[m|é]|
+|qu'|ils|eussent|boutur%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boutur%[m|e]|
+|boutur%[m|ons]|
+|boutur%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|boutur%[m|é]|
+|ayons|boutur%[m|é]|
+|ayez|boutur%[m|é]|
+|]
+

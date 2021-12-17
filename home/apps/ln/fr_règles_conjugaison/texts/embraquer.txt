@@ -1,0 +1,190 @@
+# embraquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|embraqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|embraqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||embraqu%[m|é]|
+|ayant|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en embraqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|embraqu%[m|e]|
+|tu|embraqu%[m|es]|
+|il|embraqu%[m|e]|
+|nous|embraqu%[m|ons]|
+|vous|embraqu%[m|ez]|
+|ils|embraqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|embraqu%[m|é]|
+|tu|as |embraqu%[m|é]|
+|il|a|embraqu%[m|é]|
+|nous|avons|embraqu%[m|é]|
+|vous|avez|embraqu%[m|é]|
+|ils|ont|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|embraqu%[m|ais]|
+|tu|embraqu%[m|ais]|
+|il|embraqu%[m|ait]|
+|nous|embraqu%[m|ions]|
+|vous|embraqu%[m|iez]|
+|ils|embraqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|embraqu%[m|é]|
+|tu|avais|embraqu%[m|é]|
+|il|avait|embraqu%[m|é]|
+|nous|avions|embraqu%[m|é]|
+|vous|aviez|embraqu%[m|é]|
+|ils|avaient|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|embraqu%[m|ai]|
+|tu|embraqu%[m|as]|
+|il|embraqu%[m|a]|
+|nous|embraqu%[m|âmes]|
+|vous|embraqu%[m|âtes]|
+|ils|embraqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|embraqu%[m|é]|
+|tu|eus|embraqu%[m|é]|
+|il|eut|embraqu%[m|é]|
+|nous|e&ucirc;mes|embraqu%[m|é]|
+|vous|e&ucirc;tes|embraqu%[m|é]|
+|ils|eurent|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|embraqu%[m|erai]|
+|tu|embraqu%[m|eras]|
+|il|embraqu%[m|era]|
+|nous|embraqu%[m|erons]|
+|vous|embraqu%[m|erez]|
+|ils|embraqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|embraqu%[m|é]|
+|tu|auras|embraqu%[m|é]|
+|il|aura|embraqu%[m|é]|
+|nous|aurons|embraqu%[m|é]|
+|vous|aurez|embraqu%[m|é]|
+|ils|auront|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|embraqu%[m|erais]|
+|tu|embraqu%[m|erais]|
+|il|embraqu%[m|erait]|
+|nous|embraqu%[m|erions]|
+|vous|embraqu%[m|eriez]|
+|ils|embraqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|embraqu%[m|é]|
+|tu|aurais|embraqu%[m|é]|
+|il|aurait|embraqu%[m|é]|
+|nous|aurions|embraqu%[m|é]|
+|vous|auriez|embraqu%[m|é]|
+|ils|auraient|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|embraqu%[m|e]|
+|que|tu|embraqu%[m|es]|
+|qu'|il|embraqu%[m|e]|
+|que|nous|embraqu%[m|ions]|
+|que|vous|embraqu%[m|iez]|
+|qu'|ils|embraqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|embraqu%[m|é]|
+|que|tu|aies|embraqu%[m|é]|
+|qu'|il|ait|embraqu%[m|é]|
+|que|nous|ayons|embraqu%[m|é]|
+|que|vous|ayez|embraqu%[m|é]|
+|qu'|ils|aient|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|embraqu%[m|asse]|
+|que|tu|embraqu%[m|asses]|
+|qu'|il|embraqu%[m|ât]|
+|que|nous|embraqu%[m|assions]|
+|que|vous|embraqu%[m|assiez]|
+|qu'|ils|embraqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|embraqu%[m|é]|
+|que|tu|eusses|embraqu%[m|é]|
+|qu'|il|eût|embraqu%[m|é]|
+|que|nous|eussions|embraqu%[m|é]|
+|que|vous|eussiez|embraqu%[m|é]|
+|qu'|ils|eussent|embraqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|embraqu%[m|e]|
+|embraqu%[m|ons]|
+|embraqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|embraqu%[m|é]|
+|ayons|embraqu%[m|é]|
+|ayez|embraqu%[m|é]|
+|]
+

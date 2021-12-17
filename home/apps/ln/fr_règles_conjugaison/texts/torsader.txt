@@ -1,0 +1,190 @@
+# torsader %[clVerbGroup|1]
+[-
+rouler en torsade. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|torsad%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|torsad%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|torsad%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||torsad%[m|é]|
+|ayant|torsad%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en torsad%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|torsad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|torsad%[m|e]|
+|tu|torsad%[m|es]|
+|il|torsad%[m|e]|
+|nous|torsad%[m|ons]|
+|vous|torsad%[m|ez]|
+|ils|torsad%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|torsad%[m|é]|
+|tu|as |torsad%[m|é]|
+|il|a|torsad%[m|é]|
+|nous|avons|torsad%[m|é]|
+|vous|avez|torsad%[m|é]|
+|ils|ont|torsad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|torsad%[m|ais]|
+|tu|torsad%[m|ais]|
+|il|torsad%[m|ait]|
+|nous|torsad%[m|ions]|
+|vous|torsad%[m|iez]|
+|ils|torsad%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|torsad%[m|é]|
+|tu|avais|torsad%[m|é]|
+|il|avait|torsad%[m|é]|
+|nous|avions|torsad%[m|é]|
+|vous|aviez|torsad%[m|é]|
+|ils|avaient|torsad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|torsad%[m|ai]|
+|tu|torsad%[m|as]|
+|il|torsad%[m|a]|
+|nous|torsad%[m|âmes]|
+|vous|torsad%[m|âtes]|
+|ils|torsad%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|torsad%[m|é]|
+|tu|eus|torsad%[m|é]|
+|il|eut|torsad%[m|é]|
+|nous|e&ucirc;mes|torsad%[m|é]|
+|vous|e&ucirc;tes|torsad%[m|é]|
+|ils|eurent|torsad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|torsad%[m|erai]|
+|tu|torsad%[m|eras]|
+|il|torsad%[m|era]|
+|nous|torsad%[m|erons]|
+|vous|torsad%[m|erez]|
+|ils|torsad%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|torsad%[m|é]|
+|tu|auras|torsad%[m|é]|
+|il|aura|torsad%[m|é]|
+|nous|aurons|torsad%[m|é]|
+|vous|aurez|torsad%[m|é]|
+|ils|auront|torsad%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|torsad%[m|erais]|
+|tu|torsad%[m|erais]|
+|il|torsad%[m|erait]|
+|nous|torsad%[m|erions]|
+|vous|torsad%[m|eriez]|
+|ils|torsad%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|torsad%[m|é]|
+|tu|aurais|torsad%[m|é]|
+|il|aurait|torsad%[m|é]|
+|nous|aurions|torsad%[m|é]|
+|vous|auriez|torsad%[m|é]|
+|ils|auraient|torsad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|torsad%[m|e]|
+|que|tu|torsad%[m|es]|
+|qu'|il|torsad%[m|e]|
+|que|nous|torsad%[m|ions]|
+|que|vous|torsad%[m|iez]|
+|qu'|ils|torsad%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|torsad%[m|é]|
+|que|tu|aies|torsad%[m|é]|
+|qu'|il|ait|torsad%[m|é]|
+|que|nous|ayons|torsad%[m|é]|
+|que|vous|ayez|torsad%[m|é]|
+|qu'|ils|aient|torsad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|torsad%[m|asse]|
+|que|tu|torsad%[m|asses]|
+|qu'|il|torsad%[m|ât]|
+|que|nous|torsad%[m|assions]|
+|que|vous|torsad%[m|assiez]|
+|qu'|ils|torsad%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|torsad%[m|é]|
+|que|tu|eusses|torsad%[m|é]|
+|qu'|il|eût|torsad%[m|é]|
+|que|nous|eussions|torsad%[m|é]|
+|que|vous|eussiez|torsad%[m|é]|
+|qu'|ils|eussent|torsad%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|torsad%[m|e]|
+|torsad%[m|ons]|
+|torsad%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|torsad%[m|é]|
+|ayons|torsad%[m|é]|
+|ayez|torsad%[m|é]|
+|]
+

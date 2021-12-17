@@ -1,0 +1,190 @@
+# inhiber %[clVerbGroup|1]
+[-
+provoquer l'inhibition. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|inhib%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|inhib%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|inhib%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||inhib%[m|é]|
+|ayant|inhib%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en inhib%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|inhib%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|inhib%[m|e]|
+|tu|inhib%[m|es]|
+|il|inhib%[m|e]|
+|nous|inhib%[m|ons]|
+|vous|inhib%[m|ez]|
+|ils|inhib%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|inhib%[m|é]|
+|tu|as |inhib%[m|é]|
+|il|a|inhib%[m|é]|
+|nous|avons|inhib%[m|é]|
+|vous|avez|inhib%[m|é]|
+|ils|ont|inhib%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|inhib%[m|ais]|
+|tu|inhib%[m|ais]|
+|il|inhib%[m|ait]|
+|nous|inhib%[m|ions]|
+|vous|inhib%[m|iez]|
+|ils|inhib%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|inhib%[m|é]|
+|tu|avais|inhib%[m|é]|
+|il|avait|inhib%[m|é]|
+|nous|avions|inhib%[m|é]|
+|vous|aviez|inhib%[m|é]|
+|ils|avaient|inhib%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|inhib%[m|ai]|
+|tu|inhib%[m|as]|
+|il|inhib%[m|a]|
+|nous|inhib%[m|âmes]|
+|vous|inhib%[m|âtes]|
+|ils|inhib%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|inhib%[m|é]|
+|tu|eus|inhib%[m|é]|
+|il|eut|inhib%[m|é]|
+|nous|e&ucirc;mes|inhib%[m|é]|
+|vous|e&ucirc;tes|inhib%[m|é]|
+|ils|eurent|inhib%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|inhib%[m|erai]|
+|tu|inhib%[m|eras]|
+|il|inhib%[m|era]|
+|nous|inhib%[m|erons]|
+|vous|inhib%[m|erez]|
+|ils|inhib%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|inhib%[m|é]|
+|tu|auras|inhib%[m|é]|
+|il|aura|inhib%[m|é]|
+|nous|aurons|inhib%[m|é]|
+|vous|aurez|inhib%[m|é]|
+|ils|auront|inhib%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|inhib%[m|erais]|
+|tu|inhib%[m|erais]|
+|il|inhib%[m|erait]|
+|nous|inhib%[m|erions]|
+|vous|inhib%[m|eriez]|
+|ils|inhib%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|inhib%[m|é]|
+|tu|aurais|inhib%[m|é]|
+|il|aurait|inhib%[m|é]|
+|nous|aurions|inhib%[m|é]|
+|vous|auriez|inhib%[m|é]|
+|ils|auraient|inhib%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|inhib%[m|e]|
+|que|tu|inhib%[m|es]|
+|qu'|il|inhib%[m|e]|
+|que|nous|inhib%[m|ions]|
+|que|vous|inhib%[m|iez]|
+|qu'|ils|inhib%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|inhib%[m|é]|
+|que|tu|aies|inhib%[m|é]|
+|qu'|il|ait|inhib%[m|é]|
+|que|nous|ayons|inhib%[m|é]|
+|que|vous|ayez|inhib%[m|é]|
+|qu'|ils|aient|inhib%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|inhib%[m|asse]|
+|que|tu|inhib%[m|asses]|
+|qu'|il|inhib%[m|ât]|
+|que|nous|inhib%[m|assions]|
+|que|vous|inhib%[m|assiez]|
+|qu'|ils|inhib%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|inhib%[m|é]|
+|que|tu|eusses|inhib%[m|é]|
+|qu'|il|eût|inhib%[m|é]|
+|que|nous|eussions|inhib%[m|é]|
+|que|vous|eussiez|inhib%[m|é]|
+|qu'|ils|eussent|inhib%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|inhib%[m|e]|
+|inhib%[m|ons]|
+|inhib%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|inhib%[m|é]|
+|ayons|inhib%[m|é]|
+|ayez|inhib%[m|é]|
+|]
+

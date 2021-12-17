@@ -1,0 +1,190 @@
+# détartrer %[clVerbGroup|1]
+[-
+enlever le tartre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|détartr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|détartr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|détartr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||détartr%[m|é]|
+|ayant|détartr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en détartr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|détartr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|détartr%[m|e]|
+|tu|détartr%[m|es]|
+|il|détartr%[m|e]|
+|nous|détartr%[m|ons]|
+|vous|détartr%[m|ez]|
+|ils|détartr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|détartr%[m|é]|
+|tu|as |détartr%[m|é]|
+|il|a|détartr%[m|é]|
+|nous|avons|détartr%[m|é]|
+|vous|avez|détartr%[m|é]|
+|ils|ont|détartr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|détartr%[m|ais]|
+|tu|détartr%[m|ais]|
+|il|détartr%[m|ait]|
+|nous|détartr%[m|ions]|
+|vous|détartr%[m|iez]|
+|ils|détartr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|détartr%[m|é]|
+|tu|avais|détartr%[m|é]|
+|il|avait|détartr%[m|é]|
+|nous|avions|détartr%[m|é]|
+|vous|aviez|détartr%[m|é]|
+|ils|avaient|détartr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|détartr%[m|ai]|
+|tu|détartr%[m|as]|
+|il|détartr%[m|a]|
+|nous|détartr%[m|âmes]|
+|vous|détartr%[m|âtes]|
+|ils|détartr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|détartr%[m|é]|
+|tu|eus|détartr%[m|é]|
+|il|eut|détartr%[m|é]|
+|nous|e&ucirc;mes|détartr%[m|é]|
+|vous|e&ucirc;tes|détartr%[m|é]|
+|ils|eurent|détartr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|détartr%[m|erai]|
+|tu|détartr%[m|eras]|
+|il|détartr%[m|era]|
+|nous|détartr%[m|erons]|
+|vous|détartr%[m|erez]|
+|ils|détartr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|détartr%[m|é]|
+|tu|auras|détartr%[m|é]|
+|il|aura|détartr%[m|é]|
+|nous|aurons|détartr%[m|é]|
+|vous|aurez|détartr%[m|é]|
+|ils|auront|détartr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|détartr%[m|erais]|
+|tu|détartr%[m|erais]|
+|il|détartr%[m|erait]|
+|nous|détartr%[m|erions]|
+|vous|détartr%[m|eriez]|
+|ils|détartr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|détartr%[m|é]|
+|tu|aurais|détartr%[m|é]|
+|il|aurait|détartr%[m|é]|
+|nous|aurions|détartr%[m|é]|
+|vous|auriez|détartr%[m|é]|
+|ils|auraient|détartr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|détartr%[m|e]|
+|que|tu|détartr%[m|es]|
+|qu'|il|détartr%[m|e]|
+|que|nous|détartr%[m|ions]|
+|que|vous|détartr%[m|iez]|
+|qu'|ils|détartr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|détartr%[m|é]|
+|que|tu|aies|détartr%[m|é]|
+|qu'|il|ait|détartr%[m|é]|
+|que|nous|ayons|détartr%[m|é]|
+|que|vous|ayez|détartr%[m|é]|
+|qu'|ils|aient|détartr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|détartr%[m|asse]|
+|que|tu|détartr%[m|asses]|
+|qu'|il|détartr%[m|ât]|
+|que|nous|détartr%[m|assions]|
+|que|vous|détartr%[m|assiez]|
+|qu'|ils|détartr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|détartr%[m|é]|
+|que|tu|eusses|détartr%[m|é]|
+|qu'|il|eût|détartr%[m|é]|
+|que|nous|eussions|détartr%[m|é]|
+|que|vous|eussiez|détartr%[m|é]|
+|qu'|ils|eussent|détartr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|détartr%[m|e]|
+|détartr%[m|ons]|
+|détartr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|détartr%[m|é]|
+|ayons|détartr%[m|é]|
+|ayez|détartr%[m|é]|
+|]
+

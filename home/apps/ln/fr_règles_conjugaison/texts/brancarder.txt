@@ -1,0 +1,190 @@
+# brancarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|brancard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|brancard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|brancard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||brancard%[m|é]|
+|ayant|brancard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en brancard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|brancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|brancard%[m|e]|
+|tu|brancard%[m|es]|
+|il|brancard%[m|e]|
+|nous|brancard%[m|ons]|
+|vous|brancard%[m|ez]|
+|ils|brancard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|brancard%[m|é]|
+|tu|as |brancard%[m|é]|
+|il|a|brancard%[m|é]|
+|nous|avons|brancard%[m|é]|
+|vous|avez|brancard%[m|é]|
+|ils|ont|brancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|brancard%[m|ais]|
+|tu|brancard%[m|ais]|
+|il|brancard%[m|ait]|
+|nous|brancard%[m|ions]|
+|vous|brancard%[m|iez]|
+|ils|brancard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|brancard%[m|é]|
+|tu|avais|brancard%[m|é]|
+|il|avait|brancard%[m|é]|
+|nous|avions|brancard%[m|é]|
+|vous|aviez|brancard%[m|é]|
+|ils|avaient|brancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|brancard%[m|ai]|
+|tu|brancard%[m|as]|
+|il|brancard%[m|a]|
+|nous|brancard%[m|âmes]|
+|vous|brancard%[m|âtes]|
+|ils|brancard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|brancard%[m|é]|
+|tu|eus|brancard%[m|é]|
+|il|eut|brancard%[m|é]|
+|nous|e&ucirc;mes|brancard%[m|é]|
+|vous|e&ucirc;tes|brancard%[m|é]|
+|ils|eurent|brancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|brancard%[m|erai]|
+|tu|brancard%[m|eras]|
+|il|brancard%[m|era]|
+|nous|brancard%[m|erons]|
+|vous|brancard%[m|erez]|
+|ils|brancard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|brancard%[m|é]|
+|tu|auras|brancard%[m|é]|
+|il|aura|brancard%[m|é]|
+|nous|aurons|brancard%[m|é]|
+|vous|aurez|brancard%[m|é]|
+|ils|auront|brancard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|brancard%[m|erais]|
+|tu|brancard%[m|erais]|
+|il|brancard%[m|erait]|
+|nous|brancard%[m|erions]|
+|vous|brancard%[m|eriez]|
+|ils|brancard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|brancard%[m|é]|
+|tu|aurais|brancard%[m|é]|
+|il|aurait|brancard%[m|é]|
+|nous|aurions|brancard%[m|é]|
+|vous|auriez|brancard%[m|é]|
+|ils|auraient|brancard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|brancard%[m|e]|
+|que|tu|brancard%[m|es]|
+|qu'|il|brancard%[m|e]|
+|que|nous|brancard%[m|ions]|
+|que|vous|brancard%[m|iez]|
+|qu'|ils|brancard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|brancard%[m|é]|
+|que|tu|aies|brancard%[m|é]|
+|qu'|il|ait|brancard%[m|é]|
+|que|nous|ayons|brancard%[m|é]|
+|que|vous|ayez|brancard%[m|é]|
+|qu'|ils|aient|brancard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|brancard%[m|asse]|
+|que|tu|brancard%[m|asses]|
+|qu'|il|brancard%[m|ât]|
+|que|nous|brancard%[m|assions]|
+|que|vous|brancard%[m|assiez]|
+|qu'|ils|brancard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|brancard%[m|é]|
+|que|tu|eusses|brancard%[m|é]|
+|qu'|il|eût|brancard%[m|é]|
+|que|nous|eussions|brancard%[m|é]|
+|que|vous|eussiez|brancard%[m|é]|
+|qu'|ils|eussent|brancard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|brancard%[m|e]|
+|brancard%[m|ons]|
+|brancard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|brancard%[m|é]|
+|ayons|brancard%[m|é]|
+|ayez|brancard%[m|é]|
+|]
+

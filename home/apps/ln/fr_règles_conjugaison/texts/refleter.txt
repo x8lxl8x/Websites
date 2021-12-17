@@ -1,0 +1,191 @@
+# refléter %[clVerbGroup|1]
+[-
+renvoyer la lumière, des images, de façon plus ou moins atténuée. 
+représenter, exprimer, renvoyer l'image plus ou moins complète de quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|refl%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|reflét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|refl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||reflét%[m|é]|
+|ayant|reflét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en refl%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|reflét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|refl%[m|è]t%[m|e]|
+|tu|refl%[m|è]t%[m|es]|
+|il|refl%[m|è]t%[m|e]|
+|nous|refl%[m|é]t%[m|ons]|
+|vous|refl%[m|é]t%[m|ez]|
+|ils|refl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|reflét%[m|é]|
+|tu|as |reflét%[m|é]|
+|il|a|reflét%[m|é]|
+|nous|avons|reflét%[m|é]|
+|vous|avez|reflét%[m|é]|
+|ils|ont|reflét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|refl%[m|é]t%[m|ais]|
+|tu|refl%[m|é]t%[m|ais]|
+|il|refl%[m|é]t%[m|ait]|
+|nous|refl%[m|é]t%[m|ions]|
+|vous|refl%[m|é]t%[m|iez]|
+|ils|refl%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|reflét%[m|é]|
+|tu|avais|reflét%[m|é]|
+|il|avait|reflét%[m|é]|
+|nous|avions|reflét%[m|é]|
+|vous|aviez|reflét%[m|é]|
+|ils|avaient|reflét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|refl%[m|é]t%[m|ai]|
+|tu|refl%[m|é]t%[m|as]|
+|il|refl%[m|é]t%[m|a]|
+|nous|refl%[m|é]t%[m|âmes]|
+|vous|refl%[m|é]t%[m|âtes]|
+|ils|refl%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|reflét%[m|é]|
+|tu|eus|reflét%[m|é]|
+|il|eut|reflét%[m|é]|
+|nous|e&ucirc;mes|reflét%[m|é]|
+|vous|e&ucirc;tes|reflét%[m|é]|
+|ils|eurent|reflét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|refl%[m|é]t%[m|erai]|
+|tu|refl%[m|é]t%[m|eras]|
+|il|refl%[m|é]t%[m|era]|
+|nous|refl%[m|é]t%[m|erons]|
+|vous|refl%[m|é]t%[m|erez]|
+|ils|refl%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|reflét%[m|é]|
+|tu|auras|reflét%[m|é]|
+|il|aura|reflét%[m|é]|
+|nous|aurons|reflét%[m|é]|
+|vous|aurez|reflét%[m|é]|
+|ils|auront|reflét%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|refl%[m|é]t%[m|erais]|
+|tu|refl%[m|é]t%[m|erais]|
+|il|refl%[m|é]t%[m|erait]|
+|nous|refl%[m|é]t%[m|erions]|
+|vous|refl%[m|é]t%[m|eriez]|
+|ils|refl%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|reflét%[m|é]|
+|tu|aurais|reflét%[m|é]|
+|il|aurait|reflét%[m|é]|
+|nous|aurions|reflét%[m|é]|
+|vous|auriez|reflét%[m|é]|
+|ils|auraient|reflét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|refl%[m|è]t%[m|e]|
+|que|tu|refl%[m|è]t%[m|es]|
+|qu'|il|refl%[m|è]t%[m|e]|
+|que|nous|refl%[m|é]t%[m|ions]|
+|que|vous|refl%[m|é]t%[m|iez]|
+|qu'|ils|refl%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|reflét%[m|é]|
+|que|tu|aies|reflét%[m|é]|
+|qu'|il|ait|reflét%[m|é]|
+|que|nous|ayons|reflét%[m|é]|
+|que|vous|ayez|reflét%[m|é]|
+|qu'|ils|aient|reflét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|refl%[m|é]t%[m|asse]|
+|que|tu|refl%[m|é]t%[m|asses]|
+|qu'|il|refl%[m|é]t%[m|ât]|
+|que|nous|refl%[m|é]t%[m|assions]|
+|que|vous|refl%[m|é]t%[m|assiez]|
+|qu'|ils|refl%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|reflét%[m|é]|
+|que|tu|eusses|reflét%[m|é]|
+|qu'|il|eût|reflét%[m|é]|
+|que|nous|eussions|reflét%[m|é]|
+|que|vous|eussiez|reflét%[m|é]|
+|qu'|ils|eussent|reflét%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|refl%[m|è]t%[m|e]|
+|refl%[m|é]t%[m|ons]|
+|refl%[m|é]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|reflét%[m|é]|
+|ayons|reflét%[m|é]|
+|ayez|reflét%[m|é]|
+|]
+

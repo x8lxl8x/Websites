@@ -1,0 +1,190 @@
+# regonfler %[clVerbGroup|1]
+[-
+gonfler de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|regonfl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|regonfl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||regonfl%[m|é]|
+|ayant|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en regonfl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|regonfl%[m|e]|
+|tu|regonfl%[m|es]|
+|il|regonfl%[m|e]|
+|nous|regonfl%[m|ons]|
+|vous|regonfl%[m|ez]|
+|ils|regonfl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|regonfl%[m|é]|
+|tu|as |regonfl%[m|é]|
+|il|a|regonfl%[m|é]|
+|nous|avons|regonfl%[m|é]|
+|vous|avez|regonfl%[m|é]|
+|ils|ont|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|regonfl%[m|ais]|
+|tu|regonfl%[m|ais]|
+|il|regonfl%[m|ait]|
+|nous|regonfl%[m|ions]|
+|vous|regonfl%[m|iez]|
+|ils|regonfl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|regonfl%[m|é]|
+|tu|avais|regonfl%[m|é]|
+|il|avait|regonfl%[m|é]|
+|nous|avions|regonfl%[m|é]|
+|vous|aviez|regonfl%[m|é]|
+|ils|avaient|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|regonfl%[m|ai]|
+|tu|regonfl%[m|as]|
+|il|regonfl%[m|a]|
+|nous|regonfl%[m|âmes]|
+|vous|regonfl%[m|âtes]|
+|ils|regonfl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|regonfl%[m|é]|
+|tu|eus|regonfl%[m|é]|
+|il|eut|regonfl%[m|é]|
+|nous|e&ucirc;mes|regonfl%[m|é]|
+|vous|e&ucirc;tes|regonfl%[m|é]|
+|ils|eurent|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|regonfl%[m|erai]|
+|tu|regonfl%[m|eras]|
+|il|regonfl%[m|era]|
+|nous|regonfl%[m|erons]|
+|vous|regonfl%[m|erez]|
+|ils|regonfl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|regonfl%[m|é]|
+|tu|auras|regonfl%[m|é]|
+|il|aura|regonfl%[m|é]|
+|nous|aurons|regonfl%[m|é]|
+|vous|aurez|regonfl%[m|é]|
+|ils|auront|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|regonfl%[m|erais]|
+|tu|regonfl%[m|erais]|
+|il|regonfl%[m|erait]|
+|nous|regonfl%[m|erions]|
+|vous|regonfl%[m|eriez]|
+|ils|regonfl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|regonfl%[m|é]|
+|tu|aurais|regonfl%[m|é]|
+|il|aurait|regonfl%[m|é]|
+|nous|aurions|regonfl%[m|é]|
+|vous|auriez|regonfl%[m|é]|
+|ils|auraient|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|regonfl%[m|e]|
+|que|tu|regonfl%[m|es]|
+|qu'|il|regonfl%[m|e]|
+|que|nous|regonfl%[m|ions]|
+|que|vous|regonfl%[m|iez]|
+|qu'|ils|regonfl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|regonfl%[m|é]|
+|que|tu|aies|regonfl%[m|é]|
+|qu'|il|ait|regonfl%[m|é]|
+|que|nous|ayons|regonfl%[m|é]|
+|que|vous|ayez|regonfl%[m|é]|
+|qu'|ils|aient|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|regonfl%[m|asse]|
+|que|tu|regonfl%[m|asses]|
+|qu'|il|regonfl%[m|ât]|
+|que|nous|regonfl%[m|assions]|
+|que|vous|regonfl%[m|assiez]|
+|qu'|ils|regonfl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|regonfl%[m|é]|
+|que|tu|eusses|regonfl%[m|é]|
+|qu'|il|eût|regonfl%[m|é]|
+|que|nous|eussions|regonfl%[m|é]|
+|que|vous|eussiez|regonfl%[m|é]|
+|qu'|ils|eussent|regonfl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|regonfl%[m|e]|
+|regonfl%[m|ons]|
+|regonfl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|regonfl%[m|é]|
+|ayons|regonfl%[m|é]|
+|ayez|regonfl%[m|é]|
+|]
+

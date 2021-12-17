@@ -1,0 +1,190 @@
+# attenter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|attent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|attent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|attent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||attent%[m|é]|
+|ayant|attent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en attent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|attent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|attent%[m|e]|
+|tu|attent%[m|es]|
+|il|attent%[m|e]|
+|nous|attent%[m|ons]|
+|vous|attent%[m|ez]|
+|ils|attent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|attent%[m|é]|
+|tu|as |attent%[m|é]|
+|il|a|attent%[m|é]|
+|nous|avons|attent%[m|é]|
+|vous|avez|attent%[m|é]|
+|ils|ont|attent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|attent%[m|ais]|
+|tu|attent%[m|ais]|
+|il|attent%[m|ait]|
+|nous|attent%[m|ions]|
+|vous|attent%[m|iez]|
+|ils|attent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|attent%[m|é]|
+|tu|avais|attent%[m|é]|
+|il|avait|attent%[m|é]|
+|nous|avions|attent%[m|é]|
+|vous|aviez|attent%[m|é]|
+|ils|avaient|attent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|attent%[m|ai]|
+|tu|attent%[m|as]|
+|il|attent%[m|a]|
+|nous|attent%[m|âmes]|
+|vous|attent%[m|âtes]|
+|ils|attent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|attent%[m|é]|
+|tu|eus|attent%[m|é]|
+|il|eut|attent%[m|é]|
+|nous|e&ucirc;mes|attent%[m|é]|
+|vous|e&ucirc;tes|attent%[m|é]|
+|ils|eurent|attent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|attent%[m|erai]|
+|tu|attent%[m|eras]|
+|il|attent%[m|era]|
+|nous|attent%[m|erons]|
+|vous|attent%[m|erez]|
+|ils|attent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|attent%[m|é]|
+|tu|auras|attent%[m|é]|
+|il|aura|attent%[m|é]|
+|nous|aurons|attent%[m|é]|
+|vous|aurez|attent%[m|é]|
+|ils|auront|attent%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|attent%[m|erais]|
+|tu|attent%[m|erais]|
+|il|attent%[m|erait]|
+|nous|attent%[m|erions]|
+|vous|attent%[m|eriez]|
+|ils|attent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|attent%[m|é]|
+|tu|aurais|attent%[m|é]|
+|il|aurait|attent%[m|é]|
+|nous|aurions|attent%[m|é]|
+|vous|auriez|attent%[m|é]|
+|ils|auraient|attent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|attent%[m|e]|
+|que|tu|attent%[m|es]|
+|qu'|il|attent%[m|e]|
+|que|nous|attent%[m|ions]|
+|que|vous|attent%[m|iez]|
+|qu'|ils|attent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|attent%[m|é]|
+|que|tu|aies|attent%[m|é]|
+|qu'|il|ait|attent%[m|é]|
+|que|nous|ayons|attent%[m|é]|
+|que|vous|ayez|attent%[m|é]|
+|qu'|ils|aient|attent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|attent%[m|asse]|
+|que|tu|attent%[m|asses]|
+|qu'|il|attent%[m|ât]|
+|que|nous|attent%[m|assions]|
+|que|vous|attent%[m|assiez]|
+|qu'|ils|attent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|attent%[m|é]|
+|que|tu|eusses|attent%[m|é]|
+|qu'|il|eût|attent%[m|é]|
+|que|nous|eussions|attent%[m|é]|
+|que|vous|eussiez|attent%[m|é]|
+|qu'|ils|eussent|attent%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attent%[m|e]|
+|attent%[m|ons]|
+|attent%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|attent%[m|é]|
+|ayons|attent%[m|é]|
+|ayez|attent%[m|é]|
+|]
+

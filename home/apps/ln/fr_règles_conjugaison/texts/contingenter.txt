@@ -1,0 +1,190 @@
+# contingenter %[clVerbGroup|1]
+[-
+fixer un contingent, limiter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|contingent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|contingent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|contingent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||contingent%[m|é]|
+|ayant|contingent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en contingent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|contingent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|contingent%[m|e]|
+|tu|contingent%[m|es]|
+|il|contingent%[m|e]|
+|nous|contingent%[m|ons]|
+|vous|contingent%[m|ez]|
+|ils|contingent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|contingent%[m|é]|
+|tu|as |contingent%[m|é]|
+|il|a|contingent%[m|é]|
+|nous|avons|contingent%[m|é]|
+|vous|avez|contingent%[m|é]|
+|ils|ont|contingent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|contingent%[m|ais]|
+|tu|contingent%[m|ais]|
+|il|contingent%[m|ait]|
+|nous|contingent%[m|ions]|
+|vous|contingent%[m|iez]|
+|ils|contingent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|contingent%[m|é]|
+|tu|avais|contingent%[m|é]|
+|il|avait|contingent%[m|é]|
+|nous|avions|contingent%[m|é]|
+|vous|aviez|contingent%[m|é]|
+|ils|avaient|contingent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|contingent%[m|ai]|
+|tu|contingent%[m|as]|
+|il|contingent%[m|a]|
+|nous|contingent%[m|âmes]|
+|vous|contingent%[m|âtes]|
+|ils|contingent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|contingent%[m|é]|
+|tu|eus|contingent%[m|é]|
+|il|eut|contingent%[m|é]|
+|nous|e&ucirc;mes|contingent%[m|é]|
+|vous|e&ucirc;tes|contingent%[m|é]|
+|ils|eurent|contingent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|contingent%[m|erai]|
+|tu|contingent%[m|eras]|
+|il|contingent%[m|era]|
+|nous|contingent%[m|erons]|
+|vous|contingent%[m|erez]|
+|ils|contingent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|contingent%[m|é]|
+|tu|auras|contingent%[m|é]|
+|il|aura|contingent%[m|é]|
+|nous|aurons|contingent%[m|é]|
+|vous|aurez|contingent%[m|é]|
+|ils|auront|contingent%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|contingent%[m|erais]|
+|tu|contingent%[m|erais]|
+|il|contingent%[m|erait]|
+|nous|contingent%[m|erions]|
+|vous|contingent%[m|eriez]|
+|ils|contingent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|contingent%[m|é]|
+|tu|aurais|contingent%[m|é]|
+|il|aurait|contingent%[m|é]|
+|nous|aurions|contingent%[m|é]|
+|vous|auriez|contingent%[m|é]|
+|ils|auraient|contingent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|contingent%[m|e]|
+|que|tu|contingent%[m|es]|
+|qu'|il|contingent%[m|e]|
+|que|nous|contingent%[m|ions]|
+|que|vous|contingent%[m|iez]|
+|qu'|ils|contingent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|contingent%[m|é]|
+|que|tu|aies|contingent%[m|é]|
+|qu'|il|ait|contingent%[m|é]|
+|que|nous|ayons|contingent%[m|é]|
+|que|vous|ayez|contingent%[m|é]|
+|qu'|ils|aient|contingent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|contingent%[m|asse]|
+|que|tu|contingent%[m|asses]|
+|qu'|il|contingent%[m|ât]|
+|que|nous|contingent%[m|assions]|
+|que|vous|contingent%[m|assiez]|
+|qu'|ils|contingent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|contingent%[m|é]|
+|que|tu|eusses|contingent%[m|é]|
+|qu'|il|eût|contingent%[m|é]|
+|que|nous|eussions|contingent%[m|é]|
+|que|vous|eussiez|contingent%[m|é]|
+|qu'|ils|eussent|contingent%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|contingent%[m|e]|
+|contingent%[m|ons]|
+|contingent%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|contingent%[m|é]|
+|ayons|contingent%[m|é]|
+|ayez|contingent%[m|é]|
+|]
+

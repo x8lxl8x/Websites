@@ -1,0 +1,190 @@
+# triper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|trip%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|trip%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|trip%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||trip%[m|é]|
+|ayant|trip%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en trip%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|trip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|trip%[m|e]|
+|tu|trip%[m|es]|
+|il|trip%[m|e]|
+|nous|trip%[m|ons]|
+|vous|trip%[m|ez]|
+|ils|trip%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|trip%[m|é]|
+|tu|as |trip%[m|é]|
+|il|a|trip%[m|é]|
+|nous|avons|trip%[m|é]|
+|vous|avez|trip%[m|é]|
+|ils|ont|trip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|trip%[m|ais]|
+|tu|trip%[m|ais]|
+|il|trip%[m|ait]|
+|nous|trip%[m|ions]|
+|vous|trip%[m|iez]|
+|ils|trip%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|trip%[m|é]|
+|tu|avais|trip%[m|é]|
+|il|avait|trip%[m|é]|
+|nous|avions|trip%[m|é]|
+|vous|aviez|trip%[m|é]|
+|ils|avaient|trip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|trip%[m|ai]|
+|tu|trip%[m|as]|
+|il|trip%[m|a]|
+|nous|trip%[m|âmes]|
+|vous|trip%[m|âtes]|
+|ils|trip%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|trip%[m|é]|
+|tu|eus|trip%[m|é]|
+|il|eut|trip%[m|é]|
+|nous|e&ucirc;mes|trip%[m|é]|
+|vous|e&ucirc;tes|trip%[m|é]|
+|ils|eurent|trip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|trip%[m|erai]|
+|tu|trip%[m|eras]|
+|il|trip%[m|era]|
+|nous|trip%[m|erons]|
+|vous|trip%[m|erez]|
+|ils|trip%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|trip%[m|é]|
+|tu|auras|trip%[m|é]|
+|il|aura|trip%[m|é]|
+|nous|aurons|trip%[m|é]|
+|vous|aurez|trip%[m|é]|
+|ils|auront|trip%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|trip%[m|erais]|
+|tu|trip%[m|erais]|
+|il|trip%[m|erait]|
+|nous|trip%[m|erions]|
+|vous|trip%[m|eriez]|
+|ils|trip%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|trip%[m|é]|
+|tu|aurais|trip%[m|é]|
+|il|aurait|trip%[m|é]|
+|nous|aurions|trip%[m|é]|
+|vous|auriez|trip%[m|é]|
+|ils|auraient|trip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|trip%[m|e]|
+|que|tu|trip%[m|es]|
+|qu'|il|trip%[m|e]|
+|que|nous|trip%[m|ions]|
+|que|vous|trip%[m|iez]|
+|qu'|ils|trip%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|trip%[m|é]|
+|que|tu|aies|trip%[m|é]|
+|qu'|il|ait|trip%[m|é]|
+|que|nous|ayons|trip%[m|é]|
+|que|vous|ayez|trip%[m|é]|
+|qu'|ils|aient|trip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|trip%[m|asse]|
+|que|tu|trip%[m|asses]|
+|qu'|il|trip%[m|ât]|
+|que|nous|trip%[m|assions]|
+|que|vous|trip%[m|assiez]|
+|qu'|ils|trip%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|trip%[m|é]|
+|que|tu|eusses|trip%[m|é]|
+|qu'|il|eût|trip%[m|é]|
+|que|nous|eussions|trip%[m|é]|
+|que|vous|eussiez|trip%[m|é]|
+|qu'|ils|eussent|trip%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|trip%[m|e]|
+|trip%[m|ons]|
+|trip%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|trip%[m|é]|
+|ayons|trip%[m|é]|
+|ayez|trip%[m|é]|
+|]
+

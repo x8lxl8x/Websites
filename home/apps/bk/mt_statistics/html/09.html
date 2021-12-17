@@ -1,0 +1,870 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Statistics</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_9'>        9. Probability and Variability</a><br>
+<br>
+<a href='#section_36'>       9.1. Discrete Random Variables</a><br>
+<a href='#concept_178'>      9.1.1. Two Types of Random Variables</a><br>
+<a href='#concept_179'>      9.1.2. Probability Distributions for Discrete Random Variables</a><br>
+<a href='#concept_180'>      9.1.3. Expected Values of Discrete Random Variables</a><br>
+<br>
+<a href='#section_37'>       9.2. The Binomial Random Variable</a><br>
+<a href='#concept_181'>      9.2.1. The Binomial Formula</a><br>
+<a href='#concept_182'>      9.2.2. Binomial Probability Distributions</a><br>
+<a href='#concept_183'>      9.2.3. Mean, Variance, and Standard Deviation of the Binomial Distribution</a><br>
+<a href='#concept_184'>      9.2.4. Additional Properties of the Binomial Distribution</a><br>
+<br>
+<a href='#section_38'>       9.3. Other Random Variables</a><br>
+<a href='#concept_185'>      9.3.1. The Poisson Random Variable</a><br>
+<a href='#concept_186'>      9.3.2. The Hypergeometric Random Variable</a><br>
+</div>
+
+<h1 id='chapter_9'>9. Probability and Variability</h1>
+
+<h2 id='section_36'>9.1. Discrete Random Variables</h2>
+
+<h3 id='concept_178'>9.1.1. Two Types of Random Variables</h3>
+
+<blockquote>A random variable <span class='clFormula'>$x$</span>
+, and its distribution, can be discrete or continuous.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast discrete and continuous variables</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A random variable is a variable taking on numerical values determined by the outcome of a random phenomenon.</li>
+<li>The probability distribution of a random variable <span class='clFormula'>$x$</span>
+tells us what the possible values of <span class='clFormula'>$x$</span>
+are and what probabilities are assigned to those values.</li>
+<li>A discrete random variable has a countable number of possible values.</li>
+<li>The probability of each value of a discrete random variable is between 0 and 1, and the sum of all the probabilities is equal to 1.</li>
+<li>A continuous random variable takes on all the values in some interval of numbers.</li>
+<li>A density curve describes the probability distribution of a continuous random variable, and the probability of a range of events is found by taking the area under the curve.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>discrete random variable</dt>
+<dd>obtained by counting values for which there are no in-between values, such as the integers 0, 1, 2, ….</dd>
+<dt>continuous random variable</dt>
+<dd>obtained from data that can take infinitely many values</dd>
+<dt>random variable</dt>
+<dd>a quantity whose value is random and to which a probability distribution is assigned, such as the possible outcome of a roll of a die</dd>
+</dl>
+
+<h3>Random Variables</h3>
+
+<p>In probability and statistics, a randomvariable is a variable whose value is subject to variations due to chance (i.e. randomness, in a mathematical sense). As opposed to other mathematical variables, a random variable conceptually does not have a single, fixed value (even if unknown); rather, it can take on a set of possible different values, each with an associated probability.</p>
+<p>A random variable's possible values might represent the possible outcomes of a yet-to-be-performed experiment, or the possible outcomes of a past experiment whose already-existing value is uncertain (for example, as a result of incomplete information or imprecise measurements). They may also conceptually represent either the results of an "objectively" random process (such as rolling a die), or the "subjective" randomness that results from incomplete knowledge of a quantity.</p>
+<p>Random variables can be classified as either discrete (that is, taking any of a specified list of exact values) or as continuous (taking any numerical value in an interval or collection of intervals). The mathematical function describing the possible values of a random variable and their associated probabilities is known as a probability distribution.</p>
+
+<h3>Discrete Random Variables</h3>
+
+<p>Discrete random variables can take on either a finite or at most a countably infinite set of discrete values (for example, the integers). Their probability distribution is given by a probability mass function which directly maps each value of the random variable to a probability. For example, the value of <span class='clFormula'>$x_1$</span>
+takes on the probability <span class='clFormula'>$p_1$</span>
+, the value of <span class='clFormula'>$x_2$</span>
+takes on the probability <span class='clFormula'>$p_2$</span>
+, and so on. The probabilities <span class='clFormula'>$p_i$</span>
+must satisfy two requirements: every probability <span class='clFormula'>$p_i$</span>
+is a number between 0 and 1, and the sum of all the probabilities is 1. (<span class='clFormula'>$p_1+p_2+\dots + p_k = 1$</span>
+)</p>
+
+
+
+<a href='../images/18078.svg'><img class='clImageThumb' src='../images/18078.svg' alt='Discrete Probability Disrtibution'></a>
+
+<div><b><i>Discrete Probability Disrtibution</i></b></div>
+<p><i>This shows the probability mass function of a discrete probability distribution. The probabilities of the singletons {1}, {3}, and {7} are respectively 0.2, 0.5, 0.3. A set not containing any of these points has probability zero.</i></p>
+
+<p>Examples of discrete random variables include the values obtained from rolling a die and the grades received on a test out of 100.</p>
+
+<h3>Continuous Random Variables</h3>
+
+<p>Continuous random variables, on the other hand, take on values that vary continuously within one or more real intervals, and have a cumulative distribution function (CDF) that is absolutely continuous. As a result, the random variable has an uncountable infinite number of possible values, all of which have probability 0, though ranges of such values can have nonzero probability. The resulting probability distribution of the random variable can be described by a probability density, where the probability is found by taking the area under the curve.</p>
+
+
+
+<a href='../images/18079.svg'><img class='clImageThumb' src='../images/18079.svg' alt='Probability Density Function'></a>
+
+<div><b><i>Probability Density Function</i></b></div>
+<p><i>The image shows the probability density function (pdf) of the normal distribution, also called Gaussian or "bell curve", the most important continuous random distribution. As notated on the figure, the probabilities of intervals of values corresponds to the area under the curve.</i></p>
+
+<p>Selecting random numbers between 0 and 1 are examples of continuous random variables because there are an infinite number of possibilities.</p>
+
+<h3 id='concept_179'>9.1.2. Probability Distributions for Discrete Random Variables</h3>
+
+<blockquote>Probability distributions for discrete random variables can be displayed as a formula, in a table, or in a graph.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Give examples of discrete random variables</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A discrete probability function must satisfy the following: <span class='clFormula'>$0 \leq f(x) \leq 1$</span>
+, i.e., the values of <span class='clFormula'>$f(x)$</span>
+are probabilities, hence between 0 and 1.</li>
+<li>A discrete probability function must also satisfy the following: <span class='clFormula'>$\sum f(x) = 1$</span>
+, i.e., adding the probabilities of all disjoint cases, we obtain the probability of the sample space, 1.</li>
+<li>The probability mass function has the same purpose as the probability histogram, and displays specific probabilities for each discrete random variable. The only difference is how it looks graphically.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>probability mass function</dt>
+<dd>a function that gives the relative probability that a discrete random variable is exactly equal to some value</dd>
+<dt>discrete random variable</dt>
+<dd>obtained by counting values for which there are no in-between values, such as the integers 0, 1, 2, ….</dd>
+<dt>probability distribution</dt>
+<dd>A function of a discrete random variable yielding the probability that the variable will have a given value.</dd>
+</dl>
+
+<p>A discrete random variable <span class='clFormula'>$x$</span>
+has a countable number of possible values. The probability distribution of a discrete random variable <span class='clFormula'>$x$</span>
+lists the values and their probabilities, where value <span class='clFormula'>$x_1$</span>
+has probability <span class='clFormula'>$p_1$</span>
+, value <span class='clFormula'>$x_2$</span>
+has probability <span class='clFormula'>$x_2$</span>
+, and so on. Every probability <span class='clFormula'>$p_i$</span>
+ is a number between 0 and 1, and the sum of all the probabilities is equal to 1.</p>
+<p>Examples of discrete random variables include:</p>
+<ul>
+<li>The number of eggs that a hen lays in a given day (it can't be 2.3)</li>
+<li>The number of people going to a given soccer match</li>
+<li>The number of students that come to class on a given day</li>
+<li>The number of people in line at McDonald's on a given day and time</li>
+</ul>
+<p>A discrete probability distribution can be described by a table, by a formula, or by a graph. For example, suppose that <span class='clFormula'>$x$</span>
+is a random variable that represents the number of people waiting at the line at a fast-food restaurant and it happens to only take the values 2, 3, or 5 with probabilities <span class='clFormula'>$\frac{2}{10}$</span>
+,  <span class='clFormula'>$\frac{3}{10}$</span>
+, and <span class='clFormula'>$\frac{5}{10}$</span>
+respectively. This can be expressed through the function <span class='clFormula'>$f(x)= \frac{x}{10}$</span><em>, </em><span class='clFormula'>$x=2, 3, 5$</span><em> </em> or through the table below. Of the conditional probabilities of the event <span class='clFormula'>$B$</span>
+given that <span class='clFormula'>$A_1$</span>
+is the case or that <span class='clFormula'>$A_2$</span>
+is the case, respectively. Notice that these two representations are equivalent, and that this can be represented graphically as in the probability histogram below.</p>
+
+
+
+<a href='../images/18081.png'><img class='clImageThumb' src='../images/18081.png' alt='Probability Histogram'></a>
+
+<div><b><i>Probability Histogram</i></b></div>
+<p><i>This histogram displays the probabilities of each of the three discrete random variables.</i></p>
+
+<p>The formula, table, and probability histogram satisfy the following necessary conditions of discrete probability distributions:</p>
+
+<ol>
+<li>
+<span class='clFormula'>$0 \leq f(x) \leq 1$</span>
+, i.e., the values of <span class='clFormula'>$f(x)$</span>
+are probabilities, hence between 0 and 1.</li>
+<li>
+<span class='clFormula'>$\sum f(x) = 1$</span>
+, i.e., adding the probabilities of all disjoint cases, we obtain the probability of the sample space, 1.</li>
+</ol>
+<p>Sometimes, the discrete probability distribution is referred to as the probability mass function (pmf). The probability mass function has the same purpose as the probability histogram, and displays specific probabilities for each discrete random variable. The only difference is how it looks graphically.</p>
+
+
+
+<a href='../images/18082.svg'><img class='clImageThumb' src='../images/18082.svg' alt='Probability Mass Function'></a>
+
+<div><b><i>Probability Mass Function</i></b></div>
+<p><i>This shows the graph of a probability mass function. All the values of this function must be non-negative and sum up to 1.</i></p>
+
+
+
+<a href='../images/18080.png'><img class='clImageThumb' src='../images/18080.png' alt='Discrete Probability Distribution'></a>
+
+<div><b><i>Discrete Probability Distribution</i></b></div>
+<p><i>This table shows the values of the discrete random variable can take on and their corresponding probabilities.</i></p>
+
+<h3 id='concept_180'>9.1.3. Expected Values of Discrete Random Variables</h3>
+
+<blockquote>The expected value of a random variable is the weighted average of all possible values that this random variable can take on.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the expected value of a discrete random variable</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The expected value of a random variable <span class='clFormula'>$X$</span>
+is defined as: <span class='clFormula'>$E[X] = x_1p_1 + x_2p_2 + \dots + x_ip_i$</span>
+, which can also be written as: <span class='clFormula'>$E[X] = \sum x_ip_i$</span>
+.</li>
+<li>If all outcomes <span class='clFormula'>$x_i$</span>
+are equally likely (that is, <span class='clFormula'>$p_1=p_2=\dots = p_i$</span>
+), then the weighted average turns into the simple average.</li>
+<li>The expected value of <span class='clFormula'>$X$</span>
+is what one expects to happen on average, even though sometimes it results in a number that is impossible (such as 2.5 children).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>expected value</dt>
+<dd>of a discrete random variable, the sum of the probability of each possible outcome of the experiment multiplied by the value itself</dd>
+<dt>discrete random variable</dt>
+<dd>obtained by counting values for which there are no in-between values, such as the integers 0, 1, 2, ….</dd>
+</dl>
+
+<h3>Discrete Random Variable</h3>
+
+<p>A discrete random variable <span class='clFormula'>$X$</span>
+has a countable number of possible values. The probability distribution of a discrete random variable <span class='clFormula'>$X$</span>
+lists the values and their probabilities, such that <span class='clFormula'>$x_i$</span>
+has a probability of <span class='clFormula'>$p_i$</span>
+. The probabilities <span class='clFormula'>$p_i$</span>
+must satisfy two requirements:</p>
+
+<ol>
+<li>Every probability <span class='clFormula'>$p_i$</span>
+is a number between 0 and 1.</li>
+<li>The sum of the probabilities is 1: <span class='clFormula'>$p_1+p_2+\dots + p_i = 1$</span>
+.</li>
+</ol>
+
+<h3>Expected Value Definition</h3>
+
+<p>In probability theory, the expected value (or expectation, mathematical expectation, EV, mean, or first moment) of a random variable is the weighted average of all possible values that this random variable can take on. The weights used in computing this average are probabilities in the case of a discrete random variable.</p>
+<p>The expected value may be intuitively understood by the law of large numbers: the expected value, when it exists, is almost surely the limit of the sample mean as sample size grows to infinity. More informally, it can be interpreted as the long-run average of the results of many independent repetitions of an experiment (e.g. a dice roll). The value may not be expected in the ordinary sense—the "expected value" itself may be unlikely or even impossible (such as having 2.5 children), as is also the case with the sample mean.</p>
+
+<h3>How To Calculate Expected Value</h3>
+
+<p>Suppose random variable <span class='clFormula'>$X$</span>
+can take value <span class='clFormula'>$x_1$</span>
+with probability <span class='clFormula'>$p_1$</span>
+, value <span class='clFormula'>$x_2$</span>
+with probability <span class='clFormula'>$p_2$</span>
+, and so on, up to value <span class='clFormula'>$x_i$</span>
+with probability <span class='clFormula'>$p_i$</span>
+. Then the expectation value of a random variable <span class='clFormula'>$X$</span>
+ is defined as: <span class='clFormula'>$E[X] = x_1p_1 + x_2p_2 + \dots + x_ip_i$</span>
+, which can also be written as: <span class='clFormula'>$E[X] = \sum x_ip_i$</span>
+.</p>
+<p>If all outcomes <span class='clFormula'>$x_i$</span>
+are equally likely (that is, <span class='clFormula'>$p_1 = p_2 = \dots = p_i$</span>
+), then the weighted average turns into the simple average. This is intuitive: the expected value of a random variable is the average of all values it can take; thus the expected value is what one expects to happen on average. If the outcomes <span class='clFormula'>$x_i$</span>
+are not equally probable, then the simple average must be replaced with the weighted average, which takes into account the fact that some outcomes are more likely than the others. The intuition, however, remains the same: the expected value of <span class='clFormula'>$X$</span>
+is what one expects to happen on average.</p>
+<p>For example, let <span class='clFormula'>$X$</span>
+represent the outcome of a roll of a six-sided die. The possible values for <span class='clFormula'>$X$</span>
+are 1, 2, 3, 4, 5, and 6, all equally likely (each having the probability of <span class='clFormula'>$\frac{1}{6}$</span>
+). The expectation of <span class='clFormula'>$X$</span>
+is: <span class='clFormula'>$E[X] = \frac{1x_1}{6} + \frac{2x_2}{6} + \frac{3x_3}{6} + \frac{4x_4}{6} + \frac{5x_5}{6} + \frac{6x_6}{6} = 3.5$</span>
+. In this case, since all outcomes are equally likely, we could have simply averaged the numbers together: <span class='clFormula'>$\frac{1+2+3+4+5+6}{6} = 3.5$</span>
+.</p>
+
+
+
+<a href='../images/18084.svg'><img class='clImageThumb' src='../images/18084.svg' alt='Average Dice Value Against Number of Rolls'></a>
+
+<div><b><i>Average Dice Value Against Number of Rolls</i></b></div>
+<p><i>An illustration of the convergence of sequence averages of rolls of a die to the expected value of 3.5 as the number of rolls (trials) grows.</i></p>
+<h2 id='section_37'>9.2. The Binomial Random Variable</h2>
+
+<h3 id='concept_181'>9.2.1. The Binomial Formula</h3>
+
+<blockquote>The binomial distribution is a discrete probability distribution of the successes in a sequence of <span class='clFormula'>$n$</span>
+independent yes/no experiments.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Employ the probability mass function to determine the probability of success in a given amount of trials</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The probability of getting exactly <span class='clFormula'>$k$</span>
+successes in <span class='clFormula'>$n$</span>
+trials is given by the Probability Mass Function.</li>
+<li>The binomial distribution is frequently used to model the number of successes in a sample of size <span class='clFormula'>$n$</span>
+drawn with replacement from a population of size <span class='clFormula'>$N$</span>
+.</li>
+<li>The binomial distribution is the discrete probability distribution of the number of successes in a sequence of <span class='clFormula'>$n$</span>
+independent yes/no experiments, each of which yields success with probability <span class='clFormula'>$p$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>probability mass function</dt>
+<dd>a function that gives the probability that a discrete random variable is exactly equal to some value</dd>
+<dt>central limit theorem</dt>
+<dd>a theorem which states that, given certain conditions, the mean of a sufficiently large number of independent random variables--each with a well-defined mean and well-defined variance-- will be approximately normally distributed</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>The four possible outcomes that could occur if you flipped a coin twice are listed in Table 1. Note that the four outcomes are equally likely: each has probability of <span class='clFormula'>$\frac{1}{4}$</span>
+. To see this, note that the tosses of the coin are independent (neither affects the other). Hence, the probability of a head on flip one and a head on flip two is the product of <span class='clFormula'>$P(H)$</span>
+and <span class='clFormula'>$P(H)$</span>
+, which is <span class='clFormula'>$\frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$</span>
+. The same calculation applies to the probability of a head on flip one and a tail on flip two. Each is <span class='clFormula'>$\frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$</span>
+. The four possible outcomes can be classified in terms of the number of heads that come up. The number could be two (Outcome 1), one (Outcomes 2 and 3) or 0 (Outcome 4). The probabilities of these possibilities are shown in Table 2 and in Figure 1. Since two of the outcomes represent the case in which just one head appears in the two tosses, the probability of this event is equal to <span class='clFormula'>$\frac{1}{4} + \frac{1}{4} = \frac{1}{2}$</span>
+. Table 1 summarizes the situation. Table 1 is a discrete probability distribution: It shows the probability for each of the values on the <span class='clFormula'>$x$</span>
+-axis. Defining a head as a "success," Table 1 shows the probability of 0, 1, and 2 successes for two trials (flips) for an event that has a probability of 0.5 of being a success on each trial. This makes Table 1 an example of a binomial distribution.</li>
+</ul>
+<p>In probability theory and statistics, the binomial distribution is the discrete probability distribution of the number of successes in a sequence of <span class='clFormula'>$n$</span>
+independent yes/no experiments, each of which yields success with probability <span class='clFormula'>$p$</span>
+. The binomial distribution is the basis for the popular binomial test of statistical significance.</p>
+
+
+
+<a href='../images/18157.jpeg'><img class='clImageThumb' src='../images/18157.jpeg' alt='Binomial Probability Distribution'></a>
+
+<div><b><i>Binomial Probability Distribution</i></b></div>
+<p><i>This is a graphic representation of a binomial probability distribution.</i></p>
+
+<p>The binomial distribution is frequently used to model the number of successes in a sample of size <span class='clFormula'>$n$</span>
+drawn with replacement from a population of size <span class='clFormula'>$N$</span>
+. If the sampling is carried out without replacement, the draws are not independent and so the resulting distribution is a hypergeometric distribution, not a binomial one. However, for <span class='clFormula'>$N$</span>
+much larger than <span class='clFormula'>$n$</span>
+, the binomial distribution is a good approximation, and widely used.</p>
+<p>In general, if the random variable <span class='clFormula'>$X$</span>
+follows the binomial distribution with parameters <span class='clFormula'>$n$</span>
+and <span class='clFormula'>$p$</span>
+, we write <span class='clFormula'>$X \sim B(n, p)$</span>
+. The probability of getting exactly <span class='clFormula'>$k$</span>
+successes in <span class='clFormula'>$n$</span>
+trials is given by the Probability Mass Function:</p>
+
+<div class='clFormula'>$\displaystyle f(k; n, p) = P(X=k) = {{n}\choose{k}}p^k(1-p)^{n-k}$</div>
+
+<p>For <span class='clFormula'>$k = 0, 1, 2, \dots, n$</span>
+where:</p>
+
+<div class='clFormula'>$\displaystyle {{n}\choose{k}} = \frac{n!}{k!(n-k)!}$</div>
+
+<p>Is the binomial coefficient (hence the name of the distribution) "<em>n choose k</em>,<em>"</em> also denoted <span class='clFormula'>$C(n, k)$</span>
+ or <span class='clFormula'>$_nC_k$</span>
+. The formula can be understood as follows: We want <span class='clFormula'>$k$</span>
+successes <em>(</em><span class='clFormula'>$p^k$</span><em>)</em> and <span class='clFormula'>$n-k$</span>
+failures (<span class='clFormula'>$(1-p)^{n-k}$</span>
+); however, the <span class='clFormula'>$k$</span>
+successes can occur anywhere among the <span class='clFormula'>$n$</span>
+trials, and there are <span class='clFormula'>$C(n, k)$</span>
+different ways of distributing <span class='clFormula'>$k$</span>
+successes in a sequence of <span class='clFormula'>$n$</span>
+trials.</p>
+<p>One straightforward way to simulate a binomial random variable <span class='clFormula'>$X$</span>
+is to compute the sum of <span class='clFormula'>$n$</span>
+independent 0−1 random variables, each of which takes on the value 1 with probability <span class='clFormula'>$p$</span>
+. This method requires <span class='clFormula'>$n$</span>
+calls to a random number generator to obtain one value of the random variable. When <span class='clFormula'>$n$</span>
+is relatively large (say at least 30), the Central Limit Theorem implies that the binomial distribution is well-approximated by the corresponding normal density function with parameters <span class='clFormula'>$\mu = np$</span>
+and <span class='clFormula'>$\sigma = \sqrt{npq}$</span><em>.</em></p>
+
+<h3>
+<em>Figures from the Example</em>
+</h3>
+
+
+
+
+<a href='../images/18155.jpeg'><img class='clImageThumb' src='../images/18155.jpeg' alt='Table 1'></a>
+
+<div><b><i>Table 1</i></b></div>
+<p><i>These are the four possible outcomes from flipping a coin twice.</i></p>
+
+
+
+<a href='../images/18156.jpeg'><img class='clImageThumb' src='../images/18156.jpeg' alt='Table 2'></a>
+
+<div><b><i>Table 2</i></b></div>
+<p><i>These are the probabilities of the 2 coin flips.</i></p>
+
+<h3 id='concept_182'>9.2.2. Binomial Probability Distributions</h3>
+
+<blockquote>This chapter explores Bernoulli experiments and the probability distributions of binomial random variables.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Apply Bernoulli distribution in determining success of an experiment</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A Bernoulli (success-failure) experiment is performed <span class='clFormula'>$n$</span>
+times, and the trials are independent.</li>
+<li>The probability of success on each trial is a constant <span class='clFormula'>$p$</span>
+; the probability of failure is <span class='clFormula'>$q=1-p$</span>
+.</li>
+<li>The random variable <span class='clFormula'>$X$</span>
+counts the number of successes in the <span class='clFormula'>$n$</span>
+trials.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Bernoulli Trial</dt>
+<dd>an experiment whose outcome is random and can be either of two possible outcomes, "success" or "failure"</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>At ABC College, the withdrawal rate from an elementary physics course is 30% for any given term. This implies that, for any given term, 70% of the students stay in the class for the entire term. A "success" could be defined as an individual who withdrew. The random variable is <span class='clFormula'>$X$</span>
+: the number of students who withdraw from the randomly selected elementary physics class.</li>
+</ul>
+<p>Many random experiments include counting the number of successes in a series of a fixed number of independently repeated trials, which may result in either success or failure. The distribution of the number of successes is a binomial distribution. It is a discrete probability distribution with two parameters, traditionally indicated by <span class='clFormula'>$n$</span>
+, the number of trials, and <span class='clFormula'>$p$</span>
+, the probability of success. Such a success/failure experiment is also called a Bernoulli experiment, or Bernoulli trial; when <span class='clFormula'>$n=1$</span>
+, the Bernoulli distribution is a binomial distribution.</p>
+<p>Named after Jacob Bernoulli, who studied them extensively in the 1600s, a well known example of such an experiment is the repeated tossing of a coin and counting the number of times "heads" comes up.</p>
+<p>In a sequence of Bernoulli trials, we are often interested in the total number of successes and not in the order of their occurrence. If we let the random variable <span class='clFormula'>$X$</span>
+equal the number of observed successes in <span class='clFormula'>$n$</span>
+Bernoulli trials, the possible values of <span class='clFormula'>$X$</span>
+are <span class='clFormula'>$0, 1, 2, \dots, n$</span>
+. If <span class='clFormula'>$x$</span>
+success occur, where <span class='clFormula'>$x=0, 1, 2, \dots, n$</span>
+, then <span class='clFormula'>$n-x$</span>
+failures occur. The number of ways of selecting <span class='clFormula'>$x$</span>
+positions for the <span class='clFormula'>$x$</span>
+successes in the <span class='clFormula'>$x$</span>
+trials is:</p>
+
+<div class='clFormula'>$\displaystyle {{n}\choose{x}} = \frac{n!}{x!(n-x)!}$</div>
+
+<p>Since the trials are independent and since the probabilities of success and failure on each trial are, respectively, <span class='clFormula'>$p$</span>
+and <span class='clFormula'>$q=1-p$</span>
+, the probability of each of these ways is <span class='clFormula'>$p^x(1-p)^{n-x}$</span>
+. Thus, the <em>p.d.f.</em> of <span class='clFormula'>$X$</span>
+, say <span class='clFormula'>$f(x)$</span>
+, is the sum of the probabilities of these <em>(</em><span class='clFormula'>$nx$</span><em>)</em> mutually exclusive events--that is,</p>
+<p>
+<span class='clFormula'>$f(x)=(nx)p^x(1-p)^{n-x}$</span><em>, </em>
+<span class='clFormula'>$x=0, 1, 2, \dots, n$</span></p>
+<p>These probabilities are called binomial probabilities, and the random variable <span class='clFormula'>$X$</span>
+is said to have a binomial distribution.</p>
+
+
+
+<a href='../images/23724.jpeg'><img class='clImageThumb' src='../images/23724.jpeg' alt='Wind pollination'></a>
+
+<div><b><i>Wind pollination</i></b></div>
+<p><i>These male (a) and female (b) catkins from the goat willow tree (<em>Salix caprea</em>) have structures that are light and feathery to better disperse and catch the wind-blown pollen.</i></p>
+
+
+
+<a href='../images/18130.svg'><img class='clImageThumb' src='../images/18130.svg' alt='Probability Mass Function'></a>
+
+<div><b><i>Probability Mass Function</i></b></div>
+<p><i>A graph of binomial probability distributions that vary according to their corresponding values for <span class='clFormula'>$n$</span>
+and <span class='clFormula'>$p$</span>
+.</i></p>
+
+<h3 id='concept_183'>9.2.3. Mean, Variance, and Standard Deviation of the Binomial Distribution</h3>
+
+<blockquote>In this section, we'll examine the mean, variance, and standard deviation of the binomial distribution.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Examine the different properties of binomial distributions</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The mean of a binomial distribution with parameters <span class='clFormula'>$N$</span>
+(the number of trials) and <span class='clFormula'>$p$</span>
+(the probability of success for each trial) is <span class='clFormula'>$m=Np$</span>
+.</li>
+<li>The variance of the binomial distribution is <span class='clFormula'>$s^2 = Np(1-p)$</span>
+, where <span class='clFormula'>$s^2$</span>
+is the variance of the binomial distribution.</li>
+<li>The standard deviation (<span class='clFormula'>$s$</span>
+) is the square root of the variance (<span class='clFormula'>$s^2$</span>
+).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>variance</dt>
+<dd>a measure of how far a set of numbers is spread out</dd>
+<dt>mean</dt>
+<dd>one measure of the central tendency either of a probability distribution or of the random variable characterized by that distribution</dd>
+<dt>standard deviation</dt>
+<dd>shows how much variation or dispersion exists from the average (mean), or expected value</dd>
+</dl>
+
+<p>As with most probability distributions, examining the different properties of binomial distributions is important to truly understanding the implications of them. The mean, variance, and standard deviation are three of the most useful and informative properties to explore. In this next section we'll take a look at these different properties and how they are helpful in establishing the usefulness of statistical distributions. The easiest way to understand the mean, variance, and standard deviation of the binomial distribution is to use a real life example.</p>
+<p>Consider a coin-tossing experiment in which you tossed a coin 12 times and recorded the number of heads. If you performed this experiment over and over again, what would the mean number of heads be? On average, you would expect half the coin tosses to come up heads. Therefore, the mean number of heads would be 6. In general, the mean of a binomial distribution with parameters <span class='clFormula'>$N$</span>
+(the number of trials) and <span class='clFormula'>$p$</span>
+(the probability of success for each trial) is:</p>
+
+<div class='clFormula'>$m=Np$</div>
+
+<p>Where <span class='clFormula'>$m$</span>
+is the mean of the binomial distribution.</p>
+<p>The variance of the binomial distribution is:</p>
+<p><span class='clFormula'>$s^2 = Np(1-p)$</span>
+, where <span class='clFormula'>$s^2$</span>
+ is the variance of the binomial distribution.</p>
+<p>The coin was tossed 12 times, so <span class='clFormula'>$N=12$</span>
+. A coin has a probability of 0.5 of coming up heads. Therefore, <span class='clFormula'>$p=0.5$</span>
+. The mean and standard deviation can therefore be computed as follows:</p>
+
+<div class='clFormula'>$m=Np=12\cdot0.5 = 6$</div>
+
+
+<div class='clFormula'>$s^2=Np(1-p)=12\cdot0.5\cdot(1.0-0.5)=3.0$</div>
+
+<p>Naturally, the standard deviation (<span class='clFormula'>$s$</span>
+) is the square root of the variance (<span class='clFormula'>$s^2$</span>
+).</p>
+
+
+
+<a href='../images/18158.jpeg'><img class='clImageThumb' src='../images/18158.jpeg' alt='Coin Flip'></a>
+
+<div><b><i>Coin Flip</i></b></div>
+<p><i>Coin flip experiments are a great way to understand the properties of binomial distributions.</i></p>
+
+<h3 id='concept_184'>9.2.4. Additional Properties of the Binomial Distribution</h3>
+
+<blockquote>In this section, we'll look at the median, mode, and covariance of the binomial distribution.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain some results of finding the median in binomial distribution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>There is no single formula for finding the median of a binomial distribution.</li>
+<li>The mode of a binomial <span class='clFormula'>$B(n, p)$</span>
+distribution is equal to.</li>
+<li>If two binomially distributed random variables <span class='clFormula'>$X$</span>
+and <span class='clFormula'>$Y$</span>
+are observed together, estimating their covariance can be useful.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>median</dt>
+<dd>the numerical value separating the higher half of a data sample, a population, or a probability distribution, from the lower half</dd>
+<dt>Mode</dt>
+<dd>the value that appears most often in a set of data</dd>
+<dt>floor function</dt>
+<dd>maps a real number to the smallest following integer</dd>
+<dt>covariance</dt>
+<dd>A measure of how much two random variables change together.</dd>
+</dl>
+
+<p>In general, there is no single formula for finding the median of a binomial distribution, and it may even be non-unique. However, several special results have been established:</p>
+<p>If <span class='clFormula'>$np$</span>
+is an integer, then the mean, median, and mode coincide and equal <span class='clFormula'>$np$</span>
+.</p>
+<p>Any median <span class='clFormula'>$m$</span>
+must lie within the interval <span class='clFormula'>$\lfloor np\rfloor \leq m \leq \lceil np\rceil $</span>
+.</p>
+<p>A median <span class='clFormula'>$m$</span>
+cannot lie too far away from the mean: <span class='clFormula'>$|m np| \leq \min { \ln { 2 } } ,\max { (p,1 - p )}$</span>
+.</p>
+<p>The median is unique and equal to <span class='clFormula'>$m = round(np)$</span>
+in cases where either <span class='clFormula'>$p \leq 1 \ln 2$</span>
+or <span class='clFormula'>$p \geq \ln 2$</span>
+or <span class='clFormula'>$|m np| \leq \min{(p, 1 p)}$</span>
+(except for the case when <span class='clFormula'>$p = \frac{1}{2}$</span>
+and <em>n</em> is odd).</p>
+<p>When<span class='clFormula'>$p = \frac{1}{2}$</span>
+and <em>n</em> is odd, any number <em>m</em> in the interval <span class='clFormula'>$\frac{1}{2} \cdot (n 1) \leq m \leq \frac{1}{2} \cdot (n + 1)$</span>
+is a median of the binomial distribution. If <span class='clFormula'>$p = \frac{1}{2}$</span>
+and <em>n</em> is even, then <span class='clFormula'>$m = \frac{n}{2}$</span>
+is the unique median.</p>
+<p>There are also conditional binomials. If <span class='clFormula'>$X \sim B(n, p)$</span>
+and, conditional on <span class='clFormula'>$X, Y \sim B(X, q)$</span>
+, then <em>Y</em> is a simple binomial variable with distribution.</p>
+<p>The binomial distribution is a special case of the Poisson binomial distribution, which is a sum of <em>n</em> independent non-identical Bernoulli trials <em>Bern(pi)</em>. If <em>X</em> has the Poisson binomial distribution with p1=…=pn=pp1=\ldots =pn=p then ∼B(n,p)\sim B(n, p)<em>.</em></p>
+<p>Usually the mode of a binomial <em>B(n, p)</em> distribution is equal to where is the floor function. However, when <span class='clFormula'>$(n + 1)p$</span>
+is an integer and <em>p</em> is neither 0 nor 1, then the distribution has two modes: <span class='clFormula'>$(n + 1)p$</span>
+and <span class='clFormula'>$(n + 1)p 1$</span>
+. When <em>p</em> is equal to 0 or 1, the mode will be 0 and <em>n</em>, respectively. These cases can be summarized as follows:</p>
+
+
+
+<a href='../images/18151.png'><img class='clImageThumb' src='../images/18151.png' alt='Summary of Modes'></a>
+
+<div><b><i>Summary of Modes</i></b></div>
+<p><i>This summarizes how to find the mode of a binomial distribution.</i></p>
+
+
+
+<a href='../images/18150.png'><img class='clImageThumb' src='../images/18150.png' alt='Floor Function'></a>
+
+<div><b><i>Floor Function</i></b></div>
+<p><i>Floor function is the lowest previous integer in a series.</i></p>
+
+
+
+<a href='../images/18149.png'><img class='clImageThumb' src='../images/18149.png' alt='Mode'></a>
+
+<div><b><i>Mode</i></b></div>
+<p><i>This formula is for calculating the mode of a binomial distribution.</i></p>
+
+<p>If two binomially distributed random variables <em>X</em> and <em>Y</em> are observed together, estimating their covariance can be useful. Using the definition of covariance, in the case <em>n = 1</em> (thus being Bernoulli trials) we have .</p>
+
+
+
+<a href='../images/18152.png'><img class='clImageThumb' src='../images/18152.png' alt='Covariance 1'></a>
+
+<div><b><i>Covariance 1</i></b></div>
+<p><i>The first part of finding covariance.</i></p>
+
+<p>The first term is non-zero only when both <em>X</em> and <em>Y</em> are one, and <em>μX</em> and <em>μY</em> are equal to the two probabilities. Defining <em>pB</em> as the probability of both happening at the same time, this gives and for <em>n</em> independent pairwise trials .</p>
+
+
+
+<a href='../images/18154.png'><img class='clImageThumb' src='../images/18154.png' alt='Covariance 3'></a>
+
+<div><b><i>Covariance 3</i></b></div>
+<p><i>The final formula for the covariance of a binomial distribution.</i></p>
+
+
+
+<a href='../images/18153.png'><img class='clImageThumb' src='../images/18153.png' alt='Covariance 2'></a>
+
+<div><b><i>Covariance 2</i></b></div>
+<p><i>The next step in determining covariance.</i></p>
+
+<p>If <em>X</em> and <em>Y</em> are the same variable, this reduces to the variance formula given above.</p>
+<h2 id='section_38'>9.3. Other Random Variables</h2>
+
+<h3 id='concept_185'>9.3.1. The Poisson Random Variable</h3>
+
+<blockquote>The Poisson random variable is a discrete random variable that counts the number of times a certain event will occur in a specific interval.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Apply the Poisson random variable to fields outside of mathematics</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The Poisson distribution predicts the degree of spread around a known average rate of occurrence.</li>
+<li>The distribution was first introduced by Siméon Denis Poisson (1781–1840) and published, together with his probability theory, in his work "Research on the Probability of Judgments in Criminal and Civil Matters" (1837).</li>
+<li>The Poisson random variable is the number of successes that result from a Poisson experiment.</li>
+<li>Given the mean number of successes (μ) that occur in a specified region, we can compute the Poisson probability based on the following formula: <em>P(x; μ) = (e-μ) (μx) / x!</em>.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>factorial</dt>
+<dd>The result of multiplying a given number of consecutive integers from 1 to the given number. In equations, it is symbolized by an exclamation mark (!). For example, 5! = 1 * 2 * 3 * 4 * 5 = 120.</dd>
+<dt>Poisson distribution</dt>
+<dd>A discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time and/or space, if these events occur with a known average rate and independently of the time since the last event.</dd>
+<dt>disjoint</dt>
+<dd>having no members in common; having an intersection equal to the empty set.</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>The average number of homes sold by the Acme Realty company is 2 homes per day. What is the probability that exactly 3 homes will be sold tomorrow? This is a Poisson experiment in which we know the following: μ = 2; since 2 homes are sold per day, on average. x = 3; since we want to find the likelihood that 3 homes will be sold tomorrow. e = 2.71828; since e is a constant equal to approximately 2.71828. We plug these values into the Poisson formula as follows: P(x; μ) = (e-μ) (μx) / x! : P(3; 2) = (2.71828-2) (23) / 3! : P(3; 2) = (0.13534) (8) / 6 : P(3; 2) = 0.180. Thus, the probability of selling 3 homes tomorrow is 0.180.</li>
+</ul>
+
+<h3>The Poisson Distribution and Its History</h3>
+
+<p>The Poisson distribution is a discrete probability distribution. It expresses the probability of a given number of events occurring in a fixed interval of time and/or space, if these events occur with a known average rate and independently of the time since the last event. The Poisson distribution can also be used for the number of events in other specified intervals such as distance, area, or volume.</p>
+<p>For example: Let's suppose that, on average, a person typically receives four pieces of mail per day. There will be a certain spread—sometimes a little more, sometimes a little less, once in a while nothing at all. Given only the average rate for a certain period of observation (i.e., pieces of mail per day, phonecalls per hour, etc.), and assuming that the process that produces the event flow is essentially random, the Poisson distribution specifies how likely it is that the count will be 3, 5, 10, or any other number during one period of observation. It predicts the degree of spread around a known average rate of occurrence.</p>
+<p>The distribution was first introduced by Siméon Denis Poisson (1781–1840) and published, together with his probability theory, in 1837 in his work <em>Recherches sur la Probabilité des Jugements en Matière Criminelle et en Matière Civile</em> ("Research on the Probability of Judgments in Criminal and Civil Matters"). The work focused on certain random variables <em>N</em> that count, among other things, the number of discrete occurrences (sometimes called "events" or "arrivals") that take place during a time interval of given length.</p>
+
+<h3>Properties of the Poisson Random Variable</h3>
+
+<p>A Poisson experiment is a statistical experiment that has the following properties:</p>
+
+<ol>
+<li>The experiment results in outcomes that can be classified as successes or failures.</li>
+<li>The average number of successes (μ) that occurs in a specified region is known.</li>
+<li>The probability that a success will occur is proportional to the size of the region.</li>
+<li>The probability that a success will occur in an extremely small region is virtually zero.</li>
+</ol>
+<p>Note that the specified region could take many forms: a length, an area, a volume, a period of time, etc.</p>
+<p>The Poisson random variable, then, is the number of successes that result from a Poisson experiment, and the probability distribution of a Poisson random variable is called a Poisson distribution. Given the mean number of successes (μ) that occur in a specified region, we can compute the Poisson probability based on the following formula:</p>
+<p><span class='clFormula'>$P(x; \mu ) = ((e^{-\mu }) (\mu ^x)) / x!$</span>
+,</p>
+<p>where:</p>
+<ul>
+<li>e = a constant equal to approximately 2.71828 (actually, e is the base of the natural logarithm system);</li>
+<li>μ = the mean number of successes that occur in a specified region;</li>
+<li>x: the actual number of successes that occur in a specified region;</li>
+<li>P(x; μ): the Poisson probability that exactly x successes occur in a Poisson experiment, when the mean number of successes is μ; and</li>
+<li>x! is the factorial of x.</li>
+</ul>
+<p>The Poisson random variable satisfies the following conditions:</p>
+
+<ol>
+<li>The number of successes in two disjoint time intervals is independent.</li>
+<li>The probability of a success during a small time interval is proportional to the entire length of the time interval.</li>
+<li>The mean of the Poisson distribution is equal to μ.</li>
+<li>The variance is also equal to μ.</li>
+</ol>
+<p>Apart from disjoint time intervals, the Poisson random variable also applies to disjoint regions of space.</p>
+
+<h3>Example</h3>
+
+<p>The average number of homes sold by the Acme Realty company is 2 homes per day. What is the probability that exactly 3 homes will be sold tomorrow? This is a Poisson experiment in which we know the following:</p>
+<ul>
+<li>μ = 2; since 2 homes are sold per day, on average.</li>
+<li>x = 3; since we want to find the likelihood that 3 homes will be sold tomorrow.</li>
+<li>e = 2.71828; since e is a constant equal to approximately 2.71828.</li>
+</ul>
+<p>We plug these values into the Poisson formula as follows:</p>
+
+<div class='clFormula'>$P(x; \mu ) = ((e^{-\mu }) (\mu ^x)) / x!$</div>
+
+
+<div class='clFormula'>$P(3; 2) = ((2.71828^{-2}) (2^3)) / 3!$</div>
+
+
+<div class='clFormula'>$P(3; 2) = ((0.13534) (8)) / 6$</div>
+
+
+<div class='clFormula'>$P(3; 2) = 0.180$</div>
+
+<p>Thus, the probability of selling 3 homes tomorrow is 0.180.</p>
+
+<h3>Applications of the Poisson Random Variable</h3>
+
+<p>Applications of the Poisson distribution can be found in many fields related to counting:</p>
+<ul>
+<li>electrical system example: telephone calls arriving in a system</li>
+<li>astronomy example: photons arriving at a telescope</li>
+<li>biology example: the number of mutations on a strand of DNA per unit length</li>
+<li>management example: customers arriving at a counter or call center</li>
+<li>civil engineering example: cars arriving at a traffic light</li>
+<li>finance and insurance example: number of losses/claims occurring in a given period of time</li>
+</ul>
+<p>Examples of events that may be modelled as a Poisson distribution include:</p>
+<ul>
+<li>the number of soldiers killed by horse-kicks each year in each corps in the Prussian cavalry (this example was made famous by a book of Ladislaus Josephovich Bortkiewicz (1868–1931);</li>
+<li>the number of yeast cells used when brewing Guinness beer (this example was made famous by William Sealy Gosset (1876–1937);</li>
+<li>the number of goals in sports involving two competing teams;</li>
+<li>the number of deaths per year in a given age group; and</li>
+<li>the number of jumps in a stock price in a given time interval.</li>
+</ul>
+
+
+
+<a href='../images/18091.svg'><img class='clImageThumb' src='../images/18091.svg' alt='Poisson Probability Mass Function'></a>
+
+<div><b><i>Poisson Probability Mass Function</i></b></div>
+<p><i>The horizontal axis is the index k, the number of occurrences. The function is only defined at integer values of k. The connecting lines are only guides for the eye.</i></p>
+
+<h3 id='concept_186'>9.3.2. The Hypergeometric Random Variable</h3>
+
+<blockquote>A hypergeometric random variable is a discrete random variable characterized by a fixed number of trials with differing probabilities of success.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast hypergeometric distribution and binomial distribution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The hypergeometric distribution applies to sampling without replacement from a finite population whose elements can be classified into two mutually exclusive categories like pass/fail, male/female or employed/unemployed.</li>
+<li>As random selections are made from the population, each subsequent draw decreases the population causing the probability of success to change with each draw.</li>
+<li>It is in contrast to the binomial distribution, which describes the probability of <span class='clFormula'>$k$</span>
+ successes in <span class='clFormula'>$n$</span>
+draws with replacement.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial distribution</dt>
+<dd>the discrete probability distribution of the number of successes in a sequence of <equation>$n$</equation> independent yes/no experiments, each of which yields success with probability <equation>$p$</equation></dd>
+<dt>hypergeometric distribution</dt>
+<dd>a discrete probability distribution that describes the number of successes in a sequence of <equation>$n$</equation> draws from a finite population without replacement</dd>
+<dt>Bernoulli Trial</dt>
+<dd>an experiment whose outcome is random and can be either of two possible outcomes, "success" or "failure"</dd>
+</dl>
+
+<p>The hypergeometric distribution is a discrete probability distribution that describes the probability of <span class='clFormula'>$k$</span>
+successes in <span class='clFormula'>$n$</span>
+draws <em>without</em> replacement from a finite population of size <span class='clFormula'>$N$</span>
+containing a maximum of <span class='clFormula'>$K$</span>
+ successes. This is in contrast to the binomial distribution, which describes the probability of <span class='clFormula'>$k$</span>
+successes in <span class='clFormula'>$n$</span>
+draws <em>with</em> replacement.</p>
+<p>The hypergeometric distribution applies to sampling without replacement from a finite population whose elements can be classified into two mutually exclusive categories like pass/fail, male/female or employed/unemployed. As random selections are made from the population, each subsequent draw decreases the population causing the probability of success to change with each draw. The following conditions characterize the hypergeometric distribution:</p>
+<ul>
+<li>The result of each draw can be classified into one or two categories.</li>
+<li>The probability of a success changes on each draw.</li>
+</ul>
+<p>A random variable follows the hypergeometric distribution if its probability mass function is given by:</p>
+
+<div class='clFormula'>$\displaystyle P(X=k) = \frac{{{K}\choose{k}}{{N-K}\choose{n-k}}}{{{N}\choose{n}}}$</div>
+
+<p>Where:</p>
+<ul>
+<li>
+<span class='clFormula'>$N$</span>
+is the population size,</li>
+<li>
+<span class='clFormula'>$K$</span>
+is the number of success states in the population,</li>
+<li>
+<span class='clFormula'>$n$</span>
+is the number of draws,</li>
+<li>
+<span class='clFormula'>$k$</span>
+is the number of successes, and</li>
+<li>
+<span class='clFormula'>$\displaystyle {{a}\choose{b}}$</span>
+is a binomial coefficient.</li>
+</ul>
+<p>A hypergeometric probability distribution is the outcome resulting from a hypergeometric experiment. The characteristics of a hypergeometric experiment are:</p>
+
+<ol>
+<li>You take samples from 2 groups.</li>
+<li>You are concerned with a group of interest, called the first group.</li>
+<li>You sample without replacement from the combined groups. For example, you want to choose a softball team from a combined group of 11 men and 13 women. The team consists of 10 players.</li>
+<li>Each pick is not independent, since sampling is without replacement. In the softball example, the probability of picking a women first is <span class='clFormula'>$\frac{13}{24}$</span>
+. The probability of picking a man second is <span class='clFormula'>$\frac{11}{23}$</span>
+, if a woman was picked first. It is <span class='clFormula'>$\frac{10}{23}$</span>
+if a man was picked first. The probability of the second pick depends on what happened in the first pick.</li>
+<li>You are not dealing with Bernoulli Trials.</li>
+</ol>
+
+</div>
+</div>
+</body>
+</html>

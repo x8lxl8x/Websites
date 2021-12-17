@@ -1,0 +1,32 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1020" height="570" id="MathematicalMeans">
+  <defs id="defs28"></defs>
+  <metadata id="metadata3"></metadata>
+  <g id="mainLayer">
+    <g transform="translate(10,10)" id="GroupForTranslation">
+      <g id="Lines">
+        <path d="M 0,500 C 0,223.85763 223.85763,0 500,0 c 276.14237,0 500,223.85763 500,500" id="HalfCircle" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 0,500 500,0" id="AuxLradius" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 500,500 300,0" id="AuxRradiusA" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 800,500 200,0" id="AuxRradiusB" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="M 500,500 500,0" id="ArithmeticMean" style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 800,500 0,-400" id="GeometricMean" style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="M 800,500 500,0" id="QuadraticMean" style="fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="M 500,500 608,356" id="AuxHrest" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="M 800,100 608,356" id="HarmonicMean" style="fill:none;stroke:#ff00fe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="M 800,500 608,356" id="AuxHnormal" style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 0,515 0,10 800,0 0,-10 m 0,10 200,0 0,-10" id="abSegments" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 596,372 c 8.83656,6.62742 21.37258,4.83656 28,-4" id="RightAngleArc" style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+        <path d="m 609.33333,365.33333 0,0" id="RightAngleDot" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"></path>
+      </g>
+      <g id="Labels">
+        <text x="390" y="555" id="text22" style="font-size:36px;fill:#000000;font-family:Bitstream Vera Sans">a</text>
+        <text x="890" y="555" id="text24" style="font-size:36px;fill:#000000;font-family:Bitstream Vera Sans">b</text>
+        <text x="505" y="265" id="text26" style="font-size:36px;fill:#ff0000;font-family:Bitstream Vera Sans">A</text>
+        <text x="805" y="315" id="text28" style="font-size:36px;fill:#0000ff;font-family:Bitstream Vera Sans">G</text>
+        <text x="700" y="265" id="text30" style="font-size:36px;fill:#ff00ff;font-family:Bitstream Vera Sans">H</text>
+        <text x="615" y="265" id="text32" style="font-size:36px;fill:#00ff00;font-family:Bitstream Vera Sans">Q</text>
+      </g>
+    </g>
+  </g>
+</svg>

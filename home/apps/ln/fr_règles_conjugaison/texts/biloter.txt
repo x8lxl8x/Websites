@@ -1,0 +1,190 @@
+# biloter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bilot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bilot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bilot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bilot%[m|é]|
+|ayant|bilot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bilot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bilot%[m|e]|
+|tu|bilot%[m|es]|
+|il|bilot%[m|e]|
+|nous|bilot%[m|ons]|
+|vous|bilot%[m|ez]|
+|ils|bilot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bilot%[m|é]|
+|tu|as |bilot%[m|é]|
+|il|a|bilot%[m|é]|
+|nous|avons|bilot%[m|é]|
+|vous|avez|bilot%[m|é]|
+|ils|ont|bilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bilot%[m|ais]|
+|tu|bilot%[m|ais]|
+|il|bilot%[m|ait]|
+|nous|bilot%[m|ions]|
+|vous|bilot%[m|iez]|
+|ils|bilot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bilot%[m|é]|
+|tu|avais|bilot%[m|é]|
+|il|avait|bilot%[m|é]|
+|nous|avions|bilot%[m|é]|
+|vous|aviez|bilot%[m|é]|
+|ils|avaient|bilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bilot%[m|ai]|
+|tu|bilot%[m|as]|
+|il|bilot%[m|a]|
+|nous|bilot%[m|âmes]|
+|vous|bilot%[m|âtes]|
+|ils|bilot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bilot%[m|é]|
+|tu|eus|bilot%[m|é]|
+|il|eut|bilot%[m|é]|
+|nous|e&ucirc;mes|bilot%[m|é]|
+|vous|e&ucirc;tes|bilot%[m|é]|
+|ils|eurent|bilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bilot%[m|erai]|
+|tu|bilot%[m|eras]|
+|il|bilot%[m|era]|
+|nous|bilot%[m|erons]|
+|vous|bilot%[m|erez]|
+|ils|bilot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bilot%[m|é]|
+|tu|auras|bilot%[m|é]|
+|il|aura|bilot%[m|é]|
+|nous|aurons|bilot%[m|é]|
+|vous|aurez|bilot%[m|é]|
+|ils|auront|bilot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bilot%[m|erais]|
+|tu|bilot%[m|erais]|
+|il|bilot%[m|erait]|
+|nous|bilot%[m|erions]|
+|vous|bilot%[m|eriez]|
+|ils|bilot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bilot%[m|é]|
+|tu|aurais|bilot%[m|é]|
+|il|aurait|bilot%[m|é]|
+|nous|aurions|bilot%[m|é]|
+|vous|auriez|bilot%[m|é]|
+|ils|auraient|bilot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bilot%[m|e]|
+|que|tu|bilot%[m|es]|
+|qu'|il|bilot%[m|e]|
+|que|nous|bilot%[m|ions]|
+|que|vous|bilot%[m|iez]|
+|qu'|ils|bilot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bilot%[m|é]|
+|que|tu|aies|bilot%[m|é]|
+|qu'|il|ait|bilot%[m|é]|
+|que|nous|ayons|bilot%[m|é]|
+|que|vous|ayez|bilot%[m|é]|
+|qu'|ils|aient|bilot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bilot%[m|asse]|
+|que|tu|bilot%[m|asses]|
+|qu'|il|bilot%[m|ât]|
+|que|nous|bilot%[m|assions]|
+|que|vous|bilot%[m|assiez]|
+|qu'|ils|bilot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bilot%[m|é]|
+|que|tu|eusses|bilot%[m|é]|
+|qu'|il|eût|bilot%[m|é]|
+|que|nous|eussions|bilot%[m|é]|
+|que|vous|eussiez|bilot%[m|é]|
+|qu'|ils|eussent|bilot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bilot%[m|e]|
+|bilot%[m|ons]|
+|bilot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bilot%[m|é]|
+|ayons|bilot%[m|é]|
+|ayez|bilot%[m|é]|
+|]
+

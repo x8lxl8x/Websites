@@ -1,0 +1,27 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Психология</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id14001' name='var14001' type='checkbox' placeholder='$arrValues[1]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Вата - Психологический портрет    </td></tr>
+<tr><td><input id='id14002' name='var14002' type='checkbox' placeholder='$arrValues[2]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Питта - Психологический портрет   </td></tr>
+<tr><td><input id='id14003' name='var14003' type='checkbox' placeholder='$arrValues[3]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Капха - Психологический портрет   </td></tr>
+<tr><td><input id='id14004' name='var14004' type='checkbox' placeholder='$arrValues[4]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Медитация прощения                </td></tr>
+<tr><td><input id='id14005' name='var14005' type='checkbox' placeholder='$arrValues[5]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Выбор партнеров                   </td></tr>
+<tr><td><input id='id14006' name='var14006' type='checkbox' placeholder='$arrValues[6]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Стрес, усталость                  </td></tr>
+<tr><td><input id='id14007' name='var14007' type='checkbox' placeholder='$arrValues[7]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Mодa на успешность                </td></tr>
+<tr><td><input id='id14008' name='var14008' type='checkbox' placeholder='$arrValues[8]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Освободитесь                      </td></tr>
+<tr><td><input id='id14009' name='var14009' type='checkbox' placeholder='$arrValues[9]'  onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 009&nbsp;&nbsp;&nbsp;Карма и наши болезни              </td></tr>
+<tr><td><input id='id14010' name='var14010' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 010&nbsp;&nbsp;&nbsp;Угасание сексуальных отношений    </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

@@ -1,0 +1,190 @@
+# endiabler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|endiabl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|endiabl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||endiabl%[m|é]|
+|ayant|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en endiabl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|endiabl%[m|e]|
+|tu|endiabl%[m|es]|
+|il|endiabl%[m|e]|
+|nous|endiabl%[m|ons]|
+|vous|endiabl%[m|ez]|
+|ils|endiabl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|endiabl%[m|é]|
+|tu|as |endiabl%[m|é]|
+|il|a|endiabl%[m|é]|
+|nous|avons|endiabl%[m|é]|
+|vous|avez|endiabl%[m|é]|
+|ils|ont|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|endiabl%[m|ais]|
+|tu|endiabl%[m|ais]|
+|il|endiabl%[m|ait]|
+|nous|endiabl%[m|ions]|
+|vous|endiabl%[m|iez]|
+|ils|endiabl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|endiabl%[m|é]|
+|tu|avais|endiabl%[m|é]|
+|il|avait|endiabl%[m|é]|
+|nous|avions|endiabl%[m|é]|
+|vous|aviez|endiabl%[m|é]|
+|ils|avaient|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|endiabl%[m|ai]|
+|tu|endiabl%[m|as]|
+|il|endiabl%[m|a]|
+|nous|endiabl%[m|âmes]|
+|vous|endiabl%[m|âtes]|
+|ils|endiabl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|endiabl%[m|é]|
+|tu|eus|endiabl%[m|é]|
+|il|eut|endiabl%[m|é]|
+|nous|e&ucirc;mes|endiabl%[m|é]|
+|vous|e&ucirc;tes|endiabl%[m|é]|
+|ils|eurent|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|endiabl%[m|erai]|
+|tu|endiabl%[m|eras]|
+|il|endiabl%[m|era]|
+|nous|endiabl%[m|erons]|
+|vous|endiabl%[m|erez]|
+|ils|endiabl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|endiabl%[m|é]|
+|tu|auras|endiabl%[m|é]|
+|il|aura|endiabl%[m|é]|
+|nous|aurons|endiabl%[m|é]|
+|vous|aurez|endiabl%[m|é]|
+|ils|auront|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|endiabl%[m|erais]|
+|tu|endiabl%[m|erais]|
+|il|endiabl%[m|erait]|
+|nous|endiabl%[m|erions]|
+|vous|endiabl%[m|eriez]|
+|ils|endiabl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|endiabl%[m|é]|
+|tu|aurais|endiabl%[m|é]|
+|il|aurait|endiabl%[m|é]|
+|nous|aurions|endiabl%[m|é]|
+|vous|auriez|endiabl%[m|é]|
+|ils|auraient|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|endiabl%[m|e]|
+|que|tu|endiabl%[m|es]|
+|qu'|il|endiabl%[m|e]|
+|que|nous|endiabl%[m|ions]|
+|que|vous|endiabl%[m|iez]|
+|qu'|ils|endiabl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|endiabl%[m|é]|
+|que|tu|aies|endiabl%[m|é]|
+|qu'|il|ait|endiabl%[m|é]|
+|que|nous|ayons|endiabl%[m|é]|
+|que|vous|ayez|endiabl%[m|é]|
+|qu'|ils|aient|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|endiabl%[m|asse]|
+|que|tu|endiabl%[m|asses]|
+|qu'|il|endiabl%[m|ât]|
+|que|nous|endiabl%[m|assions]|
+|que|vous|endiabl%[m|assiez]|
+|qu'|ils|endiabl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|endiabl%[m|é]|
+|que|tu|eusses|endiabl%[m|é]|
+|qu'|il|eût|endiabl%[m|é]|
+|que|nous|eussions|endiabl%[m|é]|
+|que|vous|eussiez|endiabl%[m|é]|
+|qu'|ils|eussent|endiabl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|endiabl%[m|e]|
+|endiabl%[m|ons]|
+|endiabl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|endiabl%[m|é]|
+|ayons|endiabl%[m|é]|
+|ayez|endiabl%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# compéter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|comp%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|compét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|comp%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||compét%[m|é]|
+|ayant|compét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en comp%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|compét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|comp%[m|è]t%[m|e]|
+|tu|comp%[m|è]t%[m|es]|
+|il|comp%[m|è]t%[m|e]|
+|nous|comp%[m|é]t%[m|ons]|
+|vous|comp%[m|é]t%[m|ez]|
+|ils|comp%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|compét%[m|é]|
+|tu|as |compét%[m|é]|
+|il|a|compét%[m|é]|
+|nous|avons|compét%[m|é]|
+|vous|avez|compét%[m|é]|
+|ils|ont|compét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|comp%[m|é]t%[m|ais]|
+|tu|comp%[m|é]t%[m|ais]|
+|il|comp%[m|é]t%[m|ait]|
+|nous|comp%[m|é]t%[m|ions]|
+|vous|comp%[m|é]t%[m|iez]|
+|ils|comp%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|compét%[m|é]|
+|tu|avais|compét%[m|é]|
+|il|avait|compét%[m|é]|
+|nous|avions|compét%[m|é]|
+|vous|aviez|compét%[m|é]|
+|ils|avaient|compét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|comp%[m|é]t%[m|ai]|
+|tu|comp%[m|é]t%[m|as]|
+|il|comp%[m|é]t%[m|a]|
+|nous|comp%[m|é]t%[m|âmes]|
+|vous|comp%[m|é]t%[m|âtes]|
+|ils|comp%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|compét%[m|é]|
+|tu|eus|compét%[m|é]|
+|il|eut|compét%[m|é]|
+|nous|e&ucirc;mes|compét%[m|é]|
+|vous|e&ucirc;tes|compét%[m|é]|
+|ils|eurent|compét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|comp%[m|é]t%[m|erai]|
+|tu|comp%[m|é]t%[m|eras]|
+|il|comp%[m|é]t%[m|era]|
+|nous|comp%[m|é]t%[m|erons]|
+|vous|comp%[m|é]t%[m|erez]|
+|ils|comp%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|compét%[m|é]|
+|tu|auras|compét%[m|é]|
+|il|aura|compét%[m|é]|
+|nous|aurons|compét%[m|é]|
+|vous|aurez|compét%[m|é]|
+|ils|auront|compét%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|comp%[m|é]t%[m|erais]|
+|tu|comp%[m|é]t%[m|erais]|
+|il|comp%[m|é]t%[m|erait]|
+|nous|comp%[m|é]t%[m|erions]|
+|vous|comp%[m|é]t%[m|eriez]|
+|ils|comp%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|compét%[m|é]|
+|tu|aurais|compét%[m|é]|
+|il|aurait|compét%[m|é]|
+|nous|aurions|compét%[m|é]|
+|vous|auriez|compét%[m|é]|
+|ils|auraient|compét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|comp%[m|è]t%[m|e]|
+|que|tu|comp%[m|è]t%[m|es]|
+|qu'|il|comp%[m|è]t%[m|e]|
+|que|nous|comp%[m|é]t%[m|ions]|
+|que|vous|comp%[m|é]t%[m|iez]|
+|qu'|ils|comp%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|compét%[m|é]|
+|que|tu|aies|compét%[m|é]|
+|qu'|il|ait|compét%[m|é]|
+|que|nous|ayons|compét%[m|é]|
+|que|vous|ayez|compét%[m|é]|
+|qu'|ils|aient|compét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|comp%[m|é]t%[m|asse]|
+|que|tu|comp%[m|é]t%[m|asses]|
+|qu'|il|comp%[m|é]t%[m|ât]|
+|que|nous|comp%[m|é]t%[m|assions]|
+|que|vous|comp%[m|é]t%[m|assiez]|
+|qu'|ils|comp%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|compét%[m|é]|
+|que|tu|eusses|compét%[m|é]|
+|qu'|il|eût|compét%[m|é]|
+|que|nous|eussions|compét%[m|é]|
+|que|vous|eussiez|compét%[m|é]|
+|qu'|ils|eussent|compét%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|comp%[m|è]t%[m|e]|
+|comp%[m|é]t%[m|ons]|
+|comp%[m|é]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|compét%[m|é]|
+|ayons|compét%[m|é]|
+|ayez|compét%[m|é]|
+|]
+

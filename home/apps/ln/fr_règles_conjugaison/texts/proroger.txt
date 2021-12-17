@@ -1,0 +1,190 @@
+# proroger %[clVerbGroup|1]
+[-
+renvoyer, reporter à une date ultérieure. Prolonger, proroger un délai. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|prorog%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|prorog%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|prorog%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||prorog%[m|é]|
+|ayant|prorog%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en prorog%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|prorog%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|prorog%[m|e]|
+|tu|prorog%[m|es]|
+|il|prorog%[m|e]|
+|nous|prorog%[m|eons]|
+|vous|prorog%[m|ez]|
+|ils|prorog%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|prorog%[m|é]|
+|tu|as |prorog%[m|é]|
+|il|a|prorog%[m|é]|
+|nous|avons|prorog%[m|é]|
+|vous|avez|prorog%[m|é]|
+|ils|ont|prorog%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|prorog%[m|eais]|
+|tu|prorog%[m|eais]|
+|il|prorog%[m|eait]|
+|nous|prorog%[m|ions]|
+|vous|prorog%[m|iez]|
+|ils|prorog%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|prorog%[m|é]|
+|tu|avais|prorog%[m|é]|
+|il|avait|prorog%[m|é]|
+|nous|avions|prorog%[m|é]|
+|vous|aviez|prorog%[m|é]|
+|ils|avaient|prorog%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|prorog%[m|eai]|
+|tu|prorog%[m|eas]|
+|il|prorog%[m|ea]|
+|nous|prorog%[m|eâmes]|
+|vous|prorog%[m|eâtes]|
+|ils|prorog%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|prorog%[m|é]|
+|tu|eus|prorog%[m|é]|
+|il|eut|prorog%[m|é]|
+|nous|e&ucirc;mes|prorog%[m|é]|
+|vous|e&ucirc;tes|prorog%[m|é]|
+|ils|eurent|prorog%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|prorog%[m|erai]|
+|tu|prorog%[m|eras]|
+|il|prorog%[m|era]|
+|nous|prorog%[m|erons]|
+|vous|prorog%[m|erez]|
+|ils|prorog%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|prorog%[m|é]|
+|tu|auras|prorog%[m|é]|
+|il|aura|prorog%[m|é]|
+|nous|aurons|prorog%[m|é]|
+|vous|aurez|prorog%[m|é]|
+|ils|auront|prorog%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|prorog%[m|erais]|
+|tu|prorog%[m|erais]|
+|il|prorog%[m|erait]|
+|nous|prorog%[m|erions]|
+|vous|prorog%[m|eriez]|
+|ils|prorog%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|prorog%[m|é]|
+|tu|aurais|prorog%[m|é]|
+|il|aurait|prorog%[m|é]|
+|nous|aurions|prorog%[m|é]|
+|vous|auriez|prorog%[m|é]|
+|ils|auraient|prorog%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|prorog%[m|e]|
+|que|tu|prorog%[m|es]|
+|qu'|il|prorog%[m|e]|
+|que|nous|prorog%[m|ions]|
+|que|vous|prorog%[m|iez]|
+|qu'|ils|prorog%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|prorog%[m|é]|
+|que|tu|aies|prorog%[m|é]|
+|qu'|il|ait|prorog%[m|é]|
+|que|nous|ayons|prorog%[m|é]|
+|que|vous|ayez|prorog%[m|é]|
+|qu'|ils|aient|prorog%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|prorog%[m|easse]|
+|que|tu|prorog%[m|easses]|
+|qu'|il|prorog%[m|eât]|
+|que|nous|prorog%[m|eassions]|
+|que|vous|prorog%[m|eassiez]|
+|qu'|ils|prorog%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|prorog%[m|é]|
+|que|tu|eusses|prorog%[m|é]|
+|qu'|il|eût|prorog%[m|é]|
+|que|nous|eussions|prorog%[m|é]|
+|que|vous|eussiez|prorog%[m|é]|
+|qu'|ils|eussent|prorog%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prorog%[m|e]|
+|prorog%[m|eons]|
+|prorog%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|prorog%[m|é]|
+|ayons|prorog%[m|é]|
+|ayez|prorog%[m|é]|
+|]
+

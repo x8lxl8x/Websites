@@ -1,0 +1,190 @@
+# avocasser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|avocass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|avocass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|avocass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||avocass%[m|é]|
+|ayant|avocass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en avocass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|avocass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|avocass%[m|e]|
+|tu|avocass%[m|es]|
+|il|avocass%[m|e]|
+|nous|avocass%[m|ons]|
+|vous|avocass%[m|ez]|
+|ils|avocass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|avocass%[m|é]|
+|tu|as |avocass%[m|é]|
+|il|a|avocass%[m|é]|
+|nous|avons|avocass%[m|é]|
+|vous|avez|avocass%[m|é]|
+|ils|ont|avocass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|avocass%[m|ais]|
+|tu|avocass%[m|ais]|
+|il|avocass%[m|ait]|
+|nous|avocass%[m|ions]|
+|vous|avocass%[m|iez]|
+|ils|avocass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|avocass%[m|é]|
+|tu|avais|avocass%[m|é]|
+|il|avait|avocass%[m|é]|
+|nous|avions|avocass%[m|é]|
+|vous|aviez|avocass%[m|é]|
+|ils|avaient|avocass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|avocass%[m|ai]|
+|tu|avocass%[m|as]|
+|il|avocass%[m|a]|
+|nous|avocass%[m|âmes]|
+|vous|avocass%[m|âtes]|
+|ils|avocass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|avocass%[m|é]|
+|tu|eus|avocass%[m|é]|
+|il|eut|avocass%[m|é]|
+|nous|e&ucirc;mes|avocass%[m|é]|
+|vous|e&ucirc;tes|avocass%[m|é]|
+|ils|eurent|avocass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|avocass%[m|erai]|
+|tu|avocass%[m|eras]|
+|il|avocass%[m|era]|
+|nous|avocass%[m|erons]|
+|vous|avocass%[m|erez]|
+|ils|avocass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|avocass%[m|é]|
+|tu|auras|avocass%[m|é]|
+|il|aura|avocass%[m|é]|
+|nous|aurons|avocass%[m|é]|
+|vous|aurez|avocass%[m|é]|
+|ils|auront|avocass%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|avocass%[m|erais]|
+|tu|avocass%[m|erais]|
+|il|avocass%[m|erait]|
+|nous|avocass%[m|erions]|
+|vous|avocass%[m|eriez]|
+|ils|avocass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|avocass%[m|é]|
+|tu|aurais|avocass%[m|é]|
+|il|aurait|avocass%[m|é]|
+|nous|aurions|avocass%[m|é]|
+|vous|auriez|avocass%[m|é]|
+|ils|auraient|avocass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|avocass%[m|e]|
+|que|tu|avocass%[m|es]|
+|qu'|il|avocass%[m|e]|
+|que|nous|avocass%[m|ions]|
+|que|vous|avocass%[m|iez]|
+|qu'|ils|avocass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|avocass%[m|é]|
+|que|tu|aies|avocass%[m|é]|
+|qu'|il|ait|avocass%[m|é]|
+|que|nous|ayons|avocass%[m|é]|
+|que|vous|ayez|avocass%[m|é]|
+|qu'|ils|aient|avocass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|avocass%[m|asse]|
+|que|tu|avocass%[m|asses]|
+|qu'|il|avocass%[m|ât]|
+|que|nous|avocass%[m|assions]|
+|que|vous|avocass%[m|assiez]|
+|qu'|ils|avocass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|avocass%[m|é]|
+|que|tu|eusses|avocass%[m|é]|
+|qu'|il|eût|avocass%[m|é]|
+|que|nous|eussions|avocass%[m|é]|
+|que|vous|eussiez|avocass%[m|é]|
+|qu'|ils|eussent|avocass%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|avocass%[m|e]|
+|avocass%[m|ons]|
+|avocass%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|avocass%[m|é]|
+|ayons|avocass%[m|é]|
+|ayez|avocass%[m|é]|
+|]
+

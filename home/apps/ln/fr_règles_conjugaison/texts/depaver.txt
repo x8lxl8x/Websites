@@ -1,0 +1,190 @@
+# dépaver %[clVerbGroup|1]
+[-
+enlever les pavés. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dépav%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dépav%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dépav%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dépav%[m|é]|
+|ayant|dépav%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dépav%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dépav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dépav%[m|e]|
+|tu|dépav%[m|es]|
+|il|dépav%[m|e]|
+|nous|dépav%[m|ons]|
+|vous|dépav%[m|ez]|
+|ils|dépav%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dépav%[m|é]|
+|tu|as |dépav%[m|é]|
+|il|a|dépav%[m|é]|
+|nous|avons|dépav%[m|é]|
+|vous|avez|dépav%[m|é]|
+|ils|ont|dépav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dépav%[m|ais]|
+|tu|dépav%[m|ais]|
+|il|dépav%[m|ait]|
+|nous|dépav%[m|ions]|
+|vous|dépav%[m|iez]|
+|ils|dépav%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dépav%[m|é]|
+|tu|avais|dépav%[m|é]|
+|il|avait|dépav%[m|é]|
+|nous|avions|dépav%[m|é]|
+|vous|aviez|dépav%[m|é]|
+|ils|avaient|dépav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dépav%[m|ai]|
+|tu|dépav%[m|as]|
+|il|dépav%[m|a]|
+|nous|dépav%[m|âmes]|
+|vous|dépav%[m|âtes]|
+|ils|dépav%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dépav%[m|é]|
+|tu|eus|dépav%[m|é]|
+|il|eut|dépav%[m|é]|
+|nous|e&ucirc;mes|dépav%[m|é]|
+|vous|e&ucirc;tes|dépav%[m|é]|
+|ils|eurent|dépav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dépav%[m|erai]|
+|tu|dépav%[m|eras]|
+|il|dépav%[m|era]|
+|nous|dépav%[m|erons]|
+|vous|dépav%[m|erez]|
+|ils|dépav%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dépav%[m|é]|
+|tu|auras|dépav%[m|é]|
+|il|aura|dépav%[m|é]|
+|nous|aurons|dépav%[m|é]|
+|vous|aurez|dépav%[m|é]|
+|ils|auront|dépav%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dépav%[m|erais]|
+|tu|dépav%[m|erais]|
+|il|dépav%[m|erait]|
+|nous|dépav%[m|erions]|
+|vous|dépav%[m|eriez]|
+|ils|dépav%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dépav%[m|é]|
+|tu|aurais|dépav%[m|é]|
+|il|aurait|dépav%[m|é]|
+|nous|aurions|dépav%[m|é]|
+|vous|auriez|dépav%[m|é]|
+|ils|auraient|dépav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dépav%[m|e]|
+|que|tu|dépav%[m|es]|
+|qu'|il|dépav%[m|e]|
+|que|nous|dépav%[m|ions]|
+|que|vous|dépav%[m|iez]|
+|qu'|ils|dépav%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dépav%[m|é]|
+|que|tu|aies|dépav%[m|é]|
+|qu'|il|ait|dépav%[m|é]|
+|que|nous|ayons|dépav%[m|é]|
+|que|vous|ayez|dépav%[m|é]|
+|qu'|ils|aient|dépav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dépav%[m|asse]|
+|que|tu|dépav%[m|asses]|
+|qu'|il|dépav%[m|ât]|
+|que|nous|dépav%[m|assions]|
+|que|vous|dépav%[m|assiez]|
+|qu'|ils|dépav%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dépav%[m|é]|
+|que|tu|eusses|dépav%[m|é]|
+|qu'|il|eût|dépav%[m|é]|
+|que|nous|eussions|dépav%[m|é]|
+|que|vous|eussiez|dépav%[m|é]|
+|qu'|ils|eussent|dépav%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dépav%[m|e]|
+|dépav%[m|ons]|
+|dépav%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dépav%[m|é]|
+|ayons|dépav%[m|é]|
+|ayez|dépav%[m|é]|
+|]
+

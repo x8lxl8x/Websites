@@ -1,0 +1,190 @@
+# harder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|hard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|hard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|hard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||hard%[m|é]|
+|ayant|hard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en hard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|hard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|hard%[m|e]|
+|tu|hard%[m|es]|
+|il|hard%[m|e]|
+|nous|hard%[m|ons]|
+|vous|hard%[m|ez]|
+|ils|hard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|hard%[m|é]|
+|tu|as |hard%[m|é]|
+|il|a|hard%[m|é]|
+|nous|avons|hard%[m|é]|
+|vous|avez|hard%[m|é]|
+|ils|ont|hard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|hard%[m|ais]|
+|tu|hard%[m|ais]|
+|il|hard%[m|ait]|
+|nous|hard%[m|ions]|
+|vous|hard%[m|iez]|
+|ils|hard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|hard%[m|é]|
+|tu|avais|hard%[m|é]|
+|il|avait|hard%[m|é]|
+|nous|avions|hard%[m|é]|
+|vous|aviez|hard%[m|é]|
+|ils|avaient|hard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|hard%[m|ai]|
+|tu|hard%[m|as]|
+|il|hard%[m|a]|
+|nous|hard%[m|âmes]|
+|vous|hard%[m|âtes]|
+|ils|hard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|hard%[m|é]|
+|tu|eus|hard%[m|é]|
+|il|eut|hard%[m|é]|
+|nous|e&ucirc;mes|hard%[m|é]|
+|vous|e&ucirc;tes|hard%[m|é]|
+|ils|eurent|hard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|hard%[m|erai]|
+|tu|hard%[m|eras]|
+|il|hard%[m|era]|
+|nous|hard%[m|erons]|
+|vous|hard%[m|erez]|
+|ils|hard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|hard%[m|é]|
+|tu|auras|hard%[m|é]|
+|il|aura|hard%[m|é]|
+|nous|aurons|hard%[m|é]|
+|vous|aurez|hard%[m|é]|
+|ils|auront|hard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|hard%[m|erais]|
+|tu|hard%[m|erais]|
+|il|hard%[m|erait]|
+|nous|hard%[m|erions]|
+|vous|hard%[m|eriez]|
+|ils|hard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|hard%[m|é]|
+|tu|aurais|hard%[m|é]|
+|il|aurait|hard%[m|é]|
+|nous|aurions|hard%[m|é]|
+|vous|auriez|hard%[m|é]|
+|ils|auraient|hard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|hard%[m|e]|
+|que|tu|hard%[m|es]|
+|qu'|il|hard%[m|e]|
+|que|nous|hard%[m|ions]|
+|que|vous|hard%[m|iez]|
+|qu'|ils|hard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|hard%[m|é]|
+|que|tu|aies|hard%[m|é]|
+|qu'|il|ait|hard%[m|é]|
+|que|nous|ayons|hard%[m|é]|
+|que|vous|ayez|hard%[m|é]|
+|qu'|ils|aient|hard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|hard%[m|asse]|
+|que|tu|hard%[m|asses]|
+|qu'|il|hard%[m|ât]|
+|que|nous|hard%[m|assions]|
+|que|vous|hard%[m|assiez]|
+|qu'|ils|hard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|hard%[m|é]|
+|que|tu|eusses|hard%[m|é]|
+|qu'|il|eût|hard%[m|é]|
+|que|nous|eussions|hard%[m|é]|
+|que|vous|eussiez|hard%[m|é]|
+|qu'|ils|eussent|hard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|hard%[m|e]|
+|hard%[m|ons]|
+|hard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|hard%[m|é]|
+|ayons|hard%[m|é]|
+|ayez|hard%[m|é]|
+|]
+

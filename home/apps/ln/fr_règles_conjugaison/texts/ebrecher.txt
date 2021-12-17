@@ -1,0 +1,191 @@
+# ébrécher %[clVerbGroup|1]
+[-
+faire des brèches au bord d'un objet. 
+diminuer, entamer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ébr%[m|é]ch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ébr%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ébréch%[m|é]|
+|ayant|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ébr%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ébr%[m|è]ch%[m|e]|
+|tu|ébr%[m|è]ch%[m|es]|
+|il|ébr%[m|è]ch%[m|e]|
+|nous|ébr%[m|é]ch%[m|ons]|
+|vous|ébr%[m|é]ch%[m|ez]|
+|ils|ébr%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ébréch%[m|é]|
+|tu|as |ébréch%[m|é]|
+|il|a|ébréch%[m|é]|
+|nous|avons|ébréch%[m|é]|
+|vous|avez|ébréch%[m|é]|
+|ils|ont|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ébr%[m|é]ch%[m|ais]|
+|tu|ébr%[m|é]ch%[m|ais]|
+|il|ébr%[m|é]ch%[m|ait]|
+|nous|ébr%[m|é]ch%[m|ions]|
+|vous|ébr%[m|é]ch%[m|iez]|
+|ils|ébr%[m|é]ch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ébréch%[m|é]|
+|tu|avais|ébréch%[m|é]|
+|il|avait|ébréch%[m|é]|
+|nous|avions|ébréch%[m|é]|
+|vous|aviez|ébréch%[m|é]|
+|ils|avaient|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ébr%[m|é]ch%[m|ai]|
+|tu|ébr%[m|é]ch%[m|as]|
+|il|ébr%[m|é]ch%[m|a]|
+|nous|ébr%[m|é]ch%[m|âmes]|
+|vous|ébr%[m|é]ch%[m|âtes]|
+|ils|ébr%[m|é]ch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ébréch%[m|é]|
+|tu|eus|ébréch%[m|é]|
+|il|eut|ébréch%[m|é]|
+|nous|e&ucirc;mes|ébréch%[m|é]|
+|vous|e&ucirc;tes|ébréch%[m|é]|
+|ils|eurent|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ébr%[m|é]ch%[m|erai]|
+|tu|ébr%[m|é]ch%[m|eras]|
+|il|ébr%[m|é]ch%[m|era]|
+|nous|ébr%[m|é]ch%[m|erons]|
+|vous|ébr%[m|é]ch%[m|erez]|
+|ils|ébr%[m|é]ch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ébréch%[m|é]|
+|tu|auras|ébréch%[m|é]|
+|il|aura|ébréch%[m|é]|
+|nous|aurons|ébréch%[m|é]|
+|vous|aurez|ébréch%[m|é]|
+|ils|auront|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ébr%[m|é]ch%[m|erais]|
+|tu|ébr%[m|é]ch%[m|erais]|
+|il|ébr%[m|é]ch%[m|erait]|
+|nous|ébr%[m|é]ch%[m|erions]|
+|vous|ébr%[m|é]ch%[m|eriez]|
+|ils|ébr%[m|é]ch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ébréch%[m|é]|
+|tu|aurais|ébréch%[m|é]|
+|il|aurait|ébréch%[m|é]|
+|nous|aurions|ébréch%[m|é]|
+|vous|auriez|ébréch%[m|é]|
+|ils|auraient|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ébr%[m|è]ch%[m|e]|
+|que|tu|ébr%[m|è]ch%[m|es]|
+|qu'|il|ébr%[m|è]ch%[m|e]|
+|que|nous|ébr%[m|é]ch%[m|ions]|
+|que|vous|ébr%[m|é]ch%[m|iez]|
+|qu'|ils|ébr%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ébréch%[m|é]|
+|que|tu|aies|ébréch%[m|é]|
+|qu'|il|ait|ébréch%[m|é]|
+|que|nous|ayons|ébréch%[m|é]|
+|que|vous|ayez|ébréch%[m|é]|
+|qu'|ils|aient|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ébr%[m|é]ch%[m|asse]|
+|que|tu|ébr%[m|é]ch%[m|asses]|
+|qu'|il|ébr%[m|é]ch%[m|ât]|
+|que|nous|ébr%[m|é]ch%[m|assions]|
+|que|vous|ébr%[m|é]ch%[m|assiez]|
+|qu'|ils|ébr%[m|é]ch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ébréch%[m|é]|
+|que|tu|eusses|ébréch%[m|é]|
+|qu'|il|eût|ébréch%[m|é]|
+|que|nous|eussions|ébréch%[m|é]|
+|que|vous|eussiez|ébréch%[m|é]|
+|qu'|ils|eussent|ébréch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ébr%[m|è]ch%[m|e]|
+|ébr%[m|é]ch%[m|ons]|
+|ébr%[m|é]ch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ébréch%[m|é]|
+|ayons|ébréch%[m|é]|
+|ayez|ébréch%[m|é]|
+|]
+

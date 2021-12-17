@@ -1,0 +1,192 @@
+# repartir %[clVerbGroup|3]
+[-
+répliquer promptement : il ne lui a reparti que des impertinences. 
+répondre de manière juste et immédiate. 
+partager quelque chose en parts, selon des principes établis. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repar%[m|tir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|repar%[m|ti]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repar%[m|tant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repar%[m|ti]|
+|étant|repar%[m|ti]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repar%[m|tant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|repar%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repar%[m|s]|
+|tu|repar%[m|s]|
+|il|repar%[m|t]|
+|nous|repar%[m|tons]|
+|vous|repar%[m|tez]|
+|ils|repar%[m|tent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|repar%[m|ti]|
+|tu|es|repar%[m|ti]|
+|il|est|repar%[m|ti]|
+|nous|sommes|repar%[m|tis]|
+|vous|êtes|repar%[m|tis]|
+|ils|sont|repar%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repar%[m|tais]|
+|tu|repar%[m|tais]|
+|il|repar%[m|tait]|
+|nous|repar%[m|tions]|
+|vous|repar%[m|tiez]|
+|ils|repar%[m|taient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|repar%[m|ti]|
+|tu|étais|repar%[m|ti]|
+|il|était|repar%[m|ti]|
+|nous|étions|repar%[m|tis]|
+|vous|étiez|repar%[m|tis]|
+|ils|étaient|repar%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repar%[m|tis]|
+|tu|repar%[m|tis]|
+|il|repar%[m|tit]|
+|nous|repar%[m|tîmes]|
+|vous|repar%[m|tîtes]|
+|ils|repar%[m|tirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|repar%[m|ti]|
+|tu|fus|repar%[m|ti]|
+|il|fut|repar%[m|ti]|
+|nous|fûmes|repar%[m|tis]|
+|vous|fûtes|repar%[m|tis]|
+|ils|furent|repar%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repar%[m|tirai]|
+|tu|repar%[m|tiras]|
+|il|repar%[m|tira]|
+|nous|repar%[m|tirons]|
+|vous|repar%[m|tirez]|
+|ils|repar%[m|tiront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|repar%[m|ti]|
+|tu|seras|repar%[m|ti]|
+|il|sera|repar%[m|ti]|
+|nous|serons|repar%[m|tis]|
+|vous|serez|repar%[m|tis]|
+|ils|seront|repar%[m|tis]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repar%[m|tirais]|
+|tu|repar%[m|tirais]|
+|il|repar%[m|tirait]|
+|nous|repar%[m|tirions]|
+|vous|repar%[m|tiriez]|
+|ils|repar%[m|tiraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|repar%[m|ti]|
+|tu|serais|repar%[m|ti]|
+|il|serait|repar%[m|ti]|
+|nous|serions|repar%[m|tis]|
+|vous|seriez|repar%[m|tis]|
+|ils|seraient|repar%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repar%[m|te]|
+|que|tu|repar%[m|tes]|
+|qu'|il|repar%[m|te]|
+|que|nous|repar%[m|tions]|
+|que|vous|repar%[m|tiez]|
+|qu'|ils|repar%[m|tent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|repar%[m|ti]|
+|que|tu|sois|repar%[m|ti]|
+|qu'|il|soit|repar%[m|ti]|
+|que|nous|soyons|repar%[m|tis]|
+|que|vous|soyez|repar%[m|tis]|
+|qu'|ils|soient|repar%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repar%[m|tisse]|
+|que|tu|repar%[m|tisses]|
+|qu'|il|repar%[m|tît]|
+|que|nous|repar%[m|tissions]|
+|que|vous|repar%[m|tissiez]|
+|qu'|ils|repar%[m|tissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|repar%[m|ti]|
+|que|tu|fusses|repar%[m|ti]|
+|qu'|il|fût|repar%[m|ti]|
+|que|nous|fussions|repar%[m|tis]|
+|que|vous|fussiez|repar%[m|tis]|
+|qu'|ils|fussent|repar%[m|tis]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repar%[m|s]|
+|repar%[m|tons]|
+|repar%[m|tez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|repar%[m|ti]|
+|soyons|repar%[m|tis]|
+|soyez|repar%[m|tis]|
+|]
+

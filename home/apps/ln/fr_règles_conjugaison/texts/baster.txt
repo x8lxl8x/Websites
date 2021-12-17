@@ -1,0 +1,190 @@
+# baster %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bast%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bast%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bast%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bast%[m|é]|
+|ayant|bast%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bast%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bast%[m|e]|
+|tu|bast%[m|es]|
+|il|bast%[m|e]|
+|nous|bast%[m|ons]|
+|vous|bast%[m|ez]|
+|ils|bast%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bast%[m|é]|
+|tu|as |bast%[m|é]|
+|il|a|bast%[m|é]|
+|nous|avons|bast%[m|é]|
+|vous|avez|bast%[m|é]|
+|ils|ont|bast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bast%[m|ais]|
+|tu|bast%[m|ais]|
+|il|bast%[m|ait]|
+|nous|bast%[m|ions]|
+|vous|bast%[m|iez]|
+|ils|bast%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bast%[m|é]|
+|tu|avais|bast%[m|é]|
+|il|avait|bast%[m|é]|
+|nous|avions|bast%[m|é]|
+|vous|aviez|bast%[m|é]|
+|ils|avaient|bast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bast%[m|ai]|
+|tu|bast%[m|as]|
+|il|bast%[m|a]|
+|nous|bast%[m|âmes]|
+|vous|bast%[m|âtes]|
+|ils|bast%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bast%[m|é]|
+|tu|eus|bast%[m|é]|
+|il|eut|bast%[m|é]|
+|nous|e&ucirc;mes|bast%[m|é]|
+|vous|e&ucirc;tes|bast%[m|é]|
+|ils|eurent|bast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bast%[m|erai]|
+|tu|bast%[m|eras]|
+|il|bast%[m|era]|
+|nous|bast%[m|erons]|
+|vous|bast%[m|erez]|
+|ils|bast%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bast%[m|é]|
+|tu|auras|bast%[m|é]|
+|il|aura|bast%[m|é]|
+|nous|aurons|bast%[m|é]|
+|vous|aurez|bast%[m|é]|
+|ils|auront|bast%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bast%[m|erais]|
+|tu|bast%[m|erais]|
+|il|bast%[m|erait]|
+|nous|bast%[m|erions]|
+|vous|bast%[m|eriez]|
+|ils|bast%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bast%[m|é]|
+|tu|aurais|bast%[m|é]|
+|il|aurait|bast%[m|é]|
+|nous|aurions|bast%[m|é]|
+|vous|auriez|bast%[m|é]|
+|ils|auraient|bast%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bast%[m|e]|
+|que|tu|bast%[m|es]|
+|qu'|il|bast%[m|e]|
+|que|nous|bast%[m|ions]|
+|que|vous|bast%[m|iez]|
+|qu'|ils|bast%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bast%[m|é]|
+|que|tu|aies|bast%[m|é]|
+|qu'|il|ait|bast%[m|é]|
+|que|nous|ayons|bast%[m|é]|
+|que|vous|ayez|bast%[m|é]|
+|qu'|ils|aient|bast%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bast%[m|asse]|
+|que|tu|bast%[m|asses]|
+|qu'|il|bast%[m|ât]|
+|que|nous|bast%[m|assions]|
+|que|vous|bast%[m|assiez]|
+|qu'|ils|bast%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bast%[m|é]|
+|que|tu|eusses|bast%[m|é]|
+|qu'|il|eût|bast%[m|é]|
+|que|nous|eussions|bast%[m|é]|
+|que|vous|eussiez|bast%[m|é]|
+|qu'|ils|eussent|bast%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bast%[m|e]|
+|bast%[m|ons]|
+|bast%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bast%[m|é]|
+|ayons|bast%[m|é]|
+|ayez|bast%[m|é]|
+|]
+

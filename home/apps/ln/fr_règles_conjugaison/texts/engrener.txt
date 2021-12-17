@@ -1,0 +1,190 @@
+# engrener %[clVerbGroup|1]
+[-
+mettre en interdépendance les éléments d'un engrenage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|engr%[m|e]n%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|engren%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|engr%[m|e]n%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||engren%[m|é]|
+|ayant|engren%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en engr%[m|e]n%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|engren%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|engr%[m|è]n%[m|e]|
+|tu|engr%[m|è]n%[m|es]|
+|il|engr%[m|è]n%[m|e]|
+|nous|engr%[m|e]n%[m|ons]|
+|vous|engr%[m|e]n%[m|ez]|
+|ils|engr%[m|è]n%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|engren%[m|é]|
+|tu|as |engren%[m|é]|
+|il|a|engren%[m|é]|
+|nous|avons|engren%[m|é]|
+|vous|avez|engren%[m|é]|
+|ils|ont|engren%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|engr%[m|e]n%[m|ais]|
+|tu|engr%[m|e]n%[m|ais]|
+|il|engr%[m|e]n%[m|ait]|
+|nous|engr%[m|e]n%[m|ions]|
+|vous|engr%[m|e]n%[m|iez]|
+|ils|engr%[m|e]n%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|engren%[m|é]|
+|tu|avais|engren%[m|é]|
+|il|avait|engren%[m|é]|
+|nous|avions|engren%[m|é]|
+|vous|aviez|engren%[m|é]|
+|ils|avaient|engren%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|engr%[m|e]n%[m|ai]|
+|tu|engr%[m|e]n%[m|as]|
+|il|engr%[m|e]n%[m|a]|
+|nous|engr%[m|e]n%[m|âmes]|
+|vous|engr%[m|e]n%[m|âtes]|
+|ils|engr%[m|e]n%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|engren%[m|é]|
+|tu|eus|engren%[m|é]|
+|il|eut|engren%[m|é]|
+|nous|e&ucirc;mes|engren%[m|é]|
+|vous|e&ucirc;tes|engren%[m|é]|
+|ils|eurent|engren%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|engr%[m|è]n%[m|erai]|
+|tu|engr%[m|è]n%[m|eras]|
+|il|engr%[m|è]n%[m|era]|
+|nous|engr%[m|è]n%[m|erons]|
+|vous|engr%[m|è]n%[m|erez]|
+|ils|engr%[m|è]n%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|engren%[m|é]|
+|tu|auras|engren%[m|é]|
+|il|aura|engren%[m|é]|
+|nous|aurons|engren%[m|é]|
+|vous|aurez|engren%[m|é]|
+|ils|auront|engren%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|engr%[m|è]n%[m|erais]|
+|tu|engr%[m|è]n%[m|erais]|
+|il|engr%[m|è]n%[m|erait]|
+|nous|engr%[m|è]n%[m|erions]|
+|vous|engr%[m|è]n%[m|eriez]|
+|ils|engr%[m|è]n%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|engren%[m|é]|
+|tu|aurais|engren%[m|é]|
+|il|aurait|engren%[m|é]|
+|nous|aurions|engren%[m|é]|
+|vous|auriez|engren%[m|é]|
+|ils|auraient|engren%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|engr%[m|è]n%[m|e]|
+|que|tu|engr%[m|è]n%[m|es]|
+|qu'|il|engr%[m|è]n%[m|e]|
+|que|nous|engr%[m|e]n%[m|ions]|
+|que|vous|engr%[m|e]n%[m|iez]|
+|qu'|ils|engr%[m|è]n%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|engren%[m|é]|
+|que|tu|aies|engren%[m|é]|
+|qu'|il|ait|engren%[m|é]|
+|que|nous|ayons|engren%[m|é]|
+|que|vous|ayez|engren%[m|é]|
+|qu'|ils|aient|engren%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|engr%[m|e]n%[m|asse]|
+|que|tu|engr%[m|e]n%[m|asses]|
+|qu'|il|engr%[m|e]n%[m|ât]|
+|que|nous|engr%[m|e]n%[m|assions]|
+|que|vous|engr%[m|e]n%[m|assiez]|
+|qu'|ils|engr%[m|e]n%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|engren%[m|é]|
+|que|tu|eusses|engren%[m|é]|
+|qu'|il|eût|engren%[m|é]|
+|que|nous|eussions|engren%[m|é]|
+|que|vous|eussiez|engren%[m|é]|
+|qu'|ils|eussent|engren%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|engr%[m|è]n%[m|e]|
+|engr%[m|e]n%[m|ons]|
+|engr%[m|e]n%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|engren%[m|é]|
+|ayons|engren%[m|é]|
+|ayez|engren%[m|é]|
+|]
+

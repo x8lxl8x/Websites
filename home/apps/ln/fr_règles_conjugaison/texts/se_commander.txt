@@ -1,0 +1,190 @@
+# se commander %[clVerbGroup|1]
+[-
+communiquer, en parlant de pièces d'une habitation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se command%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|command%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se command%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|command%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se command%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|command%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|command%[m|e]|
+|tu|te|command%[m|es]|
+|il|se|command%[m|e]|
+|nous|nous|command%[m|ons]|
+|vous|vous|command%[m|ez]|
+|ils|se|command%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|command%[m|é]|
+|tu|t'|es|command%[m|é]|
+|il|s'|est|command%[m|é]|
+|nous|nous|sommes|command%[m|és]|
+|vous|vous|êtes|command%[m|és]|
+|ils|se|sont|command%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|command%[m|ais]|
+|tu|te|command%[m|ais]|
+|il|se|command%[m|ait]|
+|nous|nous|command%[m|ions]|
+|vous|vous|command%[m|iez]|
+|ils|se|command%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|command%[m|é]|
+|tu|t'|étais|command%[m|é]|
+|il|s'|était|command%[m|é]|
+|nous|nous|étions|command%[m|és]|
+|vous|vous|étiez|command%[m|és]|
+|ils|s'|étaient|command%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|command%[m|ai]|
+|tu|te|command%[m|as]|
+|il|se|command%[m|a]|
+|nous|nous|command%[m|âmes]|
+|vous|vous|command%[m|âtes]|
+|ils|se|command%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|command%[m|é]|
+|tu|te|fus|command%[m|é]|
+|il|se|fut|command%[m|é]|
+|nous|nous|fûmes|command%[m|és]|
+|vous|vous|fûtes|command%[m|és]|
+|ils|se|furent|command%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|command%[m|erai]|
+|tu|te|command%[m|eras]|
+|il|se|command%[m|era]|
+|nous|nous|command%[m|erons]|
+|vous|vous|command%[m|erez]|
+|ils|se|command%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|command%[m|é]|
+|tu|te|seras|command%[m|é]|
+|il|se|sera|command%[m|é]|
+|nous|nous|serons|command%[m|és]|
+|vous|vous|serez|command%[m|és]|
+|ils|se|seront|command%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|command%[m|erais]|
+|tu|te|command%[m|erais]|
+|il|se|command%[m|erait]|
+|nous|nous|command%[m|erions]|
+|vous|vous|command%[m|eriez]|
+|ils|se|command%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|command%[m|é]|
+|tu|te|serais|command%[m|é]|
+|il|se|serait|command%[m|é]|
+|nous|nous|serions|command%[m|és]|
+|vous|vous|seriez|command%[m|és]|
+|ils|se|seraient|command%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|command%[m|e]|
+|que|tu|te|command%[m|es]|
+|qu'|il|se|command%[m|e]|
+|que|nous|nous|command%[m|ions]|
+|que|vous|vous|command%[m|iez]|
+|qu'|ils|se|command%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|command%[m|é]|
+|que|tu|te|sois|command%[m|é]|
+|qu'|il|se|soit|command%[m|é]|
+|que|nous|nous|soyons|command%[m|és]|
+|que|vous|vous|soyez|command%[m|és]|
+|qu'|ils|se|soient|command%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|command%[m|asse]|
+|que|tu|te|command%[m|asses]|
+|qu'|il|se|command%[m|ât]|
+|que|nous|nous|command%[m|assions]|
+|que|vous|vous|command%[m|assiez]|
+|qu'|ils|se|command%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|command%[m|é]|
+|que|tu|te|fusses|command%[m|é]|
+|qu'|il|se|fût|command%[m|é]|
+|que|nous|nous|fussions|command%[m|és]|
+|que|vous|vous|fussiez|command%[m|és]|
+|qu'|ils|se|fussent|command%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|command%[m|e]-toi|
+|command%[m|ons]-nous|
+|command%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

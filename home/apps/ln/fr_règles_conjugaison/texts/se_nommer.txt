@@ -1,0 +1,190 @@
+# se nommer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se nomm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|nomm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se nomm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|nomm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se nomm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|nomm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|nomm%[m|e]|
+|tu|te|nomm%[m|es]|
+|il|se|nomm%[m|e]|
+|nous|nous|nomm%[m|ons]|
+|vous|vous|nomm%[m|ez]|
+|ils|se|nomm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|nomm%[m|é]|
+|tu|t'|es|nomm%[m|é]|
+|il|s'|est|nomm%[m|é]|
+|nous|nous|sommes|nomm%[m|és]|
+|vous|vous|êtes|nomm%[m|és]|
+|ils|se|sont|nomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|nomm%[m|ais]|
+|tu|te|nomm%[m|ais]|
+|il|se|nomm%[m|ait]|
+|nous|nous|nomm%[m|ions]|
+|vous|vous|nomm%[m|iez]|
+|ils|se|nomm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|nomm%[m|é]|
+|tu|t'|étais|nomm%[m|é]|
+|il|s'|était|nomm%[m|é]|
+|nous|nous|étions|nomm%[m|és]|
+|vous|vous|étiez|nomm%[m|és]|
+|ils|s'|étaient|nomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|nomm%[m|ai]|
+|tu|te|nomm%[m|as]|
+|il|se|nomm%[m|a]|
+|nous|nous|nomm%[m|âmes]|
+|vous|vous|nomm%[m|âtes]|
+|ils|se|nomm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|nomm%[m|é]|
+|tu|te|fus|nomm%[m|é]|
+|il|se|fut|nomm%[m|é]|
+|nous|nous|fûmes|nomm%[m|és]|
+|vous|vous|fûtes|nomm%[m|és]|
+|ils|se|furent|nomm%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|nomm%[m|erai]|
+|tu|te|nomm%[m|eras]|
+|il|se|nomm%[m|era]|
+|nous|nous|nomm%[m|erons]|
+|vous|vous|nomm%[m|erez]|
+|ils|se|nomm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|nomm%[m|é]|
+|tu|te|seras|nomm%[m|é]|
+|il|se|sera|nomm%[m|é]|
+|nous|nous|serons|nomm%[m|és]|
+|vous|vous|serez|nomm%[m|és]|
+|ils|se|seront|nomm%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|nomm%[m|erais]|
+|tu|te|nomm%[m|erais]|
+|il|se|nomm%[m|erait]|
+|nous|nous|nomm%[m|erions]|
+|vous|vous|nomm%[m|eriez]|
+|ils|se|nomm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|nomm%[m|é]|
+|tu|te|serais|nomm%[m|é]|
+|il|se|serait|nomm%[m|é]|
+|nous|nous|serions|nomm%[m|és]|
+|vous|vous|seriez|nomm%[m|és]|
+|ils|se|seraient|nomm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|nomm%[m|e]|
+|que|tu|te|nomm%[m|es]|
+|qu'|il|se|nomm%[m|e]|
+|que|nous|nous|nomm%[m|ions]|
+|que|vous|vous|nomm%[m|iez]|
+|qu'|ils|se|nomm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|nomm%[m|é]|
+|que|tu|te|sois|nomm%[m|é]|
+|qu'|il|se|soit|nomm%[m|é]|
+|que|nous|nous|soyons|nomm%[m|és]|
+|que|vous|vous|soyez|nomm%[m|és]|
+|qu'|ils|se|soient|nomm%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|nomm%[m|asse]|
+|que|tu|te|nomm%[m|asses]|
+|qu'|il|se|nomm%[m|ât]|
+|que|nous|nous|nomm%[m|assions]|
+|que|vous|vous|nomm%[m|assiez]|
+|qu'|ils|se|nomm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|nomm%[m|é]|
+|que|tu|te|fusses|nomm%[m|é]|
+|qu'|il|se|fût|nomm%[m|é]|
+|que|nous|nous|fussions|nomm%[m|és]|
+|que|vous|vous|fussiez|nomm%[m|és]|
+|qu'|ils|se|fussent|nomm%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nomm%[m|e]-toi|
+|nomm%[m|ons]-nous|
+|nomm%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

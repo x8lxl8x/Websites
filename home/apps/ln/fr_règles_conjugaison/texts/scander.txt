@@ -1,0 +1,191 @@
+# scander %[clVerbGroup|1]
+[-
+analyser le rythme d'un vers en le déclamant. 
+prononcer en détachant les syllabes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|scand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|scand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|scand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||scand%[m|é]|
+|ayant|scand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en scand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|scand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|scand%[m|e]|
+|tu|scand%[m|es]|
+|il|scand%[m|e]|
+|nous|scand%[m|ons]|
+|vous|scand%[m|ez]|
+|ils|scand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|scand%[m|é]|
+|tu|as |scand%[m|é]|
+|il|a|scand%[m|é]|
+|nous|avons|scand%[m|é]|
+|vous|avez|scand%[m|é]|
+|ils|ont|scand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|scand%[m|ais]|
+|tu|scand%[m|ais]|
+|il|scand%[m|ait]|
+|nous|scand%[m|ions]|
+|vous|scand%[m|iez]|
+|ils|scand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|scand%[m|é]|
+|tu|avais|scand%[m|é]|
+|il|avait|scand%[m|é]|
+|nous|avions|scand%[m|é]|
+|vous|aviez|scand%[m|é]|
+|ils|avaient|scand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|scand%[m|ai]|
+|tu|scand%[m|as]|
+|il|scand%[m|a]|
+|nous|scand%[m|âmes]|
+|vous|scand%[m|âtes]|
+|ils|scand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|scand%[m|é]|
+|tu|eus|scand%[m|é]|
+|il|eut|scand%[m|é]|
+|nous|e&ucirc;mes|scand%[m|é]|
+|vous|e&ucirc;tes|scand%[m|é]|
+|ils|eurent|scand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|scand%[m|erai]|
+|tu|scand%[m|eras]|
+|il|scand%[m|era]|
+|nous|scand%[m|erons]|
+|vous|scand%[m|erez]|
+|ils|scand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|scand%[m|é]|
+|tu|auras|scand%[m|é]|
+|il|aura|scand%[m|é]|
+|nous|aurons|scand%[m|é]|
+|vous|aurez|scand%[m|é]|
+|ils|auront|scand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|scand%[m|erais]|
+|tu|scand%[m|erais]|
+|il|scand%[m|erait]|
+|nous|scand%[m|erions]|
+|vous|scand%[m|eriez]|
+|ils|scand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|scand%[m|é]|
+|tu|aurais|scand%[m|é]|
+|il|aurait|scand%[m|é]|
+|nous|aurions|scand%[m|é]|
+|vous|auriez|scand%[m|é]|
+|ils|auraient|scand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|scand%[m|e]|
+|que|tu|scand%[m|es]|
+|qu'|il|scand%[m|e]|
+|que|nous|scand%[m|ions]|
+|que|vous|scand%[m|iez]|
+|qu'|ils|scand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|scand%[m|é]|
+|que|tu|aies|scand%[m|é]|
+|qu'|il|ait|scand%[m|é]|
+|que|nous|ayons|scand%[m|é]|
+|que|vous|ayez|scand%[m|é]|
+|qu'|ils|aient|scand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|scand%[m|asse]|
+|que|tu|scand%[m|asses]|
+|qu'|il|scand%[m|ât]|
+|que|nous|scand%[m|assions]|
+|que|vous|scand%[m|assiez]|
+|qu'|ils|scand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|scand%[m|é]|
+|que|tu|eusses|scand%[m|é]|
+|qu'|il|eût|scand%[m|é]|
+|que|nous|eussions|scand%[m|é]|
+|que|vous|eussiez|scand%[m|é]|
+|qu'|ils|eussent|scand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|scand%[m|e]|
+|scand%[m|ons]|
+|scand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|scand%[m|é]|
+|ayons|scand%[m|é]|
+|ayez|scand%[m|é]|
+|]
+

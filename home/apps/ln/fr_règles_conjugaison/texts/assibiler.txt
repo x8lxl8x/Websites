@@ -1,0 +1,190 @@
+# assibiler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|assibil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|assibil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|assibil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||assibil%[m|é]|
+|ayant|assibil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en assibil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|assibil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|assibil%[m|e]|
+|tu|assibil%[m|es]|
+|il|assibil%[m|e]|
+|nous|assibil%[m|ons]|
+|vous|assibil%[m|ez]|
+|ils|assibil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|assibil%[m|é]|
+|tu|as |assibil%[m|é]|
+|il|a|assibil%[m|é]|
+|nous|avons|assibil%[m|é]|
+|vous|avez|assibil%[m|é]|
+|ils|ont|assibil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|assibil%[m|ais]|
+|tu|assibil%[m|ais]|
+|il|assibil%[m|ait]|
+|nous|assibil%[m|ions]|
+|vous|assibil%[m|iez]|
+|ils|assibil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|assibil%[m|é]|
+|tu|avais|assibil%[m|é]|
+|il|avait|assibil%[m|é]|
+|nous|avions|assibil%[m|é]|
+|vous|aviez|assibil%[m|é]|
+|ils|avaient|assibil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|assibil%[m|ai]|
+|tu|assibil%[m|as]|
+|il|assibil%[m|a]|
+|nous|assibil%[m|âmes]|
+|vous|assibil%[m|âtes]|
+|ils|assibil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|assibil%[m|é]|
+|tu|eus|assibil%[m|é]|
+|il|eut|assibil%[m|é]|
+|nous|e&ucirc;mes|assibil%[m|é]|
+|vous|e&ucirc;tes|assibil%[m|é]|
+|ils|eurent|assibil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|assibil%[m|erai]|
+|tu|assibil%[m|eras]|
+|il|assibil%[m|era]|
+|nous|assibil%[m|erons]|
+|vous|assibil%[m|erez]|
+|ils|assibil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|assibil%[m|é]|
+|tu|auras|assibil%[m|é]|
+|il|aura|assibil%[m|é]|
+|nous|aurons|assibil%[m|é]|
+|vous|aurez|assibil%[m|é]|
+|ils|auront|assibil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|assibil%[m|erais]|
+|tu|assibil%[m|erais]|
+|il|assibil%[m|erait]|
+|nous|assibil%[m|erions]|
+|vous|assibil%[m|eriez]|
+|ils|assibil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|assibil%[m|é]|
+|tu|aurais|assibil%[m|é]|
+|il|aurait|assibil%[m|é]|
+|nous|aurions|assibil%[m|é]|
+|vous|auriez|assibil%[m|é]|
+|ils|auraient|assibil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|assibil%[m|e]|
+|que|tu|assibil%[m|es]|
+|qu'|il|assibil%[m|e]|
+|que|nous|assibil%[m|ions]|
+|que|vous|assibil%[m|iez]|
+|qu'|ils|assibil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|assibil%[m|é]|
+|que|tu|aies|assibil%[m|é]|
+|qu'|il|ait|assibil%[m|é]|
+|que|nous|ayons|assibil%[m|é]|
+|que|vous|ayez|assibil%[m|é]|
+|qu'|ils|aient|assibil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|assibil%[m|asse]|
+|que|tu|assibil%[m|asses]|
+|qu'|il|assibil%[m|ât]|
+|que|nous|assibil%[m|assions]|
+|que|vous|assibil%[m|assiez]|
+|qu'|ils|assibil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|assibil%[m|é]|
+|que|tu|eusses|assibil%[m|é]|
+|qu'|il|eût|assibil%[m|é]|
+|que|nous|eussions|assibil%[m|é]|
+|que|vous|eussiez|assibil%[m|é]|
+|qu'|ils|eussent|assibil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assibil%[m|e]|
+|assibil%[m|ons]|
+|assibil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|assibil%[m|é]|
+|ayons|assibil%[m|é]|
+|ayez|assibil%[m|é]|
+|]
+

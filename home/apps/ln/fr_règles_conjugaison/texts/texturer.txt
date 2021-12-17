@@ -1,0 +1,190 @@
+# texturer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|textur%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|textur%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|textur%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||textur%[m|é]|
+|ayant|textur%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en textur%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|textur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|textur%[m|e]|
+|tu|textur%[m|es]|
+|il|textur%[m|e]|
+|nous|textur%[m|ons]|
+|vous|textur%[m|ez]|
+|ils|textur%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|textur%[m|é]|
+|tu|as |textur%[m|é]|
+|il|a|textur%[m|é]|
+|nous|avons|textur%[m|é]|
+|vous|avez|textur%[m|é]|
+|ils|ont|textur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|textur%[m|ais]|
+|tu|textur%[m|ais]|
+|il|textur%[m|ait]|
+|nous|textur%[m|ions]|
+|vous|textur%[m|iez]|
+|ils|textur%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|textur%[m|é]|
+|tu|avais|textur%[m|é]|
+|il|avait|textur%[m|é]|
+|nous|avions|textur%[m|é]|
+|vous|aviez|textur%[m|é]|
+|ils|avaient|textur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|textur%[m|ai]|
+|tu|textur%[m|as]|
+|il|textur%[m|a]|
+|nous|textur%[m|âmes]|
+|vous|textur%[m|âtes]|
+|ils|textur%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|textur%[m|é]|
+|tu|eus|textur%[m|é]|
+|il|eut|textur%[m|é]|
+|nous|e&ucirc;mes|textur%[m|é]|
+|vous|e&ucirc;tes|textur%[m|é]|
+|ils|eurent|textur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|textur%[m|erai]|
+|tu|textur%[m|eras]|
+|il|textur%[m|era]|
+|nous|textur%[m|erons]|
+|vous|textur%[m|erez]|
+|ils|textur%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|textur%[m|é]|
+|tu|auras|textur%[m|é]|
+|il|aura|textur%[m|é]|
+|nous|aurons|textur%[m|é]|
+|vous|aurez|textur%[m|é]|
+|ils|auront|textur%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|textur%[m|erais]|
+|tu|textur%[m|erais]|
+|il|textur%[m|erait]|
+|nous|textur%[m|erions]|
+|vous|textur%[m|eriez]|
+|ils|textur%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|textur%[m|é]|
+|tu|aurais|textur%[m|é]|
+|il|aurait|textur%[m|é]|
+|nous|aurions|textur%[m|é]|
+|vous|auriez|textur%[m|é]|
+|ils|auraient|textur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|textur%[m|e]|
+|que|tu|textur%[m|es]|
+|qu'|il|textur%[m|e]|
+|que|nous|textur%[m|ions]|
+|que|vous|textur%[m|iez]|
+|qu'|ils|textur%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|textur%[m|é]|
+|que|tu|aies|textur%[m|é]|
+|qu'|il|ait|textur%[m|é]|
+|que|nous|ayons|textur%[m|é]|
+|que|vous|ayez|textur%[m|é]|
+|qu'|ils|aient|textur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|textur%[m|asse]|
+|que|tu|textur%[m|asses]|
+|qu'|il|textur%[m|ât]|
+|que|nous|textur%[m|assions]|
+|que|vous|textur%[m|assiez]|
+|qu'|ils|textur%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|textur%[m|é]|
+|que|tu|eusses|textur%[m|é]|
+|qu'|il|eût|textur%[m|é]|
+|que|nous|eussions|textur%[m|é]|
+|que|vous|eussiez|textur%[m|é]|
+|qu'|ils|eussent|textur%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|textur%[m|e]|
+|textur%[m|ons]|
+|textur%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|textur%[m|é]|
+|ayons|textur%[m|é]|
+|ayez|textur%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# ficeler %[clVerbGroup|1]
+[-
+attacher par une ficelle. 
+habiller. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ficel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ficel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ficel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ficel%[m|é]|
+|ayant|ficel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ficel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ficel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|ficel%[m|l]%[m|e]|
+|tu|ficel%[m|l]%[m|es]|
+|il|ficel%[m|l]%[m|e]|
+|nous|ficel%[m|]%[m|ons]|
+|vous|ficel%[m|]%[m|ez]|
+|ils|ficel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ficel%[m|é]|
+|tu|as |ficel%[m|é]|
+|il|a|ficel%[m|é]|
+|nous|avons|ficel%[m|é]|
+|vous|avez|ficel%[m|é]|
+|ils|ont|ficel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|ficel%[m|]%[m|ais]|
+|tu|ficel%[m|]%[m|ais]|
+|il|ficel%[m|]%[m|ait]|
+|nous|ficel%[m|]%[m|ions]|
+|vous|ficel%[m|]%[m|iez]|
+|ils|ficel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ficel%[m|é]|
+|tu|avais|ficel%[m|é]|
+|il|avait|ficel%[m|é]|
+|nous|avions|ficel%[m|é]|
+|vous|aviez|ficel%[m|é]|
+|ils|avaient|ficel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|ficel%[m|]%[m|ai]|
+|tu|ficel%[m|]%[m|as]|
+|il|ficel%[m|]%[m|a]|
+|nous|ficel%[m|]%[m|âmes]|
+|vous|ficel%[m|]%[m|âtes]|
+|ils|ficel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ficel%[m|é]|
+|tu|eus|ficel%[m|é]|
+|il|eut|ficel%[m|é]|
+|nous|e&ucirc;mes|ficel%[m|é]|
+|vous|e&ucirc;tes|ficel%[m|é]|
+|ils|eurent|ficel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|ficel%[m|l]%[m|erai]|
+|tu|ficel%[m|l]%[m|eras]|
+|il|ficel%[m|l]%[m|era]|
+|nous|ficel%[m|l]%[m|erons]|
+|vous|ficel%[m|l]%[m|erez]|
+|ils|ficel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ficel%[m|é]|
+|tu|auras|ficel%[m|é]|
+|il|aura|ficel%[m|é]|
+|nous|aurons|ficel%[m|é]|
+|vous|aurez|ficel%[m|é]|
+|ils|auront|ficel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|ficel%[m|l]%[m|erais]|
+|tu|ficel%[m|l]%[m|erais]|
+|il|ficel%[m|l]%[m|erait]|
+|nous|ficel%[m|l]%[m|erions]|
+|vous|ficel%[m|l]%[m|eriez]|
+|ils|ficel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ficel%[m|é]|
+|tu|aurais|ficel%[m|é]|
+|il|aurait|ficel%[m|é]|
+|nous|aurions|ficel%[m|é]|
+|vous|auriez|ficel%[m|é]|
+|ils|auraient|ficel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|ficel%[m|l]%[m|e]|
+|que|tu|ficel%[m|l]%[m|es]|
+|qu'|il|ficel%[m|l]%[m|e]|
+|que|nous|ficel%[m|]%[m|ions]|
+|que|vous|ficel%[m|]%[m|iez]|
+|qu'|ils|ficel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ficel%[m|é]|
+|que|tu|aies|ficel%[m|é]|
+|qu'|il|ait|ficel%[m|é]|
+|que|nous|ayons|ficel%[m|é]|
+|que|vous|ayez|ficel%[m|é]|
+|qu'|ils|aient|ficel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|ficel%[m|]%[m|asse]|
+|que|tu|ficel%[m|]%[m|asses]|
+|qu'|il|ficel%[m|]%[m|ât]|
+|que|nous|ficel%[m|]%[m|assions]|
+|que|vous|ficel%[m|]%[m|assiez]|
+|qu'|ils|ficel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ficel%[m|é]|
+|que|tu|eusses|ficel%[m|é]|
+|qu'|il|eût|ficel%[m|é]|
+|que|nous|eussions|ficel%[m|é]|
+|que|vous|eussiez|ficel%[m|é]|
+|qu'|ils|eussent|ficel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ficel%[m|l]%[m|e]|
+|ficel%[m|]%[m|ons]|
+|ficel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ficel%[m|é]|
+|ayons|ficel%[m|é]|
+|ayez|ficel%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# rater %[clVerbGroup|1]
+[-
+ne pas partir (coup d'une arme à feu) 
+manquer quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rat%[m|é]|
+|ayant|rat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rat%[m|e]|
+|tu|rat%[m|es]|
+|il|rat%[m|e]|
+|nous|rat%[m|ons]|
+|vous|rat%[m|ez]|
+|ils|rat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rat%[m|é]|
+|tu|as |rat%[m|é]|
+|il|a|rat%[m|é]|
+|nous|avons|rat%[m|é]|
+|vous|avez|rat%[m|é]|
+|ils|ont|rat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rat%[m|ais]|
+|tu|rat%[m|ais]|
+|il|rat%[m|ait]|
+|nous|rat%[m|ions]|
+|vous|rat%[m|iez]|
+|ils|rat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rat%[m|é]|
+|tu|avais|rat%[m|é]|
+|il|avait|rat%[m|é]|
+|nous|avions|rat%[m|é]|
+|vous|aviez|rat%[m|é]|
+|ils|avaient|rat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rat%[m|ai]|
+|tu|rat%[m|as]|
+|il|rat%[m|a]|
+|nous|rat%[m|âmes]|
+|vous|rat%[m|âtes]|
+|ils|rat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rat%[m|é]|
+|tu|eus|rat%[m|é]|
+|il|eut|rat%[m|é]|
+|nous|e&ucirc;mes|rat%[m|é]|
+|vous|e&ucirc;tes|rat%[m|é]|
+|ils|eurent|rat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rat%[m|erai]|
+|tu|rat%[m|eras]|
+|il|rat%[m|era]|
+|nous|rat%[m|erons]|
+|vous|rat%[m|erez]|
+|ils|rat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rat%[m|é]|
+|tu|auras|rat%[m|é]|
+|il|aura|rat%[m|é]|
+|nous|aurons|rat%[m|é]|
+|vous|aurez|rat%[m|é]|
+|ils|auront|rat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rat%[m|erais]|
+|tu|rat%[m|erais]|
+|il|rat%[m|erait]|
+|nous|rat%[m|erions]|
+|vous|rat%[m|eriez]|
+|ils|rat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rat%[m|é]|
+|tu|aurais|rat%[m|é]|
+|il|aurait|rat%[m|é]|
+|nous|aurions|rat%[m|é]|
+|vous|auriez|rat%[m|é]|
+|ils|auraient|rat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rat%[m|e]|
+|que|tu|rat%[m|es]|
+|qu'|il|rat%[m|e]|
+|que|nous|rat%[m|ions]|
+|que|vous|rat%[m|iez]|
+|qu'|ils|rat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rat%[m|é]|
+|que|tu|aies|rat%[m|é]|
+|qu'|il|ait|rat%[m|é]|
+|que|nous|ayons|rat%[m|é]|
+|que|vous|ayez|rat%[m|é]|
+|qu'|ils|aient|rat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rat%[m|asse]|
+|que|tu|rat%[m|asses]|
+|qu'|il|rat%[m|ât]|
+|que|nous|rat%[m|assions]|
+|que|vous|rat%[m|assiez]|
+|qu'|ils|rat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rat%[m|é]|
+|que|tu|eusses|rat%[m|é]|
+|qu'|il|eût|rat%[m|é]|
+|que|nous|eussions|rat%[m|é]|
+|que|vous|eussiez|rat%[m|é]|
+|qu'|ils|eussent|rat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rat%[m|e]|
+|rat%[m|ons]|
+|rat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rat%[m|é]|
+|ayons|rat%[m|é]|
+|ayez|rat%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# mapper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mapp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mapp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mapp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mapp%[m|é]|
+|ayant|mapp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mapp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mapp%[m|e]|
+|tu|mapp%[m|es]|
+|il|mapp%[m|e]|
+|nous|mapp%[m|ons]|
+|vous|mapp%[m|ez]|
+|ils|mapp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mapp%[m|é]|
+|tu|as |mapp%[m|é]|
+|il|a|mapp%[m|é]|
+|nous|avons|mapp%[m|é]|
+|vous|avez|mapp%[m|é]|
+|ils|ont|mapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mapp%[m|ais]|
+|tu|mapp%[m|ais]|
+|il|mapp%[m|ait]|
+|nous|mapp%[m|ions]|
+|vous|mapp%[m|iez]|
+|ils|mapp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mapp%[m|é]|
+|tu|avais|mapp%[m|é]|
+|il|avait|mapp%[m|é]|
+|nous|avions|mapp%[m|é]|
+|vous|aviez|mapp%[m|é]|
+|ils|avaient|mapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mapp%[m|ai]|
+|tu|mapp%[m|as]|
+|il|mapp%[m|a]|
+|nous|mapp%[m|âmes]|
+|vous|mapp%[m|âtes]|
+|ils|mapp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mapp%[m|é]|
+|tu|eus|mapp%[m|é]|
+|il|eut|mapp%[m|é]|
+|nous|e&ucirc;mes|mapp%[m|é]|
+|vous|e&ucirc;tes|mapp%[m|é]|
+|ils|eurent|mapp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mapp%[m|erai]|
+|tu|mapp%[m|eras]|
+|il|mapp%[m|era]|
+|nous|mapp%[m|erons]|
+|vous|mapp%[m|erez]|
+|ils|mapp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mapp%[m|é]|
+|tu|auras|mapp%[m|é]|
+|il|aura|mapp%[m|é]|
+|nous|aurons|mapp%[m|é]|
+|vous|aurez|mapp%[m|é]|
+|ils|auront|mapp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mapp%[m|erais]|
+|tu|mapp%[m|erais]|
+|il|mapp%[m|erait]|
+|nous|mapp%[m|erions]|
+|vous|mapp%[m|eriez]|
+|ils|mapp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mapp%[m|é]|
+|tu|aurais|mapp%[m|é]|
+|il|aurait|mapp%[m|é]|
+|nous|aurions|mapp%[m|é]|
+|vous|auriez|mapp%[m|é]|
+|ils|auraient|mapp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mapp%[m|e]|
+|que|tu|mapp%[m|es]|
+|qu'|il|mapp%[m|e]|
+|que|nous|mapp%[m|ions]|
+|que|vous|mapp%[m|iez]|
+|qu'|ils|mapp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mapp%[m|é]|
+|que|tu|aies|mapp%[m|é]|
+|qu'|il|ait|mapp%[m|é]|
+|que|nous|ayons|mapp%[m|é]|
+|que|vous|ayez|mapp%[m|é]|
+|qu'|ils|aient|mapp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mapp%[m|asse]|
+|que|tu|mapp%[m|asses]|
+|qu'|il|mapp%[m|ât]|
+|que|nous|mapp%[m|assions]|
+|que|vous|mapp%[m|assiez]|
+|qu'|ils|mapp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mapp%[m|é]|
+|que|tu|eusses|mapp%[m|é]|
+|qu'|il|eût|mapp%[m|é]|
+|que|nous|eussions|mapp%[m|é]|
+|que|vous|eussiez|mapp%[m|é]|
+|qu'|ils|eussent|mapp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mapp%[m|e]|
+|mapp%[m|ons]|
+|mapp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mapp%[m|é]|
+|ayons|mapp%[m|é]|
+|ayez|mapp%[m|é]|
+|]
+

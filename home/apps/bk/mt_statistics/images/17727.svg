@@ -1,0 +1,159 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="100%" height="100%" viewBox="-250 -275 600 450" id="svg2">
+  <title id="title4">Comparison of the Pythagorean means of a pair of numbers</title>
+  <desc id="desc6">Comparison of the arithmetic, geometric and harmonic means of a pair of numbers, by CMG Lee. The vertical dashed lines are asymptotes for the harmonic means.</desc>
+  <metadata id="metadata253"></metadata>
+  <defs id="defs8">
+    <path d="M -5,10 0,0 5,10" id="arrowhead"></path>
+    <path d="M 0,-300 V 200" id="grid_x"></path>
+    <path d="M -250,0 H 350" id="grid_y"></path>
+    <g id="grid" style="stroke:#cccccc">
+      <use transform="translate(-250,0)" id="use14" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(-200,0)" id="use16" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(-150,0)" id="use18" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(-100,0)" id="use20" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(-50,0)" id="use22" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(50,0)" id="use24" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(100,0)" id="use26" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(150,0)" id="use28" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(200,0)" id="use30" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(250,0)" id="use32" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(300,0)" id="use34" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(350,0)" id="use36" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+      <use transform="translate(0,-300)" id="use38" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,-250)" id="use40" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,-200)" id="use42" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,-150)" id="use44" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,-100)" id="use46" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,-50)" id="use48" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,50)" id="use50" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,100)" id="use52" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,150)" id="use54" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <use transform="translate(0,200)" id="use56" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+      <g id="g58" style="stroke:#666666">
+        <use id="use60" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+        <use id="use62" x="0" y="0" width="1" height="1" xlink:href="#grid_y"></use>
+        <use transform="matrix(0,1,-1,0,350,0)" id="use64" x="0" y="0" width="1" height="1" xlink:href="#arrowhead"></use>
+        <use transform="translate(0,-275)" id="use66" x="0" y="0" width="1" height="1" xlink:href="#arrowhead"></use>
+      </g>
+      <g id="g68" style="fill:#666666;stroke:none">
+        <g transform="translate(0,40)" id="g70">
+          <text x="-200" y="0" id="text72">-2</text>
+          <text x="-100" y="0" id="text74">-1</text>
+          <text x="0" y="0" id="text76">0</text>
+          <text x="100" y="0" id="text78">1</text>
+          <text x="200" y="0" id="text80">2</text>
+          <text x="300" y="0" id="text82">3</text>
+          <text x="350" y="0" id="text84" style="text-anchor:end">
+            <tspan id="tspan86">x</tspan>
+            <tspan id="tspan88" style="font-size:16px">1</tspan>
+          </text>
+        </g>
+        <g transform="translate(-15,15)" id="g90">
+          <text x="0" y="-270" id="text92">y</text>
+          <text x="0" y="-200" id="text94">2</text>
+          <text x="0" y="-100" id="text96">1</text>
+          <text x="0" y="100" id="text98">-1</text>
+        </g>
+      </g>
+    </g>
+    <g id="legend" style="fill:#000000;stroke:#000000;stroke-width:2">
+      <rect width="230" height="100" rx="10" ry="10" x="110" y="60" id="rect101" style="fill:#ffffff"></rect>
+      <path d="m 130,80 h 20" id="path103" style="stroke-dasharray:2, 2"></path>
+      <path d="m 130,110 h 20" id="path105" style="stroke-dasharray:8, 2, 2, 2"></path>
+      <path d="m 130,140 h 20" id="path107"></path>
+      <g id="g109" style="stroke:none">
+        <text x="240" y="90" id="text111">
+          <tspan id="tspan113">y = A(x</tspan>
+          <tspan id="tspan115" style="font-size:16px">1</tspan>
+          <tspan id="tspan117">, x</tspan>
+          <tspan id="tspan119" style="font-size:16px">2</tspan>
+          <tspan id="tspan121">)</tspan>
+        </text>
+        <text x="240" y="120" id="text123">
+          <tspan id="tspan125">y = G(x</tspan>
+          <tspan id="tspan127" style="font-size:16px">1</tspan>
+          <tspan id="tspan129">, x</tspan>
+          <tspan id="tspan131" style="font-size:16px">2</tspan>
+          <tspan id="tspan133">)</tspan>
+        </text>
+        <text x="240" y="150" id="text135">
+          <tspan id="tspan137">y = H(x</tspan>
+          <tspan id="tspan139" style="font-size:16px">1</tspan>
+          <tspan id="tspan141">, x</tspan>
+          <tspan id="tspan143" style="font-size:16px">2</tspan>
+          <tspan id="tspan145">)</tspan>
+        </text>
+      </g>
+    </g>
+  </defs>
+  <g id="g147" style="font-size:32px;letter-spacing:-1;text-anchor:middle;fill:none;font-family:sans-serif">
+    <use id="use149" x="0" y="0" width="1" height="1" xlink:href="#grid"></use>
+    <use id="use151" x="0" y="0" width="1" height="1" xlink:href="#legend"></use>
+    <circle cx="0" cy="0" r="10" id="circle153" style="stroke:#ff9900"></circle>
+    <circle cx="0" cy="0" r="10" id="circle155" style="stroke:#ff0000;stroke-dasharray:5, 5"></circle>
+    <g id="g157" style="stroke:#ff0000;stroke-width:2">
+      <path d="M 350,-275 -248,24" id="path159" style="stroke-dasharray:2, 2"></path>
+      <path d="M 350,-264.57513 248,-222.7 l -64,30.9 -44,24.5 -32,20.3 -24,17.4 -18,14.7 -14,12.9 -10,10.3 -8,9.2 -8,10.4 -6,8.9 -4,6.6 -4,7.6 -2,4.3 -2,4.7 -2,5.4 -2,6.3 L 2,-20 0,0" id="path161" style="stroke-dasharray:8, 2, 2, 2"></path>
+      <path d="m 350,-254.54545 -44,12.64545 -34,11.4 -30,11.5 -26,11.3 -22,10.7 -20,10.9 -18,10.8 -16,10.6 -14,10.1 -14,11 -12,10.3 -12,11.1 -12,12.1 -12,13.1 -10,12 -10,12.9 -10,14 -10,15.2 -10,16.7 -10,18.4 -10,20.2 -10,22.4 -10,25 -12,34 -12,39.5 -12,46.4 -14,65.5 -16,95.5 -18,148.2 -26,361.1 -62,38750" id="path163"></path>
+      <use transform="translate(-200,0)" id="use165" style="stroke-width:1;stroke-dasharray:20, 5" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+    </g>
+    <g id="g167" style="fill:#ff0000">
+      <circle cx="200" cy="-200" r="5" id="circle169"></circle>
+      <g transform="matrix(0.89442759,-0.4472128,0.4472128,0.89442759,240,-240)" id="g171">
+        <text x="0" y="15" id="text173">
+          <tspan id="tspan175">x</tspan>
+          <tspan id="tspan177" style="font-size:16px">2</tspan>
+          <tspan id="tspan179">= 2</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="g181" style="stroke:#ff9900;stroke-width:2">
+      <path d="M 350,-225 -248,74" id="path183" style="stroke-dasharray:2, 2"></path>
+      <path d="M 350,-187.08287 228,-151 l -70,25.3 -44,18.9 -30,15.1 -20,11.7 -14,9.3 -10,7.5 -8,6.6 -6,5.6 -6,6.3 -4,4.7 -4,5.4 -2,3 -2,3.3 -2,3.8 L 4,-20 2,-14.1 0,0" id="path185" style="stroke-dasharray:8, 2, 2, 2"></path>
+      <path d="m 350,-155.55556 -74,8.75556 -46,7.4 -34,7 -26,6.5 -20,5.9 -16,5.5 -14,5.4 -12,5.3 -10,4.8 -10,5.4 -8,4.7 -8,5.2 -8,5.7 -6,4.6 -6,5 -6,5.4 -6,5.9 -6,6.4 -4,4.5 -4,4.9 -4,5.2 -4,5.6 -4,5.9 -4,6.4 -4,6.9 -4,7.4 -4,8 -2,4.2 -4,9.1 -4,9.9 -4,10.8 -6,18.3 -6,21.4 -6,25.2 -6,30.3 -8,51.3 -8,69.9 -12,170.5 -30,9375" id="path187"></path>
+      <use transform="translate(-100,0)" id="use189" style="stroke-width:1;stroke-dasharray:20, 5" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+    </g>
+    <g id="g191" style="fill:#ff9900">
+      <circle cx="100" cy="-100" r="5" id="circle193"></circle>
+      <g transform="matrix(0.89442759,-0.4472128,0.4472128,0.89442759,240,-190)" id="g195">
+        <text x="0" y="15" id="text197">
+          <tspan id="tspan199">x</tspan>
+          <tspan id="tspan201" style="font-size:16px">2</tspan>
+          <tspan id="tspan203">= 1</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="g205" style="stroke:#009900;stroke-width:2">
+      <path d="M 350,-175 -248,124" id="path207" style="stroke-dasharray:2, 2"></path>
+      <path d="" id="path209" style="stroke-dasharray:8, 2, 2, 2"></path>
+      <path d="M 350,0 -248,0" id="path211"></path>
+    </g>
+    <g id="g213" style="fill:#009900">
+      <circle cx="0" cy="0" r="5" id="circle215"></circle>
+      <g transform="matrix(0.89442759,-0.4472128,0.4472128,0.89442759,240,-140)" id="g217">
+        <text x="0" y="15" id="text219">
+          <tspan id="tspan221">x</tspan>
+          <tspan id="tspan223" style="font-size:16px">2</tspan>
+          <tspan id="tspan225">= 0</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="g227" style="stroke:#0000ff;stroke-width:2">
+      <path d="M 350,-125 -248,174" id="path229" style="stroke-dasharray:2, 2"></path>
+      <path d="" id="path231" style="stroke-dasharray:8, 2, 2, 2"></path>
+      <path d="m 98,-9800 -22,9166.7 -12,277.7 -10,120.8 -8,64.4 -6,37.1 -6,30.3 -6,25.2 -6,21.4 -6,18.3 -4,10.8 -4,9.9 -4,9.1 -6,12.2 -2,3.8 -4,7.1 -4,6.6 -4,6.2 -4,5.7 -4,5.4 -4,5.1 -4,4.7 -4,4.4 -6,6.3 -6,5.7 -6,5.2 -6,4.9 -6,4.5 -6,4.2 -8,5.2 -8,4.7 -10,5.4 -10,4.8 -12,5.3 -14,5.4 -16,5.5 -20,5.9 -26,6.5 -36,7.4 -16,2.7" id="path233"></path>
+      <use transform="translate(100,0)" id="use235" style="stroke-width:1;stroke-dasharray:20, 5" x="0" y="0" width="1" height="1" xlink:href="#grid_x"></use>
+    </g>
+    <g id="g237" style="fill:#0000ff">
+      <circle cx="-100" cy="100" r="5" id="circle239"></circle>
+      <g transform="matrix(0.89442759,-0.4472128,0.4472128,0.89442759,240,-90)" id="g241">
+        <text x="0" y="15" id="text243">
+          <tspan id="tspan245">x</tspan>
+          <tspan id="tspan247" style="font-size:16px">2</tspan>
+          <tspan id="tspan249">= -1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

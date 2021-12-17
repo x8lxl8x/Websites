@@ -1,0 +1,190 @@
+# redevoir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|red%[m|evoir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|red%[m|û]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|red%[m|evant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||red%[m|û]|
+|ayant|red%[m|û]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en red%[m|evant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|red%[m|û]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|red%[m|ois]|
+|tu|red%[m|ois]|
+|il|red%[m|oit]|
+|nous|red%[m|evons]|
+|vous|red%[m|evez]|
+|ils|red%[m|oivent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|red%[m|û]|
+|tu|as |red%[m|û]|
+|il|a|red%[m|û]|
+|nous|avons|red%[m|û]|
+|vous|avez|red%[m|û]|
+|ils|ont|red%[m|û]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|red%[m|evais]|
+|tu|red%[m|evais]|
+|il|red%[m|evait]|
+|nous|red%[m|evions]|
+|vous|red%[m|eviez]|
+|ils|red%[m|evaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|red%[m|û]|
+|tu|avais|red%[m|û]|
+|il|avait|red%[m|û]|
+|nous|avions|red%[m|û]|
+|vous|aviez|red%[m|û]|
+|ils|avaient|red%[m|û]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|red%[m|us]|
+|tu|red%[m|us]|
+|il|red%[m|ut]|
+|nous|red%[m|ûmes]|
+|vous|red%[m|ûtes]|
+|ils|red%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|red%[m|û]|
+|tu|eus|red%[m|û]|
+|il|eut|red%[m|û]|
+|nous|e&ucirc;mes|red%[m|û]|
+|vous|e&ucirc;tes|red%[m|û]|
+|ils|eurent|red%[m|û]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|red%[m|evrai]|
+|tu|red%[m|evras]|
+|il|red%[m|evra]|
+|nous|red%[m|evrons]|
+|vous|red%[m|evrez]|
+|ils|red%[m|evront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|red%[m|û]|
+|tu|auras|red%[m|û]|
+|il|aura|red%[m|û]|
+|nous|aurons|red%[m|û]|
+|vous|aurez|red%[m|û]|
+|ils|auront|red%[m|û]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|red%[m|evrais]|
+|tu|red%[m|evrais]|
+|il|red%[m|evrait]|
+|nous|red%[m|evrions]|
+|vous|red%[m|evriez]|
+|ils|red%[m|evraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|red%[m|û]|
+|tu|aurais|red%[m|û]|
+|il|aurait|red%[m|û]|
+|nous|aurions|red%[m|û]|
+|vous|auriez|red%[m|û]|
+|ils|auraient|red%[m|û]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|red%[m|oive]|
+|que|tu|red%[m|oives]|
+|qu'|il|red%[m|oive]|
+|que|nous|red%[m|evions]|
+|que|vous|red%[m|eviez]|
+|qu'|ils|red%[m|oivent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|red%[m|û]|
+|que|tu|aies|red%[m|û]|
+|qu'|il|ait|red%[m|û]|
+|que|nous|ayons|red%[m|û]|
+|que|vous|ayez|red%[m|û]|
+|qu'|ils|aient|red%[m|û]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|red%[m|usse]|
+|que|tu|red%[m|usses]|
+|qu'|il|red%[m|ût]|
+|que|nous|red%[m|ussions]|
+|que|vous|red%[m|ussiez]|
+|qu'|ils|red%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|red%[m|û]|
+|que|tu|eusses|red%[m|û]|
+|qu'|il|eût|red%[m|û]|
+|que|nous|eussions|red%[m|û]|
+|que|vous|eussiez|red%[m|û]|
+|qu'|ils|eussent|red%[m|û]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|red%[m|ois]|
+|red%[m|evons]|
+|red%[m|evez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|red%[m|û]|
+|ayons|red%[m|û]|
+|ayez|red%[m|û]|
+|]
+

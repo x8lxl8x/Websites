@@ -1,0 +1,26 @@
+# Winning
+
+Winning hand - 14 tiles (excluding kans), four sets plus one pair.
+Winning hand must contain a yaku (key difference to Chinese)
+
+[-
+Yakuhai - Triplet of players own wind, wind of round, or dragon
+Tanyao - No 1 or 9 tiles, winds, or dragons in hand
+Pinfu - Hand is consists of only sequences. Pair is not the player’s own wind, wind of round, or dragon. Hand is closed. Winning tile wait is two sided for a sequence
+Iipeikou - Same sequence twice, hand is closed
+Chanta - hand has 1, 9, wind, or dragon in each meld and the pair
+Riichi - hand is fully concealed and player makes Riichi bet
+Menzen Tsumo - hand is closed and win is by self-draw
+Toitoi - hand is all triplets plus a pair
+Honitsu - hand uses only a single suit plus honour tiles
+-]
+
+A player can either win by the call ron or the call tsumo. Ron is the call when the winning tile is discarded by another player. This winning tile can be called regardless of which player discards it, and regardless of whether it forms a meld or completes the player’s pair. Tsumo is the call when the player draws the tile themselves out of the wall at the start of their turn.
+
+### Dora
+[!
+At the start of a hand, the upper tile from the third stack of back end of the dead wall is flipped and becomes a dora indicator. Then, its succeeding tile is recognized as dora. If an indicator is a Green dragon, Red dragons are counted as dora.
+Bonus tiles that add han value to a winning hand.
+Every kind of tile can become a dora tile.
+Dora is not counted as yaku, and having it without yaku does not meet the one yaku requirement for a winning hand.
+!]

@@ -1,0 +1,190 @@
+# remanger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|remang%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|remang%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|remang%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||remang%[m|é]|
+|ayant|remang%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en remang%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|remang%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|remang%[m|e]|
+|tu|remang%[m|es]|
+|il|remang%[m|e]|
+|nous|remang%[m|eons]|
+|vous|remang%[m|ez]|
+|ils|remang%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|remang%[m|é]|
+|tu|as |remang%[m|é]|
+|il|a|remang%[m|é]|
+|nous|avons|remang%[m|é]|
+|vous|avez|remang%[m|é]|
+|ils|ont|remang%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|remang%[m|eais]|
+|tu|remang%[m|eais]|
+|il|remang%[m|eait]|
+|nous|remang%[m|ions]|
+|vous|remang%[m|iez]|
+|ils|remang%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|remang%[m|é]|
+|tu|avais|remang%[m|é]|
+|il|avait|remang%[m|é]|
+|nous|avions|remang%[m|é]|
+|vous|aviez|remang%[m|é]|
+|ils|avaient|remang%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|remang%[m|eai]|
+|tu|remang%[m|eas]|
+|il|remang%[m|ea]|
+|nous|remang%[m|eâmes]|
+|vous|remang%[m|eâtes]|
+|ils|remang%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|remang%[m|é]|
+|tu|eus|remang%[m|é]|
+|il|eut|remang%[m|é]|
+|nous|e&ucirc;mes|remang%[m|é]|
+|vous|e&ucirc;tes|remang%[m|é]|
+|ils|eurent|remang%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|remang%[m|erai]|
+|tu|remang%[m|eras]|
+|il|remang%[m|era]|
+|nous|remang%[m|erons]|
+|vous|remang%[m|erez]|
+|ils|remang%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|remang%[m|é]|
+|tu|auras|remang%[m|é]|
+|il|aura|remang%[m|é]|
+|nous|aurons|remang%[m|é]|
+|vous|aurez|remang%[m|é]|
+|ils|auront|remang%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|remang%[m|erais]|
+|tu|remang%[m|erais]|
+|il|remang%[m|erait]|
+|nous|remang%[m|erions]|
+|vous|remang%[m|eriez]|
+|ils|remang%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|remang%[m|é]|
+|tu|aurais|remang%[m|é]|
+|il|aurait|remang%[m|é]|
+|nous|aurions|remang%[m|é]|
+|vous|auriez|remang%[m|é]|
+|ils|auraient|remang%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|remang%[m|e]|
+|que|tu|remang%[m|es]|
+|qu'|il|remang%[m|e]|
+|que|nous|remang%[m|ions]|
+|que|vous|remang%[m|iez]|
+|qu'|ils|remang%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|remang%[m|é]|
+|que|tu|aies|remang%[m|é]|
+|qu'|il|ait|remang%[m|é]|
+|que|nous|ayons|remang%[m|é]|
+|que|vous|ayez|remang%[m|é]|
+|qu'|ils|aient|remang%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|remang%[m|easse]|
+|que|tu|remang%[m|easses]|
+|qu'|il|remang%[m|eât]|
+|que|nous|remang%[m|eassions]|
+|que|vous|remang%[m|eassiez]|
+|qu'|ils|remang%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|remang%[m|é]|
+|que|tu|eusses|remang%[m|é]|
+|qu'|il|eût|remang%[m|é]|
+|que|nous|eussions|remang%[m|é]|
+|que|vous|eussiez|remang%[m|é]|
+|qu'|ils|eussent|remang%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|remang%[m|e]|
+|remang%[m|eons]|
+|remang%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|remang%[m|é]|
+|ayons|remang%[m|é]|
+|ayez|remang%[m|é]|
+|]
+

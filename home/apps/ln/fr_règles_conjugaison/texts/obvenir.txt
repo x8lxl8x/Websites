@@ -1,0 +1,190 @@
+# obvenir %[clVerbGroup|3]
+[-
+échoir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|obv%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|obv%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|obv%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||obv%[m|enu]|
+|étant|obv%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en obv%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|obv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|obv%[m|iens]|
+|tu|obv%[m|iens]|
+|il|obv%[m|ient]|
+|nous|obv%[m|enons]|
+|vous|obv%[m|enez]|
+|ils|obv%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|obv%[m|enu]|
+|tu|es|obv%[m|enu]|
+|il|est|obv%[m|enu]|
+|nous|sommes|obv%[m|enus]|
+|vous|êtes|obv%[m|enus]|
+|ils|sont|obv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|obv%[m|enais]|
+|tu|obv%[m|enais]|
+|il|obv%[m|enait]|
+|nous|obv%[m|enions]|
+|vous|obv%[m|eniez]|
+|ils|obv%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|obv%[m|enu]|
+|tu|étais|obv%[m|enu]|
+|il|était|obv%[m|enu]|
+|nous|étions|obv%[m|enus]|
+|vous|étiez|obv%[m|enus]|
+|ils|étaient|obv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|obv%[m|ins]|
+|tu|obv%[m|ins]|
+|il|obv%[m|int]|
+|nous|obv%[m|înmes]|
+|vous|obv%[m|întes]|
+|ils|obv%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|obv%[m|enu]|
+|tu|fus|obv%[m|enu]|
+|il|fut|obv%[m|enu]|
+|nous|fûmes|obv%[m|enus]|
+|vous|fûtes|obv%[m|enus]|
+|ils|furent|obv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|obv%[m|iendrai]|
+|tu|obv%[m|iendras]|
+|il|obv%[m|iendra]|
+|nous|obv%[m|iendrons]|
+|vous|obv%[m|iendrez]|
+|ils|obv%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|obv%[m|enu]|
+|tu|seras|obv%[m|enu]|
+|il|sera|obv%[m|enu]|
+|nous|serons|obv%[m|enus]|
+|vous|serez|obv%[m|enus]|
+|ils|seront|obv%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|obv%[m|iendrais]|
+|tu|obv%[m|iendrais]|
+|il|obv%[m|iendrait]|
+|nous|obv%[m|iendrions]|
+|vous|obv%[m|iendriez]|
+|ils|obv%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|obv%[m|enu]|
+|tu|serais|obv%[m|enu]|
+|il|serait|obv%[m|enu]|
+|nous|serions|obv%[m|enus]|
+|vous|seriez|obv%[m|enus]|
+|ils|seraient|obv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|obv%[m|ienne]|
+|que|tu|obv%[m|iennes]|
+|qu'|il|obv%[m|ienne]|
+|que|nous|obv%[m|enions]|
+|que|vous|obv%[m|eniez]|
+|qu'|ils|obv%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|obv%[m|enu]|
+|que|tu|sois|obv%[m|enu]|
+|qu'|il|soit|obv%[m|enu]|
+|que|nous|soyons|obv%[m|enus]|
+|que|vous|soyez|obv%[m|enus]|
+|qu'|ils|soient|obv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|obv%[m|insse]|
+|que|tu|obv%[m|insses]|
+|qu'|il|obv%[m|înt]|
+|que|nous|obv%[m|inssions]|
+|que|vous|obv%[m|inssiez]|
+|qu'|ils|obv%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|obv%[m|enu]|
+|que|tu|fusses|obv%[m|enu]|
+|qu'|il|fût|obv%[m|enu]|
+|que|nous|fussions|obv%[m|enus]|
+|que|vous|fussiez|obv%[m|enus]|
+|qu'|ils|fussent|obv%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|obv%[m|iens]|
+|obv%[m|enons]|
+|obv%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|obv%[m|enu]|
+|soyons|obv%[m|enus]|
+|soyez|obv%[m|enus]|
+|]
+

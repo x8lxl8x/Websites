@@ -1,0 +1,190 @@
+# tarter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tart%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tart%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tart%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tart%[m|é]|
+|ayant|tart%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tart%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tart%[m|e]|
+|tu|tart%[m|es]|
+|il|tart%[m|e]|
+|nous|tart%[m|ons]|
+|vous|tart%[m|ez]|
+|ils|tart%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tart%[m|é]|
+|tu|as |tart%[m|é]|
+|il|a|tart%[m|é]|
+|nous|avons|tart%[m|é]|
+|vous|avez|tart%[m|é]|
+|ils|ont|tart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tart%[m|ais]|
+|tu|tart%[m|ais]|
+|il|tart%[m|ait]|
+|nous|tart%[m|ions]|
+|vous|tart%[m|iez]|
+|ils|tart%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tart%[m|é]|
+|tu|avais|tart%[m|é]|
+|il|avait|tart%[m|é]|
+|nous|avions|tart%[m|é]|
+|vous|aviez|tart%[m|é]|
+|ils|avaient|tart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tart%[m|ai]|
+|tu|tart%[m|as]|
+|il|tart%[m|a]|
+|nous|tart%[m|âmes]|
+|vous|tart%[m|âtes]|
+|ils|tart%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tart%[m|é]|
+|tu|eus|tart%[m|é]|
+|il|eut|tart%[m|é]|
+|nous|e&ucirc;mes|tart%[m|é]|
+|vous|e&ucirc;tes|tart%[m|é]|
+|ils|eurent|tart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tart%[m|erai]|
+|tu|tart%[m|eras]|
+|il|tart%[m|era]|
+|nous|tart%[m|erons]|
+|vous|tart%[m|erez]|
+|ils|tart%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tart%[m|é]|
+|tu|auras|tart%[m|é]|
+|il|aura|tart%[m|é]|
+|nous|aurons|tart%[m|é]|
+|vous|aurez|tart%[m|é]|
+|ils|auront|tart%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tart%[m|erais]|
+|tu|tart%[m|erais]|
+|il|tart%[m|erait]|
+|nous|tart%[m|erions]|
+|vous|tart%[m|eriez]|
+|ils|tart%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tart%[m|é]|
+|tu|aurais|tart%[m|é]|
+|il|aurait|tart%[m|é]|
+|nous|aurions|tart%[m|é]|
+|vous|auriez|tart%[m|é]|
+|ils|auraient|tart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tart%[m|e]|
+|que|tu|tart%[m|es]|
+|qu'|il|tart%[m|e]|
+|que|nous|tart%[m|ions]|
+|que|vous|tart%[m|iez]|
+|qu'|ils|tart%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tart%[m|é]|
+|que|tu|aies|tart%[m|é]|
+|qu'|il|ait|tart%[m|é]|
+|que|nous|ayons|tart%[m|é]|
+|que|vous|ayez|tart%[m|é]|
+|qu'|ils|aient|tart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tart%[m|asse]|
+|que|tu|tart%[m|asses]|
+|qu'|il|tart%[m|ât]|
+|que|nous|tart%[m|assions]|
+|que|vous|tart%[m|assiez]|
+|qu'|ils|tart%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tart%[m|é]|
+|que|tu|eusses|tart%[m|é]|
+|qu'|il|eût|tart%[m|é]|
+|que|nous|eussions|tart%[m|é]|
+|que|vous|eussiez|tart%[m|é]|
+|qu'|ils|eussent|tart%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tart%[m|e]|
+|tart%[m|ons]|
+|tart%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tart%[m|é]|
+|ayons|tart%[m|é]|
+|ayez|tart%[m|é]|
+|]
+

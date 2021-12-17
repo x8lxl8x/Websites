@@ -1,0 +1,190 @@
+# coquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coqu%[m|é]|
+|ayant|coqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coqu%[m|e]|
+|tu|coqu%[m|es]|
+|il|coqu%[m|e]|
+|nous|coqu%[m|ons]|
+|vous|coqu%[m|ez]|
+|ils|coqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coqu%[m|é]|
+|tu|as |coqu%[m|é]|
+|il|a|coqu%[m|é]|
+|nous|avons|coqu%[m|é]|
+|vous|avez|coqu%[m|é]|
+|ils|ont|coqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coqu%[m|ais]|
+|tu|coqu%[m|ais]|
+|il|coqu%[m|ait]|
+|nous|coqu%[m|ions]|
+|vous|coqu%[m|iez]|
+|ils|coqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coqu%[m|é]|
+|tu|avais|coqu%[m|é]|
+|il|avait|coqu%[m|é]|
+|nous|avions|coqu%[m|é]|
+|vous|aviez|coqu%[m|é]|
+|ils|avaient|coqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coqu%[m|ai]|
+|tu|coqu%[m|as]|
+|il|coqu%[m|a]|
+|nous|coqu%[m|âmes]|
+|vous|coqu%[m|âtes]|
+|ils|coqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coqu%[m|é]|
+|tu|eus|coqu%[m|é]|
+|il|eut|coqu%[m|é]|
+|nous|e&ucirc;mes|coqu%[m|é]|
+|vous|e&ucirc;tes|coqu%[m|é]|
+|ils|eurent|coqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coqu%[m|erai]|
+|tu|coqu%[m|eras]|
+|il|coqu%[m|era]|
+|nous|coqu%[m|erons]|
+|vous|coqu%[m|erez]|
+|ils|coqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coqu%[m|é]|
+|tu|auras|coqu%[m|é]|
+|il|aura|coqu%[m|é]|
+|nous|aurons|coqu%[m|é]|
+|vous|aurez|coqu%[m|é]|
+|ils|auront|coqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coqu%[m|erais]|
+|tu|coqu%[m|erais]|
+|il|coqu%[m|erait]|
+|nous|coqu%[m|erions]|
+|vous|coqu%[m|eriez]|
+|ils|coqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coqu%[m|é]|
+|tu|aurais|coqu%[m|é]|
+|il|aurait|coqu%[m|é]|
+|nous|aurions|coqu%[m|é]|
+|vous|auriez|coqu%[m|é]|
+|ils|auraient|coqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coqu%[m|e]|
+|que|tu|coqu%[m|es]|
+|qu'|il|coqu%[m|e]|
+|que|nous|coqu%[m|ions]|
+|que|vous|coqu%[m|iez]|
+|qu'|ils|coqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coqu%[m|é]|
+|que|tu|aies|coqu%[m|é]|
+|qu'|il|ait|coqu%[m|é]|
+|que|nous|ayons|coqu%[m|é]|
+|que|vous|ayez|coqu%[m|é]|
+|qu'|ils|aient|coqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coqu%[m|asse]|
+|que|tu|coqu%[m|asses]|
+|qu'|il|coqu%[m|ât]|
+|que|nous|coqu%[m|assions]|
+|que|vous|coqu%[m|assiez]|
+|qu'|ils|coqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coqu%[m|é]|
+|que|tu|eusses|coqu%[m|é]|
+|qu'|il|eût|coqu%[m|é]|
+|que|nous|eussions|coqu%[m|é]|
+|que|vous|eussiez|coqu%[m|é]|
+|qu'|ils|eussent|coqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coqu%[m|e]|
+|coqu%[m|ons]|
+|coqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coqu%[m|é]|
+|ayons|coqu%[m|é]|
+|ayez|coqu%[m|é]|
+|]
+

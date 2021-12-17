@@ -1,0 +1,191 @@
+# danser %[clVerbGroup|1]
+[-
+mouvoir le corps suivant un rythme, une musique. 
+exécuter une danse particulière. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dans%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dans%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dans%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dans%[m|é]|
+|ayant|dans%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dans%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dans%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dans%[m|e]|
+|tu|dans%[m|es]|
+|il|dans%[m|e]|
+|nous|dans%[m|ons]|
+|vous|dans%[m|ez]|
+|ils|dans%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dans%[m|é]|
+|tu|as |dans%[m|é]|
+|il|a|dans%[m|é]|
+|nous|avons|dans%[m|é]|
+|vous|avez|dans%[m|é]|
+|ils|ont|dans%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dans%[m|ais]|
+|tu|dans%[m|ais]|
+|il|dans%[m|ait]|
+|nous|dans%[m|ions]|
+|vous|dans%[m|iez]|
+|ils|dans%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dans%[m|é]|
+|tu|avais|dans%[m|é]|
+|il|avait|dans%[m|é]|
+|nous|avions|dans%[m|é]|
+|vous|aviez|dans%[m|é]|
+|ils|avaient|dans%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dans%[m|ai]|
+|tu|dans%[m|as]|
+|il|dans%[m|a]|
+|nous|dans%[m|âmes]|
+|vous|dans%[m|âtes]|
+|ils|dans%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dans%[m|é]|
+|tu|eus|dans%[m|é]|
+|il|eut|dans%[m|é]|
+|nous|e&ucirc;mes|dans%[m|é]|
+|vous|e&ucirc;tes|dans%[m|é]|
+|ils|eurent|dans%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dans%[m|erai]|
+|tu|dans%[m|eras]|
+|il|dans%[m|era]|
+|nous|dans%[m|erons]|
+|vous|dans%[m|erez]|
+|ils|dans%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dans%[m|é]|
+|tu|auras|dans%[m|é]|
+|il|aura|dans%[m|é]|
+|nous|aurons|dans%[m|é]|
+|vous|aurez|dans%[m|é]|
+|ils|auront|dans%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dans%[m|erais]|
+|tu|dans%[m|erais]|
+|il|dans%[m|erait]|
+|nous|dans%[m|erions]|
+|vous|dans%[m|eriez]|
+|ils|dans%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dans%[m|é]|
+|tu|aurais|dans%[m|é]|
+|il|aurait|dans%[m|é]|
+|nous|aurions|dans%[m|é]|
+|vous|auriez|dans%[m|é]|
+|ils|auraient|dans%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dans%[m|e]|
+|que|tu|dans%[m|es]|
+|qu'|il|dans%[m|e]|
+|que|nous|dans%[m|ions]|
+|que|vous|dans%[m|iez]|
+|qu'|ils|dans%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dans%[m|é]|
+|que|tu|aies|dans%[m|é]|
+|qu'|il|ait|dans%[m|é]|
+|que|nous|ayons|dans%[m|é]|
+|que|vous|ayez|dans%[m|é]|
+|qu'|ils|aient|dans%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dans%[m|asse]|
+|que|tu|dans%[m|asses]|
+|qu'|il|dans%[m|ât]|
+|que|nous|dans%[m|assions]|
+|que|vous|dans%[m|assiez]|
+|qu'|ils|dans%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dans%[m|é]|
+|que|tu|eusses|dans%[m|é]|
+|qu'|il|eût|dans%[m|é]|
+|que|nous|eussions|dans%[m|é]|
+|que|vous|eussiez|dans%[m|é]|
+|qu'|ils|eussent|dans%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dans%[m|e]|
+|dans%[m|ons]|
+|dans%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dans%[m|é]|
+|ayons|dans%[m|é]|
+|ayez|dans%[m|é]|
+|]
+

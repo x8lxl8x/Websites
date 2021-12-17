@@ -1,0 +1,190 @@
+# se rassembler %[clVerbGroup|1]
+[-
+s'assembler en groupe, se réunir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rassembl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rassembl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rassembl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rassembl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rassembl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rassembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rassembl%[m|e]|
+|tu|te|rassembl%[m|es]|
+|il|se|rassembl%[m|e]|
+|nous|nous|rassembl%[m|ons]|
+|vous|vous|rassembl%[m|ez]|
+|ils|se|rassembl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rassembl%[m|é]|
+|tu|t'|es|rassembl%[m|é]|
+|il|s'|est|rassembl%[m|é]|
+|nous|nous|sommes|rassembl%[m|és]|
+|vous|vous|êtes|rassembl%[m|és]|
+|ils|se|sont|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rassembl%[m|ais]|
+|tu|te|rassembl%[m|ais]|
+|il|se|rassembl%[m|ait]|
+|nous|nous|rassembl%[m|ions]|
+|vous|vous|rassembl%[m|iez]|
+|ils|se|rassembl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rassembl%[m|é]|
+|tu|t'|étais|rassembl%[m|é]|
+|il|s'|était|rassembl%[m|é]|
+|nous|nous|étions|rassembl%[m|és]|
+|vous|vous|étiez|rassembl%[m|és]|
+|ils|s'|étaient|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rassembl%[m|ai]|
+|tu|te|rassembl%[m|as]|
+|il|se|rassembl%[m|a]|
+|nous|nous|rassembl%[m|âmes]|
+|vous|vous|rassembl%[m|âtes]|
+|ils|se|rassembl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rassembl%[m|é]|
+|tu|te|fus|rassembl%[m|é]|
+|il|se|fut|rassembl%[m|é]|
+|nous|nous|fûmes|rassembl%[m|és]|
+|vous|vous|fûtes|rassembl%[m|és]|
+|ils|se|furent|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rassembl%[m|erai]|
+|tu|te|rassembl%[m|eras]|
+|il|se|rassembl%[m|era]|
+|nous|nous|rassembl%[m|erons]|
+|vous|vous|rassembl%[m|erez]|
+|ils|se|rassembl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rassembl%[m|é]|
+|tu|te|seras|rassembl%[m|é]|
+|il|se|sera|rassembl%[m|é]|
+|nous|nous|serons|rassembl%[m|és]|
+|vous|vous|serez|rassembl%[m|és]|
+|ils|se|seront|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rassembl%[m|erais]|
+|tu|te|rassembl%[m|erais]|
+|il|se|rassembl%[m|erait]|
+|nous|nous|rassembl%[m|erions]|
+|vous|vous|rassembl%[m|eriez]|
+|ils|se|rassembl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rassembl%[m|é]|
+|tu|te|serais|rassembl%[m|é]|
+|il|se|serait|rassembl%[m|é]|
+|nous|nous|serions|rassembl%[m|és]|
+|vous|vous|seriez|rassembl%[m|és]|
+|ils|se|seraient|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rassembl%[m|e]|
+|que|tu|te|rassembl%[m|es]|
+|qu'|il|se|rassembl%[m|e]|
+|que|nous|nous|rassembl%[m|ions]|
+|que|vous|vous|rassembl%[m|iez]|
+|qu'|ils|se|rassembl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rassembl%[m|é]|
+|que|tu|te|sois|rassembl%[m|é]|
+|qu'|il|se|soit|rassembl%[m|é]|
+|que|nous|nous|soyons|rassembl%[m|és]|
+|que|vous|vous|soyez|rassembl%[m|és]|
+|qu'|ils|se|soient|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rassembl%[m|asse]|
+|que|tu|te|rassembl%[m|asses]|
+|qu'|il|se|rassembl%[m|ât]|
+|que|nous|nous|rassembl%[m|assions]|
+|que|vous|vous|rassembl%[m|assiez]|
+|qu'|ils|se|rassembl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rassembl%[m|é]|
+|que|tu|te|fusses|rassembl%[m|é]|
+|qu'|il|se|fût|rassembl%[m|é]|
+|que|nous|nous|fussions|rassembl%[m|és]|
+|que|vous|vous|fussiez|rassembl%[m|és]|
+|qu'|ils|se|fussent|rassembl%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rassembl%[m|e]-toi|
+|rassembl%[m|ons]-nous|
+|rassembl%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

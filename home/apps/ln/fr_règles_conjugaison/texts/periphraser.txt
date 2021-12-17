@@ -1,0 +1,190 @@
+# périphraser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|périphras%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|périphras%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|périphras%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||périphras%[m|é]|
+|ayant|périphras%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en périphras%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|périphras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|périphras%[m|e]|
+|tu|périphras%[m|es]|
+|il|périphras%[m|e]|
+|nous|périphras%[m|ons]|
+|vous|périphras%[m|ez]|
+|ils|périphras%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|périphras%[m|é]|
+|tu|as |périphras%[m|é]|
+|il|a|périphras%[m|é]|
+|nous|avons|périphras%[m|é]|
+|vous|avez|périphras%[m|é]|
+|ils|ont|périphras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|périphras%[m|ais]|
+|tu|périphras%[m|ais]|
+|il|périphras%[m|ait]|
+|nous|périphras%[m|ions]|
+|vous|périphras%[m|iez]|
+|ils|périphras%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|périphras%[m|é]|
+|tu|avais|périphras%[m|é]|
+|il|avait|périphras%[m|é]|
+|nous|avions|périphras%[m|é]|
+|vous|aviez|périphras%[m|é]|
+|ils|avaient|périphras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|périphras%[m|ai]|
+|tu|périphras%[m|as]|
+|il|périphras%[m|a]|
+|nous|périphras%[m|âmes]|
+|vous|périphras%[m|âtes]|
+|ils|périphras%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|périphras%[m|é]|
+|tu|eus|périphras%[m|é]|
+|il|eut|périphras%[m|é]|
+|nous|e&ucirc;mes|périphras%[m|é]|
+|vous|e&ucirc;tes|périphras%[m|é]|
+|ils|eurent|périphras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|périphras%[m|erai]|
+|tu|périphras%[m|eras]|
+|il|périphras%[m|era]|
+|nous|périphras%[m|erons]|
+|vous|périphras%[m|erez]|
+|ils|périphras%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|périphras%[m|é]|
+|tu|auras|périphras%[m|é]|
+|il|aura|périphras%[m|é]|
+|nous|aurons|périphras%[m|é]|
+|vous|aurez|périphras%[m|é]|
+|ils|auront|périphras%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|périphras%[m|erais]|
+|tu|périphras%[m|erais]|
+|il|périphras%[m|erait]|
+|nous|périphras%[m|erions]|
+|vous|périphras%[m|eriez]|
+|ils|périphras%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|périphras%[m|é]|
+|tu|aurais|périphras%[m|é]|
+|il|aurait|périphras%[m|é]|
+|nous|aurions|périphras%[m|é]|
+|vous|auriez|périphras%[m|é]|
+|ils|auraient|périphras%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|périphras%[m|e]|
+|que|tu|périphras%[m|es]|
+|qu'|il|périphras%[m|e]|
+|que|nous|périphras%[m|ions]|
+|que|vous|périphras%[m|iez]|
+|qu'|ils|périphras%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|périphras%[m|é]|
+|que|tu|aies|périphras%[m|é]|
+|qu'|il|ait|périphras%[m|é]|
+|que|nous|ayons|périphras%[m|é]|
+|que|vous|ayez|périphras%[m|é]|
+|qu'|ils|aient|périphras%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|périphras%[m|asse]|
+|que|tu|périphras%[m|asses]|
+|qu'|il|périphras%[m|ât]|
+|que|nous|périphras%[m|assions]|
+|que|vous|périphras%[m|assiez]|
+|qu'|ils|périphras%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|périphras%[m|é]|
+|que|tu|eusses|périphras%[m|é]|
+|qu'|il|eût|périphras%[m|é]|
+|que|nous|eussions|périphras%[m|é]|
+|que|vous|eussiez|périphras%[m|é]|
+|qu'|ils|eussent|périphras%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|périphras%[m|e]|
+|périphras%[m|ons]|
+|périphras%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|périphras%[m|é]|
+|ayons|périphras%[m|é]|
+|ayez|périphras%[m|é]|
+|]
+

@@ -1,0 +1,192 @@
+# prédire %[clVerbGroup|3]
+[-
+annoncer d'avance ce qui doit arriver ou se produire. 
+faire présumer, supposer, prévoir un événement à venir. 
+avoir les caractères d'une chose à venir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|préd%[m|ire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|préd%[m|it]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|préd%[m|isant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||préd%[m|it]|
+|ayant|préd%[m|it]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en préd%[m|isant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|préd%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|préd%[m|is]|
+|tu|préd%[m|is]|
+|il|préd%[m|it]|
+|nous|préd%[m|isons]|
+|vous|préd%[m|isez]|
+|ils|préd%[m|isent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|préd%[m|it]|
+|tu|as |préd%[m|it]|
+|il|a|préd%[m|it]|
+|nous|avons|préd%[m|it]|
+|vous|avez|préd%[m|it]|
+|ils|ont|préd%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|préd%[m|isais]|
+|tu|préd%[m|isais]|
+|il|préd%[m|isait]|
+|nous|préd%[m|isions]|
+|vous|préd%[m|isiez]|
+|ils|préd%[m|isaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|préd%[m|it]|
+|tu|avais|préd%[m|it]|
+|il|avait|préd%[m|it]|
+|nous|avions|préd%[m|it]|
+|vous|aviez|préd%[m|it]|
+|ils|avaient|préd%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|préd%[m|is]|
+|tu|préd%[m|is]|
+|il|préd%[m|it]|
+|nous|préd%[m|îmes]|
+|vous|préd%[m|îtes]|
+|ils|préd%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|préd%[m|it]|
+|tu|eus|préd%[m|it]|
+|il|eut|préd%[m|it]|
+|nous|e&ucirc;mes|préd%[m|it]|
+|vous|e&ucirc;tes|préd%[m|it]|
+|ils|eurent|préd%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|préd%[m|irai]|
+|tu|préd%[m|iras]|
+|il|préd%[m|ira]|
+|nous|préd%[m|irons]|
+|vous|préd%[m|irez]|
+|ils|préd%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|préd%[m|it]|
+|tu|auras|préd%[m|it]|
+|il|aura|préd%[m|it]|
+|nous|aurons|préd%[m|it]|
+|vous|aurez|préd%[m|it]|
+|ils|auront|préd%[m|it]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|préd%[m|irais]|
+|tu|préd%[m|irais]|
+|il|préd%[m|irait]|
+|nous|préd%[m|irions]|
+|vous|préd%[m|iriez]|
+|ils|préd%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|préd%[m|it]|
+|tu|aurais|préd%[m|it]|
+|il|aurait|préd%[m|it]|
+|nous|aurions|préd%[m|it]|
+|vous|auriez|préd%[m|it]|
+|ils|auraient|préd%[m|it]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|préd%[m|ise]|
+|que|tu|préd%[m|ises]|
+|qu'|il|préd%[m|ise]|
+|que|nous|préd%[m|isions]|
+|que|vous|préd%[m|isiez]|
+|qu'|ils|préd%[m|isent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|préd%[m|it]|
+|que|tu|aies|préd%[m|it]|
+|qu'|il|ait|préd%[m|it]|
+|que|nous|ayons|préd%[m|it]|
+|que|vous|ayez|préd%[m|it]|
+|qu'|ils|aient|préd%[m|it]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|préd%[m|isse]|
+|que|tu|préd%[m|isses]|
+|qu'|il|préd%[m|ît]|
+|que|nous|préd%[m|issions]|
+|que|vous|préd%[m|issiez]|
+|qu'|ils|préd%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|préd%[m|it]|
+|que|tu|eusses|préd%[m|it]|
+|qu'|il|eût|préd%[m|it]|
+|que|nous|eussions|préd%[m|it]|
+|que|vous|eussiez|préd%[m|it]|
+|qu'|ils|eussent|préd%[m|it]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|préd%[m|is]|
+|préd%[m|isons]|
+|préd%[m|isez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|préd%[m|it]|
+|ayons|préd%[m|it]|
+|ayez|préd%[m|it]|
+|]
+

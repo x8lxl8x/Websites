@@ -1,0 +1,191 @@
+# piloter %[clVerbGroup|1]
+[-
+conduire un navire ou un avion en qualité de pilote. 
+servir de guide à quelqu'un. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pilot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pilot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pilot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pilot%[m|é]|
+|ayant|pilot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pilot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pilot%[m|e]|
+|tu|pilot%[m|es]|
+|il|pilot%[m|e]|
+|nous|pilot%[m|ons]|
+|vous|pilot%[m|ez]|
+|ils|pilot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pilot%[m|é]|
+|tu|as |pilot%[m|é]|
+|il|a|pilot%[m|é]|
+|nous|avons|pilot%[m|é]|
+|vous|avez|pilot%[m|é]|
+|ils|ont|pilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pilot%[m|ais]|
+|tu|pilot%[m|ais]|
+|il|pilot%[m|ait]|
+|nous|pilot%[m|ions]|
+|vous|pilot%[m|iez]|
+|ils|pilot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pilot%[m|é]|
+|tu|avais|pilot%[m|é]|
+|il|avait|pilot%[m|é]|
+|nous|avions|pilot%[m|é]|
+|vous|aviez|pilot%[m|é]|
+|ils|avaient|pilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pilot%[m|ai]|
+|tu|pilot%[m|as]|
+|il|pilot%[m|a]|
+|nous|pilot%[m|âmes]|
+|vous|pilot%[m|âtes]|
+|ils|pilot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pilot%[m|é]|
+|tu|eus|pilot%[m|é]|
+|il|eut|pilot%[m|é]|
+|nous|e&ucirc;mes|pilot%[m|é]|
+|vous|e&ucirc;tes|pilot%[m|é]|
+|ils|eurent|pilot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pilot%[m|erai]|
+|tu|pilot%[m|eras]|
+|il|pilot%[m|era]|
+|nous|pilot%[m|erons]|
+|vous|pilot%[m|erez]|
+|ils|pilot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pilot%[m|é]|
+|tu|auras|pilot%[m|é]|
+|il|aura|pilot%[m|é]|
+|nous|aurons|pilot%[m|é]|
+|vous|aurez|pilot%[m|é]|
+|ils|auront|pilot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pilot%[m|erais]|
+|tu|pilot%[m|erais]|
+|il|pilot%[m|erait]|
+|nous|pilot%[m|erions]|
+|vous|pilot%[m|eriez]|
+|ils|pilot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pilot%[m|é]|
+|tu|aurais|pilot%[m|é]|
+|il|aurait|pilot%[m|é]|
+|nous|aurions|pilot%[m|é]|
+|vous|auriez|pilot%[m|é]|
+|ils|auraient|pilot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pilot%[m|e]|
+|que|tu|pilot%[m|es]|
+|qu'|il|pilot%[m|e]|
+|que|nous|pilot%[m|ions]|
+|que|vous|pilot%[m|iez]|
+|qu'|ils|pilot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pilot%[m|é]|
+|que|tu|aies|pilot%[m|é]|
+|qu'|il|ait|pilot%[m|é]|
+|que|nous|ayons|pilot%[m|é]|
+|que|vous|ayez|pilot%[m|é]|
+|qu'|ils|aient|pilot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pilot%[m|asse]|
+|que|tu|pilot%[m|asses]|
+|qu'|il|pilot%[m|ât]|
+|que|nous|pilot%[m|assions]|
+|que|vous|pilot%[m|assiez]|
+|qu'|ils|pilot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pilot%[m|é]|
+|que|tu|eusses|pilot%[m|é]|
+|qu'|il|eût|pilot%[m|é]|
+|que|nous|eussions|pilot%[m|é]|
+|que|vous|eussiez|pilot%[m|é]|
+|qu'|ils|eussent|pilot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pilot%[m|e]|
+|pilot%[m|ons]|
+|pilot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pilot%[m|é]|
+|ayons|pilot%[m|é]|
+|ayez|pilot%[m|é]|
+|]
+

@@ -1,0 +1,804 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Finance</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_8'>        8. Introduction to Risk and Return</a><br>
+<br>
+<a href='#section_76'>       8.1. Understanding Return</a><br>
+<a href='#concept_340'>      8.1.1. Expected Return</a><br>
+<a href='#concept_341'>      8.1.2. Variance</a><br>
+<br>
+<a href='#section_77'>       8.2. Portfolio Considerations</a><br>
+<a href='#concept_342'>      8.2.1. Portfolio Diversification and Weighting</a><br>
+<a href='#concept_343'>      8.2.2. Implications for Expected Returns</a><br>
+<a href='#concept_344'>      8.2.3. Implications for Variance</a><br>
+<br>
+<a href='#section_78'>       8.3. The Impact of News of Expected Returns</a><br>
+<a href='#concept_345'>      8.3.1. Surprises and Returns</a><br>
+<a href='#concept_346'>      8.3.2. Announcements, News, and Returns</a><br>
+<br>
+<a href='#section_79'>       8.4. Risk</a><br>
+<a href='#concept_347'>      8.4.1. Types of Risk</a><br>
+<a href='#concept_348'>      8.4.2. Measuring Risk</a><br>
+<br>
+<a href='#section_80'>       8.5. Implications Across Portfolios</a><br>
+<a href='#concept_349'>      8.5.1. Calculating Expected Portfolio Returns</a><br>
+<a href='#concept_350'>      8.5.2. Portfolio Risk</a><br>
+<a href='#concept_351'>      8.5.3. Beta Coefficient for Portfolios</a><br>
+<br>
+<a href='#section_81'>       8.6. Diversification</a><br>
+<a href='#concept_352'>      8.6.1. Impact of Diversification on Risk and Return: Unsystematic Risk</a><br>
+<a href='#concept_353'>      8.6.2. Impact of Diversification on Risk and Return: Systematic Risk</a><br>
+<br>
+<a href='#section_82'>       8.7. Understanding the Security Market Line</a><br>
+<a href='#concept_354'>      8.7.1. Expected Risk and Risk Premium</a><br>
+<a href='#concept_355'>      8.7.2. Defining the Security Market Line</a><br>
+<a href='#concept_356'>      8.7.3. Impact of the SML on the Cost of Capital</a><br>
+</div>
+
+<h1 id='chapter_8'>8. Introduction to Risk and Return</h1>
+
+<h2 id='section_76'>8.1. Understanding Return</h2>
+
+<h3 id='concept_340'>8.1.1. Expected Return</h3>
+
+<blockquote>In probability theory, the expected value of a random variable is the weighted average of all possible values.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the expected return of an investment portfolio</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In order to make investment decisions, investors often estimate the expected return of a potential investment.</li>
+<li>Expected value is a concept that the helps investors assess the value of a potential investment based on different future outcomes and a probability for each outcome.</li>
+<li>Once you have categories for different scenario's, along with probabilities and returns in each scenario, you then calculate your expected return by multiplying each probability by it's respective outcome and adding these all together.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>expected value</dt>
+<dd>The expected value of a random variable is the weighted average of all possible values that this random variable can take on.</dd>
+<dt>expected return</dt>
+<dd>The expected return of a potential investment can be computed by computing the product of the probability of a given event and the return in that case and adding together the products in each discrete scenario.</dd>
+</dl>
+
+<p>Imagine that your friend offered you a chance to play his game of dice. You have to pay \$1 to play and he keeps your money if you roll anything other than a 6. Would you play it? If you answered "it depends", you are ready to learn about expected value.</p>
+
+
+
+<a href='../images/0801.png'><img class='clImageThumb' src='../images/0801.png' alt='Care to roll the dice?'></a>
+
+<div><b><i>Care to roll the dice?</i></b></div>
+<p><i>Is a bet that doesn't always pay out, but pays out big when it does a good bet? Is playing the lottery a good bet? Would it be a good bet if tickets were only \$0.10 instead of \$1.00?</i></p>
+
+<p>If your friend told you he would pay you \$1 every time you roll a 6, you would be <em>crazy to play</em>. If your friend told you he would pay you \$10 every time you roll a 6, you would be <em>crazy not to play</em>.</p>
+<p>Expected value is calculated by multiplying the probability that something will happen by the resulting outcome if it happens. In the two cases described above, there are 5 ways to lose and only 1 to win. But in scenario 1, you can expect to lose \$0.67 or 67% every time you bet, and in scenario two, you can expect to win \$0.83 or 83% with each bet. This is a confusing topic in statistics and finance because on any given roll, there are only two outcomes -- win or lose -- and neither outcome involves \$0.67 or \$0.83 increments.</p>
+<p>But to understand expected value, you have to imagine playing a particular game hundreds of times. If you were to sit at your friend's apartment and play the dice game 100 times, imagine what your bottom line would be. Even though you lose most of the time you roll in the 2nd scenario, when you win, you win big. After 100 games, you could expect to be up (\$0.83 per roll) x (100 rolls) = \$83. If you were foolish enough to play the game in the first scenario 100 times you would expect to be down \$67 to your friend.</p>
+<p>In finance, evaluating your expected return is important, but never as simple as evaluating a game of dice. Imagine that you are going to buy a house a year from today and you have \$20,000 saved for that investment. Because you are smart enough to be using a free online text book, you are probably savvy enough to know that you can invest the money for a year and get some return on it. You are considering investing that money into stock of a Ski/Snowboard Mountain in Colorado, so you go talk to your snowboarding friend who lives on your floor of the dorm. He tells you that any given winter could be hella gnarly, totally chillax or wicked bogus, depending on how much it snows. You start doing some research, and you realize that how the stock has performed has everything to do with how much it snows. You create three different categories based on snowfall and label them hella gnarly (HG), totally chillax (TC) and wicked bogus (WB). In recent HG winters, those with over 20 feet of annual snowfall, the stock has averaged a 25% annual return. In recent TC winters, those with between 10 feet and 20 feet of snowdrop throughout the season, the stock has averaged 10%. In WB winters, those with less than 10 feet of total snowdrop, the stock has averaged -20%. Ok, so now what? Should you buy the stock?</p>
+<p>If you said "it depends," that's a good answer. Being as smart as you are, you investigate recent weather patterns and you decide that there is a 25% chance of an HG year, a 60% chance of a TC year and only a 15% chance of a WB winter. You understand that past performance is never a guarantee of future results, but still you are happy with your research and you project an expected rate of return for your \$20,000. How will it do?</p>
+<p>Based on your research, you realize that the stock has an expected return that is calculated thus:</p>
+<p>E[R]= (Probability<sub>HG</sub>)x(Return<sub>HG</sub>)+(Probability<sub>TC</sub>)x(Return<sub>TC</sub>)+(Probability<sub>WB</sub>)x(Return<sub>WB</sub>) = (0.25)(25%) + (0.60)(10%)+(0.15)(-20%) = 6.25% + 6% + -3% = 9.25%</p>
+<p>If you were to invest the stock in the ski mountain, year after year, and your research proves accurate, you could expect to receive an average of 9.25% return each year. That is your expected return.</p>
+
+<h3 id='concept_341'>8.1.2. Variance</h3>
+
+<blockquote>Variance is a statistical concept describing the range around expected return within which an investment return can be reasonably expected to fall.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the importance of a stock's variance and standard deviation</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Any investment should be made taking time considerations and risk tolerance into account. If there is a specific deadline for when the investment needs to be matured (i.e. to generate retirement income, pay for a down payment on a house, college tuition) then caution is required.</li>
+<li>Three different asset classes -- stocks, bonds, money markets -- range from aggressive, to moderate, to conservative. An investment that is aggressive typically features a higher expected return, but also a higher variance.</li>
+<li>Variance is calculated by calculating an expected return and summing a weighted average of the squared deviations from the mean return.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>standard deviation</dt>
+<dd>The standard deviation of an investment is obtained by taking the square root of the variance. It has a more straightforward meaning than variance. It tells you that in a given year, you can expect an investment's return to be one standard deviation above or below the average rate of return.</dd>
+<dt>variance</dt>
+<dd>In finance, variance is a term used to measure the degree of risk in an investment. It is calculated by finding the average of the squared deviations from the mean rate of return.</dd>
+</dl>
+
+<h3>Introducing Variance</h3>
+
+<p>In probability theory and statistics, the variance is a measure of how far a set of numbers is spread out. It is one of several descriptors of a probability distribution, describing how far the numbers lie from the mean (expected value).</p>
+<p>Understanding the concept of variance along with three typical asset classes -- money market, bonds, stocks -- can help you build a portfolio for any investor. Money market investments are very safe, they almost never go in the red, but they also don't pay high returns. Stocks are on the opposite end of the spectrum, going back and forth between red and black from year to year frequently, but over longer periods of time they usually pay higher premiums. Bonds are somewhere in the middle. They are safer than a stock, but riskier than a money market and their average returns reflect that.</p>
+<p>This table shows how to calculate the variance of an investment outcome .</p>
+
+
+
+<a href='../images/0802.png'><img class='clImageThumb' src='../images/0802.png' alt='How much do investors want to pay to have to take the good with the bad?'></a>
+
+<div><b><i>How much do investors want to pay to have to take the good with the bad?</i></b></div>
+<p><i>Calculating variance is a 3 step process once expected return has been calculated. Calculate deviations from mean (blue), square the deviations (yellow), multiply the squared deviation by its original probability (orange). Get brownie points by taking the square root of that number and interpret its meaning in the form of a sentence.</i></p>
+
+<p>You may not need to calculate variance yourself, but you should still notice how we got it. In the figure, we started with three scenarios and a probability (P) and return (R) associated with each. We did some math and ended up using the two blue columns to get the yellow one. Then we multiplied the two yellow columns to get the orange one. We get the variance from adding up the numbers in the orange column. Of the three numbers, we add (62, 0.34, and 128). Two are very big and one is very small. The small number comes from the TC scenario where the stock returns 10%, which is very close to our expectation of 9.25%. The bigger numbers come from winters that are extreme -- when the stock performs way above 9.25% (HG) or way below it (WB). The standard deviation can be read as a percentage. It means that, even though we can expect an average of 9.25% return on our stock over the course of 50 years, if we take any given year out and look at its performance, it is likely be somewhere within 13.81% above or below that figure.</p>
+
+<h3>Variance in Relation to Expected Return</h3>
+
+<p>In the discussion of expected return, we concluded that, based on your research, you can expect the Ski/Snowboard Resort in Colorado to have an expected return of 9.25% based on three distinct weather outcomes. However, if you invest your \$20,000 in that company and expect to have \$21,850 after a year, you must remember that this isn't a dice game that you can play over and over again. There will only be one result in this case and at the end of it, you have to make a down payment on a house. Is this a good investment idea?</p>
+<p>What if your bid for a house won't be accepted unless you can put at least \$20,000 down? There is an 85% chance that the winter is either hella gnarly (HG) or totally chillax (TC), and in either of those cases you will still have over \$20,000 to make a down payment. There is also a 15% chance that the year ends up being wicked bogus (WB), and if that is the case you will lose 20% or \$4,000 of your initial investment. Now you have \$16,000 and all of a sudden you are thinking tree fort. Let's compare that investment to a CD at a bank that pays 3.25% no matter how much snow falls this winter. You can have an investment that is federally insured to pay you \$20,650 one year from today and you can be assured to have enough to make a down payment on your house.</p>
+<p>If you can let that \$20,000 investment sit for 10 years before you need it, there is a much better chance that you will end up in the black (experiencing a profit) than in the red (experiencing a loss). A 30 year old with a 401K can be much more aggressive in his portfolio than a 65 year old who will be retiring in one year can. Every portfolio should be modeled with time-frame and risk tolerance considerations. It would be just as foolish for the 65 year old to be investing in aggressive stocks as it would for the 30 year old to buy conservative CD's in his retirement account.</p>
+<h2 id='section_77'>8.2. Portfolio Considerations</h2>
+
+<h3 id='concept_342'>8.2.1. Portfolio Diversification and Weighting</h3>
+
+<blockquote>Weighting is the percent allocation a particular investment type receives within a portfolio.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe how weighting a portfolio is important for diversification</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Diversification is the idea of spreading a portfolio across different classes of investments with a target weight attached to each class.</li>
+<li>Modern portfolio theory is the idea that for any investment objective, there is an optimal mix of investments that can maximize expected return subject to a specific risk threshold.</li>
+<li>Systemic risk is the risk that applies to a particular market or industry. It cannot be diversified away. Specific risk is the risk that applies to one particular investment within a market and it can be diversified away.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>systemic risk</dt>
+<dd>Refers to the risk common to all securities which cannot be diversified away.</dd>
+</dl>
+
+<p>In finance, there are two types of risk – systemic risk and specific risk. Systemic risk is essentially the risk that the markets will experience in a downturn and all investments within that market will be negatively affected. It is difficult to reduce with diversification. Specific risk is the risk associated with one individual security. It can be diversified away. Let's go back to our Ski/Snowboard example.</p>
+<p>Let's say that you pick one resort to invest in, and cross your fingers hoping for a huge snowdrop this winter. It turns out that the winter sets records for snowdrop across the state of Colorado and as an industry, the resorts turn record profits. Unfortunately, your snowboard friend didn't tell you that the resort you picked still hasn't upgraded to the high-speed chairlifts, and they also don't plow their roads very often. It turns out that while all the other mountains were turning huge profits, your investment actually lost 10%. The risk associated with the one mountain is called "specific risk. " The risk of bad weather, in this example, is systemic risk. If you had taken your money and divided it up across all of the ski resorts in Colorado, you would be up 15%, but because you happened to pick the one bad egg, you lost money.</p>
+<p>This example explains why investors are often choosing mutual funds and exchange traded funds (ETFs) over individual stocks and bonds. Mutual funds and ETF's invest in underlying pools of investments specific to a particular investment objective. These objectives can range from specific to one particular industry to something that achieves a balanced portfolio of blended assets.</p>
+<p>The idea of eliminating risk by spreading investments across pools of underlying stocks and bonds is called "diversification. " A diversified portfolio spreads investments across all asset classes with a weighting system that takes time frame and risk tolerance into account. The "weight" is the proportion of that portfolio assigned to one category. In our example. we talked about diversifying away the risks of slow chair lifts but in reality, there are many more aspects to diversification. Look at the pie chart below. How many pairs of antonyms can you find?</p>
+
+
+
+<a href='../images/0803.png'><img class='clImageThumb' src='../images/0803.png' alt='Diversified Portfolio'></a>
+
+<div><b><i>Diversified Portfolio</i></b></div>
+<p><i>Asset classes and their weightings for a particular portfolio</i></p>
+
+<h3 id='concept_343'>8.2.2. Implications for Expected Returns</h3>
+
+<blockquote>The expected return of a diversified portfolio is the expected return of each of its underlying investments times the weight the investment receives.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the expected returns of an investment portfolio</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Asset allocation is a theory of designing a portfolio that achieves a weighting scheme with a target mix of different asset classes that is suitable to the time frame and risk tolerance of the investor.</li>
+<li>The principals that support the theory of asset allocation are the cyclical nature of investments within a particular class of assets and weaker or even negative correlations that often exist across asset classes.</li>
+<li>When you re-balance your portfolio after it has deviated from the original target mix, you are selling classes that have relatively appreciated in order to buy those which have relatively depreciated.</li>
+<li>If you believe that markets go in cycles, you should believe in selling assets that have relatively appreciated and buying those which have relatively depreciated.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Strategic Asset Allocation</dt>
+<dd>The primary goal of a strategic asset allocation is to create an asset mix that will provide the optimal balance between expected risk and return for a long-term investment horizon.</dd>
+</dl>
+
+<p>Asset allocation is the theory that any portfolio should have a set of target weights for different asset classes based on time frame and risk tolerance. There are two key principals at work in this theory. The first is that everything goes in cycles and the second is that often when one things is ebbing, the other is flowing. Let's make this very simple and say that bonds return 4% in a bad year, 6% in an average year, and 8% in a good year, and stocks return -5% in a bad year, 10% in an average year, and 15% in a good year.</p>
+<p>Stock have cycles and when stocks do well, bonds are more likely to do poorly and vice versa. Let's say we have a portfolio of \$100,000 that has a target mix of 60% stocks and 40% fixed income and, therefore, has \$60,000 in stocks and \$40,000 bonds. Stocks have a good year and bonds have a bad one, and now we have \$69,000 invested in stocks and \$41,600 in bonds. At this point, we have a total portfolio of \$110,600 and an asset mix of roughly 62% stocks and 38% bonds. We began with a target mix of 60-40 but since the equity market fared better than fixed-income market, we are a little off-balance. So how do we fix that? We could sit and wait and watch what happens, or we could shift \$2,640 from our equity position to a fixed-income position. Remember, things go in cycles, so we expect that if stocks do well relatively to bonds that sometime in the future, bonds will do well relative to stocks. By shifting \$2,640 from our equity position to our fixed-income position, we are essentially selling stocks after they have appreciated (at a high) and buying bonds after they have failed to appreciate (at a low). Look at how the different asset mixes fare, based on a 10-year period that is consistent with historical averages.</p>
+
+
+
+<a href='../images/0804.png'><img class='clImageThumb' src='../images/0804.png' alt='Average Returns for Different Weighting Schemes'></a>
+
+<div><b><i>Average Returns for Different Weighting Schemes</i></b></div>
+<p><i>Different returns are expected for different asset allocations given historical averages</i></p>
+
+<p>
+<em>Assuming rebalancing, the </em>
+expected return
+<em> of a diversified portfolio is simply the expected return of each of its underlying investments times the allocation weight the investment receives.</em>
+</p>
+<p>The theory can feature different strategies, including strategic asset allocation, tactical asset allocation, and others, but the ideas are the same as the implications for return. A portfolio should consist of a variety of classes of assets to take advantage of zero and negative correlations between those classes, and it should be designed to achieve a target mix of assets that are rebalanced when one grows in relation to another.</p>
+
+<h3 id='concept_344'>8.2.3. Implications for Variance</h3>
+
+<blockquote>A diversified portfolio containing investments with small or negative correlation coefficients will have a lower variance than a single asset portfolio.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe how a portfolio is diversified to minimize variance</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Portfolio managers often target a mix of assets across different categories that maximize potential return and limit specific risk.</li>
+<li>Portfolio managers choose from many more classes of assets than the two that have been used primarily for this chapter.</li>
+<li>With historical data, powerful software and a proficient financial analyst, a correlation matrix can be produced that helps portfolio managers make investment decisions that will limit the portfolio's overall risk and exposure to market downturns.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Correlation Matrix</dt>
+<dd>A matrix that shows a set of correlations between two random variables over a number of observations.</dd>
+</dl>
+
+<p>A primary reason for a diversified asset allocation is the fact that markets often sway away from each other, and it can be beneficial to have a portion of your holdings invested in bonds in years when stocks do badly. As you can see from the graphic below, there is still considerable risk to an investor who is heavily invested in stocks, even with a blended portfolio.</p>
+<p>Remember that in 2000, the Nasdaq lost 39.28% of its value (4,069.31 to 2,470.52) and in 2001, the Nasdaq lost 21.05% of its value (2,470.52 to 1,950.40). Had your portfolio consisted of a set of stocks that approximated the Nasdaq index, you would have lost roughly 52% of your portfolio's value (from 4069.31 to 1950.40).</p>
+<p>In actuality, as mentioned before, there are more than two basic asset classes. Here are some examples of the the types of assets that may be included in a diversified strategy:</p>
+<ul>
+<li>cash and cash equivalents (e.g., deposit account , money market fund )</li>
+<li>fixed interest securities, such as bonds : investment-grade or junk (high yield); government or corporate; short-term, intermediate, long-term; domestic, foreign, or emerging markets ; or convertible security</li>
+<li>stocks : value, dividend, growth, sector specific, or preferred (or a "blend" of any two or more of the preceding); large-cap versus mid-cap, small-cap or micro-cap; public equities versus private equities , domestic, foreign (developed), emerging or frontier markets</li>
+<li>commodities : precious metals, broad basket, agriculture, energy, etc.</li>
+<li>commercial or residential real estate (also REITs )</li>
+<li>collectibles, such as art, coins, or stamps</li>
+<li>insurance products (an annuity , a life settlement , a catastrophe bond , personal life insurance products, etc.)</li>
+<li>derivatives , such as long-short or market neutral strategies, options , collateralized debt, and futures</li>
+<li>foreign currency</li>
+<li>venture capital, leveraged buyout, merger arbitrage, or distressed security funds</li>
+</ul>
+<p>A fundamental justification for asset allocation (or Modern Portfolio Theory) is the notion that different asset classes offer returns that are not perfectly correlated, hence diversification reduces the overall risk in terms of the variability of returns for a given level of expected return. Asset diversification has been described as "the only free lunch you will find in the investment game". Academic research has painstakingly explained the importance of asset allocation and the problems of active management (see academic studies section below). Although risk is reduced as long as correlations are not perfect, it is typically forecast (wholly or in part) based on statistical relationships (like correlation and variance) that existed over some past period. Expectations for return are often derived in the same way.</p>
+<p>A diversified portfolio containing investments with small or negative correlation coefficients will have a lower variance than a similar portfolio of one asset type. This is why it's possible to reduce variance without compromising expected return by diversifying.</p>
+
+
+
+<a href='../images/0805.png'><img class='clImageThumb' src='../images/0805.png' alt='Illustration of Modern Portfolio Theory'></a>
+
+<div><b><i>Illustration of Modern Portfolio Theory</i></b></div>
+<p><i>Diversifying asset classes can reduce portfolio variance without diminishing expected return</i></p>
+<h2 id='section_78'>8.3. The Impact of News of Expected Returns</h2>
+
+<h3 id='concept_345'>8.3.1. Surprises and Returns</h3>
+
+<blockquote>Surprise announcements can trigger a chain of events that affect the stock price of a particular company by changing investor expectations.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe how a surprise announcement can influence a stock's price</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Surprise announcements that come from a company, its competition, or a supplier or customer can affect the long run value of a stocks and bonds related to that company.</li>
+<li>These announcements will often concern earnings, stages in a product development cycle (FDA approval of a drug) or corporate structure changes (the acquisition of a competitor) and can move a company's outlook positively or negatively.</li>
+<li>When the news is generally seen as positive, a company's equity and debt become more valuable on the secondary market, and its stock price will rise and the effective yield on its debt instruments will fall.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>mergers and acquisitions</dt>
+<dd>Mergers and acquisitions (M&amp;A) is an aspect of corporate strategy, corporate finance, and management dealing with the buying, selling, dividing, and combining of different companies and similar entities that can help an enterprise grow rapidly in its sector or location of origin, or a new field or new location, without creating a subsidiary, other child entity, or using a joint venture.</dd>
+</dl>
+
+<p>Surprise announcements can trigger a chain of events that affect the stock price of a particular company, competitors and other companies that might be suppliers to or customers of the primary company.</p>
+<p>Announcements of Mergers and acquisitions (M&amp;A) are a frequent type of surprise announcements. Mergers and acquisition is a category of announcement that deals with corporate structure. When the announcement is publicly made, analysts use that information to factor into the company's long run market outlook. A merger or an acquisition could signal to an analyst that one particular company is financially weak, and it could downgrade its long run outlook for that company. Alternatively, an M&amp;A announcement could also signal to analysts that a company has a chance to increase its market share and henceforth its profits. These announcements typically make the biggest splash in a top-heavy industry, such as automobiles, pharmaceuticals, or healthcare, with a few strong players dominating a market that is researching, developing, and innovating new products.</p>
+<p>Other announcements that can have a variety of impacts on asset valuation can come in the form of a major court decision, news of development of new research, and innovation, FDA approval of a new drug or a new cheap source of raw materials. Any of this news has the potential to impact a particular company and, in some cases, competition, suppliers, and customers of that company. In many cases, there will be signals that analysts pick up on ahead of time. Investors who are actively making investment decisions based on a particular company or within a particular industry need to be aware of how a surprise announcement might affect their investment.</p>
+<p>Fixed-income market participants also make forecasts on the long-run health of a company to project the likelihood an issuer of debt might default. A company's instruments are subject to move in the event of an aforementioned announcement or if a private rating agency (Standard and Poors or Moody's) changes its outlook on their debt. If a news announcement is seen as positive for a company, its fixed-income instruments might seem more creditworthy, its bonds will rise in price, and its yield will decline. The inverse is also true.</p>
+<p>Take a look at the creditworthiness ratings of different countries by Standard and Poors.</p>
+
+
+
+<a href='../images/0806.png'><img class='clImageThumb' src='../images/0806.png' alt='World countries Standard &amp; Poor's ratings'></a>
+
+<div><b><i>World countries Standard &amp; Poor's ratings</i></b></div>
+<p><i>An example of the credit ratings prescribed by Standard &amp; Poor's as a result of their respective long-term liability analysis for debt issued at the national government level. Countries issue debt to build national infrastructure. Look how expensive it is to raise capital for such projects based on geographic region.</i></p>
+
+<h3 id='concept_346'>8.3.2. Announcements, News, and Returns</h3>
+
+<blockquote>The Value of a Company.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe how analysts use announcements, news, and returns to evaluate stock</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A company that is publicly traded must announce its earnings reports quarterly. When the report matches analysts' expectations, the stock's price will not be greatly affected. When it announces a report that is unexpected, it can affect the stock price of a competitor or supplier as well.</li>
+<li>Beta is a metric used to signal the risk in a particular stock. Stocks with high beta values fluctuate more on a day-to-day basis than those with lower beta values.</li>
+<li>Analysts constantly assess the health of public companies to assess the value of its equity and debt instruments, and their outlook affects stock and bond prices in secondary markets.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>beta</dt>
+<dd>In finance, the Beta (β) of a stock or portfolio is a number describing the correlated volatility of an asset in relation to the volatility of the benchmark that said asset is being compared to.</dd>
+</dl>
+
+<p>The words stock and equity are used interchangeably, because a stock is reflective of a piece of ownership in a company. In general, investors buy stocks for two reasons: because they expect the company to grow its product and market share over time (growth) or because they feel that the company is undervalued based on its current stock price. Analysts may research a stock from a fundamental or a technical lens.</p>
+<p>Fundamental analysis involves analyzing a company's financial statements and health, its management and competitive advantages, and its competitors and markets . Technical analysts study the patterns and price fluctuations and attempt to forecast the direction of prices through the study of past market data, primarily price, and volume. A stock's price is essentially determined by the buying and selling decisions of fundamental and technical analysts, who often manage large sums of money and have access to broad pools of data. Some stocks tend to fluctuate more than others on a day-to-day basis, and the metric called Beta describe's the variance of a stocks day to day price. Stocks that tend to experience larger swings have higher beta values and expose owners to more specific risk.</p>
+<p>In order for a company to be publicly traded on an exchange, it must comply with the regulations of that exchange board (NYSE or NASDAQ). Public investors are entitled to complete, accurate, and timely financial information about their investments. Companies generally announce updated financial figures on a quarterly basis. These figures include their current revenues, expenses and profits, and investors use this information to assess the company's financial health. For most established companies, these reports are consistent and predictable and barely affect a stock's price. Macy's may announce higher profits in quarter 4 than quarter 3, but its price might not move, because analysts expected that Christmas would bring additional sales based on past data.</p>
+<p>When a company announces its earnings as higher or lower than expected, the stock may experience a sudden shift in value. A higher than expected profit may come from increased revenues or decreased expenses. If a growing company announces higher than expected profits because of decreased expenses, it signals to investors that the company has found a cheaper way to produce its good. That could in turn affect the expected returns of a competitor's stock, either positively or negatively, depending on how analysts forecast the effect. The announcement of higher than expected sales from Ford could affect its stock price significantly, and it could set into motion a chain of events. If analysts believe that the trend is based on a shift away from public transportation, it could raise the price of GM, Toyota, and maybe even Chevron. If Nvidia, a company who produces micro-processors for smart phones, announces higher than expected profits on reduced production costs, it might not only cause their stock to spike, but it could lead to a decrease in the price of the stock of their primary competition, Intel.</p>
+<p>In general, fluctuations in one stock will often lead to fluctuations in another stock. There are times when the markets are relatively stable and those when it is relatively volatile. Consider the image below. The correlation of 0.769 suggests that the volatility of the stock market in one month is very highly correlated to that in the previous month.</p>
+
+
+
+<a href='../images/0807.png'><img class='clImageThumb' src='../images/0807.png' alt='Volatility begets volatility'></a>
+
+<div><b><i>Volatility begets volatility</i></b></div>
+<p><i>Data shown is from the period of Jan. 1990-Sep. 2009. Volatility is measured as the standard deviation of S&amp;P 500 one-day returns over a month's period.</i></p>
+<h2 id='section_79'>8.4. Risk</h2>
+
+<h3 id='concept_347'>8.4.1. Types of Risk</h3>
+
+<blockquote>There are many types of financial risk, including asset-backed, prepayment, interest rate, credit, liquidity, market, operational, foreign, and model risk.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Classify different securities by the types of financial risk associated with the investment opportunity</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Financial risk is associated to the chances that an investor might lose value in an investment. It is separated into different sources of decline.</li>
+<li>Often the risks interact with each other and ultimately shock causes panic. Many of the worst market crashes have been a result of widespread speculation and not the devaluation of that asset itself.</li>
+<li>In the market crash of 2008, investors feared that some home owners would default. It triggered a chain of events that shocked the whole world and left many people in bad financial situations.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Variable Rate Mortgage</dt>
+<dd>A variable-rate mortgage, adjustable-rate mortgage (ARM), or tracker mortgage is a mortgage loan with the interest rate on the note periodically adjusted based on an index which reflects the cost to the lender of borrowing on the credit markets.</dd>
+</dl>
+
+<p>The term "financial risk" is broad, but can be broken different categories to understand it better.</p>
+
+<h3>Types of Financial Risk</h3>
+
+<p>Asset-backed risk affects investments in asset-backed securities such as home loans. In order to finance home sales, banks issue bonds that serve as a debt obligation to its buyer. The buyer of the debt is essentially receiving the interest from the bank that the home-buyer is paying to it.</p>
+<p>Prepayment risk is the risk that the buyer goes ahead and pays off the mortgage. Therefore, the buyer of the bond loses the right to the buyer's interest payments over time.</p>
+<p>Interest rate risk refers an asset whose terms can change over time, such as a Variable Rate Mortgage payment.</p>
+<p>Credit risk or default risk, is the risk that a borrower will default (or stop making payments).</p>
+<p>Liquidity risk is the risk that an asset or security cannot be converted into cash in a timely manner. Some investments (i.e. stocks) can be sold immediately at the current market rate and others (i.e. houses) are subject to a much higher degree of liquidity risk.</p>
+<p>Market risk is the term associated with the risk of losing value in an investment will lose value because of a decline in the market.</p>
+<p>Operational risk is another type of risk that deals with the operations of a particular business. If you are invested in the Boston Red Sox, your operational risk might include the chance that starting pitchers and recent acquisitions won't perform, that your manager will turn the clubhouse into a mess, or that ownership will not be able to execute a long term strategy. Any of these risks might result in decreased revenues from ticket sales.</p>
+<p>Foreign investment risk involves the risk associated with investments in foreign markets.</p>
+<p>Model risk involves the chances that past models, which have been used to diversify away risk, will not accurately predict future models.</p>
+
+<h3>Example</h3>
+
+<p>A recent phenomenon that applies the concepts of these risks and how they interact with each other happened in 2008 when the housing market crashed. Can you find an example of each form of risk here?</p>
+<p>Leading up to the crisis, many people received loans to buy houses which they really couldn't afford. The mortgages often featured variable rate annuities, meaning that the interest rate terms of the mortgage started low and increased over time. Over the past 20 year period, house prices had risen constantly and investors assumed the trend would continue. Buyers worried about an adjustment to their interest rate, and all of a sudden a 1500 monthly payment became 2000. When interest rates climbed 2 percentage points and the mortgage climbed to \$2000, some owners had to default (stop making payments) . They were promised that their investment would appreciate in value and they would be able to refinance it. The home loans were packaged and shipped off to investors all over the world in the form of complex investment vehicles. They seemed rewarding and highly safe at first, but then a few started breaking down. By now, these vehicles had made their way all the way around the world. When some investors defaulted, the world realized there were no mechanics around to fix these vehicles. After a few vehicles broke down, no one wanted to buy them, leading to the worst crash across world markets since 1929.</p>
+
+<h3 id='concept_348'>8.4.2. Measuring Risk</h3>
+
+<blockquote>The higher the risk undertaken, the more ample the expected return and the lower the risk, the more modest the expected return.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the risk of a portfolio using computational methods</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The general progression in the risk-return spectrum is: short-term debt, long-term debt, property, high-yield debt, and equity.</li>
+<li>When a firm makes a capital budgeting decision, they will wish, as a bare minimum, to recover enough to pay the increased cost of goods due to inflation.</li>
+<li>Risk aversion is a concept based on the behavior of firms and investors while exposed to uncertainty to attempt to reduce that uncertainty.</li>
+<li>Beta is a measure firms can use in order to determine an investment's return sensitivity in relation to overall market risk.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>systematic risk</dt>
+<dd>The risk associated with an asset that is correlated with the risk of asset markets generally, often measured as its beta.</dd>
+<dt>inflation</dt>
+<dd>An increase in the general level of prices or in the cost of living.</dd>
+</dl>
+
+<h3>Risk and Return Considerations</h3>
+
+<p>Risk refers to the variability of possible returns associated with a given investment. Risk, along with the return, is a major consideration in capital budgeting decisions. The firm must compare the expected return from a given investment with the risk associated with it. Higher levels of return are required to compensate for increased levels of risk. In other words, the higher the risk undertaken, the more ample the return - and conversely, the lower the risk, the more modest the return.</p>
+<p>This risk and return tradeoff is also known as the risk-return spectrum. There are various classes of possible investments, each with their own positions on the overall risk-return spectrum. The general progression is: short-term debt, long-term debt, property, high-yield debt, and equity. The existence of risk causes the need to incur a number of expenses. For example, the more risky the investment the more time and effort is usually required to obtain information about it and monitor its progress. Moreover, the importance of a loss of X amount of value can be greater than the importance of a gain of X amount of value, so a riskier investment will attract a higher risk premium even if the forecast return is the same as upon a less risky investment. Risk is therefore something that must be compensated for, and the more risk the more compensation is required.</p>
+<p>When a firm makes a capital budgeting decision, they will wish, as a bare minimum, to recover enough to pay the increased cost of investment due to inflation. Thus, inflation is a pivotal input in a firm's cost of capital. However, since interest rates are set by the market, it happens frequently that they are insufficient to compensate for inflation.</p>
+
+
+
+<a href='../images/0808.png'><img class='clImageThumb' src='../images/0808.png' alt='Inflation'></a>
+
+<div><b><i>Inflation</i></b></div>
+<p><i>Inflation is a rise in the general level of prices of goods and services in an economy over a period of time.</i></p>
+
+<p>Risk aversion also plays an important role in determining a firm's required return on an investment. Risk aversion is a concept based on the behavior of firms and investors while exposed to uncertainty to attempt to reduce that uncertainty. Risk aversion is the reluctance to accept a bargain with an uncertain payoff rather than another bargain with a more certain, but possibly lower, expected payoff. For example, a risk-averse investor might choose to put his or her money into a bank account with a low but guaranteed interest rate, rather than into a stock that may have high expected returns, but also involves a chance of losing value. Risk aversion can be thought of as having three levels:</p>
+
+<ol>
+<li>Risk-averse or risk-avoiding</li>
+<li>Risk-neutral</li>
+<li>Risk-loving or risk-seeking</li>
+</ol>
+<p>Beta is a measure firms can use in order to determine an investment's return sensitivity in relation to overall market risk. Beta describes the correlated volatility of an asset in relation to the volatility of the benchmark that said asset is being compared to. This benchmark is generally the overall financial market and is often estimated via the use of representative indices, such as the S&amp;P 500. Beta is also referred to as financial elasticity or correlated relative volatility, and can be referred to as a measure of the sensitivity of the asset's returns to market returns, its non-diversifiable risk, its systematic risk, or market risk. Higher-beta investments tend to be more volatile and therefore riskier, but provide the potential for higher returns. Lower-beta investments pose less risk, but generally offer lower returns.</p>
+<h2 id='section_80'>8.5. Implications Across Portfolios</h2>
+
+<h3 id='concept_349'>8.5.1. Calculating Expected Portfolio Returns</h3>
+
+<blockquote>A portfolio's expected return is the sum of the weighted average of each asset's expected return.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate a portfolio's expected return</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To calculate the expected return of a portfolio, you need to know the expected return and weight of each asset in a portfolio.</li>
+<li>The figure is found by multiplying each asset's weight with its expected return, and then adding up all those figures at the end.</li>
+<li>These estimates are based on the assumption that what we have seen in the past is what we can expect in the future, and ignores a structural view on the market.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>weighted average</dt>
+<dd>In statistics, a weighted average is an average that takes each object and calculates the product of its weight and its figure and sums all of these products to produce one average. It is implied that all the individual weights add to 1.</dd>
+</dl>
+
+<p>Let's say that we have a portfolio that consists of three assets, and we'll call them Apples, Bananas, and Cherries. We decided to invest in all three, because the previous chapters on diversification had a profound impact on our investment strategy, and we now understand that diversifiable risk doesn't pay a risk premium, so we try to eliminate it.</p>
+
+
+
+<a href='../images/0809.png'><img class='clImageThumb' src='../images/0809.png' alt='A Fruitful Portfolio'></a>
+
+<div><b><i>A Fruitful Portfolio</i></b></div>
+<p><i>How would you calculate the expected return on this portfolio?</i></p>
+
+<p>The return of our fruit portfolio could be modeled as a sum of the weighted average of each fruit's expected return. In math, that means:</p>
+
+<div class='clFormula'>$E(R_{FMP}) = W_{A}(A*E(R_{A}))+W_{B}(B*E(R_{B}))+W_{C}(C*E(R_{C}))$</div>
+
+<p>Where A stands for apple, B is banana, C is cherry and FMP is farmer's market portfolio. W is weight and E(R<sub>X</sub>) is the expected return of X. A good exercise would be to calculate this figure on your own, then look below to see if you completed it accurately.</p>
+<p>Here's what you should get:</p>
+
+<div class='clFormula'>$E(R_{FMP})=1.1$</div>
+
+<p>In reality, a portfolio is not a fruit basket, and neither is the formula. A math-heavy formula for calculating the expected return on a portfolio, Q, of n assets would be:</p>
+
+<div class='clFormula'>$E(R_{Q}) =\sum_{ i=1 }^{ n }{ { w }_{ i }\bullet { R }_{ i } }$</div>
+
+<p>What does this equal?</p>
+
+<div class='clFormula'>$\sum _{ i=1 }^{ n }{ { w }_{ i } }$</div>
+
+<p>Remember that we are making the assumption that we can accurately measure these outcomes based on what we have seen in the past. If you were playing roulette at a casino, you may not know if red or black (or green) is coming on the next spin, but you could reasonably expect that if you bet on black 4000 times in a row, you're likely to get paid on about 1900 of those spins. If you go to Wikipedia, you can review a wide variety of challenges to this model that have very valid points. Remember, the market is random: it is not a roulette wheel, but that might be the best thing we have to compare it to.</p>
+
+<h3 id='concept_350'>8.5.2. Portfolio Risk</h3>
+
+<blockquote>The risk in a portfolio is measured as the amount of variance that investors can expect based on historical data.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate a portfolio's variance</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Portfolios that are efficient investments are those that effectively diversify the underlying risk away and price their investment efficiently.</li>
+<li>Portfolio risk takes into account the risk and weight of each individual position and also the co-variances across different positions.</li>
+<li>To calculate the risk of a portfolio, you need each asset's variance along with a matrix of cross-asset correlations.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>portfolio</dt>
+<dd>The group of investments and other assets held by an investor.</dd>
+<dt>Co-Variance</dt>
+<dd>In probability theory and statistics, co-variance is a measure of how much two random variables change together.</dd>
+<dt>risk</dt>
+<dd>The potential (conventionally negative) impact of an event, determined by combining the likelihood of the event occurring with the impact, should it occur.</dd>
+</dl>
+
+<h3>Portfolio Risk</h3>
+
+<p>An investor can reduce portfolio risk by holding combinations of instruments which are not perfectly positively correlated (correlation coefficient). In other words, investors can reduce their exposure to individual asset risk by holding a diversified portfolio of assets. Diversification may allow for the same portfolio expected return with reduced risk.</p>
+<p>Three assets (apples, bananas, and cherries) can be thought of as a bowl of fruit. The index is a a fruit basket. A full fruit basket probably has 10 or 15 different fruits, but my bowl will be efficient as much as its statistical parameters (risk and return) mimic those of the whole basket. In this unit, we are talking about calculating the risk of a portfolio. In addition, we can extend the implications made by the security market line theory from individual assets to portfolios. How does my bowl of fruit compare to the whole basket and how does that compare to other bowls out there?</p>
+
+<h3>Calculating Portfolio Risk</h3>
+
+<p>To calculate the risk in my bowl, we need a little more background information on fruit markets. First, we are going to need the variance for each fruit. Remember that the standard deviation answers the question of how far do I expect one individual outcome to deviate from the overall mean. And variance is that number squared. Mathematically, the formula is:</p>
+
+<div class='clFormula'>$V(R)={ [R-E(R)] }^{ 2 }$</div>
+
+<p>It is the expected value of the difference between the individual return in a given day (R) and the average outcome average return over a year (E(R)).</p>
+<p>In order to calculate the variance of a portfolio of three assets, we need to know that figure for apples, bananas, and cherries, and we also need to know the co-variance of each. Co-variances can be thought of as correlations. If every time bananas have a bad day, so do apples, their co-variance will be large. If bananas do great half of the time when cherries do bad and bananas do terrible the other half, their co-variance is zero. If there is zero correlation among all three fruits, we have cut our risk in thirds by owning all three, but if they are perfectly correlated, we haven't diversified away any of our risk.</p>
+<p>In reality, they are probably positively correlated, since they are all fruits, but not at all perfectly. Apples and bananas grow in different climates so their performance may be a result of weather patterns in either region. Apples may be a substitute for cherries when cherries are expensive. The overall risk of the portfolio would take into account three individual variances and three co-variances (apples-bananas, apples-cherries, and bananas-cherries) and it would reduce the overall portfolio to the degree that they are uncorrelated.</p>
+<p>The formula to compute the co-variance between returns on X and Y:</p>
+
+<div class='clFormula'>$Cov(X|Y)=E[(X-E(X))(Y-E(Y)]$</div>
+
+<p>This means what do I expect to see, <em>in a given time </em>period<em>,</em> when I multiply how much X returned off its average performance from how much Y returned off its average. But notice how it could be positive or negative. And if X tends to be up when Y is down, that would make them two good hedges. And it can be shown that:</p>
+<p>From co-variance, we get correlation coefficients:</p>
+
+<div class='clFormula'>$\Large{{ \rho }_{ AB }=\frac { Cov(X|Y) }{ { \sigma }_{ A }^{ 2 }\cdot { \sigma }_{ B }^{ 2 } }}$</div>
+
+<p>In finance and statistics, the greek letter rho squared represents variance.</p>
+<p>So now that we have figures to help us measure the risk and reward of our individual fruit bowl, we can go look at historical figures to determine the expected returns and the risk of the index that comprises the entire fruit basket industry. If our portfolio of investments has diversified away as much risk as is possible given the costs of diversifying, our portfolio will be attractive to investors. If our bowl does not diversify away enough risk, it will not lie on the Security Market Line for those who we are trying to recruit into buying our portfolio.</p>
+<p>The same principles that were applied to individual investments in the Understanding the SML section can be applied to the market for portfolio investments. If an institutional investor, such as a city pension fund, looked at two portfolios with identical returns and different risks, they would choose the portfolio that minimized its risk. Thus the only portfolios that are efficient investments are those that effectively diversify the underlying risk away and price their investment efficiently .</p>
+
+<div class='clFormula'>$\Large{\sigma_p^2 = \sum\limits_{i} w_i^2\sigma_i^2 + \sum\limits_{i} \sum\limits_{j \neq i}  {w_i}{w_j}{\sigma_i}{\sigma_j}{\rho_{ij}}}$</div>
+
+<div><b><i>Variance of any portfolio</i></b></div>
+<p><i>The formula shows that the overall variance in a portfolio is the sum of each individual variance along with the cross-asset correlations.</i></p>
+
+<h3 id='concept_351'>8.5.3. Beta Coefficient for Portfolios</h3>
+
+<blockquote>A portfolio's Beta is the volatility correlated to an underlying index.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate a portfolio's beta</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In individual stocks, a beta coefficient compares how much a particular stock fluctuates in value on a day-to-day basis.</li>
+<li>A beta coefficient for a portfolio of assets measures how that portfolio value changes compared to a benchmark, like the S&amp;P 500. A value of 1 suggests that it fluctuates as much as the index and in the same direction.</li>
+<li>A beta coefficient of less than 1 suggests a portfolio that fluctuates less than the benchmark. A negative beta is an indication that a portfolio moves in the opposite direction of its benchmark.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Normalized variable</dt>
+<dd>In statistics, a normalized variable is one that is calculated using a ratio of itself and some benchmark figure. Normalized figures tend to be smaller than the original values.</dd>
+</dl>
+
+<p>In this section, we will discuss the idea of calculating a Beta coefficient to help investors measure the risk-reward trade-off for a blended pool of investments.</p>
+<p>In this case, it is important to remember that a portfolio may represent the seller side of the market and the buyer can be thought of an institutional investor or a mutual fund. A portfolio's Beta is the volatility correlated to an underlying index. If we think of the S&amp;P 500 as the index, a portfolio that fluctuates identically to the market has a Beta of 1. What would the following portfolios have for Beta values?</p>
+
+
+
+<a href='../images/0810.png'><img class='clImageThumb' src='../images/0810.png' alt='Calculating Beta'></a>
+
+<div><b><i>Calculating Beta</i></b></div>
+<p><i>Two hypothetical portfolios; what do you think each Beta value is?</i></p>
+
+<p>Do you have an answer? Beta is a normalized variable, which means that it is a ratio of two variances, so you have to compare the volatility of returns to the benchmark volatility. Portfolio A has a direct relationship with the S&amp;P 500 – it is scaled by three times each day. When the market is up 2%, it is up 6%. Thus, the portfolio would have a Beta value of 3. Portfolio B is a different situation; it is also directly proportional, but in the negative direction. Every time the market is up 1%, the portfolio is down half a percent. The Beta for this portfolio, when compared with the S&amp;P 500 benchmark, would be -0.5. A Beta of zero in this situation doesn't necessarily mean a risk free asset, it simply means that it is not correlated with the benchmark.</p>
+<p>In reality, the numbers would rarely work out this cleanly, but this is a good model to demonstrate some key concepts. A pension fund that seeks to maximize its reward and limit its risk might be interested in each of these portfolios. If you invested equal amounts in each portfolio, it would leave you over-exposed to the market because it would have a Beta of 1.5. But let's say you have \$300,000 to invest; you could put that in a fund that is indexed to the S&amp;P 500 and is perfectly correlated with it.</p>
+<p>Every time the S&amp;P gains 1%, your fund nets you 100,000 in fund A and S Misplaced &amp;3,000 and your position in fund B pays you 2,000, which is less damage than you would have suffered on your position in the S&amp;P index fund. On days when the S 3,000 and your fund A position loses 2,000 and your upside is limited by the same amount, your downside is reduced.</p>
+<p>A pension fund is a good example of an institutional client that could extend the principles of diversification to a pool of blended portfolios. A city with an aging workforce needs to be protected from downside risk. It is the same principle as an employee approaching retirement; it can afford to have a heavier position in the S&amp;P 500 if it has a position in portfolio B.</p>
+<h2 id='section_81'>8.6. Diversification</h2>
+
+<h3 id='concept_352'>8.6.1. Impact of Diversification on Risk and Return: Unsystematic Risk</h3>
+
+<blockquote>In general, diversification can reduce risk without negatively impacting expected return.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe unsystemic risk</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Diversification is not putting all your eggs in one basket.</li>
+<li>Diversification relies on the lack of a tight positive relationship among the assets' returns, and works even when correlations are near zero or somewhat positive.</li>
+<li>The debate over active vs passive management is one that takes on the limits to diversification.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>Unsystematic risk</dt>
+<dd>Unsystematic or diversifiable risk is a term given to the portion of risk in a portfolio that can be diversified away by holding a pool of individual assets.</dd>
+</dl>
+
+<p>Did your grandmother ever warn you not to put all your eggs in one basket? Did you know what she was talking about? The implication is obvious. If you put all your eggs in one basket, and that basket breaks, you are stuck with nothing to fry up into an omelet.</p>
+<p>Grandma wasn't telling you to grow up and be an omelet chef, she was actually giving you some sage advice that applies to your future as a portfolio manager. We have talked about diversification previously, and this section will follow from that. Remember, we talked about every particular investment having an expected return and a variance. If you are managing a pool of assets, you want to get positive returns without being in danger of "losing your shirt. " The probability that one stock goes belly up is much higher than that the whole stock market does. In finance, systematic risk is the term associated with risk that can be diversified away by investing in a broader pool of assets.</p>
+<p>Diversification relies on the lack of a tight positive relationship among the assets' returns, and works even when correlations are near zero or somewhat positive. On the flip-side, hedging is the tactic that relies on negative correlations among assets. Diversification comes with a cost associated with it, and some might point out that it is possible to over-diversify. The idea is that you can only diversify away so much risk, that the marginal returns on each new asset are decreasing, and each transaction has a cost in terms of a transaction fee and also research costs. At some point, it just isn't worth it anymore. The risk that can be diversified away is called "unsystematic risk" or "diversifiable risk. "</p>
+<p>Some investors like to call themselves fans of active or passive management. In fact, two of the biggest mutual fund managers–Fidelity and Vanguard–take opposite stances on this issue and use it as a selling point to customers. Proponents of passive management say the market knows best, and they seek a portfolio that has an underlying pool that mimics a benchmark index (think S&amp;P 500). The other guys–active managers–believe that their fundamental analysis yields them a competitive advantage. They might decide Microsoft's stock is underpriced based on changing demographics to the labor supply in Seattle, or they might decide that political stability has improved emerging markets in Sub-Saharan Africa but the yield on their bonds hasn't taken that into account. This debate is all held on the margins. Research has shown that there is a clear advantage in any portfolio to hold at least 30 different positions.</p>
+
+
+
+<a href='../images/0811.png'><img class='clImageThumb' src='../images/0811.png' alt='An empirical example relating diversification to risk reduction'></a>
+
+<div><b><i>An empirical example relating diversification to risk reduction</i></b></div>
+<p><i>In 1977 Elton and Gruber worked out an empirical example of the gains from diversification. Their approach was to consider a population of 3,290 securities available for possible inclusion in a portfolio, and to consider the average risk over all possible randomly chosen n-asset portfolios with equal amounts held in each included asset, for various values of n. Their results are summarized in the following table. It can be seen that most of the gains from diversification come for n≤30.</i></p>
+
+<h3 id='concept_353'>8.6.2. Impact of Diversification on Risk and Return: Systematic Risk</h3>
+
+<blockquote>Systematic risk is intrinsic to the market, and thusly diversification has no effect on its presence in investments.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe how systemic risk influences the stock market</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Diversification is a technique for reducing risk that relies on the lack of a tight positive relationship among the returns of various types of assets.</li>
+<li>The role of diversification is to narrow the range of possible outcomes.</li>
+<li>Unsystematic risk does not factor into an investment's risk premium, since this type of risk can be diversified away.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>systematic risk</dt>
+<dd>systematic or non-diversifiable risk is a term given to the portion of risk in a portfolio that cannot be diversified away by holding a pool of individual assets and therefore commands a return in excess of the risk-free-rate.</dd>
+</dl>
+
+<p>Recall that previously we talked about the security market line and the implication that investors require more compensation for extra risk. One might pay the same amount for a safe investment as for an investment carrying more risk; however, the riskier investment will, in theory, provide a higher return. This is the principle behind the security market line . Diversification is a technique for reducing risk that relies on the lack of a tight positive relationship among the returns of various types of assets. By diversifying a portfolio of assets, an investor loses the chance to experience a return associated with having invested solely in a single asset with the highest return. On the other hand, the investor also avoids experiencing a return associated with having invested solely in the asset with the lowest return -- sometimes even becoming a negative return. Thus, the role of diversification is to narrow the range of possible outcomes.</p>
+
+
+
+<a href='../images/0812.png'><img class='clImageThumb' src='../images/0812.png' alt='The Security Market Line'></a>
+
+<div><b><i>The Security Market Line</i></b></div>
+<p><i>Diversification theory says that the only risk that earns a risk premium is that which can't be diversified away.</i></p>
+
+<p>As a result, the portion of risk that is unsystematic -- or risk that can be diversified away -- does not require additional compensation in terms of expected return. For example, consider the case of an individual who buys 50 corporate bonds from a single company. The individual receives a certain yield based on the purchase price. However, if unexpected business risks lead to liquidity problems, the company might go bankrupt and default on its loans. In such a case, the investor will lose the entirety of the investment. Conversely, if the investor buys a single bond from 50 different corporations who have similar credit ratings, then one instance of insolvency will have a far less drastic effect on the investor's portfolio.</p>
+<p>Now, imagine that these 50 corporations are all given a lesser credit rating because of the risk of their overall market segment. In this case, the individual is still at risk to lose some or all of the initial investment. This type of risk cannot be diversified away, and is referred to as systematic risk. This is the portion of risk that pays the risk premium, because the risk associated with this particular segment of the market is more tightly linked to the risk of the market as a whole. This risk is present regardless of the amount of diversification undertaken by an investor.</p>
+<h2 id='section_82'>8.7. Understanding the Security Market Line</h2>
+
+<h3 id='concept_354'>8.7.1. Expected Risk and Risk Premium</h3>
+
+<blockquote>Overall riskiness of an asset is composed of its own individual risk (beta) along with its risk in relation to the market as a whole.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use a stock's beta to estimate a stock's daily growth or decline.</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In return for undertaking risk, investors expect to be compensated in such as a way as to reasonably reward them.</li>
+<li>Systemic risk is the risk associated with an entire financial system or entire market. It cannot be diversified away.</li>
+<li>Unsystematic risk is risk to which only specific classes of securities or industries are vulnerable, and with proper grouping of assets it can be reduced or even eliminated.</li>
+<li>Beta is a number describing the correlated volatility of an asset in relation to the volatility of the benchmark that said asset is being compared to -- usually the market as expressed in an index.</li>
+<li>The term risk premium refers to the amount by which an asset's expected rate of return exceeds the risk-free interest rate.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Risk free rate</dt>
+<dd>Risk-free interest rate is the theoretical rate of return of an investment with no risk of financial loss.</dd>
+<dt>treasury bill</dt>
+<dd>Treasury bills (or T-Bills) mature in one year or less. They do not pay interest prior to maturity; instead they are sold at a discount of the par value to create a positive yield to maturity.</dd>
+</dl>
+
+<p>A certain amount of risk is inherent in any investment. Risk can be defined, generally, as the potential that a chosen action or activity (including the choice of inaction) will lead to a loss or an undesirable outcome. The notion of risk implies that a choice having an influence on the outcome exists. More specifically to finance, risk can be seen as relating to the probability of uncertain future events. In return for undertaking risk, investors expect to be compensated in such as a way as to reasonably reward them. This is a central them in the subject of finance. In the financial realm, two types of risk exist: systematic and unsystematic.</p>
+<p>Systemic risk is the risk associated with an entire financial system or entire market. This type of risk is inherent in all marketable securities and cannot be diversified away. On the other hand, unsystematic risk is risk to which only specific classes of securities or industries are vulnerable. This type of risk is uncorrelated with broad market returns, and with proper grouping of assets can be reduced or even eliminated. Because of this characteristic, investors are not rewarded for taking on unsystematic risk.</p>
+<p>Systematic risk can be understood further using the measure of Beta. This is a number describing the correlated volatility of an asset in relation to the volatility of the benchmark that said asset is being compared to -- usually the market as expressed in an index.</p>
+
+<div class='clFormula'>$\Large{\beta_a = \frac{Cov(r_a,r_b)}{Var(r_b)}}$</div>
+
+<div><b><i>Beta</i></b></div>
+<p><i>Beta is a measure that relates the rate of return of an asset, ra, with the rate of return of a benchmark, rb.</i></p>
+
+<p>Values of Beta can be interpreted using the following information:</p>
+<ul>
+<li>Betas less than 0: Asset generally moves in the opposite direction as compared to the index.</li>
+<li>Betas equal to 0: Movement of the asset is uncorrelated with the movement of the benchmark.</li>
+<li>Beta between 0 and 1: Movement of the asset is generally in the same direction as, but less than the movement of the benchmark.</li>
+<li>Beta equal to 1: Movement of the asset is generally in the same direction as, and about the same amount as, the movement of the benchmark.</li>
+<li>Beta greater than 1: Movement of the asset is generally in the same direction as, but more than, the movement of the benchmark.</li>
+</ul>
+<p>
+<em>Risk Premium</em>
+</p>
+<p>The term risk premium refers to the amount by which an asset's expected rate of return exceeds the risk free rate. The difference between the return of an asset in question and that of a risk-free asset -- for instance, a US Treasury bill -- can be interpreted as a measure of the excess return required by an investor on the risky asset. The risk premium, along with the risk-free rate and the asset's Beta, is used as an input in popular asset valuation techniques, such as the Capital Asset Pricing Model.</p>
+
+<h3 id='concept_355'>8.7.2. Defining the Security Market Line</h3>
+
+<blockquote>The security market line displays the expected rate of return of a security as a function of systematic, non-diversifiable risk.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe the Security Market Line</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The security market line is the theoretical line on which all capital investments lie. Investors want higher expected returns for more risk.</li>
+<li>On a graph, the line has risk on its horizontal axis (independent variable) and expected return on the vertical axis (dependent variable).</li>
+<li>Assuming a linear relationship between risk and return, the assumption is that the y-intercept is the return on a risk-free investment (the risk free rate), and the slope is the premium on risk in terms of expected returns.</li>
+<li>Given two investments with the same expected return, investors would always choose less risk. Someone with opposite preferences might better be called a gambler.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>market risk premium</dt>
+<dd>the amount by which expected rate of return of the exchange system exceeds the risk-free interest rate</dd>
+<dt>market risk</dt>
+<dd>the potential for loss due to movements in prices in a system of exchange</dd>
+<dt>line of credit</dt>
+<dd>source of debt extended to a government, business or individual by a bank or other financial institution</dd>
+<dt>diversifiable risk</dt>
+<dd>the potential for loss which can be removed by investing in a variety of assets</dd>
+<dt>security market line</dt>
+<dd>Security market line (SML) is the representation of the capital asset pricing model. It displays the expected rate of return of an individual security as a function of systematic, non-diversifiable risk (its beta).</dd>
+<dt>beta</dt>
+<dd>Average sensitivity of a security's price to overall securities market prices.</dd>
+</dl>
+
+<p>The security market line, also known as the "characteristic line", is the graphical representation of the capital asset pricing model. It is a hypothetical construct based on a world of perfect information. In the absence of perfect information, we can more or less assume historical data will give us an accurate expectation of what kind of returns and risk to expect with a particular investment of capital. The security market line graphs the systematic, non-diversifiable risk (stated in terms of beta) versus the return of the whole market at a particular time, and shows all risky marketable securities. The security market line is defined by the equation:</p>
+
+<div class='clFormula'>$\large{SML: E(R_i) = R_f + \beta_i[E(R_M)-R_f]}$</div>
+
+<div><b><i>The equation that defines the security market line.</i></b></div>
+<p><i>Look at the equation and remember that old formula of a line: y = mx + b. In this case it looks rearranged, like y = b + mx, but the real question is what do the slope and y-intercept actually represent?</i></p>
+
+<p>The Y-intercept of the SML is equal to the risk-free interest rate. Recall that the risk-free interest rate is the theoretical rate of return of an investment with no risk of financial loss. When used in portfolio management, the SML represents the investment's opportunity cost -- i.e., investing in a combination of the market portfolio and the risk-free asset. All the correctly priced securities are plotted on the SML. The assets that lie above the line are undervalued because for a given amount of risk, they yield a higher return. The assets below the line are overvalued because for a given amount of risk, they yield a lower return.</p>
+<p>The slope of the SML is equal to the market risk premium and reflects the risk return trade off at a given time. The idea of a security market line follows from the ideas asserted in the last section, which is that investors are naturally risk averse, and a premium is expected to offset the volatility of a risky investment. In a perfect world, with perfect information, any capital investment is on the security market line. The idea of a security market line is important for understanding the capital asset pricing model. Let's look at the line again:</p>
+
+
+
+<a href='../images/0813.png'><img class='clImageThumb' src='../images/0813.png' alt='The Security Market Line'></a>
+
+<div><b><i>The Security Market Line</i></b></div>
+<p><i>This is an example of a security market line graphed. The y-intercept of this line is the risk-free rate (the ROI of an investment with beta value of 0), and the slope is the premium that the market charges for risk.</i></p>
+
+<h3 id='concept_356'>8.7.3. Impact of the SML on the Cost of Capital</h3>
+
+<blockquote>The plotted location of an instrument on the SML has consequences on its price, return, and cost of capital it contributes to a firm.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe the impact of the SML on determining the cost of capital</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The security market line is a hypothetical concept that suggests that investors require compensation in the form of expected returns for the risk the investment exposes them to.</li>
+<li>A capital investment below the security market wouldn't be efficiently priced to the buyer of the investment. A higher return or lower price would be required, both increasing the cost of capital.</li>
+<li>A capital investment above the security market line wouldn't be efficiently priced for the seller or whomever raises the capital. A lower return or higher price would be necessary to justify this cost of capital for the company.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>capital asset pricing model</dt>
+<dd>In finance, the capital asset pricing model (CAPM) is used to determine a theoretically appropriate required rate of return of an asset, if that asset is to be added to an already well-diversified portfolio, given that asset's non-diversifiable risk.</dd>
+</dl>
+
+
+
+<a href='../images/0814.png'><img class='clImageThumb' src='../images/0814.png' alt='The Security Market Line'></a>
+
+<div><b><i>The Security Market Line</i></b></div>
+<p><i>The location of a financial instrument above, below, or on the security market line will lead to consequences for a company's cost of capital.</i></p>
+
+<p>The security market line is a graphical representation of the capital asset pricing model that illustrates the idea that investments are priced efficiently based on the expected return and beta-value (risk). Companies often turn to capital markets in order to generate funds -- using the issuance of either debt or equity. The cost of obtaining funds in such a manner is known as a company's cost of capital. There is a tradeoff between a security's price and its expected return. If the price of the instrument goes up, its expected returns go down, and vice versa. A firm that is raising capital would like to sell these instruments for a high price, and investors want to buy them for a low price.</p>
+<p>An instrument plotted below the SML would have a <em>low </em>expected return and a <em>high price</em>. This market situation would be quite attractive from the perspective of a company raising capital; however, such an investment wouldn't make sense for a rational <em>buyer</em>. The rational investor will require either a higher return or lower price, which will both result in a higher cost of capital for the company.</p>
+<p>An instrument plotted above the line has a <em>high </em>expected return and a <em>low price</em>. This would not be an attractive market situation for a company looking to raise capital. Such a firm wants to raise as much money as possible, which means getting investors to pay the highest price possible.</p>
+<p>An instrument plotted on the SML can be thought of to be fairly priced for the amount of expected return. Such an instrument would be a fair investment from an individual's perspective, and would lead to a fair cost of capital from a company's perspective.</p>
+
+</div>
+</div>
+</body>
+</html>

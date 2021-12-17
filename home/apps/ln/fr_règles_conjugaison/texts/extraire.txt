@@ -1,0 +1,194 @@
+# extraire %[clVerbGroup|3]
+[-
+extraire une partie de l'eau que contient une chose mouillée. 
+tirer une chose de l'endroit où elle est tenue. 
+tirer un passage d'un ouvrage. 
+dégager quelqu'un d'un lieu étroit qui le retient. 
+trouver la racine d'un nombre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|extra%[m|ire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|extra%[m|it]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|extra%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||extra%[m|it]|
+|ayant|extra%[m|it]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en extra%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|extra%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|extra%[m|is]|
+|tu|extra%[m|is]|
+|il|extra%[m|it]|
+|nous|extra%[m|yons]|
+|vous|extra%[m|yez]|
+|ils|extra%[m|ient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|extra%[m|it]|
+|tu|as |extra%[m|it]|
+|il|a|extra%[m|it]|
+|nous|avons|extra%[m|it]|
+|vous|avez|extra%[m|it]|
+|ils|ont|extra%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|extra%[m|yais]|
+|tu|extra%[m|yais]|
+|il|extra%[m|yait]|
+|nous|extra%[m|yions]|
+|vous|extra%[m|yiez]|
+|ils|extra%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|extra%[m|it]|
+|tu|avais|extra%[m|it]|
+|il|avait|extra%[m|it]|
+|nous|avions|extra%[m|it]|
+|vous|aviez|extra%[m|it]|
+|ils|avaient|extra%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|extra%[m|it]|
+|tu|eus|extra%[m|it]|
+|il|eut|extra%[m|it]|
+|nous|e&ucirc;mes|extra%[m|it]|
+|vous|e&ucirc;tes|extra%[m|it]|
+|ils|eurent|extra%[m|it]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|extra%[m|irai]|
+|tu|extra%[m|iras]|
+|il|extra%[m|ira]|
+|nous|extra%[m|irons]|
+|vous|extra%[m|irez]|
+|ils|extra%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|extra%[m|it]|
+|tu|auras|extra%[m|it]|
+|il|aura|extra%[m|it]|
+|nous|aurons|extra%[m|it]|
+|vous|aurez|extra%[m|it]|
+|ils|auront|extra%[m|it]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|extra%[m|irais]|
+|tu|extra%[m|irais]|
+|il|extra%[m|irait]|
+|nous|extra%[m|irions]|
+|vous|extra%[m|iriez]|
+|ils|extra%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|extra%[m|it]|
+|tu|aurais|extra%[m|it]|
+|il|aurait|extra%[m|it]|
+|nous|aurions|extra%[m|it]|
+|vous|auriez|extra%[m|it]|
+|ils|auraient|extra%[m|it]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|extra%[m|ie]|
+|que|tu|extra%[m|ies]|
+|qu'|il|extra%[m|ie]|
+|que|nous|extra%[m|yions]|
+|que|vous|extra%[m|yiez]|
+|qu'|ils|extra%[m|ient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|extra%[m|it]|
+|que|tu|aies|extra%[m|it]|
+|qu'|il|ait|extra%[m|it]|
+|que|nous|ayons|extra%[m|it]|
+|que|vous|ayez|extra%[m|it]|
+|qu'|ils|aient|extra%[m|it]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|extra%[m|it]|
+|que|tu|eusses|extra%[m|it]|
+|qu'|il|eût|extra%[m|it]|
+|que|nous|eussions|extra%[m|it]|
+|que|vous|eussiez|extra%[m|it]|
+|qu'|ils|eussent|extra%[m|it]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|extra%[m|is]|
+|extra%[m|yons]|
+|extra%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|extra%[m|it]|
+|ayons|extra%[m|it]|
+|ayez|extra%[m|it]|
+|]
+

@@ -1,0 +1,191 @@
+# peser %[clVerbGroup|1]
+[-
+avoir tel poids. 
+déterminer le poids de quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|p%[m|e]s%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pes%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|p%[m|e]s%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pes%[m|é]|
+|ayant|pes%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en p%[m|e]s%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pes%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|p%[m|è]s%[m|e]|
+|tu|p%[m|è]s%[m|es]|
+|il|p%[m|è]s%[m|e]|
+|nous|p%[m|e]s%[m|ons]|
+|vous|p%[m|e]s%[m|ez]|
+|ils|p%[m|è]s%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pes%[m|é]|
+|tu|as |pes%[m|é]|
+|il|a|pes%[m|é]|
+|nous|avons|pes%[m|é]|
+|vous|avez|pes%[m|é]|
+|ils|ont|pes%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|p%[m|e]s%[m|ais]|
+|tu|p%[m|e]s%[m|ais]|
+|il|p%[m|e]s%[m|ait]|
+|nous|p%[m|e]s%[m|ions]|
+|vous|p%[m|e]s%[m|iez]|
+|ils|p%[m|e]s%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pes%[m|é]|
+|tu|avais|pes%[m|é]|
+|il|avait|pes%[m|é]|
+|nous|avions|pes%[m|é]|
+|vous|aviez|pes%[m|é]|
+|ils|avaient|pes%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|p%[m|e]s%[m|ai]|
+|tu|p%[m|e]s%[m|as]|
+|il|p%[m|e]s%[m|a]|
+|nous|p%[m|e]s%[m|âmes]|
+|vous|p%[m|e]s%[m|âtes]|
+|ils|p%[m|e]s%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pes%[m|é]|
+|tu|eus|pes%[m|é]|
+|il|eut|pes%[m|é]|
+|nous|e&ucirc;mes|pes%[m|é]|
+|vous|e&ucirc;tes|pes%[m|é]|
+|ils|eurent|pes%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|p%[m|è]s%[m|erai]|
+|tu|p%[m|è]s%[m|eras]|
+|il|p%[m|è]s%[m|era]|
+|nous|p%[m|è]s%[m|erons]|
+|vous|p%[m|è]s%[m|erez]|
+|ils|p%[m|è]s%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pes%[m|é]|
+|tu|auras|pes%[m|é]|
+|il|aura|pes%[m|é]|
+|nous|aurons|pes%[m|é]|
+|vous|aurez|pes%[m|é]|
+|ils|auront|pes%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|p%[m|è]s%[m|erais]|
+|tu|p%[m|è]s%[m|erais]|
+|il|p%[m|è]s%[m|erait]|
+|nous|p%[m|è]s%[m|erions]|
+|vous|p%[m|è]s%[m|eriez]|
+|ils|p%[m|è]s%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pes%[m|é]|
+|tu|aurais|pes%[m|é]|
+|il|aurait|pes%[m|é]|
+|nous|aurions|pes%[m|é]|
+|vous|auriez|pes%[m|é]|
+|ils|auraient|pes%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|p%[m|è]s%[m|e]|
+|que|tu|p%[m|è]s%[m|es]|
+|qu'|il|p%[m|è]s%[m|e]|
+|que|nous|p%[m|e]s%[m|ions]|
+|que|vous|p%[m|e]s%[m|iez]|
+|qu'|ils|p%[m|è]s%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pes%[m|é]|
+|que|tu|aies|pes%[m|é]|
+|qu'|il|ait|pes%[m|é]|
+|que|nous|ayons|pes%[m|é]|
+|que|vous|ayez|pes%[m|é]|
+|qu'|ils|aient|pes%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|p%[m|e]s%[m|asse]|
+|que|tu|p%[m|e]s%[m|asses]|
+|qu'|il|p%[m|e]s%[m|ât]|
+|que|nous|p%[m|e]s%[m|assions]|
+|que|vous|p%[m|e]s%[m|assiez]|
+|qu'|ils|p%[m|e]s%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pes%[m|é]|
+|que|tu|eusses|pes%[m|é]|
+|qu'|il|eût|pes%[m|é]|
+|que|nous|eussions|pes%[m|é]|
+|que|vous|eussiez|pes%[m|é]|
+|qu'|ils|eussent|pes%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|p%[m|è]s%[m|e]|
+|p%[m|e]s%[m|ons]|
+|p%[m|e]s%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pes%[m|é]|
+|ayons|pes%[m|é]|
+|ayez|pes%[m|é]|
+|]
+

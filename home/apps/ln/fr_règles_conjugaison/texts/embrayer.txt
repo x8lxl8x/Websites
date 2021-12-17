@@ -1,0 +1,190 @@
+# embrayer %[clVerbGroup|1]
+[-
+accoupler un moteur et une machine. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|embra%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|embra%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|embra%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||embra%[m|yé]|
+|ayant|embra%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en embra%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|embra%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|embra%[m|ie]/embra%[m|ye]|
+|tu|embra%[m|ies]/embra%[m|yes]|
+|il|embra%[m|ie]/embra%[m|ye]|
+|nous|embra%[m|yons]|
+|vous|embra%[m|yez]|
+|ils|embra%[m|ient]/embra%[m|yent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|embra%[m|yé]|
+|tu|as |embra%[m|yé]|
+|il|a|embra%[m|yé]|
+|nous|avons|embra%[m|yé]|
+|vous|avez|embra%[m|yé]|
+|ils|ont|embra%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|embra%[m|yais]|
+|tu|embra%[m|yais]|
+|il|embra%[m|yait]|
+|nous|embra%[m|yions]|
+|vous|embra%[m|yiez]|
+|ils|embra%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|embra%[m|yé]|
+|tu|avais|embra%[m|yé]|
+|il|avait|embra%[m|yé]|
+|nous|avions|embra%[m|yé]|
+|vous|aviez|embra%[m|yé]|
+|ils|avaient|embra%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|embra%[m|yai]|
+|tu|embra%[m|yas]|
+|il|embra%[m|ya]|
+|nous|embra%[m|yâmes]|
+|vous|embra%[m|yâtes]|
+|ils|embra%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|embra%[m|yé]|
+|tu|eus|embra%[m|yé]|
+|il|eut|embra%[m|yé]|
+|nous|e&ucirc;mes|embra%[m|yé]|
+|vous|e&ucirc;tes|embra%[m|yé]|
+|ils|eurent|embra%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|embra%[m|ierai]/embra%[m|yerai]|
+|tu|embra%[m|ieras]/embra%[m|yeras]|
+|il|embra%[m|iera]/embra%[m|yera]|
+|nous|embra%[m|ierons]/embra%[m|yerons]|
+|vous|embra%[m|ierez]/embra%[m|yerez]|
+|ils|embra%[m|ieront]/embra%[m|yeront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|embra%[m|yé]|
+|tu|auras|embra%[m|yé]|
+|il|aura|embra%[m|yé]|
+|nous|aurons|embra%[m|yé]|
+|vous|aurez|embra%[m|yé]|
+|ils|auront|embra%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|embra%[m|ierais]/embra%[m|yerais]|
+|tu|embra%[m|ierais]/embra%[m|yerais]|
+|il|embra%[m|ierait]/embra%[m|yerait]|
+|nous|embra%[m|ierions]/embra%[m|yerions]|
+|vous|embra%[m|ieriez]/embra%[m|yeriez]|
+|ils|embra%[m|ieraient]/embra%[m|yeraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|embra%[m|yé]|
+|tu|aurais|embra%[m|yé]|
+|il|aurait|embra%[m|yé]|
+|nous|aurions|embra%[m|yé]|
+|vous|auriez|embra%[m|yé]|
+|ils|auraient|embra%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|embra%[m|ie]/embra%[m|ye]|
+|que|tu|embra%[m|ies]/embra%[m|yes]|
+|qu'|il|embra%[m|ie]/embra%[m|ye]|
+|que|nous|embra%[m|yions]|
+|que|vous|embra%[m|yiez]|
+|qu'|ils|embra%[m|ient]/embra%[m|yent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|embra%[m|yé]|
+|que|tu|aies|embra%[m|yé]|
+|qu'|il|ait|embra%[m|yé]|
+|que|nous|ayons|embra%[m|yé]|
+|que|vous|ayez|embra%[m|yé]|
+|qu'|ils|aient|embra%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|embra%[m|yasse]|
+|que|tu|embra%[m|yasses]|
+|qu'|il|embra%[m|yât]|
+|que|nous|embra%[m|yassions]|
+|que|vous|embra%[m|yassiez]|
+|qu'|ils|embra%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|embra%[m|yé]|
+|que|tu|eusses|embra%[m|yé]|
+|qu'|il|eût|embra%[m|yé]|
+|que|nous|eussions|embra%[m|yé]|
+|que|vous|eussiez|embra%[m|yé]|
+|qu'|ils|eussent|embra%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|embra%[m|ie]/embra%[m|ye]|
+|embra%[m|yons]|
+|embra%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|embra%[m|yé]|
+|ayons|embra%[m|yé]|
+|ayez|embra%[m|yé]|
+|]
+

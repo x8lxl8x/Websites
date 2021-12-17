@@ -1,0 +1,193 @@
+# soumettre %[clVerbGroup|3]
+[-
+mettre en état de dépendance; asservir. 
+astreindre à une loi. 
+présenter, proposer quelque chose afin d'en débattre. 
+faire subir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|soum%[m|ettre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|soum%[m|is]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|soum%[m|ettant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||soum%[m|is]|
+|ayant|soum%[m|is]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en soum%[m|ettant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|soum%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|soum%[m|ets]|
+|tu|soum%[m|ets]|
+|il|soum%[m|et]|
+|nous|soum%[m|ettons]|
+|vous|soum%[m|ettez]|
+|ils|soum%[m|ettent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|soum%[m|is]|
+|tu|as |soum%[m|is]|
+|il|a|soum%[m|is]|
+|nous|avons|soum%[m|is]|
+|vous|avez|soum%[m|is]|
+|ils|ont|soum%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|soum%[m|ettais]|
+|tu|soum%[m|ettais]|
+|il|soum%[m|ettait]|
+|nous|soum%[m|ettions]|
+|vous|soum%[m|ettiez]|
+|ils|soum%[m|ettaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|soum%[m|is]|
+|tu|avais|soum%[m|is]|
+|il|avait|soum%[m|is]|
+|nous|avions|soum%[m|is]|
+|vous|aviez|soum%[m|is]|
+|ils|avaient|soum%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|soum%[m|is]|
+|tu|soum%[m|is]|
+|il|soum%[m|it]|
+|nous|soum%[m|îmes]|
+|vous|soum%[m|îtes]|
+|ils|soum%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|soum%[m|is]|
+|tu|eus|soum%[m|is]|
+|il|eut|soum%[m|is]|
+|nous|e&ucirc;mes|soum%[m|is]|
+|vous|e&ucirc;tes|soum%[m|is]|
+|ils|eurent|soum%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|soum%[m|ettrai]|
+|tu|soum%[m|ettras]|
+|il|soum%[m|ettra]|
+|nous|soum%[m|ettrons]|
+|vous|soum%[m|ettrez]|
+|ils|soum%[m|ettront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|soum%[m|is]|
+|tu|auras|soum%[m|is]|
+|il|aura|soum%[m|is]|
+|nous|aurons|soum%[m|is]|
+|vous|aurez|soum%[m|is]|
+|ils|auront|soum%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|soum%[m|ettrais]|
+|tu|soum%[m|ettrais]|
+|il|soum%[m|ettrait]|
+|nous|soum%[m|ettrions]|
+|vous|soum%[m|ettriez]|
+|ils|soum%[m|ettraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|soum%[m|is]|
+|tu|aurais|soum%[m|is]|
+|il|aurait|soum%[m|is]|
+|nous|aurions|soum%[m|is]|
+|vous|auriez|soum%[m|is]|
+|ils|auraient|soum%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|soum%[m|ette]|
+|que|tu|soum%[m|ettes]|
+|qu'|il|soum%[m|ette]|
+|que|nous|soum%[m|ettions]|
+|que|vous|soum%[m|ettiez]|
+|qu'|ils|soum%[m|ettent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|soum%[m|is]|
+|que|tu|aies|soum%[m|is]|
+|qu'|il|ait|soum%[m|is]|
+|que|nous|ayons|soum%[m|is]|
+|que|vous|ayez|soum%[m|is]|
+|qu'|ils|aient|soum%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|soum%[m|isse]|
+|que|tu|soum%[m|isses]|
+|qu'|il|soum%[m|ît]|
+|que|nous|soum%[m|issions]|
+|que|vous|soum%[m|issiez]|
+|qu'|ils|soum%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|soum%[m|is]|
+|que|tu|eusses|soum%[m|is]|
+|qu'|il|eût|soum%[m|is]|
+|que|nous|eussions|soum%[m|is]|
+|que|vous|eussiez|soum%[m|is]|
+|qu'|ils|eussent|soum%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|soum%[m|ets]|
+|soum%[m|ettons]|
+|soum%[m|ettez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|soum%[m|is]|
+|ayons|soum%[m|is]|
+|ayez|soum%[m|is]|
+|]
+

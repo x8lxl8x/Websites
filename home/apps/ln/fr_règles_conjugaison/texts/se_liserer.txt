@@ -1,0 +1,190 @@
+# se liserer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se lis%[m|e]r%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|liser%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se lis%[m|e]r%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|liser%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se lis%[m|e]r%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|liser%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|lis%[m|è]r%[m|e]|
+|tu|te|lis%[m|è]r%[m|es]|
+|il|se|lis%[m|è]r%[m|e]|
+|nous|nous|lis%[m|e]r%[m|ons]|
+|vous|vous|lis%[m|e]r%[m|ez]|
+|ils|se|lis%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|liser%[m|é]|
+|tu|t'|es|liser%[m|é]|
+|il|s'|est|liser%[m|é]|
+|nous|nous|sommes|liser%[m|és]|
+|vous|vous|êtes|liser%[m|és]|
+|ils|se|sont|liser%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|lis%[m|e]r%[m|ais]|
+|tu|te|lis%[m|e]r%[m|ais]|
+|il|se|lis%[m|e]r%[m|ait]|
+|nous|nous|lis%[m|e]r%[m|ions]|
+|vous|vous|lis%[m|e]r%[m|iez]|
+|ils|se|lis%[m|e]r%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|liser%[m|é]|
+|tu|t'|étais|liser%[m|é]|
+|il|s'|était|liser%[m|é]|
+|nous|nous|étions|liser%[m|és]|
+|vous|vous|étiez|liser%[m|és]|
+|ils|s'|étaient|liser%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|lis%[m|e]r%[m|ai]|
+|tu|te|lis%[m|e]r%[m|as]|
+|il|se|lis%[m|e]r%[m|a]|
+|nous|nous|lis%[m|e]r%[m|âmes]|
+|vous|vous|lis%[m|e]r%[m|âtes]|
+|ils|se|lis%[m|e]r%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|liser%[m|é]|
+|tu|te|fus|liser%[m|é]|
+|il|se|fut|liser%[m|é]|
+|nous|nous|fûmes|liser%[m|és]|
+|vous|vous|fûtes|liser%[m|és]|
+|ils|se|furent|liser%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|lis%[m|è]r%[m|erai]|
+|tu|te|lis%[m|è]r%[m|eras]|
+|il|se|lis%[m|è]r%[m|era]|
+|nous|nous|lis%[m|è]r%[m|erons]|
+|vous|vous|lis%[m|è]r%[m|erez]|
+|ils|se|lis%[m|è]r%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|liser%[m|é]|
+|tu|te|seras|liser%[m|é]|
+|il|se|sera|liser%[m|é]|
+|nous|nous|serons|liser%[m|és]|
+|vous|vous|serez|liser%[m|és]|
+|ils|se|seront|liser%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|lis%[m|è]r%[m|erais]|
+|tu|te|lis%[m|è]r%[m|erais]|
+|il|se|lis%[m|è]r%[m|erait]|
+|nous|nous|lis%[m|è]r%[m|erions]|
+|vous|vous|lis%[m|è]r%[m|eriez]|
+|ils|se|lis%[m|è]r%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|liser%[m|é]|
+|tu|te|serais|liser%[m|é]|
+|il|se|serait|liser%[m|é]|
+|nous|nous|serions|liser%[m|és]|
+|vous|vous|seriez|liser%[m|és]|
+|ils|se|seraient|liser%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|lis%[m|è]r%[m|e]|
+|que|tu|te|lis%[m|è]r%[m|es]|
+|qu'|il|se|lis%[m|è]r%[m|e]|
+|que|nous|nous|lis%[m|e]r%[m|ions]|
+|que|vous|vous|lis%[m|e]r%[m|iez]|
+|qu'|ils|se|lis%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|liser%[m|é]|
+|que|tu|te|sois|liser%[m|é]|
+|qu'|il|se|soit|liser%[m|é]|
+|que|nous|nous|soyons|liser%[m|és]|
+|que|vous|vous|soyez|liser%[m|és]|
+|qu'|ils|se|soient|liser%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|lis%[m|e]r%[m|asse]|
+|que|tu|te|lis%[m|e]r%[m|asses]|
+|qu'|il|se|lis%[m|e]r%[m|ât]|
+|que|nous|nous|lis%[m|e]r%[m|assions]|
+|que|vous|vous|lis%[m|e]r%[m|assiez]|
+|qu'|ils|se|lis%[m|e]r%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|liser%[m|é]|
+|que|tu|te|fusses|liser%[m|é]|
+|qu'|il|se|fût|liser%[m|é]|
+|que|nous|nous|fussions|liser%[m|és]|
+|que|vous|vous|fussiez|liser%[m|és]|
+|qu'|ils|se|fussent|liser%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lis%[m|è]r%[m|e]-toi|
+|lis%[m|e]r%[m|ons]-nous|
+|lis%[m|e]r%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

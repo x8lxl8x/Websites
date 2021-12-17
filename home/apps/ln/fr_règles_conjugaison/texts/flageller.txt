@@ -1,0 +1,190 @@
+# flageller %[clVerbGroup|1]
+[-
+fouetter. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flagell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flagell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flagell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flagell%[m|é]|
+|ayant|flagell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flagell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flagell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flagell%[m|e]|
+|tu|flagell%[m|es]|
+|il|flagell%[m|e]|
+|nous|flagell%[m|ons]|
+|vous|flagell%[m|ez]|
+|ils|flagell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flagell%[m|é]|
+|tu|as |flagell%[m|é]|
+|il|a|flagell%[m|é]|
+|nous|avons|flagell%[m|é]|
+|vous|avez|flagell%[m|é]|
+|ils|ont|flagell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flagell%[m|ais]|
+|tu|flagell%[m|ais]|
+|il|flagell%[m|ait]|
+|nous|flagell%[m|ions]|
+|vous|flagell%[m|iez]|
+|ils|flagell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flagell%[m|é]|
+|tu|avais|flagell%[m|é]|
+|il|avait|flagell%[m|é]|
+|nous|avions|flagell%[m|é]|
+|vous|aviez|flagell%[m|é]|
+|ils|avaient|flagell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flagell%[m|ai]|
+|tu|flagell%[m|as]|
+|il|flagell%[m|a]|
+|nous|flagell%[m|âmes]|
+|vous|flagell%[m|âtes]|
+|ils|flagell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flagell%[m|é]|
+|tu|eus|flagell%[m|é]|
+|il|eut|flagell%[m|é]|
+|nous|e&ucirc;mes|flagell%[m|é]|
+|vous|e&ucirc;tes|flagell%[m|é]|
+|ils|eurent|flagell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flagell%[m|erai]|
+|tu|flagell%[m|eras]|
+|il|flagell%[m|era]|
+|nous|flagell%[m|erons]|
+|vous|flagell%[m|erez]|
+|ils|flagell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flagell%[m|é]|
+|tu|auras|flagell%[m|é]|
+|il|aura|flagell%[m|é]|
+|nous|aurons|flagell%[m|é]|
+|vous|aurez|flagell%[m|é]|
+|ils|auront|flagell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flagell%[m|erais]|
+|tu|flagell%[m|erais]|
+|il|flagell%[m|erait]|
+|nous|flagell%[m|erions]|
+|vous|flagell%[m|eriez]|
+|ils|flagell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flagell%[m|é]|
+|tu|aurais|flagell%[m|é]|
+|il|aurait|flagell%[m|é]|
+|nous|aurions|flagell%[m|é]|
+|vous|auriez|flagell%[m|é]|
+|ils|auraient|flagell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flagell%[m|e]|
+|que|tu|flagell%[m|es]|
+|qu'|il|flagell%[m|e]|
+|que|nous|flagell%[m|ions]|
+|que|vous|flagell%[m|iez]|
+|qu'|ils|flagell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flagell%[m|é]|
+|que|tu|aies|flagell%[m|é]|
+|qu'|il|ait|flagell%[m|é]|
+|que|nous|ayons|flagell%[m|é]|
+|que|vous|ayez|flagell%[m|é]|
+|qu'|ils|aient|flagell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flagell%[m|asse]|
+|que|tu|flagell%[m|asses]|
+|qu'|il|flagell%[m|ât]|
+|que|nous|flagell%[m|assions]|
+|que|vous|flagell%[m|assiez]|
+|qu'|ils|flagell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flagell%[m|é]|
+|que|tu|eusses|flagell%[m|é]|
+|qu'|il|eût|flagell%[m|é]|
+|que|nous|eussions|flagell%[m|é]|
+|que|vous|eussiez|flagell%[m|é]|
+|qu'|ils|eussent|flagell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flagell%[m|e]|
+|flagell%[m|ons]|
+|flagell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flagell%[m|é]|
+|ayons|flagell%[m|é]|
+|ayez|flagell%[m|é]|
+|]
+

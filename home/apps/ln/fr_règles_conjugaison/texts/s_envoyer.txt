@@ -1,0 +1,193 @@
+# s'envoyer %[clVerbGroup|1]
+[-
+rendre institutionnel. 
+faire aller quelqu'un quelque part. 
+expédier un courrier, une lettre. 
+lancer quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'env%[m|oyer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|env%[m|oyé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'env%[m|oyant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|env%[m|oyé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'env%[m|oyant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|env%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|env%[m|oie]|
+|tu|t'|env%[m|oies]|
+|il|s'|env%[m|oie]|
+|nous|nous|env%[m|oyons]|
+|vous|vous|env%[m|oyez]|
+|ils|s'|env%[m|oient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|env%[m|oyé]|
+|tu|t'|es|env%[m|oyé]|
+|il|s'|est|env%[m|oyé]|
+|nous|nous|sommes|env%[m|oyés]|
+|vous|vous|êtes|env%[m|oyés]|
+|ils|se|sont|env%[m|oyés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|env%[m|oyais]|
+|tu|t'|env%[m|oyais]|
+|il|s'|env%[m|oyait]|
+|nous|nous|env%[m|oyions]|
+|vous|vous|env%[m|oyiez]|
+|ils|s'|env%[m|oyaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|env%[m|oyé]|
+|tu|t'|étais|env%[m|oyé]|
+|il|s'|était|env%[m|oyé]|
+|nous|nous|étions|env%[m|oyés]|
+|vous|vous|étiez|env%[m|oyés]|
+|ils|s'|étaient|env%[m|oyés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|env%[m|oyai]|
+|tu|t'|env%[m|oyas]|
+|il|s'|env%[m|oya]|
+|nous|nous|env%[m|oyâmes]|
+|vous|vous|env%[m|oyâtes]|
+|ils|s'|env%[m|oyèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|env%[m|oyé]|
+|tu|te|fus|env%[m|oyé]|
+|il|se|fut|env%[m|oyé]|
+|nous|nous|fûmes|env%[m|oyés]|
+|vous|vous|fûtes|env%[m|oyés]|
+|ils|se|furent|env%[m|oyés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|env%[m|errai]|
+|tu|t'|env%[m|erras]|
+|il|s'|env%[m|erra]|
+|nous|nous|env%[m|errons]|
+|vous|vous|env%[m|errez]|
+|ils|s'|env%[m|erront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|env%[m|oyé]|
+|tu|te|seras|env%[m|oyé]|
+|il|se|sera|env%[m|oyé]|
+|nous|nous|serons|env%[m|oyés]|
+|vous|vous|serez|env%[m|oyés]|
+|ils|se|seront|env%[m|oyés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|env%[m|errais]|
+|tu|t'|env%[m|errais]|
+|il|s'|env%[m|errait]|
+|nous|nous|env%[m|errions]|
+|vous|vous|env%[m|erriez]|
+|ils|s'|env%[m|erraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|env%[m|oyé]|
+|tu|te|serais|env%[m|oyé]|
+|il|se|serait|env%[m|oyé]|
+|nous|nous|serions|env%[m|oyés]|
+|vous|vous|seriez|env%[m|oyés]|
+|ils|se|seraient|env%[m|oyés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|env%[m|oie]|
+|que|tu|t'|env%[m|oies]|
+|qu'|il|s'|env%[m|oie]|
+|que|nous|nous|env%[m|oyions]|
+|que|vous|vous|env%[m|oyiez]|
+|qu'|ils|s'|env%[m|oient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|env%[m|oyé]|
+|que|tu|te|sois|env%[m|oyé]|
+|qu'|il|se|soit|env%[m|oyé]|
+|que|nous|nous|soyons|env%[m|oyés]|
+|que|vous|vous|soyez|env%[m|oyés]|
+|qu'|ils|se|soient|env%[m|oyés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|env%[m|oyasse]|
+|que|tu|t'|env%[m|oyasses]|
+|qu'|il|s'|env%[m|oyât]|
+|que|nous|nous|env%[m|oyassions]|
+|que|vous|vous|env%[m|oyassiez]|
+|qu'|ils|s'|env%[m|oyassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|env%[m|oyé]|
+|que|tu|te|fusses|env%[m|oyé]|
+|qu'|il|se|fût|env%[m|oyé]|
+|que|nous|nous|fussions|env%[m|oyés]|
+|que|vous|vous|fussiez|env%[m|oyés]|
+|qu'|ils|se|fussent|env%[m|oyés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|env%[m|oie]-toi|
+|env%[m|oyons]-nous|
+|env%[m|oyez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

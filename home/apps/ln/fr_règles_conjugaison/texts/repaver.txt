@@ -1,0 +1,190 @@
+# repaver %[clVerbGroup|1]
+[-
+paver de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repav%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repav%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repav%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repav%[m|é]|
+|ayant|repav%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repav%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repav%[m|e]|
+|tu|repav%[m|es]|
+|il|repav%[m|e]|
+|nous|repav%[m|ons]|
+|vous|repav%[m|ez]|
+|ils|repav%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repav%[m|é]|
+|tu|as |repav%[m|é]|
+|il|a|repav%[m|é]|
+|nous|avons|repav%[m|é]|
+|vous|avez|repav%[m|é]|
+|ils|ont|repav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repav%[m|ais]|
+|tu|repav%[m|ais]|
+|il|repav%[m|ait]|
+|nous|repav%[m|ions]|
+|vous|repav%[m|iez]|
+|ils|repav%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repav%[m|é]|
+|tu|avais|repav%[m|é]|
+|il|avait|repav%[m|é]|
+|nous|avions|repav%[m|é]|
+|vous|aviez|repav%[m|é]|
+|ils|avaient|repav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repav%[m|ai]|
+|tu|repav%[m|as]|
+|il|repav%[m|a]|
+|nous|repav%[m|âmes]|
+|vous|repav%[m|âtes]|
+|ils|repav%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repav%[m|é]|
+|tu|eus|repav%[m|é]|
+|il|eut|repav%[m|é]|
+|nous|e&ucirc;mes|repav%[m|é]|
+|vous|e&ucirc;tes|repav%[m|é]|
+|ils|eurent|repav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repav%[m|erai]|
+|tu|repav%[m|eras]|
+|il|repav%[m|era]|
+|nous|repav%[m|erons]|
+|vous|repav%[m|erez]|
+|ils|repav%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repav%[m|é]|
+|tu|auras|repav%[m|é]|
+|il|aura|repav%[m|é]|
+|nous|aurons|repav%[m|é]|
+|vous|aurez|repav%[m|é]|
+|ils|auront|repav%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repav%[m|erais]|
+|tu|repav%[m|erais]|
+|il|repav%[m|erait]|
+|nous|repav%[m|erions]|
+|vous|repav%[m|eriez]|
+|ils|repav%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repav%[m|é]|
+|tu|aurais|repav%[m|é]|
+|il|aurait|repav%[m|é]|
+|nous|aurions|repav%[m|é]|
+|vous|auriez|repav%[m|é]|
+|ils|auraient|repav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repav%[m|e]|
+|que|tu|repav%[m|es]|
+|qu'|il|repav%[m|e]|
+|que|nous|repav%[m|ions]|
+|que|vous|repav%[m|iez]|
+|qu'|ils|repav%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repav%[m|é]|
+|que|tu|aies|repav%[m|é]|
+|qu'|il|ait|repav%[m|é]|
+|que|nous|ayons|repav%[m|é]|
+|que|vous|ayez|repav%[m|é]|
+|qu'|ils|aient|repav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repav%[m|asse]|
+|que|tu|repav%[m|asses]|
+|qu'|il|repav%[m|ât]|
+|que|nous|repav%[m|assions]|
+|que|vous|repav%[m|assiez]|
+|qu'|ils|repav%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repav%[m|é]|
+|que|tu|eusses|repav%[m|é]|
+|qu'|il|eût|repav%[m|é]|
+|que|nous|eussions|repav%[m|é]|
+|que|vous|eussiez|repav%[m|é]|
+|qu'|ils|eussent|repav%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repav%[m|e]|
+|repav%[m|ons]|
+|repav%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repav%[m|é]|
+|ayons|repav%[m|é]|
+|ayez|repav%[m|é]|
+|]
+

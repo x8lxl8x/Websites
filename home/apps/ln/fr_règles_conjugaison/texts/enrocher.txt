@@ -1,0 +1,190 @@
+# enrocher %[clVerbGroup|1]
+[-
+placer sur un enrochement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|enroch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|enroch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|enroch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||enroch%[m|é]|
+|ayant|enroch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en enroch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|enroch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|enroch%[m|e]|
+|tu|enroch%[m|es]|
+|il|enroch%[m|e]|
+|nous|enroch%[m|ons]|
+|vous|enroch%[m|ez]|
+|ils|enroch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|enroch%[m|é]|
+|tu|as |enroch%[m|é]|
+|il|a|enroch%[m|é]|
+|nous|avons|enroch%[m|é]|
+|vous|avez|enroch%[m|é]|
+|ils|ont|enroch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|enroch%[m|ais]|
+|tu|enroch%[m|ais]|
+|il|enroch%[m|ait]|
+|nous|enroch%[m|ions]|
+|vous|enroch%[m|iez]|
+|ils|enroch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|enroch%[m|é]|
+|tu|avais|enroch%[m|é]|
+|il|avait|enroch%[m|é]|
+|nous|avions|enroch%[m|é]|
+|vous|aviez|enroch%[m|é]|
+|ils|avaient|enroch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|enroch%[m|ai]|
+|tu|enroch%[m|as]|
+|il|enroch%[m|a]|
+|nous|enroch%[m|âmes]|
+|vous|enroch%[m|âtes]|
+|ils|enroch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|enroch%[m|é]|
+|tu|eus|enroch%[m|é]|
+|il|eut|enroch%[m|é]|
+|nous|e&ucirc;mes|enroch%[m|é]|
+|vous|e&ucirc;tes|enroch%[m|é]|
+|ils|eurent|enroch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|enroch%[m|erai]|
+|tu|enroch%[m|eras]|
+|il|enroch%[m|era]|
+|nous|enroch%[m|erons]|
+|vous|enroch%[m|erez]|
+|ils|enroch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|enroch%[m|é]|
+|tu|auras|enroch%[m|é]|
+|il|aura|enroch%[m|é]|
+|nous|aurons|enroch%[m|é]|
+|vous|aurez|enroch%[m|é]|
+|ils|auront|enroch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|enroch%[m|erais]|
+|tu|enroch%[m|erais]|
+|il|enroch%[m|erait]|
+|nous|enroch%[m|erions]|
+|vous|enroch%[m|eriez]|
+|ils|enroch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|enroch%[m|é]|
+|tu|aurais|enroch%[m|é]|
+|il|aurait|enroch%[m|é]|
+|nous|aurions|enroch%[m|é]|
+|vous|auriez|enroch%[m|é]|
+|ils|auraient|enroch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|enroch%[m|e]|
+|que|tu|enroch%[m|es]|
+|qu'|il|enroch%[m|e]|
+|que|nous|enroch%[m|ions]|
+|que|vous|enroch%[m|iez]|
+|qu'|ils|enroch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|enroch%[m|é]|
+|que|tu|aies|enroch%[m|é]|
+|qu'|il|ait|enroch%[m|é]|
+|que|nous|ayons|enroch%[m|é]|
+|que|vous|ayez|enroch%[m|é]|
+|qu'|ils|aient|enroch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|enroch%[m|asse]|
+|que|tu|enroch%[m|asses]|
+|qu'|il|enroch%[m|ât]|
+|que|nous|enroch%[m|assions]|
+|que|vous|enroch%[m|assiez]|
+|qu'|ils|enroch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|enroch%[m|é]|
+|que|tu|eusses|enroch%[m|é]|
+|qu'|il|eût|enroch%[m|é]|
+|que|nous|eussions|enroch%[m|é]|
+|que|vous|eussiez|enroch%[m|é]|
+|qu'|ils|eussent|enroch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enroch%[m|e]|
+|enroch%[m|ons]|
+|enroch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|enroch%[m|é]|
+|ayons|enroch%[m|é]|
+|ayez|enroch%[m|é]|
+|]
+

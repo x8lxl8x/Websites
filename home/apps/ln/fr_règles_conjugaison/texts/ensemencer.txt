@@ -1,0 +1,190 @@
+# ensemencer %[clVerbGroup|1]
+[-
+mettre des semences en terre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ensemen%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ensemen%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ensemen%[m|cé]|
+|ayant|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ensemen%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ensemen%[m|ce]|
+|tu|ensemen%[m|ces]|
+|il|ensemen%[m|ce]|
+|nous|ensemen%[m|çons]|
+|vous|ensemen%[m|cez]|
+|ils|ensemen%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ensemen%[m|cé]|
+|tu|as |ensemen%[m|cé]|
+|il|a|ensemen%[m|cé]|
+|nous|avons|ensemen%[m|cé]|
+|vous|avez|ensemen%[m|cé]|
+|ils|ont|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ensemen%[m|çais]|
+|tu|ensemen%[m|çais]|
+|il|ensemen%[m|çait]|
+|nous|ensemen%[m|cions]|
+|vous|ensemen%[m|ciez]|
+|ils|ensemen%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ensemen%[m|cé]|
+|tu|avais|ensemen%[m|cé]|
+|il|avait|ensemen%[m|cé]|
+|nous|avions|ensemen%[m|cé]|
+|vous|aviez|ensemen%[m|cé]|
+|ils|avaient|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ensemen%[m|çai]|
+|tu|ensemen%[m|ças]|
+|il|ensemen%[m|ça]|
+|nous|ensemen%[m|çâmes]|
+|vous|ensemen%[m|çâtes]|
+|ils|ensemen%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ensemen%[m|cé]|
+|tu|eus|ensemen%[m|cé]|
+|il|eut|ensemen%[m|cé]|
+|nous|e&ucirc;mes|ensemen%[m|cé]|
+|vous|e&ucirc;tes|ensemen%[m|cé]|
+|ils|eurent|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ensemen%[m|cerai]|
+|tu|ensemen%[m|ceras]|
+|il|ensemen%[m|cera]|
+|nous|ensemen%[m|cerons]|
+|vous|ensemen%[m|cerez]|
+|ils|ensemen%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ensemen%[m|cé]|
+|tu|auras|ensemen%[m|cé]|
+|il|aura|ensemen%[m|cé]|
+|nous|aurons|ensemen%[m|cé]|
+|vous|aurez|ensemen%[m|cé]|
+|ils|auront|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ensemen%[m|cerais]|
+|tu|ensemen%[m|cerais]|
+|il|ensemen%[m|cerait]|
+|nous|ensemen%[m|cerions]|
+|vous|ensemen%[m|ceriez]|
+|ils|ensemen%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ensemen%[m|cé]|
+|tu|aurais|ensemen%[m|cé]|
+|il|aurait|ensemen%[m|cé]|
+|nous|aurions|ensemen%[m|cé]|
+|vous|auriez|ensemen%[m|cé]|
+|ils|auraient|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ensemen%[m|ce]|
+|que|tu|ensemen%[m|ces]|
+|qu'|il|ensemen%[m|ce]|
+|que|nous|ensemen%[m|cions]|
+|que|vous|ensemen%[m|ciez]|
+|qu'|ils|ensemen%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ensemen%[m|cé]|
+|que|tu|aies|ensemen%[m|cé]|
+|qu'|il|ait|ensemen%[m|cé]|
+|que|nous|ayons|ensemen%[m|cé]|
+|que|vous|ayez|ensemen%[m|cé]|
+|qu'|ils|aient|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ensemen%[m|çasse]|
+|que|tu|ensemen%[m|çasses]|
+|qu'|il|ensemen%[m|çât]|
+|que|nous|ensemen%[m|çassions]|
+|que|vous|ensemen%[m|çassiez]|
+|qu'|ils|ensemen%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ensemen%[m|cé]|
+|que|tu|eusses|ensemen%[m|cé]|
+|qu'|il|eût|ensemen%[m|cé]|
+|que|nous|eussions|ensemen%[m|cé]|
+|que|vous|eussiez|ensemen%[m|cé]|
+|qu'|ils|eussent|ensemen%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ensemen%[m|ce]|
+|ensemen%[m|çons]|
+|ensemen%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ensemen%[m|cé]|
+|ayons|ensemen%[m|cé]|
+|ayez|ensemen%[m|cé]|
+|]
+

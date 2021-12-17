@@ -1,0 +1,190 @@
+# morfaler %[clVerbGroup|1]
+[-
+manger beaucoup, goulûment. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|morfal%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|morfal%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|morfal%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||morfal%[m|é]|
+|ayant|morfal%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en morfal%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|morfal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|morfal%[m|e]|
+|tu|morfal%[m|es]|
+|il|morfal%[m|e]|
+|nous|morfal%[m|ons]|
+|vous|morfal%[m|ez]|
+|ils|morfal%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|morfal%[m|é]|
+|tu|as |morfal%[m|é]|
+|il|a|morfal%[m|é]|
+|nous|avons|morfal%[m|é]|
+|vous|avez|morfal%[m|é]|
+|ils|ont|morfal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|morfal%[m|ais]|
+|tu|morfal%[m|ais]|
+|il|morfal%[m|ait]|
+|nous|morfal%[m|ions]|
+|vous|morfal%[m|iez]|
+|ils|morfal%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|morfal%[m|é]|
+|tu|avais|morfal%[m|é]|
+|il|avait|morfal%[m|é]|
+|nous|avions|morfal%[m|é]|
+|vous|aviez|morfal%[m|é]|
+|ils|avaient|morfal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|morfal%[m|ai]|
+|tu|morfal%[m|as]|
+|il|morfal%[m|a]|
+|nous|morfal%[m|âmes]|
+|vous|morfal%[m|âtes]|
+|ils|morfal%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|morfal%[m|é]|
+|tu|eus|morfal%[m|é]|
+|il|eut|morfal%[m|é]|
+|nous|e&ucirc;mes|morfal%[m|é]|
+|vous|e&ucirc;tes|morfal%[m|é]|
+|ils|eurent|morfal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|morfal%[m|erai]|
+|tu|morfal%[m|eras]|
+|il|morfal%[m|era]|
+|nous|morfal%[m|erons]|
+|vous|morfal%[m|erez]|
+|ils|morfal%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|morfal%[m|é]|
+|tu|auras|morfal%[m|é]|
+|il|aura|morfal%[m|é]|
+|nous|aurons|morfal%[m|é]|
+|vous|aurez|morfal%[m|é]|
+|ils|auront|morfal%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|morfal%[m|erais]|
+|tu|morfal%[m|erais]|
+|il|morfal%[m|erait]|
+|nous|morfal%[m|erions]|
+|vous|morfal%[m|eriez]|
+|ils|morfal%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|morfal%[m|é]|
+|tu|aurais|morfal%[m|é]|
+|il|aurait|morfal%[m|é]|
+|nous|aurions|morfal%[m|é]|
+|vous|auriez|morfal%[m|é]|
+|ils|auraient|morfal%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|morfal%[m|e]|
+|que|tu|morfal%[m|es]|
+|qu'|il|morfal%[m|e]|
+|que|nous|morfal%[m|ions]|
+|que|vous|morfal%[m|iez]|
+|qu'|ils|morfal%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|morfal%[m|é]|
+|que|tu|aies|morfal%[m|é]|
+|qu'|il|ait|morfal%[m|é]|
+|que|nous|ayons|morfal%[m|é]|
+|que|vous|ayez|morfal%[m|é]|
+|qu'|ils|aient|morfal%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|morfal%[m|asse]|
+|que|tu|morfal%[m|asses]|
+|qu'|il|morfal%[m|ât]|
+|que|nous|morfal%[m|assions]|
+|que|vous|morfal%[m|assiez]|
+|qu'|ils|morfal%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|morfal%[m|é]|
+|que|tu|eusses|morfal%[m|é]|
+|qu'|il|eût|morfal%[m|é]|
+|que|nous|eussions|morfal%[m|é]|
+|que|vous|eussiez|morfal%[m|é]|
+|qu'|ils|eussent|morfal%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|morfal%[m|e]|
+|morfal%[m|ons]|
+|morfal%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|morfal%[m|é]|
+|ayons|morfal%[m|é]|
+|ayez|morfal%[m|é]|
+|]
+

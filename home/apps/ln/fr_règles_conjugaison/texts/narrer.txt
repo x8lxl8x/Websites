@@ -1,0 +1,190 @@
+# narrer %[clVerbGroup|1]
+[-
+raconter, exposer des faits. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|narr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|narr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|narr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||narr%[m|é]|
+|ayant|narr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en narr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|narr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|narr%[m|e]|
+|tu|narr%[m|es]|
+|il|narr%[m|e]|
+|nous|narr%[m|ons]|
+|vous|narr%[m|ez]|
+|ils|narr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|narr%[m|é]|
+|tu|as |narr%[m|é]|
+|il|a|narr%[m|é]|
+|nous|avons|narr%[m|é]|
+|vous|avez|narr%[m|é]|
+|ils|ont|narr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|narr%[m|ais]|
+|tu|narr%[m|ais]|
+|il|narr%[m|ait]|
+|nous|narr%[m|ions]|
+|vous|narr%[m|iez]|
+|ils|narr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|narr%[m|é]|
+|tu|avais|narr%[m|é]|
+|il|avait|narr%[m|é]|
+|nous|avions|narr%[m|é]|
+|vous|aviez|narr%[m|é]|
+|ils|avaient|narr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|narr%[m|ai]|
+|tu|narr%[m|as]|
+|il|narr%[m|a]|
+|nous|narr%[m|âmes]|
+|vous|narr%[m|âtes]|
+|ils|narr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|narr%[m|é]|
+|tu|eus|narr%[m|é]|
+|il|eut|narr%[m|é]|
+|nous|e&ucirc;mes|narr%[m|é]|
+|vous|e&ucirc;tes|narr%[m|é]|
+|ils|eurent|narr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|narr%[m|erai]|
+|tu|narr%[m|eras]|
+|il|narr%[m|era]|
+|nous|narr%[m|erons]|
+|vous|narr%[m|erez]|
+|ils|narr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|narr%[m|é]|
+|tu|auras|narr%[m|é]|
+|il|aura|narr%[m|é]|
+|nous|aurons|narr%[m|é]|
+|vous|aurez|narr%[m|é]|
+|ils|auront|narr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|narr%[m|erais]|
+|tu|narr%[m|erais]|
+|il|narr%[m|erait]|
+|nous|narr%[m|erions]|
+|vous|narr%[m|eriez]|
+|ils|narr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|narr%[m|é]|
+|tu|aurais|narr%[m|é]|
+|il|aurait|narr%[m|é]|
+|nous|aurions|narr%[m|é]|
+|vous|auriez|narr%[m|é]|
+|ils|auraient|narr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|narr%[m|e]|
+|que|tu|narr%[m|es]|
+|qu'|il|narr%[m|e]|
+|que|nous|narr%[m|ions]|
+|que|vous|narr%[m|iez]|
+|qu'|ils|narr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|narr%[m|é]|
+|que|tu|aies|narr%[m|é]|
+|qu'|il|ait|narr%[m|é]|
+|que|nous|ayons|narr%[m|é]|
+|que|vous|ayez|narr%[m|é]|
+|qu'|ils|aient|narr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|narr%[m|asse]|
+|que|tu|narr%[m|asses]|
+|qu'|il|narr%[m|ât]|
+|que|nous|narr%[m|assions]|
+|que|vous|narr%[m|assiez]|
+|qu'|ils|narr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|narr%[m|é]|
+|que|tu|eusses|narr%[m|é]|
+|qu'|il|eût|narr%[m|é]|
+|que|nous|eussions|narr%[m|é]|
+|que|vous|eussiez|narr%[m|é]|
+|qu'|ils|eussent|narr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|narr%[m|e]|
+|narr%[m|ons]|
+|narr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|narr%[m|é]|
+|ayons|narr%[m|é]|
+|ayez|narr%[m|é]|
+|]
+

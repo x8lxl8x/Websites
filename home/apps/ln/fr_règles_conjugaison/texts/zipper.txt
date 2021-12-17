@@ -1,0 +1,190 @@
+# zipper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|zipp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|zipp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|zipp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||zipp%[m|é]|
+|ayant|zipp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en zipp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|zipp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|zipp%[m|e]|
+|tu|zipp%[m|es]|
+|il|zipp%[m|e]|
+|nous|zipp%[m|ons]|
+|vous|zipp%[m|ez]|
+|ils|zipp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|zipp%[m|é]|
+|tu|as |zipp%[m|é]|
+|il|a|zipp%[m|é]|
+|nous|avons|zipp%[m|é]|
+|vous|avez|zipp%[m|é]|
+|ils|ont|zipp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|zipp%[m|ais]|
+|tu|zipp%[m|ais]|
+|il|zipp%[m|ait]|
+|nous|zipp%[m|ions]|
+|vous|zipp%[m|iez]|
+|ils|zipp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|zipp%[m|é]|
+|tu|avais|zipp%[m|é]|
+|il|avait|zipp%[m|é]|
+|nous|avions|zipp%[m|é]|
+|vous|aviez|zipp%[m|é]|
+|ils|avaient|zipp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|zipp%[m|ai]|
+|tu|zipp%[m|as]|
+|il|zipp%[m|a]|
+|nous|zipp%[m|âmes]|
+|vous|zipp%[m|âtes]|
+|ils|zipp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|zipp%[m|é]|
+|tu|eus|zipp%[m|é]|
+|il|eut|zipp%[m|é]|
+|nous|e&ucirc;mes|zipp%[m|é]|
+|vous|e&ucirc;tes|zipp%[m|é]|
+|ils|eurent|zipp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|zipp%[m|erai]|
+|tu|zipp%[m|eras]|
+|il|zipp%[m|era]|
+|nous|zipp%[m|erons]|
+|vous|zipp%[m|erez]|
+|ils|zipp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|zipp%[m|é]|
+|tu|auras|zipp%[m|é]|
+|il|aura|zipp%[m|é]|
+|nous|aurons|zipp%[m|é]|
+|vous|aurez|zipp%[m|é]|
+|ils|auront|zipp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|zipp%[m|erais]|
+|tu|zipp%[m|erais]|
+|il|zipp%[m|erait]|
+|nous|zipp%[m|erions]|
+|vous|zipp%[m|eriez]|
+|ils|zipp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|zipp%[m|é]|
+|tu|aurais|zipp%[m|é]|
+|il|aurait|zipp%[m|é]|
+|nous|aurions|zipp%[m|é]|
+|vous|auriez|zipp%[m|é]|
+|ils|auraient|zipp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|zipp%[m|e]|
+|que|tu|zipp%[m|es]|
+|qu'|il|zipp%[m|e]|
+|que|nous|zipp%[m|ions]|
+|que|vous|zipp%[m|iez]|
+|qu'|ils|zipp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|zipp%[m|é]|
+|que|tu|aies|zipp%[m|é]|
+|qu'|il|ait|zipp%[m|é]|
+|que|nous|ayons|zipp%[m|é]|
+|que|vous|ayez|zipp%[m|é]|
+|qu'|ils|aient|zipp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|zipp%[m|asse]|
+|que|tu|zipp%[m|asses]|
+|qu'|il|zipp%[m|ât]|
+|que|nous|zipp%[m|assions]|
+|que|vous|zipp%[m|assiez]|
+|qu'|ils|zipp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|zipp%[m|é]|
+|que|tu|eusses|zipp%[m|é]|
+|qu'|il|eût|zipp%[m|é]|
+|que|nous|eussions|zipp%[m|é]|
+|que|vous|eussiez|zipp%[m|é]|
+|qu'|ils|eussent|zipp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|zipp%[m|e]|
+|zipp%[m|ons]|
+|zipp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|zipp%[m|é]|
+|ayons|zipp%[m|é]|
+|ayez|zipp%[m|é]|
+|]
+

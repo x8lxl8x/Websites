@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Financial Dictionary</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='javascript:history.back()'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<h1>Binomial Option Pricing Model</h1>
+
+<p>An options valuation method developed by Cox, et al, in 1979.  The binomial option pricing model uses an iterative procedure, allowing for the specification of nodes, or points in time, during the time span between the valuation date and the option's expiration date.</p>
+
+<p>The model  reduces possibilities of price changes, removes the possibility for arbitrage, assumes a perfectly efficient market, and shortens the duration of the option. Under these simplifications, it is able to provide a mathematical valuation of the option at each point in time specified.</p>
+
+<p>The binomial model takes a risk-neutral approach to valuation. It assumes that underlying security prices can only either increase or decrease with time until the option expires worthless. A simplified example of a binomial tree might look something like this:</p>
+
+<a href='../images/optvalue_0606.gif'><img class='clImageThumb' src='../images/optvalue_0606.gif'></a>
+
+<p>Due to its simple and iterative structure, the model presents certain unique advantages. For example, since it provides a stream of valuations for a derivative for each node in a span of time, it is useful for valuing derivatives such as American options which allow the owner to exercise the option at any point in time until expiration (unlike European options which are exercisable only at expiration). The model is also somewhat simple mathematically when compared to counterparts such as the Black-Scholes model, and is therefore relatively easy to build and implement with a computer spreadsheet.</p>
+</div>
+</div>
+</body>
+</html>

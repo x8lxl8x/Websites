@@ -1,0 +1,190 @@
+# délinéer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|déliné%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déliné%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|déliné%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déliné%[m|é]|
+|ayant|déliné%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en déliné%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déliné%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|déliné%[m|e]|
+|tu|déliné%[m|es]|
+|il|déliné%[m|e]|
+|nous|déliné%[m|ons]|
+|vous|déliné%[m|ez]|
+|ils|déliné%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déliné%[m|é]|
+|tu|as |déliné%[m|é]|
+|il|a|déliné%[m|é]|
+|nous|avons|déliné%[m|é]|
+|vous|avez|déliné%[m|é]|
+|ils|ont|déliné%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|déliné%[m|ais]|
+|tu|déliné%[m|ais]|
+|il|déliné%[m|ait]|
+|nous|déliné%[m|ions]|
+|vous|déliné%[m|iez]|
+|ils|déliné%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déliné%[m|é]|
+|tu|avais|déliné%[m|é]|
+|il|avait|déliné%[m|é]|
+|nous|avions|déliné%[m|é]|
+|vous|aviez|déliné%[m|é]|
+|ils|avaient|déliné%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|déliné%[m|ai]|
+|tu|déliné%[m|as]|
+|il|déliné%[m|a]|
+|nous|déliné%[m|âmes]|
+|vous|déliné%[m|âtes]|
+|ils|déliné%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déliné%[m|é]|
+|tu|eus|déliné%[m|é]|
+|il|eut|déliné%[m|é]|
+|nous|e&ucirc;mes|déliné%[m|é]|
+|vous|e&ucirc;tes|déliné%[m|é]|
+|ils|eurent|déliné%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|déliné%[m|erai]|
+|tu|déliné%[m|eras]|
+|il|déliné%[m|era]|
+|nous|déliné%[m|erons]|
+|vous|déliné%[m|erez]|
+|ils|déliné%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déliné%[m|é]|
+|tu|auras|déliné%[m|é]|
+|il|aura|déliné%[m|é]|
+|nous|aurons|déliné%[m|é]|
+|vous|aurez|déliné%[m|é]|
+|ils|auront|déliné%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|déliné%[m|erais]|
+|tu|déliné%[m|erais]|
+|il|déliné%[m|erait]|
+|nous|déliné%[m|erions]|
+|vous|déliné%[m|eriez]|
+|ils|déliné%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déliné%[m|é]|
+|tu|aurais|déliné%[m|é]|
+|il|aurait|déliné%[m|é]|
+|nous|aurions|déliné%[m|é]|
+|vous|auriez|déliné%[m|é]|
+|ils|auraient|déliné%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|déliné%[m|e]|
+|que|tu|déliné%[m|es]|
+|qu'|il|déliné%[m|e]|
+|que|nous|déliné%[m|ions]|
+|que|vous|déliné%[m|iez]|
+|qu'|ils|déliné%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déliné%[m|é]|
+|que|tu|aies|déliné%[m|é]|
+|qu'|il|ait|déliné%[m|é]|
+|que|nous|ayons|déliné%[m|é]|
+|que|vous|ayez|déliné%[m|é]|
+|qu'|ils|aient|déliné%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|déliné%[m|asse]|
+|que|tu|déliné%[m|asses]|
+|qu'|il|déliné%[m|ât]|
+|que|nous|déliné%[m|assions]|
+|que|vous|déliné%[m|assiez]|
+|qu'|ils|déliné%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déliné%[m|é]|
+|que|tu|eusses|déliné%[m|é]|
+|qu'|il|eût|déliné%[m|é]|
+|que|nous|eussions|déliné%[m|é]|
+|que|vous|eussiez|déliné%[m|é]|
+|qu'|ils|eussent|déliné%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déliné%[m|e]|
+|déliné%[m|ons]|
+|déliné%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déliné%[m|é]|
+|ayons|déliné%[m|é]|
+|ayez|déliné%[m|é]|
+|]
+

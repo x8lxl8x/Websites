@@ -1,0 +1,190 @@
+# enceinter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|enceint%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|enceint%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|enceint%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||enceint%[m|é]|
+|ayant|enceint%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en enceint%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|enceint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|enceint%[m|e]|
+|tu|enceint%[m|es]|
+|il|enceint%[m|e]|
+|nous|enceint%[m|ons]|
+|vous|enceint%[m|ez]|
+|ils|enceint%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|enceint%[m|é]|
+|tu|as |enceint%[m|é]|
+|il|a|enceint%[m|é]|
+|nous|avons|enceint%[m|é]|
+|vous|avez|enceint%[m|é]|
+|ils|ont|enceint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|enceint%[m|ais]|
+|tu|enceint%[m|ais]|
+|il|enceint%[m|ait]|
+|nous|enceint%[m|ions]|
+|vous|enceint%[m|iez]|
+|ils|enceint%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|enceint%[m|é]|
+|tu|avais|enceint%[m|é]|
+|il|avait|enceint%[m|é]|
+|nous|avions|enceint%[m|é]|
+|vous|aviez|enceint%[m|é]|
+|ils|avaient|enceint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|enceint%[m|ai]|
+|tu|enceint%[m|as]|
+|il|enceint%[m|a]|
+|nous|enceint%[m|âmes]|
+|vous|enceint%[m|âtes]|
+|ils|enceint%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|enceint%[m|é]|
+|tu|eus|enceint%[m|é]|
+|il|eut|enceint%[m|é]|
+|nous|e&ucirc;mes|enceint%[m|é]|
+|vous|e&ucirc;tes|enceint%[m|é]|
+|ils|eurent|enceint%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|enceint%[m|erai]|
+|tu|enceint%[m|eras]|
+|il|enceint%[m|era]|
+|nous|enceint%[m|erons]|
+|vous|enceint%[m|erez]|
+|ils|enceint%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|enceint%[m|é]|
+|tu|auras|enceint%[m|é]|
+|il|aura|enceint%[m|é]|
+|nous|aurons|enceint%[m|é]|
+|vous|aurez|enceint%[m|é]|
+|ils|auront|enceint%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|enceint%[m|erais]|
+|tu|enceint%[m|erais]|
+|il|enceint%[m|erait]|
+|nous|enceint%[m|erions]|
+|vous|enceint%[m|eriez]|
+|ils|enceint%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|enceint%[m|é]|
+|tu|aurais|enceint%[m|é]|
+|il|aurait|enceint%[m|é]|
+|nous|aurions|enceint%[m|é]|
+|vous|auriez|enceint%[m|é]|
+|ils|auraient|enceint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|enceint%[m|e]|
+|que|tu|enceint%[m|es]|
+|qu'|il|enceint%[m|e]|
+|que|nous|enceint%[m|ions]|
+|que|vous|enceint%[m|iez]|
+|qu'|ils|enceint%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|enceint%[m|é]|
+|que|tu|aies|enceint%[m|é]|
+|qu'|il|ait|enceint%[m|é]|
+|que|nous|ayons|enceint%[m|é]|
+|que|vous|ayez|enceint%[m|é]|
+|qu'|ils|aient|enceint%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|enceint%[m|asse]|
+|que|tu|enceint%[m|asses]|
+|qu'|il|enceint%[m|ât]|
+|que|nous|enceint%[m|assions]|
+|que|vous|enceint%[m|assiez]|
+|qu'|ils|enceint%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|enceint%[m|é]|
+|que|tu|eusses|enceint%[m|é]|
+|qu'|il|eût|enceint%[m|é]|
+|que|nous|eussions|enceint%[m|é]|
+|que|vous|eussiez|enceint%[m|é]|
+|qu'|ils|eussent|enceint%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enceint%[m|e]|
+|enceint%[m|ons]|
+|enceint%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|enceint%[m|é]|
+|ayons|enceint%[m|é]|
+|ayez|enceint%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# s'emboîter %[clVerbGroup|1]
+[-
+assembler des choses l'une dans l'autre en les ajustant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'emboît%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|emboît%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'emboît%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|emboît%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'emboît%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|emboît%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|emboît%[m|e]|
+|tu|t'|emboît%[m|es]|
+|il|s'|emboît%[m|e]|
+|nous|nous|emboît%[m|ons]|
+|vous|vous|emboît%[m|ez]|
+|ils|s'|emboît%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|emboît%[m|é]|
+|tu|t'|es|emboît%[m|é]|
+|il|s'|est|emboît%[m|é]|
+|nous|nous|sommes|emboît%[m|és]|
+|vous|vous|êtes|emboît%[m|és]|
+|ils|se|sont|emboît%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|emboît%[m|ais]|
+|tu|t'|emboît%[m|ais]|
+|il|s'|emboît%[m|ait]|
+|nous|nous|emboît%[m|ions]|
+|vous|vous|emboît%[m|iez]|
+|ils|s'|emboît%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|emboît%[m|é]|
+|tu|t'|étais|emboît%[m|é]|
+|il|s'|était|emboît%[m|é]|
+|nous|nous|étions|emboît%[m|és]|
+|vous|vous|étiez|emboît%[m|és]|
+|ils|s'|étaient|emboît%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|emboît%[m|ai]|
+|tu|t'|emboît%[m|as]|
+|il|s'|emboît%[m|a]|
+|nous|nous|emboît%[m|âmes]|
+|vous|vous|emboît%[m|âtes]|
+|ils|s'|emboît%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|emboît%[m|é]|
+|tu|te|fus|emboît%[m|é]|
+|il|se|fut|emboît%[m|é]|
+|nous|nous|fûmes|emboît%[m|és]|
+|vous|vous|fûtes|emboît%[m|és]|
+|ils|se|furent|emboît%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|emboît%[m|erai]|
+|tu|t'|emboît%[m|eras]|
+|il|s'|emboît%[m|era]|
+|nous|nous|emboît%[m|erons]|
+|vous|vous|emboît%[m|erez]|
+|ils|s'|emboît%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|emboît%[m|é]|
+|tu|te|seras|emboît%[m|é]|
+|il|se|sera|emboît%[m|é]|
+|nous|nous|serons|emboît%[m|és]|
+|vous|vous|serez|emboît%[m|és]|
+|ils|se|seront|emboît%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|emboît%[m|erais]|
+|tu|t'|emboît%[m|erais]|
+|il|s'|emboît%[m|erait]|
+|nous|nous|emboît%[m|erions]|
+|vous|vous|emboît%[m|eriez]|
+|ils|s'|emboît%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|emboît%[m|é]|
+|tu|te|serais|emboît%[m|é]|
+|il|se|serait|emboît%[m|é]|
+|nous|nous|serions|emboît%[m|és]|
+|vous|vous|seriez|emboît%[m|és]|
+|ils|se|seraient|emboît%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|emboît%[m|e]|
+|que|tu|t'|emboît%[m|es]|
+|qu'|il|s'|emboît%[m|e]|
+|que|nous|nous|emboît%[m|ions]|
+|que|vous|vous|emboît%[m|iez]|
+|qu'|ils|s'|emboît%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|emboît%[m|é]|
+|que|tu|te|sois|emboît%[m|é]|
+|qu'|il|se|soit|emboît%[m|é]|
+|que|nous|nous|soyons|emboît%[m|és]|
+|que|vous|vous|soyez|emboît%[m|és]|
+|qu'|ils|se|soient|emboît%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|emboît%[m|asse]|
+|que|tu|t'|emboît%[m|asses]|
+|qu'|il|s'|emboît%[m|ât]|
+|que|nous|nous|emboît%[m|assions]|
+|que|vous|vous|emboît%[m|assiez]|
+|qu'|ils|s'|emboît%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|emboît%[m|é]|
+|que|tu|te|fusses|emboît%[m|é]|
+|qu'|il|se|fût|emboît%[m|é]|
+|que|nous|nous|fussions|emboît%[m|és]|
+|que|vous|vous|fussiez|emboît%[m|és]|
+|qu'|ils|se|fussent|emboît%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emboît%[m|e]-toi|
+|emboît%[m|ons]-nous|
+|emboît%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

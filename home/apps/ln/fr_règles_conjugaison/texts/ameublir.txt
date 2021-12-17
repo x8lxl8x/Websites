@@ -1,0 +1,190 @@
+# ameublir %[clVerbGroup|2]
+[-
+rendre meuble un sol. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ameubl%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ameubl%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ameubl%[m|i]|
+|ayant|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ameubl%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ameubl%[m|is]|
+|tu|ameubl%[m|is]|
+|il|ameubl%[m|it]|
+|nous|ameubl%[m|issons]|
+|vous|ameubl%[m|issez]|
+|ils|ameubl%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ameubl%[m|i]|
+|tu|as |ameubl%[m|i]|
+|il|a|ameubl%[m|i]|
+|nous|avons|ameubl%[m|i]|
+|vous|avez|ameubl%[m|i]|
+|ils|ont|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ameubl%[m|issais]|
+|tu|ameubl%[m|issais]|
+|il|ameubl%[m|issait]|
+|nous|ameubl%[m|issions]|
+|vous|ameubl%[m|issiez]|
+|ils|ameubl%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ameubl%[m|i]|
+|tu|avais|ameubl%[m|i]|
+|il|avait|ameubl%[m|i]|
+|nous|avions|ameubl%[m|i]|
+|vous|aviez|ameubl%[m|i]|
+|ils|avaient|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ameubl%[m|is]|
+|tu|ameubl%[m|is]|
+|il|ameubl%[m|it]|
+|nous|ameubl%[m|îmes]|
+|vous|ameubl%[m|îtes]|
+|ils|ameubl%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ameubl%[m|i]|
+|tu|eus|ameubl%[m|i]|
+|il|eut|ameubl%[m|i]|
+|nous|e&ucirc;mes|ameubl%[m|i]|
+|vous|e&ucirc;tes|ameubl%[m|i]|
+|ils|eurent|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ameubl%[m|irai]|
+|tu|ameubl%[m|iras]|
+|il|ameubl%[m|ira]|
+|nous|ameubl%[m|irons]|
+|vous|ameubl%[m|irez]|
+|ils|ameubl%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ameubl%[m|i]|
+|tu|auras|ameubl%[m|i]|
+|il|aura|ameubl%[m|i]|
+|nous|aurons|ameubl%[m|i]|
+|vous|aurez|ameubl%[m|i]|
+|ils|auront|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ameubl%[m|irais]|
+|tu|ameubl%[m|irais]|
+|il|ameubl%[m|irait]|
+|nous|ameubl%[m|irions]|
+|vous|ameubl%[m|iriez]|
+|ils|ameubl%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ameubl%[m|i]|
+|tu|aurais|ameubl%[m|i]|
+|il|aurait|ameubl%[m|i]|
+|nous|aurions|ameubl%[m|i]|
+|vous|auriez|ameubl%[m|i]|
+|ils|auraient|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ameubl%[m|isse]|
+|que|tu|ameubl%[m|isses]|
+|qu'|il|ameubl%[m|isse]|
+|que|nous|ameubl%[m|issions]|
+|que|vous|ameubl%[m|issiez]|
+|qu'|ils|ameubl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ameubl%[m|i]|
+|que|tu|aies|ameubl%[m|i]|
+|qu'|il|ait|ameubl%[m|i]|
+|que|nous|ayons|ameubl%[m|i]|
+|que|vous|ayez|ameubl%[m|i]|
+|qu'|ils|aient|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ameubl%[m|isse]|
+|que|tu|ameubl%[m|isses]|
+|qu'|il|ameubl%[m|ît]|
+|que|nous|ameubl%[m|issions]|
+|que|vous|ameubl%[m|issiez]|
+|qu'|ils|ameubl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ameubl%[m|i]|
+|que|tu|eusses|ameubl%[m|i]|
+|qu'|il|eût|ameubl%[m|i]|
+|que|nous|eussions|ameubl%[m|i]|
+|que|vous|eussiez|ameubl%[m|i]|
+|qu'|ils|eussent|ameubl%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ameubl%[m|is]|
+|ameubl%[m|issons]|
+|ameubl%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ameubl%[m|i]|
+|ayons|ameubl%[m|i]|
+|ayez|ameubl%[m|i]|
+|]
+

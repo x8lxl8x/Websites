@@ -1,0 +1,190 @@
+# poiroter %[clVerbGroup|1]
+[-
+attendre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|poirot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|poirot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|poirot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||poirot%[m|é]|
+|ayant|poirot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en poirot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|poirot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|poirot%[m|e]|
+|tu|poirot%[m|es]|
+|il|poirot%[m|e]|
+|nous|poirot%[m|ons]|
+|vous|poirot%[m|ez]|
+|ils|poirot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|poirot%[m|é]|
+|tu|as |poirot%[m|é]|
+|il|a|poirot%[m|é]|
+|nous|avons|poirot%[m|é]|
+|vous|avez|poirot%[m|é]|
+|ils|ont|poirot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|poirot%[m|ais]|
+|tu|poirot%[m|ais]|
+|il|poirot%[m|ait]|
+|nous|poirot%[m|ions]|
+|vous|poirot%[m|iez]|
+|ils|poirot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|poirot%[m|é]|
+|tu|avais|poirot%[m|é]|
+|il|avait|poirot%[m|é]|
+|nous|avions|poirot%[m|é]|
+|vous|aviez|poirot%[m|é]|
+|ils|avaient|poirot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|poirot%[m|ai]|
+|tu|poirot%[m|as]|
+|il|poirot%[m|a]|
+|nous|poirot%[m|âmes]|
+|vous|poirot%[m|âtes]|
+|ils|poirot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|poirot%[m|é]|
+|tu|eus|poirot%[m|é]|
+|il|eut|poirot%[m|é]|
+|nous|e&ucirc;mes|poirot%[m|é]|
+|vous|e&ucirc;tes|poirot%[m|é]|
+|ils|eurent|poirot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|poirot%[m|erai]|
+|tu|poirot%[m|eras]|
+|il|poirot%[m|era]|
+|nous|poirot%[m|erons]|
+|vous|poirot%[m|erez]|
+|ils|poirot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|poirot%[m|é]|
+|tu|auras|poirot%[m|é]|
+|il|aura|poirot%[m|é]|
+|nous|aurons|poirot%[m|é]|
+|vous|aurez|poirot%[m|é]|
+|ils|auront|poirot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|poirot%[m|erais]|
+|tu|poirot%[m|erais]|
+|il|poirot%[m|erait]|
+|nous|poirot%[m|erions]|
+|vous|poirot%[m|eriez]|
+|ils|poirot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|poirot%[m|é]|
+|tu|aurais|poirot%[m|é]|
+|il|aurait|poirot%[m|é]|
+|nous|aurions|poirot%[m|é]|
+|vous|auriez|poirot%[m|é]|
+|ils|auraient|poirot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|poirot%[m|e]|
+|que|tu|poirot%[m|es]|
+|qu'|il|poirot%[m|e]|
+|que|nous|poirot%[m|ions]|
+|que|vous|poirot%[m|iez]|
+|qu'|ils|poirot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|poirot%[m|é]|
+|que|tu|aies|poirot%[m|é]|
+|qu'|il|ait|poirot%[m|é]|
+|que|nous|ayons|poirot%[m|é]|
+|que|vous|ayez|poirot%[m|é]|
+|qu'|ils|aient|poirot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|poirot%[m|asse]|
+|que|tu|poirot%[m|asses]|
+|qu'|il|poirot%[m|ât]|
+|que|nous|poirot%[m|assions]|
+|que|vous|poirot%[m|assiez]|
+|qu'|ils|poirot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|poirot%[m|é]|
+|que|tu|eusses|poirot%[m|é]|
+|qu'|il|eût|poirot%[m|é]|
+|que|nous|eussions|poirot%[m|é]|
+|que|vous|eussiez|poirot%[m|é]|
+|qu'|ils|eussent|poirot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|poirot%[m|e]|
+|poirot%[m|ons]|
+|poirot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|poirot%[m|é]|
+|ayons|poirot%[m|é]|
+|ayez|poirot%[m|é]|
+|]
+

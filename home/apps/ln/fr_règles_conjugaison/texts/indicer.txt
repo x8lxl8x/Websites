@@ -1,0 +1,190 @@
+# indicer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|indi%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|indi%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|indi%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||indi%[m|cé]|
+|ayant|indi%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en indi%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|indi%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|indi%[m|ce]|
+|tu|indi%[m|ces]|
+|il|indi%[m|ce]|
+|nous|indi%[m|çons]|
+|vous|indi%[m|cez]|
+|ils|indi%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|indi%[m|cé]|
+|tu|as |indi%[m|cé]|
+|il|a|indi%[m|cé]|
+|nous|avons|indi%[m|cé]|
+|vous|avez|indi%[m|cé]|
+|ils|ont|indi%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|indi%[m|çais]|
+|tu|indi%[m|çais]|
+|il|indi%[m|çait]|
+|nous|indi%[m|cions]|
+|vous|indi%[m|ciez]|
+|ils|indi%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|indi%[m|cé]|
+|tu|avais|indi%[m|cé]|
+|il|avait|indi%[m|cé]|
+|nous|avions|indi%[m|cé]|
+|vous|aviez|indi%[m|cé]|
+|ils|avaient|indi%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|indi%[m|çai]|
+|tu|indi%[m|ças]|
+|il|indi%[m|ça]|
+|nous|indi%[m|çâmes]|
+|vous|indi%[m|çâtes]|
+|ils|indi%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|indi%[m|cé]|
+|tu|eus|indi%[m|cé]|
+|il|eut|indi%[m|cé]|
+|nous|e&ucirc;mes|indi%[m|cé]|
+|vous|e&ucirc;tes|indi%[m|cé]|
+|ils|eurent|indi%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|indi%[m|cerai]|
+|tu|indi%[m|ceras]|
+|il|indi%[m|cera]|
+|nous|indi%[m|cerons]|
+|vous|indi%[m|cerez]|
+|ils|indi%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|indi%[m|cé]|
+|tu|auras|indi%[m|cé]|
+|il|aura|indi%[m|cé]|
+|nous|aurons|indi%[m|cé]|
+|vous|aurez|indi%[m|cé]|
+|ils|auront|indi%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|indi%[m|cerais]|
+|tu|indi%[m|cerais]|
+|il|indi%[m|cerait]|
+|nous|indi%[m|cerions]|
+|vous|indi%[m|ceriez]|
+|ils|indi%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|indi%[m|cé]|
+|tu|aurais|indi%[m|cé]|
+|il|aurait|indi%[m|cé]|
+|nous|aurions|indi%[m|cé]|
+|vous|auriez|indi%[m|cé]|
+|ils|auraient|indi%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|indi%[m|ce]|
+|que|tu|indi%[m|ces]|
+|qu'|il|indi%[m|ce]|
+|que|nous|indi%[m|cions]|
+|que|vous|indi%[m|ciez]|
+|qu'|ils|indi%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|indi%[m|cé]|
+|que|tu|aies|indi%[m|cé]|
+|qu'|il|ait|indi%[m|cé]|
+|que|nous|ayons|indi%[m|cé]|
+|que|vous|ayez|indi%[m|cé]|
+|qu'|ils|aient|indi%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|indi%[m|çasse]|
+|que|tu|indi%[m|çasses]|
+|qu'|il|indi%[m|çât]|
+|que|nous|indi%[m|çassions]|
+|que|vous|indi%[m|çassiez]|
+|qu'|ils|indi%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|indi%[m|cé]|
+|que|tu|eusses|indi%[m|cé]|
+|qu'|il|eût|indi%[m|cé]|
+|que|nous|eussions|indi%[m|cé]|
+|que|vous|eussiez|indi%[m|cé]|
+|qu'|ils|eussent|indi%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|indi%[m|ce]|
+|indi%[m|çons]|
+|indi%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|indi%[m|cé]|
+|ayons|indi%[m|cé]|
+|ayez|indi%[m|cé]|
+|]
+

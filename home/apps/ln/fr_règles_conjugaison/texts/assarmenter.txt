@@ -1,0 +1,190 @@
+# assarmenter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|assarment%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|assarment%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|assarment%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||assarment%[m|é]|
+|ayant|assarment%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en assarment%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|assarment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|assarment%[m|e]|
+|tu|assarment%[m|es]|
+|il|assarment%[m|e]|
+|nous|assarment%[m|ons]|
+|vous|assarment%[m|ez]|
+|ils|assarment%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|assarment%[m|é]|
+|tu|as |assarment%[m|é]|
+|il|a|assarment%[m|é]|
+|nous|avons|assarment%[m|é]|
+|vous|avez|assarment%[m|é]|
+|ils|ont|assarment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|assarment%[m|ais]|
+|tu|assarment%[m|ais]|
+|il|assarment%[m|ait]|
+|nous|assarment%[m|ions]|
+|vous|assarment%[m|iez]|
+|ils|assarment%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|assarment%[m|é]|
+|tu|avais|assarment%[m|é]|
+|il|avait|assarment%[m|é]|
+|nous|avions|assarment%[m|é]|
+|vous|aviez|assarment%[m|é]|
+|ils|avaient|assarment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|assarment%[m|ai]|
+|tu|assarment%[m|as]|
+|il|assarment%[m|a]|
+|nous|assarment%[m|âmes]|
+|vous|assarment%[m|âtes]|
+|ils|assarment%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|assarment%[m|é]|
+|tu|eus|assarment%[m|é]|
+|il|eut|assarment%[m|é]|
+|nous|e&ucirc;mes|assarment%[m|é]|
+|vous|e&ucirc;tes|assarment%[m|é]|
+|ils|eurent|assarment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|assarment%[m|erai]|
+|tu|assarment%[m|eras]|
+|il|assarment%[m|era]|
+|nous|assarment%[m|erons]|
+|vous|assarment%[m|erez]|
+|ils|assarment%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|assarment%[m|é]|
+|tu|auras|assarment%[m|é]|
+|il|aura|assarment%[m|é]|
+|nous|aurons|assarment%[m|é]|
+|vous|aurez|assarment%[m|é]|
+|ils|auront|assarment%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|assarment%[m|erais]|
+|tu|assarment%[m|erais]|
+|il|assarment%[m|erait]|
+|nous|assarment%[m|erions]|
+|vous|assarment%[m|eriez]|
+|ils|assarment%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|assarment%[m|é]|
+|tu|aurais|assarment%[m|é]|
+|il|aurait|assarment%[m|é]|
+|nous|aurions|assarment%[m|é]|
+|vous|auriez|assarment%[m|é]|
+|ils|auraient|assarment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|assarment%[m|e]|
+|que|tu|assarment%[m|es]|
+|qu'|il|assarment%[m|e]|
+|que|nous|assarment%[m|ions]|
+|que|vous|assarment%[m|iez]|
+|qu'|ils|assarment%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|assarment%[m|é]|
+|que|tu|aies|assarment%[m|é]|
+|qu'|il|ait|assarment%[m|é]|
+|que|nous|ayons|assarment%[m|é]|
+|que|vous|ayez|assarment%[m|é]|
+|qu'|ils|aient|assarment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|assarment%[m|asse]|
+|que|tu|assarment%[m|asses]|
+|qu'|il|assarment%[m|ât]|
+|que|nous|assarment%[m|assions]|
+|que|vous|assarment%[m|assiez]|
+|qu'|ils|assarment%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|assarment%[m|é]|
+|que|tu|eusses|assarment%[m|é]|
+|qu'|il|eût|assarment%[m|é]|
+|que|nous|eussions|assarment%[m|é]|
+|que|vous|eussiez|assarment%[m|é]|
+|qu'|ils|eussent|assarment%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assarment%[m|e]|
+|assarment%[m|ons]|
+|assarment%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|assarment%[m|é]|
+|ayons|assarment%[m|é]|
+|ayez|assarment%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# crypter %[clVerbGroup|1]
+[-
+rendre incompréhensible un message par l'emploi d'un code. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|crypt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|crypt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|crypt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||crypt%[m|é]|
+|ayant|crypt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en crypt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|crypt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|crypt%[m|e]|
+|tu|crypt%[m|es]|
+|il|crypt%[m|e]|
+|nous|crypt%[m|ons]|
+|vous|crypt%[m|ez]|
+|ils|crypt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|crypt%[m|é]|
+|tu|as |crypt%[m|é]|
+|il|a|crypt%[m|é]|
+|nous|avons|crypt%[m|é]|
+|vous|avez|crypt%[m|é]|
+|ils|ont|crypt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|crypt%[m|ais]|
+|tu|crypt%[m|ais]|
+|il|crypt%[m|ait]|
+|nous|crypt%[m|ions]|
+|vous|crypt%[m|iez]|
+|ils|crypt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|crypt%[m|é]|
+|tu|avais|crypt%[m|é]|
+|il|avait|crypt%[m|é]|
+|nous|avions|crypt%[m|é]|
+|vous|aviez|crypt%[m|é]|
+|ils|avaient|crypt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|crypt%[m|ai]|
+|tu|crypt%[m|as]|
+|il|crypt%[m|a]|
+|nous|crypt%[m|âmes]|
+|vous|crypt%[m|âtes]|
+|ils|crypt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|crypt%[m|é]|
+|tu|eus|crypt%[m|é]|
+|il|eut|crypt%[m|é]|
+|nous|e&ucirc;mes|crypt%[m|é]|
+|vous|e&ucirc;tes|crypt%[m|é]|
+|ils|eurent|crypt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|crypt%[m|erai]|
+|tu|crypt%[m|eras]|
+|il|crypt%[m|era]|
+|nous|crypt%[m|erons]|
+|vous|crypt%[m|erez]|
+|ils|crypt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|crypt%[m|é]|
+|tu|auras|crypt%[m|é]|
+|il|aura|crypt%[m|é]|
+|nous|aurons|crypt%[m|é]|
+|vous|aurez|crypt%[m|é]|
+|ils|auront|crypt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|crypt%[m|erais]|
+|tu|crypt%[m|erais]|
+|il|crypt%[m|erait]|
+|nous|crypt%[m|erions]|
+|vous|crypt%[m|eriez]|
+|ils|crypt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|crypt%[m|é]|
+|tu|aurais|crypt%[m|é]|
+|il|aurait|crypt%[m|é]|
+|nous|aurions|crypt%[m|é]|
+|vous|auriez|crypt%[m|é]|
+|ils|auraient|crypt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|crypt%[m|e]|
+|que|tu|crypt%[m|es]|
+|qu'|il|crypt%[m|e]|
+|que|nous|crypt%[m|ions]|
+|que|vous|crypt%[m|iez]|
+|qu'|ils|crypt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|crypt%[m|é]|
+|que|tu|aies|crypt%[m|é]|
+|qu'|il|ait|crypt%[m|é]|
+|que|nous|ayons|crypt%[m|é]|
+|que|vous|ayez|crypt%[m|é]|
+|qu'|ils|aient|crypt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|crypt%[m|asse]|
+|que|tu|crypt%[m|asses]|
+|qu'|il|crypt%[m|ât]|
+|que|nous|crypt%[m|assions]|
+|que|vous|crypt%[m|assiez]|
+|qu'|ils|crypt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|crypt%[m|é]|
+|que|tu|eusses|crypt%[m|é]|
+|qu'|il|eût|crypt%[m|é]|
+|que|nous|eussions|crypt%[m|é]|
+|que|vous|eussiez|crypt%[m|é]|
+|qu'|ils|eussent|crypt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|crypt%[m|e]|
+|crypt%[m|ons]|
+|crypt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|crypt%[m|é]|
+|ayons|crypt%[m|é]|
+|ayez|crypt%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# lamper %[clVerbGroup|1]
+[-
+boire d'un trait. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|lamp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|lamp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|lamp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||lamp%[m|é]|
+|ayant|lamp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en lamp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|lamp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|lamp%[m|e]|
+|tu|lamp%[m|es]|
+|il|lamp%[m|e]|
+|nous|lamp%[m|ons]|
+|vous|lamp%[m|ez]|
+|ils|lamp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|lamp%[m|é]|
+|tu|as |lamp%[m|é]|
+|il|a|lamp%[m|é]|
+|nous|avons|lamp%[m|é]|
+|vous|avez|lamp%[m|é]|
+|ils|ont|lamp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|lamp%[m|ais]|
+|tu|lamp%[m|ais]|
+|il|lamp%[m|ait]|
+|nous|lamp%[m|ions]|
+|vous|lamp%[m|iez]|
+|ils|lamp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|lamp%[m|é]|
+|tu|avais|lamp%[m|é]|
+|il|avait|lamp%[m|é]|
+|nous|avions|lamp%[m|é]|
+|vous|aviez|lamp%[m|é]|
+|ils|avaient|lamp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|lamp%[m|ai]|
+|tu|lamp%[m|as]|
+|il|lamp%[m|a]|
+|nous|lamp%[m|âmes]|
+|vous|lamp%[m|âtes]|
+|ils|lamp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|lamp%[m|é]|
+|tu|eus|lamp%[m|é]|
+|il|eut|lamp%[m|é]|
+|nous|e&ucirc;mes|lamp%[m|é]|
+|vous|e&ucirc;tes|lamp%[m|é]|
+|ils|eurent|lamp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|lamp%[m|erai]|
+|tu|lamp%[m|eras]|
+|il|lamp%[m|era]|
+|nous|lamp%[m|erons]|
+|vous|lamp%[m|erez]|
+|ils|lamp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|lamp%[m|é]|
+|tu|auras|lamp%[m|é]|
+|il|aura|lamp%[m|é]|
+|nous|aurons|lamp%[m|é]|
+|vous|aurez|lamp%[m|é]|
+|ils|auront|lamp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|lamp%[m|erais]|
+|tu|lamp%[m|erais]|
+|il|lamp%[m|erait]|
+|nous|lamp%[m|erions]|
+|vous|lamp%[m|eriez]|
+|ils|lamp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|lamp%[m|é]|
+|tu|aurais|lamp%[m|é]|
+|il|aurait|lamp%[m|é]|
+|nous|aurions|lamp%[m|é]|
+|vous|auriez|lamp%[m|é]|
+|ils|auraient|lamp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|lamp%[m|e]|
+|que|tu|lamp%[m|es]|
+|qu'|il|lamp%[m|e]|
+|que|nous|lamp%[m|ions]|
+|que|vous|lamp%[m|iez]|
+|qu'|ils|lamp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|lamp%[m|é]|
+|que|tu|aies|lamp%[m|é]|
+|qu'|il|ait|lamp%[m|é]|
+|que|nous|ayons|lamp%[m|é]|
+|que|vous|ayez|lamp%[m|é]|
+|qu'|ils|aient|lamp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|lamp%[m|asse]|
+|que|tu|lamp%[m|asses]|
+|qu'|il|lamp%[m|ât]|
+|que|nous|lamp%[m|assions]|
+|que|vous|lamp%[m|assiez]|
+|qu'|ils|lamp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|lamp%[m|é]|
+|que|tu|eusses|lamp%[m|é]|
+|qu'|il|eût|lamp%[m|é]|
+|que|nous|eussions|lamp%[m|é]|
+|que|vous|eussiez|lamp%[m|é]|
+|qu'|ils|eussent|lamp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lamp%[m|e]|
+|lamp%[m|ons]|
+|lamp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|lamp%[m|é]|
+|ayons|lamp%[m|é]|
+|ayez|lamp%[m|é]|
+|]
+

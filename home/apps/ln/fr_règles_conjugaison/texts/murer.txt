@@ -1,0 +1,191 @@
+# murer %[clVerbGroup|1]
+[-
+fermer, boucher par un mur. Murer une fenêtre. 
+enfermer dans un endroit dont les sorties sont bouchées par accident. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mur%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mur%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mur%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mur%[m|é]|
+|ayant|mur%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mur%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mur%[m|e]|
+|tu|mur%[m|es]|
+|il|mur%[m|e]|
+|nous|mur%[m|ons]|
+|vous|mur%[m|ez]|
+|ils|mur%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mur%[m|é]|
+|tu|as |mur%[m|é]|
+|il|a|mur%[m|é]|
+|nous|avons|mur%[m|é]|
+|vous|avez|mur%[m|é]|
+|ils|ont|mur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mur%[m|ais]|
+|tu|mur%[m|ais]|
+|il|mur%[m|ait]|
+|nous|mur%[m|ions]|
+|vous|mur%[m|iez]|
+|ils|mur%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mur%[m|é]|
+|tu|avais|mur%[m|é]|
+|il|avait|mur%[m|é]|
+|nous|avions|mur%[m|é]|
+|vous|aviez|mur%[m|é]|
+|ils|avaient|mur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mur%[m|ai]|
+|tu|mur%[m|as]|
+|il|mur%[m|a]|
+|nous|mur%[m|âmes]|
+|vous|mur%[m|âtes]|
+|ils|mur%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mur%[m|é]|
+|tu|eus|mur%[m|é]|
+|il|eut|mur%[m|é]|
+|nous|e&ucirc;mes|mur%[m|é]|
+|vous|e&ucirc;tes|mur%[m|é]|
+|ils|eurent|mur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mur%[m|erai]|
+|tu|mur%[m|eras]|
+|il|mur%[m|era]|
+|nous|mur%[m|erons]|
+|vous|mur%[m|erez]|
+|ils|mur%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mur%[m|é]|
+|tu|auras|mur%[m|é]|
+|il|aura|mur%[m|é]|
+|nous|aurons|mur%[m|é]|
+|vous|aurez|mur%[m|é]|
+|ils|auront|mur%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mur%[m|erais]|
+|tu|mur%[m|erais]|
+|il|mur%[m|erait]|
+|nous|mur%[m|erions]|
+|vous|mur%[m|eriez]|
+|ils|mur%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mur%[m|é]|
+|tu|aurais|mur%[m|é]|
+|il|aurait|mur%[m|é]|
+|nous|aurions|mur%[m|é]|
+|vous|auriez|mur%[m|é]|
+|ils|auraient|mur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mur%[m|e]|
+|que|tu|mur%[m|es]|
+|qu'|il|mur%[m|e]|
+|que|nous|mur%[m|ions]|
+|que|vous|mur%[m|iez]|
+|qu'|ils|mur%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mur%[m|é]|
+|que|tu|aies|mur%[m|é]|
+|qu'|il|ait|mur%[m|é]|
+|que|nous|ayons|mur%[m|é]|
+|que|vous|ayez|mur%[m|é]|
+|qu'|ils|aient|mur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mur%[m|asse]|
+|que|tu|mur%[m|asses]|
+|qu'|il|mur%[m|ât]|
+|que|nous|mur%[m|assions]|
+|que|vous|mur%[m|assiez]|
+|qu'|ils|mur%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mur%[m|é]|
+|que|tu|eusses|mur%[m|é]|
+|qu'|il|eût|mur%[m|é]|
+|que|nous|eussions|mur%[m|é]|
+|que|vous|eussiez|mur%[m|é]|
+|qu'|ils|eussent|mur%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mur%[m|e]|
+|mur%[m|ons]|
+|mur%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mur%[m|é]|
+|ayons|mur%[m|é]|
+|ayez|mur%[m|é]|
+|]
+

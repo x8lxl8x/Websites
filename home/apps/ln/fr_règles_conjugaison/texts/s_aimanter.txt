@@ -1,0 +1,190 @@
+# s'aimanter %[clVerbGroup|1]
+[-
+douer de la propriété de l'aimant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'aimant%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|aimant%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'aimant%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|aimant%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'aimant%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|aimant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|aimant%[m|e]|
+|tu|t'|aimant%[m|es]|
+|il|s'|aimant%[m|e]|
+|nous|nous|aimant%[m|ons]|
+|vous|vous|aimant%[m|ez]|
+|ils|s'|aimant%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|aimant%[m|é]|
+|tu|t'|es|aimant%[m|é]|
+|il|s'|est|aimant%[m|é]|
+|nous|nous|sommes|aimant%[m|és]|
+|vous|vous|êtes|aimant%[m|és]|
+|ils|se|sont|aimant%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|aimant%[m|ais]|
+|tu|t'|aimant%[m|ais]|
+|il|s'|aimant%[m|ait]|
+|nous|nous|aimant%[m|ions]|
+|vous|vous|aimant%[m|iez]|
+|ils|s'|aimant%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|aimant%[m|é]|
+|tu|t'|étais|aimant%[m|é]|
+|il|s'|était|aimant%[m|é]|
+|nous|nous|étions|aimant%[m|és]|
+|vous|vous|étiez|aimant%[m|és]|
+|ils|s'|étaient|aimant%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|aimant%[m|ai]|
+|tu|t'|aimant%[m|as]|
+|il|s'|aimant%[m|a]|
+|nous|nous|aimant%[m|âmes]|
+|vous|vous|aimant%[m|âtes]|
+|ils|s'|aimant%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|aimant%[m|é]|
+|tu|te|fus|aimant%[m|é]|
+|il|se|fut|aimant%[m|é]|
+|nous|nous|fûmes|aimant%[m|és]|
+|vous|vous|fûtes|aimant%[m|és]|
+|ils|se|furent|aimant%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|aimant%[m|erai]|
+|tu|t'|aimant%[m|eras]|
+|il|s'|aimant%[m|era]|
+|nous|nous|aimant%[m|erons]|
+|vous|vous|aimant%[m|erez]|
+|ils|s'|aimant%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|aimant%[m|é]|
+|tu|te|seras|aimant%[m|é]|
+|il|se|sera|aimant%[m|é]|
+|nous|nous|serons|aimant%[m|és]|
+|vous|vous|serez|aimant%[m|és]|
+|ils|se|seront|aimant%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|aimant%[m|erais]|
+|tu|t'|aimant%[m|erais]|
+|il|s'|aimant%[m|erait]|
+|nous|nous|aimant%[m|erions]|
+|vous|vous|aimant%[m|eriez]|
+|ils|s'|aimant%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|aimant%[m|é]|
+|tu|te|serais|aimant%[m|é]|
+|il|se|serait|aimant%[m|é]|
+|nous|nous|serions|aimant%[m|és]|
+|vous|vous|seriez|aimant%[m|és]|
+|ils|se|seraient|aimant%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|aimant%[m|e]|
+|que|tu|t'|aimant%[m|es]|
+|qu'|il|s'|aimant%[m|e]|
+|que|nous|nous|aimant%[m|ions]|
+|que|vous|vous|aimant%[m|iez]|
+|qu'|ils|s'|aimant%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|aimant%[m|é]|
+|que|tu|te|sois|aimant%[m|é]|
+|qu'|il|se|soit|aimant%[m|é]|
+|que|nous|nous|soyons|aimant%[m|és]|
+|que|vous|vous|soyez|aimant%[m|és]|
+|qu'|ils|se|soient|aimant%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|aimant%[m|asse]|
+|que|tu|t'|aimant%[m|asses]|
+|qu'|il|s'|aimant%[m|ât]|
+|que|nous|nous|aimant%[m|assions]|
+|que|vous|vous|aimant%[m|assiez]|
+|qu'|ils|s'|aimant%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|aimant%[m|é]|
+|que|tu|te|fusses|aimant%[m|é]|
+|qu'|il|se|fût|aimant%[m|é]|
+|que|nous|nous|fussions|aimant%[m|és]|
+|que|vous|vous|fussiez|aimant%[m|és]|
+|qu'|ils|se|fussent|aimant%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aimant%[m|e]-toi|
+|aimant%[m|ons]-nous|
+|aimant%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

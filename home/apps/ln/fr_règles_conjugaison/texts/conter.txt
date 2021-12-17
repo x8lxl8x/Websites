@@ -1,0 +1,191 @@
+# conter %[clVerbGroup|1]
+[-
+faire le récit de. 
+raconter une histoire imaginaire avec l'intention de distraire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cont%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cont%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cont%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cont%[m|é]|
+|ayant|cont%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cont%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cont%[m|e]|
+|tu|cont%[m|es]|
+|il|cont%[m|e]|
+|nous|cont%[m|ons]|
+|vous|cont%[m|ez]|
+|ils|cont%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cont%[m|é]|
+|tu|as |cont%[m|é]|
+|il|a|cont%[m|é]|
+|nous|avons|cont%[m|é]|
+|vous|avez|cont%[m|é]|
+|ils|ont|cont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cont%[m|ais]|
+|tu|cont%[m|ais]|
+|il|cont%[m|ait]|
+|nous|cont%[m|ions]|
+|vous|cont%[m|iez]|
+|ils|cont%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cont%[m|é]|
+|tu|avais|cont%[m|é]|
+|il|avait|cont%[m|é]|
+|nous|avions|cont%[m|é]|
+|vous|aviez|cont%[m|é]|
+|ils|avaient|cont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cont%[m|ai]|
+|tu|cont%[m|as]|
+|il|cont%[m|a]|
+|nous|cont%[m|âmes]|
+|vous|cont%[m|âtes]|
+|ils|cont%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cont%[m|é]|
+|tu|eus|cont%[m|é]|
+|il|eut|cont%[m|é]|
+|nous|e&ucirc;mes|cont%[m|é]|
+|vous|e&ucirc;tes|cont%[m|é]|
+|ils|eurent|cont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cont%[m|erai]|
+|tu|cont%[m|eras]|
+|il|cont%[m|era]|
+|nous|cont%[m|erons]|
+|vous|cont%[m|erez]|
+|ils|cont%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cont%[m|é]|
+|tu|auras|cont%[m|é]|
+|il|aura|cont%[m|é]|
+|nous|aurons|cont%[m|é]|
+|vous|aurez|cont%[m|é]|
+|ils|auront|cont%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cont%[m|erais]|
+|tu|cont%[m|erais]|
+|il|cont%[m|erait]|
+|nous|cont%[m|erions]|
+|vous|cont%[m|eriez]|
+|ils|cont%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cont%[m|é]|
+|tu|aurais|cont%[m|é]|
+|il|aurait|cont%[m|é]|
+|nous|aurions|cont%[m|é]|
+|vous|auriez|cont%[m|é]|
+|ils|auraient|cont%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cont%[m|e]|
+|que|tu|cont%[m|es]|
+|qu'|il|cont%[m|e]|
+|que|nous|cont%[m|ions]|
+|que|vous|cont%[m|iez]|
+|qu'|ils|cont%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cont%[m|é]|
+|que|tu|aies|cont%[m|é]|
+|qu'|il|ait|cont%[m|é]|
+|que|nous|ayons|cont%[m|é]|
+|que|vous|ayez|cont%[m|é]|
+|qu'|ils|aient|cont%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cont%[m|asse]|
+|que|tu|cont%[m|asses]|
+|qu'|il|cont%[m|ât]|
+|que|nous|cont%[m|assions]|
+|que|vous|cont%[m|assiez]|
+|qu'|ils|cont%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cont%[m|é]|
+|que|tu|eusses|cont%[m|é]|
+|qu'|il|eût|cont%[m|é]|
+|que|nous|eussions|cont%[m|é]|
+|que|vous|eussiez|cont%[m|é]|
+|qu'|ils|eussent|cont%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cont%[m|e]|
+|cont%[m|ons]|
+|cont%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cont%[m|é]|
+|ayons|cont%[m|é]|
+|ayez|cont%[m|é]|
+|]
+

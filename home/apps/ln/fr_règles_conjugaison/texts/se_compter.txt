@@ -1,0 +1,190 @@
+# se compter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se compt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|compt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se compt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|compt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se compt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|compt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|compt%[m|e]|
+|tu|te|compt%[m|es]|
+|il|se|compt%[m|e]|
+|nous|nous|compt%[m|ons]|
+|vous|vous|compt%[m|ez]|
+|ils|se|compt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|compt%[m|é]|
+|tu|t'|es|compt%[m|é]|
+|il|s'|est|compt%[m|é]|
+|nous|nous|sommes|compt%[m|és]|
+|vous|vous|êtes|compt%[m|és]|
+|ils|se|sont|compt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|compt%[m|ais]|
+|tu|te|compt%[m|ais]|
+|il|se|compt%[m|ait]|
+|nous|nous|compt%[m|ions]|
+|vous|vous|compt%[m|iez]|
+|ils|se|compt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|compt%[m|é]|
+|tu|t'|étais|compt%[m|é]|
+|il|s'|était|compt%[m|é]|
+|nous|nous|étions|compt%[m|és]|
+|vous|vous|étiez|compt%[m|és]|
+|ils|s'|étaient|compt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|compt%[m|ai]|
+|tu|te|compt%[m|as]|
+|il|se|compt%[m|a]|
+|nous|nous|compt%[m|âmes]|
+|vous|vous|compt%[m|âtes]|
+|ils|se|compt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|compt%[m|é]|
+|tu|te|fus|compt%[m|é]|
+|il|se|fut|compt%[m|é]|
+|nous|nous|fûmes|compt%[m|és]|
+|vous|vous|fûtes|compt%[m|és]|
+|ils|se|furent|compt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|compt%[m|erai]|
+|tu|te|compt%[m|eras]|
+|il|se|compt%[m|era]|
+|nous|nous|compt%[m|erons]|
+|vous|vous|compt%[m|erez]|
+|ils|se|compt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|compt%[m|é]|
+|tu|te|seras|compt%[m|é]|
+|il|se|sera|compt%[m|é]|
+|nous|nous|serons|compt%[m|és]|
+|vous|vous|serez|compt%[m|és]|
+|ils|se|seront|compt%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|compt%[m|erais]|
+|tu|te|compt%[m|erais]|
+|il|se|compt%[m|erait]|
+|nous|nous|compt%[m|erions]|
+|vous|vous|compt%[m|eriez]|
+|ils|se|compt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|compt%[m|é]|
+|tu|te|serais|compt%[m|é]|
+|il|se|serait|compt%[m|é]|
+|nous|nous|serions|compt%[m|és]|
+|vous|vous|seriez|compt%[m|és]|
+|ils|se|seraient|compt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|compt%[m|e]|
+|que|tu|te|compt%[m|es]|
+|qu'|il|se|compt%[m|e]|
+|que|nous|nous|compt%[m|ions]|
+|que|vous|vous|compt%[m|iez]|
+|qu'|ils|se|compt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|compt%[m|é]|
+|que|tu|te|sois|compt%[m|é]|
+|qu'|il|se|soit|compt%[m|é]|
+|que|nous|nous|soyons|compt%[m|és]|
+|que|vous|vous|soyez|compt%[m|és]|
+|qu'|ils|se|soient|compt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|compt%[m|asse]|
+|que|tu|te|compt%[m|asses]|
+|qu'|il|se|compt%[m|ât]|
+|que|nous|nous|compt%[m|assions]|
+|que|vous|vous|compt%[m|assiez]|
+|qu'|ils|se|compt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|compt%[m|é]|
+|que|tu|te|fusses|compt%[m|é]|
+|qu'|il|se|fût|compt%[m|é]|
+|que|nous|nous|fussions|compt%[m|és]|
+|que|vous|vous|fussiez|compt%[m|és]|
+|qu'|ils|se|fussent|compt%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|compt%[m|e]-toi|
+|compt%[m|ons]-nous|
+|compt%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# coéditer %[clVerbGroup|1]
+[-
+effectuer une coédition. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coédit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coédit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coédit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coédit%[m|é]|
+|ayant|coédit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coédit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coédit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coédit%[m|e]|
+|tu|coédit%[m|es]|
+|il|coédit%[m|e]|
+|nous|coédit%[m|ons]|
+|vous|coédit%[m|ez]|
+|ils|coédit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coédit%[m|é]|
+|tu|as |coédit%[m|é]|
+|il|a|coédit%[m|é]|
+|nous|avons|coédit%[m|é]|
+|vous|avez|coédit%[m|é]|
+|ils|ont|coédit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coédit%[m|ais]|
+|tu|coédit%[m|ais]|
+|il|coédit%[m|ait]|
+|nous|coédit%[m|ions]|
+|vous|coédit%[m|iez]|
+|ils|coédit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coédit%[m|é]|
+|tu|avais|coédit%[m|é]|
+|il|avait|coédit%[m|é]|
+|nous|avions|coédit%[m|é]|
+|vous|aviez|coédit%[m|é]|
+|ils|avaient|coédit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coédit%[m|ai]|
+|tu|coédit%[m|as]|
+|il|coédit%[m|a]|
+|nous|coédit%[m|âmes]|
+|vous|coédit%[m|âtes]|
+|ils|coédit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coédit%[m|é]|
+|tu|eus|coédit%[m|é]|
+|il|eut|coédit%[m|é]|
+|nous|e&ucirc;mes|coédit%[m|é]|
+|vous|e&ucirc;tes|coédit%[m|é]|
+|ils|eurent|coédit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coédit%[m|erai]|
+|tu|coédit%[m|eras]|
+|il|coédit%[m|era]|
+|nous|coédit%[m|erons]|
+|vous|coédit%[m|erez]|
+|ils|coédit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coédit%[m|é]|
+|tu|auras|coédit%[m|é]|
+|il|aura|coédit%[m|é]|
+|nous|aurons|coédit%[m|é]|
+|vous|aurez|coédit%[m|é]|
+|ils|auront|coédit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coédit%[m|erais]|
+|tu|coédit%[m|erais]|
+|il|coédit%[m|erait]|
+|nous|coédit%[m|erions]|
+|vous|coédit%[m|eriez]|
+|ils|coédit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coédit%[m|é]|
+|tu|aurais|coédit%[m|é]|
+|il|aurait|coédit%[m|é]|
+|nous|aurions|coédit%[m|é]|
+|vous|auriez|coédit%[m|é]|
+|ils|auraient|coédit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coédit%[m|e]|
+|que|tu|coédit%[m|es]|
+|qu'|il|coédit%[m|e]|
+|que|nous|coédit%[m|ions]|
+|que|vous|coédit%[m|iez]|
+|qu'|ils|coédit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coédit%[m|é]|
+|que|tu|aies|coédit%[m|é]|
+|qu'|il|ait|coédit%[m|é]|
+|que|nous|ayons|coédit%[m|é]|
+|que|vous|ayez|coédit%[m|é]|
+|qu'|ils|aient|coédit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coédit%[m|asse]|
+|que|tu|coédit%[m|asses]|
+|qu'|il|coédit%[m|ât]|
+|que|nous|coédit%[m|assions]|
+|que|vous|coédit%[m|assiez]|
+|qu'|ils|coédit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coédit%[m|é]|
+|que|tu|eusses|coédit%[m|é]|
+|qu'|il|eût|coédit%[m|é]|
+|que|nous|eussions|coédit%[m|é]|
+|que|vous|eussiez|coédit%[m|é]|
+|qu'|ils|eussent|coédit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coédit%[m|e]|
+|coédit%[m|ons]|
+|coédit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coédit%[m|é]|
+|ayons|coédit%[m|é]|
+|ayez|coédit%[m|é]|
+|]
+

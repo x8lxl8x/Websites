@@ -1,0 +1,190 @@
+# se surimposer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se surimpos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|surimpos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se surimpos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|surimpos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se surimpos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|surimpos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|surimpos%[m|e]|
+|tu|te|surimpos%[m|es]|
+|il|se|surimpos%[m|e]|
+|nous|nous|surimpos%[m|ons]|
+|vous|vous|surimpos%[m|ez]|
+|ils|se|surimpos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|surimpos%[m|é]|
+|tu|t'|es|surimpos%[m|é]|
+|il|s'|est|surimpos%[m|é]|
+|nous|nous|sommes|surimpos%[m|és]|
+|vous|vous|êtes|surimpos%[m|és]|
+|ils|se|sont|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|surimpos%[m|ais]|
+|tu|te|surimpos%[m|ais]|
+|il|se|surimpos%[m|ait]|
+|nous|nous|surimpos%[m|ions]|
+|vous|vous|surimpos%[m|iez]|
+|ils|se|surimpos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|surimpos%[m|é]|
+|tu|t'|étais|surimpos%[m|é]|
+|il|s'|était|surimpos%[m|é]|
+|nous|nous|étions|surimpos%[m|és]|
+|vous|vous|étiez|surimpos%[m|és]|
+|ils|s'|étaient|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|surimpos%[m|ai]|
+|tu|te|surimpos%[m|as]|
+|il|se|surimpos%[m|a]|
+|nous|nous|surimpos%[m|âmes]|
+|vous|vous|surimpos%[m|âtes]|
+|ils|se|surimpos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|surimpos%[m|é]|
+|tu|te|fus|surimpos%[m|é]|
+|il|se|fut|surimpos%[m|é]|
+|nous|nous|fûmes|surimpos%[m|és]|
+|vous|vous|fûtes|surimpos%[m|és]|
+|ils|se|furent|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|surimpos%[m|erai]|
+|tu|te|surimpos%[m|eras]|
+|il|se|surimpos%[m|era]|
+|nous|nous|surimpos%[m|erons]|
+|vous|vous|surimpos%[m|erez]|
+|ils|se|surimpos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|surimpos%[m|é]|
+|tu|te|seras|surimpos%[m|é]|
+|il|se|sera|surimpos%[m|é]|
+|nous|nous|serons|surimpos%[m|és]|
+|vous|vous|serez|surimpos%[m|és]|
+|ils|se|seront|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|surimpos%[m|erais]|
+|tu|te|surimpos%[m|erais]|
+|il|se|surimpos%[m|erait]|
+|nous|nous|surimpos%[m|erions]|
+|vous|vous|surimpos%[m|eriez]|
+|ils|se|surimpos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|surimpos%[m|é]|
+|tu|te|serais|surimpos%[m|é]|
+|il|se|serait|surimpos%[m|é]|
+|nous|nous|serions|surimpos%[m|és]|
+|vous|vous|seriez|surimpos%[m|és]|
+|ils|se|seraient|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|surimpos%[m|e]|
+|que|tu|te|surimpos%[m|es]|
+|qu'|il|se|surimpos%[m|e]|
+|que|nous|nous|surimpos%[m|ions]|
+|que|vous|vous|surimpos%[m|iez]|
+|qu'|ils|se|surimpos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|surimpos%[m|é]|
+|que|tu|te|sois|surimpos%[m|é]|
+|qu'|il|se|soit|surimpos%[m|é]|
+|que|nous|nous|soyons|surimpos%[m|és]|
+|que|vous|vous|soyez|surimpos%[m|és]|
+|qu'|ils|se|soient|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|surimpos%[m|asse]|
+|que|tu|te|surimpos%[m|asses]|
+|qu'|il|se|surimpos%[m|ât]|
+|que|nous|nous|surimpos%[m|assions]|
+|que|vous|vous|surimpos%[m|assiez]|
+|qu'|ils|se|surimpos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|surimpos%[m|é]|
+|que|tu|te|fusses|surimpos%[m|é]|
+|qu'|il|se|fût|surimpos%[m|é]|
+|que|nous|nous|fussions|surimpos%[m|és]|
+|que|vous|vous|fussiez|surimpos%[m|és]|
+|qu'|ils|se|fussent|surimpos%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surimpos%[m|e]-toi|
+|surimpos%[m|ons]-nous|
+|surimpos%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

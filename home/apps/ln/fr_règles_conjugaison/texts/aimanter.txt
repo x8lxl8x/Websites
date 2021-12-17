@@ -1,0 +1,190 @@
+# aimanter %[clVerbGroup|1]
+[-
+douer de la propriété de l'aimant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|aimant%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|aimant%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|aimant%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||aimant%[m|é]|
+|ayant|aimant%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en aimant%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|aimant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|aimant%[m|e]|
+|tu|aimant%[m|es]|
+|il|aimant%[m|e]|
+|nous|aimant%[m|ons]|
+|vous|aimant%[m|ez]|
+|ils|aimant%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|aimant%[m|é]|
+|tu|as |aimant%[m|é]|
+|il|a|aimant%[m|é]|
+|nous|avons|aimant%[m|é]|
+|vous|avez|aimant%[m|é]|
+|ils|ont|aimant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|aimant%[m|ais]|
+|tu|aimant%[m|ais]|
+|il|aimant%[m|ait]|
+|nous|aimant%[m|ions]|
+|vous|aimant%[m|iez]|
+|ils|aimant%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|aimant%[m|é]|
+|tu|avais|aimant%[m|é]|
+|il|avait|aimant%[m|é]|
+|nous|avions|aimant%[m|é]|
+|vous|aviez|aimant%[m|é]|
+|ils|avaient|aimant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|aimant%[m|ai]|
+|tu|aimant%[m|as]|
+|il|aimant%[m|a]|
+|nous|aimant%[m|âmes]|
+|vous|aimant%[m|âtes]|
+|ils|aimant%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|aimant%[m|é]|
+|tu|eus|aimant%[m|é]|
+|il|eut|aimant%[m|é]|
+|nous|e&ucirc;mes|aimant%[m|é]|
+|vous|e&ucirc;tes|aimant%[m|é]|
+|ils|eurent|aimant%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|aimant%[m|erai]|
+|tu|aimant%[m|eras]|
+|il|aimant%[m|era]|
+|nous|aimant%[m|erons]|
+|vous|aimant%[m|erez]|
+|ils|aimant%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|aimant%[m|é]|
+|tu|auras|aimant%[m|é]|
+|il|aura|aimant%[m|é]|
+|nous|aurons|aimant%[m|é]|
+|vous|aurez|aimant%[m|é]|
+|ils|auront|aimant%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|aimant%[m|erais]|
+|tu|aimant%[m|erais]|
+|il|aimant%[m|erait]|
+|nous|aimant%[m|erions]|
+|vous|aimant%[m|eriez]|
+|ils|aimant%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|aimant%[m|é]|
+|tu|aurais|aimant%[m|é]|
+|il|aurait|aimant%[m|é]|
+|nous|aurions|aimant%[m|é]|
+|vous|auriez|aimant%[m|é]|
+|ils|auraient|aimant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|aimant%[m|e]|
+|que|tu|aimant%[m|es]|
+|qu'|il|aimant%[m|e]|
+|que|nous|aimant%[m|ions]|
+|que|vous|aimant%[m|iez]|
+|qu'|ils|aimant%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|aimant%[m|é]|
+|que|tu|aies|aimant%[m|é]|
+|qu'|il|ait|aimant%[m|é]|
+|que|nous|ayons|aimant%[m|é]|
+|que|vous|ayez|aimant%[m|é]|
+|qu'|ils|aient|aimant%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|aimant%[m|asse]|
+|que|tu|aimant%[m|asses]|
+|qu'|il|aimant%[m|ât]|
+|que|nous|aimant%[m|assions]|
+|que|vous|aimant%[m|assiez]|
+|qu'|ils|aimant%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|aimant%[m|é]|
+|que|tu|eusses|aimant%[m|é]|
+|qu'|il|eût|aimant%[m|é]|
+|que|nous|eussions|aimant%[m|é]|
+|que|vous|eussiez|aimant%[m|é]|
+|qu'|ils|eussent|aimant%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aimant%[m|e]|
+|aimant%[m|ons]|
+|aimant%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|aimant%[m|é]|
+|ayons|aimant%[m|é]|
+|ayez|aimant%[m|é]|
+|]
+

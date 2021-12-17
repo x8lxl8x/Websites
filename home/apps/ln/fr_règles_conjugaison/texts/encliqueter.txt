@@ -1,0 +1,190 @@
+# encliqueter %[clVerbGroup|1]
+[-
+faire fonctionner un encliquetage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|encliquet%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|encliquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||encliquet%[m|é]|
+|ayant|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en encliquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|encliquet%[m|t]%[m|e]|
+|tu|encliquet%[m|t]%[m|es]|
+|il|encliquet%[m|t]%[m|e]|
+|nous|encliquet%[m|]%[m|ons]|
+|vous|encliquet%[m|]%[m|ez]|
+|ils|encliquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|encliquet%[m|é]|
+|tu|as |encliquet%[m|é]|
+|il|a|encliquet%[m|é]|
+|nous|avons|encliquet%[m|é]|
+|vous|avez|encliquet%[m|é]|
+|ils|ont|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|encliquet%[m|]%[m|ais]|
+|tu|encliquet%[m|]%[m|ais]|
+|il|encliquet%[m|]%[m|ait]|
+|nous|encliquet%[m|]%[m|ions]|
+|vous|encliquet%[m|]%[m|iez]|
+|ils|encliquet%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|encliquet%[m|é]|
+|tu|avais|encliquet%[m|é]|
+|il|avait|encliquet%[m|é]|
+|nous|avions|encliquet%[m|é]|
+|vous|aviez|encliquet%[m|é]|
+|ils|avaient|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|encliquet%[m|]%[m|ai]|
+|tu|encliquet%[m|]%[m|as]|
+|il|encliquet%[m|]%[m|a]|
+|nous|encliquet%[m|]%[m|âmes]|
+|vous|encliquet%[m|]%[m|âtes]|
+|ils|encliquet%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|encliquet%[m|é]|
+|tu|eus|encliquet%[m|é]|
+|il|eut|encliquet%[m|é]|
+|nous|e&ucirc;mes|encliquet%[m|é]|
+|vous|e&ucirc;tes|encliquet%[m|é]|
+|ils|eurent|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|encliquet%[m|t]%[m|erai]|
+|tu|encliquet%[m|t]%[m|eras]|
+|il|encliquet%[m|t]%[m|era]|
+|nous|encliquet%[m|t]%[m|erons]|
+|vous|encliquet%[m|t]%[m|erez]|
+|ils|encliquet%[m|t]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|encliquet%[m|é]|
+|tu|auras|encliquet%[m|é]|
+|il|aura|encliquet%[m|é]|
+|nous|aurons|encliquet%[m|é]|
+|vous|aurez|encliquet%[m|é]|
+|ils|auront|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|encliquet%[m|t]%[m|erais]|
+|tu|encliquet%[m|t]%[m|erais]|
+|il|encliquet%[m|t]%[m|erait]|
+|nous|encliquet%[m|t]%[m|erions]|
+|vous|encliquet%[m|t]%[m|eriez]|
+|ils|encliquet%[m|t]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|encliquet%[m|é]|
+|tu|aurais|encliquet%[m|é]|
+|il|aurait|encliquet%[m|é]|
+|nous|aurions|encliquet%[m|é]|
+|vous|auriez|encliquet%[m|é]|
+|ils|auraient|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|encliquet%[m|t]%[m|e]|
+|que|tu|encliquet%[m|t]%[m|es]|
+|qu'|il|encliquet%[m|t]%[m|e]|
+|que|nous|encliquet%[m|]%[m|ions]|
+|que|vous|encliquet%[m|]%[m|iez]|
+|qu'|ils|encliquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|encliquet%[m|é]|
+|que|tu|aies|encliquet%[m|é]|
+|qu'|il|ait|encliquet%[m|é]|
+|que|nous|ayons|encliquet%[m|é]|
+|que|vous|ayez|encliquet%[m|é]|
+|qu'|ils|aient|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|encliquet%[m|]%[m|asse]|
+|que|tu|encliquet%[m|]%[m|asses]|
+|qu'|il|encliquet%[m|]%[m|ât]|
+|que|nous|encliquet%[m|]%[m|assions]|
+|que|vous|encliquet%[m|]%[m|assiez]|
+|qu'|ils|encliquet%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|encliquet%[m|é]|
+|que|tu|eusses|encliquet%[m|é]|
+|qu'|il|eût|encliquet%[m|é]|
+|que|nous|eussions|encliquet%[m|é]|
+|que|vous|eussiez|encliquet%[m|é]|
+|qu'|ils|eussent|encliquet%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|encliquet%[m|t]%[m|e]|
+|encliquet%[m|]%[m|ons]|
+|encliquet%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|encliquet%[m|é]|
+|ayons|encliquet%[m|é]|
+|ayez|encliquet%[m|é]|
+|]
+

@@ -1,0 +1,195 @@
+# circuler %[clVerbGroup|1]
+[-
+se déplacer naturellement (pour un liquide) 
+passer dans un circuit, pour un fluide. 
+passer de main en main. 
+se renouveler (gaz, fumée) 
+aller et venir. 
+se propager. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|circul%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|circul%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|circul%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||circul%[m|é]|
+|ayant|circul%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en circul%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|circul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|circul%[m|e]|
+|tu|circul%[m|es]|
+|il|circul%[m|e]|
+|nous|circul%[m|ons]|
+|vous|circul%[m|ez]|
+|ils|circul%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|circul%[m|é]|
+|tu|as |circul%[m|é]|
+|il|a|circul%[m|é]|
+|nous|avons|circul%[m|é]|
+|vous|avez|circul%[m|é]|
+|ils|ont|circul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|circul%[m|ais]|
+|tu|circul%[m|ais]|
+|il|circul%[m|ait]|
+|nous|circul%[m|ions]|
+|vous|circul%[m|iez]|
+|ils|circul%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|circul%[m|é]|
+|tu|avais|circul%[m|é]|
+|il|avait|circul%[m|é]|
+|nous|avions|circul%[m|é]|
+|vous|aviez|circul%[m|é]|
+|ils|avaient|circul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|circul%[m|ai]|
+|tu|circul%[m|as]|
+|il|circul%[m|a]|
+|nous|circul%[m|âmes]|
+|vous|circul%[m|âtes]|
+|ils|circul%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|circul%[m|é]|
+|tu|eus|circul%[m|é]|
+|il|eut|circul%[m|é]|
+|nous|e&ucirc;mes|circul%[m|é]|
+|vous|e&ucirc;tes|circul%[m|é]|
+|ils|eurent|circul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|circul%[m|erai]|
+|tu|circul%[m|eras]|
+|il|circul%[m|era]|
+|nous|circul%[m|erons]|
+|vous|circul%[m|erez]|
+|ils|circul%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|circul%[m|é]|
+|tu|auras|circul%[m|é]|
+|il|aura|circul%[m|é]|
+|nous|aurons|circul%[m|é]|
+|vous|aurez|circul%[m|é]|
+|ils|auront|circul%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|circul%[m|erais]|
+|tu|circul%[m|erais]|
+|il|circul%[m|erait]|
+|nous|circul%[m|erions]|
+|vous|circul%[m|eriez]|
+|ils|circul%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|circul%[m|é]|
+|tu|aurais|circul%[m|é]|
+|il|aurait|circul%[m|é]|
+|nous|aurions|circul%[m|é]|
+|vous|auriez|circul%[m|é]|
+|ils|auraient|circul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|circul%[m|e]|
+|que|tu|circul%[m|es]|
+|qu'|il|circul%[m|e]|
+|que|nous|circul%[m|ions]|
+|que|vous|circul%[m|iez]|
+|qu'|ils|circul%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|circul%[m|é]|
+|que|tu|aies|circul%[m|é]|
+|qu'|il|ait|circul%[m|é]|
+|que|nous|ayons|circul%[m|é]|
+|que|vous|ayez|circul%[m|é]|
+|qu'|ils|aient|circul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|circul%[m|asse]|
+|que|tu|circul%[m|asses]|
+|qu'|il|circul%[m|ât]|
+|que|nous|circul%[m|assions]|
+|que|vous|circul%[m|assiez]|
+|qu'|ils|circul%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|circul%[m|é]|
+|que|tu|eusses|circul%[m|é]|
+|qu'|il|eût|circul%[m|é]|
+|que|nous|eussions|circul%[m|é]|
+|que|vous|eussiez|circul%[m|é]|
+|qu'|ils|eussent|circul%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|circul%[m|e]|
+|circul%[m|ons]|
+|circul%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|circul%[m|é]|
+|ayons|circul%[m|é]|
+|ayez|circul%[m|é]|
+|]
+

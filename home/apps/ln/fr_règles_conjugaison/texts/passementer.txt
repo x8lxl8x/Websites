@@ -1,0 +1,190 @@
+# passementer %[clVerbGroup|1]
+[-
+garnir et orner de passements. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|passement%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|passement%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|passement%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||passement%[m|é]|
+|ayant|passement%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en passement%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|passement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|passement%[m|e]|
+|tu|passement%[m|es]|
+|il|passement%[m|e]|
+|nous|passement%[m|ons]|
+|vous|passement%[m|ez]|
+|ils|passement%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|passement%[m|é]|
+|tu|as |passement%[m|é]|
+|il|a|passement%[m|é]|
+|nous|avons|passement%[m|é]|
+|vous|avez|passement%[m|é]|
+|ils|ont|passement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|passement%[m|ais]|
+|tu|passement%[m|ais]|
+|il|passement%[m|ait]|
+|nous|passement%[m|ions]|
+|vous|passement%[m|iez]|
+|ils|passement%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|passement%[m|é]|
+|tu|avais|passement%[m|é]|
+|il|avait|passement%[m|é]|
+|nous|avions|passement%[m|é]|
+|vous|aviez|passement%[m|é]|
+|ils|avaient|passement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|passement%[m|ai]|
+|tu|passement%[m|as]|
+|il|passement%[m|a]|
+|nous|passement%[m|âmes]|
+|vous|passement%[m|âtes]|
+|ils|passement%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|passement%[m|é]|
+|tu|eus|passement%[m|é]|
+|il|eut|passement%[m|é]|
+|nous|e&ucirc;mes|passement%[m|é]|
+|vous|e&ucirc;tes|passement%[m|é]|
+|ils|eurent|passement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|passement%[m|erai]|
+|tu|passement%[m|eras]|
+|il|passement%[m|era]|
+|nous|passement%[m|erons]|
+|vous|passement%[m|erez]|
+|ils|passement%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|passement%[m|é]|
+|tu|auras|passement%[m|é]|
+|il|aura|passement%[m|é]|
+|nous|aurons|passement%[m|é]|
+|vous|aurez|passement%[m|é]|
+|ils|auront|passement%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|passement%[m|erais]|
+|tu|passement%[m|erais]|
+|il|passement%[m|erait]|
+|nous|passement%[m|erions]|
+|vous|passement%[m|eriez]|
+|ils|passement%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|passement%[m|é]|
+|tu|aurais|passement%[m|é]|
+|il|aurait|passement%[m|é]|
+|nous|aurions|passement%[m|é]|
+|vous|auriez|passement%[m|é]|
+|ils|auraient|passement%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|passement%[m|e]|
+|que|tu|passement%[m|es]|
+|qu'|il|passement%[m|e]|
+|que|nous|passement%[m|ions]|
+|que|vous|passement%[m|iez]|
+|qu'|ils|passement%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|passement%[m|é]|
+|que|tu|aies|passement%[m|é]|
+|qu'|il|ait|passement%[m|é]|
+|que|nous|ayons|passement%[m|é]|
+|que|vous|ayez|passement%[m|é]|
+|qu'|ils|aient|passement%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|passement%[m|asse]|
+|que|tu|passement%[m|asses]|
+|qu'|il|passement%[m|ât]|
+|que|nous|passement%[m|assions]|
+|que|vous|passement%[m|assiez]|
+|qu'|ils|passement%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|passement%[m|é]|
+|que|tu|eusses|passement%[m|é]|
+|qu'|il|eût|passement%[m|é]|
+|que|nous|eussions|passement%[m|é]|
+|que|vous|eussiez|passement%[m|é]|
+|qu'|ils|eussent|passement%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|passement%[m|e]|
+|passement%[m|ons]|
+|passement%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|passement%[m|é]|
+|ayons|passement%[m|é]|
+|ayez|passement%[m|é]|
+|]
+

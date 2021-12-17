@@ -1,0 +1,190 @@
+# s'indemniser %[clVerbGroup|1]
+[-
+accorder une indemnisation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'indemnis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|indemnis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'indemnis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|indemnis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'indemnis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|indemnis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|indemnis%[m|e]|
+|tu|t'|indemnis%[m|es]|
+|il|s'|indemnis%[m|e]|
+|nous|nous|indemnis%[m|ons]|
+|vous|vous|indemnis%[m|ez]|
+|ils|s'|indemnis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|indemnis%[m|é]|
+|tu|t'|es|indemnis%[m|é]|
+|il|s'|est|indemnis%[m|é]|
+|nous|nous|sommes|indemnis%[m|és]|
+|vous|vous|êtes|indemnis%[m|és]|
+|ils|se|sont|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|indemnis%[m|ais]|
+|tu|t'|indemnis%[m|ais]|
+|il|s'|indemnis%[m|ait]|
+|nous|nous|indemnis%[m|ions]|
+|vous|vous|indemnis%[m|iez]|
+|ils|s'|indemnis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|indemnis%[m|é]|
+|tu|t'|étais|indemnis%[m|é]|
+|il|s'|était|indemnis%[m|é]|
+|nous|nous|étions|indemnis%[m|és]|
+|vous|vous|étiez|indemnis%[m|és]|
+|ils|s'|étaient|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|indemnis%[m|ai]|
+|tu|t'|indemnis%[m|as]|
+|il|s'|indemnis%[m|a]|
+|nous|nous|indemnis%[m|âmes]|
+|vous|vous|indemnis%[m|âtes]|
+|ils|s'|indemnis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|indemnis%[m|é]|
+|tu|te|fus|indemnis%[m|é]|
+|il|se|fut|indemnis%[m|é]|
+|nous|nous|fûmes|indemnis%[m|és]|
+|vous|vous|fûtes|indemnis%[m|és]|
+|ils|se|furent|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|indemnis%[m|erai]|
+|tu|t'|indemnis%[m|eras]|
+|il|s'|indemnis%[m|era]|
+|nous|nous|indemnis%[m|erons]|
+|vous|vous|indemnis%[m|erez]|
+|ils|s'|indemnis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|indemnis%[m|é]|
+|tu|te|seras|indemnis%[m|é]|
+|il|se|sera|indemnis%[m|é]|
+|nous|nous|serons|indemnis%[m|és]|
+|vous|vous|serez|indemnis%[m|és]|
+|ils|se|seront|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|indemnis%[m|erais]|
+|tu|t'|indemnis%[m|erais]|
+|il|s'|indemnis%[m|erait]|
+|nous|nous|indemnis%[m|erions]|
+|vous|vous|indemnis%[m|eriez]|
+|ils|s'|indemnis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|indemnis%[m|é]|
+|tu|te|serais|indemnis%[m|é]|
+|il|se|serait|indemnis%[m|é]|
+|nous|nous|serions|indemnis%[m|és]|
+|vous|vous|seriez|indemnis%[m|és]|
+|ils|se|seraient|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|indemnis%[m|e]|
+|que|tu|t'|indemnis%[m|es]|
+|qu'|il|s'|indemnis%[m|e]|
+|que|nous|nous|indemnis%[m|ions]|
+|que|vous|vous|indemnis%[m|iez]|
+|qu'|ils|s'|indemnis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|indemnis%[m|é]|
+|que|tu|te|sois|indemnis%[m|é]|
+|qu'|il|se|soit|indemnis%[m|é]|
+|que|nous|nous|soyons|indemnis%[m|és]|
+|que|vous|vous|soyez|indemnis%[m|és]|
+|qu'|ils|se|soient|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|indemnis%[m|asse]|
+|que|tu|t'|indemnis%[m|asses]|
+|qu'|il|s'|indemnis%[m|ât]|
+|que|nous|nous|indemnis%[m|assions]|
+|que|vous|vous|indemnis%[m|assiez]|
+|qu'|ils|s'|indemnis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|indemnis%[m|é]|
+|que|tu|te|fusses|indemnis%[m|é]|
+|qu'|il|se|fût|indemnis%[m|é]|
+|que|nous|nous|fussions|indemnis%[m|és]|
+|que|vous|vous|fussiez|indemnis%[m|és]|
+|qu'|ils|se|fussent|indemnis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|indemnis%[m|e]-toi|
+|indemnis%[m|ons]-nous|
+|indemnis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# se boutonner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se boutonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|boutonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se boutonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|boutonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se boutonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|boutonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|boutonn%[m|e]|
+|tu|te|boutonn%[m|es]|
+|il|se|boutonn%[m|e]|
+|nous|nous|boutonn%[m|ons]|
+|vous|vous|boutonn%[m|ez]|
+|ils|se|boutonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|boutonn%[m|é]|
+|tu|t'|es|boutonn%[m|é]|
+|il|s'|est|boutonn%[m|é]|
+|nous|nous|sommes|boutonn%[m|és]|
+|vous|vous|êtes|boutonn%[m|és]|
+|ils|se|sont|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|boutonn%[m|ais]|
+|tu|te|boutonn%[m|ais]|
+|il|se|boutonn%[m|ait]|
+|nous|nous|boutonn%[m|ions]|
+|vous|vous|boutonn%[m|iez]|
+|ils|se|boutonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|boutonn%[m|é]|
+|tu|t'|étais|boutonn%[m|é]|
+|il|s'|était|boutonn%[m|é]|
+|nous|nous|étions|boutonn%[m|és]|
+|vous|vous|étiez|boutonn%[m|és]|
+|ils|s'|étaient|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|boutonn%[m|ai]|
+|tu|te|boutonn%[m|as]|
+|il|se|boutonn%[m|a]|
+|nous|nous|boutonn%[m|âmes]|
+|vous|vous|boutonn%[m|âtes]|
+|ils|se|boutonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|boutonn%[m|é]|
+|tu|te|fus|boutonn%[m|é]|
+|il|se|fut|boutonn%[m|é]|
+|nous|nous|fûmes|boutonn%[m|és]|
+|vous|vous|fûtes|boutonn%[m|és]|
+|ils|se|furent|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|boutonn%[m|erai]|
+|tu|te|boutonn%[m|eras]|
+|il|se|boutonn%[m|era]|
+|nous|nous|boutonn%[m|erons]|
+|vous|vous|boutonn%[m|erez]|
+|ils|se|boutonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|boutonn%[m|é]|
+|tu|te|seras|boutonn%[m|é]|
+|il|se|sera|boutonn%[m|é]|
+|nous|nous|serons|boutonn%[m|és]|
+|vous|vous|serez|boutonn%[m|és]|
+|ils|se|seront|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|boutonn%[m|erais]|
+|tu|te|boutonn%[m|erais]|
+|il|se|boutonn%[m|erait]|
+|nous|nous|boutonn%[m|erions]|
+|vous|vous|boutonn%[m|eriez]|
+|ils|se|boutonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|boutonn%[m|é]|
+|tu|te|serais|boutonn%[m|é]|
+|il|se|serait|boutonn%[m|é]|
+|nous|nous|serions|boutonn%[m|és]|
+|vous|vous|seriez|boutonn%[m|és]|
+|ils|se|seraient|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|boutonn%[m|e]|
+|que|tu|te|boutonn%[m|es]|
+|qu'|il|se|boutonn%[m|e]|
+|que|nous|nous|boutonn%[m|ions]|
+|que|vous|vous|boutonn%[m|iez]|
+|qu'|ils|se|boutonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|boutonn%[m|é]|
+|que|tu|te|sois|boutonn%[m|é]|
+|qu'|il|se|soit|boutonn%[m|é]|
+|que|nous|nous|soyons|boutonn%[m|és]|
+|que|vous|vous|soyez|boutonn%[m|és]|
+|qu'|ils|se|soient|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|boutonn%[m|asse]|
+|que|tu|te|boutonn%[m|asses]|
+|qu'|il|se|boutonn%[m|ât]|
+|que|nous|nous|boutonn%[m|assions]|
+|que|vous|vous|boutonn%[m|assiez]|
+|qu'|ils|se|boutonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|boutonn%[m|é]|
+|que|tu|te|fusses|boutonn%[m|é]|
+|qu'|il|se|fût|boutonn%[m|é]|
+|que|nous|nous|fussions|boutonn%[m|és]|
+|que|vous|vous|fussiez|boutonn%[m|és]|
+|qu'|ils|se|fussent|boutonn%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boutonn%[m|e]-toi|
+|boutonn%[m|ons]-nous|
+|boutonn%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

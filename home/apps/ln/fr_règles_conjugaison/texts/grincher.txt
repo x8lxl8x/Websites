@@ -1,0 +1,190 @@
+# grincher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|grinch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grinch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|grinch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grinch%[m|é]|
+|ayant|grinch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en grinch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|grinch%[m|e]|
+|tu|grinch%[m|es]|
+|il|grinch%[m|e]|
+|nous|grinch%[m|ons]|
+|vous|grinch%[m|ez]|
+|ils|grinch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grinch%[m|é]|
+|tu|as |grinch%[m|é]|
+|il|a|grinch%[m|é]|
+|nous|avons|grinch%[m|é]|
+|vous|avez|grinch%[m|é]|
+|ils|ont|grinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|grinch%[m|ais]|
+|tu|grinch%[m|ais]|
+|il|grinch%[m|ait]|
+|nous|grinch%[m|ions]|
+|vous|grinch%[m|iez]|
+|ils|grinch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grinch%[m|é]|
+|tu|avais|grinch%[m|é]|
+|il|avait|grinch%[m|é]|
+|nous|avions|grinch%[m|é]|
+|vous|aviez|grinch%[m|é]|
+|ils|avaient|grinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|grinch%[m|ai]|
+|tu|grinch%[m|as]|
+|il|grinch%[m|a]|
+|nous|grinch%[m|âmes]|
+|vous|grinch%[m|âtes]|
+|ils|grinch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grinch%[m|é]|
+|tu|eus|grinch%[m|é]|
+|il|eut|grinch%[m|é]|
+|nous|e&ucirc;mes|grinch%[m|é]|
+|vous|e&ucirc;tes|grinch%[m|é]|
+|ils|eurent|grinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|grinch%[m|erai]|
+|tu|grinch%[m|eras]|
+|il|grinch%[m|era]|
+|nous|grinch%[m|erons]|
+|vous|grinch%[m|erez]|
+|ils|grinch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grinch%[m|é]|
+|tu|auras|grinch%[m|é]|
+|il|aura|grinch%[m|é]|
+|nous|aurons|grinch%[m|é]|
+|vous|aurez|grinch%[m|é]|
+|ils|auront|grinch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|grinch%[m|erais]|
+|tu|grinch%[m|erais]|
+|il|grinch%[m|erait]|
+|nous|grinch%[m|erions]|
+|vous|grinch%[m|eriez]|
+|ils|grinch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grinch%[m|é]|
+|tu|aurais|grinch%[m|é]|
+|il|aurait|grinch%[m|é]|
+|nous|aurions|grinch%[m|é]|
+|vous|auriez|grinch%[m|é]|
+|ils|auraient|grinch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|grinch%[m|e]|
+|que|tu|grinch%[m|es]|
+|qu'|il|grinch%[m|e]|
+|que|nous|grinch%[m|ions]|
+|que|vous|grinch%[m|iez]|
+|qu'|ils|grinch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grinch%[m|é]|
+|que|tu|aies|grinch%[m|é]|
+|qu'|il|ait|grinch%[m|é]|
+|que|nous|ayons|grinch%[m|é]|
+|que|vous|ayez|grinch%[m|é]|
+|qu'|ils|aient|grinch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|grinch%[m|asse]|
+|que|tu|grinch%[m|asses]|
+|qu'|il|grinch%[m|ât]|
+|que|nous|grinch%[m|assions]|
+|que|vous|grinch%[m|assiez]|
+|qu'|ils|grinch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grinch%[m|é]|
+|que|tu|eusses|grinch%[m|é]|
+|qu'|il|eût|grinch%[m|é]|
+|que|nous|eussions|grinch%[m|é]|
+|que|vous|eussiez|grinch%[m|é]|
+|qu'|ils|eussent|grinch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grinch%[m|e]|
+|grinch%[m|ons]|
+|grinch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grinch%[m|é]|
+|ayons|grinch%[m|é]|
+|ayez|grinch%[m|é]|
+|]
+

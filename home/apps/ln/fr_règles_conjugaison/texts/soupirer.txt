@@ -1,0 +1,190 @@
+# soupirer %[clVerbGroup|1]
+[-
+pousser des soupirs; dire en soupirant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|soupir%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|soupir%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|soupir%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||soupir%[m|é]|
+|ayant|soupir%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en soupir%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|soupir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|soupir%[m|e]|
+|tu|soupir%[m|es]|
+|il|soupir%[m|e]|
+|nous|soupir%[m|ons]|
+|vous|soupir%[m|ez]|
+|ils|soupir%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|soupir%[m|é]|
+|tu|as |soupir%[m|é]|
+|il|a|soupir%[m|é]|
+|nous|avons|soupir%[m|é]|
+|vous|avez|soupir%[m|é]|
+|ils|ont|soupir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|soupir%[m|ais]|
+|tu|soupir%[m|ais]|
+|il|soupir%[m|ait]|
+|nous|soupir%[m|ions]|
+|vous|soupir%[m|iez]|
+|ils|soupir%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|soupir%[m|é]|
+|tu|avais|soupir%[m|é]|
+|il|avait|soupir%[m|é]|
+|nous|avions|soupir%[m|é]|
+|vous|aviez|soupir%[m|é]|
+|ils|avaient|soupir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|soupir%[m|ai]|
+|tu|soupir%[m|as]|
+|il|soupir%[m|a]|
+|nous|soupir%[m|âmes]|
+|vous|soupir%[m|âtes]|
+|ils|soupir%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|soupir%[m|é]|
+|tu|eus|soupir%[m|é]|
+|il|eut|soupir%[m|é]|
+|nous|e&ucirc;mes|soupir%[m|é]|
+|vous|e&ucirc;tes|soupir%[m|é]|
+|ils|eurent|soupir%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|soupir%[m|erai]|
+|tu|soupir%[m|eras]|
+|il|soupir%[m|era]|
+|nous|soupir%[m|erons]|
+|vous|soupir%[m|erez]|
+|ils|soupir%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|soupir%[m|é]|
+|tu|auras|soupir%[m|é]|
+|il|aura|soupir%[m|é]|
+|nous|aurons|soupir%[m|é]|
+|vous|aurez|soupir%[m|é]|
+|ils|auront|soupir%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|soupir%[m|erais]|
+|tu|soupir%[m|erais]|
+|il|soupir%[m|erait]|
+|nous|soupir%[m|erions]|
+|vous|soupir%[m|eriez]|
+|ils|soupir%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|soupir%[m|é]|
+|tu|aurais|soupir%[m|é]|
+|il|aurait|soupir%[m|é]|
+|nous|aurions|soupir%[m|é]|
+|vous|auriez|soupir%[m|é]|
+|ils|auraient|soupir%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|soupir%[m|e]|
+|que|tu|soupir%[m|es]|
+|qu'|il|soupir%[m|e]|
+|que|nous|soupir%[m|ions]|
+|que|vous|soupir%[m|iez]|
+|qu'|ils|soupir%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|soupir%[m|é]|
+|que|tu|aies|soupir%[m|é]|
+|qu'|il|ait|soupir%[m|é]|
+|que|nous|ayons|soupir%[m|é]|
+|que|vous|ayez|soupir%[m|é]|
+|qu'|ils|aient|soupir%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|soupir%[m|asse]|
+|que|tu|soupir%[m|asses]|
+|qu'|il|soupir%[m|ât]|
+|que|nous|soupir%[m|assions]|
+|que|vous|soupir%[m|assiez]|
+|qu'|ils|soupir%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|soupir%[m|é]|
+|que|tu|eusses|soupir%[m|é]|
+|qu'|il|eût|soupir%[m|é]|
+|que|nous|eussions|soupir%[m|é]|
+|que|vous|eussiez|soupir%[m|é]|
+|qu'|ils|eussent|soupir%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|soupir%[m|e]|
+|soupir%[m|ons]|
+|soupir%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|soupir%[m|é]|
+|ayons|soupir%[m|é]|
+|ayez|soupir%[m|é]|
+|]
+

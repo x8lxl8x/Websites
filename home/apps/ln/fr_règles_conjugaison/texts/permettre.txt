@@ -1,0 +1,192 @@
+# permettre %[clVerbGroup|3]
+[-
+accorder un droit, habiliter. 
+laisser faire, donner toute liberté d'agir et de dire. 
+rendre possible quelque chose, l'autoriser; donner le moyen, le loisir de. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|perm%[m|ettre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|perm%[m|is]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|perm%[m|ettant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||perm%[m|is]|
+|ayant|perm%[m|is]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en perm%[m|ettant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|perm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|perm%[m|ets]|
+|tu|perm%[m|ets]|
+|il|perm%[m|et]|
+|nous|perm%[m|ettons]|
+|vous|perm%[m|ettez]|
+|ils|perm%[m|ettent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|perm%[m|is]|
+|tu|as |perm%[m|is]|
+|il|a|perm%[m|is]|
+|nous|avons|perm%[m|is]|
+|vous|avez|perm%[m|is]|
+|ils|ont|perm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|perm%[m|ettais]|
+|tu|perm%[m|ettais]|
+|il|perm%[m|ettait]|
+|nous|perm%[m|ettions]|
+|vous|perm%[m|ettiez]|
+|ils|perm%[m|ettaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|perm%[m|is]|
+|tu|avais|perm%[m|is]|
+|il|avait|perm%[m|is]|
+|nous|avions|perm%[m|is]|
+|vous|aviez|perm%[m|is]|
+|ils|avaient|perm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|perm%[m|is]|
+|tu|perm%[m|is]|
+|il|perm%[m|it]|
+|nous|perm%[m|îmes]|
+|vous|perm%[m|îtes]|
+|ils|perm%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|perm%[m|is]|
+|tu|eus|perm%[m|is]|
+|il|eut|perm%[m|is]|
+|nous|e&ucirc;mes|perm%[m|is]|
+|vous|e&ucirc;tes|perm%[m|is]|
+|ils|eurent|perm%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|perm%[m|ettrai]|
+|tu|perm%[m|ettras]|
+|il|perm%[m|ettra]|
+|nous|perm%[m|ettrons]|
+|vous|perm%[m|ettrez]|
+|ils|perm%[m|ettront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|perm%[m|is]|
+|tu|auras|perm%[m|is]|
+|il|aura|perm%[m|is]|
+|nous|aurons|perm%[m|is]|
+|vous|aurez|perm%[m|is]|
+|ils|auront|perm%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|perm%[m|ettrais]|
+|tu|perm%[m|ettrais]|
+|il|perm%[m|ettrait]|
+|nous|perm%[m|ettrions]|
+|vous|perm%[m|ettriez]|
+|ils|perm%[m|ettraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|perm%[m|is]|
+|tu|aurais|perm%[m|is]|
+|il|aurait|perm%[m|is]|
+|nous|aurions|perm%[m|is]|
+|vous|auriez|perm%[m|is]|
+|ils|auraient|perm%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|perm%[m|ette]|
+|que|tu|perm%[m|ettes]|
+|qu'|il|perm%[m|ette]|
+|que|nous|perm%[m|ettions]|
+|que|vous|perm%[m|ettiez]|
+|qu'|ils|perm%[m|ettent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|perm%[m|is]|
+|que|tu|aies|perm%[m|is]|
+|qu'|il|ait|perm%[m|is]|
+|que|nous|ayons|perm%[m|is]|
+|que|vous|ayez|perm%[m|is]|
+|qu'|ils|aient|perm%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|perm%[m|isse]|
+|que|tu|perm%[m|isses]|
+|qu'|il|perm%[m|ît]|
+|que|nous|perm%[m|issions]|
+|que|vous|perm%[m|issiez]|
+|qu'|ils|perm%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|perm%[m|is]|
+|que|tu|eusses|perm%[m|is]|
+|qu'|il|eût|perm%[m|is]|
+|que|nous|eussions|perm%[m|is]|
+|que|vous|eussiez|perm%[m|is]|
+|qu'|ils|eussent|perm%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|perm%[m|ets]|
+|perm%[m|ettons]|
+|perm%[m|ettez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|perm%[m|is]|
+|ayons|perm%[m|is]|
+|ayez|perm%[m|is]|
+|]
+

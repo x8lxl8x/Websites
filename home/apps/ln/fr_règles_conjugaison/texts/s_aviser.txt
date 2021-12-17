@@ -1,0 +1,192 @@
+# s'aviser %[clVerbGroup|1]
+[-
+réfléchir sur une décision à prendre. 
+s'apercevoir, se rendre compte. 
+apercevoir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'avis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|avis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'avis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|avis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'avis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|avis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|avis%[m|e]|
+|tu|t'|avis%[m|es]|
+|il|s'|avis%[m|e]|
+|nous|nous|avis%[m|ons]|
+|vous|vous|avis%[m|ez]|
+|ils|s'|avis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|avis%[m|é]|
+|tu|t'|es|avis%[m|é]|
+|il|s'|est|avis%[m|é]|
+|nous|nous|sommes|avis%[m|és]|
+|vous|vous|êtes|avis%[m|és]|
+|ils|se|sont|avis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|avis%[m|ais]|
+|tu|t'|avis%[m|ais]|
+|il|s'|avis%[m|ait]|
+|nous|nous|avis%[m|ions]|
+|vous|vous|avis%[m|iez]|
+|ils|s'|avis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|avis%[m|é]|
+|tu|t'|étais|avis%[m|é]|
+|il|s'|était|avis%[m|é]|
+|nous|nous|étions|avis%[m|és]|
+|vous|vous|étiez|avis%[m|és]|
+|ils|s'|étaient|avis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|avis%[m|ai]|
+|tu|t'|avis%[m|as]|
+|il|s'|avis%[m|a]|
+|nous|nous|avis%[m|âmes]|
+|vous|vous|avis%[m|âtes]|
+|ils|s'|avis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|avis%[m|é]|
+|tu|te|fus|avis%[m|é]|
+|il|se|fut|avis%[m|é]|
+|nous|nous|fûmes|avis%[m|és]|
+|vous|vous|fûtes|avis%[m|és]|
+|ils|se|furent|avis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|avis%[m|erai]|
+|tu|t'|avis%[m|eras]|
+|il|s'|avis%[m|era]|
+|nous|nous|avis%[m|erons]|
+|vous|vous|avis%[m|erez]|
+|ils|s'|avis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|avis%[m|é]|
+|tu|te|seras|avis%[m|é]|
+|il|se|sera|avis%[m|é]|
+|nous|nous|serons|avis%[m|és]|
+|vous|vous|serez|avis%[m|és]|
+|ils|se|seront|avis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|avis%[m|erais]|
+|tu|t'|avis%[m|erais]|
+|il|s'|avis%[m|erait]|
+|nous|nous|avis%[m|erions]|
+|vous|vous|avis%[m|eriez]|
+|ils|s'|avis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|avis%[m|é]|
+|tu|te|serais|avis%[m|é]|
+|il|se|serait|avis%[m|é]|
+|nous|nous|serions|avis%[m|és]|
+|vous|vous|seriez|avis%[m|és]|
+|ils|se|seraient|avis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|avis%[m|e]|
+|que|tu|t'|avis%[m|es]|
+|qu'|il|s'|avis%[m|e]|
+|que|nous|nous|avis%[m|ions]|
+|que|vous|vous|avis%[m|iez]|
+|qu'|ils|s'|avis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|avis%[m|é]|
+|que|tu|te|sois|avis%[m|é]|
+|qu'|il|se|soit|avis%[m|é]|
+|que|nous|nous|soyons|avis%[m|és]|
+|que|vous|vous|soyez|avis%[m|és]|
+|qu'|ils|se|soient|avis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|avis%[m|asse]|
+|que|tu|t'|avis%[m|asses]|
+|qu'|il|s'|avis%[m|ât]|
+|que|nous|nous|avis%[m|assions]|
+|que|vous|vous|avis%[m|assiez]|
+|qu'|ils|s'|avis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|avis%[m|é]|
+|que|tu|te|fusses|avis%[m|é]|
+|qu'|il|se|fût|avis%[m|é]|
+|que|nous|nous|fussions|avis%[m|és]|
+|que|vous|vous|fussiez|avis%[m|és]|
+|qu'|ils|se|fussent|avis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|avis%[m|e]-toi|
+|avis%[m|ons]-nous|
+|avis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# driver %[clVerbGroup|1]
+[-
+faire un drive. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|driv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|driv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|driv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||driv%[m|é]|
+|ayant|driv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en driv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|driv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|driv%[m|e]|
+|tu|driv%[m|es]|
+|il|driv%[m|e]|
+|nous|driv%[m|ons]|
+|vous|driv%[m|ez]|
+|ils|driv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|driv%[m|é]|
+|tu|as |driv%[m|é]|
+|il|a|driv%[m|é]|
+|nous|avons|driv%[m|é]|
+|vous|avez|driv%[m|é]|
+|ils|ont|driv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|driv%[m|ais]|
+|tu|driv%[m|ais]|
+|il|driv%[m|ait]|
+|nous|driv%[m|ions]|
+|vous|driv%[m|iez]|
+|ils|driv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|driv%[m|é]|
+|tu|avais|driv%[m|é]|
+|il|avait|driv%[m|é]|
+|nous|avions|driv%[m|é]|
+|vous|aviez|driv%[m|é]|
+|ils|avaient|driv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|driv%[m|ai]|
+|tu|driv%[m|as]|
+|il|driv%[m|a]|
+|nous|driv%[m|âmes]|
+|vous|driv%[m|âtes]|
+|ils|driv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|driv%[m|é]|
+|tu|eus|driv%[m|é]|
+|il|eut|driv%[m|é]|
+|nous|e&ucirc;mes|driv%[m|é]|
+|vous|e&ucirc;tes|driv%[m|é]|
+|ils|eurent|driv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|driv%[m|erai]|
+|tu|driv%[m|eras]|
+|il|driv%[m|era]|
+|nous|driv%[m|erons]|
+|vous|driv%[m|erez]|
+|ils|driv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|driv%[m|é]|
+|tu|auras|driv%[m|é]|
+|il|aura|driv%[m|é]|
+|nous|aurons|driv%[m|é]|
+|vous|aurez|driv%[m|é]|
+|ils|auront|driv%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|driv%[m|erais]|
+|tu|driv%[m|erais]|
+|il|driv%[m|erait]|
+|nous|driv%[m|erions]|
+|vous|driv%[m|eriez]|
+|ils|driv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|driv%[m|é]|
+|tu|aurais|driv%[m|é]|
+|il|aurait|driv%[m|é]|
+|nous|aurions|driv%[m|é]|
+|vous|auriez|driv%[m|é]|
+|ils|auraient|driv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|driv%[m|e]|
+|que|tu|driv%[m|es]|
+|qu'|il|driv%[m|e]|
+|que|nous|driv%[m|ions]|
+|que|vous|driv%[m|iez]|
+|qu'|ils|driv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|driv%[m|é]|
+|que|tu|aies|driv%[m|é]|
+|qu'|il|ait|driv%[m|é]|
+|que|nous|ayons|driv%[m|é]|
+|que|vous|ayez|driv%[m|é]|
+|qu'|ils|aient|driv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|driv%[m|asse]|
+|que|tu|driv%[m|asses]|
+|qu'|il|driv%[m|ât]|
+|que|nous|driv%[m|assions]|
+|que|vous|driv%[m|assiez]|
+|qu'|ils|driv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|driv%[m|é]|
+|que|tu|eusses|driv%[m|é]|
+|qu'|il|eût|driv%[m|é]|
+|que|nous|eussions|driv%[m|é]|
+|que|vous|eussiez|driv%[m|é]|
+|qu'|ils|eussent|driv%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|driv%[m|e]|
+|driv%[m|ons]|
+|driv%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|driv%[m|é]|
+|ayons|driv%[m|é]|
+|ayez|driv%[m|é]|
+|]
+

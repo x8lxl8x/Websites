@@ -1,0 +1,190 @@
+# appéter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|app%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|appét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|app%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||appét%[m|é]|
+|ayant|appét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en app%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|appét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|app%[m|è]t%[m|e]|
+|tu|app%[m|è]t%[m|es]|
+|il|app%[m|è]t%[m|e]|
+|nous|app%[m|é]t%[m|ons]|
+|vous|app%[m|é]t%[m|ez]|
+|ils|app%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|appét%[m|é]|
+|tu|as |appét%[m|é]|
+|il|a|appét%[m|é]|
+|nous|avons|appét%[m|é]|
+|vous|avez|appét%[m|é]|
+|ils|ont|appét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|app%[m|é]t%[m|ais]|
+|tu|app%[m|é]t%[m|ais]|
+|il|app%[m|é]t%[m|ait]|
+|nous|app%[m|é]t%[m|ions]|
+|vous|app%[m|é]t%[m|iez]|
+|ils|app%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|appét%[m|é]|
+|tu|avais|appét%[m|é]|
+|il|avait|appét%[m|é]|
+|nous|avions|appét%[m|é]|
+|vous|aviez|appét%[m|é]|
+|ils|avaient|appét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|app%[m|é]t%[m|ai]|
+|tu|app%[m|é]t%[m|as]|
+|il|app%[m|é]t%[m|a]|
+|nous|app%[m|é]t%[m|âmes]|
+|vous|app%[m|é]t%[m|âtes]|
+|ils|app%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|appét%[m|é]|
+|tu|eus|appét%[m|é]|
+|il|eut|appét%[m|é]|
+|nous|e&ucirc;mes|appét%[m|é]|
+|vous|e&ucirc;tes|appét%[m|é]|
+|ils|eurent|appét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|app%[m|é]t%[m|erai]|
+|tu|app%[m|é]t%[m|eras]|
+|il|app%[m|é]t%[m|era]|
+|nous|app%[m|é]t%[m|erons]|
+|vous|app%[m|é]t%[m|erez]|
+|ils|app%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|appét%[m|é]|
+|tu|auras|appét%[m|é]|
+|il|aura|appét%[m|é]|
+|nous|aurons|appét%[m|é]|
+|vous|aurez|appét%[m|é]|
+|ils|auront|appét%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|app%[m|é]t%[m|erais]|
+|tu|app%[m|é]t%[m|erais]|
+|il|app%[m|é]t%[m|erait]|
+|nous|app%[m|é]t%[m|erions]|
+|vous|app%[m|é]t%[m|eriez]|
+|ils|app%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|appét%[m|é]|
+|tu|aurais|appét%[m|é]|
+|il|aurait|appét%[m|é]|
+|nous|aurions|appét%[m|é]|
+|vous|auriez|appét%[m|é]|
+|ils|auraient|appét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|app%[m|è]t%[m|e]|
+|que|tu|app%[m|è]t%[m|es]|
+|qu'|il|app%[m|è]t%[m|e]|
+|que|nous|app%[m|é]t%[m|ions]|
+|que|vous|app%[m|é]t%[m|iez]|
+|qu'|ils|app%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|appét%[m|é]|
+|que|tu|aies|appét%[m|é]|
+|qu'|il|ait|appét%[m|é]|
+|que|nous|ayons|appét%[m|é]|
+|que|vous|ayez|appét%[m|é]|
+|qu'|ils|aient|appét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|app%[m|é]t%[m|asse]|
+|que|tu|app%[m|é]t%[m|asses]|
+|qu'|il|app%[m|é]t%[m|ât]|
+|que|nous|app%[m|é]t%[m|assions]|
+|que|vous|app%[m|é]t%[m|assiez]|
+|qu'|ils|app%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|appét%[m|é]|
+|que|tu|eusses|appét%[m|é]|
+|qu'|il|eût|appét%[m|é]|
+|que|nous|eussions|appét%[m|é]|
+|que|vous|eussiez|appét%[m|é]|
+|qu'|ils|eussent|appét%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|app%[m|è]t%[m|e]|
+|app%[m|é]t%[m|ons]|
+|app%[m|é]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|appét%[m|é]|
+|ayons|appét%[m|é]|
+|ayez|appét%[m|é]|
+|]
+

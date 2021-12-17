@@ -1,0 +1,190 @@
+# surdorer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surdor%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surdor%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surdor%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surdor%[m|é]|
+|ayant|surdor%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surdor%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surdor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surdor%[m|e]|
+|tu|surdor%[m|es]|
+|il|surdor%[m|e]|
+|nous|surdor%[m|ons]|
+|vous|surdor%[m|ez]|
+|ils|surdor%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surdor%[m|é]|
+|tu|as |surdor%[m|é]|
+|il|a|surdor%[m|é]|
+|nous|avons|surdor%[m|é]|
+|vous|avez|surdor%[m|é]|
+|ils|ont|surdor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surdor%[m|ais]|
+|tu|surdor%[m|ais]|
+|il|surdor%[m|ait]|
+|nous|surdor%[m|ions]|
+|vous|surdor%[m|iez]|
+|ils|surdor%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surdor%[m|é]|
+|tu|avais|surdor%[m|é]|
+|il|avait|surdor%[m|é]|
+|nous|avions|surdor%[m|é]|
+|vous|aviez|surdor%[m|é]|
+|ils|avaient|surdor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surdor%[m|ai]|
+|tu|surdor%[m|as]|
+|il|surdor%[m|a]|
+|nous|surdor%[m|âmes]|
+|vous|surdor%[m|âtes]|
+|ils|surdor%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surdor%[m|é]|
+|tu|eus|surdor%[m|é]|
+|il|eut|surdor%[m|é]|
+|nous|e&ucirc;mes|surdor%[m|é]|
+|vous|e&ucirc;tes|surdor%[m|é]|
+|ils|eurent|surdor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surdor%[m|erai]|
+|tu|surdor%[m|eras]|
+|il|surdor%[m|era]|
+|nous|surdor%[m|erons]|
+|vous|surdor%[m|erez]|
+|ils|surdor%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surdor%[m|é]|
+|tu|auras|surdor%[m|é]|
+|il|aura|surdor%[m|é]|
+|nous|aurons|surdor%[m|é]|
+|vous|aurez|surdor%[m|é]|
+|ils|auront|surdor%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surdor%[m|erais]|
+|tu|surdor%[m|erais]|
+|il|surdor%[m|erait]|
+|nous|surdor%[m|erions]|
+|vous|surdor%[m|eriez]|
+|ils|surdor%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surdor%[m|é]|
+|tu|aurais|surdor%[m|é]|
+|il|aurait|surdor%[m|é]|
+|nous|aurions|surdor%[m|é]|
+|vous|auriez|surdor%[m|é]|
+|ils|auraient|surdor%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surdor%[m|e]|
+|que|tu|surdor%[m|es]|
+|qu'|il|surdor%[m|e]|
+|que|nous|surdor%[m|ions]|
+|que|vous|surdor%[m|iez]|
+|qu'|ils|surdor%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surdor%[m|é]|
+|que|tu|aies|surdor%[m|é]|
+|qu'|il|ait|surdor%[m|é]|
+|que|nous|ayons|surdor%[m|é]|
+|que|vous|ayez|surdor%[m|é]|
+|qu'|ils|aient|surdor%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surdor%[m|asse]|
+|que|tu|surdor%[m|asses]|
+|qu'|il|surdor%[m|ât]|
+|que|nous|surdor%[m|assions]|
+|que|vous|surdor%[m|assiez]|
+|qu'|ils|surdor%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surdor%[m|é]|
+|que|tu|eusses|surdor%[m|é]|
+|qu'|il|eût|surdor%[m|é]|
+|que|nous|eussions|surdor%[m|é]|
+|que|vous|eussiez|surdor%[m|é]|
+|qu'|ils|eussent|surdor%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surdor%[m|e]|
+|surdor%[m|ons]|
+|surdor%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surdor%[m|é]|
+|ayons|surdor%[m|é]|
+|ayez|surdor%[m|é]|
+|]
+

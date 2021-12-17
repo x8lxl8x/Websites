@@ -1,0 +1,27 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Пранаяма</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id10001' name='var10001' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Наули                    </td></tr>
+<tr><td><input id='id10002' name='var10002' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Бандхи                   </td></tr>
+<tr><td><input id='id10003' name='var10003' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Балансирующая            </td></tr>
+<tr><td><input id='id10004' name='var10004' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Уджайя                   </td></tr>
+<tr><td><input id='id10005' name='var10005' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Капалбхати               </td></tr>
+<tr><td><input id='id10006' name='var10006' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Бхастрика                </td></tr>
+<tr><td><input id='id10007' name='var10007' type='checkbox' placeholder='$arrValues[7]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Охлаждающие              </td></tr>
+<tr><td><input id='id10008' name='var10008' type='checkbox' placeholder='$arrValues[8]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Движение праны           </td></tr>
+<tr><td><input id='id10009' name='var10009' type='checkbox' placeholder='$arrValues[9]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 009&nbsp;&nbsp;&nbsp;Медитация                </td></tr>
+<tr><td><input id='id10010' name='var10010' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>010&nbsp;&nbsp;&nbsp;Тратака                  </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

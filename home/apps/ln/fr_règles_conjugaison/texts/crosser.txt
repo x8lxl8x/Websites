@@ -1,0 +1,190 @@
+# crosser %[clVerbGroup|1]
+[-
+pousser avec une crosse. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cross%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cross%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cross%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cross%[m|é]|
+|ayant|cross%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cross%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cross%[m|e]|
+|tu|cross%[m|es]|
+|il|cross%[m|e]|
+|nous|cross%[m|ons]|
+|vous|cross%[m|ez]|
+|ils|cross%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cross%[m|é]|
+|tu|as |cross%[m|é]|
+|il|a|cross%[m|é]|
+|nous|avons|cross%[m|é]|
+|vous|avez|cross%[m|é]|
+|ils|ont|cross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cross%[m|ais]|
+|tu|cross%[m|ais]|
+|il|cross%[m|ait]|
+|nous|cross%[m|ions]|
+|vous|cross%[m|iez]|
+|ils|cross%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cross%[m|é]|
+|tu|avais|cross%[m|é]|
+|il|avait|cross%[m|é]|
+|nous|avions|cross%[m|é]|
+|vous|aviez|cross%[m|é]|
+|ils|avaient|cross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cross%[m|ai]|
+|tu|cross%[m|as]|
+|il|cross%[m|a]|
+|nous|cross%[m|âmes]|
+|vous|cross%[m|âtes]|
+|ils|cross%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cross%[m|é]|
+|tu|eus|cross%[m|é]|
+|il|eut|cross%[m|é]|
+|nous|e&ucirc;mes|cross%[m|é]|
+|vous|e&ucirc;tes|cross%[m|é]|
+|ils|eurent|cross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cross%[m|erai]|
+|tu|cross%[m|eras]|
+|il|cross%[m|era]|
+|nous|cross%[m|erons]|
+|vous|cross%[m|erez]|
+|ils|cross%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cross%[m|é]|
+|tu|auras|cross%[m|é]|
+|il|aura|cross%[m|é]|
+|nous|aurons|cross%[m|é]|
+|vous|aurez|cross%[m|é]|
+|ils|auront|cross%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cross%[m|erais]|
+|tu|cross%[m|erais]|
+|il|cross%[m|erait]|
+|nous|cross%[m|erions]|
+|vous|cross%[m|eriez]|
+|ils|cross%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cross%[m|é]|
+|tu|aurais|cross%[m|é]|
+|il|aurait|cross%[m|é]|
+|nous|aurions|cross%[m|é]|
+|vous|auriez|cross%[m|é]|
+|ils|auraient|cross%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cross%[m|e]|
+|que|tu|cross%[m|es]|
+|qu'|il|cross%[m|e]|
+|que|nous|cross%[m|ions]|
+|que|vous|cross%[m|iez]|
+|qu'|ils|cross%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cross%[m|é]|
+|que|tu|aies|cross%[m|é]|
+|qu'|il|ait|cross%[m|é]|
+|que|nous|ayons|cross%[m|é]|
+|que|vous|ayez|cross%[m|é]|
+|qu'|ils|aient|cross%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cross%[m|asse]|
+|que|tu|cross%[m|asses]|
+|qu'|il|cross%[m|ât]|
+|que|nous|cross%[m|assions]|
+|que|vous|cross%[m|assiez]|
+|qu'|ils|cross%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cross%[m|é]|
+|que|tu|eusses|cross%[m|é]|
+|qu'|il|eût|cross%[m|é]|
+|que|nous|eussions|cross%[m|é]|
+|que|vous|eussiez|cross%[m|é]|
+|qu'|ils|eussent|cross%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cross%[m|e]|
+|cross%[m|ons]|
+|cross%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cross%[m|é]|
+|ayons|cross%[m|é]|
+|ayez|cross%[m|é]|
+|]
+

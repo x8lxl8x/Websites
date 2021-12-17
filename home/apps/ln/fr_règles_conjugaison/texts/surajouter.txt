@@ -1,0 +1,190 @@
+# surajouter %[clVerbGroup|1]
+[-
+faire un ajout à ce qui est déjà complet. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surajout%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surajout%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surajout%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surajout%[m|é]|
+|ayant|surajout%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surajout%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surajout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surajout%[m|e]|
+|tu|surajout%[m|es]|
+|il|surajout%[m|e]|
+|nous|surajout%[m|ons]|
+|vous|surajout%[m|ez]|
+|ils|surajout%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surajout%[m|é]|
+|tu|as |surajout%[m|é]|
+|il|a|surajout%[m|é]|
+|nous|avons|surajout%[m|é]|
+|vous|avez|surajout%[m|é]|
+|ils|ont|surajout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surajout%[m|ais]|
+|tu|surajout%[m|ais]|
+|il|surajout%[m|ait]|
+|nous|surajout%[m|ions]|
+|vous|surajout%[m|iez]|
+|ils|surajout%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surajout%[m|é]|
+|tu|avais|surajout%[m|é]|
+|il|avait|surajout%[m|é]|
+|nous|avions|surajout%[m|é]|
+|vous|aviez|surajout%[m|é]|
+|ils|avaient|surajout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surajout%[m|ai]|
+|tu|surajout%[m|as]|
+|il|surajout%[m|a]|
+|nous|surajout%[m|âmes]|
+|vous|surajout%[m|âtes]|
+|ils|surajout%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surajout%[m|é]|
+|tu|eus|surajout%[m|é]|
+|il|eut|surajout%[m|é]|
+|nous|e&ucirc;mes|surajout%[m|é]|
+|vous|e&ucirc;tes|surajout%[m|é]|
+|ils|eurent|surajout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surajout%[m|erai]|
+|tu|surajout%[m|eras]|
+|il|surajout%[m|era]|
+|nous|surajout%[m|erons]|
+|vous|surajout%[m|erez]|
+|ils|surajout%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surajout%[m|é]|
+|tu|auras|surajout%[m|é]|
+|il|aura|surajout%[m|é]|
+|nous|aurons|surajout%[m|é]|
+|vous|aurez|surajout%[m|é]|
+|ils|auront|surajout%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surajout%[m|erais]|
+|tu|surajout%[m|erais]|
+|il|surajout%[m|erait]|
+|nous|surajout%[m|erions]|
+|vous|surajout%[m|eriez]|
+|ils|surajout%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surajout%[m|é]|
+|tu|aurais|surajout%[m|é]|
+|il|aurait|surajout%[m|é]|
+|nous|aurions|surajout%[m|é]|
+|vous|auriez|surajout%[m|é]|
+|ils|auraient|surajout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surajout%[m|e]|
+|que|tu|surajout%[m|es]|
+|qu'|il|surajout%[m|e]|
+|que|nous|surajout%[m|ions]|
+|que|vous|surajout%[m|iez]|
+|qu'|ils|surajout%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surajout%[m|é]|
+|que|tu|aies|surajout%[m|é]|
+|qu'|il|ait|surajout%[m|é]|
+|que|nous|ayons|surajout%[m|é]|
+|que|vous|ayez|surajout%[m|é]|
+|qu'|ils|aient|surajout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surajout%[m|asse]|
+|que|tu|surajout%[m|asses]|
+|qu'|il|surajout%[m|ât]|
+|que|nous|surajout%[m|assions]|
+|que|vous|surajout%[m|assiez]|
+|qu'|ils|surajout%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surajout%[m|é]|
+|que|tu|eusses|surajout%[m|é]|
+|qu'|il|eût|surajout%[m|é]|
+|que|nous|eussions|surajout%[m|é]|
+|que|vous|eussiez|surajout%[m|é]|
+|qu'|ils|eussent|surajout%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surajout%[m|e]|
+|surajout%[m|ons]|
+|surajout%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surajout%[m|é]|
+|ayons|surajout%[m|é]|
+|ayez|surajout%[m|é]|
+|]
+

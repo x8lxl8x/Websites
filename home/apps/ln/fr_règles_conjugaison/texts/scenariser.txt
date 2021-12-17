@@ -1,0 +1,190 @@
+# scénariser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|scénaris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|scénaris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||scénaris%[m|é]|
+|ayant|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en scénaris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|scénaris%[m|e]|
+|tu|scénaris%[m|es]|
+|il|scénaris%[m|e]|
+|nous|scénaris%[m|ons]|
+|vous|scénaris%[m|ez]|
+|ils|scénaris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|scénaris%[m|é]|
+|tu|as |scénaris%[m|é]|
+|il|a|scénaris%[m|é]|
+|nous|avons|scénaris%[m|é]|
+|vous|avez|scénaris%[m|é]|
+|ils|ont|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|scénaris%[m|ais]|
+|tu|scénaris%[m|ais]|
+|il|scénaris%[m|ait]|
+|nous|scénaris%[m|ions]|
+|vous|scénaris%[m|iez]|
+|ils|scénaris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|scénaris%[m|é]|
+|tu|avais|scénaris%[m|é]|
+|il|avait|scénaris%[m|é]|
+|nous|avions|scénaris%[m|é]|
+|vous|aviez|scénaris%[m|é]|
+|ils|avaient|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|scénaris%[m|ai]|
+|tu|scénaris%[m|as]|
+|il|scénaris%[m|a]|
+|nous|scénaris%[m|âmes]|
+|vous|scénaris%[m|âtes]|
+|ils|scénaris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|scénaris%[m|é]|
+|tu|eus|scénaris%[m|é]|
+|il|eut|scénaris%[m|é]|
+|nous|e&ucirc;mes|scénaris%[m|é]|
+|vous|e&ucirc;tes|scénaris%[m|é]|
+|ils|eurent|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|scénaris%[m|erai]|
+|tu|scénaris%[m|eras]|
+|il|scénaris%[m|era]|
+|nous|scénaris%[m|erons]|
+|vous|scénaris%[m|erez]|
+|ils|scénaris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|scénaris%[m|é]|
+|tu|auras|scénaris%[m|é]|
+|il|aura|scénaris%[m|é]|
+|nous|aurons|scénaris%[m|é]|
+|vous|aurez|scénaris%[m|é]|
+|ils|auront|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|scénaris%[m|erais]|
+|tu|scénaris%[m|erais]|
+|il|scénaris%[m|erait]|
+|nous|scénaris%[m|erions]|
+|vous|scénaris%[m|eriez]|
+|ils|scénaris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|scénaris%[m|é]|
+|tu|aurais|scénaris%[m|é]|
+|il|aurait|scénaris%[m|é]|
+|nous|aurions|scénaris%[m|é]|
+|vous|auriez|scénaris%[m|é]|
+|ils|auraient|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|scénaris%[m|e]|
+|que|tu|scénaris%[m|es]|
+|qu'|il|scénaris%[m|e]|
+|que|nous|scénaris%[m|ions]|
+|que|vous|scénaris%[m|iez]|
+|qu'|ils|scénaris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|scénaris%[m|é]|
+|que|tu|aies|scénaris%[m|é]|
+|qu'|il|ait|scénaris%[m|é]|
+|que|nous|ayons|scénaris%[m|é]|
+|que|vous|ayez|scénaris%[m|é]|
+|qu'|ils|aient|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|scénaris%[m|asse]|
+|que|tu|scénaris%[m|asses]|
+|qu'|il|scénaris%[m|ât]|
+|que|nous|scénaris%[m|assions]|
+|que|vous|scénaris%[m|assiez]|
+|qu'|ils|scénaris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|scénaris%[m|é]|
+|que|tu|eusses|scénaris%[m|é]|
+|qu'|il|eût|scénaris%[m|é]|
+|que|nous|eussions|scénaris%[m|é]|
+|que|vous|eussiez|scénaris%[m|é]|
+|qu'|ils|eussent|scénaris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|scénaris%[m|e]|
+|scénaris%[m|ons]|
+|scénaris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|scénaris%[m|é]|
+|ayons|scénaris%[m|é]|
+|ayez|scénaris%[m|é]|
+|]
+

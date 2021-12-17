@@ -1,0 +1,190 @@
+# recomposer %[clVerbGroup|1]
+[-
+composer de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|recompos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recompos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|recompos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recompos%[m|é]|
+|ayant|recompos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en recompos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recompos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|recompos%[m|e]|
+|tu|recompos%[m|es]|
+|il|recompos%[m|e]|
+|nous|recompos%[m|ons]|
+|vous|recompos%[m|ez]|
+|ils|recompos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recompos%[m|é]|
+|tu|as |recompos%[m|é]|
+|il|a|recompos%[m|é]|
+|nous|avons|recompos%[m|é]|
+|vous|avez|recompos%[m|é]|
+|ils|ont|recompos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|recompos%[m|ais]|
+|tu|recompos%[m|ais]|
+|il|recompos%[m|ait]|
+|nous|recompos%[m|ions]|
+|vous|recompos%[m|iez]|
+|ils|recompos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recompos%[m|é]|
+|tu|avais|recompos%[m|é]|
+|il|avait|recompos%[m|é]|
+|nous|avions|recompos%[m|é]|
+|vous|aviez|recompos%[m|é]|
+|ils|avaient|recompos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|recompos%[m|ai]|
+|tu|recompos%[m|as]|
+|il|recompos%[m|a]|
+|nous|recompos%[m|âmes]|
+|vous|recompos%[m|âtes]|
+|ils|recompos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recompos%[m|é]|
+|tu|eus|recompos%[m|é]|
+|il|eut|recompos%[m|é]|
+|nous|e&ucirc;mes|recompos%[m|é]|
+|vous|e&ucirc;tes|recompos%[m|é]|
+|ils|eurent|recompos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|recompos%[m|erai]|
+|tu|recompos%[m|eras]|
+|il|recompos%[m|era]|
+|nous|recompos%[m|erons]|
+|vous|recompos%[m|erez]|
+|ils|recompos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recompos%[m|é]|
+|tu|auras|recompos%[m|é]|
+|il|aura|recompos%[m|é]|
+|nous|aurons|recompos%[m|é]|
+|vous|aurez|recompos%[m|é]|
+|ils|auront|recompos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|recompos%[m|erais]|
+|tu|recompos%[m|erais]|
+|il|recompos%[m|erait]|
+|nous|recompos%[m|erions]|
+|vous|recompos%[m|eriez]|
+|ils|recompos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recompos%[m|é]|
+|tu|aurais|recompos%[m|é]|
+|il|aurait|recompos%[m|é]|
+|nous|aurions|recompos%[m|é]|
+|vous|auriez|recompos%[m|é]|
+|ils|auraient|recompos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|recompos%[m|e]|
+|que|tu|recompos%[m|es]|
+|qu'|il|recompos%[m|e]|
+|que|nous|recompos%[m|ions]|
+|que|vous|recompos%[m|iez]|
+|qu'|ils|recompos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recompos%[m|é]|
+|que|tu|aies|recompos%[m|é]|
+|qu'|il|ait|recompos%[m|é]|
+|que|nous|ayons|recompos%[m|é]|
+|que|vous|ayez|recompos%[m|é]|
+|qu'|ils|aient|recompos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|recompos%[m|asse]|
+|que|tu|recompos%[m|asses]|
+|qu'|il|recompos%[m|ât]|
+|que|nous|recompos%[m|assions]|
+|que|vous|recompos%[m|assiez]|
+|qu'|ils|recompos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recompos%[m|é]|
+|que|tu|eusses|recompos%[m|é]|
+|qu'|il|eût|recompos%[m|é]|
+|que|nous|eussions|recompos%[m|é]|
+|que|vous|eussiez|recompos%[m|é]|
+|qu'|ils|eussent|recompos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recompos%[m|e]|
+|recompos%[m|ons]|
+|recompos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recompos%[m|é]|
+|ayons|recompos%[m|é]|
+|ayez|recompos%[m|é]|
+|]
+

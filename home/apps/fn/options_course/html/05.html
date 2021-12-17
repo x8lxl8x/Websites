@@ -1,0 +1,854 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./04.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./06.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Bid-Ask Exercise</h1>
+
+<p>If you're still confused with bids and offers, don't
+feel bad -- the concept throws many new (and even
+advanced) investors. Here's a little workshop that
+coaches you through getting the quotes posted that
+should bring you a new level of understanding (or
+confusion!) to you.</p>
+<p>Let's start by assuming I am the market maker for ABC
+stock. I post bids to buy the stock and offers to sell
+the stock. If you wish to buy or sell, you can either
+put in a &quot;market&quot; order or a &quot;limit&quot; order. If you're
+not familiar with market and limit orders, don't worry.
+We'll cover those in detail in the next course. All you
+need to know for now is that market orders are
+guaranteed to execute, which means you will likely buy
+at the asking price or sell at the bid price. If you
+want to try for a better price, you can enter a limit
+order. With a limit order, you specify the price but
+your order will not execute unless you can be filled for
+that price (or a more favorable price).</p>
+<h2>The Day Begins</h2>
+<p>The market has just opened and I have no customer
+orders on the books. Let's assume that I'm willing to
+buy up to 500 shares at $30 and I'm willing to sell up
+to 500 shares for $30.50. Notice how the price I'm
+willing to pay is less than the price I'm trying to sell
+them for. This is analogous to a car dealer who buys
+used cars at wholesale and then sells them at retail,
+keeping the difference as profit.</p>
+<p>I therefore start the day by entering quotes into my
+system, posting a bid of $30 and an asking price of
+$30.50. </p>
+<p>I log online and get a quote for ABC stock. My screen
+looks like this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table4'>
+<tr align='middle'>
+<td colSpan='2'><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td><b>BID $30</b></td>
+<td><b>ASK $30.50</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2'><b>SIZE 500 x 500</b></td>
+</tr>
+</table>
+<p>The &quot;size&quot; field shows the number of shares available
+at the bid and ask prices respectively. This would be
+read as &quot;500 by 500&quot; and means that 500 shares are on
+the bid and 500 on the ask. Most quote systems give this
+information but, if not, your broker will certainly have
+it.</p>
+<p>Now let's see what happens as orders come to me from
+retail customers. We'll show how they affect my books as
+well as the quotes I get online. Let's start by assuming
+you have some shares you'd like to sell.</p>
+<h2>Order #1</h2>
+<p>You have 200 shares but you do not want to sell at my
+bid price of $30. You decide to put in a sell limit
+order at $30.40, which is in between the bid and ask
+prices.</p>
+<p>At this point, I see your order and realize that it
+is more competitive than my offer (you are willing to
+sell for less than $30.50). So I must do one of two
+things: Either fill it at $30.40 (or higher) or display
+it so that other investors may see it. </p>
+<h2>Key Point</h2>
+<p>Any time a limit order is placed in between the bid
+and ask, that limit order is a more competitive price.
+That's because, by definition, it must be a price that
+is higher than the bid and lower than the ask, which are
+both more favorable to the market.</p>
+<p>Let's assume I decide to not fill the order. </p>
+<p>The quote you're watching will change to reflect the
+lower asking price. The quote you get from your broker
+or online is called the &quot;inside quote&quot; and reflects the
+best bid and offer. Your screen now changes to this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table5'>
+<tr align='middle'>
+<td colSpan='2'><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td><b>BID $30</b></td>
+<td><b>ASK $30.40</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2'><b>SIZE 500 x 200</b></td>
+</tr>
+</table>
+<p>Notice how the asking price is reduced from $30.50 to
+$30.40 (that's your order) as well as the size. Your
+order is only good for 200 shares so the size of the
+offer falls from 500 to 200.</p>
+<p>Any time an order is placed &quot;in between&quot; the bid and
+ask without it being filled, it will result in a
+changing of the quote!</p>
+<p>Because I am the market maker, I must keep track of
+<u>all</u> quotes even though I only show the best bid
+and offer. My computer software will show this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table6'>
+<tr align='middle'>
+<td colSpan='4' v><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2' v><b>BIDS</b></td>
+<td>500</td>
+<td>$30.50</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30</td>
+<td>200</td>
+<td>$30.40</td>
+</tr>
+<tr align='middle'>
+<td colSpan='2'>&nbsp;</td>
+<td colSpan='2'><b>OFFERS</b></td>
+</tr>
+</table>
+<p>Basically all that happens is that the bids or offers
+that are &quot;away&quot; from the market get shifted. When we say
+&quot;away&quot; from the market, we mean that they are not as
+favorable a price. In this case, my offer of $30.50
+(shown in red) is shifted higher and your order takes
+its place.</p>
+<p>Notice too how your quote system online only shows
+the one row of my book (in blue). That is all you will
+ever see even though there are many quotes above and
+below that. Once again, this is because the market is
+really only concerned with the highest bid and lowest
+offer (the inside quote).</p>
+<p>Let's run through a few more examples so we can get
+some orders on the books. Then we'll look at how to fill
+orders based on the book.</p>
+<h2>Order #2</h2>
+<p>Another investor comes along and enters an order to
+buy ABC stock. They think it will fall a bit first and
+place a limit order to buy 400 shares at $29.</p>
+<p>Once again, I get this order and notice that it is
+not as competitive as my bid of $30 so will just move
+that order out in the &quot;wings&quot; to be filled at hopefully
+a later time. In other words, because this new order is
+not in between the bid and ask, it is therefore less
+competitive and just gets pushed aside for now. My
+system now looks like this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table7'>
+<tr align='middle'>
+<td colSpan='4' v><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2' v><b>BIDS</b></td>
+<td>500</td>
+<td>$30.50</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30</td>
+<td>200</td>
+<td>$30.40</td>
+</tr>
+<tr align='middle'>
+<td>400</td>
+<td>$29</td>
+<td colSpan='2'><b>OFFERS</b></td>
+</tr>
+</table>
+<p>The lower bids (worse for the market) get moved lower
+and the higher offers (worse for the market) get moved
+higher. Remember, the market is only concerned with the
+highest bid and the lowest offer. All others get &quot;swept
+aside&quot; for the meantime. This practice always keeps the
+best bid and offer in the middle of my screen.</p>
+<h2>Order #3</h2>
+<p>A new order comes in to buy 100 shares at $28.50.
+This buyer is the weakest of all bidders (the lowest),
+so it gets moved to the very bottom. My system now looks
+like this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table8'>
+<tr align='middle'>
+<td colSpan='4' v><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2' v><b>BIDS</b></td>
+<td>500</td>
+<td>$30.50</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30</td>
+<td>200</td>
+<td>$30.40</td>
+</tr>
+<tr align='middle'>
+<td>400</td>
+<td>$29</td>
+<td colSpan='2' rowSpan='2'><b>
+OFFERS</b></td>
+</tr>
+<tr align='middle'>
+<td>100</td>
+<td>$28.50</td>
+</tr>
+</table>
+<p>Notice how the &quot;buy&quot; orders are always placed under
+the &quot;bid&quot; column and the &quot;sell&quot; orders are always under
+the &quot;offers.&quot; This is in line with what we said earlier:
+The bid price represents buyers and the offer price
+(asking price) represents the sellers.</p>
+<h2>Order #4</h2>
+<p>Hopefully you're getting the idea of how this works
+so let's go ahead with several orders and assume the
+following orders are received:</p>
+<ul>
+<li>Sell 300 shares at $30.75
+</li>
+<li>Sell 150 shares at $30.45
+</li>
+<li>Buy 250 shares at $29.50 </li>
+</ul>
+<p>The first order to sell 300 shares at $30.75 is the
+highest of all current offers, so they go to the very
+back of the line:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table9'>
+<tr align='middle'>
+<td colSpan='4' v><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2' rowSpan='2'><b>BIDS
+<h4>&nbsp;</h4>
+</b></td>
+<td>300</td>
+<td>$30.75</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30.50</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30</td>
+<td>200</td>
+<td>$30.40</td>
+</tr>
+<tr align='middle'>
+<td>400</td>
+<td>$29</td>
+<td colSpan='2' rowSpan='2'><b>
+OFFERS</b></td>
+</tr>
+<tr align='middle'>
+<td>100</td>
+<td>$28.50</td>
+</tr>
+</table>
+<p>The next order is to sell 150 shares at $30.45. They
+are higher than the best offer of $30.40 but are not the
+worst one either. They get wedged between the offers of
+$30.40 and $30.50 as shown below. The same idea applies
+to the last order to buy 250 at $29.50. They get wedged
+between the orders to buy 400 at $29 and 500 at $30:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table10'>
+<tr align='middle'>
+<td colSpan='4' v><b>ABC STOCK</b></td>
+</tr>
+<tr align='middle'>
+<td colSpan='2' rowSpan='3'><b>BIDS</b></td>
+<td>300</td>
+<td>$30.75</td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30.50</td>
+</tr>
+<tr align='middle'>
+<td><b>150</b></td>
+<td><b>$30.45</b></td>
+</tr>
+<tr align='middle'>
+<td>500</td>
+<td>$30</td>
+<td>200</td>
+<td>$30.40</td>
+</tr>
+<tr align='middle'>
+<td><b>250</b></td>
+<td><b>$29.50</b></td>
+<td colSpan='2' rowSpan='3'><b>
+OFFERS</b></td>
+</tr>
+<tr align='middle'>
+<td>400</td>
+<td>$29</td>
+</tr>
+<tr align='middle'>
+<td>100</td>
+<td>$28.50</td>
+</tr>
+</table>
+<p>This process continues with all bids and offers are
+placed in descending order. If an order comes in that is
+the most competitive bid or offer, it will be placed at
+the very front of the line. Otherwise, the order takes
+its appropriate place in line.</p>
+<p>Let's do one more like that to be sure you
+understand.</p>
+<h2>Order #5</h2>
+<p>An order comes in to buy 100 shares at $30.20, which
+is in between the current quote of $30 to $30.40.
+Therefore, the order jumps to the front of the line as
+shown. In other words, because it is are now the highest
+bid, it moves to the front of the line. The only way to
+get moved to the front of the line, whether buying or
+selling, is to place a limit order in between the bid
+and ask. My computer screen now looks like this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table11'>
+<tr>
+<td colSpan='4'>
+<div align='center'>
+<b>ABC STOCK</b></div>
+</td>
+</tr>
+<tr>
+<td colSpan='2' rowSpan='3'>
+<div align='center'>
+<b>BIDS</b></div>
+</td>
+<td>
+<div align='center'>
+300</div>
+</td>
+<td>
+<div align='center'>
+$30.75</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+500</div>
+</td>
+<td>
+<div align='center'>
+$30.50</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+150</div>
+</td>
+<td>
+<div align='center'>
+$30.45</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+<b>100</b></div>
+</td>
+<td>
+<div align='center'>
+<b>$30.20</b></div>
+</td>
+<td>
+<div align='center'>
+<b>200</b></div>
+</td>
+<td>
+<div align='center'>
+<b>$30.40</b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+500</div>
+</td>
+<td>
+<div align='center'>
+$30</div>
+</td>
+<td colSpan='2' rowSpan='4'>
+<div align='center'>
+<b>OFFERS</b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+250</div>
+</td>
+<td>
+<div align='center'>
+$29.50</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+400</div>
+</td>
+<td>
+<div align='center'>
+$29</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align='center'>
+100</div>
+</td>
+<td>
+<div align='center'>
+$28.50</div>
+</td>
+</tr>
+</table>
+<h2>Filling Orders</h2>
+<p>Now let's look at some orders that actually get
+filled. The reason that none of the orders got filled in
+the first examples is because none of the buyers
+accepted the offer price (called &quot;taking the offer&quot; in
+trader's jargon) or sold at the bid (called &quot;hitting the
+bid&quot;). All orders were either &quot;in between&quot; the bid and
+ask or away from the market. Now we're going to focus on
+what happens when orders actually get filled.</p>
+<h2>Order #1</h2>
+<p>An order comes in to buy 200 shares &quot;at market.&quot; </p>
+<p>Because those investors listed in the &quot;offers&quot; column
+are sellers, I know I can match this buy order with the
+person there and fill the order. The trade &quot;200 at
+$30.40&quot; is removed from my books and all the offers are
+now shifted down. The best offer is now $30.45:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table12'>
+<tr>
+<td colSpan='4'>
+<h4 align='center'>ABC STOCK</h4>
+</td>
+</tr>
+<tr>
+<td colSpan='2' rowSpan='2'>
+<h4 align='center'>BIDS</h4>
+</td>
+<td>
+<p align='center'>300</td>
+<td>
+<p align='center'>$30.75</td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30.50</td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>100</b></td>
+<td>
+<p align='center'><b>$30.20</b></td>
+<td>
+<p align='center'><b>150</b></td>
+<td>
+<p align='center'><b>$30.45</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30</td>
+<td colSpan='2' rowSpan='4'>
+<div align='center'>
+<strong>OFFERS</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>250</td>
+<td>
+<p align='center'>$29.50</td>
+</tr>
+<tr>
+<td>
+<p align='center'>400</td>
+<td>
+<p align='center'>$29</td>
+</tr>
+<tr>
+<td>
+<p align='center'>100</td>
+<td>
+<p align='center'>$28.50</td>
+</tr>
+</table>
+<p>Of course, your screen will reflect this change as
+well. You will now see:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table13'>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>ABC STOCK</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>BID $30.20</b></td>
+<td>
+<p align='center'><b>ASK $30.45</b></td>
+</tr>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>SIZE 100 x 150</b></td>
+</tr>
+</table>
+<p>The buyer receives a confirmation from his broker
+that he bought 200 shares at $30.40, and the seller
+receives a confirmation of the sale under the same
+terms.</p>
+<h2>Order #2</h2>
+<p>An order comes in to buy 350 shares at market. Market
+orders must be filled, so I look at my books and will
+have to split some orders. I will give the person 150
+shares at $30.45 and 200 shares from the order above it
+at $30.50 as shown by the arrows: </p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table14'>
+<tr>
+<td colSpan='4'>
+<h4 align='center'>ABC STOCK</h4>
+</td>
+</tr>
+<tr>
+<td colSpan='2' rowSpan='2'>
+<h4 align='center'>BIDS</h4>
+</td>
+<td>
+<p align='center'>300</td>
+<td>
+<p align='center'>$30.75</td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30.50<br>
+Only 200 shares get filled from here</td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>100</b></td>
+<td>
+<p align='center'><b>$30.20</b></td>
+<td>
+<p align='center'><b>150</b></td>
+<td>
+<div align='center'>
+<b>$30.45<br>
+</b>We'll use all 150 of these</div>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30</td>
+<td colSpan='2' rowSpan='4'>
+<div align='center'>
+&nbsp;</div>
+<h4 align='center'>OFFERS</h4>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>250</td>
+<td>
+<p align='center'>$29.50</td>
+</tr>
+<tr>
+<td>
+<p align='center'>400</td>
+<td>
+<p align='center'>$29</td>
+</tr>
+<tr>
+<td>
+<p align='center'>100</td>
+<td>
+<p align='center'>$28.50</td>
+</tr>
+</table>
+<p>After that order is filled, my screen looks like
+this:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table15'>
+<tr>
+<td colSpan='4'>
+<h4 align='center'>ABC STOCK</h4>
+</td>
+</tr>
+<tr>
+<td colSpan='2'>
+<h4 align='center'>BIDS</h4>
+</td>
+<td>
+<p align='center'>300</td>
+<td>
+<p align='center'>$30.75</td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>100</b></td>
+<td>
+<p align='center'><b>$30.20</b></td>
+<td>
+<p align='center'><b>300</b></td>
+<td>
+<p align='center'><b>$30.50</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30</td>
+<td colSpan='2' rowSpan='4'>
+<div align='center'>
+<strong>OFFERS</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>250</td>
+<td>
+<p align='center'>$29.50</td>
+</tr>
+<tr>
+<td>
+<p align='center'>400</td>
+<td>
+<p align='center'>$29</td>
+</tr>
+<tr>
+<td>
+<p align='center'>100</td>
+<td>
+<p align='center'>$28.50</td>
+</tr>
+</table>
+<p>The person who had the order to sell 500 shares at
+$30.50 will receive a confirmation from his broker that
+200 shares were sold at $30.50, and he will still have
+an open order to sell the remaining 300 at $30.50.</p>
+<p>The investor who placed the order to buy 350 shares
+at market will also receive partial fills. Their broker
+will inform them that they bought 150 shares at $30.45
+and 200 shares at $30.50. This explains why it is not
+uncommon to see &quot;partial fills&quot; on your account!</p>
+<p>Your screen now reflects the new inside quote and
+size:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table16'>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>ABC STOCK</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>BID $30.20</b></td>
+<td>
+<p align='center'><b>ASK $30.50</b></td>
+</tr>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>SIZE 100 x 300</b></td>
+</tr>
+</table>
+<h2>Order #3</h2>
+<p>See if you can handle this next order. An order comes
+in to sell 700 shares at market. How would you fill it?
+Look at the chart below and see if you can figure it out
+then continue reading to see if you have the correct
+answer.</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table17'>
+<tr>
+<td colSpan='4'>
+<h4 align='center'>ABC STOCK</h4>
+</td>
+</tr>
+<tr>
+<td colSpan='2'>
+<h4 align='center'>BIDS</h4>
+</td>
+<td>
+<p align='center'>300</td>
+<td>
+<p align='center'>$30.75</td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>100</b></td>
+<td>
+<p align='center'><b>$30.20</b></td>
+<td>
+<p align='center'><b>300</b></td>
+<td>
+<p align='center'><b>$30.50</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'>500</td>
+<td>
+<p align='center'>$30</td>
+<td colSpan='2' rowSpan='4'>
+<h4 align='center'>OFFERS</h4>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>250</td>
+<td>
+<p align='center'>$29.50</td>
+</tr>
+<tr>
+<td>
+<p align='center'>400</td>
+<td>
+<p align='center'>$29</td>
+</tr>
+<tr>
+<td>
+<p align='center'>100</td>
+<td>
+<p align='center'>$28.50</td>
+</tr>
+</table>
+<p>The market order must be filled so we find some
+buyers (bidders) to match up to this seller.
+Specifically, we need 700 shares. We look in the bid
+column and will fill:</p>
+<ul type='disc'>
+<li>100 shares at $30.20
+</li>
+<li>500 shares at $30
+</li>
+<li>100 shares at $29.50 </li>
+</ul>
+<p>Now, in reality, the market maker will usually step
+in and provide some liquidity. For instance, I could
+decide to fill 100 shares at $30.20 and 600 shares at
+$30, thus giving up 100 shares from my own account. It
+is not required, but is usually done to provide more
+liquid markets. For now, let's assume that the order is
+filled as we originally stated in the bullet points
+above. My books now look like this:</p>
+<p>And your quotes will now show:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table18'>
+<tr>
+<td colSpan='4'>
+<h4 align='center'>ABC STOCK</h4>
+</td>
+</tr>
+<tr>
+<td colSpan='2'>
+<h4 align='center'>BIDS</h4>
+</td>
+<td>
+<p align='center'>300</td>
+<td>
+<p align='center'>$30.75</td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>150</b></td>
+<td>
+<p align='center'><b>$29.50</b></td>
+<td>
+<p align='center'><b>300</b></td>
+<td>
+<p align='center'><b>$30.50</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'>400</td>
+<td>
+<p align='center'>$29</td>
+<td colSpan='2' rowSpan='2'>
+<div align='center'>
+<b>OFFERS</b></div>
+</td>
+</tr>
+<tr>
+<td>
+<p align='center'>100</td>
+<td>
+<p align='center'>$28.50</td>
+</tr>
+</table>
+<p>&nbsp;</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table19'>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>ABC STOCK</b></td>
+</tr>
+<tr>
+<td>
+<p align='center'><b>BID $29.50</b></td>
+<td>
+<p align='center'><b>ASK $30.50</b></td>
+</tr>
+<tr>
+<td colSpan='2'>
+<p align='center'><b>SIZE 150 x 300</b></td>
+</tr>
+</table>
+<p>Notice how the spread -- the difference between the
+bid and ask -- has widened to $1. At the very beginning
+of this exercise, the quote was $30 to $30.50, which is
+only a half-point spread. The spreads will generally
+widen if the market maker only fills orders based on the
+book like we've been doing in these examples. This is
+why market makers usually step in and provide some
+liquidity to keep an orderly market. If they didn't, the
+spreads would just keep getting wider and wider as
+orders are filled.</p>
+<p>Hopefully this exercise sheds some light on what
+happens with the bids and offers and how the orders are
+handled. More importantly, you just need to be aware
+that when your broker quotes you a bid price, that is
+the price of the highest buyer and, consequently, the
+price where you can currently sell. Likewise, if you get
+a quote on the ask, that is the price of the lowest
+selling price and, consequently, the price where you can
+currently buy.</p>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+# fragmenter %[clVerbGroup|1]
+[-
+partager en fragments. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fragment%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fragment%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fragment%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fragment%[m|é]|
+|ayant|fragment%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fragment%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fragment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fragment%[m|e]|
+|tu|fragment%[m|es]|
+|il|fragment%[m|e]|
+|nous|fragment%[m|ons]|
+|vous|fragment%[m|ez]|
+|ils|fragment%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fragment%[m|é]|
+|tu|as |fragment%[m|é]|
+|il|a|fragment%[m|é]|
+|nous|avons|fragment%[m|é]|
+|vous|avez|fragment%[m|é]|
+|ils|ont|fragment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fragment%[m|ais]|
+|tu|fragment%[m|ais]|
+|il|fragment%[m|ait]|
+|nous|fragment%[m|ions]|
+|vous|fragment%[m|iez]|
+|ils|fragment%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fragment%[m|é]|
+|tu|avais|fragment%[m|é]|
+|il|avait|fragment%[m|é]|
+|nous|avions|fragment%[m|é]|
+|vous|aviez|fragment%[m|é]|
+|ils|avaient|fragment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fragment%[m|ai]|
+|tu|fragment%[m|as]|
+|il|fragment%[m|a]|
+|nous|fragment%[m|âmes]|
+|vous|fragment%[m|âtes]|
+|ils|fragment%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fragment%[m|é]|
+|tu|eus|fragment%[m|é]|
+|il|eut|fragment%[m|é]|
+|nous|e&ucirc;mes|fragment%[m|é]|
+|vous|e&ucirc;tes|fragment%[m|é]|
+|ils|eurent|fragment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fragment%[m|erai]|
+|tu|fragment%[m|eras]|
+|il|fragment%[m|era]|
+|nous|fragment%[m|erons]|
+|vous|fragment%[m|erez]|
+|ils|fragment%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fragment%[m|é]|
+|tu|auras|fragment%[m|é]|
+|il|aura|fragment%[m|é]|
+|nous|aurons|fragment%[m|é]|
+|vous|aurez|fragment%[m|é]|
+|ils|auront|fragment%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fragment%[m|erais]|
+|tu|fragment%[m|erais]|
+|il|fragment%[m|erait]|
+|nous|fragment%[m|erions]|
+|vous|fragment%[m|eriez]|
+|ils|fragment%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fragment%[m|é]|
+|tu|aurais|fragment%[m|é]|
+|il|aurait|fragment%[m|é]|
+|nous|aurions|fragment%[m|é]|
+|vous|auriez|fragment%[m|é]|
+|ils|auraient|fragment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fragment%[m|e]|
+|que|tu|fragment%[m|es]|
+|qu'|il|fragment%[m|e]|
+|que|nous|fragment%[m|ions]|
+|que|vous|fragment%[m|iez]|
+|qu'|ils|fragment%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fragment%[m|é]|
+|que|tu|aies|fragment%[m|é]|
+|qu'|il|ait|fragment%[m|é]|
+|que|nous|ayons|fragment%[m|é]|
+|que|vous|ayez|fragment%[m|é]|
+|qu'|ils|aient|fragment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fragment%[m|asse]|
+|que|tu|fragment%[m|asses]|
+|qu'|il|fragment%[m|ât]|
+|que|nous|fragment%[m|assions]|
+|que|vous|fragment%[m|assiez]|
+|qu'|ils|fragment%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fragment%[m|é]|
+|que|tu|eusses|fragment%[m|é]|
+|qu'|il|eût|fragment%[m|é]|
+|que|nous|eussions|fragment%[m|é]|
+|que|vous|eussiez|fragment%[m|é]|
+|qu'|ils|eussent|fragment%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fragment%[m|e]|
+|fragment%[m|ons]|
+|fragment%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fragment%[m|é]|
+|ayons|fragment%[m|é]|
+|ayez|fragment%[m|é]|
+|]
+

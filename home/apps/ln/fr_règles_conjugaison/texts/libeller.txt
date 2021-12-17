@@ -1,0 +1,190 @@
+# libeller %[clVerbGroup|1]
+[-
+rédiger dans les formes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|libell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|libell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|libell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||libell%[m|é]|
+|ayant|libell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en libell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|libell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|libell%[m|e]|
+|tu|libell%[m|es]|
+|il|libell%[m|e]|
+|nous|libell%[m|ons]|
+|vous|libell%[m|ez]|
+|ils|libell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|libell%[m|é]|
+|tu|as |libell%[m|é]|
+|il|a|libell%[m|é]|
+|nous|avons|libell%[m|é]|
+|vous|avez|libell%[m|é]|
+|ils|ont|libell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|libell%[m|ais]|
+|tu|libell%[m|ais]|
+|il|libell%[m|ait]|
+|nous|libell%[m|ions]|
+|vous|libell%[m|iez]|
+|ils|libell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|libell%[m|é]|
+|tu|avais|libell%[m|é]|
+|il|avait|libell%[m|é]|
+|nous|avions|libell%[m|é]|
+|vous|aviez|libell%[m|é]|
+|ils|avaient|libell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|libell%[m|ai]|
+|tu|libell%[m|as]|
+|il|libell%[m|a]|
+|nous|libell%[m|âmes]|
+|vous|libell%[m|âtes]|
+|ils|libell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|libell%[m|é]|
+|tu|eus|libell%[m|é]|
+|il|eut|libell%[m|é]|
+|nous|e&ucirc;mes|libell%[m|é]|
+|vous|e&ucirc;tes|libell%[m|é]|
+|ils|eurent|libell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|libell%[m|erai]|
+|tu|libell%[m|eras]|
+|il|libell%[m|era]|
+|nous|libell%[m|erons]|
+|vous|libell%[m|erez]|
+|ils|libell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|libell%[m|é]|
+|tu|auras|libell%[m|é]|
+|il|aura|libell%[m|é]|
+|nous|aurons|libell%[m|é]|
+|vous|aurez|libell%[m|é]|
+|ils|auront|libell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|libell%[m|erais]|
+|tu|libell%[m|erais]|
+|il|libell%[m|erait]|
+|nous|libell%[m|erions]|
+|vous|libell%[m|eriez]|
+|ils|libell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|libell%[m|é]|
+|tu|aurais|libell%[m|é]|
+|il|aurait|libell%[m|é]|
+|nous|aurions|libell%[m|é]|
+|vous|auriez|libell%[m|é]|
+|ils|auraient|libell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|libell%[m|e]|
+|que|tu|libell%[m|es]|
+|qu'|il|libell%[m|e]|
+|que|nous|libell%[m|ions]|
+|que|vous|libell%[m|iez]|
+|qu'|ils|libell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|libell%[m|é]|
+|que|tu|aies|libell%[m|é]|
+|qu'|il|ait|libell%[m|é]|
+|que|nous|ayons|libell%[m|é]|
+|que|vous|ayez|libell%[m|é]|
+|qu'|ils|aient|libell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|libell%[m|asse]|
+|que|tu|libell%[m|asses]|
+|qu'|il|libell%[m|ât]|
+|que|nous|libell%[m|assions]|
+|que|vous|libell%[m|assiez]|
+|qu'|ils|libell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|libell%[m|é]|
+|que|tu|eusses|libell%[m|é]|
+|qu'|il|eût|libell%[m|é]|
+|que|nous|eussions|libell%[m|é]|
+|que|vous|eussiez|libell%[m|é]|
+|qu'|ils|eussent|libell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|libell%[m|e]|
+|libell%[m|ons]|
+|libell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|libell%[m|é]|
+|ayons|libell%[m|é]|
+|ayez|libell%[m|é]|
+|]
+

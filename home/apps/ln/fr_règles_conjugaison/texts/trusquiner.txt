@@ -1,0 +1,190 @@
+# trusquiner %[clVerbGroup|1]
+[-
+tracer à l'aide d'un trusquin. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|trusquin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|trusquin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||trusquin%[m|é]|
+|ayant|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en trusquin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|trusquin%[m|e]|
+|tu|trusquin%[m|es]|
+|il|trusquin%[m|e]|
+|nous|trusquin%[m|ons]|
+|vous|trusquin%[m|ez]|
+|ils|trusquin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|trusquin%[m|é]|
+|tu|as |trusquin%[m|é]|
+|il|a|trusquin%[m|é]|
+|nous|avons|trusquin%[m|é]|
+|vous|avez|trusquin%[m|é]|
+|ils|ont|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|trusquin%[m|ais]|
+|tu|trusquin%[m|ais]|
+|il|trusquin%[m|ait]|
+|nous|trusquin%[m|ions]|
+|vous|trusquin%[m|iez]|
+|ils|trusquin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|trusquin%[m|é]|
+|tu|avais|trusquin%[m|é]|
+|il|avait|trusquin%[m|é]|
+|nous|avions|trusquin%[m|é]|
+|vous|aviez|trusquin%[m|é]|
+|ils|avaient|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|trusquin%[m|ai]|
+|tu|trusquin%[m|as]|
+|il|trusquin%[m|a]|
+|nous|trusquin%[m|âmes]|
+|vous|trusquin%[m|âtes]|
+|ils|trusquin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|trusquin%[m|é]|
+|tu|eus|trusquin%[m|é]|
+|il|eut|trusquin%[m|é]|
+|nous|e&ucirc;mes|trusquin%[m|é]|
+|vous|e&ucirc;tes|trusquin%[m|é]|
+|ils|eurent|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|trusquin%[m|erai]|
+|tu|trusquin%[m|eras]|
+|il|trusquin%[m|era]|
+|nous|trusquin%[m|erons]|
+|vous|trusquin%[m|erez]|
+|ils|trusquin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|trusquin%[m|é]|
+|tu|auras|trusquin%[m|é]|
+|il|aura|trusquin%[m|é]|
+|nous|aurons|trusquin%[m|é]|
+|vous|aurez|trusquin%[m|é]|
+|ils|auront|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|trusquin%[m|erais]|
+|tu|trusquin%[m|erais]|
+|il|trusquin%[m|erait]|
+|nous|trusquin%[m|erions]|
+|vous|trusquin%[m|eriez]|
+|ils|trusquin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|trusquin%[m|é]|
+|tu|aurais|trusquin%[m|é]|
+|il|aurait|trusquin%[m|é]|
+|nous|aurions|trusquin%[m|é]|
+|vous|auriez|trusquin%[m|é]|
+|ils|auraient|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|trusquin%[m|e]|
+|que|tu|trusquin%[m|es]|
+|qu'|il|trusquin%[m|e]|
+|que|nous|trusquin%[m|ions]|
+|que|vous|trusquin%[m|iez]|
+|qu'|ils|trusquin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|trusquin%[m|é]|
+|que|tu|aies|trusquin%[m|é]|
+|qu'|il|ait|trusquin%[m|é]|
+|que|nous|ayons|trusquin%[m|é]|
+|que|vous|ayez|trusquin%[m|é]|
+|qu'|ils|aient|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|trusquin%[m|asse]|
+|que|tu|trusquin%[m|asses]|
+|qu'|il|trusquin%[m|ât]|
+|que|nous|trusquin%[m|assions]|
+|que|vous|trusquin%[m|assiez]|
+|qu'|ils|trusquin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|trusquin%[m|é]|
+|que|tu|eusses|trusquin%[m|é]|
+|qu'|il|eût|trusquin%[m|é]|
+|que|nous|eussions|trusquin%[m|é]|
+|que|vous|eussiez|trusquin%[m|é]|
+|qu'|ils|eussent|trusquin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|trusquin%[m|e]|
+|trusquin%[m|ons]|
+|trusquin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|trusquin%[m|é]|
+|ayons|trusquin%[m|é]|
+|ayez|trusquin%[m|é]|
+|]
+

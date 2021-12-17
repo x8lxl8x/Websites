@@ -1,0 +1,190 @@
+# luncher %[clVerbGroup|1]
+[-
+faire un lunch. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|lunch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|lunch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|lunch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||lunch%[m|é]|
+|ayant|lunch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en lunch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|lunch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|lunch%[m|e]|
+|tu|lunch%[m|es]|
+|il|lunch%[m|e]|
+|nous|lunch%[m|ons]|
+|vous|lunch%[m|ez]|
+|ils|lunch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|lunch%[m|é]|
+|tu|as |lunch%[m|é]|
+|il|a|lunch%[m|é]|
+|nous|avons|lunch%[m|é]|
+|vous|avez|lunch%[m|é]|
+|ils|ont|lunch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|lunch%[m|ais]|
+|tu|lunch%[m|ais]|
+|il|lunch%[m|ait]|
+|nous|lunch%[m|ions]|
+|vous|lunch%[m|iez]|
+|ils|lunch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|lunch%[m|é]|
+|tu|avais|lunch%[m|é]|
+|il|avait|lunch%[m|é]|
+|nous|avions|lunch%[m|é]|
+|vous|aviez|lunch%[m|é]|
+|ils|avaient|lunch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|lunch%[m|ai]|
+|tu|lunch%[m|as]|
+|il|lunch%[m|a]|
+|nous|lunch%[m|âmes]|
+|vous|lunch%[m|âtes]|
+|ils|lunch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|lunch%[m|é]|
+|tu|eus|lunch%[m|é]|
+|il|eut|lunch%[m|é]|
+|nous|e&ucirc;mes|lunch%[m|é]|
+|vous|e&ucirc;tes|lunch%[m|é]|
+|ils|eurent|lunch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|lunch%[m|erai]|
+|tu|lunch%[m|eras]|
+|il|lunch%[m|era]|
+|nous|lunch%[m|erons]|
+|vous|lunch%[m|erez]|
+|ils|lunch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|lunch%[m|é]|
+|tu|auras|lunch%[m|é]|
+|il|aura|lunch%[m|é]|
+|nous|aurons|lunch%[m|é]|
+|vous|aurez|lunch%[m|é]|
+|ils|auront|lunch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|lunch%[m|erais]|
+|tu|lunch%[m|erais]|
+|il|lunch%[m|erait]|
+|nous|lunch%[m|erions]|
+|vous|lunch%[m|eriez]|
+|ils|lunch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|lunch%[m|é]|
+|tu|aurais|lunch%[m|é]|
+|il|aurait|lunch%[m|é]|
+|nous|aurions|lunch%[m|é]|
+|vous|auriez|lunch%[m|é]|
+|ils|auraient|lunch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|lunch%[m|e]|
+|que|tu|lunch%[m|es]|
+|qu'|il|lunch%[m|e]|
+|que|nous|lunch%[m|ions]|
+|que|vous|lunch%[m|iez]|
+|qu'|ils|lunch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|lunch%[m|é]|
+|que|tu|aies|lunch%[m|é]|
+|qu'|il|ait|lunch%[m|é]|
+|que|nous|ayons|lunch%[m|é]|
+|que|vous|ayez|lunch%[m|é]|
+|qu'|ils|aient|lunch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|lunch%[m|asse]|
+|que|tu|lunch%[m|asses]|
+|qu'|il|lunch%[m|ât]|
+|que|nous|lunch%[m|assions]|
+|que|vous|lunch%[m|assiez]|
+|qu'|ils|lunch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|lunch%[m|é]|
+|que|tu|eusses|lunch%[m|é]|
+|qu'|il|eût|lunch%[m|é]|
+|que|nous|eussions|lunch%[m|é]|
+|que|vous|eussiez|lunch%[m|é]|
+|qu'|ils|eussent|lunch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lunch%[m|e]|
+|lunch%[m|ons]|
+|lunch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|lunch%[m|é]|
+|ayons|lunch%[m|é]|
+|ayez|lunch%[m|é]|
+|]
+

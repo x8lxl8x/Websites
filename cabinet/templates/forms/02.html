@@ -1,0 +1,231 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Состояние здоровья</h4>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><th colspan='2'>Сердечно-сосудистые</th></tr>
+<tr><td><input id='id0201' name='var0201' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Высокое кровяное давление          </td></tr>
+<tr><td><input id='id0202' name='var0202' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Низкое кровяное давление          </td></tr>
+<tr><td><input id='id0203' name='var0203' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Плохое кровообращение            </td></tr>
+<tr><td><input id='id0204' name='var0204' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Высокий холестерин            </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Состояние кожи</th></tr>
+<tr><td><input id='id0205' name='var0205' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Зуд, Сухость                </td></tr>
+<tr><td><input id='id0206' name='var0206' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Нарывы                  </td></tr>
+<tr><td><input id='id0207' name='var0207' type='checkbox' placeholder='$arrValues[7]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Кожные высыпания              </td></tr>
+<tr><td><input id='id0208' name='var0208' type='checkbox' placeholder='$arrValues[8]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Экзема, псориаз              </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Мышцы, Суставы</th></tr>
+<tr><td><input id='id0209' name='var0209' type='checkbox' placeholder='$arrValues[9]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Опyxaние, боль в суставах         </td></tr>
+<tr><td><input id='id0210' name='var0210' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Слабость костей/мышц             </td></tr>
+<tr><td><input id='id0211' name='var0211' type='checkbox' placeholder='$arrValues[11]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Бурсит, растяжение связок        </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Респираторные</th></tr>
+<tr><td><input id='id0212' name='var0212' type='checkbox' placeholder='$arrValues[12]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Застойные явления в груди        </td></tr>
+<tr><td><input id='id0213' name='var0213' type='checkbox' placeholder='$arrValues[13]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Затрудненное дыхание            </td></tr>
+<tr><td><input id='id0214' name='var0214' type='checkbox' placeholder='$arrValues[14]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Хронический кашель            </td></tr>
+<tr><td><input id='id0215' name='var0215' type='checkbox' placeholder='$arrValues[15]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Астма                  </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Мочевые-половые, Почки</th></tr>
+<tr><td><input id='id0216' name='var0216' type='checkbox' placeholder='$arrValues[16]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Чрезмерное мочеиспускание        </td></tr>
+<tr><td><input id='id0217' name='var0217' type='checkbox' placeholder='$arrValues[17]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Задержка воды в организме        </td></tr>
+<tr><td><input id='id0218' name='var0218' type='checkbox' placeholder='$arrValues[18]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Камни в почках              </td></tr>
+<tr><td><input id='id0219' name='var0219' type='checkbox' placeholder='$arrValues[19]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Болезненное, со жжением мочеиспускание  </td></tr>
+<tr><td><input id='id0220' name='var0220' type='checkbox' placeholder='$arrValues[20]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Неконтролируемое мочеиспускание      </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Желудочно-кишечные</th></tr>
+<tr><td><input id='id0221' name='var0221' type='checkbox' placeholder='$arrValues[21]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Запоры                  </td></tr>
+<tr><td><input id='id0222' name='var0222' type='checkbox' placeholder='$arrValues[22]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Растройство желудка,несварение      </td></tr>
+<tr><td><input id='id0223' name='var0223' type='checkbox' placeholder='$arrValues[23]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Понос                  </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Глаза, уши, нос, горло</th></tr>
+<tr><td><input id='id0224' name='var0224' type='checkbox' placeholder='$arrValues[24]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Воспаленное горло            </td></tr>
+<tr><td><input id='id0225' name='var0225' type='checkbox' placeholder='$arrValues[25]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Инфекция носовых пазух          </td></tr>
+<tr><td><input id='id0226' name='var0226' type='checkbox' placeholder='$arrValues[26]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Слезящиеся глаза              </td></tr>
+<tr><td><input id='id0227' name='var0227' type='checkbox' placeholder='$arrValues[27]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Головные боли              </td></tr>
+<tr><td><input id='id0228' name='var0228' type='checkbox' placeholder='$arrValues[28]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Головокружение              </td></tr>
+<tr><td><input id='id0229' name='var0229' type='checkbox' placeholder='$arrValues[29]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Обмороки                  </td></tr>
+<tr><td><input id='id0230' name='var0230' type='checkbox' placeholder='$arrValues[30]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Мигрень                  </td></tr>
+<tr><td><input id='id0231' name='var0231' type='checkbox' placeholder='$arrValues[31]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Аллергия                  </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Общее</th></tr>
+<tr><td><input id='id0232' name='var0232' type='checkbox' placeholder='$arrValues[32]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Усталость                </td></tr>
+<tr><td><input id='id0233' name='var0233' type='checkbox' placeholder='$arrValues[33]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Стресс                  </td></tr>
+<tr><td><input id='id0234' name='var0234' type='checkbox' placeholder='$arrValues[34]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Проблемы со сном            </td></tr>
+<tr><td><input id='id0235' name='var0235' type='checkbox' placeholder='$arrValues[35]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Аллергия                </td></tr>
+<tr><td><input id='id0236' name='var0236' type='checkbox' placeholder='$arrValues[36]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Повышенный аппетит            </td></tr>
+<tr><td><input id='id0237' name='var0237' type='checkbox' placeholder='$arrValues[37]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Отсутствие аппетита            </td></tr>
+<tr><td><input id='id0238' name='var0238' type='checkbox' placeholder='$arrValues[38]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Носовые кровотечения          </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Репродуктивные мужские органы</th></tr>
+<tr><td><input id='id0239' name='var0239' type='checkbox' placeholder='$arrValues[39]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Присутсвует жжение, выделения      </td></tr>
+<tr><td><input id='id0240' name='var0240' type='checkbox' placeholder='$arrValues[40]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Увеличение простаты            </td></tr>
+<tr><td><input id='id0241' name='var0241' type='checkbox' placeholder='$arrValues[41]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Низкая потенция              </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th colspan='2'>Репродуктивные женские органы</th></tr>
+<tr><td><input id='id0242' name='var0242' type='checkbox' placeholder='$arrValues[42]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Предменструальный синдром        </td></tr>
+<tr><td><input id='id0243' name='var0243' type='checkbox' placeholder='$arrValues[43]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Припухание груди            </td></tr>
+<tr><td><input id='id0244' name='var0244' type='checkbox' placeholder='$arrValues[44]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Отеки перед началом менструации      </td></tr>
+<tr><td><input id='id0245' name='var0245' type='checkbox' placeholder='$arrValues[45]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Приливы                  </td></tr>
+<tr><td><input id='id0246' name='var0246' type='checkbox' placeholder='$arrValues[46]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Нерегулярный цикл            </td></tr>
+<tr><td><input id='id0247' name='var0247' type='checkbox' placeholder='$arrValues[47]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Боль, спазмы              </td></tr>
+<tr><td><input id='id0248' name='var0248' type='checkbox' placeholder='$arrValues[48]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Выделения между циклами          </td></tr>
+<tr><td><input id='id0249' name='var0249' type='checkbox' placeholder='$arrValues[49]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Очень обильные бели            </td></tr>
+<tr><td><input id='id0250' name='var0250' type='checkbox' placeholder='$arrValues[50]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Сгустки                  </td></tr>
+<tr><td><input id='id0251' name='var0251' type='checkbox' placeholder='$arrValues[51]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Сухость влагалища            </td></tr>
+<tr><td><input id='id0252' name='var0252' type='checkbox' placeholder='$arrValues[52]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Разные разрастания            </td></tr>
+<tr><td><input id='id0253' name='var0253' type='checkbox' placeholder='$arrValues[53]' onBlur='fncOnBlur( this )'></td><td class='clInputName02'>Бесплодие                </td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+
+</table>
+
+<div>
+  <p class='clInputName02'>Менструация (цвет)</p>
+  <p>
+  &nbsp;
+  <select id='id0254' name='var0254' title='$arrValues[54]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='жидкие белёсые'>жидкие белёсые</option>
+    <option value='густые красные'>густые красные</option>
+    <option value='густые беловатые'>густые беловатые</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Выделения (запах)</p>
+  <p>
+  &nbsp;
+  <select id='id0255' name='var0255' title='$arrValues[55]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='кисловатый'>кисловатый</option>
+    <option value='слабый'>слабый</option>
+    <option value='без запаха'>без запаха</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Выделения (количество)</p>
+  <p>
+  &nbsp;
+  <select id='id0256' name='var0256' title='$arrValues[56]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='скудные'>скудные</option>
+    <option value='средние'>средние</option>
+    <option value='обильные'>обильные</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Средства предохранения</p>
+  <p>
+  &nbsp;
+  <select id='id0257' name='var0257' title='$arrValues[57]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='таблетки'>таблетки</option>
+    <option value='презерватив'>презерватив</option>
+    <option value='прерыванный акт'>прерыванный акт</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Длительность цикла (дней)</p><p>&nbsp;&nbsp;<input id='id0258' name='var0258' type='text' placeholder='$arrValues[58]' onBlur='fncOnBlur( this )' maxlength='2' size='2'></p>
+</div>
+<div>
+  <p class='clInputName02'>Какой у Вас вкус во рту?</p>
+  <p>
+  &nbsp;
+  <select id='id0259' name='var0259' title='$arrValues[59]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='кислый'>кислый</option>
+    <option value='сладкий'>сладкий</option>
+    <option value='горький'>горький</option>
+    <option value='вяжущий'>вяжущий</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Какой ноздрёй Вы дышите чаще?</p>
+  <p>
+  &nbsp;
+   <select id='id0260' name='var0260' title='$arrValues[60]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='левой'>левой</option>
+    <option value='правой'>правой</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Как Вы говорите?</p>
+  <p>
+  &nbsp;
+  <select id='id0261' name='var0261' title='$arrValues[61]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='медленно'>медленно</option>
+    <option value='быстро'>быстро</option>
+    <option value='скомканно'>скомканно</option>
+    <option value='нервно'>нервно</option>
+    <option value='с затруднением'>с затруднением</option>
+  </select>
+  </p>
+</div>
+<div>
+  <p class='clInputName02'>Затруднения в выражении мыслей?</p>
+  <p>
+  &nbsp;
+  <select id='id0262' name='var0262' title='$arrValues[62]' onBlur='fncOnBlur( this )'>
+    <option value=''></option>
+    <option value='да'>да</option>
+    <option value='нет'>нет</option>
+  </select>
+  </p>
+</div>
+
+<p class='clQuestion'>Из чего состоит типичный завтрак: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0263' name='var0263' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[63]</textarea>
+
+<p class='clQuestion'>Из чего состоит типичный обед: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0264' name='var0264' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[64]</textarea>
+
+<p class='clQuestion'>Из чего состоит типичный ужин: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0265' name='var0265' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[65]</textarea>
+
+<p class='clQuestion'>Требуется ли перекусывание среди дня: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0266' name='var0266' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[66]</textarea>
+
+<p class='clQuestion'>Продукты и вкусы, которые любите больше всего: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0267' name='var0267' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[67]</textarea>
+
+<p class='clQuestion'>Употребление алкоголя (количество в день / неделю): <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0268' name='var0268' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[68]</textarea>
+
+<p class='clQuestion'>Обычный режим дня (как можно полнее): <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0269' name='var0269' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[69]</textarea>
+
+<p class='clQuestion'>В каком климате хотели бы жить: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0270' name='var0270' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[70]</textarea>
+
+<p class='clQuestion'>Каких животных держите: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0271' name='var0271' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[71]</textarea>
+
+<p class='clQuestion'>Как проводите свободное время: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0272' name='var0272' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[72]</textarea>
+
+<p class='clQuestion'>Хобби: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0273' name='var0273' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[73]</textarea>
+
+<p class='clQuestion'>Любимые книги: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0274' name='var0274' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[74]</textarea>
+
+<p class='clQuestion'>Книги духовного развития, любимые авторы: <span class='clCommentInline'></span></p>
+<textarea rows='3' cols='80' id='id0275' name='var0275' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[75]</textarea>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

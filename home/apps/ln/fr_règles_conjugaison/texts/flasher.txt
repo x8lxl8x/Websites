@@ -1,0 +1,190 @@
+# flasher %[clVerbGroup|1]
+[-
+prendre une photographie au flash. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flash%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flash%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flash%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flash%[m|é]|
+|ayant|flash%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flash%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flash%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flash%[m|e]|
+|tu|flash%[m|es]|
+|il|flash%[m|e]|
+|nous|flash%[m|ons]|
+|vous|flash%[m|ez]|
+|ils|flash%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flash%[m|é]|
+|tu|as |flash%[m|é]|
+|il|a|flash%[m|é]|
+|nous|avons|flash%[m|é]|
+|vous|avez|flash%[m|é]|
+|ils|ont|flash%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flash%[m|ais]|
+|tu|flash%[m|ais]|
+|il|flash%[m|ait]|
+|nous|flash%[m|ions]|
+|vous|flash%[m|iez]|
+|ils|flash%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flash%[m|é]|
+|tu|avais|flash%[m|é]|
+|il|avait|flash%[m|é]|
+|nous|avions|flash%[m|é]|
+|vous|aviez|flash%[m|é]|
+|ils|avaient|flash%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flash%[m|ai]|
+|tu|flash%[m|as]|
+|il|flash%[m|a]|
+|nous|flash%[m|âmes]|
+|vous|flash%[m|âtes]|
+|ils|flash%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flash%[m|é]|
+|tu|eus|flash%[m|é]|
+|il|eut|flash%[m|é]|
+|nous|e&ucirc;mes|flash%[m|é]|
+|vous|e&ucirc;tes|flash%[m|é]|
+|ils|eurent|flash%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flash%[m|erai]|
+|tu|flash%[m|eras]|
+|il|flash%[m|era]|
+|nous|flash%[m|erons]|
+|vous|flash%[m|erez]|
+|ils|flash%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flash%[m|é]|
+|tu|auras|flash%[m|é]|
+|il|aura|flash%[m|é]|
+|nous|aurons|flash%[m|é]|
+|vous|aurez|flash%[m|é]|
+|ils|auront|flash%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flash%[m|erais]|
+|tu|flash%[m|erais]|
+|il|flash%[m|erait]|
+|nous|flash%[m|erions]|
+|vous|flash%[m|eriez]|
+|ils|flash%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flash%[m|é]|
+|tu|aurais|flash%[m|é]|
+|il|aurait|flash%[m|é]|
+|nous|aurions|flash%[m|é]|
+|vous|auriez|flash%[m|é]|
+|ils|auraient|flash%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flash%[m|e]|
+|que|tu|flash%[m|es]|
+|qu'|il|flash%[m|e]|
+|que|nous|flash%[m|ions]|
+|que|vous|flash%[m|iez]|
+|qu'|ils|flash%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flash%[m|é]|
+|que|tu|aies|flash%[m|é]|
+|qu'|il|ait|flash%[m|é]|
+|que|nous|ayons|flash%[m|é]|
+|que|vous|ayez|flash%[m|é]|
+|qu'|ils|aient|flash%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flash%[m|asse]|
+|que|tu|flash%[m|asses]|
+|qu'|il|flash%[m|ât]|
+|que|nous|flash%[m|assions]|
+|que|vous|flash%[m|assiez]|
+|qu'|ils|flash%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flash%[m|é]|
+|que|tu|eusses|flash%[m|é]|
+|qu'|il|eût|flash%[m|é]|
+|que|nous|eussions|flash%[m|é]|
+|que|vous|eussiez|flash%[m|é]|
+|qu'|ils|eussent|flash%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flash%[m|e]|
+|flash%[m|ons]|
+|flash%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flash%[m|é]|
+|ayons|flash%[m|é]|
+|ayez|flash%[m|é]|
+|]
+

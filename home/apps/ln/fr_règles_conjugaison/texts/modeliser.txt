@@ -1,0 +1,190 @@
+# modéliser %[clVerbGroup|1]
+[-
+concevoir le modèle théorique de (quelque chose) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|modélis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|modélis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|modélis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||modélis%[m|é]|
+|ayant|modélis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en modélis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|modélis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|modélis%[m|e]|
+|tu|modélis%[m|es]|
+|il|modélis%[m|e]|
+|nous|modélis%[m|ons]|
+|vous|modélis%[m|ez]|
+|ils|modélis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|modélis%[m|é]|
+|tu|as |modélis%[m|é]|
+|il|a|modélis%[m|é]|
+|nous|avons|modélis%[m|é]|
+|vous|avez|modélis%[m|é]|
+|ils|ont|modélis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|modélis%[m|ais]|
+|tu|modélis%[m|ais]|
+|il|modélis%[m|ait]|
+|nous|modélis%[m|ions]|
+|vous|modélis%[m|iez]|
+|ils|modélis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|modélis%[m|é]|
+|tu|avais|modélis%[m|é]|
+|il|avait|modélis%[m|é]|
+|nous|avions|modélis%[m|é]|
+|vous|aviez|modélis%[m|é]|
+|ils|avaient|modélis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|modélis%[m|ai]|
+|tu|modélis%[m|as]|
+|il|modélis%[m|a]|
+|nous|modélis%[m|âmes]|
+|vous|modélis%[m|âtes]|
+|ils|modélis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|modélis%[m|é]|
+|tu|eus|modélis%[m|é]|
+|il|eut|modélis%[m|é]|
+|nous|e&ucirc;mes|modélis%[m|é]|
+|vous|e&ucirc;tes|modélis%[m|é]|
+|ils|eurent|modélis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|modélis%[m|erai]|
+|tu|modélis%[m|eras]|
+|il|modélis%[m|era]|
+|nous|modélis%[m|erons]|
+|vous|modélis%[m|erez]|
+|ils|modélis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|modélis%[m|é]|
+|tu|auras|modélis%[m|é]|
+|il|aura|modélis%[m|é]|
+|nous|aurons|modélis%[m|é]|
+|vous|aurez|modélis%[m|é]|
+|ils|auront|modélis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|modélis%[m|erais]|
+|tu|modélis%[m|erais]|
+|il|modélis%[m|erait]|
+|nous|modélis%[m|erions]|
+|vous|modélis%[m|eriez]|
+|ils|modélis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|modélis%[m|é]|
+|tu|aurais|modélis%[m|é]|
+|il|aurait|modélis%[m|é]|
+|nous|aurions|modélis%[m|é]|
+|vous|auriez|modélis%[m|é]|
+|ils|auraient|modélis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|modélis%[m|e]|
+|que|tu|modélis%[m|es]|
+|qu'|il|modélis%[m|e]|
+|que|nous|modélis%[m|ions]|
+|que|vous|modélis%[m|iez]|
+|qu'|ils|modélis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|modélis%[m|é]|
+|que|tu|aies|modélis%[m|é]|
+|qu'|il|ait|modélis%[m|é]|
+|que|nous|ayons|modélis%[m|é]|
+|que|vous|ayez|modélis%[m|é]|
+|qu'|ils|aient|modélis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|modélis%[m|asse]|
+|que|tu|modélis%[m|asses]|
+|qu'|il|modélis%[m|ât]|
+|que|nous|modélis%[m|assions]|
+|que|vous|modélis%[m|assiez]|
+|qu'|ils|modélis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|modélis%[m|é]|
+|que|tu|eusses|modélis%[m|é]|
+|qu'|il|eût|modélis%[m|é]|
+|que|nous|eussions|modélis%[m|é]|
+|que|vous|eussiez|modélis%[m|é]|
+|qu'|ils|eussent|modélis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|modélis%[m|e]|
+|modélis%[m|ons]|
+|modélis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|modélis%[m|é]|
+|ayons|modélis%[m|é]|
+|ayez|modélis%[m|é]|
+|]
+

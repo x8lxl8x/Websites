@@ -1,0 +1,192 @@
+# transposer %[clVerbGroup|1]
+[-
+adapter dans un autre contexte, en changeant la forme. 
+intervertir. 
+adapter une oeuvre musicale dans un autre ton. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|transpos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|transpos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|transpos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||transpos%[m|é]|
+|ayant|transpos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en transpos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|transpos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|transpos%[m|e]|
+|tu|transpos%[m|es]|
+|il|transpos%[m|e]|
+|nous|transpos%[m|ons]|
+|vous|transpos%[m|ez]|
+|ils|transpos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|transpos%[m|é]|
+|tu|as |transpos%[m|é]|
+|il|a|transpos%[m|é]|
+|nous|avons|transpos%[m|é]|
+|vous|avez|transpos%[m|é]|
+|ils|ont|transpos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|transpos%[m|ais]|
+|tu|transpos%[m|ais]|
+|il|transpos%[m|ait]|
+|nous|transpos%[m|ions]|
+|vous|transpos%[m|iez]|
+|ils|transpos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|transpos%[m|é]|
+|tu|avais|transpos%[m|é]|
+|il|avait|transpos%[m|é]|
+|nous|avions|transpos%[m|é]|
+|vous|aviez|transpos%[m|é]|
+|ils|avaient|transpos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|transpos%[m|ai]|
+|tu|transpos%[m|as]|
+|il|transpos%[m|a]|
+|nous|transpos%[m|âmes]|
+|vous|transpos%[m|âtes]|
+|ils|transpos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|transpos%[m|é]|
+|tu|eus|transpos%[m|é]|
+|il|eut|transpos%[m|é]|
+|nous|e&ucirc;mes|transpos%[m|é]|
+|vous|e&ucirc;tes|transpos%[m|é]|
+|ils|eurent|transpos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|transpos%[m|erai]|
+|tu|transpos%[m|eras]|
+|il|transpos%[m|era]|
+|nous|transpos%[m|erons]|
+|vous|transpos%[m|erez]|
+|ils|transpos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|transpos%[m|é]|
+|tu|auras|transpos%[m|é]|
+|il|aura|transpos%[m|é]|
+|nous|aurons|transpos%[m|é]|
+|vous|aurez|transpos%[m|é]|
+|ils|auront|transpos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|transpos%[m|erais]|
+|tu|transpos%[m|erais]|
+|il|transpos%[m|erait]|
+|nous|transpos%[m|erions]|
+|vous|transpos%[m|eriez]|
+|ils|transpos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|transpos%[m|é]|
+|tu|aurais|transpos%[m|é]|
+|il|aurait|transpos%[m|é]|
+|nous|aurions|transpos%[m|é]|
+|vous|auriez|transpos%[m|é]|
+|ils|auraient|transpos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|transpos%[m|e]|
+|que|tu|transpos%[m|es]|
+|qu'|il|transpos%[m|e]|
+|que|nous|transpos%[m|ions]|
+|que|vous|transpos%[m|iez]|
+|qu'|ils|transpos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|transpos%[m|é]|
+|que|tu|aies|transpos%[m|é]|
+|qu'|il|ait|transpos%[m|é]|
+|que|nous|ayons|transpos%[m|é]|
+|que|vous|ayez|transpos%[m|é]|
+|qu'|ils|aient|transpos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|transpos%[m|asse]|
+|que|tu|transpos%[m|asses]|
+|qu'|il|transpos%[m|ât]|
+|que|nous|transpos%[m|assions]|
+|que|vous|transpos%[m|assiez]|
+|qu'|ils|transpos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|transpos%[m|é]|
+|que|tu|eusses|transpos%[m|é]|
+|qu'|il|eût|transpos%[m|é]|
+|que|nous|eussions|transpos%[m|é]|
+|que|vous|eussiez|transpos%[m|é]|
+|qu'|ils|eussent|transpos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|transpos%[m|e]|
+|transpos%[m|ons]|
+|transpos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|transpos%[m|é]|
+|ayons|transpos%[m|é]|
+|ayez|transpos%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# soutacher %[clVerbGroup|1]
+[-
+orner de soutaches. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|soutach%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|soutach%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|soutach%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||soutach%[m|é]|
+|ayant|soutach%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en soutach%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|soutach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|soutach%[m|e]|
+|tu|soutach%[m|es]|
+|il|soutach%[m|e]|
+|nous|soutach%[m|ons]|
+|vous|soutach%[m|ez]|
+|ils|soutach%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|soutach%[m|é]|
+|tu|as |soutach%[m|é]|
+|il|a|soutach%[m|é]|
+|nous|avons|soutach%[m|é]|
+|vous|avez|soutach%[m|é]|
+|ils|ont|soutach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|soutach%[m|ais]|
+|tu|soutach%[m|ais]|
+|il|soutach%[m|ait]|
+|nous|soutach%[m|ions]|
+|vous|soutach%[m|iez]|
+|ils|soutach%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|soutach%[m|é]|
+|tu|avais|soutach%[m|é]|
+|il|avait|soutach%[m|é]|
+|nous|avions|soutach%[m|é]|
+|vous|aviez|soutach%[m|é]|
+|ils|avaient|soutach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|soutach%[m|ai]|
+|tu|soutach%[m|as]|
+|il|soutach%[m|a]|
+|nous|soutach%[m|âmes]|
+|vous|soutach%[m|âtes]|
+|ils|soutach%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|soutach%[m|é]|
+|tu|eus|soutach%[m|é]|
+|il|eut|soutach%[m|é]|
+|nous|e&ucirc;mes|soutach%[m|é]|
+|vous|e&ucirc;tes|soutach%[m|é]|
+|ils|eurent|soutach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|soutach%[m|erai]|
+|tu|soutach%[m|eras]|
+|il|soutach%[m|era]|
+|nous|soutach%[m|erons]|
+|vous|soutach%[m|erez]|
+|ils|soutach%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|soutach%[m|é]|
+|tu|auras|soutach%[m|é]|
+|il|aura|soutach%[m|é]|
+|nous|aurons|soutach%[m|é]|
+|vous|aurez|soutach%[m|é]|
+|ils|auront|soutach%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|soutach%[m|erais]|
+|tu|soutach%[m|erais]|
+|il|soutach%[m|erait]|
+|nous|soutach%[m|erions]|
+|vous|soutach%[m|eriez]|
+|ils|soutach%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|soutach%[m|é]|
+|tu|aurais|soutach%[m|é]|
+|il|aurait|soutach%[m|é]|
+|nous|aurions|soutach%[m|é]|
+|vous|auriez|soutach%[m|é]|
+|ils|auraient|soutach%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|soutach%[m|e]|
+|que|tu|soutach%[m|es]|
+|qu'|il|soutach%[m|e]|
+|que|nous|soutach%[m|ions]|
+|que|vous|soutach%[m|iez]|
+|qu'|ils|soutach%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|soutach%[m|é]|
+|que|tu|aies|soutach%[m|é]|
+|qu'|il|ait|soutach%[m|é]|
+|que|nous|ayons|soutach%[m|é]|
+|que|vous|ayez|soutach%[m|é]|
+|qu'|ils|aient|soutach%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|soutach%[m|asse]|
+|que|tu|soutach%[m|asses]|
+|qu'|il|soutach%[m|ât]|
+|que|nous|soutach%[m|assions]|
+|que|vous|soutach%[m|assiez]|
+|qu'|ils|soutach%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|soutach%[m|é]|
+|que|tu|eusses|soutach%[m|é]|
+|qu'|il|eût|soutach%[m|é]|
+|que|nous|eussions|soutach%[m|é]|
+|que|vous|eussiez|soutach%[m|é]|
+|qu'|ils|eussent|soutach%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|soutach%[m|e]|
+|soutach%[m|ons]|
+|soutach%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|soutach%[m|é]|
+|ayons|soutach%[m|é]|
+|ayez|soutach%[m|é]|
+|]
+

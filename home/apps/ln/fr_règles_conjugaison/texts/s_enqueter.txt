@@ -1,0 +1,190 @@
+# s'enquêter %[clVerbGroup|1]
+[-
+faire une enquête. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'enquêt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|enquêt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'enquêt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|enquêt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'enquêt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|enquêt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|enquêt%[m|e]|
+|tu|t'|enquêt%[m|es]|
+|il|s'|enquêt%[m|e]|
+|nous|nous|enquêt%[m|ons]|
+|vous|vous|enquêt%[m|ez]|
+|ils|s'|enquêt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|enquêt%[m|é]|
+|tu|t'|es|enquêt%[m|é]|
+|il|s'|est|enquêt%[m|é]|
+|nous|nous|sommes|enquêt%[m|és]|
+|vous|vous|êtes|enquêt%[m|és]|
+|ils|se|sont|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|enquêt%[m|ais]|
+|tu|t'|enquêt%[m|ais]|
+|il|s'|enquêt%[m|ait]|
+|nous|nous|enquêt%[m|ions]|
+|vous|vous|enquêt%[m|iez]|
+|ils|s'|enquêt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|enquêt%[m|é]|
+|tu|t'|étais|enquêt%[m|é]|
+|il|s'|était|enquêt%[m|é]|
+|nous|nous|étions|enquêt%[m|és]|
+|vous|vous|étiez|enquêt%[m|és]|
+|ils|s'|étaient|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|enquêt%[m|ai]|
+|tu|t'|enquêt%[m|as]|
+|il|s'|enquêt%[m|a]|
+|nous|nous|enquêt%[m|âmes]|
+|vous|vous|enquêt%[m|âtes]|
+|ils|s'|enquêt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|enquêt%[m|é]|
+|tu|te|fus|enquêt%[m|é]|
+|il|se|fut|enquêt%[m|é]|
+|nous|nous|fûmes|enquêt%[m|és]|
+|vous|vous|fûtes|enquêt%[m|és]|
+|ils|se|furent|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|enquêt%[m|erai]|
+|tu|t'|enquêt%[m|eras]|
+|il|s'|enquêt%[m|era]|
+|nous|nous|enquêt%[m|erons]|
+|vous|vous|enquêt%[m|erez]|
+|ils|s'|enquêt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|enquêt%[m|é]|
+|tu|te|seras|enquêt%[m|é]|
+|il|se|sera|enquêt%[m|é]|
+|nous|nous|serons|enquêt%[m|és]|
+|vous|vous|serez|enquêt%[m|és]|
+|ils|se|seront|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|enquêt%[m|erais]|
+|tu|t'|enquêt%[m|erais]|
+|il|s'|enquêt%[m|erait]|
+|nous|nous|enquêt%[m|erions]|
+|vous|vous|enquêt%[m|eriez]|
+|ils|s'|enquêt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|enquêt%[m|é]|
+|tu|te|serais|enquêt%[m|é]|
+|il|se|serait|enquêt%[m|é]|
+|nous|nous|serions|enquêt%[m|és]|
+|vous|vous|seriez|enquêt%[m|és]|
+|ils|se|seraient|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|enquêt%[m|e]|
+|que|tu|t'|enquêt%[m|es]|
+|qu'|il|s'|enquêt%[m|e]|
+|que|nous|nous|enquêt%[m|ions]|
+|que|vous|vous|enquêt%[m|iez]|
+|qu'|ils|s'|enquêt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|enquêt%[m|é]|
+|que|tu|te|sois|enquêt%[m|é]|
+|qu'|il|se|soit|enquêt%[m|é]|
+|que|nous|nous|soyons|enquêt%[m|és]|
+|que|vous|vous|soyez|enquêt%[m|és]|
+|qu'|ils|se|soient|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|enquêt%[m|asse]|
+|que|tu|t'|enquêt%[m|asses]|
+|qu'|il|s'|enquêt%[m|ât]|
+|que|nous|nous|enquêt%[m|assions]|
+|que|vous|vous|enquêt%[m|assiez]|
+|qu'|ils|s'|enquêt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|enquêt%[m|é]|
+|que|tu|te|fusses|enquêt%[m|é]|
+|qu'|il|se|fût|enquêt%[m|é]|
+|que|nous|nous|fussions|enquêt%[m|és]|
+|que|vous|vous|fussiez|enquêt%[m|és]|
+|qu'|ils|se|fussent|enquêt%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enquêt%[m|e]-toi|
+|enquêt%[m|ons]-nous|
+|enquêt%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

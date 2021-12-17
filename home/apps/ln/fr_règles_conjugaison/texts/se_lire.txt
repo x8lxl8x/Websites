@@ -1,0 +1,190 @@
+# se lire %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se l%[m|ire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|l%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se l%[m|isant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|l%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se l%[m|isant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|l%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|l%[m|is]|
+|tu|te|l%[m|is]|
+|il|se|l%[m|it]|
+|nous|nous|l%[m|isons]|
+|vous|vous|l%[m|isez]|
+|ils|se|l%[m|isent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|l%[m|u]|
+|tu|t'|es|l%[m|u]|
+|il|s'|est|l%[m|u]|
+|nous|nous|sommes|l%[m|us]|
+|vous|vous|êtes|l%[m|us]|
+|ils|se|sont|l%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|l%[m|isais]|
+|tu|te|l%[m|isais]|
+|il|se|l%[m|isait]|
+|nous|nous|l%[m|isions]|
+|vous|vous|l%[m|isiez]|
+|ils|se|l%[m|isaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|l%[m|u]|
+|tu|t'|étais|l%[m|u]|
+|il|s'|était|l%[m|u]|
+|nous|nous|étions|l%[m|us]|
+|vous|vous|étiez|l%[m|us]|
+|ils|s'|étaient|l%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|l%[m|us]|
+|tu|te|l%[m|us]|
+|il|se|l%[m|ut]|
+|nous|nous|l%[m|ûmes]|
+|vous|vous|l%[m|ûtes]|
+|ils|se|l%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|l%[m|u]|
+|tu|te|fus|l%[m|u]|
+|il|se|fut|l%[m|u]|
+|nous|nous|fûmes|l%[m|us]|
+|vous|vous|fûtes|l%[m|us]|
+|ils|se|furent|l%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|l%[m|irai]|
+|tu|te|l%[m|iras]|
+|il|se|l%[m|ira]|
+|nous|nous|l%[m|irons]|
+|vous|vous|l%[m|irez]|
+|ils|se|l%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|l%[m|u]|
+|tu|te|seras|l%[m|u]|
+|il|se|sera|l%[m|u]|
+|nous|nous|serons|l%[m|us]|
+|vous|vous|serez|l%[m|us]|
+|ils|se|seront|l%[m|us]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|l%[m|irais]|
+|tu|te|l%[m|irais]|
+|il|se|l%[m|irait]|
+|nous|nous|l%[m|irions]|
+|vous|vous|l%[m|iriez]|
+|ils|se|l%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|l%[m|u]|
+|tu|te|serais|l%[m|u]|
+|il|se|serait|l%[m|u]|
+|nous|nous|serions|l%[m|us]|
+|vous|vous|seriez|l%[m|us]|
+|ils|se|seraient|l%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|l%[m|ise]|
+|que|tu|te|l%[m|ises]|
+|qu'|il|se|l%[m|ise]|
+|que|nous|nous|l%[m|isions]|
+|que|vous|vous|l%[m|isiez]|
+|qu'|ils|se|l%[m|isent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|l%[m|u]|
+|que|tu|te|sois|l%[m|u]|
+|qu'|il|se|soit|l%[m|u]|
+|que|nous|nous|soyons|l%[m|us]|
+|que|vous|vous|soyez|l%[m|us]|
+|qu'|ils|se|soient|l%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|l%[m|usse]|
+|que|tu|te|l%[m|usses]|
+|qu'|il|se|l%[m|ût]|
+|que|nous|nous|l%[m|ussions]|
+|que|vous|vous|l%[m|ussiez]|
+|qu'|ils|se|l%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|l%[m|u]|
+|que|tu|te|fusses|l%[m|u]|
+|qu'|il|se|fût|l%[m|u]|
+|que|nous|nous|fussions|l%[m|us]|
+|que|vous|vous|fussiez|l%[m|us]|
+|qu'|ils|se|fussent|l%[m|us]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|l%[m|is]-toi|
+|l%[m|isons]-nous|
+|l%[m|isez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,29 @@
+# Type of Tiles
+
+### Circles
+4 sets of 9 = 36
+^[./images/pin1.png]&ensp;^[./images/pin2.png]&ensp;^[./images/pin3.png]&ensp;^[./images/pin4.png]&ensp;^[./images/pin5.png]&ensp;^[./images/pin6.png]&ensp;^[./images/pin7.png]&ensp;^[./images/pin8.png]&ensp;^[./images/pin9.png]
+
+### Characters
+4 sets of 9 = 36
+^[./images/man1.png]&ensp;^[./images/man2.png]&ensp;^[./images/man3.png]&ensp;^[./images/man4.png]&ensp;^[./images/man5.png]&ensp;^[./images/man6.png]&ensp;^[./images/man7.png]&ensp;^[./images/man8.png]&ensp;^[./images/man9.png]
+
+### Bamboos
+4 sets of 9 = 36
+^[./images/sou1.png]&ensp;^[./images/sou2.png]&ensp;^[./images/sou3.png]&ensp;^[./images/sou4.png]&ensp;^[./images/sou5.png]&ensp;^[./images/sou6.png]&ensp;^[./images/sou7.png]&ensp;^[./images/sou8.png]&ensp;^[./images/sou9.png]
+
+### Winds
+4 sets of 4 = 16
+^[./images/pei.png]&ensp;^[./images/shaa.png]&ensp;^[./images/nan.png]&ensp;^[./images/ton.png]
+
+### Dragons
+4 sets of 3 = 12
+^[./images/chun.png]&ensp;^[./images/hatsu.png]&ensp;^[./images/haku.png]
+
+[!
+Suits - Circles, Characters, Bamboos
+Major Tiles - 1, 9
+Minor Tiles - 2, 3, 4, 5, 6, 7, 8
+Honour Tiles - Wind, Dragons
+Total Tiles - 144
+!]

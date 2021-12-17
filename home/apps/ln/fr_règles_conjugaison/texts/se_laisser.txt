@@ -1,0 +1,190 @@
+# se laisser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se laiss%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|laiss%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se laiss%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|laiss%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se laiss%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|laiss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|laiss%[m|e]|
+|tu|te|laiss%[m|es]|
+|il|se|laiss%[m|e]|
+|nous|nous|laiss%[m|ons]|
+|vous|vous|laiss%[m|ez]|
+|ils|se|laiss%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|laiss%[m|é]|
+|tu|t'|es|laiss%[m|é]|
+|il|s'|est|laiss%[m|é]|
+|nous|nous|sommes|laiss%[m|és]|
+|vous|vous|êtes|laiss%[m|és]|
+|ils|se|sont|laiss%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|laiss%[m|ais]|
+|tu|te|laiss%[m|ais]|
+|il|se|laiss%[m|ait]|
+|nous|nous|laiss%[m|ions]|
+|vous|vous|laiss%[m|iez]|
+|ils|se|laiss%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|laiss%[m|é]|
+|tu|t'|étais|laiss%[m|é]|
+|il|s'|était|laiss%[m|é]|
+|nous|nous|étions|laiss%[m|és]|
+|vous|vous|étiez|laiss%[m|és]|
+|ils|s'|étaient|laiss%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|laiss%[m|ai]|
+|tu|te|laiss%[m|as]|
+|il|se|laiss%[m|a]|
+|nous|nous|laiss%[m|âmes]|
+|vous|vous|laiss%[m|âtes]|
+|ils|se|laiss%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|laiss%[m|é]|
+|tu|te|fus|laiss%[m|é]|
+|il|se|fut|laiss%[m|é]|
+|nous|nous|fûmes|laiss%[m|és]|
+|vous|vous|fûtes|laiss%[m|és]|
+|ils|se|furent|laiss%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|laiss%[m|erai]|
+|tu|te|laiss%[m|eras]|
+|il|se|laiss%[m|era]|
+|nous|nous|laiss%[m|erons]|
+|vous|vous|laiss%[m|erez]|
+|ils|se|laiss%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|laiss%[m|é]|
+|tu|te|seras|laiss%[m|é]|
+|il|se|sera|laiss%[m|é]|
+|nous|nous|serons|laiss%[m|és]|
+|vous|vous|serez|laiss%[m|és]|
+|ils|se|seront|laiss%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|laiss%[m|erais]|
+|tu|te|laiss%[m|erais]|
+|il|se|laiss%[m|erait]|
+|nous|nous|laiss%[m|erions]|
+|vous|vous|laiss%[m|eriez]|
+|ils|se|laiss%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|laiss%[m|é]|
+|tu|te|serais|laiss%[m|é]|
+|il|se|serait|laiss%[m|é]|
+|nous|nous|serions|laiss%[m|és]|
+|vous|vous|seriez|laiss%[m|és]|
+|ils|se|seraient|laiss%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|laiss%[m|e]|
+|que|tu|te|laiss%[m|es]|
+|qu'|il|se|laiss%[m|e]|
+|que|nous|nous|laiss%[m|ions]|
+|que|vous|vous|laiss%[m|iez]|
+|qu'|ils|se|laiss%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|laiss%[m|é]|
+|que|tu|te|sois|laiss%[m|é]|
+|qu'|il|se|soit|laiss%[m|é]|
+|que|nous|nous|soyons|laiss%[m|és]|
+|que|vous|vous|soyez|laiss%[m|és]|
+|qu'|ils|se|soient|laiss%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|laiss%[m|asse]|
+|que|tu|te|laiss%[m|asses]|
+|qu'|il|se|laiss%[m|ât]|
+|que|nous|nous|laiss%[m|assions]|
+|que|vous|vous|laiss%[m|assiez]|
+|qu'|ils|se|laiss%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|laiss%[m|é]|
+|que|tu|te|fusses|laiss%[m|é]|
+|qu'|il|se|fût|laiss%[m|é]|
+|que|nous|nous|fussions|laiss%[m|és]|
+|que|vous|vous|fussiez|laiss%[m|és]|
+|qu'|ils|se|fussent|laiss%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|laiss%[m|e]-toi|
+|laiss%[m|ons]-nous|
+|laiss%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

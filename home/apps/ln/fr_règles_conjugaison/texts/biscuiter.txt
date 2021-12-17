@@ -1,0 +1,190 @@
+# biscuiter %[clVerbGroup|1]
+[-
+chauffer une pièce de poterie au four pour la durcir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|biscuit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|biscuit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||biscuit%[m|é]|
+|ayant|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en biscuit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|biscuit%[m|e]|
+|tu|biscuit%[m|es]|
+|il|biscuit%[m|e]|
+|nous|biscuit%[m|ons]|
+|vous|biscuit%[m|ez]|
+|ils|biscuit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|biscuit%[m|é]|
+|tu|as |biscuit%[m|é]|
+|il|a|biscuit%[m|é]|
+|nous|avons|biscuit%[m|é]|
+|vous|avez|biscuit%[m|é]|
+|ils|ont|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|biscuit%[m|ais]|
+|tu|biscuit%[m|ais]|
+|il|biscuit%[m|ait]|
+|nous|biscuit%[m|ions]|
+|vous|biscuit%[m|iez]|
+|ils|biscuit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|biscuit%[m|é]|
+|tu|avais|biscuit%[m|é]|
+|il|avait|biscuit%[m|é]|
+|nous|avions|biscuit%[m|é]|
+|vous|aviez|biscuit%[m|é]|
+|ils|avaient|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|biscuit%[m|ai]|
+|tu|biscuit%[m|as]|
+|il|biscuit%[m|a]|
+|nous|biscuit%[m|âmes]|
+|vous|biscuit%[m|âtes]|
+|ils|biscuit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|biscuit%[m|é]|
+|tu|eus|biscuit%[m|é]|
+|il|eut|biscuit%[m|é]|
+|nous|e&ucirc;mes|biscuit%[m|é]|
+|vous|e&ucirc;tes|biscuit%[m|é]|
+|ils|eurent|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|biscuit%[m|erai]|
+|tu|biscuit%[m|eras]|
+|il|biscuit%[m|era]|
+|nous|biscuit%[m|erons]|
+|vous|biscuit%[m|erez]|
+|ils|biscuit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|biscuit%[m|é]|
+|tu|auras|biscuit%[m|é]|
+|il|aura|biscuit%[m|é]|
+|nous|aurons|biscuit%[m|é]|
+|vous|aurez|biscuit%[m|é]|
+|ils|auront|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|biscuit%[m|erais]|
+|tu|biscuit%[m|erais]|
+|il|biscuit%[m|erait]|
+|nous|biscuit%[m|erions]|
+|vous|biscuit%[m|eriez]|
+|ils|biscuit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|biscuit%[m|é]|
+|tu|aurais|biscuit%[m|é]|
+|il|aurait|biscuit%[m|é]|
+|nous|aurions|biscuit%[m|é]|
+|vous|auriez|biscuit%[m|é]|
+|ils|auraient|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|biscuit%[m|e]|
+|que|tu|biscuit%[m|es]|
+|qu'|il|biscuit%[m|e]|
+|que|nous|biscuit%[m|ions]|
+|que|vous|biscuit%[m|iez]|
+|qu'|ils|biscuit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|biscuit%[m|é]|
+|que|tu|aies|biscuit%[m|é]|
+|qu'|il|ait|biscuit%[m|é]|
+|que|nous|ayons|biscuit%[m|é]|
+|que|vous|ayez|biscuit%[m|é]|
+|qu'|ils|aient|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|biscuit%[m|asse]|
+|que|tu|biscuit%[m|asses]|
+|qu'|il|biscuit%[m|ât]|
+|que|nous|biscuit%[m|assions]|
+|que|vous|biscuit%[m|assiez]|
+|qu'|ils|biscuit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|biscuit%[m|é]|
+|que|tu|eusses|biscuit%[m|é]|
+|qu'|il|eût|biscuit%[m|é]|
+|que|nous|eussions|biscuit%[m|é]|
+|que|vous|eussiez|biscuit%[m|é]|
+|qu'|ils|eussent|biscuit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|biscuit%[m|e]|
+|biscuit%[m|ons]|
+|biscuit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|biscuit%[m|é]|
+|ayons|biscuit%[m|é]|
+|ayez|biscuit%[m|é]|
+|]
+

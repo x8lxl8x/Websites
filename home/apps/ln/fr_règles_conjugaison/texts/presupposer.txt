@@ -1,0 +1,190 @@
+# présupposer %[clVerbGroup|1]
+[-
+impliquer, avoir comme condition nécessaire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|présuppos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|présuppos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||présuppos%[m|é]|
+|ayant|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en présuppos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|présuppos%[m|e]|
+|tu|présuppos%[m|es]|
+|il|présuppos%[m|e]|
+|nous|présuppos%[m|ons]|
+|vous|présuppos%[m|ez]|
+|ils|présuppos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|présuppos%[m|é]|
+|tu|as |présuppos%[m|é]|
+|il|a|présuppos%[m|é]|
+|nous|avons|présuppos%[m|é]|
+|vous|avez|présuppos%[m|é]|
+|ils|ont|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|présuppos%[m|ais]|
+|tu|présuppos%[m|ais]|
+|il|présuppos%[m|ait]|
+|nous|présuppos%[m|ions]|
+|vous|présuppos%[m|iez]|
+|ils|présuppos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|présuppos%[m|é]|
+|tu|avais|présuppos%[m|é]|
+|il|avait|présuppos%[m|é]|
+|nous|avions|présuppos%[m|é]|
+|vous|aviez|présuppos%[m|é]|
+|ils|avaient|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|présuppos%[m|ai]|
+|tu|présuppos%[m|as]|
+|il|présuppos%[m|a]|
+|nous|présuppos%[m|âmes]|
+|vous|présuppos%[m|âtes]|
+|ils|présuppos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|présuppos%[m|é]|
+|tu|eus|présuppos%[m|é]|
+|il|eut|présuppos%[m|é]|
+|nous|e&ucirc;mes|présuppos%[m|é]|
+|vous|e&ucirc;tes|présuppos%[m|é]|
+|ils|eurent|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|présuppos%[m|erai]|
+|tu|présuppos%[m|eras]|
+|il|présuppos%[m|era]|
+|nous|présuppos%[m|erons]|
+|vous|présuppos%[m|erez]|
+|ils|présuppos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|présuppos%[m|é]|
+|tu|auras|présuppos%[m|é]|
+|il|aura|présuppos%[m|é]|
+|nous|aurons|présuppos%[m|é]|
+|vous|aurez|présuppos%[m|é]|
+|ils|auront|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|présuppos%[m|erais]|
+|tu|présuppos%[m|erais]|
+|il|présuppos%[m|erait]|
+|nous|présuppos%[m|erions]|
+|vous|présuppos%[m|eriez]|
+|ils|présuppos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|présuppos%[m|é]|
+|tu|aurais|présuppos%[m|é]|
+|il|aurait|présuppos%[m|é]|
+|nous|aurions|présuppos%[m|é]|
+|vous|auriez|présuppos%[m|é]|
+|ils|auraient|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|présuppos%[m|e]|
+|que|tu|présuppos%[m|es]|
+|qu'|il|présuppos%[m|e]|
+|que|nous|présuppos%[m|ions]|
+|que|vous|présuppos%[m|iez]|
+|qu'|ils|présuppos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|présuppos%[m|é]|
+|que|tu|aies|présuppos%[m|é]|
+|qu'|il|ait|présuppos%[m|é]|
+|que|nous|ayons|présuppos%[m|é]|
+|que|vous|ayez|présuppos%[m|é]|
+|qu'|ils|aient|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|présuppos%[m|asse]|
+|que|tu|présuppos%[m|asses]|
+|qu'|il|présuppos%[m|ât]|
+|que|nous|présuppos%[m|assions]|
+|que|vous|présuppos%[m|assiez]|
+|qu'|ils|présuppos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|présuppos%[m|é]|
+|que|tu|eusses|présuppos%[m|é]|
+|qu'|il|eût|présuppos%[m|é]|
+|que|nous|eussions|présuppos%[m|é]|
+|que|vous|eussiez|présuppos%[m|é]|
+|qu'|ils|eussent|présuppos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|présuppos%[m|e]|
+|présuppos%[m|ons]|
+|présuppos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|présuppos%[m|é]|
+|ayons|présuppos%[m|é]|
+|ayez|présuppos%[m|é]|
+|]
+

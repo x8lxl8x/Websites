@@ -1,0 +1,190 @@
+# fluer %[clVerbGroup|1]
+[-
+couler. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flu%[m|é]|
+|ayant|flu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flu%[m|e]|
+|tu|flu%[m|es]|
+|il|flu%[m|e]|
+|nous|flu%[m|ons]|
+|vous|flu%[m|ez]|
+|ils|flu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flu%[m|é]|
+|tu|as |flu%[m|é]|
+|il|a|flu%[m|é]|
+|nous|avons|flu%[m|é]|
+|vous|avez|flu%[m|é]|
+|ils|ont|flu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flu%[m|ais]|
+|tu|flu%[m|ais]|
+|il|flu%[m|ait]|
+|nous|flu%[m|ions]|
+|vous|flu%[m|iez]|
+|ils|flu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flu%[m|é]|
+|tu|avais|flu%[m|é]|
+|il|avait|flu%[m|é]|
+|nous|avions|flu%[m|é]|
+|vous|aviez|flu%[m|é]|
+|ils|avaient|flu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flu%[m|ai]|
+|tu|flu%[m|as]|
+|il|flu%[m|a]|
+|nous|flu%[m|âmes]|
+|vous|flu%[m|âtes]|
+|ils|flu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flu%[m|é]|
+|tu|eus|flu%[m|é]|
+|il|eut|flu%[m|é]|
+|nous|e&ucirc;mes|flu%[m|é]|
+|vous|e&ucirc;tes|flu%[m|é]|
+|ils|eurent|flu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flu%[m|erai]|
+|tu|flu%[m|eras]|
+|il|flu%[m|era]|
+|nous|flu%[m|erons]|
+|vous|flu%[m|erez]|
+|ils|flu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flu%[m|é]|
+|tu|auras|flu%[m|é]|
+|il|aura|flu%[m|é]|
+|nous|aurons|flu%[m|é]|
+|vous|aurez|flu%[m|é]|
+|ils|auront|flu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flu%[m|erais]|
+|tu|flu%[m|erais]|
+|il|flu%[m|erait]|
+|nous|flu%[m|erions]|
+|vous|flu%[m|eriez]|
+|ils|flu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flu%[m|é]|
+|tu|aurais|flu%[m|é]|
+|il|aurait|flu%[m|é]|
+|nous|aurions|flu%[m|é]|
+|vous|auriez|flu%[m|é]|
+|ils|auraient|flu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flu%[m|e]|
+|que|tu|flu%[m|es]|
+|qu'|il|flu%[m|e]|
+|que|nous|flu%[m|ions]|
+|que|vous|flu%[m|iez]|
+|qu'|ils|flu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flu%[m|é]|
+|que|tu|aies|flu%[m|é]|
+|qu'|il|ait|flu%[m|é]|
+|que|nous|ayons|flu%[m|é]|
+|que|vous|ayez|flu%[m|é]|
+|qu'|ils|aient|flu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flu%[m|asse]|
+|que|tu|flu%[m|asses]|
+|qu'|il|flu%[m|ât]|
+|que|nous|flu%[m|assions]|
+|que|vous|flu%[m|assiez]|
+|qu'|ils|flu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flu%[m|é]|
+|que|tu|eusses|flu%[m|é]|
+|qu'|il|eût|flu%[m|é]|
+|que|nous|eussions|flu%[m|é]|
+|que|vous|eussiez|flu%[m|é]|
+|qu'|ils|eussent|flu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flu%[m|e]|
+|flu%[m|ons]|
+|flu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flu%[m|é]|
+|ayons|flu%[m|é]|
+|ayez|flu%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# rider %[clVerbGroup|1]
+[-
+marquer de rides. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rid%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rid%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rid%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rid%[m|é]|
+|ayant|rid%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rid%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rid%[m|e]|
+|tu|rid%[m|es]|
+|il|rid%[m|e]|
+|nous|rid%[m|ons]|
+|vous|rid%[m|ez]|
+|ils|rid%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rid%[m|é]|
+|tu|as |rid%[m|é]|
+|il|a|rid%[m|é]|
+|nous|avons|rid%[m|é]|
+|vous|avez|rid%[m|é]|
+|ils|ont|rid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rid%[m|ais]|
+|tu|rid%[m|ais]|
+|il|rid%[m|ait]|
+|nous|rid%[m|ions]|
+|vous|rid%[m|iez]|
+|ils|rid%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rid%[m|é]|
+|tu|avais|rid%[m|é]|
+|il|avait|rid%[m|é]|
+|nous|avions|rid%[m|é]|
+|vous|aviez|rid%[m|é]|
+|ils|avaient|rid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rid%[m|ai]|
+|tu|rid%[m|as]|
+|il|rid%[m|a]|
+|nous|rid%[m|âmes]|
+|vous|rid%[m|âtes]|
+|ils|rid%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rid%[m|é]|
+|tu|eus|rid%[m|é]|
+|il|eut|rid%[m|é]|
+|nous|e&ucirc;mes|rid%[m|é]|
+|vous|e&ucirc;tes|rid%[m|é]|
+|ils|eurent|rid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rid%[m|erai]|
+|tu|rid%[m|eras]|
+|il|rid%[m|era]|
+|nous|rid%[m|erons]|
+|vous|rid%[m|erez]|
+|ils|rid%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rid%[m|é]|
+|tu|auras|rid%[m|é]|
+|il|aura|rid%[m|é]|
+|nous|aurons|rid%[m|é]|
+|vous|aurez|rid%[m|é]|
+|ils|auront|rid%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rid%[m|erais]|
+|tu|rid%[m|erais]|
+|il|rid%[m|erait]|
+|nous|rid%[m|erions]|
+|vous|rid%[m|eriez]|
+|ils|rid%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rid%[m|é]|
+|tu|aurais|rid%[m|é]|
+|il|aurait|rid%[m|é]|
+|nous|aurions|rid%[m|é]|
+|vous|auriez|rid%[m|é]|
+|ils|auraient|rid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rid%[m|e]|
+|que|tu|rid%[m|es]|
+|qu'|il|rid%[m|e]|
+|que|nous|rid%[m|ions]|
+|que|vous|rid%[m|iez]|
+|qu'|ils|rid%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rid%[m|é]|
+|que|tu|aies|rid%[m|é]|
+|qu'|il|ait|rid%[m|é]|
+|que|nous|ayons|rid%[m|é]|
+|que|vous|ayez|rid%[m|é]|
+|qu'|ils|aient|rid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rid%[m|asse]|
+|que|tu|rid%[m|asses]|
+|qu'|il|rid%[m|ât]|
+|que|nous|rid%[m|assions]|
+|que|vous|rid%[m|assiez]|
+|qu'|ils|rid%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rid%[m|é]|
+|que|tu|eusses|rid%[m|é]|
+|qu'|il|eût|rid%[m|é]|
+|que|nous|eussions|rid%[m|é]|
+|que|vous|eussiez|rid%[m|é]|
+|qu'|ils|eussent|rid%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rid%[m|e]|
+|rid%[m|ons]|
+|rid%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rid%[m|é]|
+|ayons|rid%[m|é]|
+|ayez|rid%[m|é]|
+|]
+

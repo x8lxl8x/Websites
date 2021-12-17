@@ -1,0 +1,25 @@
+# Set of Tiles
+
+### Pair
+2 identical tiles
+^[./images/chun.png]&ensp;^[./images/chun.png]
+^[./images/hatsu.png]&ensp;^[./images/hatsu.png]
+^[./images/shaa.png]&ensp;^[./images/shaa.png]
+
+### Pung
+3 identical tiles
+^[./images/pin5.png]&ensp;^[./images/pin5.png]&ensp;^[./images/pin5.png]
+^[./images/man2.png]&ensp;^[./images/man2.png]&ensp;^[./images/man2.png]
+^[./images/sou3.png]&ensp;^[./images/sou3.png]&ensp;^[./images/sou3.png]
+
+### Kong
+4 identical tiles
+^[./images/pin6.png]&ensp;^[./images/pin6.png]&ensp;^[./images/pin6.png]&ensp;^[./images/pin6.png]
+^[./images/man8.png]&ensp;^[./images/man8.png]&ensp;^[./images/man8.png]&ensp;^[./images/man8.png]
+^[./images/sou7.png]&ensp;^[./images/sou7.png]&ensp;^[./images/sou7.png]&ensp;^[./images/sou7.png]
+
+### Chow
+3 sequence tiles in suit
+^[./images/pin2.png]&ensp;^[./images/pin3.png]&ensp;^[./images/pin4.png]
+^[./images/man3.png]&ensp;^[./images/man4.png]&ensp;^[./images/man5.png]
+^[./images/sou4.png]&ensp;^[./images/sou5.png]&ensp;^[./images/sou6.png]

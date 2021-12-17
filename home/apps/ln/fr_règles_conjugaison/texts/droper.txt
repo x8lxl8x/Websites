@@ -1,0 +1,190 @@
+# droper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|drop%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|drop%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|drop%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||drop%[m|é]|
+|ayant|drop%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en drop%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|drop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|drop%[m|e]|
+|tu|drop%[m|es]|
+|il|drop%[m|e]|
+|nous|drop%[m|ons]|
+|vous|drop%[m|ez]|
+|ils|drop%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|drop%[m|é]|
+|tu|as |drop%[m|é]|
+|il|a|drop%[m|é]|
+|nous|avons|drop%[m|é]|
+|vous|avez|drop%[m|é]|
+|ils|ont|drop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|drop%[m|ais]|
+|tu|drop%[m|ais]|
+|il|drop%[m|ait]|
+|nous|drop%[m|ions]|
+|vous|drop%[m|iez]|
+|ils|drop%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|drop%[m|é]|
+|tu|avais|drop%[m|é]|
+|il|avait|drop%[m|é]|
+|nous|avions|drop%[m|é]|
+|vous|aviez|drop%[m|é]|
+|ils|avaient|drop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|drop%[m|ai]|
+|tu|drop%[m|as]|
+|il|drop%[m|a]|
+|nous|drop%[m|âmes]|
+|vous|drop%[m|âtes]|
+|ils|drop%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|drop%[m|é]|
+|tu|eus|drop%[m|é]|
+|il|eut|drop%[m|é]|
+|nous|e&ucirc;mes|drop%[m|é]|
+|vous|e&ucirc;tes|drop%[m|é]|
+|ils|eurent|drop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|drop%[m|erai]|
+|tu|drop%[m|eras]|
+|il|drop%[m|era]|
+|nous|drop%[m|erons]|
+|vous|drop%[m|erez]|
+|ils|drop%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|drop%[m|é]|
+|tu|auras|drop%[m|é]|
+|il|aura|drop%[m|é]|
+|nous|aurons|drop%[m|é]|
+|vous|aurez|drop%[m|é]|
+|ils|auront|drop%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|drop%[m|erais]|
+|tu|drop%[m|erais]|
+|il|drop%[m|erait]|
+|nous|drop%[m|erions]|
+|vous|drop%[m|eriez]|
+|ils|drop%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|drop%[m|é]|
+|tu|aurais|drop%[m|é]|
+|il|aurait|drop%[m|é]|
+|nous|aurions|drop%[m|é]|
+|vous|auriez|drop%[m|é]|
+|ils|auraient|drop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|drop%[m|e]|
+|que|tu|drop%[m|es]|
+|qu'|il|drop%[m|e]|
+|que|nous|drop%[m|ions]|
+|que|vous|drop%[m|iez]|
+|qu'|ils|drop%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|drop%[m|é]|
+|que|tu|aies|drop%[m|é]|
+|qu'|il|ait|drop%[m|é]|
+|que|nous|ayons|drop%[m|é]|
+|que|vous|ayez|drop%[m|é]|
+|qu'|ils|aient|drop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|drop%[m|asse]|
+|que|tu|drop%[m|asses]|
+|qu'|il|drop%[m|ât]|
+|que|nous|drop%[m|assions]|
+|que|vous|drop%[m|assiez]|
+|qu'|ils|drop%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|drop%[m|é]|
+|que|tu|eusses|drop%[m|é]|
+|qu'|il|eût|drop%[m|é]|
+|que|nous|eussions|drop%[m|é]|
+|que|vous|eussiez|drop%[m|é]|
+|qu'|ils|eussent|drop%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|drop%[m|e]|
+|drop%[m|ons]|
+|drop%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|drop%[m|é]|
+|ayons|drop%[m|é]|
+|ayez|drop%[m|é]|
+|]
+

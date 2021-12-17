@@ -1,0 +1,190 @@
+# pigmenter %[clVerbGroup|1]
+[-
+colorer avec un pigment. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pigment%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pigment%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pigment%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pigment%[m|é]|
+|ayant|pigment%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pigment%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pigment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pigment%[m|e]|
+|tu|pigment%[m|es]|
+|il|pigment%[m|e]|
+|nous|pigment%[m|ons]|
+|vous|pigment%[m|ez]|
+|ils|pigment%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pigment%[m|é]|
+|tu|as |pigment%[m|é]|
+|il|a|pigment%[m|é]|
+|nous|avons|pigment%[m|é]|
+|vous|avez|pigment%[m|é]|
+|ils|ont|pigment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pigment%[m|ais]|
+|tu|pigment%[m|ais]|
+|il|pigment%[m|ait]|
+|nous|pigment%[m|ions]|
+|vous|pigment%[m|iez]|
+|ils|pigment%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pigment%[m|é]|
+|tu|avais|pigment%[m|é]|
+|il|avait|pigment%[m|é]|
+|nous|avions|pigment%[m|é]|
+|vous|aviez|pigment%[m|é]|
+|ils|avaient|pigment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pigment%[m|ai]|
+|tu|pigment%[m|as]|
+|il|pigment%[m|a]|
+|nous|pigment%[m|âmes]|
+|vous|pigment%[m|âtes]|
+|ils|pigment%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pigment%[m|é]|
+|tu|eus|pigment%[m|é]|
+|il|eut|pigment%[m|é]|
+|nous|e&ucirc;mes|pigment%[m|é]|
+|vous|e&ucirc;tes|pigment%[m|é]|
+|ils|eurent|pigment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pigment%[m|erai]|
+|tu|pigment%[m|eras]|
+|il|pigment%[m|era]|
+|nous|pigment%[m|erons]|
+|vous|pigment%[m|erez]|
+|ils|pigment%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pigment%[m|é]|
+|tu|auras|pigment%[m|é]|
+|il|aura|pigment%[m|é]|
+|nous|aurons|pigment%[m|é]|
+|vous|aurez|pigment%[m|é]|
+|ils|auront|pigment%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pigment%[m|erais]|
+|tu|pigment%[m|erais]|
+|il|pigment%[m|erait]|
+|nous|pigment%[m|erions]|
+|vous|pigment%[m|eriez]|
+|ils|pigment%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pigment%[m|é]|
+|tu|aurais|pigment%[m|é]|
+|il|aurait|pigment%[m|é]|
+|nous|aurions|pigment%[m|é]|
+|vous|auriez|pigment%[m|é]|
+|ils|auraient|pigment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pigment%[m|e]|
+|que|tu|pigment%[m|es]|
+|qu'|il|pigment%[m|e]|
+|que|nous|pigment%[m|ions]|
+|que|vous|pigment%[m|iez]|
+|qu'|ils|pigment%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pigment%[m|é]|
+|que|tu|aies|pigment%[m|é]|
+|qu'|il|ait|pigment%[m|é]|
+|que|nous|ayons|pigment%[m|é]|
+|que|vous|ayez|pigment%[m|é]|
+|qu'|ils|aient|pigment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pigment%[m|asse]|
+|que|tu|pigment%[m|asses]|
+|qu'|il|pigment%[m|ât]|
+|que|nous|pigment%[m|assions]|
+|que|vous|pigment%[m|assiez]|
+|qu'|ils|pigment%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pigment%[m|é]|
+|que|tu|eusses|pigment%[m|é]|
+|qu'|il|eût|pigment%[m|é]|
+|que|nous|eussions|pigment%[m|é]|
+|que|vous|eussiez|pigment%[m|é]|
+|qu'|ils|eussent|pigment%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pigment%[m|e]|
+|pigment%[m|ons]|
+|pigment%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pigment%[m|é]|
+|ayons|pigment%[m|é]|
+|ayez|pigment%[m|é]|
+|]
+

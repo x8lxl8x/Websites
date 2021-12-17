@@ -1,0 +1,190 @@
+# pastiquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pastiqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pastiqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pastiqu%[m|é]|
+|ayant|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pastiqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pastiqu%[m|e]|
+|tu|pastiqu%[m|es]|
+|il|pastiqu%[m|e]|
+|nous|pastiqu%[m|ons]|
+|vous|pastiqu%[m|ez]|
+|ils|pastiqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pastiqu%[m|é]|
+|tu|as |pastiqu%[m|é]|
+|il|a|pastiqu%[m|é]|
+|nous|avons|pastiqu%[m|é]|
+|vous|avez|pastiqu%[m|é]|
+|ils|ont|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pastiqu%[m|ais]|
+|tu|pastiqu%[m|ais]|
+|il|pastiqu%[m|ait]|
+|nous|pastiqu%[m|ions]|
+|vous|pastiqu%[m|iez]|
+|ils|pastiqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pastiqu%[m|é]|
+|tu|avais|pastiqu%[m|é]|
+|il|avait|pastiqu%[m|é]|
+|nous|avions|pastiqu%[m|é]|
+|vous|aviez|pastiqu%[m|é]|
+|ils|avaient|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pastiqu%[m|ai]|
+|tu|pastiqu%[m|as]|
+|il|pastiqu%[m|a]|
+|nous|pastiqu%[m|âmes]|
+|vous|pastiqu%[m|âtes]|
+|ils|pastiqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pastiqu%[m|é]|
+|tu|eus|pastiqu%[m|é]|
+|il|eut|pastiqu%[m|é]|
+|nous|e&ucirc;mes|pastiqu%[m|é]|
+|vous|e&ucirc;tes|pastiqu%[m|é]|
+|ils|eurent|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pastiqu%[m|erai]|
+|tu|pastiqu%[m|eras]|
+|il|pastiqu%[m|era]|
+|nous|pastiqu%[m|erons]|
+|vous|pastiqu%[m|erez]|
+|ils|pastiqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pastiqu%[m|é]|
+|tu|auras|pastiqu%[m|é]|
+|il|aura|pastiqu%[m|é]|
+|nous|aurons|pastiqu%[m|é]|
+|vous|aurez|pastiqu%[m|é]|
+|ils|auront|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pastiqu%[m|erais]|
+|tu|pastiqu%[m|erais]|
+|il|pastiqu%[m|erait]|
+|nous|pastiqu%[m|erions]|
+|vous|pastiqu%[m|eriez]|
+|ils|pastiqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pastiqu%[m|é]|
+|tu|aurais|pastiqu%[m|é]|
+|il|aurait|pastiqu%[m|é]|
+|nous|aurions|pastiqu%[m|é]|
+|vous|auriez|pastiqu%[m|é]|
+|ils|auraient|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pastiqu%[m|e]|
+|que|tu|pastiqu%[m|es]|
+|qu'|il|pastiqu%[m|e]|
+|que|nous|pastiqu%[m|ions]|
+|que|vous|pastiqu%[m|iez]|
+|qu'|ils|pastiqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pastiqu%[m|é]|
+|que|tu|aies|pastiqu%[m|é]|
+|qu'|il|ait|pastiqu%[m|é]|
+|que|nous|ayons|pastiqu%[m|é]|
+|que|vous|ayez|pastiqu%[m|é]|
+|qu'|ils|aient|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pastiqu%[m|asse]|
+|que|tu|pastiqu%[m|asses]|
+|qu'|il|pastiqu%[m|ât]|
+|que|nous|pastiqu%[m|assions]|
+|que|vous|pastiqu%[m|assiez]|
+|qu'|ils|pastiqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pastiqu%[m|é]|
+|que|tu|eusses|pastiqu%[m|é]|
+|qu'|il|eût|pastiqu%[m|é]|
+|que|nous|eussions|pastiqu%[m|é]|
+|que|vous|eussiez|pastiqu%[m|é]|
+|qu'|ils|eussent|pastiqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pastiqu%[m|e]|
+|pastiqu%[m|ons]|
+|pastiqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pastiqu%[m|é]|
+|ayons|pastiqu%[m|é]|
+|ayez|pastiqu%[m|é]|
+|]
+

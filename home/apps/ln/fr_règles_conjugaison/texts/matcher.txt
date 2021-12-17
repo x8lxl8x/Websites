@@ -1,0 +1,190 @@
+# matcher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|match%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|match%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|match%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||match%[m|é]|
+|ayant|match%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en match%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|match%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|match%[m|e]|
+|tu|match%[m|es]|
+|il|match%[m|e]|
+|nous|match%[m|ons]|
+|vous|match%[m|ez]|
+|ils|match%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|match%[m|é]|
+|tu|as |match%[m|é]|
+|il|a|match%[m|é]|
+|nous|avons|match%[m|é]|
+|vous|avez|match%[m|é]|
+|ils|ont|match%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|match%[m|ais]|
+|tu|match%[m|ais]|
+|il|match%[m|ait]|
+|nous|match%[m|ions]|
+|vous|match%[m|iez]|
+|ils|match%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|match%[m|é]|
+|tu|avais|match%[m|é]|
+|il|avait|match%[m|é]|
+|nous|avions|match%[m|é]|
+|vous|aviez|match%[m|é]|
+|ils|avaient|match%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|match%[m|ai]|
+|tu|match%[m|as]|
+|il|match%[m|a]|
+|nous|match%[m|âmes]|
+|vous|match%[m|âtes]|
+|ils|match%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|match%[m|é]|
+|tu|eus|match%[m|é]|
+|il|eut|match%[m|é]|
+|nous|e&ucirc;mes|match%[m|é]|
+|vous|e&ucirc;tes|match%[m|é]|
+|ils|eurent|match%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|match%[m|erai]|
+|tu|match%[m|eras]|
+|il|match%[m|era]|
+|nous|match%[m|erons]|
+|vous|match%[m|erez]|
+|ils|match%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|match%[m|é]|
+|tu|auras|match%[m|é]|
+|il|aura|match%[m|é]|
+|nous|aurons|match%[m|é]|
+|vous|aurez|match%[m|é]|
+|ils|auront|match%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|match%[m|erais]|
+|tu|match%[m|erais]|
+|il|match%[m|erait]|
+|nous|match%[m|erions]|
+|vous|match%[m|eriez]|
+|ils|match%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|match%[m|é]|
+|tu|aurais|match%[m|é]|
+|il|aurait|match%[m|é]|
+|nous|aurions|match%[m|é]|
+|vous|auriez|match%[m|é]|
+|ils|auraient|match%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|match%[m|e]|
+|que|tu|match%[m|es]|
+|qu'|il|match%[m|e]|
+|que|nous|match%[m|ions]|
+|que|vous|match%[m|iez]|
+|qu'|ils|match%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|match%[m|é]|
+|que|tu|aies|match%[m|é]|
+|qu'|il|ait|match%[m|é]|
+|que|nous|ayons|match%[m|é]|
+|que|vous|ayez|match%[m|é]|
+|qu'|ils|aient|match%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|match%[m|asse]|
+|que|tu|match%[m|asses]|
+|qu'|il|match%[m|ât]|
+|que|nous|match%[m|assions]|
+|que|vous|match%[m|assiez]|
+|qu'|ils|match%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|match%[m|é]|
+|que|tu|eusses|match%[m|é]|
+|qu'|il|eût|match%[m|é]|
+|que|nous|eussions|match%[m|é]|
+|que|vous|eussiez|match%[m|é]|
+|qu'|ils|eussent|match%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|match%[m|e]|
+|match%[m|ons]|
+|match%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|match%[m|é]|
+|ayons|match%[m|é]|
+|ayez|match%[m|é]|
+|]
+

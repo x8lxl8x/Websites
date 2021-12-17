@@ -1,0 +1,190 @@
+# postillonner %[clVerbGroup|1]
+[-
+envoyer des postillons, crachoter en parlant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|postillonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|postillonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||postillonn%[m|é]|
+|ayant|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en postillonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|postillonn%[m|e]|
+|tu|postillonn%[m|es]|
+|il|postillonn%[m|e]|
+|nous|postillonn%[m|ons]|
+|vous|postillonn%[m|ez]|
+|ils|postillonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|postillonn%[m|é]|
+|tu|as |postillonn%[m|é]|
+|il|a|postillonn%[m|é]|
+|nous|avons|postillonn%[m|é]|
+|vous|avez|postillonn%[m|é]|
+|ils|ont|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|postillonn%[m|ais]|
+|tu|postillonn%[m|ais]|
+|il|postillonn%[m|ait]|
+|nous|postillonn%[m|ions]|
+|vous|postillonn%[m|iez]|
+|ils|postillonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|postillonn%[m|é]|
+|tu|avais|postillonn%[m|é]|
+|il|avait|postillonn%[m|é]|
+|nous|avions|postillonn%[m|é]|
+|vous|aviez|postillonn%[m|é]|
+|ils|avaient|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|postillonn%[m|ai]|
+|tu|postillonn%[m|as]|
+|il|postillonn%[m|a]|
+|nous|postillonn%[m|âmes]|
+|vous|postillonn%[m|âtes]|
+|ils|postillonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|postillonn%[m|é]|
+|tu|eus|postillonn%[m|é]|
+|il|eut|postillonn%[m|é]|
+|nous|e&ucirc;mes|postillonn%[m|é]|
+|vous|e&ucirc;tes|postillonn%[m|é]|
+|ils|eurent|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|postillonn%[m|erai]|
+|tu|postillonn%[m|eras]|
+|il|postillonn%[m|era]|
+|nous|postillonn%[m|erons]|
+|vous|postillonn%[m|erez]|
+|ils|postillonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|postillonn%[m|é]|
+|tu|auras|postillonn%[m|é]|
+|il|aura|postillonn%[m|é]|
+|nous|aurons|postillonn%[m|é]|
+|vous|aurez|postillonn%[m|é]|
+|ils|auront|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|postillonn%[m|erais]|
+|tu|postillonn%[m|erais]|
+|il|postillonn%[m|erait]|
+|nous|postillonn%[m|erions]|
+|vous|postillonn%[m|eriez]|
+|ils|postillonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|postillonn%[m|é]|
+|tu|aurais|postillonn%[m|é]|
+|il|aurait|postillonn%[m|é]|
+|nous|aurions|postillonn%[m|é]|
+|vous|auriez|postillonn%[m|é]|
+|ils|auraient|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|postillonn%[m|e]|
+|que|tu|postillonn%[m|es]|
+|qu'|il|postillonn%[m|e]|
+|que|nous|postillonn%[m|ions]|
+|que|vous|postillonn%[m|iez]|
+|qu'|ils|postillonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|postillonn%[m|é]|
+|que|tu|aies|postillonn%[m|é]|
+|qu'|il|ait|postillonn%[m|é]|
+|que|nous|ayons|postillonn%[m|é]|
+|que|vous|ayez|postillonn%[m|é]|
+|qu'|ils|aient|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|postillonn%[m|asse]|
+|que|tu|postillonn%[m|asses]|
+|qu'|il|postillonn%[m|ât]|
+|que|nous|postillonn%[m|assions]|
+|que|vous|postillonn%[m|assiez]|
+|qu'|ils|postillonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|postillonn%[m|é]|
+|que|tu|eusses|postillonn%[m|é]|
+|qu'|il|eût|postillonn%[m|é]|
+|que|nous|eussions|postillonn%[m|é]|
+|que|vous|eussiez|postillonn%[m|é]|
+|qu'|ils|eussent|postillonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|postillonn%[m|e]|
+|postillonn%[m|ons]|
+|postillonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|postillonn%[m|é]|
+|ayons|postillonn%[m|é]|
+|ayez|postillonn%[m|é]|
+|]
+

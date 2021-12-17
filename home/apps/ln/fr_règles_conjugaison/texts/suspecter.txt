@@ -1,0 +1,190 @@
+# suspecter %[clVerbGroup|1]
+[-
+soupçonner, mettre en cause. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|suspect%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|suspect%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|suspect%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||suspect%[m|é]|
+|ayant|suspect%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en suspect%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|suspect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|suspect%[m|e]|
+|tu|suspect%[m|es]|
+|il|suspect%[m|e]|
+|nous|suspect%[m|ons]|
+|vous|suspect%[m|ez]|
+|ils|suspect%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|suspect%[m|é]|
+|tu|as |suspect%[m|é]|
+|il|a|suspect%[m|é]|
+|nous|avons|suspect%[m|é]|
+|vous|avez|suspect%[m|é]|
+|ils|ont|suspect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|suspect%[m|ais]|
+|tu|suspect%[m|ais]|
+|il|suspect%[m|ait]|
+|nous|suspect%[m|ions]|
+|vous|suspect%[m|iez]|
+|ils|suspect%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|suspect%[m|é]|
+|tu|avais|suspect%[m|é]|
+|il|avait|suspect%[m|é]|
+|nous|avions|suspect%[m|é]|
+|vous|aviez|suspect%[m|é]|
+|ils|avaient|suspect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|suspect%[m|ai]|
+|tu|suspect%[m|as]|
+|il|suspect%[m|a]|
+|nous|suspect%[m|âmes]|
+|vous|suspect%[m|âtes]|
+|ils|suspect%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|suspect%[m|é]|
+|tu|eus|suspect%[m|é]|
+|il|eut|suspect%[m|é]|
+|nous|e&ucirc;mes|suspect%[m|é]|
+|vous|e&ucirc;tes|suspect%[m|é]|
+|ils|eurent|suspect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|suspect%[m|erai]|
+|tu|suspect%[m|eras]|
+|il|suspect%[m|era]|
+|nous|suspect%[m|erons]|
+|vous|suspect%[m|erez]|
+|ils|suspect%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|suspect%[m|é]|
+|tu|auras|suspect%[m|é]|
+|il|aura|suspect%[m|é]|
+|nous|aurons|suspect%[m|é]|
+|vous|aurez|suspect%[m|é]|
+|ils|auront|suspect%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|suspect%[m|erais]|
+|tu|suspect%[m|erais]|
+|il|suspect%[m|erait]|
+|nous|suspect%[m|erions]|
+|vous|suspect%[m|eriez]|
+|ils|suspect%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|suspect%[m|é]|
+|tu|aurais|suspect%[m|é]|
+|il|aurait|suspect%[m|é]|
+|nous|aurions|suspect%[m|é]|
+|vous|auriez|suspect%[m|é]|
+|ils|auraient|suspect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|suspect%[m|e]|
+|que|tu|suspect%[m|es]|
+|qu'|il|suspect%[m|e]|
+|que|nous|suspect%[m|ions]|
+|que|vous|suspect%[m|iez]|
+|qu'|ils|suspect%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|suspect%[m|é]|
+|que|tu|aies|suspect%[m|é]|
+|qu'|il|ait|suspect%[m|é]|
+|que|nous|ayons|suspect%[m|é]|
+|que|vous|ayez|suspect%[m|é]|
+|qu'|ils|aient|suspect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|suspect%[m|asse]|
+|que|tu|suspect%[m|asses]|
+|qu'|il|suspect%[m|ât]|
+|que|nous|suspect%[m|assions]|
+|que|vous|suspect%[m|assiez]|
+|qu'|ils|suspect%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|suspect%[m|é]|
+|que|tu|eusses|suspect%[m|é]|
+|qu'|il|eût|suspect%[m|é]|
+|que|nous|eussions|suspect%[m|é]|
+|que|vous|eussiez|suspect%[m|é]|
+|qu'|ils|eussent|suspect%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|suspect%[m|e]|
+|suspect%[m|ons]|
+|suspect%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|suspect%[m|é]|
+|ayons|suspect%[m|é]|
+|ayez|suspect%[m|é]|
+|]
+

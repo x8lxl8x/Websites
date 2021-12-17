@@ -1,0 +1,191 @@
+# repeupler %[clVerbGroup|1]
+[-
+peupler un endroit dépeuplé. 
+regarnir d'animaux, de végétaux. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repeupl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repeupl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repeupl%[m|é]|
+|ayant|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repeupl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repeupl%[m|e]|
+|tu|repeupl%[m|es]|
+|il|repeupl%[m|e]|
+|nous|repeupl%[m|ons]|
+|vous|repeupl%[m|ez]|
+|ils|repeupl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repeupl%[m|é]|
+|tu|as |repeupl%[m|é]|
+|il|a|repeupl%[m|é]|
+|nous|avons|repeupl%[m|é]|
+|vous|avez|repeupl%[m|é]|
+|ils|ont|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repeupl%[m|ais]|
+|tu|repeupl%[m|ais]|
+|il|repeupl%[m|ait]|
+|nous|repeupl%[m|ions]|
+|vous|repeupl%[m|iez]|
+|ils|repeupl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repeupl%[m|é]|
+|tu|avais|repeupl%[m|é]|
+|il|avait|repeupl%[m|é]|
+|nous|avions|repeupl%[m|é]|
+|vous|aviez|repeupl%[m|é]|
+|ils|avaient|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repeupl%[m|ai]|
+|tu|repeupl%[m|as]|
+|il|repeupl%[m|a]|
+|nous|repeupl%[m|âmes]|
+|vous|repeupl%[m|âtes]|
+|ils|repeupl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repeupl%[m|é]|
+|tu|eus|repeupl%[m|é]|
+|il|eut|repeupl%[m|é]|
+|nous|e&ucirc;mes|repeupl%[m|é]|
+|vous|e&ucirc;tes|repeupl%[m|é]|
+|ils|eurent|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repeupl%[m|erai]|
+|tu|repeupl%[m|eras]|
+|il|repeupl%[m|era]|
+|nous|repeupl%[m|erons]|
+|vous|repeupl%[m|erez]|
+|ils|repeupl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repeupl%[m|é]|
+|tu|auras|repeupl%[m|é]|
+|il|aura|repeupl%[m|é]|
+|nous|aurons|repeupl%[m|é]|
+|vous|aurez|repeupl%[m|é]|
+|ils|auront|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repeupl%[m|erais]|
+|tu|repeupl%[m|erais]|
+|il|repeupl%[m|erait]|
+|nous|repeupl%[m|erions]|
+|vous|repeupl%[m|eriez]|
+|ils|repeupl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repeupl%[m|é]|
+|tu|aurais|repeupl%[m|é]|
+|il|aurait|repeupl%[m|é]|
+|nous|aurions|repeupl%[m|é]|
+|vous|auriez|repeupl%[m|é]|
+|ils|auraient|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repeupl%[m|e]|
+|que|tu|repeupl%[m|es]|
+|qu'|il|repeupl%[m|e]|
+|que|nous|repeupl%[m|ions]|
+|que|vous|repeupl%[m|iez]|
+|qu'|ils|repeupl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repeupl%[m|é]|
+|que|tu|aies|repeupl%[m|é]|
+|qu'|il|ait|repeupl%[m|é]|
+|que|nous|ayons|repeupl%[m|é]|
+|que|vous|ayez|repeupl%[m|é]|
+|qu'|ils|aient|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repeupl%[m|asse]|
+|que|tu|repeupl%[m|asses]|
+|qu'|il|repeupl%[m|ât]|
+|que|nous|repeupl%[m|assions]|
+|que|vous|repeupl%[m|assiez]|
+|qu'|ils|repeupl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repeupl%[m|é]|
+|que|tu|eusses|repeupl%[m|é]|
+|qu'|il|eût|repeupl%[m|é]|
+|que|nous|eussions|repeupl%[m|é]|
+|que|vous|eussiez|repeupl%[m|é]|
+|qu'|ils|eussent|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repeupl%[m|e]|
+|repeupl%[m|ons]|
+|repeupl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repeupl%[m|é]|
+|ayons|repeupl%[m|é]|
+|ayez|repeupl%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# schmecter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|schmect%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|schmect%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|schmect%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||schmect%[m|é]|
+|ayant|schmect%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en schmect%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|schmect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|schmect%[m|e]|
+|tu|schmect%[m|es]|
+|il|schmect%[m|e]|
+|nous|schmect%[m|ons]|
+|vous|schmect%[m|ez]|
+|ils|schmect%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|schmect%[m|é]|
+|tu|as |schmect%[m|é]|
+|il|a|schmect%[m|é]|
+|nous|avons|schmect%[m|é]|
+|vous|avez|schmect%[m|é]|
+|ils|ont|schmect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|schmect%[m|ais]|
+|tu|schmect%[m|ais]|
+|il|schmect%[m|ait]|
+|nous|schmect%[m|ions]|
+|vous|schmect%[m|iez]|
+|ils|schmect%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|schmect%[m|é]|
+|tu|avais|schmect%[m|é]|
+|il|avait|schmect%[m|é]|
+|nous|avions|schmect%[m|é]|
+|vous|aviez|schmect%[m|é]|
+|ils|avaient|schmect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|schmect%[m|ai]|
+|tu|schmect%[m|as]|
+|il|schmect%[m|a]|
+|nous|schmect%[m|âmes]|
+|vous|schmect%[m|âtes]|
+|ils|schmect%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|schmect%[m|é]|
+|tu|eus|schmect%[m|é]|
+|il|eut|schmect%[m|é]|
+|nous|e&ucirc;mes|schmect%[m|é]|
+|vous|e&ucirc;tes|schmect%[m|é]|
+|ils|eurent|schmect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|schmect%[m|erai]|
+|tu|schmect%[m|eras]|
+|il|schmect%[m|era]|
+|nous|schmect%[m|erons]|
+|vous|schmect%[m|erez]|
+|ils|schmect%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|schmect%[m|é]|
+|tu|auras|schmect%[m|é]|
+|il|aura|schmect%[m|é]|
+|nous|aurons|schmect%[m|é]|
+|vous|aurez|schmect%[m|é]|
+|ils|auront|schmect%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|schmect%[m|erais]|
+|tu|schmect%[m|erais]|
+|il|schmect%[m|erait]|
+|nous|schmect%[m|erions]|
+|vous|schmect%[m|eriez]|
+|ils|schmect%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|schmect%[m|é]|
+|tu|aurais|schmect%[m|é]|
+|il|aurait|schmect%[m|é]|
+|nous|aurions|schmect%[m|é]|
+|vous|auriez|schmect%[m|é]|
+|ils|auraient|schmect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|schmect%[m|e]|
+|que|tu|schmect%[m|es]|
+|qu'|il|schmect%[m|e]|
+|que|nous|schmect%[m|ions]|
+|que|vous|schmect%[m|iez]|
+|qu'|ils|schmect%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|schmect%[m|é]|
+|que|tu|aies|schmect%[m|é]|
+|qu'|il|ait|schmect%[m|é]|
+|que|nous|ayons|schmect%[m|é]|
+|que|vous|ayez|schmect%[m|é]|
+|qu'|ils|aient|schmect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|schmect%[m|asse]|
+|que|tu|schmect%[m|asses]|
+|qu'|il|schmect%[m|ât]|
+|que|nous|schmect%[m|assions]|
+|que|vous|schmect%[m|assiez]|
+|qu'|ils|schmect%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|schmect%[m|é]|
+|que|tu|eusses|schmect%[m|é]|
+|qu'|il|eût|schmect%[m|é]|
+|que|nous|eussions|schmect%[m|é]|
+|que|vous|eussiez|schmect%[m|é]|
+|qu'|ils|eussent|schmect%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|schmect%[m|e]|
+|schmect%[m|ons]|
+|schmect%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|schmect%[m|é]|
+|ayons|schmect%[m|é]|
+|ayez|schmect%[m|é]|
+|]
+

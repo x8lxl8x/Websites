@@ -1,0 +1,403 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./26.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./28.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>More Delta Gamma</h1>
+
+<p>The concept of delta and gamma are of utmost
+importance for the option trader.&nbsp; In our section
+&quot;Deltas and Gammas&quot; we learned that delta measures
+direction and gamma measures speed of the option.&nbsp; But
+it was presented in a format to understand the concepts
+without the use of numbers.</p>
+<p>In this section, we will broaden the concept of delta
+and zero-in on an exact definition you can use and
+understand.&nbsp; </p>
+<p>The importance of delta cannot be emphasized enough;
+understanding it will most likely change the way you
+pick your option trades.</p>
+<h2>The concept of delta</h2>
+<p>Delta is a mathematical relationship between the
+option and the underlying stock.&nbsp; It expresses the
+dollar amount the option will increase for a very small
+move in the underlying stock.&nbsp; How much is a small
+move?&nbsp; Technically we mean very small (as in
+infinitesimal) but it will probably be easier to
+understand if you think of a $1 move in the underlying
+stock.&nbsp; </p>
+<p>For example, say an option is trading for $50 and has
+a delta of 1/2.&nbsp; If the stock were to move up $1 to $51
+rather quickly, we would expect the price of the option
+to move up $1/2 from $5 to $5-1/2.&nbsp; In other words, the
+stock gained 1 point but the option only gained 1/2
+point.&nbsp; If that same option, instead, had a delta of
+1/4, then the price of the option would have moved to
+$5-1/4 -- only 1/4 the move of the stock.</p>
+<p>Delta will always be a number between 0 and 1 for
+calls (0 and -1 for puts).&nbsp; There are some exceptions to
+this but they are usually minor and not too important
+for trading purposes.&nbsp; Delta constantly changes
+primarily from moves in stock price, time or volatility.</p>
+<p>We now want to find out why the option does not move
+point-for-point with the stock.&nbsp; This may sound trivial,
+but it will change the way you see and understand
+options!</p>
+<p>It will take some basic math but we will make it as
+easy as possible.&nbsp; We will start first with a simple
+analogy to get the idea of why deltas exist.</p>
+<h2>Why does delta exist?</h2>
+<p>This often confuses the new options trader.&nbsp; Often
+they will purchase an out-of-the-money call option that
+sits relatively flat in price -- even though the
+underlying stock is moving up.&nbsp; They wonder how that can
+be since call options are supposed to go up in value as
+the stock moves up.&nbsp; If you understand the following
+analogy, you will understand why the market will not
+price your option point-for-point with the underlying
+stock unless the option is very deep-in-the-money or
+in-the-money with little time remaining.</p>
+<h2>Analogy: Promotional cell phone coupon</h2>
+<p>Assume you are holding a promotional coupon that
+allows you to purchase a particular cell phone for
+$100.&nbsp; The phone actually sells for $120.&nbsp; Also assume
+that this coupon is marketable; that is, it can be
+bought and sold freely and there are a large number of
+buyers and sellers.&nbsp; </p>
+<p>Notice that this is similar to a call option; it
+gives the buyer the right to buy the asset for a fixed
+price.</p>
+<p>If these assumptions are true, the coupon should be
+trading for $20.&nbsp; This is because someone could buy the
+coupon for $20 and use it to buy the phone for $100.&nbsp;
+The total purchase price would be $120, which is the
+market price of the phone.&nbsp; In this case, there is no
+net advantage to owning the coupon.&nbsp; The markets will
+always make sure there is not net advantage to owning
+one asset over another, otherwise arbitrageurs will
+correct for it.</p>
+<p>Let's look at two different scenarios and see how the
+coupon will react:</p>
+<h2>Scenario I</h2>
+<p>It is announced to the market that the price of the
+phone <u>will increase</u> to $130.&nbsp; What will happen to
+the price of the coupon?&nbsp; For the same reasons as above,
+it will immediately move to $30.&nbsp; A consumer could buy
+the coupon for $30 and use it to pay $100 for the phone
+thus paying $130 -- the market price.&nbsp; </p>
+<p>Notice that the phone jumped by $10 (from $120 to
+$130) and so did the coupon (from $20 to $30).&nbsp; We could
+say the delta of the coupon is one.&nbsp; In other words, the
+coupon appreciates dollar-for-dollar with moves in the
+underlying asset, in this case, the phone.&nbsp; This will be
+true for any price appreciation or depreciation in the
+phone (assuming the phone price does not drop below $100
+because the coupon cannot have negative value).</p>
+<h2>Scenario II</h2>
+<p>Let's say the phone company executives are meeting
+tonight and will decide if the phone price should be
+raised from $120 to $130.&nbsp; These executives are in a
+deadlock and have decided to break the tie by flipping a
+coin: heads they raise the price, tails they do not.&nbsp; It
+is announced to the market that the price of the phone
+<u>may increase</u> to $130 with a 50%-50% chance;
+otherwise the price will stay the same.</p>
+<p>Now comes the tricky part.&nbsp; What happens to the price
+of the coupon?</p>
+<p>Think about this, the price of the coupon will either
+move to $130 or stay at $120 with a 50%-50% chance.&nbsp; If
+the market does not bid up the price of the coupon,
+there is an inherent advantage for a speculator; they
+will bid up the price hoping the decision is to raise
+the price of the phone.&nbsp; The reason is this:&nbsp; If faced
+with this same situation multiple times, half of the
+time investors would make $10 (when phone is raised to
+$130 and coupon jumps from $20 to $30) and half the time
+they will not make anything (when phone price stays the
+same and coupon stays priced at $20).&nbsp; So on average, if
+given this opportunity multiple times, investors will
+make $5; they make $10 half the time and make nothing
+half the time.</p>
+<p>Mathematically, this can be shown as follows:</p>
+<p>(1/2) * (+$10) = $5<br>
+(1/2) * ( $0 ) =&nbsp;&nbsp; <u>$0</u><br>
+Net gain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +$5</p>
+<p>Mathematically, this is called the <i>expected value</i>
+and is key to understanding delta.&nbsp; The expected value
+is nothing more than the sum of the probabilities
+multiplied by the outcomes.</p>
+<p>So what should speculators do?&nbsp; They should bid up
+the price of the coupon to where there is no net
+advantage -- they bid it to $25.&nbsp; If not, the market
+will continue to compete for the difference.&nbsp; For
+example, if the market only bids the price to $24, now
+speculators have a $1 net advantage.</p>
+<p>The expected value is:</p>
+<p>(1/2) * (+$6) =&nbsp; +$3<br>
+(1/2) * (-$4) =&nbsp;&nbsp;&nbsp; <u>-$2</u><br>
+Net gain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+$1</p>
+<p>With the coupon priced at $24, speculators are
+putting $4 at risk in order to make $10.&nbsp; Half the time
+they will win for a net gain of $6, and half the time
+they lose for a net loss of $4.&nbsp; If they were allowed to
+do this many times, they would expect to win, on
+average, $1 per time.&nbsp; So they continue to bid the price
+of the coupon to $25 so there is not net advantage.</p>
+<p>When priced at $25, the expected value of the coupon
+is:</p>
+<p>(1/2) * (+$5) =&nbsp;&nbsp;+$2.5<br>
+(1/2) * (-$5) = &nbsp;&nbsp;<u>&nbsp;-$2.5</u><br>
+Net gain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$0<br>
+When the prices rises to $25, the buying pressure stops.</p>
+<p>What happens if the markets immediately price the
+coupon to $30 as they did in scenario I?&nbsp; For similar
+reasons, if the market prices the coupon at&nbsp; $30, again
+there is an inherent advantage for the speculator; they
+will sell it because it is theoretically overpriced.&nbsp;
+</p>
+<p>The expected value will be:</p>
+<p>(1/2) * (+$10) = +$5<br>
+(1/2) * ($0) =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>$0</u><br>
+Net gain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +$5</p>
+<p>Half the time speculators will make $10 by selling
+the coupon at $30 and buying it back for $20 when the
+phone price is not raised; otherwise, they make nothing
+(sell coupon for $30 and buy it back for $30).&nbsp; Again,
+there is a net advantage to being short so speculators
+will compete for this money.&nbsp; For the same reasons as
+above, they will continue selling the coupon until the
+price is $25.</p>
+<p>When the price falls to $25, the selling pressure
+stops.</p>
+<h2>Understanding delta</h2>
+<p>Let me give you a simple definition of delta and
+hopefully you will understand why the markets will not
+give you dollar-for-dollar moves on your option.&nbsp; </p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td><b>Definition:</b><br>
+Delta is the probability that the option will
+have intrinsic value at expiration.</td>
+</tr>
+</table>
+<p>Now that you know exactly what delta is, you should
+immediately understand why it exists.&nbsp; If an option has
+a delta of-1/2, then the markets will only compensate
+you for-1/2 of the move in the underlying -- otherwise
+there will be a net advantage for speculators to buy or
+sell!&nbsp; This is exactly what happened with the cell phone
+example in scenario II.</p>
+<p>Once the option is deep-in-the-money or in-the-money
+with little time remaining, the market will increase the
+price of your option dollar-for-dollar with moves in the
+underlying.&nbsp; This is because the market is effectively
+saying that the option will expire with intrinsic
+value.&nbsp; This is exactly what happened in scenario I with
+the cell phone coupon.&nbsp; It was announced that the price
+<u>will be</u> increased; in other words, it is 100%
+guaranteed to happen.&nbsp; When the market heard this news,
+they priced the coupon dollar-for-dollar.</p>
+<h2>New Uses For Delta </h2>
+<p>You may hear that delta is of little concern for the
+average investor and only used as a theoretical hedging
+value for floor traders.&nbsp; While it is true that it can
+be used in this sense, there are also a great deal of
+insights that are practical, if not necessary, for
+retail investors.</p>
+<p>First, because we know delta is the probability that
+the option will have intrinsic value at expiration, it
+will shed some light on your option picks.&nbsp; Often, new
+traders are attracted to the short-term,
+out-of-the-money option because it is cheap.&nbsp; If it has
+a long way to get to the strike and little time to do
+it, what kind of probability do you think the markets
+are assigning to it?&nbsp; If you said very low, you're
+right.&nbsp; The delta on short-term, out-of-the-moneys are
+usually in the neighborhood of 0 to 20%.&nbsp; Now you know
+why they don't appreciate dollar-for-dollar with moves
+in the underlying.&nbsp; Usually, these options are lucky to
+see a few cents appreciation in them, but are often
+eaten away by bid-ask spreads.</p>
+<p>If you're not having a lot of success with your
+option trades despite getting the direction of the stock
+right, try using ones with higher deltas!</p>
+<h2>What are the chances I will have my stock called
+away?</h2>
+<p>Here is another use and one we get a lot of questions
+on.&nbsp; Many times investors will be in a covered call
+position (long stock and short call) and ask, &quot;What do
+you think the chances are that I will have my stock
+called away?&quot;&nbsp; Most brokers will tell you there is no
+way to know but this is completely false.&nbsp; The answer is
+the delta.&nbsp; If you are long stock and short a call with
+a delta of 0.70, at this time, the markets are telling
+you there is a 70% chance you will lose your stock.</p>
+<p>Keep in mind that we said &quot;at this time&quot; there is a
+70% chance.&nbsp; Obviously as information changes, so will
+the delta.</p>
+<h2>Why Deltas Change</h2>
+<p>The main factors that affect delta are stock price
+movement, time and volatility in the underlying stock.&nbsp;
+Let's find out how these factors affect delta and why.</p>
+<p>Again, we could use a lot of math, but a simple
+analogy will probably work better.</p>
+<p>Let's assume you are an odds maker for an upcoming
+basketball game.&nbsp; It's the Miami Heat vs. the Orlando
+Magic.&nbsp; You do your analysis and decide that the Heat
+have a 60% chance of winning.</p>
+<p>There are now 10 minutes remaining in the game and
+the score is Miami: 70 Orlando: 72.&nbsp; As the odds maker,
+should you change your odds at this point?&nbsp; Probably
+not, as the score is too close and there is too much
+time remaining to be sure.</p>
+<h2>Example 1:</h2>
+<p>Let's say that, instead, the score is Miami: 80,
+Orlando:70 with 5 minutes remaining.&nbsp; Now, because your
+team is a good bit ahead, although not unbeatable, you
+will probably decide to increase your odds, right?&nbsp; You
+may now, for example, think Miami has a 70% chance of
+winning.</p>
+<p>Your job as the odds maker is to decide which team
+will win.&nbsp; Well, that's exactly what the market does
+with options.&nbsp; The market tries to determine which
+options will win -- which ones will have intrinsic value
+at expiration.&nbsp; So as your option goes
+deeper-in-the-money, the odds of it expiring with
+intrinsic value will increase; that is, the deltas will
+increase.</p>
+<p><b>As the stock rises, call deltas increase and put
+deltas decrease.</b></p>
+<p>Now back to the basketball game.</p>
+<h2>Example 2:</h2>
+<p>Let's now assume that the score is Miami: 86,
+Orlando: 80.&nbsp; If we still had 5 minutes on the clock,
+this would be a close one to call.&nbsp; Instead, let's drop
+the time to only 30 seconds remaining.&nbsp; Now you would
+almost certainly boost your odds to nearly 100%; it's
+almost a sure thing the Heat will win.</p>
+<p>Notice the difference with the above examples.&nbsp; In
+the first example, a ten-point difference in scores
+boosted the odds from 60% to 70%.&nbsp; However, in the
+second example, a 5-point difference with little time
+boosted us to nearly 100%.&nbsp; Remember, you are trying to
+determine which team will win.&nbsp; In this case, you as the
+odds maker see no way for the Magic to win at this
+point, so you boost the odds for the Heat to nearly
+100%.</p>
+<p><b>As time decreases, options with intrinsic value
+will have delta increase.&nbsp; Out-of-the-money options will
+have deltas decrease.</b></p>
+<p>In other words, the options that are &quot;winners&quot; (have
+intrinsic value) are becoming more likely to stay that
+way as time decreases.</p>
+<h2>Example 3:</h2>
+<p>Still assume that the score is Miami: 86, Orlando: 80
+with 30 seconds on the clock as in the second example.&nbsp;
+But this time, some key players for the Heat suddenly
+get removed from the game.&nbsp; Because of this, the Heat's
+scoring ability has now been reduced.&nbsp; As the odds
+maker, instead of increasing the Heat from 70% to 100%,
+you would either not increase them as much or possibly
+decrease them.&nbsp; </p>
+<p>A losing team is helped by adding key players to the
+game (or having key players removed from the winning
+team).</p>
+<p>This is what happens when volatility is increased in
+the underlying stock.&nbsp; A losing option
+(out-of-the-money) is helped by increased volatility; it
+now has a chance to become a winning option and the
+deltas will increase.&nbsp; Similarly, an in-the-money option
+is hurt by volatility; it may now end up
+out-of-the-money.</p>
+<p><b>As volatility increases, out-of-the-money options
+will increase deltas and in-the-money options will lose
+deltas.</b></p>
+<p>An easy way to remember time and volatility concepts
+is that they are synonymous. </p>
+<p><b>As time or volatility increase all options become
+more at-the-money!</b></p>
+<p>To be a good trader, it is not necessary to know the
+actual number for delta as much as it is to know the
+relationships between delta, stock price, time, and
+volatility.</p>
+<p>Let's run through some examples to be sure you've got
+it.</p>
+<p><b>1) The stock is at $50.&nbsp; Which option has a higher
+delta, a one-month $60 call or a 6-month $60 call?&nbsp; Why?</b></p>
+<p>Remember, the market is trying to assign odds as to
+which option will be a winner or in-the-money.&nbsp; Because
+both are out-of-the-money, you would have to assign a
+higher probability to the 6-month call.&nbsp; It is much more
+likely to be a winner relative to the one-month call.&nbsp;
+The 6-month call will have the higher delta.&nbsp; If the
+underlying stock move up $1, the 6-month call will
+appreciate more relative to the 1-month.</p>
+<p><b>2) The stock is $100.&nbsp; Which has a higher delta, a
+one-month $90 call or a 3-month $90 call?&nbsp; Why?</b></p>
+<p>Both of these options are currently winners because
+they are in-the-money.&nbsp; But the 3-month option is more
+likely to become a loser relative to the 1-month so the
+1-month, will have a higher delta.&nbsp; If the underlying
+stock moves up $1, the 1-month option will appreciate
+more relative to the 3-month.</p>
+<p>Remember, once you are winning, you want the time
+clock to go to zero!</p>
+<p><b>3) The stock is $50 and a 3-month $55 call has a
+delta of 0.45.&nbsp; Suddenly, there is increased volatility
+in the stock.&nbsp; Does delta increase or decrease?</b></p>
+<p>The option is currently &quot;losing&quot; because it is
+out-of-the-money.&nbsp; But with the added volatility, it is
+much more likely to become a winner.&nbsp; Delta will
+increase. </p>
+<p><b>4) A stock is trading at $75.&nbsp; What is the delta
+of a $75 strike call?</b></p>
+<p>Because this option is at-the-money, it is riding the
+fence of being in or out-of-the-money.&nbsp; The delta will
+be very close to-1/2.&nbsp; Technically, the delta will be a
+little higher because of the continuous compounding
+assumption in the Black-Scholes Option Pricing Model.&nbsp;
+But for most trading purposes, an at-the-money option
+has a delta of-1/2.</p>
+<p><b>5) You want to use a call option as a substitute
+for stock.&nbsp; Would you look at short or long term?&nbsp;
+In-the-money or out-of-the-money?</b></p>
+<p>If you really want the option to behave virtually
+like stock, you should look at short-term,
+deep-in-the-money calls.&nbsp; Because, these are
+in-the-money with little time, there is close to a 100%
+chance they will expire with intrinsic value, so the
+market will have to increase the option
+dollar-for-dollar with moves in the underlying stock.
+</p>
+<p>If you continue to work with the concept of delta, it
+will greatly help you with your option trades whether
+beginning or advanced.&nbsp; It will shed new light on the
+risks involved with short-term out-of-the-money
+options.&nbsp; It will show why longer-term options are more
+desirable than shorter term if you are looking at
+out-of-the-money options.&nbsp; You will start to understand
+strategies in new ways and more closely match your
+positions to your opinion on the market.&nbsp; You will
+become a more informed and accomplished options trader,
+and that can only mean better trades!</p>
+
+</div>
+</div>
+</body>
+</html>

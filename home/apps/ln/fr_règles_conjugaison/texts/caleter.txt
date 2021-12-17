@@ -1,0 +1,190 @@
+# caleter %[clVerbGroup|1]
+[-
+s'enfuir en courant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cal%[m|e]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|calet%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cal%[m|e]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||calet%[m|é]|
+|ayant|calet%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cal%[m|e]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|calet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cal%[m|è]t%[m|e]|
+|tu|cal%[m|è]t%[m|es]|
+|il|cal%[m|è]t%[m|e]|
+|nous|cal%[m|e]t%[m|ons]|
+|vous|cal%[m|e]t%[m|ez]|
+|ils|cal%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|calet%[m|é]|
+|tu|as |calet%[m|é]|
+|il|a|calet%[m|é]|
+|nous|avons|calet%[m|é]|
+|vous|avez|calet%[m|é]|
+|ils|ont|calet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cal%[m|e]t%[m|ais]|
+|tu|cal%[m|e]t%[m|ais]|
+|il|cal%[m|e]t%[m|ait]|
+|nous|cal%[m|e]t%[m|ions]|
+|vous|cal%[m|e]t%[m|iez]|
+|ils|cal%[m|e]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|calet%[m|é]|
+|tu|avais|calet%[m|é]|
+|il|avait|calet%[m|é]|
+|nous|avions|calet%[m|é]|
+|vous|aviez|calet%[m|é]|
+|ils|avaient|calet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cal%[m|e]t%[m|ai]|
+|tu|cal%[m|e]t%[m|as]|
+|il|cal%[m|e]t%[m|a]|
+|nous|cal%[m|e]t%[m|âmes]|
+|vous|cal%[m|e]t%[m|âtes]|
+|ils|cal%[m|e]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|calet%[m|é]|
+|tu|eus|calet%[m|é]|
+|il|eut|calet%[m|é]|
+|nous|e&ucirc;mes|calet%[m|é]|
+|vous|e&ucirc;tes|calet%[m|é]|
+|ils|eurent|calet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cal%[m|è]t%[m|erai]|
+|tu|cal%[m|è]t%[m|eras]|
+|il|cal%[m|è]t%[m|era]|
+|nous|cal%[m|è]t%[m|erons]|
+|vous|cal%[m|è]t%[m|erez]|
+|ils|cal%[m|è]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|calet%[m|é]|
+|tu|auras|calet%[m|é]|
+|il|aura|calet%[m|é]|
+|nous|aurons|calet%[m|é]|
+|vous|aurez|calet%[m|é]|
+|ils|auront|calet%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cal%[m|è]t%[m|erais]|
+|tu|cal%[m|è]t%[m|erais]|
+|il|cal%[m|è]t%[m|erait]|
+|nous|cal%[m|è]t%[m|erions]|
+|vous|cal%[m|è]t%[m|eriez]|
+|ils|cal%[m|è]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|calet%[m|é]|
+|tu|aurais|calet%[m|é]|
+|il|aurait|calet%[m|é]|
+|nous|aurions|calet%[m|é]|
+|vous|auriez|calet%[m|é]|
+|ils|auraient|calet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cal%[m|è]t%[m|e]|
+|que|tu|cal%[m|è]t%[m|es]|
+|qu'|il|cal%[m|è]t%[m|e]|
+|que|nous|cal%[m|e]t%[m|ions]|
+|que|vous|cal%[m|e]t%[m|iez]|
+|qu'|ils|cal%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|calet%[m|é]|
+|que|tu|aies|calet%[m|é]|
+|qu'|il|ait|calet%[m|é]|
+|que|nous|ayons|calet%[m|é]|
+|que|vous|ayez|calet%[m|é]|
+|qu'|ils|aient|calet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cal%[m|e]t%[m|asse]|
+|que|tu|cal%[m|e]t%[m|asses]|
+|qu'|il|cal%[m|e]t%[m|ât]|
+|que|nous|cal%[m|e]t%[m|assions]|
+|que|vous|cal%[m|e]t%[m|assiez]|
+|qu'|ils|cal%[m|e]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|calet%[m|é]|
+|que|tu|eusses|calet%[m|é]|
+|qu'|il|eût|calet%[m|é]|
+|que|nous|eussions|calet%[m|é]|
+|que|vous|eussiez|calet%[m|é]|
+|qu'|ils|eussent|calet%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cal%[m|è]t%[m|e]|
+|cal%[m|e]t%[m|ons]|
+|cal%[m|e]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|calet%[m|é]|
+|ayons|calet%[m|é]|
+|ayez|calet%[m|é]|
+|]
+

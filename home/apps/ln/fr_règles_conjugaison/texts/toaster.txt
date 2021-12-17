@@ -1,0 +1,190 @@
+# toaster %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|toast%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|toast%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|toast%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||toast%[m|é]|
+|ayant|toast%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en toast%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|toast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|toast%[m|e]|
+|tu|toast%[m|es]|
+|il|toast%[m|e]|
+|nous|toast%[m|ons]|
+|vous|toast%[m|ez]|
+|ils|toast%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|toast%[m|é]|
+|tu|as |toast%[m|é]|
+|il|a|toast%[m|é]|
+|nous|avons|toast%[m|é]|
+|vous|avez|toast%[m|é]|
+|ils|ont|toast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|toast%[m|ais]|
+|tu|toast%[m|ais]|
+|il|toast%[m|ait]|
+|nous|toast%[m|ions]|
+|vous|toast%[m|iez]|
+|ils|toast%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|toast%[m|é]|
+|tu|avais|toast%[m|é]|
+|il|avait|toast%[m|é]|
+|nous|avions|toast%[m|é]|
+|vous|aviez|toast%[m|é]|
+|ils|avaient|toast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|toast%[m|ai]|
+|tu|toast%[m|as]|
+|il|toast%[m|a]|
+|nous|toast%[m|âmes]|
+|vous|toast%[m|âtes]|
+|ils|toast%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|toast%[m|é]|
+|tu|eus|toast%[m|é]|
+|il|eut|toast%[m|é]|
+|nous|e&ucirc;mes|toast%[m|é]|
+|vous|e&ucirc;tes|toast%[m|é]|
+|ils|eurent|toast%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|toast%[m|erai]|
+|tu|toast%[m|eras]|
+|il|toast%[m|era]|
+|nous|toast%[m|erons]|
+|vous|toast%[m|erez]|
+|ils|toast%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|toast%[m|é]|
+|tu|auras|toast%[m|é]|
+|il|aura|toast%[m|é]|
+|nous|aurons|toast%[m|é]|
+|vous|aurez|toast%[m|é]|
+|ils|auront|toast%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|toast%[m|erais]|
+|tu|toast%[m|erais]|
+|il|toast%[m|erait]|
+|nous|toast%[m|erions]|
+|vous|toast%[m|eriez]|
+|ils|toast%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|toast%[m|é]|
+|tu|aurais|toast%[m|é]|
+|il|aurait|toast%[m|é]|
+|nous|aurions|toast%[m|é]|
+|vous|auriez|toast%[m|é]|
+|ils|auraient|toast%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|toast%[m|e]|
+|que|tu|toast%[m|es]|
+|qu'|il|toast%[m|e]|
+|que|nous|toast%[m|ions]|
+|que|vous|toast%[m|iez]|
+|qu'|ils|toast%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|toast%[m|é]|
+|que|tu|aies|toast%[m|é]|
+|qu'|il|ait|toast%[m|é]|
+|que|nous|ayons|toast%[m|é]|
+|que|vous|ayez|toast%[m|é]|
+|qu'|ils|aient|toast%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|toast%[m|asse]|
+|que|tu|toast%[m|asses]|
+|qu'|il|toast%[m|ât]|
+|que|nous|toast%[m|assions]|
+|que|vous|toast%[m|assiez]|
+|qu'|ils|toast%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|toast%[m|é]|
+|que|tu|eusses|toast%[m|é]|
+|qu'|il|eût|toast%[m|é]|
+|que|nous|eussions|toast%[m|é]|
+|que|vous|eussiez|toast%[m|é]|
+|qu'|ils|eussent|toast%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|toast%[m|e]|
+|toast%[m|ons]|
+|toast%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|toast%[m|é]|
+|ayons|toast%[m|é]|
+|ayez|toast%[m|é]|
+|]
+

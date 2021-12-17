@@ -1,0 +1,190 @@
+# se préserver %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se préserv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|préserv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se préserv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|préserv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se préserv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|préserv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|préserv%[m|e]|
+|tu|te|préserv%[m|es]|
+|il|se|préserv%[m|e]|
+|nous|nous|préserv%[m|ons]|
+|vous|vous|préserv%[m|ez]|
+|ils|se|préserv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|préserv%[m|é]|
+|tu|t'|es|préserv%[m|é]|
+|il|s'|est|préserv%[m|é]|
+|nous|nous|sommes|préserv%[m|és]|
+|vous|vous|êtes|préserv%[m|és]|
+|ils|se|sont|préserv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|préserv%[m|ais]|
+|tu|te|préserv%[m|ais]|
+|il|se|préserv%[m|ait]|
+|nous|nous|préserv%[m|ions]|
+|vous|vous|préserv%[m|iez]|
+|ils|se|préserv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|préserv%[m|é]|
+|tu|t'|étais|préserv%[m|é]|
+|il|s'|était|préserv%[m|é]|
+|nous|nous|étions|préserv%[m|és]|
+|vous|vous|étiez|préserv%[m|és]|
+|ils|s'|étaient|préserv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|préserv%[m|ai]|
+|tu|te|préserv%[m|as]|
+|il|se|préserv%[m|a]|
+|nous|nous|préserv%[m|âmes]|
+|vous|vous|préserv%[m|âtes]|
+|ils|se|préserv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|préserv%[m|é]|
+|tu|te|fus|préserv%[m|é]|
+|il|se|fut|préserv%[m|é]|
+|nous|nous|fûmes|préserv%[m|és]|
+|vous|vous|fûtes|préserv%[m|és]|
+|ils|se|furent|préserv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|préserv%[m|erai]|
+|tu|te|préserv%[m|eras]|
+|il|se|préserv%[m|era]|
+|nous|nous|préserv%[m|erons]|
+|vous|vous|préserv%[m|erez]|
+|ils|se|préserv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|préserv%[m|é]|
+|tu|te|seras|préserv%[m|é]|
+|il|se|sera|préserv%[m|é]|
+|nous|nous|serons|préserv%[m|és]|
+|vous|vous|serez|préserv%[m|és]|
+|ils|se|seront|préserv%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|préserv%[m|erais]|
+|tu|te|préserv%[m|erais]|
+|il|se|préserv%[m|erait]|
+|nous|nous|préserv%[m|erions]|
+|vous|vous|préserv%[m|eriez]|
+|ils|se|préserv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|préserv%[m|é]|
+|tu|te|serais|préserv%[m|é]|
+|il|se|serait|préserv%[m|é]|
+|nous|nous|serions|préserv%[m|és]|
+|vous|vous|seriez|préserv%[m|és]|
+|ils|se|seraient|préserv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|préserv%[m|e]|
+|que|tu|te|préserv%[m|es]|
+|qu'|il|se|préserv%[m|e]|
+|que|nous|nous|préserv%[m|ions]|
+|que|vous|vous|préserv%[m|iez]|
+|qu'|ils|se|préserv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|préserv%[m|é]|
+|que|tu|te|sois|préserv%[m|é]|
+|qu'|il|se|soit|préserv%[m|é]|
+|que|nous|nous|soyons|préserv%[m|és]|
+|que|vous|vous|soyez|préserv%[m|és]|
+|qu'|ils|se|soient|préserv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|préserv%[m|asse]|
+|que|tu|te|préserv%[m|asses]|
+|qu'|il|se|préserv%[m|ât]|
+|que|nous|nous|préserv%[m|assions]|
+|que|vous|vous|préserv%[m|assiez]|
+|qu'|ils|se|préserv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|préserv%[m|é]|
+|que|tu|te|fusses|préserv%[m|é]|
+|qu'|il|se|fût|préserv%[m|é]|
+|que|nous|nous|fussions|préserv%[m|és]|
+|que|vous|vous|fussiez|préserv%[m|és]|
+|qu'|ils|se|fussent|préserv%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|préserv%[m|e]-toi|
+|préserv%[m|ons]-nous|
+|préserv%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,38 @@
+# La Négation n&deg; 2
+## Pendant une promenade à la campagne la voiture de la famille A. s'est trouvée en panne
+
+%[clChar|M:]Comptes-tu passer la nuit dans cette forêt?
+%[clChar|F:]Tu n'y penses pas! Pas question.
+
+%[clChar|M:]Pourtant, à la rigueur, on pourrait bien attendre jusqu'au matin.
+%[clChar|F:]N'insiste pas.
+
+%[clChar|M:]Tu crois que nous n'arriverons pas à réparer la voiture?
+%[clChar|F:]Certainement pas.
+
+%[clChar|M:]Eh bien, qu'est-ce qu'il y a dans le moteur?
+%[clChar|F:]Il y a quelque chose qui ne colle pas.
+
+%[clChar|M:]Mais sauras-tu réparer le moteur à toi tout seul?
+%[clChar|F:]D'aucune façon. Je me demande comment tu as fait pour mettre la voiture dans un état pareil.
+
+%[clChar|M:]Ça ne te regarde pas.
+%[clChar|F:]Mais si, ça me regarde, puisque tu me charges des travaux de réparation. Et encore, personne sur la route!
+
+%[clChar|M:]Ce n'est pas de chance, vraiment. Tiens, je vois ce qu'il faut faire. Reste là. Moi, je m'en vais pour trouver quelqu'un qui puisse nous venir en aide.
+%[clChar|F:]Laisse tomber. Tu ne trouveras personne sur cette route et à cette heure.
+
+%[clChar|M:]Oh, il se met à pleuvoir!
+%[clChar|F:]Il ne manquait plus que ça.
+
+%[clChar|M:]Alors, tu ne réussis toujours pas?
+%[clChar|F:]Pas moyen.
+
+%[clChar|M:]Et moi qui te croyais un automobiliste parfait!
+%[clChar|F:]Détrompe-toi, il n'en est rien. Maintenant que tu ne compteras plus sur mon intervention miraculeuse tu seras prudent au moins.
+
+%[clChar|M:]Pour ça, oui! Dis donc, je voudrais bien t'aider, mais j'ai peur d'aggraver l'état des choses.
+%[clChar|F:]Il n'y a pas de danger.
+
+%[clChar|M:]Vois-tu, l'autre jour j'ai dévissé toute cette partie et j'ai mis des pièces de rechange. Ça a très bien marché après.
+%[clChar|F:]Ce ne sera pas le cas cette fois.

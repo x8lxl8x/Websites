@@ -1,0 +1,190 @@
+# acter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|act%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|act%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|act%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||act%[m|é]|
+|ayant|act%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en act%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|act%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|act%[m|e]|
+|tu|act%[m|es]|
+|il|act%[m|e]|
+|nous|act%[m|ons]|
+|vous|act%[m|ez]|
+|ils|act%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|act%[m|é]|
+|tu|as |act%[m|é]|
+|il|a|act%[m|é]|
+|nous|avons|act%[m|é]|
+|vous|avez|act%[m|é]|
+|ils|ont|act%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|act%[m|ais]|
+|tu|act%[m|ais]|
+|il|act%[m|ait]|
+|nous|act%[m|ions]|
+|vous|act%[m|iez]|
+|ils|act%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|act%[m|é]|
+|tu|avais|act%[m|é]|
+|il|avait|act%[m|é]|
+|nous|avions|act%[m|é]|
+|vous|aviez|act%[m|é]|
+|ils|avaient|act%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|act%[m|ai]|
+|tu|act%[m|as]|
+|il|act%[m|a]|
+|nous|act%[m|âmes]|
+|vous|act%[m|âtes]|
+|ils|act%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|act%[m|é]|
+|tu|eus|act%[m|é]|
+|il|eut|act%[m|é]|
+|nous|e&ucirc;mes|act%[m|é]|
+|vous|e&ucirc;tes|act%[m|é]|
+|ils|eurent|act%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|act%[m|erai]|
+|tu|act%[m|eras]|
+|il|act%[m|era]|
+|nous|act%[m|erons]|
+|vous|act%[m|erez]|
+|ils|act%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|act%[m|é]|
+|tu|auras|act%[m|é]|
+|il|aura|act%[m|é]|
+|nous|aurons|act%[m|é]|
+|vous|aurez|act%[m|é]|
+|ils|auront|act%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|act%[m|erais]|
+|tu|act%[m|erais]|
+|il|act%[m|erait]|
+|nous|act%[m|erions]|
+|vous|act%[m|eriez]|
+|ils|act%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|act%[m|é]|
+|tu|aurais|act%[m|é]|
+|il|aurait|act%[m|é]|
+|nous|aurions|act%[m|é]|
+|vous|auriez|act%[m|é]|
+|ils|auraient|act%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|act%[m|e]|
+|que|tu|act%[m|es]|
+|qu'|il|act%[m|e]|
+|que|nous|act%[m|ions]|
+|que|vous|act%[m|iez]|
+|qu'|ils|act%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|act%[m|é]|
+|que|tu|aies|act%[m|é]|
+|qu'|il|ait|act%[m|é]|
+|que|nous|ayons|act%[m|é]|
+|que|vous|ayez|act%[m|é]|
+|qu'|ils|aient|act%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|act%[m|asse]|
+|que|tu|act%[m|asses]|
+|qu'|il|act%[m|ât]|
+|que|nous|act%[m|assions]|
+|que|vous|act%[m|assiez]|
+|qu'|ils|act%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|act%[m|é]|
+|que|tu|eusses|act%[m|é]|
+|qu'|il|eût|act%[m|é]|
+|que|nous|eussions|act%[m|é]|
+|que|vous|eussiez|act%[m|é]|
+|qu'|ils|eussent|act%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|act%[m|e]|
+|act%[m|ons]|
+|act%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|act%[m|é]|
+|ayons|act%[m|é]|
+|ayez|act%[m|é]|
+|]
+

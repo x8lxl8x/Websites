@@ -1,0 +1,192 @@
+# solder %[clVerbGroup|1]
+[-
+faire apparaître le solde d'un compte. 
+payer ce qui reste dû. 
+mettre un article en solde. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sold%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sold%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sold%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sold%[m|é]|
+|ayant|sold%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sold%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sold%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sold%[m|e]|
+|tu|sold%[m|es]|
+|il|sold%[m|e]|
+|nous|sold%[m|ons]|
+|vous|sold%[m|ez]|
+|ils|sold%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sold%[m|é]|
+|tu|as |sold%[m|é]|
+|il|a|sold%[m|é]|
+|nous|avons|sold%[m|é]|
+|vous|avez|sold%[m|é]|
+|ils|ont|sold%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sold%[m|ais]|
+|tu|sold%[m|ais]|
+|il|sold%[m|ait]|
+|nous|sold%[m|ions]|
+|vous|sold%[m|iez]|
+|ils|sold%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sold%[m|é]|
+|tu|avais|sold%[m|é]|
+|il|avait|sold%[m|é]|
+|nous|avions|sold%[m|é]|
+|vous|aviez|sold%[m|é]|
+|ils|avaient|sold%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sold%[m|ai]|
+|tu|sold%[m|as]|
+|il|sold%[m|a]|
+|nous|sold%[m|âmes]|
+|vous|sold%[m|âtes]|
+|ils|sold%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sold%[m|é]|
+|tu|eus|sold%[m|é]|
+|il|eut|sold%[m|é]|
+|nous|e&ucirc;mes|sold%[m|é]|
+|vous|e&ucirc;tes|sold%[m|é]|
+|ils|eurent|sold%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sold%[m|erai]|
+|tu|sold%[m|eras]|
+|il|sold%[m|era]|
+|nous|sold%[m|erons]|
+|vous|sold%[m|erez]|
+|ils|sold%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sold%[m|é]|
+|tu|auras|sold%[m|é]|
+|il|aura|sold%[m|é]|
+|nous|aurons|sold%[m|é]|
+|vous|aurez|sold%[m|é]|
+|ils|auront|sold%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sold%[m|erais]|
+|tu|sold%[m|erais]|
+|il|sold%[m|erait]|
+|nous|sold%[m|erions]|
+|vous|sold%[m|eriez]|
+|ils|sold%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sold%[m|é]|
+|tu|aurais|sold%[m|é]|
+|il|aurait|sold%[m|é]|
+|nous|aurions|sold%[m|é]|
+|vous|auriez|sold%[m|é]|
+|ils|auraient|sold%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sold%[m|e]|
+|que|tu|sold%[m|es]|
+|qu'|il|sold%[m|e]|
+|que|nous|sold%[m|ions]|
+|que|vous|sold%[m|iez]|
+|qu'|ils|sold%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sold%[m|é]|
+|que|tu|aies|sold%[m|é]|
+|qu'|il|ait|sold%[m|é]|
+|que|nous|ayons|sold%[m|é]|
+|que|vous|ayez|sold%[m|é]|
+|qu'|ils|aient|sold%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sold%[m|asse]|
+|que|tu|sold%[m|asses]|
+|qu'|il|sold%[m|ât]|
+|que|nous|sold%[m|assions]|
+|que|vous|sold%[m|assiez]|
+|qu'|ils|sold%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sold%[m|é]|
+|que|tu|eusses|sold%[m|é]|
+|qu'|il|eût|sold%[m|é]|
+|que|nous|eussions|sold%[m|é]|
+|que|vous|eussiez|sold%[m|é]|
+|qu'|ils|eussent|sold%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sold%[m|e]|
+|sold%[m|ons]|
+|sold%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sold%[m|é]|
+|ayons|sold%[m|é]|
+|ayez|sold%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se grandir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se grand%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|grand%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se grand%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|grand%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se grand%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|grand%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|grand%[m|is]|
+|tu|te|grand%[m|is]|
+|il|se|grand%[m|it]|
+|nous|nous|grand%[m|issons]|
+|vous|vous|grand%[m|issez]|
+|ils|se|grand%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|grand%[m|i]|
+|tu|t'|es|grand%[m|i]|
+|il|s'|est|grand%[m|i]|
+|nous|nous|sommes|grand%[m|is]|
+|vous|vous|êtes|grand%[m|is]|
+|ils|se|sont|grand%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|grand%[m|issais]|
+|tu|te|grand%[m|issais]|
+|il|se|grand%[m|issait]|
+|nous|nous|grand%[m|issions]|
+|vous|vous|grand%[m|issiez]|
+|ils|se|grand%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|grand%[m|i]|
+|tu|t'|étais|grand%[m|i]|
+|il|s'|était|grand%[m|i]|
+|nous|nous|étions|grand%[m|is]|
+|vous|vous|étiez|grand%[m|is]|
+|ils|s'|étaient|grand%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|grand%[m|is]|
+|tu|te|grand%[m|is]|
+|il|se|grand%[m|it]|
+|nous|nous|grand%[m|îmes]|
+|vous|vous|grand%[m|îtes]|
+|ils|se|grand%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|grand%[m|i]|
+|tu|te|fus|grand%[m|i]|
+|il|se|fut|grand%[m|i]|
+|nous|nous|fûmes|grand%[m|is]|
+|vous|vous|fûtes|grand%[m|is]|
+|ils|se|furent|grand%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|grand%[m|irai]|
+|tu|te|grand%[m|iras]|
+|il|se|grand%[m|ira]|
+|nous|nous|grand%[m|irons]|
+|vous|vous|grand%[m|irez]|
+|ils|se|grand%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|grand%[m|i]|
+|tu|te|seras|grand%[m|i]|
+|il|se|sera|grand%[m|i]|
+|nous|nous|serons|grand%[m|is]|
+|vous|vous|serez|grand%[m|is]|
+|ils|se|seront|grand%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|grand%[m|irais]|
+|tu|te|grand%[m|irais]|
+|il|se|grand%[m|irait]|
+|nous|nous|grand%[m|irions]|
+|vous|vous|grand%[m|iriez]|
+|ils|se|grand%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|grand%[m|i]|
+|tu|te|serais|grand%[m|i]|
+|il|se|serait|grand%[m|i]|
+|nous|nous|serions|grand%[m|is]|
+|vous|vous|seriez|grand%[m|is]|
+|ils|se|seraient|grand%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|grand%[m|isse]|
+|que|tu|te|grand%[m|isses]|
+|qu'|il|se|grand%[m|isse]|
+|que|nous|nous|grand%[m|issions]|
+|que|vous|vous|grand%[m|issiez]|
+|qu'|ils|se|grand%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|grand%[m|i]|
+|que|tu|te|sois|grand%[m|i]|
+|qu'|il|se|soit|grand%[m|i]|
+|que|nous|nous|soyons|grand%[m|is]|
+|que|vous|vous|soyez|grand%[m|is]|
+|qu'|ils|se|soient|grand%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|grand%[m|isse]|
+|que|tu|te|grand%[m|isses]|
+|qu'|il|se|grand%[m|ît]|
+|que|nous|nous|grand%[m|issions]|
+|que|vous|vous|grand%[m|issiez]|
+|qu'|ils|se|grand%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|grand%[m|i]|
+|que|tu|te|fusses|grand%[m|i]|
+|qu'|il|se|fût|grand%[m|i]|
+|que|nous|nous|fussions|grand%[m|is]|
+|que|vous|vous|fussiez|grand%[m|is]|
+|qu'|ils|se|fussent|grand%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grand%[m|is]-toi|
+|grand%[m|issons]-nous|
+|grand%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# agoincher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|agoinch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|agoinch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||agoinch%[m|é]|
+|ayant|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en agoinch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|agoinch%[m|e]|
+|tu|agoinch%[m|es]|
+|il|agoinch%[m|e]|
+|nous|agoinch%[m|ons]|
+|vous|agoinch%[m|ez]|
+|ils|agoinch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|agoinch%[m|é]|
+|tu|as |agoinch%[m|é]|
+|il|a|agoinch%[m|é]|
+|nous|avons|agoinch%[m|é]|
+|vous|avez|agoinch%[m|é]|
+|ils|ont|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|agoinch%[m|ais]|
+|tu|agoinch%[m|ais]|
+|il|agoinch%[m|ait]|
+|nous|agoinch%[m|ions]|
+|vous|agoinch%[m|iez]|
+|ils|agoinch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|agoinch%[m|é]|
+|tu|avais|agoinch%[m|é]|
+|il|avait|agoinch%[m|é]|
+|nous|avions|agoinch%[m|é]|
+|vous|aviez|agoinch%[m|é]|
+|ils|avaient|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|agoinch%[m|ai]|
+|tu|agoinch%[m|as]|
+|il|agoinch%[m|a]|
+|nous|agoinch%[m|âmes]|
+|vous|agoinch%[m|âtes]|
+|ils|agoinch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|agoinch%[m|é]|
+|tu|eus|agoinch%[m|é]|
+|il|eut|agoinch%[m|é]|
+|nous|e&ucirc;mes|agoinch%[m|é]|
+|vous|e&ucirc;tes|agoinch%[m|é]|
+|ils|eurent|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|agoinch%[m|erai]|
+|tu|agoinch%[m|eras]|
+|il|agoinch%[m|era]|
+|nous|agoinch%[m|erons]|
+|vous|agoinch%[m|erez]|
+|ils|agoinch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|agoinch%[m|é]|
+|tu|auras|agoinch%[m|é]|
+|il|aura|agoinch%[m|é]|
+|nous|aurons|agoinch%[m|é]|
+|vous|aurez|agoinch%[m|é]|
+|ils|auront|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|agoinch%[m|erais]|
+|tu|agoinch%[m|erais]|
+|il|agoinch%[m|erait]|
+|nous|agoinch%[m|erions]|
+|vous|agoinch%[m|eriez]|
+|ils|agoinch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|agoinch%[m|é]|
+|tu|aurais|agoinch%[m|é]|
+|il|aurait|agoinch%[m|é]|
+|nous|aurions|agoinch%[m|é]|
+|vous|auriez|agoinch%[m|é]|
+|ils|auraient|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|agoinch%[m|e]|
+|que|tu|agoinch%[m|es]|
+|qu'|il|agoinch%[m|e]|
+|que|nous|agoinch%[m|ions]|
+|que|vous|agoinch%[m|iez]|
+|qu'|ils|agoinch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|agoinch%[m|é]|
+|que|tu|aies|agoinch%[m|é]|
+|qu'|il|ait|agoinch%[m|é]|
+|que|nous|ayons|agoinch%[m|é]|
+|que|vous|ayez|agoinch%[m|é]|
+|qu'|ils|aient|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|agoinch%[m|asse]|
+|que|tu|agoinch%[m|asses]|
+|qu'|il|agoinch%[m|ât]|
+|que|nous|agoinch%[m|assions]|
+|que|vous|agoinch%[m|assiez]|
+|qu'|ils|agoinch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|agoinch%[m|é]|
+|que|tu|eusses|agoinch%[m|é]|
+|qu'|il|eût|agoinch%[m|é]|
+|que|nous|eussions|agoinch%[m|é]|
+|que|vous|eussiez|agoinch%[m|é]|
+|qu'|ils|eussent|agoinch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|agoinch%[m|e]|
+|agoinch%[m|ons]|
+|agoinch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|agoinch%[m|é]|
+|ayons|agoinch%[m|é]|
+|ayez|agoinch%[m|é]|
+|]
+

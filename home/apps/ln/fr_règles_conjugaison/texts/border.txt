@@ -1,0 +1,192 @@
+# border %[clVerbGroup|1]
+[-
+être le long du bord de quelque chose. 
+garnir d'un bord. 
+raidir une voile en tirant sur les écoutes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bord%[m|é]|
+|ayant|bord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bord%[m|e]|
+|tu|bord%[m|es]|
+|il|bord%[m|e]|
+|nous|bord%[m|ons]|
+|vous|bord%[m|ez]|
+|ils|bord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bord%[m|é]|
+|tu|as |bord%[m|é]|
+|il|a|bord%[m|é]|
+|nous|avons|bord%[m|é]|
+|vous|avez|bord%[m|é]|
+|ils|ont|bord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bord%[m|ais]|
+|tu|bord%[m|ais]|
+|il|bord%[m|ait]|
+|nous|bord%[m|ions]|
+|vous|bord%[m|iez]|
+|ils|bord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bord%[m|é]|
+|tu|avais|bord%[m|é]|
+|il|avait|bord%[m|é]|
+|nous|avions|bord%[m|é]|
+|vous|aviez|bord%[m|é]|
+|ils|avaient|bord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bord%[m|ai]|
+|tu|bord%[m|as]|
+|il|bord%[m|a]|
+|nous|bord%[m|âmes]|
+|vous|bord%[m|âtes]|
+|ils|bord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bord%[m|é]|
+|tu|eus|bord%[m|é]|
+|il|eut|bord%[m|é]|
+|nous|e&ucirc;mes|bord%[m|é]|
+|vous|e&ucirc;tes|bord%[m|é]|
+|ils|eurent|bord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bord%[m|erai]|
+|tu|bord%[m|eras]|
+|il|bord%[m|era]|
+|nous|bord%[m|erons]|
+|vous|bord%[m|erez]|
+|ils|bord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bord%[m|é]|
+|tu|auras|bord%[m|é]|
+|il|aura|bord%[m|é]|
+|nous|aurons|bord%[m|é]|
+|vous|aurez|bord%[m|é]|
+|ils|auront|bord%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bord%[m|erais]|
+|tu|bord%[m|erais]|
+|il|bord%[m|erait]|
+|nous|bord%[m|erions]|
+|vous|bord%[m|eriez]|
+|ils|bord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bord%[m|é]|
+|tu|aurais|bord%[m|é]|
+|il|aurait|bord%[m|é]|
+|nous|aurions|bord%[m|é]|
+|vous|auriez|bord%[m|é]|
+|ils|auraient|bord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bord%[m|e]|
+|que|tu|bord%[m|es]|
+|qu'|il|bord%[m|e]|
+|que|nous|bord%[m|ions]|
+|que|vous|bord%[m|iez]|
+|qu'|ils|bord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bord%[m|é]|
+|que|tu|aies|bord%[m|é]|
+|qu'|il|ait|bord%[m|é]|
+|que|nous|ayons|bord%[m|é]|
+|que|vous|ayez|bord%[m|é]|
+|qu'|ils|aient|bord%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bord%[m|asse]|
+|que|tu|bord%[m|asses]|
+|qu'|il|bord%[m|ât]|
+|que|nous|bord%[m|assions]|
+|que|vous|bord%[m|assiez]|
+|qu'|ils|bord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bord%[m|é]|
+|que|tu|eusses|bord%[m|é]|
+|qu'|il|eût|bord%[m|é]|
+|que|nous|eussions|bord%[m|é]|
+|que|vous|eussiez|bord%[m|é]|
+|qu'|ils|eussent|bord%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bord%[m|e]|
+|bord%[m|ons]|
+|bord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bord%[m|é]|
+|ayons|bord%[m|é]|
+|ayez|bord%[m|é]|
+|]
+

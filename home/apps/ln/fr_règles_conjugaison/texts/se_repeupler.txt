@@ -1,0 +1,190 @@
+# se repeupler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se repeupl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se repeupl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se repeupl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|repeupl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|repeupl%[m|e]|
+|tu|te|repeupl%[m|es]|
+|il|se|repeupl%[m|e]|
+|nous|nous|repeupl%[m|ons]|
+|vous|vous|repeupl%[m|ez]|
+|ils|se|repeupl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|repeupl%[m|é]|
+|tu|t'|es|repeupl%[m|é]|
+|il|s'|est|repeupl%[m|é]|
+|nous|nous|sommes|repeupl%[m|és]|
+|vous|vous|êtes|repeupl%[m|és]|
+|ils|se|sont|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|repeupl%[m|ais]|
+|tu|te|repeupl%[m|ais]|
+|il|se|repeupl%[m|ait]|
+|nous|nous|repeupl%[m|ions]|
+|vous|vous|repeupl%[m|iez]|
+|ils|se|repeupl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|repeupl%[m|é]|
+|tu|t'|étais|repeupl%[m|é]|
+|il|s'|était|repeupl%[m|é]|
+|nous|nous|étions|repeupl%[m|és]|
+|vous|vous|étiez|repeupl%[m|és]|
+|ils|s'|étaient|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|repeupl%[m|ai]|
+|tu|te|repeupl%[m|as]|
+|il|se|repeupl%[m|a]|
+|nous|nous|repeupl%[m|âmes]|
+|vous|vous|repeupl%[m|âtes]|
+|ils|se|repeupl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|repeupl%[m|é]|
+|tu|te|fus|repeupl%[m|é]|
+|il|se|fut|repeupl%[m|é]|
+|nous|nous|fûmes|repeupl%[m|és]|
+|vous|vous|fûtes|repeupl%[m|és]|
+|ils|se|furent|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|repeupl%[m|erai]|
+|tu|te|repeupl%[m|eras]|
+|il|se|repeupl%[m|era]|
+|nous|nous|repeupl%[m|erons]|
+|vous|vous|repeupl%[m|erez]|
+|ils|se|repeupl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|repeupl%[m|é]|
+|tu|te|seras|repeupl%[m|é]|
+|il|se|sera|repeupl%[m|é]|
+|nous|nous|serons|repeupl%[m|és]|
+|vous|vous|serez|repeupl%[m|és]|
+|ils|se|seront|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|repeupl%[m|erais]|
+|tu|te|repeupl%[m|erais]|
+|il|se|repeupl%[m|erait]|
+|nous|nous|repeupl%[m|erions]|
+|vous|vous|repeupl%[m|eriez]|
+|ils|se|repeupl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|repeupl%[m|é]|
+|tu|te|serais|repeupl%[m|é]|
+|il|se|serait|repeupl%[m|é]|
+|nous|nous|serions|repeupl%[m|és]|
+|vous|vous|seriez|repeupl%[m|és]|
+|ils|se|seraient|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|repeupl%[m|e]|
+|que|tu|te|repeupl%[m|es]|
+|qu'|il|se|repeupl%[m|e]|
+|que|nous|nous|repeupl%[m|ions]|
+|que|vous|vous|repeupl%[m|iez]|
+|qu'|ils|se|repeupl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|repeupl%[m|é]|
+|que|tu|te|sois|repeupl%[m|é]|
+|qu'|il|se|soit|repeupl%[m|é]|
+|que|nous|nous|soyons|repeupl%[m|és]|
+|que|vous|vous|soyez|repeupl%[m|és]|
+|qu'|ils|se|soient|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|repeupl%[m|asse]|
+|que|tu|te|repeupl%[m|asses]|
+|qu'|il|se|repeupl%[m|ât]|
+|que|nous|nous|repeupl%[m|assions]|
+|que|vous|vous|repeupl%[m|assiez]|
+|qu'|ils|se|repeupl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|repeupl%[m|é]|
+|que|tu|te|fusses|repeupl%[m|é]|
+|qu'|il|se|fût|repeupl%[m|é]|
+|que|nous|nous|fussions|repeupl%[m|és]|
+|que|vous|vous|fussiez|repeupl%[m|és]|
+|qu'|ils|se|fussent|repeupl%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repeupl%[m|e]-toi|
+|repeupl%[m|ons]-nous|
+|repeupl%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

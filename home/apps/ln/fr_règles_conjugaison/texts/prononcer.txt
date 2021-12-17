@@ -1,0 +1,191 @@
+# prononcer %[clVerbGroup|1]
+[-
+articuler un mot, une phrase. Il prononce mal ce mot. 
+rendre un arrêt, un jugement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pronon%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pronon%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pronon%[m|cé]|
+|ayant|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pronon%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pronon%[m|ce]|
+|tu|pronon%[m|ces]|
+|il|pronon%[m|ce]|
+|nous|pronon%[m|çons]|
+|vous|pronon%[m|cez]|
+|ils|pronon%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pronon%[m|cé]|
+|tu|as |pronon%[m|cé]|
+|il|a|pronon%[m|cé]|
+|nous|avons|pronon%[m|cé]|
+|vous|avez|pronon%[m|cé]|
+|ils|ont|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pronon%[m|çais]|
+|tu|pronon%[m|çais]|
+|il|pronon%[m|çait]|
+|nous|pronon%[m|cions]|
+|vous|pronon%[m|ciez]|
+|ils|pronon%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pronon%[m|cé]|
+|tu|avais|pronon%[m|cé]|
+|il|avait|pronon%[m|cé]|
+|nous|avions|pronon%[m|cé]|
+|vous|aviez|pronon%[m|cé]|
+|ils|avaient|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pronon%[m|çai]|
+|tu|pronon%[m|ças]|
+|il|pronon%[m|ça]|
+|nous|pronon%[m|çâmes]|
+|vous|pronon%[m|çâtes]|
+|ils|pronon%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pronon%[m|cé]|
+|tu|eus|pronon%[m|cé]|
+|il|eut|pronon%[m|cé]|
+|nous|e&ucirc;mes|pronon%[m|cé]|
+|vous|e&ucirc;tes|pronon%[m|cé]|
+|ils|eurent|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pronon%[m|cerai]|
+|tu|pronon%[m|ceras]|
+|il|pronon%[m|cera]|
+|nous|pronon%[m|cerons]|
+|vous|pronon%[m|cerez]|
+|ils|pronon%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pronon%[m|cé]|
+|tu|auras|pronon%[m|cé]|
+|il|aura|pronon%[m|cé]|
+|nous|aurons|pronon%[m|cé]|
+|vous|aurez|pronon%[m|cé]|
+|ils|auront|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pronon%[m|cerais]|
+|tu|pronon%[m|cerais]|
+|il|pronon%[m|cerait]|
+|nous|pronon%[m|cerions]|
+|vous|pronon%[m|ceriez]|
+|ils|pronon%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pronon%[m|cé]|
+|tu|aurais|pronon%[m|cé]|
+|il|aurait|pronon%[m|cé]|
+|nous|aurions|pronon%[m|cé]|
+|vous|auriez|pronon%[m|cé]|
+|ils|auraient|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pronon%[m|ce]|
+|que|tu|pronon%[m|ces]|
+|qu'|il|pronon%[m|ce]|
+|que|nous|pronon%[m|cions]|
+|que|vous|pronon%[m|ciez]|
+|qu'|ils|pronon%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pronon%[m|cé]|
+|que|tu|aies|pronon%[m|cé]|
+|qu'|il|ait|pronon%[m|cé]|
+|que|nous|ayons|pronon%[m|cé]|
+|que|vous|ayez|pronon%[m|cé]|
+|qu'|ils|aient|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pronon%[m|çasse]|
+|que|tu|pronon%[m|çasses]|
+|qu'|il|pronon%[m|çât]|
+|que|nous|pronon%[m|çassions]|
+|que|vous|pronon%[m|çassiez]|
+|qu'|ils|pronon%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pronon%[m|cé]|
+|que|tu|eusses|pronon%[m|cé]|
+|qu'|il|eût|pronon%[m|cé]|
+|que|nous|eussions|pronon%[m|cé]|
+|que|vous|eussiez|pronon%[m|cé]|
+|qu'|ils|eussent|pronon%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pronon%[m|ce]|
+|pronon%[m|çons]|
+|pronon%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pronon%[m|cé]|
+|ayons|pronon%[m|cé]|
+|ayez|pronon%[m|cé]|
+|]
+

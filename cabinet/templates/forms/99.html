@@ -1,0 +1,16 @@
+<h3 id='idHeader3'>$strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Переписка</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-form-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<textarea rows='15' cols='80' id='id9901' name='var9901' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[1]</textarea>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' placeholder='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>На страницу клиента</a>
+</div>

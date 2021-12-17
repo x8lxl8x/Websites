@@ -1,0 +1,192 @@
+# exposer %[clVerbGroup|1]
+[-
+disposer de manière à faire voir. 
+placer dans une certaine direction. 
+présenter des faits, des idées, par un développement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|expos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|expos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|expos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||expos%[m|é]|
+|ayant|expos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en expos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|expos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|expos%[m|e]|
+|tu|expos%[m|es]|
+|il|expos%[m|e]|
+|nous|expos%[m|ons]|
+|vous|expos%[m|ez]|
+|ils|expos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|expos%[m|é]|
+|tu|as |expos%[m|é]|
+|il|a|expos%[m|é]|
+|nous|avons|expos%[m|é]|
+|vous|avez|expos%[m|é]|
+|ils|ont|expos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|expos%[m|ais]|
+|tu|expos%[m|ais]|
+|il|expos%[m|ait]|
+|nous|expos%[m|ions]|
+|vous|expos%[m|iez]|
+|ils|expos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|expos%[m|é]|
+|tu|avais|expos%[m|é]|
+|il|avait|expos%[m|é]|
+|nous|avions|expos%[m|é]|
+|vous|aviez|expos%[m|é]|
+|ils|avaient|expos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|expos%[m|ai]|
+|tu|expos%[m|as]|
+|il|expos%[m|a]|
+|nous|expos%[m|âmes]|
+|vous|expos%[m|âtes]|
+|ils|expos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|expos%[m|é]|
+|tu|eus|expos%[m|é]|
+|il|eut|expos%[m|é]|
+|nous|e&ucirc;mes|expos%[m|é]|
+|vous|e&ucirc;tes|expos%[m|é]|
+|ils|eurent|expos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|expos%[m|erai]|
+|tu|expos%[m|eras]|
+|il|expos%[m|era]|
+|nous|expos%[m|erons]|
+|vous|expos%[m|erez]|
+|ils|expos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|expos%[m|é]|
+|tu|auras|expos%[m|é]|
+|il|aura|expos%[m|é]|
+|nous|aurons|expos%[m|é]|
+|vous|aurez|expos%[m|é]|
+|ils|auront|expos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|expos%[m|erais]|
+|tu|expos%[m|erais]|
+|il|expos%[m|erait]|
+|nous|expos%[m|erions]|
+|vous|expos%[m|eriez]|
+|ils|expos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|expos%[m|é]|
+|tu|aurais|expos%[m|é]|
+|il|aurait|expos%[m|é]|
+|nous|aurions|expos%[m|é]|
+|vous|auriez|expos%[m|é]|
+|ils|auraient|expos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|expos%[m|e]|
+|que|tu|expos%[m|es]|
+|qu'|il|expos%[m|e]|
+|que|nous|expos%[m|ions]|
+|que|vous|expos%[m|iez]|
+|qu'|ils|expos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|expos%[m|é]|
+|que|tu|aies|expos%[m|é]|
+|qu'|il|ait|expos%[m|é]|
+|que|nous|ayons|expos%[m|é]|
+|que|vous|ayez|expos%[m|é]|
+|qu'|ils|aient|expos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|expos%[m|asse]|
+|que|tu|expos%[m|asses]|
+|qu'|il|expos%[m|ât]|
+|que|nous|expos%[m|assions]|
+|que|vous|expos%[m|assiez]|
+|qu'|ils|expos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|expos%[m|é]|
+|que|tu|eusses|expos%[m|é]|
+|qu'|il|eût|expos%[m|é]|
+|que|nous|eussions|expos%[m|é]|
+|que|vous|eussiez|expos%[m|é]|
+|qu'|ils|eussent|expos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|expos%[m|e]|
+|expos%[m|ons]|
+|expos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|expos%[m|é]|
+|ayons|expos%[m|é]|
+|ayez|expos%[m|é]|
+|]
+

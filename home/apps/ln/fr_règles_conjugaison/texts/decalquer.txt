@@ -1,0 +1,190 @@
+# décalquer %[clVerbGroup|1]
+[-
+transposer un dessin à l'aide d'un calque. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décalqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décalqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décalqu%[m|é]|
+|ayant|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décalqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décalqu%[m|e]|
+|tu|décalqu%[m|es]|
+|il|décalqu%[m|e]|
+|nous|décalqu%[m|ons]|
+|vous|décalqu%[m|ez]|
+|ils|décalqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décalqu%[m|é]|
+|tu|as |décalqu%[m|é]|
+|il|a|décalqu%[m|é]|
+|nous|avons|décalqu%[m|é]|
+|vous|avez|décalqu%[m|é]|
+|ils|ont|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décalqu%[m|ais]|
+|tu|décalqu%[m|ais]|
+|il|décalqu%[m|ait]|
+|nous|décalqu%[m|ions]|
+|vous|décalqu%[m|iez]|
+|ils|décalqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décalqu%[m|é]|
+|tu|avais|décalqu%[m|é]|
+|il|avait|décalqu%[m|é]|
+|nous|avions|décalqu%[m|é]|
+|vous|aviez|décalqu%[m|é]|
+|ils|avaient|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décalqu%[m|ai]|
+|tu|décalqu%[m|as]|
+|il|décalqu%[m|a]|
+|nous|décalqu%[m|âmes]|
+|vous|décalqu%[m|âtes]|
+|ils|décalqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décalqu%[m|é]|
+|tu|eus|décalqu%[m|é]|
+|il|eut|décalqu%[m|é]|
+|nous|e&ucirc;mes|décalqu%[m|é]|
+|vous|e&ucirc;tes|décalqu%[m|é]|
+|ils|eurent|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décalqu%[m|erai]|
+|tu|décalqu%[m|eras]|
+|il|décalqu%[m|era]|
+|nous|décalqu%[m|erons]|
+|vous|décalqu%[m|erez]|
+|ils|décalqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décalqu%[m|é]|
+|tu|auras|décalqu%[m|é]|
+|il|aura|décalqu%[m|é]|
+|nous|aurons|décalqu%[m|é]|
+|vous|aurez|décalqu%[m|é]|
+|ils|auront|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décalqu%[m|erais]|
+|tu|décalqu%[m|erais]|
+|il|décalqu%[m|erait]|
+|nous|décalqu%[m|erions]|
+|vous|décalqu%[m|eriez]|
+|ils|décalqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décalqu%[m|é]|
+|tu|aurais|décalqu%[m|é]|
+|il|aurait|décalqu%[m|é]|
+|nous|aurions|décalqu%[m|é]|
+|vous|auriez|décalqu%[m|é]|
+|ils|auraient|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décalqu%[m|e]|
+|que|tu|décalqu%[m|es]|
+|qu'|il|décalqu%[m|e]|
+|que|nous|décalqu%[m|ions]|
+|que|vous|décalqu%[m|iez]|
+|qu'|ils|décalqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décalqu%[m|é]|
+|que|tu|aies|décalqu%[m|é]|
+|qu'|il|ait|décalqu%[m|é]|
+|que|nous|ayons|décalqu%[m|é]|
+|que|vous|ayez|décalqu%[m|é]|
+|qu'|ils|aient|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décalqu%[m|asse]|
+|que|tu|décalqu%[m|asses]|
+|qu'|il|décalqu%[m|ât]|
+|que|nous|décalqu%[m|assions]|
+|que|vous|décalqu%[m|assiez]|
+|qu'|ils|décalqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décalqu%[m|é]|
+|que|tu|eusses|décalqu%[m|é]|
+|qu'|il|eût|décalqu%[m|é]|
+|que|nous|eussions|décalqu%[m|é]|
+|que|vous|eussiez|décalqu%[m|é]|
+|qu'|ils|eussent|décalqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décalqu%[m|e]|
+|décalqu%[m|ons]|
+|décalqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décalqu%[m|é]|
+|ayons|décalqu%[m|é]|
+|ayez|décalqu%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# commérer %[clVerbGroup|1]
+[-
+faire des commérages. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|comm%[m|é]r%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|commér%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|comm%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||commér%[m|é]|
+|ayant|commér%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en comm%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|commér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|comm%[m|è]r%[m|e]|
+|tu|comm%[m|è]r%[m|es]|
+|il|comm%[m|è]r%[m|e]|
+|nous|comm%[m|é]r%[m|ons]|
+|vous|comm%[m|é]r%[m|ez]|
+|ils|comm%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|commér%[m|é]|
+|tu|as |commér%[m|é]|
+|il|a|commér%[m|é]|
+|nous|avons|commér%[m|é]|
+|vous|avez|commér%[m|é]|
+|ils|ont|commér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|comm%[m|é]r%[m|ais]|
+|tu|comm%[m|é]r%[m|ais]|
+|il|comm%[m|é]r%[m|ait]|
+|nous|comm%[m|é]r%[m|ions]|
+|vous|comm%[m|é]r%[m|iez]|
+|ils|comm%[m|é]r%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|commér%[m|é]|
+|tu|avais|commér%[m|é]|
+|il|avait|commér%[m|é]|
+|nous|avions|commér%[m|é]|
+|vous|aviez|commér%[m|é]|
+|ils|avaient|commér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|comm%[m|é]r%[m|ai]|
+|tu|comm%[m|é]r%[m|as]|
+|il|comm%[m|é]r%[m|a]|
+|nous|comm%[m|é]r%[m|âmes]|
+|vous|comm%[m|é]r%[m|âtes]|
+|ils|comm%[m|é]r%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|commér%[m|é]|
+|tu|eus|commér%[m|é]|
+|il|eut|commér%[m|é]|
+|nous|e&ucirc;mes|commér%[m|é]|
+|vous|e&ucirc;tes|commér%[m|é]|
+|ils|eurent|commér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|comm%[m|é]r%[m|erai]|
+|tu|comm%[m|é]r%[m|eras]|
+|il|comm%[m|é]r%[m|era]|
+|nous|comm%[m|é]r%[m|erons]|
+|vous|comm%[m|é]r%[m|erez]|
+|ils|comm%[m|é]r%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|commér%[m|é]|
+|tu|auras|commér%[m|é]|
+|il|aura|commér%[m|é]|
+|nous|aurons|commér%[m|é]|
+|vous|aurez|commér%[m|é]|
+|ils|auront|commér%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|comm%[m|é]r%[m|erais]|
+|tu|comm%[m|é]r%[m|erais]|
+|il|comm%[m|é]r%[m|erait]|
+|nous|comm%[m|é]r%[m|erions]|
+|vous|comm%[m|é]r%[m|eriez]|
+|ils|comm%[m|é]r%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|commér%[m|é]|
+|tu|aurais|commér%[m|é]|
+|il|aurait|commér%[m|é]|
+|nous|aurions|commér%[m|é]|
+|vous|auriez|commér%[m|é]|
+|ils|auraient|commér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|comm%[m|è]r%[m|e]|
+|que|tu|comm%[m|è]r%[m|es]|
+|qu'|il|comm%[m|è]r%[m|e]|
+|que|nous|comm%[m|é]r%[m|ions]|
+|que|vous|comm%[m|é]r%[m|iez]|
+|qu'|ils|comm%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|commér%[m|é]|
+|que|tu|aies|commér%[m|é]|
+|qu'|il|ait|commér%[m|é]|
+|que|nous|ayons|commér%[m|é]|
+|que|vous|ayez|commér%[m|é]|
+|qu'|ils|aient|commér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|comm%[m|é]r%[m|asse]|
+|que|tu|comm%[m|é]r%[m|asses]|
+|qu'|il|comm%[m|é]r%[m|ât]|
+|que|nous|comm%[m|é]r%[m|assions]|
+|que|vous|comm%[m|é]r%[m|assiez]|
+|qu'|ils|comm%[m|é]r%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|commér%[m|é]|
+|que|tu|eusses|commér%[m|é]|
+|qu'|il|eût|commér%[m|é]|
+|que|nous|eussions|commér%[m|é]|
+|que|vous|eussiez|commér%[m|é]|
+|qu'|ils|eussent|commér%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|comm%[m|è]r%[m|e]|
+|comm%[m|é]r%[m|ons]|
+|comm%[m|é]r%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|commér%[m|é]|
+|ayons|commér%[m|é]|
+|ayez|commér%[m|é]|
+|]
+

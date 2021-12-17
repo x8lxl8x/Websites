@@ -1,0 +1,190 @@
+# nover %[clVerbGroup|1]
+[-
+renouveler par novation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|nov%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|nov%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|nov%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||nov%[m|é]|
+|ayant|nov%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en nov%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|nov%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|nov%[m|e]|
+|tu|nov%[m|es]|
+|il|nov%[m|e]|
+|nous|nov%[m|ons]|
+|vous|nov%[m|ez]|
+|ils|nov%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|nov%[m|é]|
+|tu|as |nov%[m|é]|
+|il|a|nov%[m|é]|
+|nous|avons|nov%[m|é]|
+|vous|avez|nov%[m|é]|
+|ils|ont|nov%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|nov%[m|ais]|
+|tu|nov%[m|ais]|
+|il|nov%[m|ait]|
+|nous|nov%[m|ions]|
+|vous|nov%[m|iez]|
+|ils|nov%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|nov%[m|é]|
+|tu|avais|nov%[m|é]|
+|il|avait|nov%[m|é]|
+|nous|avions|nov%[m|é]|
+|vous|aviez|nov%[m|é]|
+|ils|avaient|nov%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|nov%[m|ai]|
+|tu|nov%[m|as]|
+|il|nov%[m|a]|
+|nous|nov%[m|âmes]|
+|vous|nov%[m|âtes]|
+|ils|nov%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|nov%[m|é]|
+|tu|eus|nov%[m|é]|
+|il|eut|nov%[m|é]|
+|nous|e&ucirc;mes|nov%[m|é]|
+|vous|e&ucirc;tes|nov%[m|é]|
+|ils|eurent|nov%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|nov%[m|erai]|
+|tu|nov%[m|eras]|
+|il|nov%[m|era]|
+|nous|nov%[m|erons]|
+|vous|nov%[m|erez]|
+|ils|nov%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|nov%[m|é]|
+|tu|auras|nov%[m|é]|
+|il|aura|nov%[m|é]|
+|nous|aurons|nov%[m|é]|
+|vous|aurez|nov%[m|é]|
+|ils|auront|nov%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|nov%[m|erais]|
+|tu|nov%[m|erais]|
+|il|nov%[m|erait]|
+|nous|nov%[m|erions]|
+|vous|nov%[m|eriez]|
+|ils|nov%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|nov%[m|é]|
+|tu|aurais|nov%[m|é]|
+|il|aurait|nov%[m|é]|
+|nous|aurions|nov%[m|é]|
+|vous|auriez|nov%[m|é]|
+|ils|auraient|nov%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|nov%[m|e]|
+|que|tu|nov%[m|es]|
+|qu'|il|nov%[m|e]|
+|que|nous|nov%[m|ions]|
+|que|vous|nov%[m|iez]|
+|qu'|ils|nov%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|nov%[m|é]|
+|que|tu|aies|nov%[m|é]|
+|qu'|il|ait|nov%[m|é]|
+|que|nous|ayons|nov%[m|é]|
+|que|vous|ayez|nov%[m|é]|
+|qu'|ils|aient|nov%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|nov%[m|asse]|
+|que|tu|nov%[m|asses]|
+|qu'|il|nov%[m|ât]|
+|que|nous|nov%[m|assions]|
+|que|vous|nov%[m|assiez]|
+|qu'|ils|nov%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|nov%[m|é]|
+|que|tu|eusses|nov%[m|é]|
+|qu'|il|eût|nov%[m|é]|
+|que|nous|eussions|nov%[m|é]|
+|que|vous|eussiez|nov%[m|é]|
+|qu'|ils|eussent|nov%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nov%[m|e]|
+|nov%[m|ons]|
+|nov%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|nov%[m|é]|
+|ayons|nov%[m|é]|
+|ayez|nov%[m|é]|
+|]
+

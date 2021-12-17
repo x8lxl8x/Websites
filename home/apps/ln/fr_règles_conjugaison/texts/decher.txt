@@ -1,0 +1,190 @@
+# décher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|d%[m|é]ch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|d%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déch%[m|é]|
+|ayant|déch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en d%[m|é]ch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|d%[m|è]ch%[m|e]|
+|tu|d%[m|è]ch%[m|es]|
+|il|d%[m|è]ch%[m|e]|
+|nous|d%[m|é]ch%[m|ons]|
+|vous|d%[m|é]ch%[m|ez]|
+|ils|d%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déch%[m|é]|
+|tu|as |déch%[m|é]|
+|il|a|déch%[m|é]|
+|nous|avons|déch%[m|é]|
+|vous|avez|déch%[m|é]|
+|ils|ont|déch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|d%[m|é]ch%[m|ais]|
+|tu|d%[m|é]ch%[m|ais]|
+|il|d%[m|é]ch%[m|ait]|
+|nous|d%[m|é]ch%[m|ions]|
+|vous|d%[m|é]ch%[m|iez]|
+|ils|d%[m|é]ch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déch%[m|é]|
+|tu|avais|déch%[m|é]|
+|il|avait|déch%[m|é]|
+|nous|avions|déch%[m|é]|
+|vous|aviez|déch%[m|é]|
+|ils|avaient|déch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|d%[m|é]ch%[m|ai]|
+|tu|d%[m|é]ch%[m|as]|
+|il|d%[m|é]ch%[m|a]|
+|nous|d%[m|é]ch%[m|âmes]|
+|vous|d%[m|é]ch%[m|âtes]|
+|ils|d%[m|é]ch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déch%[m|é]|
+|tu|eus|déch%[m|é]|
+|il|eut|déch%[m|é]|
+|nous|e&ucirc;mes|déch%[m|é]|
+|vous|e&ucirc;tes|déch%[m|é]|
+|ils|eurent|déch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|d%[m|é]ch%[m|erai]|
+|tu|d%[m|é]ch%[m|eras]|
+|il|d%[m|é]ch%[m|era]|
+|nous|d%[m|é]ch%[m|erons]|
+|vous|d%[m|é]ch%[m|erez]|
+|ils|d%[m|é]ch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déch%[m|é]|
+|tu|auras|déch%[m|é]|
+|il|aura|déch%[m|é]|
+|nous|aurons|déch%[m|é]|
+|vous|aurez|déch%[m|é]|
+|ils|auront|déch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|d%[m|é]ch%[m|erais]|
+|tu|d%[m|é]ch%[m|erais]|
+|il|d%[m|é]ch%[m|erait]|
+|nous|d%[m|é]ch%[m|erions]|
+|vous|d%[m|é]ch%[m|eriez]|
+|ils|d%[m|é]ch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déch%[m|é]|
+|tu|aurais|déch%[m|é]|
+|il|aurait|déch%[m|é]|
+|nous|aurions|déch%[m|é]|
+|vous|auriez|déch%[m|é]|
+|ils|auraient|déch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|d%[m|è]ch%[m|e]|
+|que|tu|d%[m|è]ch%[m|es]|
+|qu'|il|d%[m|è]ch%[m|e]|
+|que|nous|d%[m|é]ch%[m|ions]|
+|que|vous|d%[m|é]ch%[m|iez]|
+|qu'|ils|d%[m|è]ch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déch%[m|é]|
+|que|tu|aies|déch%[m|é]|
+|qu'|il|ait|déch%[m|é]|
+|que|nous|ayons|déch%[m|é]|
+|que|vous|ayez|déch%[m|é]|
+|qu'|ils|aient|déch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|d%[m|é]ch%[m|asse]|
+|que|tu|d%[m|é]ch%[m|asses]|
+|qu'|il|d%[m|é]ch%[m|ât]|
+|que|nous|d%[m|é]ch%[m|assions]|
+|que|vous|d%[m|é]ch%[m|assiez]|
+|qu'|ils|d%[m|é]ch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déch%[m|é]|
+|que|tu|eusses|déch%[m|é]|
+|qu'|il|eût|déch%[m|é]|
+|que|nous|eussions|déch%[m|é]|
+|que|vous|eussiez|déch%[m|é]|
+|qu'|ils|eussent|déch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|d%[m|è]ch%[m|e]|
+|d%[m|é]ch%[m|ons]|
+|d%[m|é]ch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déch%[m|é]|
+|ayons|déch%[m|é]|
+|ayez|déch%[m|é]|
+|]
+

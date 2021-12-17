@@ -1,0 +1,193 @@
+# abréger %[clVerbGroup|1]
+[-
+retirer d'un texte ce qui n'est pas conforme à la morale. 
+diminuer la durée de quelque chose. 
+diminuer le contenu d'un discours, d'un écrit. 
+supprimer une partie des lettres d'un mot. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|abr%[m|é]g%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|abrég%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|abr%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||abrég%[m|é]|
+|ayant|abrég%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en abr%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|abrég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|abr%[m|è]g%[m|e]|
+|tu|abr%[m|è]g%[m|es]|
+|il|abr%[m|è]g%[m|e]|
+|nous|abr%[m|é]g%[m|eons]|
+|vous|abr%[m|é]g%[m|ez]|
+|ils|abr%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|abrég%[m|é]|
+|tu|as |abrég%[m|é]|
+|il|a|abrég%[m|é]|
+|nous|avons|abrég%[m|é]|
+|vous|avez|abrég%[m|é]|
+|ils|ont|abrég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|abr%[m|é]g%[m|eais]|
+|tu|abr%[m|é]g%[m|eais]|
+|il|abr%[m|é]g%[m|eait]|
+|nous|abr%[m|é]g%[m|ions]|
+|vous|abr%[m|é]g%[m|iez]|
+|ils|abr%[m|é]g%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|abrég%[m|é]|
+|tu|avais|abrég%[m|é]|
+|il|avait|abrég%[m|é]|
+|nous|avions|abrég%[m|é]|
+|vous|aviez|abrég%[m|é]|
+|ils|avaient|abrég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|abr%[m|é]g%[m|eai]|
+|tu|abr%[m|é]g%[m|eas]|
+|il|abr%[m|é]g%[m|ea]|
+|nous|abr%[m|é]g%[m|eâmes]|
+|vous|abr%[m|é]g%[m|eâtes]|
+|ils|abr%[m|é]g%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|abrég%[m|é]|
+|tu|eus|abrég%[m|é]|
+|il|eut|abrég%[m|é]|
+|nous|e&ucirc;mes|abrég%[m|é]|
+|vous|e&ucirc;tes|abrég%[m|é]|
+|ils|eurent|abrég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|abr%[m|é]g%[m|erai]|
+|tu|abr%[m|é]g%[m|eras]|
+|il|abr%[m|é]g%[m|era]|
+|nous|abr%[m|é]g%[m|erons]|
+|vous|abr%[m|é]g%[m|erez]|
+|ils|abr%[m|é]g%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|abrég%[m|é]|
+|tu|auras|abrég%[m|é]|
+|il|aura|abrég%[m|é]|
+|nous|aurons|abrég%[m|é]|
+|vous|aurez|abrég%[m|é]|
+|ils|auront|abrég%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|abr%[m|é]g%[m|erais]|
+|tu|abr%[m|é]g%[m|erais]|
+|il|abr%[m|é]g%[m|erait]|
+|nous|abr%[m|é]g%[m|erions]|
+|vous|abr%[m|é]g%[m|eriez]|
+|ils|abr%[m|é]g%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|abrég%[m|é]|
+|tu|aurais|abrég%[m|é]|
+|il|aurait|abrég%[m|é]|
+|nous|aurions|abrég%[m|é]|
+|vous|auriez|abrég%[m|é]|
+|ils|auraient|abrég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|abr%[m|è]g%[m|e]|
+|que|tu|abr%[m|è]g%[m|es]|
+|qu'|il|abr%[m|è]g%[m|e]|
+|que|nous|abr%[m|é]g%[m|ions]|
+|que|vous|abr%[m|é]g%[m|iez]|
+|qu'|ils|abr%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|abrég%[m|é]|
+|que|tu|aies|abrég%[m|é]|
+|qu'|il|ait|abrég%[m|é]|
+|que|nous|ayons|abrég%[m|é]|
+|que|vous|ayez|abrég%[m|é]|
+|qu'|ils|aient|abrég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|abr%[m|é]g%[m|easse]|
+|que|tu|abr%[m|é]g%[m|easses]|
+|qu'|il|abr%[m|é]g%[m|eât]|
+|que|nous|abr%[m|é]g%[m|eassions]|
+|que|vous|abr%[m|é]g%[m|eassiez]|
+|qu'|ils|abr%[m|é]g%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|abrég%[m|é]|
+|que|tu|eusses|abrég%[m|é]|
+|qu'|il|eût|abrég%[m|é]|
+|que|nous|eussions|abrég%[m|é]|
+|que|vous|eussiez|abrég%[m|é]|
+|qu'|ils|eussent|abrég%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|abr%[m|è]g%[m|e]|
+|abr%[m|é]g%[m|eons]|
+|abr%[m|é]g%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|abrég%[m|é]|
+|ayons|abrég%[m|é]|
+|ayez|abrég%[m|é]|
+|]
+

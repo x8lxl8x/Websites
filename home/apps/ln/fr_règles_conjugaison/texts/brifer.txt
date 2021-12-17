@@ -1,0 +1,190 @@
+# brifer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|brif%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|brif%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|brif%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||brif%[m|é]|
+|ayant|brif%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en brif%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|brif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|brif%[m|e]|
+|tu|brif%[m|es]|
+|il|brif%[m|e]|
+|nous|brif%[m|ons]|
+|vous|brif%[m|ez]|
+|ils|brif%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|brif%[m|é]|
+|tu|as |brif%[m|é]|
+|il|a|brif%[m|é]|
+|nous|avons|brif%[m|é]|
+|vous|avez|brif%[m|é]|
+|ils|ont|brif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|brif%[m|ais]|
+|tu|brif%[m|ais]|
+|il|brif%[m|ait]|
+|nous|brif%[m|ions]|
+|vous|brif%[m|iez]|
+|ils|brif%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|brif%[m|é]|
+|tu|avais|brif%[m|é]|
+|il|avait|brif%[m|é]|
+|nous|avions|brif%[m|é]|
+|vous|aviez|brif%[m|é]|
+|ils|avaient|brif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|brif%[m|ai]|
+|tu|brif%[m|as]|
+|il|brif%[m|a]|
+|nous|brif%[m|âmes]|
+|vous|brif%[m|âtes]|
+|ils|brif%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|brif%[m|é]|
+|tu|eus|brif%[m|é]|
+|il|eut|brif%[m|é]|
+|nous|e&ucirc;mes|brif%[m|é]|
+|vous|e&ucirc;tes|brif%[m|é]|
+|ils|eurent|brif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|brif%[m|erai]|
+|tu|brif%[m|eras]|
+|il|brif%[m|era]|
+|nous|brif%[m|erons]|
+|vous|brif%[m|erez]|
+|ils|brif%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|brif%[m|é]|
+|tu|auras|brif%[m|é]|
+|il|aura|brif%[m|é]|
+|nous|aurons|brif%[m|é]|
+|vous|aurez|brif%[m|é]|
+|ils|auront|brif%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|brif%[m|erais]|
+|tu|brif%[m|erais]|
+|il|brif%[m|erait]|
+|nous|brif%[m|erions]|
+|vous|brif%[m|eriez]|
+|ils|brif%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|brif%[m|é]|
+|tu|aurais|brif%[m|é]|
+|il|aurait|brif%[m|é]|
+|nous|aurions|brif%[m|é]|
+|vous|auriez|brif%[m|é]|
+|ils|auraient|brif%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|brif%[m|e]|
+|que|tu|brif%[m|es]|
+|qu'|il|brif%[m|e]|
+|que|nous|brif%[m|ions]|
+|que|vous|brif%[m|iez]|
+|qu'|ils|brif%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|brif%[m|é]|
+|que|tu|aies|brif%[m|é]|
+|qu'|il|ait|brif%[m|é]|
+|que|nous|ayons|brif%[m|é]|
+|que|vous|ayez|brif%[m|é]|
+|qu'|ils|aient|brif%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|brif%[m|asse]|
+|que|tu|brif%[m|asses]|
+|qu'|il|brif%[m|ât]|
+|que|nous|brif%[m|assions]|
+|que|vous|brif%[m|assiez]|
+|qu'|ils|brif%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|brif%[m|é]|
+|que|tu|eusses|brif%[m|é]|
+|qu'|il|eût|brif%[m|é]|
+|que|nous|eussions|brif%[m|é]|
+|que|vous|eussiez|brif%[m|é]|
+|qu'|ils|eussent|brif%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|brif%[m|e]|
+|brif%[m|ons]|
+|brif%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|brif%[m|é]|
+|ayons|brif%[m|é]|
+|ayez|brif%[m|é]|
+|]
+

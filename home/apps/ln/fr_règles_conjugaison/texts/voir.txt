@@ -1,0 +1,194 @@
+# voir %[clVerbGroup|3]
+[-
+se représenter mentalement. 
+assister à. 
+rendre visite; recevoir, visiter, fréquenter, consulter. 
+examiner, étudier. 
+percevoir grâce au sens de la vue. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|v%[m|oir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|v%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|v%[m|oyant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||v%[m|u]|
+|ayant|v%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en v%[m|oyant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|v%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|v%[m|ois]|
+|tu|v%[m|ois]|
+|il|v%[m|oit]|
+|nous|v%[m|oyons]|
+|vous|v%[m|oyez]|
+|ils|v%[m|oient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|v%[m|u]|
+|tu|as |v%[m|u]|
+|il|a|v%[m|u]|
+|nous|avons|v%[m|u]|
+|vous|avez|v%[m|u]|
+|ils|ont|v%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|v%[m|oyais]|
+|tu|v%[m|oyais]|
+|il|v%[m|oyait]|
+|nous|v%[m|oyions]|
+|vous|v%[m|oyiez]|
+|ils|v%[m|oyaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|v%[m|u]|
+|tu|avais|v%[m|u]|
+|il|avait|v%[m|u]|
+|nous|avions|v%[m|u]|
+|vous|aviez|v%[m|u]|
+|ils|avaient|v%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|v%[m|is]|
+|tu|v%[m|is]|
+|il|v%[m|it]|
+|nous|v%[m|îmes]|
+|vous|v%[m|îtes]|
+|ils|v%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|v%[m|u]|
+|tu|eus|v%[m|u]|
+|il|eut|v%[m|u]|
+|nous|e&ucirc;mes|v%[m|u]|
+|vous|e&ucirc;tes|v%[m|u]|
+|ils|eurent|v%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|v%[m|errai]|
+|tu|v%[m|erras]|
+|il|v%[m|erra]|
+|nous|v%[m|errons]|
+|vous|v%[m|errez]|
+|ils|v%[m|erront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|v%[m|u]|
+|tu|auras|v%[m|u]|
+|il|aura|v%[m|u]|
+|nous|aurons|v%[m|u]|
+|vous|aurez|v%[m|u]|
+|ils|auront|v%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|v%[m|errais]|
+|tu|v%[m|errais]|
+|il|v%[m|errait]|
+|nous|v%[m|errions]|
+|vous|v%[m|erriez]|
+|ils|v%[m|erraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|v%[m|u]|
+|tu|aurais|v%[m|u]|
+|il|aurait|v%[m|u]|
+|nous|aurions|v%[m|u]|
+|vous|auriez|v%[m|u]|
+|ils|auraient|v%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|v%[m|oie]|
+|que|tu|v%[m|oies]|
+|qu'|il|v%[m|oie]|
+|que|nous|v%[m|oyions]|
+|que|vous|v%[m|oyiez]|
+|qu'|ils|v%[m|oient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|v%[m|u]|
+|que|tu|aies|v%[m|u]|
+|qu'|il|ait|v%[m|u]|
+|que|nous|ayons|v%[m|u]|
+|que|vous|ayez|v%[m|u]|
+|qu'|ils|aient|v%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|v%[m|isse]|
+|que|tu|v%[m|isses]|
+|qu'|il|v%[m|ît]|
+|que|nous|v%[m|issions]|
+|que|vous|v%[m|issiez]|
+|qu'|ils|v%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|v%[m|u]|
+|que|tu|eusses|v%[m|u]|
+|qu'|il|eût|v%[m|u]|
+|que|nous|eussions|v%[m|u]|
+|que|vous|eussiez|v%[m|u]|
+|qu'|ils|eussent|v%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|v%[m|ois]|
+|v%[m|oyons]|
+|v%[m|oyez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|v%[m|u]|
+|ayons|v%[m|u]|
+|ayez|v%[m|u]|
+|]
+

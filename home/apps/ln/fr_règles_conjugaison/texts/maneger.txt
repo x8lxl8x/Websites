@@ -1,0 +1,190 @@
+# manéger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|man%[m|é]g%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|manég%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|man%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||manég%[m|é]|
+|ayant|manég%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en man%[m|é]g%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|manég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|man%[m|è]g%[m|e]|
+|tu|man%[m|è]g%[m|es]|
+|il|man%[m|è]g%[m|e]|
+|nous|man%[m|é]g%[m|eons]|
+|vous|man%[m|é]g%[m|ez]|
+|ils|man%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|manég%[m|é]|
+|tu|as |manég%[m|é]|
+|il|a|manég%[m|é]|
+|nous|avons|manég%[m|é]|
+|vous|avez|manég%[m|é]|
+|ils|ont|manég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|man%[m|é]g%[m|eais]|
+|tu|man%[m|é]g%[m|eais]|
+|il|man%[m|é]g%[m|eait]|
+|nous|man%[m|é]g%[m|ions]|
+|vous|man%[m|é]g%[m|iez]|
+|ils|man%[m|é]g%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|manég%[m|é]|
+|tu|avais|manég%[m|é]|
+|il|avait|manég%[m|é]|
+|nous|avions|manég%[m|é]|
+|vous|aviez|manég%[m|é]|
+|ils|avaient|manég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|man%[m|é]g%[m|eai]|
+|tu|man%[m|é]g%[m|eas]|
+|il|man%[m|é]g%[m|ea]|
+|nous|man%[m|é]g%[m|eâmes]|
+|vous|man%[m|é]g%[m|eâtes]|
+|ils|man%[m|é]g%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|manég%[m|é]|
+|tu|eus|manég%[m|é]|
+|il|eut|manég%[m|é]|
+|nous|e&ucirc;mes|manég%[m|é]|
+|vous|e&ucirc;tes|manég%[m|é]|
+|ils|eurent|manég%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|man%[m|é]g%[m|erai]|
+|tu|man%[m|é]g%[m|eras]|
+|il|man%[m|é]g%[m|era]|
+|nous|man%[m|é]g%[m|erons]|
+|vous|man%[m|é]g%[m|erez]|
+|ils|man%[m|é]g%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|manég%[m|é]|
+|tu|auras|manég%[m|é]|
+|il|aura|manég%[m|é]|
+|nous|aurons|manég%[m|é]|
+|vous|aurez|manég%[m|é]|
+|ils|auront|manég%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|man%[m|é]g%[m|erais]|
+|tu|man%[m|é]g%[m|erais]|
+|il|man%[m|é]g%[m|erait]|
+|nous|man%[m|é]g%[m|erions]|
+|vous|man%[m|é]g%[m|eriez]|
+|ils|man%[m|é]g%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|manég%[m|é]|
+|tu|aurais|manég%[m|é]|
+|il|aurait|manég%[m|é]|
+|nous|aurions|manég%[m|é]|
+|vous|auriez|manég%[m|é]|
+|ils|auraient|manég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|man%[m|è]g%[m|e]|
+|que|tu|man%[m|è]g%[m|es]|
+|qu'|il|man%[m|è]g%[m|e]|
+|que|nous|man%[m|é]g%[m|ions]|
+|que|vous|man%[m|é]g%[m|iez]|
+|qu'|ils|man%[m|è]g%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|manég%[m|é]|
+|que|tu|aies|manég%[m|é]|
+|qu'|il|ait|manég%[m|é]|
+|que|nous|ayons|manég%[m|é]|
+|que|vous|ayez|manég%[m|é]|
+|qu'|ils|aient|manég%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|man%[m|é]g%[m|easse]|
+|que|tu|man%[m|é]g%[m|easses]|
+|qu'|il|man%[m|é]g%[m|eât]|
+|que|nous|man%[m|é]g%[m|eassions]|
+|que|vous|man%[m|é]g%[m|eassiez]|
+|qu'|ils|man%[m|é]g%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|manég%[m|é]|
+|que|tu|eusses|manég%[m|é]|
+|qu'|il|eût|manég%[m|é]|
+|que|nous|eussions|manég%[m|é]|
+|que|vous|eussiez|manég%[m|é]|
+|qu'|ils|eussent|manég%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|man%[m|è]g%[m|e]|
+|man%[m|é]g%[m|eons]|
+|man%[m|é]g%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|manég%[m|é]|
+|ayons|manég%[m|é]|
+|ayez|manég%[m|é]|
+|]
+

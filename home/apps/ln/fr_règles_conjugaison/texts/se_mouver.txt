@@ -1,0 +1,190 @@
+# se mouver %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se mouv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|mouv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se mouv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|mouv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se mouv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|mouv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|mouv%[m|e]|
+|tu|te|mouv%[m|es]|
+|il|se|mouv%[m|e]|
+|nous|nous|mouv%[m|ons]|
+|vous|vous|mouv%[m|ez]|
+|ils|se|mouv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|mouv%[m|é]|
+|tu|t'|es|mouv%[m|é]|
+|il|s'|est|mouv%[m|é]|
+|nous|nous|sommes|mouv%[m|és]|
+|vous|vous|êtes|mouv%[m|és]|
+|ils|se|sont|mouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|mouv%[m|ais]|
+|tu|te|mouv%[m|ais]|
+|il|se|mouv%[m|ait]|
+|nous|nous|mouv%[m|ions]|
+|vous|vous|mouv%[m|iez]|
+|ils|se|mouv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|mouv%[m|é]|
+|tu|t'|étais|mouv%[m|é]|
+|il|s'|était|mouv%[m|é]|
+|nous|nous|étions|mouv%[m|és]|
+|vous|vous|étiez|mouv%[m|és]|
+|ils|s'|étaient|mouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|mouv%[m|ai]|
+|tu|te|mouv%[m|as]|
+|il|se|mouv%[m|a]|
+|nous|nous|mouv%[m|âmes]|
+|vous|vous|mouv%[m|âtes]|
+|ils|se|mouv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|mouv%[m|é]|
+|tu|te|fus|mouv%[m|é]|
+|il|se|fut|mouv%[m|é]|
+|nous|nous|fûmes|mouv%[m|és]|
+|vous|vous|fûtes|mouv%[m|és]|
+|ils|se|furent|mouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|mouv%[m|erai]|
+|tu|te|mouv%[m|eras]|
+|il|se|mouv%[m|era]|
+|nous|nous|mouv%[m|erons]|
+|vous|vous|mouv%[m|erez]|
+|ils|se|mouv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|mouv%[m|é]|
+|tu|te|seras|mouv%[m|é]|
+|il|se|sera|mouv%[m|é]|
+|nous|nous|serons|mouv%[m|és]|
+|vous|vous|serez|mouv%[m|és]|
+|ils|se|seront|mouv%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|mouv%[m|erais]|
+|tu|te|mouv%[m|erais]|
+|il|se|mouv%[m|erait]|
+|nous|nous|mouv%[m|erions]|
+|vous|vous|mouv%[m|eriez]|
+|ils|se|mouv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|mouv%[m|é]|
+|tu|te|serais|mouv%[m|é]|
+|il|se|serait|mouv%[m|é]|
+|nous|nous|serions|mouv%[m|és]|
+|vous|vous|seriez|mouv%[m|és]|
+|ils|se|seraient|mouv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|mouv%[m|e]|
+|que|tu|te|mouv%[m|es]|
+|qu'|il|se|mouv%[m|e]|
+|que|nous|nous|mouv%[m|ions]|
+|que|vous|vous|mouv%[m|iez]|
+|qu'|ils|se|mouv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|mouv%[m|é]|
+|que|tu|te|sois|mouv%[m|é]|
+|qu'|il|se|soit|mouv%[m|é]|
+|que|nous|nous|soyons|mouv%[m|és]|
+|que|vous|vous|soyez|mouv%[m|és]|
+|qu'|ils|se|soient|mouv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|mouv%[m|asse]|
+|que|tu|te|mouv%[m|asses]|
+|qu'|il|se|mouv%[m|ât]|
+|que|nous|nous|mouv%[m|assions]|
+|que|vous|vous|mouv%[m|assiez]|
+|qu'|ils|se|mouv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|mouv%[m|é]|
+|que|tu|te|fusses|mouv%[m|é]|
+|qu'|il|se|fût|mouv%[m|é]|
+|que|nous|nous|fussions|mouv%[m|és]|
+|que|vous|vous|fussiez|mouv%[m|és]|
+|qu'|ils|se|fussent|mouv%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mouv%[m|e]-toi|
+|mouv%[m|ons]-nous|
+|mouv%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

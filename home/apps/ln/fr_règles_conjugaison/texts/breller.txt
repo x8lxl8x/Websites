@@ -1,0 +1,190 @@
+# breller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|brell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|brell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|brell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||brell%[m|é]|
+|ayant|brell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en brell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|brell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|brell%[m|e]|
+|tu|brell%[m|es]|
+|il|brell%[m|e]|
+|nous|brell%[m|ons]|
+|vous|brell%[m|ez]|
+|ils|brell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|brell%[m|é]|
+|tu|as |brell%[m|é]|
+|il|a|brell%[m|é]|
+|nous|avons|brell%[m|é]|
+|vous|avez|brell%[m|é]|
+|ils|ont|brell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|brell%[m|ais]|
+|tu|brell%[m|ais]|
+|il|brell%[m|ait]|
+|nous|brell%[m|ions]|
+|vous|brell%[m|iez]|
+|ils|brell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|brell%[m|é]|
+|tu|avais|brell%[m|é]|
+|il|avait|brell%[m|é]|
+|nous|avions|brell%[m|é]|
+|vous|aviez|brell%[m|é]|
+|ils|avaient|brell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|brell%[m|ai]|
+|tu|brell%[m|as]|
+|il|brell%[m|a]|
+|nous|brell%[m|âmes]|
+|vous|brell%[m|âtes]|
+|ils|brell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|brell%[m|é]|
+|tu|eus|brell%[m|é]|
+|il|eut|brell%[m|é]|
+|nous|e&ucirc;mes|brell%[m|é]|
+|vous|e&ucirc;tes|brell%[m|é]|
+|ils|eurent|brell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|brell%[m|erai]|
+|tu|brell%[m|eras]|
+|il|brell%[m|era]|
+|nous|brell%[m|erons]|
+|vous|brell%[m|erez]|
+|ils|brell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|brell%[m|é]|
+|tu|auras|brell%[m|é]|
+|il|aura|brell%[m|é]|
+|nous|aurons|brell%[m|é]|
+|vous|aurez|brell%[m|é]|
+|ils|auront|brell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|brell%[m|erais]|
+|tu|brell%[m|erais]|
+|il|brell%[m|erait]|
+|nous|brell%[m|erions]|
+|vous|brell%[m|eriez]|
+|ils|brell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|brell%[m|é]|
+|tu|aurais|brell%[m|é]|
+|il|aurait|brell%[m|é]|
+|nous|aurions|brell%[m|é]|
+|vous|auriez|brell%[m|é]|
+|ils|auraient|brell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|brell%[m|e]|
+|que|tu|brell%[m|es]|
+|qu'|il|brell%[m|e]|
+|que|nous|brell%[m|ions]|
+|que|vous|brell%[m|iez]|
+|qu'|ils|brell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|brell%[m|é]|
+|que|tu|aies|brell%[m|é]|
+|qu'|il|ait|brell%[m|é]|
+|que|nous|ayons|brell%[m|é]|
+|que|vous|ayez|brell%[m|é]|
+|qu'|ils|aient|brell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|brell%[m|asse]|
+|que|tu|brell%[m|asses]|
+|qu'|il|brell%[m|ât]|
+|que|nous|brell%[m|assions]|
+|que|vous|brell%[m|assiez]|
+|qu'|ils|brell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|brell%[m|é]|
+|que|tu|eusses|brell%[m|é]|
+|qu'|il|eût|brell%[m|é]|
+|que|nous|eussions|brell%[m|é]|
+|que|vous|eussiez|brell%[m|é]|
+|qu'|ils|eussent|brell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|brell%[m|e]|
+|brell%[m|ons]|
+|brell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|brell%[m|é]|
+|ayons|brell%[m|é]|
+|ayez|brell%[m|é]|
+|]
+

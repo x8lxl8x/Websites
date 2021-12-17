@@ -1,0 +1,190 @@
+# rembiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rembin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rembin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rembin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rembin%[m|é]|
+|ayant|rembin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rembin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rembin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rembin%[m|e]|
+|tu|rembin%[m|es]|
+|il|rembin%[m|e]|
+|nous|rembin%[m|ons]|
+|vous|rembin%[m|ez]|
+|ils|rembin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rembin%[m|é]|
+|tu|as |rembin%[m|é]|
+|il|a|rembin%[m|é]|
+|nous|avons|rembin%[m|é]|
+|vous|avez|rembin%[m|é]|
+|ils|ont|rembin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rembin%[m|ais]|
+|tu|rembin%[m|ais]|
+|il|rembin%[m|ait]|
+|nous|rembin%[m|ions]|
+|vous|rembin%[m|iez]|
+|ils|rembin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rembin%[m|é]|
+|tu|avais|rembin%[m|é]|
+|il|avait|rembin%[m|é]|
+|nous|avions|rembin%[m|é]|
+|vous|aviez|rembin%[m|é]|
+|ils|avaient|rembin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rembin%[m|ai]|
+|tu|rembin%[m|as]|
+|il|rembin%[m|a]|
+|nous|rembin%[m|âmes]|
+|vous|rembin%[m|âtes]|
+|ils|rembin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rembin%[m|é]|
+|tu|eus|rembin%[m|é]|
+|il|eut|rembin%[m|é]|
+|nous|e&ucirc;mes|rembin%[m|é]|
+|vous|e&ucirc;tes|rembin%[m|é]|
+|ils|eurent|rembin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rembin%[m|erai]|
+|tu|rembin%[m|eras]|
+|il|rembin%[m|era]|
+|nous|rembin%[m|erons]|
+|vous|rembin%[m|erez]|
+|ils|rembin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rembin%[m|é]|
+|tu|auras|rembin%[m|é]|
+|il|aura|rembin%[m|é]|
+|nous|aurons|rembin%[m|é]|
+|vous|aurez|rembin%[m|é]|
+|ils|auront|rembin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rembin%[m|erais]|
+|tu|rembin%[m|erais]|
+|il|rembin%[m|erait]|
+|nous|rembin%[m|erions]|
+|vous|rembin%[m|eriez]|
+|ils|rembin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rembin%[m|é]|
+|tu|aurais|rembin%[m|é]|
+|il|aurait|rembin%[m|é]|
+|nous|aurions|rembin%[m|é]|
+|vous|auriez|rembin%[m|é]|
+|ils|auraient|rembin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rembin%[m|e]|
+|que|tu|rembin%[m|es]|
+|qu'|il|rembin%[m|e]|
+|que|nous|rembin%[m|ions]|
+|que|vous|rembin%[m|iez]|
+|qu'|ils|rembin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rembin%[m|é]|
+|que|tu|aies|rembin%[m|é]|
+|qu'|il|ait|rembin%[m|é]|
+|que|nous|ayons|rembin%[m|é]|
+|que|vous|ayez|rembin%[m|é]|
+|qu'|ils|aient|rembin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rembin%[m|asse]|
+|que|tu|rembin%[m|asses]|
+|qu'|il|rembin%[m|ât]|
+|que|nous|rembin%[m|assions]|
+|que|vous|rembin%[m|assiez]|
+|qu'|ils|rembin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rembin%[m|é]|
+|que|tu|eusses|rembin%[m|é]|
+|qu'|il|eût|rembin%[m|é]|
+|que|nous|eussions|rembin%[m|é]|
+|que|vous|eussiez|rembin%[m|é]|
+|qu'|ils|eussent|rembin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rembin%[m|e]|
+|rembin%[m|ons]|
+|rembin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rembin%[m|é]|
+|ayons|rembin%[m|é]|
+|ayez|rembin%[m|é]|
+|]
+

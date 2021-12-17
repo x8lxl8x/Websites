@@ -1,0 +1,195 @@
+# décoller %[clVerbGroup|1]
+[-
+quitter le sol, pour un avion. 
+détacher ce qui est collé. 
+quitter, se détacher d'une surface. 
+se démarquer. 
+sortir de la stagnation. 
+sortir d'une situation de stagnation, prendre son essor. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décoll%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décoll%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décoll%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décoll%[m|é]|
+|ayant|décoll%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décoll%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décoll%[m|e]|
+|tu|décoll%[m|es]|
+|il|décoll%[m|e]|
+|nous|décoll%[m|ons]|
+|vous|décoll%[m|ez]|
+|ils|décoll%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décoll%[m|é]|
+|tu|as |décoll%[m|é]|
+|il|a|décoll%[m|é]|
+|nous|avons|décoll%[m|é]|
+|vous|avez|décoll%[m|é]|
+|ils|ont|décoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décoll%[m|ais]|
+|tu|décoll%[m|ais]|
+|il|décoll%[m|ait]|
+|nous|décoll%[m|ions]|
+|vous|décoll%[m|iez]|
+|ils|décoll%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décoll%[m|é]|
+|tu|avais|décoll%[m|é]|
+|il|avait|décoll%[m|é]|
+|nous|avions|décoll%[m|é]|
+|vous|aviez|décoll%[m|é]|
+|ils|avaient|décoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décoll%[m|ai]|
+|tu|décoll%[m|as]|
+|il|décoll%[m|a]|
+|nous|décoll%[m|âmes]|
+|vous|décoll%[m|âtes]|
+|ils|décoll%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décoll%[m|é]|
+|tu|eus|décoll%[m|é]|
+|il|eut|décoll%[m|é]|
+|nous|e&ucirc;mes|décoll%[m|é]|
+|vous|e&ucirc;tes|décoll%[m|é]|
+|ils|eurent|décoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décoll%[m|erai]|
+|tu|décoll%[m|eras]|
+|il|décoll%[m|era]|
+|nous|décoll%[m|erons]|
+|vous|décoll%[m|erez]|
+|ils|décoll%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décoll%[m|é]|
+|tu|auras|décoll%[m|é]|
+|il|aura|décoll%[m|é]|
+|nous|aurons|décoll%[m|é]|
+|vous|aurez|décoll%[m|é]|
+|ils|auront|décoll%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décoll%[m|erais]|
+|tu|décoll%[m|erais]|
+|il|décoll%[m|erait]|
+|nous|décoll%[m|erions]|
+|vous|décoll%[m|eriez]|
+|ils|décoll%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décoll%[m|é]|
+|tu|aurais|décoll%[m|é]|
+|il|aurait|décoll%[m|é]|
+|nous|aurions|décoll%[m|é]|
+|vous|auriez|décoll%[m|é]|
+|ils|auraient|décoll%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décoll%[m|e]|
+|que|tu|décoll%[m|es]|
+|qu'|il|décoll%[m|e]|
+|que|nous|décoll%[m|ions]|
+|que|vous|décoll%[m|iez]|
+|qu'|ils|décoll%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décoll%[m|é]|
+|que|tu|aies|décoll%[m|é]|
+|qu'|il|ait|décoll%[m|é]|
+|que|nous|ayons|décoll%[m|é]|
+|que|vous|ayez|décoll%[m|é]|
+|qu'|ils|aient|décoll%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décoll%[m|asse]|
+|que|tu|décoll%[m|asses]|
+|qu'|il|décoll%[m|ât]|
+|que|nous|décoll%[m|assions]|
+|que|vous|décoll%[m|assiez]|
+|qu'|ils|décoll%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décoll%[m|é]|
+|que|tu|eusses|décoll%[m|é]|
+|qu'|il|eût|décoll%[m|é]|
+|que|nous|eussions|décoll%[m|é]|
+|que|vous|eussiez|décoll%[m|é]|
+|qu'|ils|eussent|décoll%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décoll%[m|e]|
+|décoll%[m|ons]|
+|décoll%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décoll%[m|é]|
+|ayons|décoll%[m|é]|
+|ayez|décoll%[m|é]|
+|]
+

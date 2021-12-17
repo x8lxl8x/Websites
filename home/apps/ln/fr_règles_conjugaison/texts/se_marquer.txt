@@ -1,0 +1,190 @@
+# se marquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se marqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|marqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se marqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|marqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se marqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|marqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|marqu%[m|e]|
+|tu|te|marqu%[m|es]|
+|il|se|marqu%[m|e]|
+|nous|nous|marqu%[m|ons]|
+|vous|vous|marqu%[m|ez]|
+|ils|se|marqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|marqu%[m|é]|
+|tu|t'|es|marqu%[m|é]|
+|il|s'|est|marqu%[m|é]|
+|nous|nous|sommes|marqu%[m|és]|
+|vous|vous|êtes|marqu%[m|és]|
+|ils|se|sont|marqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|marqu%[m|ais]|
+|tu|te|marqu%[m|ais]|
+|il|se|marqu%[m|ait]|
+|nous|nous|marqu%[m|ions]|
+|vous|vous|marqu%[m|iez]|
+|ils|se|marqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|marqu%[m|é]|
+|tu|t'|étais|marqu%[m|é]|
+|il|s'|était|marqu%[m|é]|
+|nous|nous|étions|marqu%[m|és]|
+|vous|vous|étiez|marqu%[m|és]|
+|ils|s'|étaient|marqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|marqu%[m|ai]|
+|tu|te|marqu%[m|as]|
+|il|se|marqu%[m|a]|
+|nous|nous|marqu%[m|âmes]|
+|vous|vous|marqu%[m|âtes]|
+|ils|se|marqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|marqu%[m|é]|
+|tu|te|fus|marqu%[m|é]|
+|il|se|fut|marqu%[m|é]|
+|nous|nous|fûmes|marqu%[m|és]|
+|vous|vous|fûtes|marqu%[m|és]|
+|ils|se|furent|marqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|marqu%[m|erai]|
+|tu|te|marqu%[m|eras]|
+|il|se|marqu%[m|era]|
+|nous|nous|marqu%[m|erons]|
+|vous|vous|marqu%[m|erez]|
+|ils|se|marqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|marqu%[m|é]|
+|tu|te|seras|marqu%[m|é]|
+|il|se|sera|marqu%[m|é]|
+|nous|nous|serons|marqu%[m|és]|
+|vous|vous|serez|marqu%[m|és]|
+|ils|se|seront|marqu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|marqu%[m|erais]|
+|tu|te|marqu%[m|erais]|
+|il|se|marqu%[m|erait]|
+|nous|nous|marqu%[m|erions]|
+|vous|vous|marqu%[m|eriez]|
+|ils|se|marqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|marqu%[m|é]|
+|tu|te|serais|marqu%[m|é]|
+|il|se|serait|marqu%[m|é]|
+|nous|nous|serions|marqu%[m|és]|
+|vous|vous|seriez|marqu%[m|és]|
+|ils|se|seraient|marqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|marqu%[m|e]|
+|que|tu|te|marqu%[m|es]|
+|qu'|il|se|marqu%[m|e]|
+|que|nous|nous|marqu%[m|ions]|
+|que|vous|vous|marqu%[m|iez]|
+|qu'|ils|se|marqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|marqu%[m|é]|
+|que|tu|te|sois|marqu%[m|é]|
+|qu'|il|se|soit|marqu%[m|é]|
+|que|nous|nous|soyons|marqu%[m|és]|
+|que|vous|vous|soyez|marqu%[m|és]|
+|qu'|ils|se|soient|marqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|marqu%[m|asse]|
+|que|tu|te|marqu%[m|asses]|
+|qu'|il|se|marqu%[m|ât]|
+|que|nous|nous|marqu%[m|assions]|
+|que|vous|vous|marqu%[m|assiez]|
+|qu'|ils|se|marqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|marqu%[m|é]|
+|que|tu|te|fusses|marqu%[m|é]|
+|qu'|il|se|fût|marqu%[m|é]|
+|que|nous|nous|fussions|marqu%[m|és]|
+|que|vous|vous|fussiez|marqu%[m|és]|
+|qu'|ils|se|fussent|marqu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|marqu%[m|e]-toi|
+|marqu%[m|ons]-nous|
+|marqu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

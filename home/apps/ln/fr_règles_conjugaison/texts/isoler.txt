@@ -1,0 +1,192 @@
+# isoler %[clVerbGroup|1]
+[-
+séparer d'un environnement habituel; tenir à l'écart. 
+couper des agents extérieurs (ex. isoler un fil électrique) 
+considérer en particulier, individuellement (ex. isoler un passage d'un texte) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|isol%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|isol%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|isol%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||isol%[m|é]|
+|ayant|isol%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en isol%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|isol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|isol%[m|e]|
+|tu|isol%[m|es]|
+|il|isol%[m|e]|
+|nous|isol%[m|ons]|
+|vous|isol%[m|ez]|
+|ils|isol%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|isol%[m|é]|
+|tu|as |isol%[m|é]|
+|il|a|isol%[m|é]|
+|nous|avons|isol%[m|é]|
+|vous|avez|isol%[m|é]|
+|ils|ont|isol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|isol%[m|ais]|
+|tu|isol%[m|ais]|
+|il|isol%[m|ait]|
+|nous|isol%[m|ions]|
+|vous|isol%[m|iez]|
+|ils|isol%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|isol%[m|é]|
+|tu|avais|isol%[m|é]|
+|il|avait|isol%[m|é]|
+|nous|avions|isol%[m|é]|
+|vous|aviez|isol%[m|é]|
+|ils|avaient|isol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|isol%[m|ai]|
+|tu|isol%[m|as]|
+|il|isol%[m|a]|
+|nous|isol%[m|âmes]|
+|vous|isol%[m|âtes]|
+|ils|isol%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|isol%[m|é]|
+|tu|eus|isol%[m|é]|
+|il|eut|isol%[m|é]|
+|nous|e&ucirc;mes|isol%[m|é]|
+|vous|e&ucirc;tes|isol%[m|é]|
+|ils|eurent|isol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|isol%[m|erai]|
+|tu|isol%[m|eras]|
+|il|isol%[m|era]|
+|nous|isol%[m|erons]|
+|vous|isol%[m|erez]|
+|ils|isol%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|isol%[m|é]|
+|tu|auras|isol%[m|é]|
+|il|aura|isol%[m|é]|
+|nous|aurons|isol%[m|é]|
+|vous|aurez|isol%[m|é]|
+|ils|auront|isol%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|isol%[m|erais]|
+|tu|isol%[m|erais]|
+|il|isol%[m|erait]|
+|nous|isol%[m|erions]|
+|vous|isol%[m|eriez]|
+|ils|isol%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|isol%[m|é]|
+|tu|aurais|isol%[m|é]|
+|il|aurait|isol%[m|é]|
+|nous|aurions|isol%[m|é]|
+|vous|auriez|isol%[m|é]|
+|ils|auraient|isol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|isol%[m|e]|
+|que|tu|isol%[m|es]|
+|qu'|il|isol%[m|e]|
+|que|nous|isol%[m|ions]|
+|que|vous|isol%[m|iez]|
+|qu'|ils|isol%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|isol%[m|é]|
+|que|tu|aies|isol%[m|é]|
+|qu'|il|ait|isol%[m|é]|
+|que|nous|ayons|isol%[m|é]|
+|que|vous|ayez|isol%[m|é]|
+|qu'|ils|aient|isol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|isol%[m|asse]|
+|que|tu|isol%[m|asses]|
+|qu'|il|isol%[m|ât]|
+|que|nous|isol%[m|assions]|
+|que|vous|isol%[m|assiez]|
+|qu'|ils|isol%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|isol%[m|é]|
+|que|tu|eusses|isol%[m|é]|
+|qu'|il|eût|isol%[m|é]|
+|que|nous|eussions|isol%[m|é]|
+|que|vous|eussiez|isol%[m|é]|
+|qu'|ils|eussent|isol%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|isol%[m|e]|
+|isol%[m|ons]|
+|isol%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|isol%[m|é]|
+|ayons|isol%[m|é]|
+|ayez|isol%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# palmer %[clVerbGroup|1]
+[-
+aplatir la tête de (une aiguille), afin de pouvoir percer le chas. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|palm%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|palm%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|palm%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||palm%[m|é]|
+|ayant|palm%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en palm%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|palm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|palm%[m|e]|
+|tu|palm%[m|es]|
+|il|palm%[m|e]|
+|nous|palm%[m|ons]|
+|vous|palm%[m|ez]|
+|ils|palm%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|palm%[m|é]|
+|tu|as |palm%[m|é]|
+|il|a|palm%[m|é]|
+|nous|avons|palm%[m|é]|
+|vous|avez|palm%[m|é]|
+|ils|ont|palm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|palm%[m|ais]|
+|tu|palm%[m|ais]|
+|il|palm%[m|ait]|
+|nous|palm%[m|ions]|
+|vous|palm%[m|iez]|
+|ils|palm%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|palm%[m|é]|
+|tu|avais|palm%[m|é]|
+|il|avait|palm%[m|é]|
+|nous|avions|palm%[m|é]|
+|vous|aviez|palm%[m|é]|
+|ils|avaient|palm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|palm%[m|ai]|
+|tu|palm%[m|as]|
+|il|palm%[m|a]|
+|nous|palm%[m|âmes]|
+|vous|palm%[m|âtes]|
+|ils|palm%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|palm%[m|é]|
+|tu|eus|palm%[m|é]|
+|il|eut|palm%[m|é]|
+|nous|e&ucirc;mes|palm%[m|é]|
+|vous|e&ucirc;tes|palm%[m|é]|
+|ils|eurent|palm%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|palm%[m|erai]|
+|tu|palm%[m|eras]|
+|il|palm%[m|era]|
+|nous|palm%[m|erons]|
+|vous|palm%[m|erez]|
+|ils|palm%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|palm%[m|é]|
+|tu|auras|palm%[m|é]|
+|il|aura|palm%[m|é]|
+|nous|aurons|palm%[m|é]|
+|vous|aurez|palm%[m|é]|
+|ils|auront|palm%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|palm%[m|erais]|
+|tu|palm%[m|erais]|
+|il|palm%[m|erait]|
+|nous|palm%[m|erions]|
+|vous|palm%[m|eriez]|
+|ils|palm%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|palm%[m|é]|
+|tu|aurais|palm%[m|é]|
+|il|aurait|palm%[m|é]|
+|nous|aurions|palm%[m|é]|
+|vous|auriez|palm%[m|é]|
+|ils|auraient|palm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|palm%[m|e]|
+|que|tu|palm%[m|es]|
+|qu'|il|palm%[m|e]|
+|que|nous|palm%[m|ions]|
+|que|vous|palm%[m|iez]|
+|qu'|ils|palm%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|palm%[m|é]|
+|que|tu|aies|palm%[m|é]|
+|qu'|il|ait|palm%[m|é]|
+|que|nous|ayons|palm%[m|é]|
+|que|vous|ayez|palm%[m|é]|
+|qu'|ils|aient|palm%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|palm%[m|asse]|
+|que|tu|palm%[m|asses]|
+|qu'|il|palm%[m|ât]|
+|que|nous|palm%[m|assions]|
+|que|vous|palm%[m|assiez]|
+|qu'|ils|palm%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|palm%[m|é]|
+|que|tu|eusses|palm%[m|é]|
+|qu'|il|eût|palm%[m|é]|
+|que|nous|eussions|palm%[m|é]|
+|que|vous|eussiez|palm%[m|é]|
+|qu'|ils|eussent|palm%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|palm%[m|e]|
+|palm%[m|ons]|
+|palm%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|palm%[m|é]|
+|ayons|palm%[m|é]|
+|ayez|palm%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# défaucher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|défauch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|défauch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|défauch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||défauch%[m|é]|
+|ayant|défauch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en défauch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|défauch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|défauch%[m|e]|
+|tu|défauch%[m|es]|
+|il|défauch%[m|e]|
+|nous|défauch%[m|ons]|
+|vous|défauch%[m|ez]|
+|ils|défauch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|défauch%[m|é]|
+|tu|as |défauch%[m|é]|
+|il|a|défauch%[m|é]|
+|nous|avons|défauch%[m|é]|
+|vous|avez|défauch%[m|é]|
+|ils|ont|défauch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|défauch%[m|ais]|
+|tu|défauch%[m|ais]|
+|il|défauch%[m|ait]|
+|nous|défauch%[m|ions]|
+|vous|défauch%[m|iez]|
+|ils|défauch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|défauch%[m|é]|
+|tu|avais|défauch%[m|é]|
+|il|avait|défauch%[m|é]|
+|nous|avions|défauch%[m|é]|
+|vous|aviez|défauch%[m|é]|
+|ils|avaient|défauch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|défauch%[m|ai]|
+|tu|défauch%[m|as]|
+|il|défauch%[m|a]|
+|nous|défauch%[m|âmes]|
+|vous|défauch%[m|âtes]|
+|ils|défauch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|défauch%[m|é]|
+|tu|eus|défauch%[m|é]|
+|il|eut|défauch%[m|é]|
+|nous|e&ucirc;mes|défauch%[m|é]|
+|vous|e&ucirc;tes|défauch%[m|é]|
+|ils|eurent|défauch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|défauch%[m|erai]|
+|tu|défauch%[m|eras]|
+|il|défauch%[m|era]|
+|nous|défauch%[m|erons]|
+|vous|défauch%[m|erez]|
+|ils|défauch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|défauch%[m|é]|
+|tu|auras|défauch%[m|é]|
+|il|aura|défauch%[m|é]|
+|nous|aurons|défauch%[m|é]|
+|vous|aurez|défauch%[m|é]|
+|ils|auront|défauch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|défauch%[m|erais]|
+|tu|défauch%[m|erais]|
+|il|défauch%[m|erait]|
+|nous|défauch%[m|erions]|
+|vous|défauch%[m|eriez]|
+|ils|défauch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|défauch%[m|é]|
+|tu|aurais|défauch%[m|é]|
+|il|aurait|défauch%[m|é]|
+|nous|aurions|défauch%[m|é]|
+|vous|auriez|défauch%[m|é]|
+|ils|auraient|défauch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|défauch%[m|e]|
+|que|tu|défauch%[m|es]|
+|qu'|il|défauch%[m|e]|
+|que|nous|défauch%[m|ions]|
+|que|vous|défauch%[m|iez]|
+|qu'|ils|défauch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|défauch%[m|é]|
+|que|tu|aies|défauch%[m|é]|
+|qu'|il|ait|défauch%[m|é]|
+|que|nous|ayons|défauch%[m|é]|
+|que|vous|ayez|défauch%[m|é]|
+|qu'|ils|aient|défauch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|défauch%[m|asse]|
+|que|tu|défauch%[m|asses]|
+|qu'|il|défauch%[m|ât]|
+|que|nous|défauch%[m|assions]|
+|que|vous|défauch%[m|assiez]|
+|qu'|ils|défauch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|défauch%[m|é]|
+|que|tu|eusses|défauch%[m|é]|
+|qu'|il|eût|défauch%[m|é]|
+|que|nous|eussions|défauch%[m|é]|
+|que|vous|eussiez|défauch%[m|é]|
+|qu'|ils|eussent|défauch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|défauch%[m|e]|
+|défauch%[m|ons]|
+|défauch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|défauch%[m|é]|
+|ayons|défauch%[m|é]|
+|ayez|défauch%[m|é]|
+|]
+

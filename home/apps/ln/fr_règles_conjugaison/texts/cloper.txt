@@ -1,0 +1,190 @@
+# cloper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|clop%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|clop%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|clop%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||clop%[m|é]|
+|ayant|clop%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en clop%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|clop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|clop%[m|e]|
+|tu|clop%[m|es]|
+|il|clop%[m|e]|
+|nous|clop%[m|ons]|
+|vous|clop%[m|ez]|
+|ils|clop%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|clop%[m|é]|
+|tu|as |clop%[m|é]|
+|il|a|clop%[m|é]|
+|nous|avons|clop%[m|é]|
+|vous|avez|clop%[m|é]|
+|ils|ont|clop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|clop%[m|ais]|
+|tu|clop%[m|ais]|
+|il|clop%[m|ait]|
+|nous|clop%[m|ions]|
+|vous|clop%[m|iez]|
+|ils|clop%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|clop%[m|é]|
+|tu|avais|clop%[m|é]|
+|il|avait|clop%[m|é]|
+|nous|avions|clop%[m|é]|
+|vous|aviez|clop%[m|é]|
+|ils|avaient|clop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|clop%[m|ai]|
+|tu|clop%[m|as]|
+|il|clop%[m|a]|
+|nous|clop%[m|âmes]|
+|vous|clop%[m|âtes]|
+|ils|clop%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|clop%[m|é]|
+|tu|eus|clop%[m|é]|
+|il|eut|clop%[m|é]|
+|nous|e&ucirc;mes|clop%[m|é]|
+|vous|e&ucirc;tes|clop%[m|é]|
+|ils|eurent|clop%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|clop%[m|erai]|
+|tu|clop%[m|eras]|
+|il|clop%[m|era]|
+|nous|clop%[m|erons]|
+|vous|clop%[m|erez]|
+|ils|clop%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|clop%[m|é]|
+|tu|auras|clop%[m|é]|
+|il|aura|clop%[m|é]|
+|nous|aurons|clop%[m|é]|
+|vous|aurez|clop%[m|é]|
+|ils|auront|clop%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|clop%[m|erais]|
+|tu|clop%[m|erais]|
+|il|clop%[m|erait]|
+|nous|clop%[m|erions]|
+|vous|clop%[m|eriez]|
+|ils|clop%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|clop%[m|é]|
+|tu|aurais|clop%[m|é]|
+|il|aurait|clop%[m|é]|
+|nous|aurions|clop%[m|é]|
+|vous|auriez|clop%[m|é]|
+|ils|auraient|clop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|clop%[m|e]|
+|que|tu|clop%[m|es]|
+|qu'|il|clop%[m|e]|
+|que|nous|clop%[m|ions]|
+|que|vous|clop%[m|iez]|
+|qu'|ils|clop%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|clop%[m|é]|
+|que|tu|aies|clop%[m|é]|
+|qu'|il|ait|clop%[m|é]|
+|que|nous|ayons|clop%[m|é]|
+|que|vous|ayez|clop%[m|é]|
+|qu'|ils|aient|clop%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|clop%[m|asse]|
+|que|tu|clop%[m|asses]|
+|qu'|il|clop%[m|ât]|
+|que|nous|clop%[m|assions]|
+|que|vous|clop%[m|assiez]|
+|qu'|ils|clop%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|clop%[m|é]|
+|que|tu|eusses|clop%[m|é]|
+|qu'|il|eût|clop%[m|é]|
+|que|nous|eussions|clop%[m|é]|
+|que|vous|eussiez|clop%[m|é]|
+|qu'|ils|eussent|clop%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|clop%[m|e]|
+|clop%[m|ons]|
+|clop%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|clop%[m|é]|
+|ayons|clop%[m|é]|
+|ayez|clop%[m|é]|
+|]
+

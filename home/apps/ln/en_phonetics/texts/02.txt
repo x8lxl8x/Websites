@@ -1,0 +1,114 @@
+# Charts
+
+## Monophthongs
+
+@[images/monophthongs.jpg]
+
+### high
+
+[|
+|feet|fit |food|foot|
+|fiːt|fɪt |fuːd|fʊt |
+|]
+*[sounds/vowels_high.mp3]
+
+### mid
+
+[|
+|fed |fur |the |for |
+|fed |fɜː |ðə  |fɔː |
+|]
+*[sounds/vowels_mid.mp3]
+
+### low
+
+[|
+|cat |cut |cart|cot |
+|kæt |kʌt |kɑːt|kɒt |
+|]
+*[sounds/vowels_low.mp3]
+
+## Vowels Front
+
+@[images/vowels_front.jpg]
+
+## Vowels Back
+
+@[images/vowels_back.jpg]
+
+## Long & Short
+
+[!
+Долгота гласных не влияет на значение слова.
+!]
+
+@[images/long_short.jpg]
+
+[|
+|long |tense|
+|short|lax  |
+|]
+
+## Labialization
+
+@[images/labialization.jpg]
+
+[|
+|iː|Unrounded, stretched         |
+|ɪ |Unrounded, slightly stretched|
+|e |Unrounded, not stretched     |
+|æ |Unrounded, open wide         |
+|]
+
+[|
+|ɜː|Slightly rounded             |
+|ə |Unrounded, neutral, relaxed  |
+|ʌ |Unrounded, neutral, relaxed  |
+|]
+
+[|
+|uː|Very rounded                 |
+|ʊ |Moderately rounded           |
+|ɔː|Rounded                      |
+|ɑː|Unrounded, open wide         |
+|]
+
+## Transcription Variants
+
+[|
+|iː|i |
+|e |ɛ |
+|ɝː|ɚ |
+|uː|u |
+|ɔː|ɔ |
+|ɑː|ɑ |
+|]
+
+## Diphthongs
+
+@[images/diphthongs.jpg]
+
+## Consonants
+
+[|
+|voiced   |b|d|g|v|z|ʒ|ʤ|ð|
+|voiceless|p|t|k|f|s|ʃ|ʧ|θ|
+|]
+
+[|
+|voiced   |lenis |
+|voiceless|fortis|
+|]
+
+[|
+|     |Labial  |Dental  |Alveolar|Post<br>alveolar|Palatal |Velar  |Glottal |
+|Stop|b p||d t|||g k||
+|Fricative|v f|ð θ|z s|ʒ ʃ|||h|
+|Affricate||||dʒ tʃ||||
+|Nasal|m||n|||ŋ||
+|Approximant|||l|r|j|w||
+|]
+
+## Labiograms
+
+@[images/labiograms.jpg]

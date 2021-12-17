@@ -1,0 +1,191 @@
+# engraver %[clVerbGroup|1]
+[-
+recouvrir de gravier. 
+sceller une plaque de métal dans une maçonnerie. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|engrav%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|engrav%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|engrav%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||engrav%[m|é]|
+|ayant|engrav%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en engrav%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|engrav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|engrav%[m|e]|
+|tu|engrav%[m|es]|
+|il|engrav%[m|e]|
+|nous|engrav%[m|ons]|
+|vous|engrav%[m|ez]|
+|ils|engrav%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|engrav%[m|é]|
+|tu|as |engrav%[m|é]|
+|il|a|engrav%[m|é]|
+|nous|avons|engrav%[m|é]|
+|vous|avez|engrav%[m|é]|
+|ils|ont|engrav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|engrav%[m|ais]|
+|tu|engrav%[m|ais]|
+|il|engrav%[m|ait]|
+|nous|engrav%[m|ions]|
+|vous|engrav%[m|iez]|
+|ils|engrav%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|engrav%[m|é]|
+|tu|avais|engrav%[m|é]|
+|il|avait|engrav%[m|é]|
+|nous|avions|engrav%[m|é]|
+|vous|aviez|engrav%[m|é]|
+|ils|avaient|engrav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|engrav%[m|ai]|
+|tu|engrav%[m|as]|
+|il|engrav%[m|a]|
+|nous|engrav%[m|âmes]|
+|vous|engrav%[m|âtes]|
+|ils|engrav%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|engrav%[m|é]|
+|tu|eus|engrav%[m|é]|
+|il|eut|engrav%[m|é]|
+|nous|e&ucirc;mes|engrav%[m|é]|
+|vous|e&ucirc;tes|engrav%[m|é]|
+|ils|eurent|engrav%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|engrav%[m|erai]|
+|tu|engrav%[m|eras]|
+|il|engrav%[m|era]|
+|nous|engrav%[m|erons]|
+|vous|engrav%[m|erez]|
+|ils|engrav%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|engrav%[m|é]|
+|tu|auras|engrav%[m|é]|
+|il|aura|engrav%[m|é]|
+|nous|aurons|engrav%[m|é]|
+|vous|aurez|engrav%[m|é]|
+|ils|auront|engrav%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|engrav%[m|erais]|
+|tu|engrav%[m|erais]|
+|il|engrav%[m|erait]|
+|nous|engrav%[m|erions]|
+|vous|engrav%[m|eriez]|
+|ils|engrav%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|engrav%[m|é]|
+|tu|aurais|engrav%[m|é]|
+|il|aurait|engrav%[m|é]|
+|nous|aurions|engrav%[m|é]|
+|vous|auriez|engrav%[m|é]|
+|ils|auraient|engrav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|engrav%[m|e]|
+|que|tu|engrav%[m|es]|
+|qu'|il|engrav%[m|e]|
+|que|nous|engrav%[m|ions]|
+|que|vous|engrav%[m|iez]|
+|qu'|ils|engrav%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|engrav%[m|é]|
+|que|tu|aies|engrav%[m|é]|
+|qu'|il|ait|engrav%[m|é]|
+|que|nous|ayons|engrav%[m|é]|
+|que|vous|ayez|engrav%[m|é]|
+|qu'|ils|aient|engrav%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|engrav%[m|asse]|
+|que|tu|engrav%[m|asses]|
+|qu'|il|engrav%[m|ât]|
+|que|nous|engrav%[m|assions]|
+|que|vous|engrav%[m|assiez]|
+|qu'|ils|engrav%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|engrav%[m|é]|
+|que|tu|eusses|engrav%[m|é]|
+|qu'|il|eût|engrav%[m|é]|
+|que|nous|eussions|engrav%[m|é]|
+|que|vous|eussiez|engrav%[m|é]|
+|qu'|ils|eussent|engrav%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|engrav%[m|e]|
+|engrav%[m|ons]|
+|engrav%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|engrav%[m|é]|
+|ayons|engrav%[m|é]|
+|ayez|engrav%[m|é]|
+|]
+

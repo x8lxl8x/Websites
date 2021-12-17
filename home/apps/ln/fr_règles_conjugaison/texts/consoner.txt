@@ -1,0 +1,190 @@
+# consoner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|conson%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|conson%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|conson%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||conson%[m|é]|
+|ayant|conson%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en conson%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|conson%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|conson%[m|e]|
+|tu|conson%[m|es]|
+|il|conson%[m|e]|
+|nous|conson%[m|ons]|
+|vous|conson%[m|ez]|
+|ils|conson%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|conson%[m|é]|
+|tu|as |conson%[m|é]|
+|il|a|conson%[m|é]|
+|nous|avons|conson%[m|é]|
+|vous|avez|conson%[m|é]|
+|ils|ont|conson%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|conson%[m|ais]|
+|tu|conson%[m|ais]|
+|il|conson%[m|ait]|
+|nous|conson%[m|ions]|
+|vous|conson%[m|iez]|
+|ils|conson%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|conson%[m|é]|
+|tu|avais|conson%[m|é]|
+|il|avait|conson%[m|é]|
+|nous|avions|conson%[m|é]|
+|vous|aviez|conson%[m|é]|
+|ils|avaient|conson%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|conson%[m|ai]|
+|tu|conson%[m|as]|
+|il|conson%[m|a]|
+|nous|conson%[m|âmes]|
+|vous|conson%[m|âtes]|
+|ils|conson%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|conson%[m|é]|
+|tu|eus|conson%[m|é]|
+|il|eut|conson%[m|é]|
+|nous|e&ucirc;mes|conson%[m|é]|
+|vous|e&ucirc;tes|conson%[m|é]|
+|ils|eurent|conson%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|conson%[m|erai]|
+|tu|conson%[m|eras]|
+|il|conson%[m|era]|
+|nous|conson%[m|erons]|
+|vous|conson%[m|erez]|
+|ils|conson%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|conson%[m|é]|
+|tu|auras|conson%[m|é]|
+|il|aura|conson%[m|é]|
+|nous|aurons|conson%[m|é]|
+|vous|aurez|conson%[m|é]|
+|ils|auront|conson%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|conson%[m|erais]|
+|tu|conson%[m|erais]|
+|il|conson%[m|erait]|
+|nous|conson%[m|erions]|
+|vous|conson%[m|eriez]|
+|ils|conson%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|conson%[m|é]|
+|tu|aurais|conson%[m|é]|
+|il|aurait|conson%[m|é]|
+|nous|aurions|conson%[m|é]|
+|vous|auriez|conson%[m|é]|
+|ils|auraient|conson%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|conson%[m|e]|
+|que|tu|conson%[m|es]|
+|qu'|il|conson%[m|e]|
+|que|nous|conson%[m|ions]|
+|que|vous|conson%[m|iez]|
+|qu'|ils|conson%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|conson%[m|é]|
+|que|tu|aies|conson%[m|é]|
+|qu'|il|ait|conson%[m|é]|
+|que|nous|ayons|conson%[m|é]|
+|que|vous|ayez|conson%[m|é]|
+|qu'|ils|aient|conson%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|conson%[m|asse]|
+|que|tu|conson%[m|asses]|
+|qu'|il|conson%[m|ât]|
+|que|nous|conson%[m|assions]|
+|que|vous|conson%[m|assiez]|
+|qu'|ils|conson%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|conson%[m|é]|
+|que|tu|eusses|conson%[m|é]|
+|qu'|il|eût|conson%[m|é]|
+|que|nous|eussions|conson%[m|é]|
+|que|vous|eussiez|conson%[m|é]|
+|qu'|ils|eussent|conson%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|conson%[m|e]|
+|conson%[m|ons]|
+|conson%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|conson%[m|é]|
+|ayons|conson%[m|é]|
+|ayez|conson%[m|é]|
+|]
+

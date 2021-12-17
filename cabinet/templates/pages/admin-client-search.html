@@ -1,0 +1,17 @@
+<h3>Кабинет консультанта</h3>
+
+<h4>Поиск клиента</h4>
+
+<form id='idMainSearch' name='varMainSearch' method='post' action='./admin-client-search-proc.php?varIdKey=$strIdKey'>
+<p class='clInputName01'>Фамилия      </p>
+<p><input id='idClientNameLast'  name='varClientNameLast'  type='text' maxlength='50' size='50'></p>
+<p class='clInputName01'>Имя        </p>
+<p><input id='idClientNameFirst'  name='varClientNameFirst'  type='text' maxlength='50' size='50'></p>
+<p class='clInputName01'>Почта        </p>
+<p><input id='idClientEmail'    name='varClientEmail'    type='text' maxlength='50' size='50'></p>
+<input type='button' value='Найти' onClick='fncClientSearch();'>
+</form>
+
+<div id='idExitLink'>
+  <a href='./admin-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

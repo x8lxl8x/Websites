@@ -1,0 +1,190 @@
+# s'envieillir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'envieill%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|envieill%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'envieill%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|envieill%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'envieill%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|envieill%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|envieill%[m|is]|
+|tu|t'|envieill%[m|is]|
+|il|s'|envieill%[m|it]|
+|nous|nous|envieill%[m|issons]|
+|vous|vous|envieill%[m|issez]|
+|ils|s'|envieill%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|envieill%[m|i]|
+|tu|t'|es|envieill%[m|i]|
+|il|s'|est|envieill%[m|i]|
+|nous|nous|sommes|envieill%[m|is]|
+|vous|vous|êtes|envieill%[m|is]|
+|ils|se|sont|envieill%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|envieill%[m|issais]|
+|tu|t'|envieill%[m|issais]|
+|il|s'|envieill%[m|issait]|
+|nous|nous|envieill%[m|issions]|
+|vous|vous|envieill%[m|issiez]|
+|ils|s'|envieill%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|envieill%[m|i]|
+|tu|t'|étais|envieill%[m|i]|
+|il|s'|était|envieill%[m|i]|
+|nous|nous|étions|envieill%[m|is]|
+|vous|vous|étiez|envieill%[m|is]|
+|ils|s'|étaient|envieill%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|envieill%[m|is]|
+|tu|t'|envieill%[m|is]|
+|il|s'|envieill%[m|it]|
+|nous|nous|envieill%[m|îmes]|
+|vous|vous|envieill%[m|îtes]|
+|ils|s'|envieill%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|envieill%[m|i]|
+|tu|te|fus|envieill%[m|i]|
+|il|se|fut|envieill%[m|i]|
+|nous|nous|fûmes|envieill%[m|is]|
+|vous|vous|fûtes|envieill%[m|is]|
+|ils|se|furent|envieill%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|envieill%[m|irai]|
+|tu|t'|envieill%[m|iras]|
+|il|s'|envieill%[m|ira]|
+|nous|nous|envieill%[m|irons]|
+|vous|vous|envieill%[m|irez]|
+|ils|s'|envieill%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|envieill%[m|i]|
+|tu|te|seras|envieill%[m|i]|
+|il|se|sera|envieill%[m|i]|
+|nous|nous|serons|envieill%[m|is]|
+|vous|vous|serez|envieill%[m|is]|
+|ils|se|seront|envieill%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|envieill%[m|irais]|
+|tu|t'|envieill%[m|irais]|
+|il|s'|envieill%[m|irait]|
+|nous|nous|envieill%[m|irions]|
+|vous|vous|envieill%[m|iriez]|
+|ils|s'|envieill%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|envieill%[m|i]|
+|tu|te|serais|envieill%[m|i]|
+|il|se|serait|envieill%[m|i]|
+|nous|nous|serions|envieill%[m|is]|
+|vous|vous|seriez|envieill%[m|is]|
+|ils|se|seraient|envieill%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|envieill%[m|isse]|
+|que|tu|t'|envieill%[m|isses]|
+|qu'|il|s'|envieill%[m|isse]|
+|que|nous|nous|envieill%[m|issions]|
+|que|vous|vous|envieill%[m|issiez]|
+|qu'|ils|s'|envieill%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|envieill%[m|i]|
+|que|tu|te|sois|envieill%[m|i]|
+|qu'|il|se|soit|envieill%[m|i]|
+|que|nous|nous|soyons|envieill%[m|is]|
+|que|vous|vous|soyez|envieill%[m|is]|
+|qu'|ils|se|soient|envieill%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|envieill%[m|isse]|
+|que|tu|t'|envieill%[m|isses]|
+|qu'|il|s'|envieill%[m|ît]|
+|que|nous|nous|envieill%[m|issions]|
+|que|vous|vous|envieill%[m|issiez]|
+|qu'|ils|s'|envieill%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|envieill%[m|i]|
+|que|tu|te|fusses|envieill%[m|i]|
+|qu'|il|se|fût|envieill%[m|i]|
+|que|nous|nous|fussions|envieill%[m|is]|
+|que|vous|vous|fussiez|envieill%[m|is]|
+|qu'|ils|se|fussent|envieill%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|envieill%[m|is]-toi|
+|envieill%[m|issons]-nous|
+|envieill%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

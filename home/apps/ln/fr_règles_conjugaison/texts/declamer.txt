@@ -1,0 +1,191 @@
+# déclamer %[clVerbGroup|1]
+[-
+réciter un discours, des vers, à voix haute et en soulignant éloquemment le sens par l'intonation. 
+dire quelque chose comme si on déclamait. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|déclam%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déclam%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|déclam%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déclam%[m|é]|
+|ayant|déclam%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en déclam%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déclam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|déclam%[m|e]|
+|tu|déclam%[m|es]|
+|il|déclam%[m|e]|
+|nous|déclam%[m|ons]|
+|vous|déclam%[m|ez]|
+|ils|déclam%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déclam%[m|é]|
+|tu|as |déclam%[m|é]|
+|il|a|déclam%[m|é]|
+|nous|avons|déclam%[m|é]|
+|vous|avez|déclam%[m|é]|
+|ils|ont|déclam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|déclam%[m|ais]|
+|tu|déclam%[m|ais]|
+|il|déclam%[m|ait]|
+|nous|déclam%[m|ions]|
+|vous|déclam%[m|iez]|
+|ils|déclam%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déclam%[m|é]|
+|tu|avais|déclam%[m|é]|
+|il|avait|déclam%[m|é]|
+|nous|avions|déclam%[m|é]|
+|vous|aviez|déclam%[m|é]|
+|ils|avaient|déclam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|déclam%[m|ai]|
+|tu|déclam%[m|as]|
+|il|déclam%[m|a]|
+|nous|déclam%[m|âmes]|
+|vous|déclam%[m|âtes]|
+|ils|déclam%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déclam%[m|é]|
+|tu|eus|déclam%[m|é]|
+|il|eut|déclam%[m|é]|
+|nous|e&ucirc;mes|déclam%[m|é]|
+|vous|e&ucirc;tes|déclam%[m|é]|
+|ils|eurent|déclam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|déclam%[m|erai]|
+|tu|déclam%[m|eras]|
+|il|déclam%[m|era]|
+|nous|déclam%[m|erons]|
+|vous|déclam%[m|erez]|
+|ils|déclam%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déclam%[m|é]|
+|tu|auras|déclam%[m|é]|
+|il|aura|déclam%[m|é]|
+|nous|aurons|déclam%[m|é]|
+|vous|aurez|déclam%[m|é]|
+|ils|auront|déclam%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|déclam%[m|erais]|
+|tu|déclam%[m|erais]|
+|il|déclam%[m|erait]|
+|nous|déclam%[m|erions]|
+|vous|déclam%[m|eriez]|
+|ils|déclam%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déclam%[m|é]|
+|tu|aurais|déclam%[m|é]|
+|il|aurait|déclam%[m|é]|
+|nous|aurions|déclam%[m|é]|
+|vous|auriez|déclam%[m|é]|
+|ils|auraient|déclam%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|déclam%[m|e]|
+|que|tu|déclam%[m|es]|
+|qu'|il|déclam%[m|e]|
+|que|nous|déclam%[m|ions]|
+|que|vous|déclam%[m|iez]|
+|qu'|ils|déclam%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déclam%[m|é]|
+|que|tu|aies|déclam%[m|é]|
+|qu'|il|ait|déclam%[m|é]|
+|que|nous|ayons|déclam%[m|é]|
+|que|vous|ayez|déclam%[m|é]|
+|qu'|ils|aient|déclam%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|déclam%[m|asse]|
+|que|tu|déclam%[m|asses]|
+|qu'|il|déclam%[m|ât]|
+|que|nous|déclam%[m|assions]|
+|que|vous|déclam%[m|assiez]|
+|qu'|ils|déclam%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déclam%[m|é]|
+|que|tu|eusses|déclam%[m|é]|
+|qu'|il|eût|déclam%[m|é]|
+|que|nous|eussions|déclam%[m|é]|
+|que|vous|eussiez|déclam%[m|é]|
+|qu'|ils|eussent|déclam%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déclam%[m|e]|
+|déclam%[m|ons]|
+|déclam%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déclam%[m|é]|
+|ayons|déclam%[m|é]|
+|ayez|déclam%[m|é]|
+|]
+

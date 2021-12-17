@@ -1,0 +1,192 @@
+# réserver %[clVerbGroup|1]
+[-
+mettre de côté, en réserve. 
+destiner à un usage particulier. 
+faire la réservation de (place de spectacle, billet pour un voyage) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|réserv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|réserv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|réserv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||réserv%[m|é]|
+|ayant|réserv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en réserv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|réserv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|réserv%[m|e]|
+|tu|réserv%[m|es]|
+|il|réserv%[m|e]|
+|nous|réserv%[m|ons]|
+|vous|réserv%[m|ez]|
+|ils|réserv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|réserv%[m|é]|
+|tu|as |réserv%[m|é]|
+|il|a|réserv%[m|é]|
+|nous|avons|réserv%[m|é]|
+|vous|avez|réserv%[m|é]|
+|ils|ont|réserv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|réserv%[m|ais]|
+|tu|réserv%[m|ais]|
+|il|réserv%[m|ait]|
+|nous|réserv%[m|ions]|
+|vous|réserv%[m|iez]|
+|ils|réserv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|réserv%[m|é]|
+|tu|avais|réserv%[m|é]|
+|il|avait|réserv%[m|é]|
+|nous|avions|réserv%[m|é]|
+|vous|aviez|réserv%[m|é]|
+|ils|avaient|réserv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|réserv%[m|ai]|
+|tu|réserv%[m|as]|
+|il|réserv%[m|a]|
+|nous|réserv%[m|âmes]|
+|vous|réserv%[m|âtes]|
+|ils|réserv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|réserv%[m|é]|
+|tu|eus|réserv%[m|é]|
+|il|eut|réserv%[m|é]|
+|nous|e&ucirc;mes|réserv%[m|é]|
+|vous|e&ucirc;tes|réserv%[m|é]|
+|ils|eurent|réserv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|réserv%[m|erai]|
+|tu|réserv%[m|eras]|
+|il|réserv%[m|era]|
+|nous|réserv%[m|erons]|
+|vous|réserv%[m|erez]|
+|ils|réserv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|réserv%[m|é]|
+|tu|auras|réserv%[m|é]|
+|il|aura|réserv%[m|é]|
+|nous|aurons|réserv%[m|é]|
+|vous|aurez|réserv%[m|é]|
+|ils|auront|réserv%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|réserv%[m|erais]|
+|tu|réserv%[m|erais]|
+|il|réserv%[m|erait]|
+|nous|réserv%[m|erions]|
+|vous|réserv%[m|eriez]|
+|ils|réserv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|réserv%[m|é]|
+|tu|aurais|réserv%[m|é]|
+|il|aurait|réserv%[m|é]|
+|nous|aurions|réserv%[m|é]|
+|vous|auriez|réserv%[m|é]|
+|ils|auraient|réserv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|réserv%[m|e]|
+|que|tu|réserv%[m|es]|
+|qu'|il|réserv%[m|e]|
+|que|nous|réserv%[m|ions]|
+|que|vous|réserv%[m|iez]|
+|qu'|ils|réserv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|réserv%[m|é]|
+|que|tu|aies|réserv%[m|é]|
+|qu'|il|ait|réserv%[m|é]|
+|que|nous|ayons|réserv%[m|é]|
+|que|vous|ayez|réserv%[m|é]|
+|qu'|ils|aient|réserv%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|réserv%[m|asse]|
+|que|tu|réserv%[m|asses]|
+|qu'|il|réserv%[m|ât]|
+|que|nous|réserv%[m|assions]|
+|que|vous|réserv%[m|assiez]|
+|qu'|ils|réserv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|réserv%[m|é]|
+|que|tu|eusses|réserv%[m|é]|
+|qu'|il|eût|réserv%[m|é]|
+|que|nous|eussions|réserv%[m|é]|
+|que|vous|eussiez|réserv%[m|é]|
+|qu'|ils|eussent|réserv%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|réserv%[m|e]|
+|réserv%[m|ons]|
+|réserv%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|réserv%[m|é]|
+|ayons|réserv%[m|é]|
+|ayez|réserv%[m|é]|
+|]
+

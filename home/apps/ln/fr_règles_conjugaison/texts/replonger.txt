@@ -1,0 +1,190 @@
+# replonger %[clVerbGroup|1]
+[-
+plonger de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|replong%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|replong%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|replong%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||replong%[m|é]|
+|ayant|replong%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en replong%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|replong%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|replong%[m|e]|
+|tu|replong%[m|es]|
+|il|replong%[m|e]|
+|nous|replong%[m|eons]|
+|vous|replong%[m|ez]|
+|ils|replong%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|replong%[m|é]|
+|tu|as |replong%[m|é]|
+|il|a|replong%[m|é]|
+|nous|avons|replong%[m|é]|
+|vous|avez|replong%[m|é]|
+|ils|ont|replong%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|replong%[m|eais]|
+|tu|replong%[m|eais]|
+|il|replong%[m|eait]|
+|nous|replong%[m|ions]|
+|vous|replong%[m|iez]|
+|ils|replong%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|replong%[m|é]|
+|tu|avais|replong%[m|é]|
+|il|avait|replong%[m|é]|
+|nous|avions|replong%[m|é]|
+|vous|aviez|replong%[m|é]|
+|ils|avaient|replong%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|replong%[m|eai]|
+|tu|replong%[m|eas]|
+|il|replong%[m|ea]|
+|nous|replong%[m|eâmes]|
+|vous|replong%[m|eâtes]|
+|ils|replong%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|replong%[m|é]|
+|tu|eus|replong%[m|é]|
+|il|eut|replong%[m|é]|
+|nous|e&ucirc;mes|replong%[m|é]|
+|vous|e&ucirc;tes|replong%[m|é]|
+|ils|eurent|replong%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|replong%[m|erai]|
+|tu|replong%[m|eras]|
+|il|replong%[m|era]|
+|nous|replong%[m|erons]|
+|vous|replong%[m|erez]|
+|ils|replong%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|replong%[m|é]|
+|tu|auras|replong%[m|é]|
+|il|aura|replong%[m|é]|
+|nous|aurons|replong%[m|é]|
+|vous|aurez|replong%[m|é]|
+|ils|auront|replong%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|replong%[m|erais]|
+|tu|replong%[m|erais]|
+|il|replong%[m|erait]|
+|nous|replong%[m|erions]|
+|vous|replong%[m|eriez]|
+|ils|replong%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|replong%[m|é]|
+|tu|aurais|replong%[m|é]|
+|il|aurait|replong%[m|é]|
+|nous|aurions|replong%[m|é]|
+|vous|auriez|replong%[m|é]|
+|ils|auraient|replong%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|replong%[m|e]|
+|que|tu|replong%[m|es]|
+|qu'|il|replong%[m|e]|
+|que|nous|replong%[m|ions]|
+|que|vous|replong%[m|iez]|
+|qu'|ils|replong%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|replong%[m|é]|
+|que|tu|aies|replong%[m|é]|
+|qu'|il|ait|replong%[m|é]|
+|que|nous|ayons|replong%[m|é]|
+|que|vous|ayez|replong%[m|é]|
+|qu'|ils|aient|replong%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|replong%[m|easse]|
+|que|tu|replong%[m|easses]|
+|qu'|il|replong%[m|eât]|
+|que|nous|replong%[m|eassions]|
+|que|vous|replong%[m|eassiez]|
+|qu'|ils|replong%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|replong%[m|é]|
+|que|tu|eusses|replong%[m|é]|
+|qu'|il|eût|replong%[m|é]|
+|que|nous|eussions|replong%[m|é]|
+|que|vous|eussiez|replong%[m|é]|
+|qu'|ils|eussent|replong%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|replong%[m|e]|
+|replong%[m|eons]|
+|replong%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|replong%[m|é]|
+|ayons|replong%[m|é]|
+|ayez|replong%[m|é]|
+|]
+

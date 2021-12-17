@@ -1,0 +1,190 @@
+# empatter %[clVerbGroup|1]
+[-
+fixer avec des pattes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|empatt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|empatt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|empatt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||empatt%[m|é]|
+|ayant|empatt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en empatt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|empatt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|empatt%[m|e]|
+|tu|empatt%[m|es]|
+|il|empatt%[m|e]|
+|nous|empatt%[m|ons]|
+|vous|empatt%[m|ez]|
+|ils|empatt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|empatt%[m|é]|
+|tu|as |empatt%[m|é]|
+|il|a|empatt%[m|é]|
+|nous|avons|empatt%[m|é]|
+|vous|avez|empatt%[m|é]|
+|ils|ont|empatt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|empatt%[m|ais]|
+|tu|empatt%[m|ais]|
+|il|empatt%[m|ait]|
+|nous|empatt%[m|ions]|
+|vous|empatt%[m|iez]|
+|ils|empatt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|empatt%[m|é]|
+|tu|avais|empatt%[m|é]|
+|il|avait|empatt%[m|é]|
+|nous|avions|empatt%[m|é]|
+|vous|aviez|empatt%[m|é]|
+|ils|avaient|empatt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|empatt%[m|ai]|
+|tu|empatt%[m|as]|
+|il|empatt%[m|a]|
+|nous|empatt%[m|âmes]|
+|vous|empatt%[m|âtes]|
+|ils|empatt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|empatt%[m|é]|
+|tu|eus|empatt%[m|é]|
+|il|eut|empatt%[m|é]|
+|nous|e&ucirc;mes|empatt%[m|é]|
+|vous|e&ucirc;tes|empatt%[m|é]|
+|ils|eurent|empatt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|empatt%[m|erai]|
+|tu|empatt%[m|eras]|
+|il|empatt%[m|era]|
+|nous|empatt%[m|erons]|
+|vous|empatt%[m|erez]|
+|ils|empatt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|empatt%[m|é]|
+|tu|auras|empatt%[m|é]|
+|il|aura|empatt%[m|é]|
+|nous|aurons|empatt%[m|é]|
+|vous|aurez|empatt%[m|é]|
+|ils|auront|empatt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|empatt%[m|erais]|
+|tu|empatt%[m|erais]|
+|il|empatt%[m|erait]|
+|nous|empatt%[m|erions]|
+|vous|empatt%[m|eriez]|
+|ils|empatt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|empatt%[m|é]|
+|tu|aurais|empatt%[m|é]|
+|il|aurait|empatt%[m|é]|
+|nous|aurions|empatt%[m|é]|
+|vous|auriez|empatt%[m|é]|
+|ils|auraient|empatt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|empatt%[m|e]|
+|que|tu|empatt%[m|es]|
+|qu'|il|empatt%[m|e]|
+|que|nous|empatt%[m|ions]|
+|que|vous|empatt%[m|iez]|
+|qu'|ils|empatt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|empatt%[m|é]|
+|que|tu|aies|empatt%[m|é]|
+|qu'|il|ait|empatt%[m|é]|
+|que|nous|ayons|empatt%[m|é]|
+|que|vous|ayez|empatt%[m|é]|
+|qu'|ils|aient|empatt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|empatt%[m|asse]|
+|que|tu|empatt%[m|asses]|
+|qu'|il|empatt%[m|ât]|
+|que|nous|empatt%[m|assions]|
+|que|vous|empatt%[m|assiez]|
+|qu'|ils|empatt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|empatt%[m|é]|
+|que|tu|eusses|empatt%[m|é]|
+|qu'|il|eût|empatt%[m|é]|
+|que|nous|eussions|empatt%[m|é]|
+|que|vous|eussiez|empatt%[m|é]|
+|qu'|ils|eussent|empatt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|empatt%[m|e]|
+|empatt%[m|ons]|
+|empatt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|empatt%[m|é]|
+|ayons|empatt%[m|é]|
+|ayez|empatt%[m|é]|
+|]
+

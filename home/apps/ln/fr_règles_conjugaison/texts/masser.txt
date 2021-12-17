@@ -1,0 +1,191 @@
+# masser %[clVerbGroup|1]
+[-
+presser, pétrir avec les mains une partie du corps. 
+rassembler, amasser, réunir quelque chose (ex. masser une foule, des troupes) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mass%[m|é]|
+|ayant|mass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mass%[m|e]|
+|tu|mass%[m|es]|
+|il|mass%[m|e]|
+|nous|mass%[m|ons]|
+|vous|mass%[m|ez]|
+|ils|mass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mass%[m|é]|
+|tu|as |mass%[m|é]|
+|il|a|mass%[m|é]|
+|nous|avons|mass%[m|é]|
+|vous|avez|mass%[m|é]|
+|ils|ont|mass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mass%[m|ais]|
+|tu|mass%[m|ais]|
+|il|mass%[m|ait]|
+|nous|mass%[m|ions]|
+|vous|mass%[m|iez]|
+|ils|mass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mass%[m|é]|
+|tu|avais|mass%[m|é]|
+|il|avait|mass%[m|é]|
+|nous|avions|mass%[m|é]|
+|vous|aviez|mass%[m|é]|
+|ils|avaient|mass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mass%[m|ai]|
+|tu|mass%[m|as]|
+|il|mass%[m|a]|
+|nous|mass%[m|âmes]|
+|vous|mass%[m|âtes]|
+|ils|mass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mass%[m|é]|
+|tu|eus|mass%[m|é]|
+|il|eut|mass%[m|é]|
+|nous|e&ucirc;mes|mass%[m|é]|
+|vous|e&ucirc;tes|mass%[m|é]|
+|ils|eurent|mass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mass%[m|erai]|
+|tu|mass%[m|eras]|
+|il|mass%[m|era]|
+|nous|mass%[m|erons]|
+|vous|mass%[m|erez]|
+|ils|mass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mass%[m|é]|
+|tu|auras|mass%[m|é]|
+|il|aura|mass%[m|é]|
+|nous|aurons|mass%[m|é]|
+|vous|aurez|mass%[m|é]|
+|ils|auront|mass%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mass%[m|erais]|
+|tu|mass%[m|erais]|
+|il|mass%[m|erait]|
+|nous|mass%[m|erions]|
+|vous|mass%[m|eriez]|
+|ils|mass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mass%[m|é]|
+|tu|aurais|mass%[m|é]|
+|il|aurait|mass%[m|é]|
+|nous|aurions|mass%[m|é]|
+|vous|auriez|mass%[m|é]|
+|ils|auraient|mass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mass%[m|e]|
+|que|tu|mass%[m|es]|
+|qu'|il|mass%[m|e]|
+|que|nous|mass%[m|ions]|
+|que|vous|mass%[m|iez]|
+|qu'|ils|mass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mass%[m|é]|
+|que|tu|aies|mass%[m|é]|
+|qu'|il|ait|mass%[m|é]|
+|que|nous|ayons|mass%[m|é]|
+|que|vous|ayez|mass%[m|é]|
+|qu'|ils|aient|mass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mass%[m|asse]|
+|que|tu|mass%[m|asses]|
+|qu'|il|mass%[m|ât]|
+|que|nous|mass%[m|assions]|
+|que|vous|mass%[m|assiez]|
+|qu'|ils|mass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mass%[m|é]|
+|que|tu|eusses|mass%[m|é]|
+|qu'|il|eût|mass%[m|é]|
+|que|nous|eussions|mass%[m|é]|
+|que|vous|eussiez|mass%[m|é]|
+|qu'|ils|eussent|mass%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mass%[m|e]|
+|mass%[m|ons]|
+|mass%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mass%[m|é]|
+|ayons|mass%[m|é]|
+|ayez|mass%[m|é]|
+|]
+

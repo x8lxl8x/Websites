@@ -1,0 +1,190 @@
+# typer %[clVerbGroup|1]
+[-
+donner un caractère typé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|typ%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|typ%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|typ%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||typ%[m|é]|
+|ayant|typ%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en typ%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|typ%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|typ%[m|e]|
+|tu|typ%[m|es]|
+|il|typ%[m|e]|
+|nous|typ%[m|ons]|
+|vous|typ%[m|ez]|
+|ils|typ%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|typ%[m|é]|
+|tu|as |typ%[m|é]|
+|il|a|typ%[m|é]|
+|nous|avons|typ%[m|é]|
+|vous|avez|typ%[m|é]|
+|ils|ont|typ%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|typ%[m|ais]|
+|tu|typ%[m|ais]|
+|il|typ%[m|ait]|
+|nous|typ%[m|ions]|
+|vous|typ%[m|iez]|
+|ils|typ%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|typ%[m|é]|
+|tu|avais|typ%[m|é]|
+|il|avait|typ%[m|é]|
+|nous|avions|typ%[m|é]|
+|vous|aviez|typ%[m|é]|
+|ils|avaient|typ%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|typ%[m|ai]|
+|tu|typ%[m|as]|
+|il|typ%[m|a]|
+|nous|typ%[m|âmes]|
+|vous|typ%[m|âtes]|
+|ils|typ%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|typ%[m|é]|
+|tu|eus|typ%[m|é]|
+|il|eut|typ%[m|é]|
+|nous|e&ucirc;mes|typ%[m|é]|
+|vous|e&ucirc;tes|typ%[m|é]|
+|ils|eurent|typ%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|typ%[m|erai]|
+|tu|typ%[m|eras]|
+|il|typ%[m|era]|
+|nous|typ%[m|erons]|
+|vous|typ%[m|erez]|
+|ils|typ%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|typ%[m|é]|
+|tu|auras|typ%[m|é]|
+|il|aura|typ%[m|é]|
+|nous|aurons|typ%[m|é]|
+|vous|aurez|typ%[m|é]|
+|ils|auront|typ%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|typ%[m|erais]|
+|tu|typ%[m|erais]|
+|il|typ%[m|erait]|
+|nous|typ%[m|erions]|
+|vous|typ%[m|eriez]|
+|ils|typ%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|typ%[m|é]|
+|tu|aurais|typ%[m|é]|
+|il|aurait|typ%[m|é]|
+|nous|aurions|typ%[m|é]|
+|vous|auriez|typ%[m|é]|
+|ils|auraient|typ%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|typ%[m|e]|
+|que|tu|typ%[m|es]|
+|qu'|il|typ%[m|e]|
+|que|nous|typ%[m|ions]|
+|que|vous|typ%[m|iez]|
+|qu'|ils|typ%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|typ%[m|é]|
+|que|tu|aies|typ%[m|é]|
+|qu'|il|ait|typ%[m|é]|
+|que|nous|ayons|typ%[m|é]|
+|que|vous|ayez|typ%[m|é]|
+|qu'|ils|aient|typ%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|typ%[m|asse]|
+|que|tu|typ%[m|asses]|
+|qu'|il|typ%[m|ât]|
+|que|nous|typ%[m|assions]|
+|que|vous|typ%[m|assiez]|
+|qu'|ils|typ%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|typ%[m|é]|
+|que|tu|eusses|typ%[m|é]|
+|qu'|il|eût|typ%[m|é]|
+|que|nous|eussions|typ%[m|é]|
+|que|vous|eussiez|typ%[m|é]|
+|qu'|ils|eussent|typ%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|typ%[m|e]|
+|typ%[m|ons]|
+|typ%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|typ%[m|é]|
+|ayons|typ%[m|é]|
+|ayez|typ%[m|é]|
+|]
+

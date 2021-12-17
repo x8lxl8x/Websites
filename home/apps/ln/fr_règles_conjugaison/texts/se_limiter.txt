@@ -1,0 +1,190 @@
+# se limiter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se limit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|limit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se limit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|limit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se limit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|limit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|limit%[m|e]|
+|tu|te|limit%[m|es]|
+|il|se|limit%[m|e]|
+|nous|nous|limit%[m|ons]|
+|vous|vous|limit%[m|ez]|
+|ils|se|limit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|limit%[m|é]|
+|tu|t'|es|limit%[m|é]|
+|il|s'|est|limit%[m|é]|
+|nous|nous|sommes|limit%[m|és]|
+|vous|vous|êtes|limit%[m|és]|
+|ils|se|sont|limit%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|limit%[m|ais]|
+|tu|te|limit%[m|ais]|
+|il|se|limit%[m|ait]|
+|nous|nous|limit%[m|ions]|
+|vous|vous|limit%[m|iez]|
+|ils|se|limit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|limit%[m|é]|
+|tu|t'|étais|limit%[m|é]|
+|il|s'|était|limit%[m|é]|
+|nous|nous|étions|limit%[m|és]|
+|vous|vous|étiez|limit%[m|és]|
+|ils|s'|étaient|limit%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|limit%[m|ai]|
+|tu|te|limit%[m|as]|
+|il|se|limit%[m|a]|
+|nous|nous|limit%[m|âmes]|
+|vous|vous|limit%[m|âtes]|
+|ils|se|limit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|limit%[m|é]|
+|tu|te|fus|limit%[m|é]|
+|il|se|fut|limit%[m|é]|
+|nous|nous|fûmes|limit%[m|és]|
+|vous|vous|fûtes|limit%[m|és]|
+|ils|se|furent|limit%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|limit%[m|erai]|
+|tu|te|limit%[m|eras]|
+|il|se|limit%[m|era]|
+|nous|nous|limit%[m|erons]|
+|vous|vous|limit%[m|erez]|
+|ils|se|limit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|limit%[m|é]|
+|tu|te|seras|limit%[m|é]|
+|il|se|sera|limit%[m|é]|
+|nous|nous|serons|limit%[m|és]|
+|vous|vous|serez|limit%[m|és]|
+|ils|se|seront|limit%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|limit%[m|erais]|
+|tu|te|limit%[m|erais]|
+|il|se|limit%[m|erait]|
+|nous|nous|limit%[m|erions]|
+|vous|vous|limit%[m|eriez]|
+|ils|se|limit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|limit%[m|é]|
+|tu|te|serais|limit%[m|é]|
+|il|se|serait|limit%[m|é]|
+|nous|nous|serions|limit%[m|és]|
+|vous|vous|seriez|limit%[m|és]|
+|ils|se|seraient|limit%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|limit%[m|e]|
+|que|tu|te|limit%[m|es]|
+|qu'|il|se|limit%[m|e]|
+|que|nous|nous|limit%[m|ions]|
+|que|vous|vous|limit%[m|iez]|
+|qu'|ils|se|limit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|limit%[m|é]|
+|que|tu|te|sois|limit%[m|é]|
+|qu'|il|se|soit|limit%[m|é]|
+|que|nous|nous|soyons|limit%[m|és]|
+|que|vous|vous|soyez|limit%[m|és]|
+|qu'|ils|se|soient|limit%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|limit%[m|asse]|
+|que|tu|te|limit%[m|asses]|
+|qu'|il|se|limit%[m|ât]|
+|que|nous|nous|limit%[m|assions]|
+|que|vous|vous|limit%[m|assiez]|
+|qu'|ils|se|limit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|limit%[m|é]|
+|que|tu|te|fusses|limit%[m|é]|
+|qu'|il|se|fût|limit%[m|é]|
+|que|nous|nous|fussions|limit%[m|és]|
+|que|vous|vous|fussiez|limit%[m|és]|
+|qu'|ils|se|fussent|limit%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|limit%[m|e]-toi|
+|limit%[m|ons]-nous|
+|limit%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

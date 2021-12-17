@@ -1,0 +1,190 @@
+# embouter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|embout%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|embout%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|embout%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||embout%[m|é]|
+|ayant|embout%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en embout%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|embout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|embout%[m|e]|
+|tu|embout%[m|es]|
+|il|embout%[m|e]|
+|nous|embout%[m|ons]|
+|vous|embout%[m|ez]|
+|ils|embout%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|embout%[m|é]|
+|tu|as |embout%[m|é]|
+|il|a|embout%[m|é]|
+|nous|avons|embout%[m|é]|
+|vous|avez|embout%[m|é]|
+|ils|ont|embout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|embout%[m|ais]|
+|tu|embout%[m|ais]|
+|il|embout%[m|ait]|
+|nous|embout%[m|ions]|
+|vous|embout%[m|iez]|
+|ils|embout%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|embout%[m|é]|
+|tu|avais|embout%[m|é]|
+|il|avait|embout%[m|é]|
+|nous|avions|embout%[m|é]|
+|vous|aviez|embout%[m|é]|
+|ils|avaient|embout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|embout%[m|ai]|
+|tu|embout%[m|as]|
+|il|embout%[m|a]|
+|nous|embout%[m|âmes]|
+|vous|embout%[m|âtes]|
+|ils|embout%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|embout%[m|é]|
+|tu|eus|embout%[m|é]|
+|il|eut|embout%[m|é]|
+|nous|e&ucirc;mes|embout%[m|é]|
+|vous|e&ucirc;tes|embout%[m|é]|
+|ils|eurent|embout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|embout%[m|erai]|
+|tu|embout%[m|eras]|
+|il|embout%[m|era]|
+|nous|embout%[m|erons]|
+|vous|embout%[m|erez]|
+|ils|embout%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|embout%[m|é]|
+|tu|auras|embout%[m|é]|
+|il|aura|embout%[m|é]|
+|nous|aurons|embout%[m|é]|
+|vous|aurez|embout%[m|é]|
+|ils|auront|embout%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|embout%[m|erais]|
+|tu|embout%[m|erais]|
+|il|embout%[m|erait]|
+|nous|embout%[m|erions]|
+|vous|embout%[m|eriez]|
+|ils|embout%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|embout%[m|é]|
+|tu|aurais|embout%[m|é]|
+|il|aurait|embout%[m|é]|
+|nous|aurions|embout%[m|é]|
+|vous|auriez|embout%[m|é]|
+|ils|auraient|embout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|embout%[m|e]|
+|que|tu|embout%[m|es]|
+|qu'|il|embout%[m|e]|
+|que|nous|embout%[m|ions]|
+|que|vous|embout%[m|iez]|
+|qu'|ils|embout%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|embout%[m|é]|
+|que|tu|aies|embout%[m|é]|
+|qu'|il|ait|embout%[m|é]|
+|que|nous|ayons|embout%[m|é]|
+|que|vous|ayez|embout%[m|é]|
+|qu'|ils|aient|embout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|embout%[m|asse]|
+|que|tu|embout%[m|asses]|
+|qu'|il|embout%[m|ât]|
+|que|nous|embout%[m|assions]|
+|que|vous|embout%[m|assiez]|
+|qu'|ils|embout%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|embout%[m|é]|
+|que|tu|eusses|embout%[m|é]|
+|qu'|il|eût|embout%[m|é]|
+|que|nous|eussions|embout%[m|é]|
+|que|vous|eussiez|embout%[m|é]|
+|qu'|ils|eussent|embout%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|embout%[m|e]|
+|embout%[m|ons]|
+|embout%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|embout%[m|é]|
+|ayons|embout%[m|é]|
+|ayez|embout%[m|é]|
+|]
+

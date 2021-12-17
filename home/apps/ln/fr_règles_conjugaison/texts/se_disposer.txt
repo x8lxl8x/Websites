@@ -1,0 +1,190 @@
+# se disposer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se dispos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|dispos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se dispos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|dispos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se dispos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|dispos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|dispos%[m|e]|
+|tu|te|dispos%[m|es]|
+|il|se|dispos%[m|e]|
+|nous|nous|dispos%[m|ons]|
+|vous|vous|dispos%[m|ez]|
+|ils|se|dispos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|dispos%[m|é]|
+|tu|t'|es|dispos%[m|é]|
+|il|s'|est|dispos%[m|é]|
+|nous|nous|sommes|dispos%[m|és]|
+|vous|vous|êtes|dispos%[m|és]|
+|ils|se|sont|dispos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|dispos%[m|ais]|
+|tu|te|dispos%[m|ais]|
+|il|se|dispos%[m|ait]|
+|nous|nous|dispos%[m|ions]|
+|vous|vous|dispos%[m|iez]|
+|ils|se|dispos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|dispos%[m|é]|
+|tu|t'|étais|dispos%[m|é]|
+|il|s'|était|dispos%[m|é]|
+|nous|nous|étions|dispos%[m|és]|
+|vous|vous|étiez|dispos%[m|és]|
+|ils|s'|étaient|dispos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|dispos%[m|ai]|
+|tu|te|dispos%[m|as]|
+|il|se|dispos%[m|a]|
+|nous|nous|dispos%[m|âmes]|
+|vous|vous|dispos%[m|âtes]|
+|ils|se|dispos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|dispos%[m|é]|
+|tu|te|fus|dispos%[m|é]|
+|il|se|fut|dispos%[m|é]|
+|nous|nous|fûmes|dispos%[m|és]|
+|vous|vous|fûtes|dispos%[m|és]|
+|ils|se|furent|dispos%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|dispos%[m|erai]|
+|tu|te|dispos%[m|eras]|
+|il|se|dispos%[m|era]|
+|nous|nous|dispos%[m|erons]|
+|vous|vous|dispos%[m|erez]|
+|ils|se|dispos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|dispos%[m|é]|
+|tu|te|seras|dispos%[m|é]|
+|il|se|sera|dispos%[m|é]|
+|nous|nous|serons|dispos%[m|és]|
+|vous|vous|serez|dispos%[m|és]|
+|ils|se|seront|dispos%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|dispos%[m|erais]|
+|tu|te|dispos%[m|erais]|
+|il|se|dispos%[m|erait]|
+|nous|nous|dispos%[m|erions]|
+|vous|vous|dispos%[m|eriez]|
+|ils|se|dispos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|dispos%[m|é]|
+|tu|te|serais|dispos%[m|é]|
+|il|se|serait|dispos%[m|é]|
+|nous|nous|serions|dispos%[m|és]|
+|vous|vous|seriez|dispos%[m|és]|
+|ils|se|seraient|dispos%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|dispos%[m|e]|
+|que|tu|te|dispos%[m|es]|
+|qu'|il|se|dispos%[m|e]|
+|que|nous|nous|dispos%[m|ions]|
+|que|vous|vous|dispos%[m|iez]|
+|qu'|ils|se|dispos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|dispos%[m|é]|
+|que|tu|te|sois|dispos%[m|é]|
+|qu'|il|se|soit|dispos%[m|é]|
+|que|nous|nous|soyons|dispos%[m|és]|
+|que|vous|vous|soyez|dispos%[m|és]|
+|qu'|ils|se|soient|dispos%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|dispos%[m|asse]|
+|que|tu|te|dispos%[m|asses]|
+|qu'|il|se|dispos%[m|ât]|
+|que|nous|nous|dispos%[m|assions]|
+|que|vous|vous|dispos%[m|assiez]|
+|qu'|ils|se|dispos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|dispos%[m|é]|
+|que|tu|te|fusses|dispos%[m|é]|
+|qu'|il|se|fût|dispos%[m|é]|
+|que|nous|nous|fussions|dispos%[m|és]|
+|que|vous|vous|fussiez|dispos%[m|és]|
+|qu'|ils|se|fussent|dispos%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dispos%[m|e]-toi|
+|dispos%[m|ons]-nous|
+|dispos%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

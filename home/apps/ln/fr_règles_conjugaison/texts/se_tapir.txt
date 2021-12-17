@@ -1,0 +1,190 @@
+# se tapir %[clVerbGroup|2]
+[-
+se blottir pour se dissimuler. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se tap%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|tap%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se tap%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|tap%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se tap%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|tap%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|tap%[m|is]|
+|tu|te|tap%[m|is]|
+|il|se|tap%[m|it]|
+|nous|nous|tap%[m|issons]|
+|vous|vous|tap%[m|issez]|
+|ils|se|tap%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|tap%[m|i]|
+|tu|t'|es|tap%[m|i]|
+|il|s'|est|tap%[m|i]|
+|nous|nous|sommes|tap%[m|is]|
+|vous|vous|êtes|tap%[m|is]|
+|ils|se|sont|tap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|tap%[m|issais]|
+|tu|te|tap%[m|issais]|
+|il|se|tap%[m|issait]|
+|nous|nous|tap%[m|issions]|
+|vous|vous|tap%[m|issiez]|
+|ils|se|tap%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|tap%[m|i]|
+|tu|t'|étais|tap%[m|i]|
+|il|s'|était|tap%[m|i]|
+|nous|nous|étions|tap%[m|is]|
+|vous|vous|étiez|tap%[m|is]|
+|ils|s'|étaient|tap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|tap%[m|is]|
+|tu|te|tap%[m|is]|
+|il|se|tap%[m|it]|
+|nous|nous|tap%[m|îmes]|
+|vous|vous|tap%[m|îtes]|
+|ils|se|tap%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|tap%[m|i]|
+|tu|te|fus|tap%[m|i]|
+|il|se|fut|tap%[m|i]|
+|nous|nous|fûmes|tap%[m|is]|
+|vous|vous|fûtes|tap%[m|is]|
+|ils|se|furent|tap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|tap%[m|irai]|
+|tu|te|tap%[m|iras]|
+|il|se|tap%[m|ira]|
+|nous|nous|tap%[m|irons]|
+|vous|vous|tap%[m|irez]|
+|ils|se|tap%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|tap%[m|i]|
+|tu|te|seras|tap%[m|i]|
+|il|se|sera|tap%[m|i]|
+|nous|nous|serons|tap%[m|is]|
+|vous|vous|serez|tap%[m|is]|
+|ils|se|seront|tap%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|tap%[m|irais]|
+|tu|te|tap%[m|irais]|
+|il|se|tap%[m|irait]|
+|nous|nous|tap%[m|irions]|
+|vous|vous|tap%[m|iriez]|
+|ils|se|tap%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|tap%[m|i]|
+|tu|te|serais|tap%[m|i]|
+|il|se|serait|tap%[m|i]|
+|nous|nous|serions|tap%[m|is]|
+|vous|vous|seriez|tap%[m|is]|
+|ils|se|seraient|tap%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|tap%[m|isse]|
+|que|tu|te|tap%[m|isses]|
+|qu'|il|se|tap%[m|isse]|
+|que|nous|nous|tap%[m|issions]|
+|que|vous|vous|tap%[m|issiez]|
+|qu'|ils|se|tap%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|tap%[m|i]|
+|que|tu|te|sois|tap%[m|i]|
+|qu'|il|se|soit|tap%[m|i]|
+|que|nous|nous|soyons|tap%[m|is]|
+|que|vous|vous|soyez|tap%[m|is]|
+|qu'|ils|se|soient|tap%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|tap%[m|isse]|
+|que|tu|te|tap%[m|isses]|
+|qu'|il|se|tap%[m|ît]|
+|que|nous|nous|tap%[m|issions]|
+|que|vous|vous|tap%[m|issiez]|
+|qu'|ils|se|tap%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|tap%[m|i]|
+|que|tu|te|fusses|tap%[m|i]|
+|qu'|il|se|fût|tap%[m|i]|
+|que|nous|nous|fussions|tap%[m|is]|
+|que|vous|vous|fussiez|tap%[m|is]|
+|qu'|ils|se|fussent|tap%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tap%[m|is]-toi|
+|tap%[m|issons]-nous|
+|tap%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

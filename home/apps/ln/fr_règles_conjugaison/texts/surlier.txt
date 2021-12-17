@@ -1,0 +1,190 @@
+# surlier %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surli%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surli%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surli%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surli%[m|é]|
+|ayant|surli%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surli%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surli%[m|e]|
+|tu|surli%[m|es]|
+|il|surli%[m|e]|
+|nous|surli%[m|ons]|
+|vous|surli%[m|ez]|
+|ils|surli%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surli%[m|é]|
+|tu|as |surli%[m|é]|
+|il|a|surli%[m|é]|
+|nous|avons|surli%[m|é]|
+|vous|avez|surli%[m|é]|
+|ils|ont|surli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surli%[m|ais]|
+|tu|surli%[m|ais]|
+|il|surli%[m|ait]|
+|nous|surli%[m|ions]|
+|vous|surli%[m|iez]|
+|ils|surli%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surli%[m|é]|
+|tu|avais|surli%[m|é]|
+|il|avait|surli%[m|é]|
+|nous|avions|surli%[m|é]|
+|vous|aviez|surli%[m|é]|
+|ils|avaient|surli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surli%[m|ai]|
+|tu|surli%[m|as]|
+|il|surli%[m|a]|
+|nous|surli%[m|âmes]|
+|vous|surli%[m|âtes]|
+|ils|surli%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surli%[m|é]|
+|tu|eus|surli%[m|é]|
+|il|eut|surli%[m|é]|
+|nous|e&ucirc;mes|surli%[m|é]|
+|vous|e&ucirc;tes|surli%[m|é]|
+|ils|eurent|surli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surli%[m|erai]|
+|tu|surli%[m|eras]|
+|il|surli%[m|era]|
+|nous|surli%[m|erons]|
+|vous|surli%[m|erez]|
+|ils|surli%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surli%[m|é]|
+|tu|auras|surli%[m|é]|
+|il|aura|surli%[m|é]|
+|nous|aurons|surli%[m|é]|
+|vous|aurez|surli%[m|é]|
+|ils|auront|surli%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surli%[m|erais]|
+|tu|surli%[m|erais]|
+|il|surli%[m|erait]|
+|nous|surli%[m|erions]|
+|vous|surli%[m|eriez]|
+|ils|surli%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surli%[m|é]|
+|tu|aurais|surli%[m|é]|
+|il|aurait|surli%[m|é]|
+|nous|aurions|surli%[m|é]|
+|vous|auriez|surli%[m|é]|
+|ils|auraient|surli%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surli%[m|e]|
+|que|tu|surli%[m|es]|
+|qu'|il|surli%[m|e]|
+|que|nous|surli%[m|ions]|
+|que|vous|surli%[m|iez]|
+|qu'|ils|surli%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surli%[m|é]|
+|que|tu|aies|surli%[m|é]|
+|qu'|il|ait|surli%[m|é]|
+|que|nous|ayons|surli%[m|é]|
+|que|vous|ayez|surli%[m|é]|
+|qu'|ils|aient|surli%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surli%[m|asse]|
+|que|tu|surli%[m|asses]|
+|qu'|il|surli%[m|ât]|
+|que|nous|surli%[m|assions]|
+|que|vous|surli%[m|assiez]|
+|qu'|ils|surli%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surli%[m|é]|
+|que|tu|eusses|surli%[m|é]|
+|qu'|il|eût|surli%[m|é]|
+|que|nous|eussions|surli%[m|é]|
+|que|vous|eussiez|surli%[m|é]|
+|qu'|ils|eussent|surli%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surli%[m|e]|
+|surli%[m|ons]|
+|surli%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surli%[m|é]|
+|ayons|surli%[m|é]|
+|ayez|surli%[m|é]|
+|]
+

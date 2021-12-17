@@ -1,0 +1,192 @@
+# acquérir %[clVerbGroup|3]
+[-
+acquérir quelque chose contre paiement. 
+parvenir à obtenir quelque chose. 
+arriver à avoir une certaine qualité, une certaine valeur. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|acqu%[m|érir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|acqu%[m|is]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|acqu%[m|érant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||acqu%[m|is]|
+|ayant|acqu%[m|is]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en acqu%[m|érant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|acqu%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|acqu%[m|iers]|
+|tu|acqu%[m|iers]|
+|il|acqu%[m|iert]|
+|nous|acqu%[m|érons]|
+|vous|acqu%[m|érez]|
+|ils|acqu%[m|ièrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|acqu%[m|is]|
+|tu|as |acqu%[m|is]|
+|il|a|acqu%[m|is]|
+|nous|avons|acqu%[m|is]|
+|vous|avez|acqu%[m|is]|
+|ils|ont|acqu%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|acqu%[m|érais]|
+|tu|acqu%[m|érais]|
+|il|acqu%[m|érait]|
+|nous|acqu%[m|érions]|
+|vous|acqu%[m|ériez]|
+|ils|acqu%[m|éraient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|acqu%[m|is]|
+|tu|avais|acqu%[m|is]|
+|il|avait|acqu%[m|is]|
+|nous|avions|acqu%[m|is]|
+|vous|aviez|acqu%[m|is]|
+|ils|avaient|acqu%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|acqu%[m|is]|
+|tu|acqu%[m|is]|
+|il|acqu%[m|it]|
+|nous|acqu%[m|îmes]|
+|vous|acqu%[m|îtes]|
+|ils|acqu%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|acqu%[m|is]|
+|tu|eus|acqu%[m|is]|
+|il|eut|acqu%[m|is]|
+|nous|e&ucirc;mes|acqu%[m|is]|
+|vous|e&ucirc;tes|acqu%[m|is]|
+|ils|eurent|acqu%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|acqu%[m|errai]|
+|tu|acqu%[m|erras]|
+|il|acqu%[m|erra]|
+|nous|acqu%[m|errons]|
+|vous|acqu%[m|errez]|
+|ils|acqu%[m|erront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|acqu%[m|is]|
+|tu|auras|acqu%[m|is]|
+|il|aura|acqu%[m|is]|
+|nous|aurons|acqu%[m|is]|
+|vous|aurez|acqu%[m|is]|
+|ils|auront|acqu%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|acqu%[m|errais]|
+|tu|acqu%[m|errais]|
+|il|acqu%[m|errait]|
+|nous|acqu%[m|errions]|
+|vous|acqu%[m|erriez]|
+|ils|acqu%[m|erraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|acqu%[m|is]|
+|tu|aurais|acqu%[m|is]|
+|il|aurait|acqu%[m|is]|
+|nous|aurions|acqu%[m|is]|
+|vous|auriez|acqu%[m|is]|
+|ils|auraient|acqu%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|acqu%[m|ière]|
+|que|tu|acqu%[m|ières]|
+|qu'|il|acqu%[m|ière]|
+|que|nous|acqu%[m|érions]|
+|que|vous|acqu%[m|ériez]|
+|qu'|ils|acqu%[m|ièrent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|acqu%[m|is]|
+|que|tu|aies|acqu%[m|is]|
+|qu'|il|ait|acqu%[m|is]|
+|que|nous|ayons|acqu%[m|is]|
+|que|vous|ayez|acqu%[m|is]|
+|qu'|ils|aient|acqu%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|acqu%[m|isse]|
+|que|tu|acqu%[m|isses]|
+|qu'|il|acqu%[m|ît]|
+|que|nous|acqu%[m|issions]|
+|que|vous|acqu%[m|issiez]|
+|qu'|ils|acqu%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|acqu%[m|is]|
+|que|tu|eusses|acqu%[m|is]|
+|qu'|il|eût|acqu%[m|is]|
+|que|nous|eussions|acqu%[m|is]|
+|que|vous|eussiez|acqu%[m|is]|
+|qu'|ils|eussent|acqu%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|acqu%[m|iers]|
+|acqu%[m|érons]|
+|acqu%[m|érez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|acqu%[m|is]|
+|ayons|acqu%[m|is]|
+|ayez|acqu%[m|is]|
+|]
+

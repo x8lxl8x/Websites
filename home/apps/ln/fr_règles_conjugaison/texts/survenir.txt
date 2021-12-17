@@ -1,0 +1,190 @@
+# survenir %[clVerbGroup|3]
+[-
+apparaître brusquement, à l'improviste. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surv%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|surv%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surv%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surv%[m|enu]|
+|étant|surv%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surv%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|surv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surv%[m|iens]|
+|tu|surv%[m|iens]|
+|il|surv%[m|ient]|
+|nous|surv%[m|enons]|
+|vous|surv%[m|enez]|
+|ils|surv%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|surv%[m|enu]|
+|tu|es|surv%[m|enu]|
+|il|est|surv%[m|enu]|
+|nous|sommes|surv%[m|enus]|
+|vous|êtes|surv%[m|enus]|
+|ils|sont|surv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surv%[m|enais]|
+|tu|surv%[m|enais]|
+|il|surv%[m|enait]|
+|nous|surv%[m|enions]|
+|vous|surv%[m|eniez]|
+|ils|surv%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|surv%[m|enu]|
+|tu|étais|surv%[m|enu]|
+|il|était|surv%[m|enu]|
+|nous|étions|surv%[m|enus]|
+|vous|étiez|surv%[m|enus]|
+|ils|étaient|surv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surv%[m|ins]|
+|tu|surv%[m|ins]|
+|il|surv%[m|int]|
+|nous|surv%[m|înmes]|
+|vous|surv%[m|întes]|
+|ils|surv%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|surv%[m|enu]|
+|tu|fus|surv%[m|enu]|
+|il|fut|surv%[m|enu]|
+|nous|fûmes|surv%[m|enus]|
+|vous|fûtes|surv%[m|enus]|
+|ils|furent|surv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surv%[m|iendrai]|
+|tu|surv%[m|iendras]|
+|il|surv%[m|iendra]|
+|nous|surv%[m|iendrons]|
+|vous|surv%[m|iendrez]|
+|ils|surv%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|surv%[m|enu]|
+|tu|seras|surv%[m|enu]|
+|il|sera|surv%[m|enu]|
+|nous|serons|surv%[m|enus]|
+|vous|serez|surv%[m|enus]|
+|ils|seront|surv%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surv%[m|iendrais]|
+|tu|surv%[m|iendrais]|
+|il|surv%[m|iendrait]|
+|nous|surv%[m|iendrions]|
+|vous|surv%[m|iendriez]|
+|ils|surv%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|surv%[m|enu]|
+|tu|serais|surv%[m|enu]|
+|il|serait|surv%[m|enu]|
+|nous|serions|surv%[m|enus]|
+|vous|seriez|surv%[m|enus]|
+|ils|seraient|surv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surv%[m|ienne]|
+|que|tu|surv%[m|iennes]|
+|qu'|il|surv%[m|ienne]|
+|que|nous|surv%[m|enions]|
+|que|vous|surv%[m|eniez]|
+|qu'|ils|surv%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|surv%[m|enu]|
+|que|tu|sois|surv%[m|enu]|
+|qu'|il|soit|surv%[m|enu]|
+|que|nous|soyons|surv%[m|enus]|
+|que|vous|soyez|surv%[m|enus]|
+|qu'|ils|soient|surv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surv%[m|insse]|
+|que|tu|surv%[m|insses]|
+|qu'|il|surv%[m|înt]|
+|que|nous|surv%[m|inssions]|
+|que|vous|surv%[m|inssiez]|
+|qu'|ils|surv%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|surv%[m|enu]|
+|que|tu|fusses|surv%[m|enu]|
+|qu'|il|fût|surv%[m|enu]|
+|que|nous|fussions|surv%[m|enus]|
+|que|vous|fussiez|surv%[m|enus]|
+|qu'|ils|fussent|surv%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surv%[m|iens]|
+|surv%[m|enons]|
+|surv%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|surv%[m|enu]|
+|soyons|surv%[m|enus]|
+|soyez|surv%[m|enus]|
+|]
+

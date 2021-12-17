@@ -1,0 +1,190 @@
+# quotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|quott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|quott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|quott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||quott%[m|é]|
+|ayant|quott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en quott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|quott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|quott%[m|e]|
+|tu|quott%[m|es]|
+|il|quott%[m|e]|
+|nous|quott%[m|ons]|
+|vous|quott%[m|ez]|
+|ils|quott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|quott%[m|é]|
+|tu|as |quott%[m|é]|
+|il|a|quott%[m|é]|
+|nous|avons|quott%[m|é]|
+|vous|avez|quott%[m|é]|
+|ils|ont|quott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|quott%[m|ais]|
+|tu|quott%[m|ais]|
+|il|quott%[m|ait]|
+|nous|quott%[m|ions]|
+|vous|quott%[m|iez]|
+|ils|quott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|quott%[m|é]|
+|tu|avais|quott%[m|é]|
+|il|avait|quott%[m|é]|
+|nous|avions|quott%[m|é]|
+|vous|aviez|quott%[m|é]|
+|ils|avaient|quott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|quott%[m|ai]|
+|tu|quott%[m|as]|
+|il|quott%[m|a]|
+|nous|quott%[m|âmes]|
+|vous|quott%[m|âtes]|
+|ils|quott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|quott%[m|é]|
+|tu|eus|quott%[m|é]|
+|il|eut|quott%[m|é]|
+|nous|e&ucirc;mes|quott%[m|é]|
+|vous|e&ucirc;tes|quott%[m|é]|
+|ils|eurent|quott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|quott%[m|erai]|
+|tu|quott%[m|eras]|
+|il|quott%[m|era]|
+|nous|quott%[m|erons]|
+|vous|quott%[m|erez]|
+|ils|quott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|quott%[m|é]|
+|tu|auras|quott%[m|é]|
+|il|aura|quott%[m|é]|
+|nous|aurons|quott%[m|é]|
+|vous|aurez|quott%[m|é]|
+|ils|auront|quott%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|quott%[m|erais]|
+|tu|quott%[m|erais]|
+|il|quott%[m|erait]|
+|nous|quott%[m|erions]|
+|vous|quott%[m|eriez]|
+|ils|quott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|quott%[m|é]|
+|tu|aurais|quott%[m|é]|
+|il|aurait|quott%[m|é]|
+|nous|aurions|quott%[m|é]|
+|vous|auriez|quott%[m|é]|
+|ils|auraient|quott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|quott%[m|e]|
+|que|tu|quott%[m|es]|
+|qu'|il|quott%[m|e]|
+|que|nous|quott%[m|ions]|
+|que|vous|quott%[m|iez]|
+|qu'|ils|quott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|quott%[m|é]|
+|que|tu|aies|quott%[m|é]|
+|qu'|il|ait|quott%[m|é]|
+|que|nous|ayons|quott%[m|é]|
+|que|vous|ayez|quott%[m|é]|
+|qu'|ils|aient|quott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|quott%[m|asse]|
+|que|tu|quott%[m|asses]|
+|qu'|il|quott%[m|ât]|
+|que|nous|quott%[m|assions]|
+|que|vous|quott%[m|assiez]|
+|qu'|ils|quott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|quott%[m|é]|
+|que|tu|eusses|quott%[m|é]|
+|qu'|il|eût|quott%[m|é]|
+|que|nous|eussions|quott%[m|é]|
+|que|vous|eussiez|quott%[m|é]|
+|qu'|ils|eussent|quott%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|quott%[m|e]|
+|quott%[m|ons]|
+|quott%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|quott%[m|é]|
+|ayons|quott%[m|é]|
+|ayez|quott%[m|é]|
+|]
+

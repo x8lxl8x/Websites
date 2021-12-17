@@ -1,0 +1,190 @@
+# chantourner %[clVerbGroup|1]
+[-
+découper une pièce suivant un certain profil. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|chantourn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|chantourn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||chantourn%[m|é]|
+|ayant|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en chantourn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|chantourn%[m|e]|
+|tu|chantourn%[m|es]|
+|il|chantourn%[m|e]|
+|nous|chantourn%[m|ons]|
+|vous|chantourn%[m|ez]|
+|ils|chantourn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|chantourn%[m|é]|
+|tu|as |chantourn%[m|é]|
+|il|a|chantourn%[m|é]|
+|nous|avons|chantourn%[m|é]|
+|vous|avez|chantourn%[m|é]|
+|ils|ont|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|chantourn%[m|ais]|
+|tu|chantourn%[m|ais]|
+|il|chantourn%[m|ait]|
+|nous|chantourn%[m|ions]|
+|vous|chantourn%[m|iez]|
+|ils|chantourn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|chantourn%[m|é]|
+|tu|avais|chantourn%[m|é]|
+|il|avait|chantourn%[m|é]|
+|nous|avions|chantourn%[m|é]|
+|vous|aviez|chantourn%[m|é]|
+|ils|avaient|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|chantourn%[m|ai]|
+|tu|chantourn%[m|as]|
+|il|chantourn%[m|a]|
+|nous|chantourn%[m|âmes]|
+|vous|chantourn%[m|âtes]|
+|ils|chantourn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|chantourn%[m|é]|
+|tu|eus|chantourn%[m|é]|
+|il|eut|chantourn%[m|é]|
+|nous|e&ucirc;mes|chantourn%[m|é]|
+|vous|e&ucirc;tes|chantourn%[m|é]|
+|ils|eurent|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|chantourn%[m|erai]|
+|tu|chantourn%[m|eras]|
+|il|chantourn%[m|era]|
+|nous|chantourn%[m|erons]|
+|vous|chantourn%[m|erez]|
+|ils|chantourn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|chantourn%[m|é]|
+|tu|auras|chantourn%[m|é]|
+|il|aura|chantourn%[m|é]|
+|nous|aurons|chantourn%[m|é]|
+|vous|aurez|chantourn%[m|é]|
+|ils|auront|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|chantourn%[m|erais]|
+|tu|chantourn%[m|erais]|
+|il|chantourn%[m|erait]|
+|nous|chantourn%[m|erions]|
+|vous|chantourn%[m|eriez]|
+|ils|chantourn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|chantourn%[m|é]|
+|tu|aurais|chantourn%[m|é]|
+|il|aurait|chantourn%[m|é]|
+|nous|aurions|chantourn%[m|é]|
+|vous|auriez|chantourn%[m|é]|
+|ils|auraient|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|chantourn%[m|e]|
+|que|tu|chantourn%[m|es]|
+|qu'|il|chantourn%[m|e]|
+|que|nous|chantourn%[m|ions]|
+|que|vous|chantourn%[m|iez]|
+|qu'|ils|chantourn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|chantourn%[m|é]|
+|que|tu|aies|chantourn%[m|é]|
+|qu'|il|ait|chantourn%[m|é]|
+|que|nous|ayons|chantourn%[m|é]|
+|que|vous|ayez|chantourn%[m|é]|
+|qu'|ils|aient|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|chantourn%[m|asse]|
+|que|tu|chantourn%[m|asses]|
+|qu'|il|chantourn%[m|ât]|
+|que|nous|chantourn%[m|assions]|
+|que|vous|chantourn%[m|assiez]|
+|qu'|ils|chantourn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|chantourn%[m|é]|
+|que|tu|eusses|chantourn%[m|é]|
+|qu'|il|eût|chantourn%[m|é]|
+|que|nous|eussions|chantourn%[m|é]|
+|que|vous|eussiez|chantourn%[m|é]|
+|qu'|ils|eussent|chantourn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|chantourn%[m|e]|
+|chantourn%[m|ons]|
+|chantourn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|chantourn%[m|é]|
+|ayons|chantourn%[m|é]|
+|ayez|chantourn%[m|é]|
+|]
+

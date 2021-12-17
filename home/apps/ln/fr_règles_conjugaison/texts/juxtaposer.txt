@@ -1,0 +1,190 @@
+# juxtaposer %[clVerbGroup|1]
+[-
+mettre deux choses côte à côte. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|juxtapos%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|juxtapos%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||juxtapos%[m|é]|
+|ayant|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en juxtapos%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|juxtapos%[m|e]|
+|tu|juxtapos%[m|es]|
+|il|juxtapos%[m|e]|
+|nous|juxtapos%[m|ons]|
+|vous|juxtapos%[m|ez]|
+|ils|juxtapos%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|juxtapos%[m|é]|
+|tu|as |juxtapos%[m|é]|
+|il|a|juxtapos%[m|é]|
+|nous|avons|juxtapos%[m|é]|
+|vous|avez|juxtapos%[m|é]|
+|ils|ont|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|juxtapos%[m|ais]|
+|tu|juxtapos%[m|ais]|
+|il|juxtapos%[m|ait]|
+|nous|juxtapos%[m|ions]|
+|vous|juxtapos%[m|iez]|
+|ils|juxtapos%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|juxtapos%[m|é]|
+|tu|avais|juxtapos%[m|é]|
+|il|avait|juxtapos%[m|é]|
+|nous|avions|juxtapos%[m|é]|
+|vous|aviez|juxtapos%[m|é]|
+|ils|avaient|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|juxtapos%[m|ai]|
+|tu|juxtapos%[m|as]|
+|il|juxtapos%[m|a]|
+|nous|juxtapos%[m|âmes]|
+|vous|juxtapos%[m|âtes]|
+|ils|juxtapos%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|juxtapos%[m|é]|
+|tu|eus|juxtapos%[m|é]|
+|il|eut|juxtapos%[m|é]|
+|nous|e&ucirc;mes|juxtapos%[m|é]|
+|vous|e&ucirc;tes|juxtapos%[m|é]|
+|ils|eurent|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|juxtapos%[m|erai]|
+|tu|juxtapos%[m|eras]|
+|il|juxtapos%[m|era]|
+|nous|juxtapos%[m|erons]|
+|vous|juxtapos%[m|erez]|
+|ils|juxtapos%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|juxtapos%[m|é]|
+|tu|auras|juxtapos%[m|é]|
+|il|aura|juxtapos%[m|é]|
+|nous|aurons|juxtapos%[m|é]|
+|vous|aurez|juxtapos%[m|é]|
+|ils|auront|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|juxtapos%[m|erais]|
+|tu|juxtapos%[m|erais]|
+|il|juxtapos%[m|erait]|
+|nous|juxtapos%[m|erions]|
+|vous|juxtapos%[m|eriez]|
+|ils|juxtapos%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|juxtapos%[m|é]|
+|tu|aurais|juxtapos%[m|é]|
+|il|aurait|juxtapos%[m|é]|
+|nous|aurions|juxtapos%[m|é]|
+|vous|auriez|juxtapos%[m|é]|
+|ils|auraient|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|juxtapos%[m|e]|
+|que|tu|juxtapos%[m|es]|
+|qu'|il|juxtapos%[m|e]|
+|que|nous|juxtapos%[m|ions]|
+|que|vous|juxtapos%[m|iez]|
+|qu'|ils|juxtapos%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|juxtapos%[m|é]|
+|que|tu|aies|juxtapos%[m|é]|
+|qu'|il|ait|juxtapos%[m|é]|
+|que|nous|ayons|juxtapos%[m|é]|
+|que|vous|ayez|juxtapos%[m|é]|
+|qu'|ils|aient|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|juxtapos%[m|asse]|
+|que|tu|juxtapos%[m|asses]|
+|qu'|il|juxtapos%[m|ât]|
+|que|nous|juxtapos%[m|assions]|
+|que|vous|juxtapos%[m|assiez]|
+|qu'|ils|juxtapos%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|juxtapos%[m|é]|
+|que|tu|eusses|juxtapos%[m|é]|
+|qu'|il|eût|juxtapos%[m|é]|
+|que|nous|eussions|juxtapos%[m|é]|
+|que|vous|eussiez|juxtapos%[m|é]|
+|qu'|ils|eussent|juxtapos%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|juxtapos%[m|e]|
+|juxtapos%[m|ons]|
+|juxtapos%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|juxtapos%[m|é]|
+|ayons|juxtapos%[m|é]|
+|ayez|juxtapos%[m|é]|
+|]
+

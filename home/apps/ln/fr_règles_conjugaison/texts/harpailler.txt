@@ -1,0 +1,190 @@
+# harpailler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|harpaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|harpaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||harpaill%[m|é]|
+|ayant|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en harpaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|harpaill%[m|e]|
+|tu|harpaill%[m|es]|
+|il|harpaill%[m|e]|
+|nous|harpaill%[m|ons]|
+|vous|harpaill%[m|ez]|
+|ils|harpaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|harpaill%[m|é]|
+|tu|as |harpaill%[m|é]|
+|il|a|harpaill%[m|é]|
+|nous|avons|harpaill%[m|é]|
+|vous|avez|harpaill%[m|é]|
+|ils|ont|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|harpaill%[m|ais]|
+|tu|harpaill%[m|ais]|
+|il|harpaill%[m|ait]|
+|nous|harpaill%[m|ions]|
+|vous|harpaill%[m|iez]|
+|ils|harpaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|harpaill%[m|é]|
+|tu|avais|harpaill%[m|é]|
+|il|avait|harpaill%[m|é]|
+|nous|avions|harpaill%[m|é]|
+|vous|aviez|harpaill%[m|é]|
+|ils|avaient|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|harpaill%[m|ai]|
+|tu|harpaill%[m|as]|
+|il|harpaill%[m|a]|
+|nous|harpaill%[m|âmes]|
+|vous|harpaill%[m|âtes]|
+|ils|harpaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|harpaill%[m|é]|
+|tu|eus|harpaill%[m|é]|
+|il|eut|harpaill%[m|é]|
+|nous|e&ucirc;mes|harpaill%[m|é]|
+|vous|e&ucirc;tes|harpaill%[m|é]|
+|ils|eurent|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|harpaill%[m|erai]|
+|tu|harpaill%[m|eras]|
+|il|harpaill%[m|era]|
+|nous|harpaill%[m|erons]|
+|vous|harpaill%[m|erez]|
+|ils|harpaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|harpaill%[m|é]|
+|tu|auras|harpaill%[m|é]|
+|il|aura|harpaill%[m|é]|
+|nous|aurons|harpaill%[m|é]|
+|vous|aurez|harpaill%[m|é]|
+|ils|auront|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|harpaill%[m|erais]|
+|tu|harpaill%[m|erais]|
+|il|harpaill%[m|erait]|
+|nous|harpaill%[m|erions]|
+|vous|harpaill%[m|eriez]|
+|ils|harpaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|harpaill%[m|é]|
+|tu|aurais|harpaill%[m|é]|
+|il|aurait|harpaill%[m|é]|
+|nous|aurions|harpaill%[m|é]|
+|vous|auriez|harpaill%[m|é]|
+|ils|auraient|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|harpaill%[m|e]|
+|que|tu|harpaill%[m|es]|
+|qu'|il|harpaill%[m|e]|
+|que|nous|harpaill%[m|ions]|
+|que|vous|harpaill%[m|iez]|
+|qu'|ils|harpaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|harpaill%[m|é]|
+|que|tu|aies|harpaill%[m|é]|
+|qu'|il|ait|harpaill%[m|é]|
+|que|nous|ayons|harpaill%[m|é]|
+|que|vous|ayez|harpaill%[m|é]|
+|qu'|ils|aient|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|harpaill%[m|asse]|
+|que|tu|harpaill%[m|asses]|
+|qu'|il|harpaill%[m|ât]|
+|que|nous|harpaill%[m|assions]|
+|que|vous|harpaill%[m|assiez]|
+|qu'|ils|harpaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|harpaill%[m|é]|
+|que|tu|eusses|harpaill%[m|é]|
+|qu'|il|eût|harpaill%[m|é]|
+|que|nous|eussions|harpaill%[m|é]|
+|que|vous|eussiez|harpaill%[m|é]|
+|qu'|ils|eussent|harpaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|harpaill%[m|e]|
+|harpaill%[m|ons]|
+|harpaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|harpaill%[m|é]|
+|ayons|harpaill%[m|é]|
+|ayez|harpaill%[m|é]|
+|]
+

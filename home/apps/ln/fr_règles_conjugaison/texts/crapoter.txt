@@ -1,0 +1,190 @@
+# crapoter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|crapot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|crapot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|crapot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||crapot%[m|é]|
+|ayant|crapot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en crapot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|crapot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|crapot%[m|e]|
+|tu|crapot%[m|es]|
+|il|crapot%[m|e]|
+|nous|crapot%[m|ons]|
+|vous|crapot%[m|ez]|
+|ils|crapot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|crapot%[m|é]|
+|tu|as |crapot%[m|é]|
+|il|a|crapot%[m|é]|
+|nous|avons|crapot%[m|é]|
+|vous|avez|crapot%[m|é]|
+|ils|ont|crapot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|crapot%[m|ais]|
+|tu|crapot%[m|ais]|
+|il|crapot%[m|ait]|
+|nous|crapot%[m|ions]|
+|vous|crapot%[m|iez]|
+|ils|crapot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|crapot%[m|é]|
+|tu|avais|crapot%[m|é]|
+|il|avait|crapot%[m|é]|
+|nous|avions|crapot%[m|é]|
+|vous|aviez|crapot%[m|é]|
+|ils|avaient|crapot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|crapot%[m|ai]|
+|tu|crapot%[m|as]|
+|il|crapot%[m|a]|
+|nous|crapot%[m|âmes]|
+|vous|crapot%[m|âtes]|
+|ils|crapot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|crapot%[m|é]|
+|tu|eus|crapot%[m|é]|
+|il|eut|crapot%[m|é]|
+|nous|e&ucirc;mes|crapot%[m|é]|
+|vous|e&ucirc;tes|crapot%[m|é]|
+|ils|eurent|crapot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|crapot%[m|erai]|
+|tu|crapot%[m|eras]|
+|il|crapot%[m|era]|
+|nous|crapot%[m|erons]|
+|vous|crapot%[m|erez]|
+|ils|crapot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|crapot%[m|é]|
+|tu|auras|crapot%[m|é]|
+|il|aura|crapot%[m|é]|
+|nous|aurons|crapot%[m|é]|
+|vous|aurez|crapot%[m|é]|
+|ils|auront|crapot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|crapot%[m|erais]|
+|tu|crapot%[m|erais]|
+|il|crapot%[m|erait]|
+|nous|crapot%[m|erions]|
+|vous|crapot%[m|eriez]|
+|ils|crapot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|crapot%[m|é]|
+|tu|aurais|crapot%[m|é]|
+|il|aurait|crapot%[m|é]|
+|nous|aurions|crapot%[m|é]|
+|vous|auriez|crapot%[m|é]|
+|ils|auraient|crapot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|crapot%[m|e]|
+|que|tu|crapot%[m|es]|
+|qu'|il|crapot%[m|e]|
+|que|nous|crapot%[m|ions]|
+|que|vous|crapot%[m|iez]|
+|qu'|ils|crapot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|crapot%[m|é]|
+|que|tu|aies|crapot%[m|é]|
+|qu'|il|ait|crapot%[m|é]|
+|que|nous|ayons|crapot%[m|é]|
+|que|vous|ayez|crapot%[m|é]|
+|qu'|ils|aient|crapot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|crapot%[m|asse]|
+|que|tu|crapot%[m|asses]|
+|qu'|il|crapot%[m|ât]|
+|que|nous|crapot%[m|assions]|
+|que|vous|crapot%[m|assiez]|
+|qu'|ils|crapot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|crapot%[m|é]|
+|que|tu|eusses|crapot%[m|é]|
+|qu'|il|eût|crapot%[m|é]|
+|que|nous|eussions|crapot%[m|é]|
+|que|vous|eussiez|crapot%[m|é]|
+|qu'|ils|eussent|crapot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|crapot%[m|e]|
+|crapot%[m|ons]|
+|crapot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|crapot%[m|é]|
+|ayons|crapot%[m|é]|
+|ayez|crapot%[m|é]|
+|]
+

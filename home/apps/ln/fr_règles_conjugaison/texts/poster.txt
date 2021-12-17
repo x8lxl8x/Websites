@@ -1,0 +1,190 @@
+# poster %[clVerbGroup|1]
+[-
+placer à un poste déterminé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|post%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|post%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|post%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||post%[m|é]|
+|ayant|post%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en post%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|post%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|post%[m|e]|
+|tu|post%[m|es]|
+|il|post%[m|e]|
+|nous|post%[m|ons]|
+|vous|post%[m|ez]|
+|ils|post%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|post%[m|é]|
+|tu|as |post%[m|é]|
+|il|a|post%[m|é]|
+|nous|avons|post%[m|é]|
+|vous|avez|post%[m|é]|
+|ils|ont|post%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|post%[m|ais]|
+|tu|post%[m|ais]|
+|il|post%[m|ait]|
+|nous|post%[m|ions]|
+|vous|post%[m|iez]|
+|ils|post%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|post%[m|é]|
+|tu|avais|post%[m|é]|
+|il|avait|post%[m|é]|
+|nous|avions|post%[m|é]|
+|vous|aviez|post%[m|é]|
+|ils|avaient|post%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|post%[m|ai]|
+|tu|post%[m|as]|
+|il|post%[m|a]|
+|nous|post%[m|âmes]|
+|vous|post%[m|âtes]|
+|ils|post%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|post%[m|é]|
+|tu|eus|post%[m|é]|
+|il|eut|post%[m|é]|
+|nous|e&ucirc;mes|post%[m|é]|
+|vous|e&ucirc;tes|post%[m|é]|
+|ils|eurent|post%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|post%[m|erai]|
+|tu|post%[m|eras]|
+|il|post%[m|era]|
+|nous|post%[m|erons]|
+|vous|post%[m|erez]|
+|ils|post%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|post%[m|é]|
+|tu|auras|post%[m|é]|
+|il|aura|post%[m|é]|
+|nous|aurons|post%[m|é]|
+|vous|aurez|post%[m|é]|
+|ils|auront|post%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|post%[m|erais]|
+|tu|post%[m|erais]|
+|il|post%[m|erait]|
+|nous|post%[m|erions]|
+|vous|post%[m|eriez]|
+|ils|post%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|post%[m|é]|
+|tu|aurais|post%[m|é]|
+|il|aurait|post%[m|é]|
+|nous|aurions|post%[m|é]|
+|vous|auriez|post%[m|é]|
+|ils|auraient|post%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|post%[m|e]|
+|que|tu|post%[m|es]|
+|qu'|il|post%[m|e]|
+|que|nous|post%[m|ions]|
+|que|vous|post%[m|iez]|
+|qu'|ils|post%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|post%[m|é]|
+|que|tu|aies|post%[m|é]|
+|qu'|il|ait|post%[m|é]|
+|que|nous|ayons|post%[m|é]|
+|que|vous|ayez|post%[m|é]|
+|qu'|ils|aient|post%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|post%[m|asse]|
+|que|tu|post%[m|asses]|
+|qu'|il|post%[m|ât]|
+|que|nous|post%[m|assions]|
+|que|vous|post%[m|assiez]|
+|qu'|ils|post%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|post%[m|é]|
+|que|tu|eusses|post%[m|é]|
+|qu'|il|eût|post%[m|é]|
+|que|nous|eussions|post%[m|é]|
+|que|vous|eussiez|post%[m|é]|
+|qu'|ils|eussent|post%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|post%[m|e]|
+|post%[m|ons]|
+|post%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|post%[m|é]|
+|ayons|post%[m|é]|
+|ayez|post%[m|é]|
+|]
+

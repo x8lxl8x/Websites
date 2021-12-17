@@ -1,0 +1,190 @@
+# conobler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|conobl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|conobl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|conobl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||conobl%[m|é]|
+|ayant|conobl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en conobl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|conobl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|conobl%[m|e]|
+|tu|conobl%[m|es]|
+|il|conobl%[m|e]|
+|nous|conobl%[m|ons]|
+|vous|conobl%[m|ez]|
+|ils|conobl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|conobl%[m|é]|
+|tu|as |conobl%[m|é]|
+|il|a|conobl%[m|é]|
+|nous|avons|conobl%[m|é]|
+|vous|avez|conobl%[m|é]|
+|ils|ont|conobl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|conobl%[m|ais]|
+|tu|conobl%[m|ais]|
+|il|conobl%[m|ait]|
+|nous|conobl%[m|ions]|
+|vous|conobl%[m|iez]|
+|ils|conobl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|conobl%[m|é]|
+|tu|avais|conobl%[m|é]|
+|il|avait|conobl%[m|é]|
+|nous|avions|conobl%[m|é]|
+|vous|aviez|conobl%[m|é]|
+|ils|avaient|conobl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|conobl%[m|ai]|
+|tu|conobl%[m|as]|
+|il|conobl%[m|a]|
+|nous|conobl%[m|âmes]|
+|vous|conobl%[m|âtes]|
+|ils|conobl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|conobl%[m|é]|
+|tu|eus|conobl%[m|é]|
+|il|eut|conobl%[m|é]|
+|nous|e&ucirc;mes|conobl%[m|é]|
+|vous|e&ucirc;tes|conobl%[m|é]|
+|ils|eurent|conobl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|conobl%[m|erai]|
+|tu|conobl%[m|eras]|
+|il|conobl%[m|era]|
+|nous|conobl%[m|erons]|
+|vous|conobl%[m|erez]|
+|ils|conobl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|conobl%[m|é]|
+|tu|auras|conobl%[m|é]|
+|il|aura|conobl%[m|é]|
+|nous|aurons|conobl%[m|é]|
+|vous|aurez|conobl%[m|é]|
+|ils|auront|conobl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|conobl%[m|erais]|
+|tu|conobl%[m|erais]|
+|il|conobl%[m|erait]|
+|nous|conobl%[m|erions]|
+|vous|conobl%[m|eriez]|
+|ils|conobl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|conobl%[m|é]|
+|tu|aurais|conobl%[m|é]|
+|il|aurait|conobl%[m|é]|
+|nous|aurions|conobl%[m|é]|
+|vous|auriez|conobl%[m|é]|
+|ils|auraient|conobl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|conobl%[m|e]|
+|que|tu|conobl%[m|es]|
+|qu'|il|conobl%[m|e]|
+|que|nous|conobl%[m|ions]|
+|que|vous|conobl%[m|iez]|
+|qu'|ils|conobl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|conobl%[m|é]|
+|que|tu|aies|conobl%[m|é]|
+|qu'|il|ait|conobl%[m|é]|
+|que|nous|ayons|conobl%[m|é]|
+|que|vous|ayez|conobl%[m|é]|
+|qu'|ils|aient|conobl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|conobl%[m|asse]|
+|que|tu|conobl%[m|asses]|
+|qu'|il|conobl%[m|ât]|
+|que|nous|conobl%[m|assions]|
+|que|vous|conobl%[m|assiez]|
+|qu'|ils|conobl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|conobl%[m|é]|
+|que|tu|eusses|conobl%[m|é]|
+|qu'|il|eût|conobl%[m|é]|
+|que|nous|eussions|conobl%[m|é]|
+|que|vous|eussiez|conobl%[m|é]|
+|qu'|ils|eussent|conobl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|conobl%[m|e]|
+|conobl%[m|ons]|
+|conobl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|conobl%[m|é]|
+|ayons|conobl%[m|é]|
+|ayez|conobl%[m|é]|
+|]
+

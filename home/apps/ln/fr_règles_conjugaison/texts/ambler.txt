@@ -1,0 +1,190 @@
+# ambler %[clVerbGroup|1]
+[-
+aller en levant ensemble les deux jambes du même côté. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ambl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ambl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ambl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ambl%[m|é]|
+|ayant|ambl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ambl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ambl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ambl%[m|e]|
+|tu|ambl%[m|es]|
+|il|ambl%[m|e]|
+|nous|ambl%[m|ons]|
+|vous|ambl%[m|ez]|
+|ils|ambl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ambl%[m|é]|
+|tu|as |ambl%[m|é]|
+|il|a|ambl%[m|é]|
+|nous|avons|ambl%[m|é]|
+|vous|avez|ambl%[m|é]|
+|ils|ont|ambl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ambl%[m|ais]|
+|tu|ambl%[m|ais]|
+|il|ambl%[m|ait]|
+|nous|ambl%[m|ions]|
+|vous|ambl%[m|iez]|
+|ils|ambl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ambl%[m|é]|
+|tu|avais|ambl%[m|é]|
+|il|avait|ambl%[m|é]|
+|nous|avions|ambl%[m|é]|
+|vous|aviez|ambl%[m|é]|
+|ils|avaient|ambl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ambl%[m|ai]|
+|tu|ambl%[m|as]|
+|il|ambl%[m|a]|
+|nous|ambl%[m|âmes]|
+|vous|ambl%[m|âtes]|
+|ils|ambl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ambl%[m|é]|
+|tu|eus|ambl%[m|é]|
+|il|eut|ambl%[m|é]|
+|nous|e&ucirc;mes|ambl%[m|é]|
+|vous|e&ucirc;tes|ambl%[m|é]|
+|ils|eurent|ambl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ambl%[m|erai]|
+|tu|ambl%[m|eras]|
+|il|ambl%[m|era]|
+|nous|ambl%[m|erons]|
+|vous|ambl%[m|erez]|
+|ils|ambl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ambl%[m|é]|
+|tu|auras|ambl%[m|é]|
+|il|aura|ambl%[m|é]|
+|nous|aurons|ambl%[m|é]|
+|vous|aurez|ambl%[m|é]|
+|ils|auront|ambl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ambl%[m|erais]|
+|tu|ambl%[m|erais]|
+|il|ambl%[m|erait]|
+|nous|ambl%[m|erions]|
+|vous|ambl%[m|eriez]|
+|ils|ambl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ambl%[m|é]|
+|tu|aurais|ambl%[m|é]|
+|il|aurait|ambl%[m|é]|
+|nous|aurions|ambl%[m|é]|
+|vous|auriez|ambl%[m|é]|
+|ils|auraient|ambl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ambl%[m|e]|
+|que|tu|ambl%[m|es]|
+|qu'|il|ambl%[m|e]|
+|que|nous|ambl%[m|ions]|
+|que|vous|ambl%[m|iez]|
+|qu'|ils|ambl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ambl%[m|é]|
+|que|tu|aies|ambl%[m|é]|
+|qu'|il|ait|ambl%[m|é]|
+|que|nous|ayons|ambl%[m|é]|
+|que|vous|ayez|ambl%[m|é]|
+|qu'|ils|aient|ambl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ambl%[m|asse]|
+|que|tu|ambl%[m|asses]|
+|qu'|il|ambl%[m|ât]|
+|que|nous|ambl%[m|assions]|
+|que|vous|ambl%[m|assiez]|
+|qu'|ils|ambl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ambl%[m|é]|
+|que|tu|eusses|ambl%[m|é]|
+|qu'|il|eût|ambl%[m|é]|
+|que|nous|eussions|ambl%[m|é]|
+|que|vous|eussiez|ambl%[m|é]|
+|qu'|ils|eussent|ambl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ambl%[m|e]|
+|ambl%[m|ons]|
+|ambl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ambl%[m|é]|
+|ayons|ambl%[m|é]|
+|ayez|ambl%[m|é]|
+|]
+

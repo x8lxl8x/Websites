@@ -1,0 +1,22 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Личные сведения</h4>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<p class='clInputName01'>Фамилия      </p><p>$strClientNameLast</p>
+<p class='clInputName01'>Имя        </p><p>$strClientNameFirst</p>
+<p class='clInputName01'>Год рождения    </p><p><input id='id0101' name='var0101' type='text' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' maxlength='04' size='04'></p>
+<p class='clInputName01'>Страна проживания  </p><p><input id='id0102' name='var0102' type='text' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' maxlength='50' size='50'></p>
+<p class='clInputName01'>Город проживания  </p><p><input id='id0103' name='var0103' type='text' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )' maxlength='50' size='50'></p>
+<p class='clInputName01'>Род занятий    </p><p><input id='id0104' name='var0104' type='text' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )' maxlength='50' size='50'></p>
+
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

@@ -1,0 +1,190 @@
+# repriser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repris%[m|é]|
+|ayant|repris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repris%[m|e]|
+|tu|repris%[m|es]|
+|il|repris%[m|e]|
+|nous|repris%[m|ons]|
+|vous|repris%[m|ez]|
+|ils|repris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repris%[m|é]|
+|tu|as |repris%[m|é]|
+|il|a|repris%[m|é]|
+|nous|avons|repris%[m|é]|
+|vous|avez|repris%[m|é]|
+|ils|ont|repris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repris%[m|ais]|
+|tu|repris%[m|ais]|
+|il|repris%[m|ait]|
+|nous|repris%[m|ions]|
+|vous|repris%[m|iez]|
+|ils|repris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repris%[m|é]|
+|tu|avais|repris%[m|é]|
+|il|avait|repris%[m|é]|
+|nous|avions|repris%[m|é]|
+|vous|aviez|repris%[m|é]|
+|ils|avaient|repris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repris%[m|ai]|
+|tu|repris%[m|as]|
+|il|repris%[m|a]|
+|nous|repris%[m|âmes]|
+|vous|repris%[m|âtes]|
+|ils|repris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repris%[m|é]|
+|tu|eus|repris%[m|é]|
+|il|eut|repris%[m|é]|
+|nous|e&ucirc;mes|repris%[m|é]|
+|vous|e&ucirc;tes|repris%[m|é]|
+|ils|eurent|repris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repris%[m|erai]|
+|tu|repris%[m|eras]|
+|il|repris%[m|era]|
+|nous|repris%[m|erons]|
+|vous|repris%[m|erez]|
+|ils|repris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repris%[m|é]|
+|tu|auras|repris%[m|é]|
+|il|aura|repris%[m|é]|
+|nous|aurons|repris%[m|é]|
+|vous|aurez|repris%[m|é]|
+|ils|auront|repris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repris%[m|erais]|
+|tu|repris%[m|erais]|
+|il|repris%[m|erait]|
+|nous|repris%[m|erions]|
+|vous|repris%[m|eriez]|
+|ils|repris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repris%[m|é]|
+|tu|aurais|repris%[m|é]|
+|il|aurait|repris%[m|é]|
+|nous|aurions|repris%[m|é]|
+|vous|auriez|repris%[m|é]|
+|ils|auraient|repris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repris%[m|e]|
+|que|tu|repris%[m|es]|
+|qu'|il|repris%[m|e]|
+|que|nous|repris%[m|ions]|
+|que|vous|repris%[m|iez]|
+|qu'|ils|repris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repris%[m|é]|
+|que|tu|aies|repris%[m|é]|
+|qu'|il|ait|repris%[m|é]|
+|que|nous|ayons|repris%[m|é]|
+|que|vous|ayez|repris%[m|é]|
+|qu'|ils|aient|repris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repris%[m|asse]|
+|que|tu|repris%[m|asses]|
+|qu'|il|repris%[m|ât]|
+|que|nous|repris%[m|assions]|
+|que|vous|repris%[m|assiez]|
+|qu'|ils|repris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repris%[m|é]|
+|que|tu|eusses|repris%[m|é]|
+|qu'|il|eût|repris%[m|é]|
+|que|nous|eussions|repris%[m|é]|
+|que|vous|eussiez|repris%[m|é]|
+|qu'|ils|eussent|repris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repris%[m|e]|
+|repris%[m|ons]|
+|repris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repris%[m|é]|
+|ayons|repris%[m|é]|
+|ayez|repris%[m|é]|
+|]
+

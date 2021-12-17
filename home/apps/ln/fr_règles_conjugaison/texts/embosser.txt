@@ -1,0 +1,191 @@
+# embosser %[clVerbGroup|1]
+[-
+imprimer en relief, sur un titre de paiement. 
+amarrer un navire dans une direction déterminée. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|emboss%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|emboss%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|emboss%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||emboss%[m|é]|
+|ayant|emboss%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en emboss%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|emboss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|emboss%[m|e]|
+|tu|emboss%[m|es]|
+|il|emboss%[m|e]|
+|nous|emboss%[m|ons]|
+|vous|emboss%[m|ez]|
+|ils|emboss%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|emboss%[m|é]|
+|tu|as |emboss%[m|é]|
+|il|a|emboss%[m|é]|
+|nous|avons|emboss%[m|é]|
+|vous|avez|emboss%[m|é]|
+|ils|ont|emboss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|emboss%[m|ais]|
+|tu|emboss%[m|ais]|
+|il|emboss%[m|ait]|
+|nous|emboss%[m|ions]|
+|vous|emboss%[m|iez]|
+|ils|emboss%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|emboss%[m|é]|
+|tu|avais|emboss%[m|é]|
+|il|avait|emboss%[m|é]|
+|nous|avions|emboss%[m|é]|
+|vous|aviez|emboss%[m|é]|
+|ils|avaient|emboss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|emboss%[m|ai]|
+|tu|emboss%[m|as]|
+|il|emboss%[m|a]|
+|nous|emboss%[m|âmes]|
+|vous|emboss%[m|âtes]|
+|ils|emboss%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|emboss%[m|é]|
+|tu|eus|emboss%[m|é]|
+|il|eut|emboss%[m|é]|
+|nous|e&ucirc;mes|emboss%[m|é]|
+|vous|e&ucirc;tes|emboss%[m|é]|
+|ils|eurent|emboss%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|emboss%[m|erai]|
+|tu|emboss%[m|eras]|
+|il|emboss%[m|era]|
+|nous|emboss%[m|erons]|
+|vous|emboss%[m|erez]|
+|ils|emboss%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|emboss%[m|é]|
+|tu|auras|emboss%[m|é]|
+|il|aura|emboss%[m|é]|
+|nous|aurons|emboss%[m|é]|
+|vous|aurez|emboss%[m|é]|
+|ils|auront|emboss%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|emboss%[m|erais]|
+|tu|emboss%[m|erais]|
+|il|emboss%[m|erait]|
+|nous|emboss%[m|erions]|
+|vous|emboss%[m|eriez]|
+|ils|emboss%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|emboss%[m|é]|
+|tu|aurais|emboss%[m|é]|
+|il|aurait|emboss%[m|é]|
+|nous|aurions|emboss%[m|é]|
+|vous|auriez|emboss%[m|é]|
+|ils|auraient|emboss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|emboss%[m|e]|
+|que|tu|emboss%[m|es]|
+|qu'|il|emboss%[m|e]|
+|que|nous|emboss%[m|ions]|
+|que|vous|emboss%[m|iez]|
+|qu'|ils|emboss%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|emboss%[m|é]|
+|que|tu|aies|emboss%[m|é]|
+|qu'|il|ait|emboss%[m|é]|
+|que|nous|ayons|emboss%[m|é]|
+|que|vous|ayez|emboss%[m|é]|
+|qu'|ils|aient|emboss%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|emboss%[m|asse]|
+|que|tu|emboss%[m|asses]|
+|qu'|il|emboss%[m|ât]|
+|que|nous|emboss%[m|assions]|
+|que|vous|emboss%[m|assiez]|
+|qu'|ils|emboss%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|emboss%[m|é]|
+|que|tu|eusses|emboss%[m|é]|
+|qu'|il|eût|emboss%[m|é]|
+|que|nous|eussions|emboss%[m|é]|
+|que|vous|eussiez|emboss%[m|é]|
+|qu'|ils|eussent|emboss%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emboss%[m|e]|
+|emboss%[m|ons]|
+|emboss%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|emboss%[m|é]|
+|ayons|emboss%[m|é]|
+|ayez|emboss%[m|é]|
+|]
+

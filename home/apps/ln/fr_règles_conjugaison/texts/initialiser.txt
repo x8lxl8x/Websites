@@ -1,0 +1,190 @@
+# initialiser %[clVerbGroup|1]
+[-
+remplacer par une valeur par défaut, ou initiale, la valeur d'une variable. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|initialis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|initialis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|initialis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||initialis%[m|é]|
+|ayant|initialis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en initialis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|initialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|initialis%[m|e]|
+|tu|initialis%[m|es]|
+|il|initialis%[m|e]|
+|nous|initialis%[m|ons]|
+|vous|initialis%[m|ez]|
+|ils|initialis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|initialis%[m|é]|
+|tu|as |initialis%[m|é]|
+|il|a|initialis%[m|é]|
+|nous|avons|initialis%[m|é]|
+|vous|avez|initialis%[m|é]|
+|ils|ont|initialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|initialis%[m|ais]|
+|tu|initialis%[m|ais]|
+|il|initialis%[m|ait]|
+|nous|initialis%[m|ions]|
+|vous|initialis%[m|iez]|
+|ils|initialis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|initialis%[m|é]|
+|tu|avais|initialis%[m|é]|
+|il|avait|initialis%[m|é]|
+|nous|avions|initialis%[m|é]|
+|vous|aviez|initialis%[m|é]|
+|ils|avaient|initialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|initialis%[m|ai]|
+|tu|initialis%[m|as]|
+|il|initialis%[m|a]|
+|nous|initialis%[m|âmes]|
+|vous|initialis%[m|âtes]|
+|ils|initialis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|initialis%[m|é]|
+|tu|eus|initialis%[m|é]|
+|il|eut|initialis%[m|é]|
+|nous|e&ucirc;mes|initialis%[m|é]|
+|vous|e&ucirc;tes|initialis%[m|é]|
+|ils|eurent|initialis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|initialis%[m|erai]|
+|tu|initialis%[m|eras]|
+|il|initialis%[m|era]|
+|nous|initialis%[m|erons]|
+|vous|initialis%[m|erez]|
+|ils|initialis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|initialis%[m|é]|
+|tu|auras|initialis%[m|é]|
+|il|aura|initialis%[m|é]|
+|nous|aurons|initialis%[m|é]|
+|vous|aurez|initialis%[m|é]|
+|ils|auront|initialis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|initialis%[m|erais]|
+|tu|initialis%[m|erais]|
+|il|initialis%[m|erait]|
+|nous|initialis%[m|erions]|
+|vous|initialis%[m|eriez]|
+|ils|initialis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|initialis%[m|é]|
+|tu|aurais|initialis%[m|é]|
+|il|aurait|initialis%[m|é]|
+|nous|aurions|initialis%[m|é]|
+|vous|auriez|initialis%[m|é]|
+|ils|auraient|initialis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|initialis%[m|e]|
+|que|tu|initialis%[m|es]|
+|qu'|il|initialis%[m|e]|
+|que|nous|initialis%[m|ions]|
+|que|vous|initialis%[m|iez]|
+|qu'|ils|initialis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|initialis%[m|é]|
+|que|tu|aies|initialis%[m|é]|
+|qu'|il|ait|initialis%[m|é]|
+|que|nous|ayons|initialis%[m|é]|
+|que|vous|ayez|initialis%[m|é]|
+|qu'|ils|aient|initialis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|initialis%[m|asse]|
+|que|tu|initialis%[m|asses]|
+|qu'|il|initialis%[m|ât]|
+|que|nous|initialis%[m|assions]|
+|que|vous|initialis%[m|assiez]|
+|qu'|ils|initialis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|initialis%[m|é]|
+|que|tu|eusses|initialis%[m|é]|
+|qu'|il|eût|initialis%[m|é]|
+|que|nous|eussions|initialis%[m|é]|
+|que|vous|eussiez|initialis%[m|é]|
+|qu'|ils|eussent|initialis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|initialis%[m|e]|
+|initialis%[m|ons]|
+|initialis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|initialis%[m|é]|
+|ayons|initialis%[m|é]|
+|ayez|initialis%[m|é]|
+|]
+

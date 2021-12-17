@@ -1,0 +1,190 @@
+# recontacter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|recontact%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recontact%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|recontact%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recontact%[m|é]|
+|ayant|recontact%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en recontact%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recontact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|recontact%[m|e]|
+|tu|recontact%[m|es]|
+|il|recontact%[m|e]|
+|nous|recontact%[m|ons]|
+|vous|recontact%[m|ez]|
+|ils|recontact%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recontact%[m|é]|
+|tu|as |recontact%[m|é]|
+|il|a|recontact%[m|é]|
+|nous|avons|recontact%[m|é]|
+|vous|avez|recontact%[m|é]|
+|ils|ont|recontact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|recontact%[m|ais]|
+|tu|recontact%[m|ais]|
+|il|recontact%[m|ait]|
+|nous|recontact%[m|ions]|
+|vous|recontact%[m|iez]|
+|ils|recontact%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recontact%[m|é]|
+|tu|avais|recontact%[m|é]|
+|il|avait|recontact%[m|é]|
+|nous|avions|recontact%[m|é]|
+|vous|aviez|recontact%[m|é]|
+|ils|avaient|recontact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|recontact%[m|ai]|
+|tu|recontact%[m|as]|
+|il|recontact%[m|a]|
+|nous|recontact%[m|âmes]|
+|vous|recontact%[m|âtes]|
+|ils|recontact%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recontact%[m|é]|
+|tu|eus|recontact%[m|é]|
+|il|eut|recontact%[m|é]|
+|nous|e&ucirc;mes|recontact%[m|é]|
+|vous|e&ucirc;tes|recontact%[m|é]|
+|ils|eurent|recontact%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|recontact%[m|erai]|
+|tu|recontact%[m|eras]|
+|il|recontact%[m|era]|
+|nous|recontact%[m|erons]|
+|vous|recontact%[m|erez]|
+|ils|recontact%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recontact%[m|é]|
+|tu|auras|recontact%[m|é]|
+|il|aura|recontact%[m|é]|
+|nous|aurons|recontact%[m|é]|
+|vous|aurez|recontact%[m|é]|
+|ils|auront|recontact%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|recontact%[m|erais]|
+|tu|recontact%[m|erais]|
+|il|recontact%[m|erait]|
+|nous|recontact%[m|erions]|
+|vous|recontact%[m|eriez]|
+|ils|recontact%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recontact%[m|é]|
+|tu|aurais|recontact%[m|é]|
+|il|aurait|recontact%[m|é]|
+|nous|aurions|recontact%[m|é]|
+|vous|auriez|recontact%[m|é]|
+|ils|auraient|recontact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|recontact%[m|e]|
+|que|tu|recontact%[m|es]|
+|qu'|il|recontact%[m|e]|
+|que|nous|recontact%[m|ions]|
+|que|vous|recontact%[m|iez]|
+|qu'|ils|recontact%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recontact%[m|é]|
+|que|tu|aies|recontact%[m|é]|
+|qu'|il|ait|recontact%[m|é]|
+|que|nous|ayons|recontact%[m|é]|
+|que|vous|ayez|recontact%[m|é]|
+|qu'|ils|aient|recontact%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|recontact%[m|asse]|
+|que|tu|recontact%[m|asses]|
+|qu'|il|recontact%[m|ât]|
+|que|nous|recontact%[m|assions]|
+|que|vous|recontact%[m|assiez]|
+|qu'|ils|recontact%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recontact%[m|é]|
+|que|tu|eusses|recontact%[m|é]|
+|qu'|il|eût|recontact%[m|é]|
+|que|nous|eussions|recontact%[m|é]|
+|que|vous|eussiez|recontact%[m|é]|
+|qu'|ils|eussent|recontact%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recontact%[m|e]|
+|recontact%[m|ons]|
+|recontact%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recontact%[m|é]|
+|ayons|recontact%[m|é]|
+|ayez|recontact%[m|é]|
+|]
+

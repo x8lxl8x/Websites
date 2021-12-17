@@ -1,0 +1,190 @@
+# recoller %[clVerbGroup|1]
+[-
+coller de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|recoll%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recoll%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|recoll%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recoll%[m|é]|
+|ayant|recoll%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en recoll%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|recoll%[m|e]|
+|tu|recoll%[m|es]|
+|il|recoll%[m|e]|
+|nous|recoll%[m|ons]|
+|vous|recoll%[m|ez]|
+|ils|recoll%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recoll%[m|é]|
+|tu|as |recoll%[m|é]|
+|il|a|recoll%[m|é]|
+|nous|avons|recoll%[m|é]|
+|vous|avez|recoll%[m|é]|
+|ils|ont|recoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|recoll%[m|ais]|
+|tu|recoll%[m|ais]|
+|il|recoll%[m|ait]|
+|nous|recoll%[m|ions]|
+|vous|recoll%[m|iez]|
+|ils|recoll%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recoll%[m|é]|
+|tu|avais|recoll%[m|é]|
+|il|avait|recoll%[m|é]|
+|nous|avions|recoll%[m|é]|
+|vous|aviez|recoll%[m|é]|
+|ils|avaient|recoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|recoll%[m|ai]|
+|tu|recoll%[m|as]|
+|il|recoll%[m|a]|
+|nous|recoll%[m|âmes]|
+|vous|recoll%[m|âtes]|
+|ils|recoll%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recoll%[m|é]|
+|tu|eus|recoll%[m|é]|
+|il|eut|recoll%[m|é]|
+|nous|e&ucirc;mes|recoll%[m|é]|
+|vous|e&ucirc;tes|recoll%[m|é]|
+|ils|eurent|recoll%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|recoll%[m|erai]|
+|tu|recoll%[m|eras]|
+|il|recoll%[m|era]|
+|nous|recoll%[m|erons]|
+|vous|recoll%[m|erez]|
+|ils|recoll%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recoll%[m|é]|
+|tu|auras|recoll%[m|é]|
+|il|aura|recoll%[m|é]|
+|nous|aurons|recoll%[m|é]|
+|vous|aurez|recoll%[m|é]|
+|ils|auront|recoll%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|recoll%[m|erais]|
+|tu|recoll%[m|erais]|
+|il|recoll%[m|erait]|
+|nous|recoll%[m|erions]|
+|vous|recoll%[m|eriez]|
+|ils|recoll%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recoll%[m|é]|
+|tu|aurais|recoll%[m|é]|
+|il|aurait|recoll%[m|é]|
+|nous|aurions|recoll%[m|é]|
+|vous|auriez|recoll%[m|é]|
+|ils|auraient|recoll%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|recoll%[m|e]|
+|que|tu|recoll%[m|es]|
+|qu'|il|recoll%[m|e]|
+|que|nous|recoll%[m|ions]|
+|que|vous|recoll%[m|iez]|
+|qu'|ils|recoll%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recoll%[m|é]|
+|que|tu|aies|recoll%[m|é]|
+|qu'|il|ait|recoll%[m|é]|
+|que|nous|ayons|recoll%[m|é]|
+|que|vous|ayez|recoll%[m|é]|
+|qu'|ils|aient|recoll%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|recoll%[m|asse]|
+|que|tu|recoll%[m|asses]|
+|qu'|il|recoll%[m|ât]|
+|que|nous|recoll%[m|assions]|
+|que|vous|recoll%[m|assiez]|
+|qu'|ils|recoll%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recoll%[m|é]|
+|que|tu|eusses|recoll%[m|é]|
+|qu'|il|eût|recoll%[m|é]|
+|que|nous|eussions|recoll%[m|é]|
+|que|vous|eussiez|recoll%[m|é]|
+|qu'|ils|eussent|recoll%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recoll%[m|e]|
+|recoll%[m|ons]|
+|recoll%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recoll%[m|é]|
+|ayons|recoll%[m|é]|
+|ayez|recoll%[m|é]|
+|]
+

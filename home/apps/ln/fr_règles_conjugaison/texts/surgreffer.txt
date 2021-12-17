@@ -1,0 +1,190 @@
+# surgreffer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surgreff%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surgreff%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surgreff%[m|é]|
+|ayant|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surgreff%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surgreff%[m|e]|
+|tu|surgreff%[m|es]|
+|il|surgreff%[m|e]|
+|nous|surgreff%[m|ons]|
+|vous|surgreff%[m|ez]|
+|ils|surgreff%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surgreff%[m|é]|
+|tu|as |surgreff%[m|é]|
+|il|a|surgreff%[m|é]|
+|nous|avons|surgreff%[m|é]|
+|vous|avez|surgreff%[m|é]|
+|ils|ont|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surgreff%[m|ais]|
+|tu|surgreff%[m|ais]|
+|il|surgreff%[m|ait]|
+|nous|surgreff%[m|ions]|
+|vous|surgreff%[m|iez]|
+|ils|surgreff%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surgreff%[m|é]|
+|tu|avais|surgreff%[m|é]|
+|il|avait|surgreff%[m|é]|
+|nous|avions|surgreff%[m|é]|
+|vous|aviez|surgreff%[m|é]|
+|ils|avaient|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surgreff%[m|ai]|
+|tu|surgreff%[m|as]|
+|il|surgreff%[m|a]|
+|nous|surgreff%[m|âmes]|
+|vous|surgreff%[m|âtes]|
+|ils|surgreff%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surgreff%[m|é]|
+|tu|eus|surgreff%[m|é]|
+|il|eut|surgreff%[m|é]|
+|nous|e&ucirc;mes|surgreff%[m|é]|
+|vous|e&ucirc;tes|surgreff%[m|é]|
+|ils|eurent|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surgreff%[m|erai]|
+|tu|surgreff%[m|eras]|
+|il|surgreff%[m|era]|
+|nous|surgreff%[m|erons]|
+|vous|surgreff%[m|erez]|
+|ils|surgreff%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surgreff%[m|é]|
+|tu|auras|surgreff%[m|é]|
+|il|aura|surgreff%[m|é]|
+|nous|aurons|surgreff%[m|é]|
+|vous|aurez|surgreff%[m|é]|
+|ils|auront|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surgreff%[m|erais]|
+|tu|surgreff%[m|erais]|
+|il|surgreff%[m|erait]|
+|nous|surgreff%[m|erions]|
+|vous|surgreff%[m|eriez]|
+|ils|surgreff%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surgreff%[m|é]|
+|tu|aurais|surgreff%[m|é]|
+|il|aurait|surgreff%[m|é]|
+|nous|aurions|surgreff%[m|é]|
+|vous|auriez|surgreff%[m|é]|
+|ils|auraient|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surgreff%[m|e]|
+|que|tu|surgreff%[m|es]|
+|qu'|il|surgreff%[m|e]|
+|que|nous|surgreff%[m|ions]|
+|que|vous|surgreff%[m|iez]|
+|qu'|ils|surgreff%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surgreff%[m|é]|
+|que|tu|aies|surgreff%[m|é]|
+|qu'|il|ait|surgreff%[m|é]|
+|que|nous|ayons|surgreff%[m|é]|
+|que|vous|ayez|surgreff%[m|é]|
+|qu'|ils|aient|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surgreff%[m|asse]|
+|que|tu|surgreff%[m|asses]|
+|qu'|il|surgreff%[m|ât]|
+|que|nous|surgreff%[m|assions]|
+|que|vous|surgreff%[m|assiez]|
+|qu'|ils|surgreff%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surgreff%[m|é]|
+|que|tu|eusses|surgreff%[m|é]|
+|qu'|il|eût|surgreff%[m|é]|
+|que|nous|eussions|surgreff%[m|é]|
+|que|vous|eussiez|surgreff%[m|é]|
+|qu'|ils|eussent|surgreff%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surgreff%[m|e]|
+|surgreff%[m|ons]|
+|surgreff%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surgreff%[m|é]|
+|ayons|surgreff%[m|é]|
+|ayez|surgreff%[m|é]|
+|]
+

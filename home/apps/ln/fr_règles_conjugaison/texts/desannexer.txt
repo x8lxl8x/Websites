@@ -1,0 +1,190 @@
+# désannexer %[clVerbGroup|1]
+[-
+restituer un territoire annexé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désannex%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désannex%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désannex%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désannex%[m|é]|
+|ayant|désannex%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désannex%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désannex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désannex%[m|e]|
+|tu|désannex%[m|es]|
+|il|désannex%[m|e]|
+|nous|désannex%[m|ons]|
+|vous|désannex%[m|ez]|
+|ils|désannex%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désannex%[m|é]|
+|tu|as |désannex%[m|é]|
+|il|a|désannex%[m|é]|
+|nous|avons|désannex%[m|é]|
+|vous|avez|désannex%[m|é]|
+|ils|ont|désannex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désannex%[m|ais]|
+|tu|désannex%[m|ais]|
+|il|désannex%[m|ait]|
+|nous|désannex%[m|ions]|
+|vous|désannex%[m|iez]|
+|ils|désannex%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désannex%[m|é]|
+|tu|avais|désannex%[m|é]|
+|il|avait|désannex%[m|é]|
+|nous|avions|désannex%[m|é]|
+|vous|aviez|désannex%[m|é]|
+|ils|avaient|désannex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désannex%[m|ai]|
+|tu|désannex%[m|as]|
+|il|désannex%[m|a]|
+|nous|désannex%[m|âmes]|
+|vous|désannex%[m|âtes]|
+|ils|désannex%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désannex%[m|é]|
+|tu|eus|désannex%[m|é]|
+|il|eut|désannex%[m|é]|
+|nous|e&ucirc;mes|désannex%[m|é]|
+|vous|e&ucirc;tes|désannex%[m|é]|
+|ils|eurent|désannex%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désannex%[m|erai]|
+|tu|désannex%[m|eras]|
+|il|désannex%[m|era]|
+|nous|désannex%[m|erons]|
+|vous|désannex%[m|erez]|
+|ils|désannex%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désannex%[m|é]|
+|tu|auras|désannex%[m|é]|
+|il|aura|désannex%[m|é]|
+|nous|aurons|désannex%[m|é]|
+|vous|aurez|désannex%[m|é]|
+|ils|auront|désannex%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désannex%[m|erais]|
+|tu|désannex%[m|erais]|
+|il|désannex%[m|erait]|
+|nous|désannex%[m|erions]|
+|vous|désannex%[m|eriez]|
+|ils|désannex%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désannex%[m|é]|
+|tu|aurais|désannex%[m|é]|
+|il|aurait|désannex%[m|é]|
+|nous|aurions|désannex%[m|é]|
+|vous|auriez|désannex%[m|é]|
+|ils|auraient|désannex%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désannex%[m|e]|
+|que|tu|désannex%[m|es]|
+|qu'|il|désannex%[m|e]|
+|que|nous|désannex%[m|ions]|
+|que|vous|désannex%[m|iez]|
+|qu'|ils|désannex%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désannex%[m|é]|
+|que|tu|aies|désannex%[m|é]|
+|qu'|il|ait|désannex%[m|é]|
+|que|nous|ayons|désannex%[m|é]|
+|que|vous|ayez|désannex%[m|é]|
+|qu'|ils|aient|désannex%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désannex%[m|asse]|
+|que|tu|désannex%[m|asses]|
+|qu'|il|désannex%[m|ât]|
+|que|nous|désannex%[m|assions]|
+|que|vous|désannex%[m|assiez]|
+|qu'|ils|désannex%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désannex%[m|é]|
+|que|tu|eusses|désannex%[m|é]|
+|qu'|il|eût|désannex%[m|é]|
+|que|nous|eussions|désannex%[m|é]|
+|que|vous|eussiez|désannex%[m|é]|
+|qu'|ils|eussent|désannex%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désannex%[m|e]|
+|désannex%[m|ons]|
+|désannex%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désannex%[m|é]|
+|ayons|désannex%[m|é]|
+|ayez|désannex%[m|é]|
+|]
+

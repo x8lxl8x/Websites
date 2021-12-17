@@ -1,0 +1,190 @@
+# hydrolyser %[clVerbGroup|1]
+[-
+décomposer par hydrolyse. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|hydrolys%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|hydrolys%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||hydrolys%[m|é]|
+|ayant|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en hydrolys%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|hydrolys%[m|e]|
+|tu|hydrolys%[m|es]|
+|il|hydrolys%[m|e]|
+|nous|hydrolys%[m|ons]|
+|vous|hydrolys%[m|ez]|
+|ils|hydrolys%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|hydrolys%[m|é]|
+|tu|as |hydrolys%[m|é]|
+|il|a|hydrolys%[m|é]|
+|nous|avons|hydrolys%[m|é]|
+|vous|avez|hydrolys%[m|é]|
+|ils|ont|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|hydrolys%[m|ais]|
+|tu|hydrolys%[m|ais]|
+|il|hydrolys%[m|ait]|
+|nous|hydrolys%[m|ions]|
+|vous|hydrolys%[m|iez]|
+|ils|hydrolys%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|hydrolys%[m|é]|
+|tu|avais|hydrolys%[m|é]|
+|il|avait|hydrolys%[m|é]|
+|nous|avions|hydrolys%[m|é]|
+|vous|aviez|hydrolys%[m|é]|
+|ils|avaient|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|hydrolys%[m|ai]|
+|tu|hydrolys%[m|as]|
+|il|hydrolys%[m|a]|
+|nous|hydrolys%[m|âmes]|
+|vous|hydrolys%[m|âtes]|
+|ils|hydrolys%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|hydrolys%[m|é]|
+|tu|eus|hydrolys%[m|é]|
+|il|eut|hydrolys%[m|é]|
+|nous|e&ucirc;mes|hydrolys%[m|é]|
+|vous|e&ucirc;tes|hydrolys%[m|é]|
+|ils|eurent|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|hydrolys%[m|erai]|
+|tu|hydrolys%[m|eras]|
+|il|hydrolys%[m|era]|
+|nous|hydrolys%[m|erons]|
+|vous|hydrolys%[m|erez]|
+|ils|hydrolys%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|hydrolys%[m|é]|
+|tu|auras|hydrolys%[m|é]|
+|il|aura|hydrolys%[m|é]|
+|nous|aurons|hydrolys%[m|é]|
+|vous|aurez|hydrolys%[m|é]|
+|ils|auront|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|hydrolys%[m|erais]|
+|tu|hydrolys%[m|erais]|
+|il|hydrolys%[m|erait]|
+|nous|hydrolys%[m|erions]|
+|vous|hydrolys%[m|eriez]|
+|ils|hydrolys%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|hydrolys%[m|é]|
+|tu|aurais|hydrolys%[m|é]|
+|il|aurait|hydrolys%[m|é]|
+|nous|aurions|hydrolys%[m|é]|
+|vous|auriez|hydrolys%[m|é]|
+|ils|auraient|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|hydrolys%[m|e]|
+|que|tu|hydrolys%[m|es]|
+|qu'|il|hydrolys%[m|e]|
+|que|nous|hydrolys%[m|ions]|
+|que|vous|hydrolys%[m|iez]|
+|qu'|ils|hydrolys%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|hydrolys%[m|é]|
+|que|tu|aies|hydrolys%[m|é]|
+|qu'|il|ait|hydrolys%[m|é]|
+|que|nous|ayons|hydrolys%[m|é]|
+|que|vous|ayez|hydrolys%[m|é]|
+|qu'|ils|aient|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|hydrolys%[m|asse]|
+|que|tu|hydrolys%[m|asses]|
+|qu'|il|hydrolys%[m|ât]|
+|que|nous|hydrolys%[m|assions]|
+|que|vous|hydrolys%[m|assiez]|
+|qu'|ils|hydrolys%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|hydrolys%[m|é]|
+|que|tu|eusses|hydrolys%[m|é]|
+|qu'|il|eût|hydrolys%[m|é]|
+|que|nous|eussions|hydrolys%[m|é]|
+|que|vous|eussiez|hydrolys%[m|é]|
+|qu'|ils|eussent|hydrolys%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|hydrolys%[m|e]|
+|hydrolys%[m|ons]|
+|hydrolys%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|hydrolys%[m|é]|
+|ayons|hydrolys%[m|é]|
+|ayez|hydrolys%[m|é]|
+|]
+

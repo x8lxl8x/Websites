@@ -1,0 +1,190 @@
+# airer %[clVerbGroup|1]
+[-
+faire son nid (pour un oiseau de proie) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|air%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|air%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|air%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||air%[m|é]|
+|ayant|air%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en air%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|air%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|air%[m|e]|
+|tu|air%[m|es]|
+|il|air%[m|e]|
+|nous|air%[m|ons]|
+|vous|air%[m|ez]|
+|ils|air%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|air%[m|é]|
+|tu|as |air%[m|é]|
+|il|a|air%[m|é]|
+|nous|avons|air%[m|é]|
+|vous|avez|air%[m|é]|
+|ils|ont|air%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|air%[m|ais]|
+|tu|air%[m|ais]|
+|il|air%[m|ait]|
+|nous|air%[m|ions]|
+|vous|air%[m|iez]|
+|ils|air%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|air%[m|é]|
+|tu|avais|air%[m|é]|
+|il|avait|air%[m|é]|
+|nous|avions|air%[m|é]|
+|vous|aviez|air%[m|é]|
+|ils|avaient|air%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|air%[m|ai]|
+|tu|air%[m|as]|
+|il|air%[m|a]|
+|nous|air%[m|âmes]|
+|vous|air%[m|âtes]|
+|ils|air%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|air%[m|é]|
+|tu|eus|air%[m|é]|
+|il|eut|air%[m|é]|
+|nous|e&ucirc;mes|air%[m|é]|
+|vous|e&ucirc;tes|air%[m|é]|
+|ils|eurent|air%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|air%[m|erai]|
+|tu|air%[m|eras]|
+|il|air%[m|era]|
+|nous|air%[m|erons]|
+|vous|air%[m|erez]|
+|ils|air%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|air%[m|é]|
+|tu|auras|air%[m|é]|
+|il|aura|air%[m|é]|
+|nous|aurons|air%[m|é]|
+|vous|aurez|air%[m|é]|
+|ils|auront|air%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|air%[m|erais]|
+|tu|air%[m|erais]|
+|il|air%[m|erait]|
+|nous|air%[m|erions]|
+|vous|air%[m|eriez]|
+|ils|air%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|air%[m|é]|
+|tu|aurais|air%[m|é]|
+|il|aurait|air%[m|é]|
+|nous|aurions|air%[m|é]|
+|vous|auriez|air%[m|é]|
+|ils|auraient|air%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|air%[m|e]|
+|que|tu|air%[m|es]|
+|qu'|il|air%[m|e]|
+|que|nous|air%[m|ions]|
+|que|vous|air%[m|iez]|
+|qu'|ils|air%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|air%[m|é]|
+|que|tu|aies|air%[m|é]|
+|qu'|il|ait|air%[m|é]|
+|que|nous|ayons|air%[m|é]|
+|que|vous|ayez|air%[m|é]|
+|qu'|ils|aient|air%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|air%[m|asse]|
+|que|tu|air%[m|asses]|
+|qu'|il|air%[m|ât]|
+|que|nous|air%[m|assions]|
+|que|vous|air%[m|assiez]|
+|qu'|ils|air%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|air%[m|é]|
+|que|tu|eusses|air%[m|é]|
+|qu'|il|eût|air%[m|é]|
+|que|nous|eussions|air%[m|é]|
+|que|vous|eussiez|air%[m|é]|
+|qu'|ils|eussent|air%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|air%[m|e]|
+|air%[m|ons]|
+|air%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|air%[m|é]|
+|ayons|air%[m|é]|
+|ayez|air%[m|é]|
+|]
+

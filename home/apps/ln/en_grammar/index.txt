@@ -1,0 +1,38 @@
+<span class='clIndex'>
+<h2>Orthography</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=01.txt'>Alphabet</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=02.txt'>Phonetic Alphabet</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=03.txt'>Keyboard Symbol Names</a><br>
+<h2>Nouns</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=04.txt'>Attributes</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=05.txt'>Gender (род)</a><br>
+<h2>Pronouns</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=06.txt'>Personal</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=07.txt'>Reflexive</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=08.txt'>Posessive</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=09.txt'>Demonstrative</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=10.txt'>Interrogative</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=11.txt'>Negative</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=12.txt'>Indefinite</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=13.txt'>Relative</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=14.txt'>Partitive</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=15.txt'>Reciprocal</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=16.txt'>Universal</a><br>
+<h2>Numerals</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=17.txt'>Rules</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=18.txt'>Cardinal</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=19.txt'>Ordinal</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=20.txt'>Fractional</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=21.txt'>Nominalisation</a><br>
+<h2>Adjectives</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=22.txt'>Rules</a><br>
+<h2>Adverbs</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=23.txt'>Rules</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=24.txt'>Comparison</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=25.txt'>Time</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=26.txt'>Place</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=27.txt'>Action</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=28.txt'>Degree</a><br>
+<h2>Verbs</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammar&varAppArea=ln&varAppDir=en_grammar&varFileName=29.txt'>Modal</a><br>
+</span>

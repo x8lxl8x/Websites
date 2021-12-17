@@ -1,0 +1,190 @@
+# boustifailler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|boustifaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|boustifaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||boustifaill%[m|é]|
+|ayant|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en boustifaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|boustifaill%[m|e]|
+|tu|boustifaill%[m|es]|
+|il|boustifaill%[m|e]|
+|nous|boustifaill%[m|ons]|
+|vous|boustifaill%[m|ez]|
+|ils|boustifaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|boustifaill%[m|é]|
+|tu|as |boustifaill%[m|é]|
+|il|a|boustifaill%[m|é]|
+|nous|avons|boustifaill%[m|é]|
+|vous|avez|boustifaill%[m|é]|
+|ils|ont|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|boustifaill%[m|ais]|
+|tu|boustifaill%[m|ais]|
+|il|boustifaill%[m|ait]|
+|nous|boustifaill%[m|ions]|
+|vous|boustifaill%[m|iez]|
+|ils|boustifaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|boustifaill%[m|é]|
+|tu|avais|boustifaill%[m|é]|
+|il|avait|boustifaill%[m|é]|
+|nous|avions|boustifaill%[m|é]|
+|vous|aviez|boustifaill%[m|é]|
+|ils|avaient|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|boustifaill%[m|ai]|
+|tu|boustifaill%[m|as]|
+|il|boustifaill%[m|a]|
+|nous|boustifaill%[m|âmes]|
+|vous|boustifaill%[m|âtes]|
+|ils|boustifaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|boustifaill%[m|é]|
+|tu|eus|boustifaill%[m|é]|
+|il|eut|boustifaill%[m|é]|
+|nous|e&ucirc;mes|boustifaill%[m|é]|
+|vous|e&ucirc;tes|boustifaill%[m|é]|
+|ils|eurent|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|boustifaill%[m|erai]|
+|tu|boustifaill%[m|eras]|
+|il|boustifaill%[m|era]|
+|nous|boustifaill%[m|erons]|
+|vous|boustifaill%[m|erez]|
+|ils|boustifaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|boustifaill%[m|é]|
+|tu|auras|boustifaill%[m|é]|
+|il|aura|boustifaill%[m|é]|
+|nous|aurons|boustifaill%[m|é]|
+|vous|aurez|boustifaill%[m|é]|
+|ils|auront|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|boustifaill%[m|erais]|
+|tu|boustifaill%[m|erais]|
+|il|boustifaill%[m|erait]|
+|nous|boustifaill%[m|erions]|
+|vous|boustifaill%[m|eriez]|
+|ils|boustifaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|boustifaill%[m|é]|
+|tu|aurais|boustifaill%[m|é]|
+|il|aurait|boustifaill%[m|é]|
+|nous|aurions|boustifaill%[m|é]|
+|vous|auriez|boustifaill%[m|é]|
+|ils|auraient|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|boustifaill%[m|e]|
+|que|tu|boustifaill%[m|es]|
+|qu'|il|boustifaill%[m|e]|
+|que|nous|boustifaill%[m|ions]|
+|que|vous|boustifaill%[m|iez]|
+|qu'|ils|boustifaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|boustifaill%[m|é]|
+|que|tu|aies|boustifaill%[m|é]|
+|qu'|il|ait|boustifaill%[m|é]|
+|que|nous|ayons|boustifaill%[m|é]|
+|que|vous|ayez|boustifaill%[m|é]|
+|qu'|ils|aient|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|boustifaill%[m|asse]|
+|que|tu|boustifaill%[m|asses]|
+|qu'|il|boustifaill%[m|ât]|
+|que|nous|boustifaill%[m|assions]|
+|que|vous|boustifaill%[m|assiez]|
+|qu'|ils|boustifaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|boustifaill%[m|é]|
+|que|tu|eusses|boustifaill%[m|é]|
+|qu'|il|eût|boustifaill%[m|é]|
+|que|nous|eussions|boustifaill%[m|é]|
+|que|vous|eussiez|boustifaill%[m|é]|
+|qu'|ils|eussent|boustifaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boustifaill%[m|e]|
+|boustifaill%[m|ons]|
+|boustifaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|boustifaill%[m|é]|
+|ayons|boustifaill%[m|é]|
+|ayez|boustifaill%[m|é]|
+|]
+

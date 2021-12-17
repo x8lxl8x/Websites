@@ -1,0 +1,190 @@
+# paloter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|palot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|palot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|palot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||palot%[m|é]|
+|ayant|palot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en palot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|palot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|palot%[m|e]|
+|tu|palot%[m|es]|
+|il|palot%[m|e]|
+|nous|palot%[m|ons]|
+|vous|palot%[m|ez]|
+|ils|palot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|palot%[m|é]|
+|tu|as |palot%[m|é]|
+|il|a|palot%[m|é]|
+|nous|avons|palot%[m|é]|
+|vous|avez|palot%[m|é]|
+|ils|ont|palot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|palot%[m|ais]|
+|tu|palot%[m|ais]|
+|il|palot%[m|ait]|
+|nous|palot%[m|ions]|
+|vous|palot%[m|iez]|
+|ils|palot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|palot%[m|é]|
+|tu|avais|palot%[m|é]|
+|il|avait|palot%[m|é]|
+|nous|avions|palot%[m|é]|
+|vous|aviez|palot%[m|é]|
+|ils|avaient|palot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|palot%[m|ai]|
+|tu|palot%[m|as]|
+|il|palot%[m|a]|
+|nous|palot%[m|âmes]|
+|vous|palot%[m|âtes]|
+|ils|palot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|palot%[m|é]|
+|tu|eus|palot%[m|é]|
+|il|eut|palot%[m|é]|
+|nous|e&ucirc;mes|palot%[m|é]|
+|vous|e&ucirc;tes|palot%[m|é]|
+|ils|eurent|palot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|palot%[m|erai]|
+|tu|palot%[m|eras]|
+|il|palot%[m|era]|
+|nous|palot%[m|erons]|
+|vous|palot%[m|erez]|
+|ils|palot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|palot%[m|é]|
+|tu|auras|palot%[m|é]|
+|il|aura|palot%[m|é]|
+|nous|aurons|palot%[m|é]|
+|vous|aurez|palot%[m|é]|
+|ils|auront|palot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|palot%[m|erais]|
+|tu|palot%[m|erais]|
+|il|palot%[m|erait]|
+|nous|palot%[m|erions]|
+|vous|palot%[m|eriez]|
+|ils|palot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|palot%[m|é]|
+|tu|aurais|palot%[m|é]|
+|il|aurait|palot%[m|é]|
+|nous|aurions|palot%[m|é]|
+|vous|auriez|palot%[m|é]|
+|ils|auraient|palot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|palot%[m|e]|
+|que|tu|palot%[m|es]|
+|qu'|il|palot%[m|e]|
+|que|nous|palot%[m|ions]|
+|que|vous|palot%[m|iez]|
+|qu'|ils|palot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|palot%[m|é]|
+|que|tu|aies|palot%[m|é]|
+|qu'|il|ait|palot%[m|é]|
+|que|nous|ayons|palot%[m|é]|
+|que|vous|ayez|palot%[m|é]|
+|qu'|ils|aient|palot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|palot%[m|asse]|
+|que|tu|palot%[m|asses]|
+|qu'|il|palot%[m|ât]|
+|que|nous|palot%[m|assions]|
+|que|vous|palot%[m|assiez]|
+|qu'|ils|palot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|palot%[m|é]|
+|que|tu|eusses|palot%[m|é]|
+|qu'|il|eût|palot%[m|é]|
+|que|nous|eussions|palot%[m|é]|
+|que|vous|eussiez|palot%[m|é]|
+|qu'|ils|eussent|palot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|palot%[m|e]|
+|palot%[m|ons]|
+|palot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|palot%[m|é]|
+|ayons|palot%[m|é]|
+|ayez|palot%[m|é]|
+|]
+

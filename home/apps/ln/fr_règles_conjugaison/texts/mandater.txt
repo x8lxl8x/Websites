@@ -1,0 +1,191 @@
+# mandater %[clVerbGroup|1]
+[-
+payer une somme à l'aide d'un mandat. 
+investir une personne d'un mandat. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mandat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mandat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mandat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mandat%[m|é]|
+|ayant|mandat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mandat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mandat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mandat%[m|e]|
+|tu|mandat%[m|es]|
+|il|mandat%[m|e]|
+|nous|mandat%[m|ons]|
+|vous|mandat%[m|ez]|
+|ils|mandat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mandat%[m|é]|
+|tu|as |mandat%[m|é]|
+|il|a|mandat%[m|é]|
+|nous|avons|mandat%[m|é]|
+|vous|avez|mandat%[m|é]|
+|ils|ont|mandat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mandat%[m|ais]|
+|tu|mandat%[m|ais]|
+|il|mandat%[m|ait]|
+|nous|mandat%[m|ions]|
+|vous|mandat%[m|iez]|
+|ils|mandat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mandat%[m|é]|
+|tu|avais|mandat%[m|é]|
+|il|avait|mandat%[m|é]|
+|nous|avions|mandat%[m|é]|
+|vous|aviez|mandat%[m|é]|
+|ils|avaient|mandat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mandat%[m|ai]|
+|tu|mandat%[m|as]|
+|il|mandat%[m|a]|
+|nous|mandat%[m|âmes]|
+|vous|mandat%[m|âtes]|
+|ils|mandat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mandat%[m|é]|
+|tu|eus|mandat%[m|é]|
+|il|eut|mandat%[m|é]|
+|nous|e&ucirc;mes|mandat%[m|é]|
+|vous|e&ucirc;tes|mandat%[m|é]|
+|ils|eurent|mandat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mandat%[m|erai]|
+|tu|mandat%[m|eras]|
+|il|mandat%[m|era]|
+|nous|mandat%[m|erons]|
+|vous|mandat%[m|erez]|
+|ils|mandat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mandat%[m|é]|
+|tu|auras|mandat%[m|é]|
+|il|aura|mandat%[m|é]|
+|nous|aurons|mandat%[m|é]|
+|vous|aurez|mandat%[m|é]|
+|ils|auront|mandat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mandat%[m|erais]|
+|tu|mandat%[m|erais]|
+|il|mandat%[m|erait]|
+|nous|mandat%[m|erions]|
+|vous|mandat%[m|eriez]|
+|ils|mandat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mandat%[m|é]|
+|tu|aurais|mandat%[m|é]|
+|il|aurait|mandat%[m|é]|
+|nous|aurions|mandat%[m|é]|
+|vous|auriez|mandat%[m|é]|
+|ils|auraient|mandat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mandat%[m|e]|
+|que|tu|mandat%[m|es]|
+|qu'|il|mandat%[m|e]|
+|que|nous|mandat%[m|ions]|
+|que|vous|mandat%[m|iez]|
+|qu'|ils|mandat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mandat%[m|é]|
+|que|tu|aies|mandat%[m|é]|
+|qu'|il|ait|mandat%[m|é]|
+|que|nous|ayons|mandat%[m|é]|
+|que|vous|ayez|mandat%[m|é]|
+|qu'|ils|aient|mandat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mandat%[m|asse]|
+|que|tu|mandat%[m|asses]|
+|qu'|il|mandat%[m|ât]|
+|que|nous|mandat%[m|assions]|
+|que|vous|mandat%[m|assiez]|
+|qu'|ils|mandat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mandat%[m|é]|
+|que|tu|eusses|mandat%[m|é]|
+|qu'|il|eût|mandat%[m|é]|
+|que|nous|eussions|mandat%[m|é]|
+|que|vous|eussiez|mandat%[m|é]|
+|qu'|ils|eussent|mandat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mandat%[m|e]|
+|mandat%[m|ons]|
+|mandat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mandat%[m|é]|
+|ayons|mandat%[m|é]|
+|ayez|mandat%[m|é]|
+|]
+

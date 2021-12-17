@@ -1,0 +1,190 @@
+# flûter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flût%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flût%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flût%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flût%[m|é]|
+|ayant|flût%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flût%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flût%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flût%[m|e]|
+|tu|flût%[m|es]|
+|il|flût%[m|e]|
+|nous|flût%[m|ons]|
+|vous|flût%[m|ez]|
+|ils|flût%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flût%[m|é]|
+|tu|as |flût%[m|é]|
+|il|a|flût%[m|é]|
+|nous|avons|flût%[m|é]|
+|vous|avez|flût%[m|é]|
+|ils|ont|flût%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flût%[m|ais]|
+|tu|flût%[m|ais]|
+|il|flût%[m|ait]|
+|nous|flût%[m|ions]|
+|vous|flût%[m|iez]|
+|ils|flût%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flût%[m|é]|
+|tu|avais|flût%[m|é]|
+|il|avait|flût%[m|é]|
+|nous|avions|flût%[m|é]|
+|vous|aviez|flût%[m|é]|
+|ils|avaient|flût%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flût%[m|ai]|
+|tu|flût%[m|as]|
+|il|flût%[m|a]|
+|nous|flût%[m|âmes]|
+|vous|flût%[m|âtes]|
+|ils|flût%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flût%[m|é]|
+|tu|eus|flût%[m|é]|
+|il|eut|flût%[m|é]|
+|nous|e&ucirc;mes|flût%[m|é]|
+|vous|e&ucirc;tes|flût%[m|é]|
+|ils|eurent|flût%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flût%[m|erai]|
+|tu|flût%[m|eras]|
+|il|flût%[m|era]|
+|nous|flût%[m|erons]|
+|vous|flût%[m|erez]|
+|ils|flût%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flût%[m|é]|
+|tu|auras|flût%[m|é]|
+|il|aura|flût%[m|é]|
+|nous|aurons|flût%[m|é]|
+|vous|aurez|flût%[m|é]|
+|ils|auront|flût%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flût%[m|erais]|
+|tu|flût%[m|erais]|
+|il|flût%[m|erait]|
+|nous|flût%[m|erions]|
+|vous|flût%[m|eriez]|
+|ils|flût%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flût%[m|é]|
+|tu|aurais|flût%[m|é]|
+|il|aurait|flût%[m|é]|
+|nous|aurions|flût%[m|é]|
+|vous|auriez|flût%[m|é]|
+|ils|auraient|flût%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flût%[m|e]|
+|que|tu|flût%[m|es]|
+|qu'|il|flût%[m|e]|
+|que|nous|flût%[m|ions]|
+|que|vous|flût%[m|iez]|
+|qu'|ils|flût%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flût%[m|é]|
+|que|tu|aies|flût%[m|é]|
+|qu'|il|ait|flût%[m|é]|
+|que|nous|ayons|flût%[m|é]|
+|que|vous|ayez|flût%[m|é]|
+|qu'|ils|aient|flût%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flût%[m|asse]|
+|que|tu|flût%[m|asses]|
+|qu'|il|flût%[m|ât]|
+|que|nous|flût%[m|assions]|
+|que|vous|flût%[m|assiez]|
+|qu'|ils|flût%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flût%[m|é]|
+|que|tu|eusses|flût%[m|é]|
+|qu'|il|eût|flût%[m|é]|
+|que|nous|eussions|flût%[m|é]|
+|que|vous|eussiez|flût%[m|é]|
+|qu'|ils|eussent|flût%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flût%[m|e]|
+|flût%[m|ons]|
+|flût%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flût%[m|é]|
+|ayons|flût%[m|é]|
+|ayez|flût%[m|é]|
+|]
+

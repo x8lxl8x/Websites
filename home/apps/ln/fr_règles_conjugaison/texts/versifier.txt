@@ -1,0 +1,191 @@
+# versifier %[clVerbGroup|1]
+[-
+faire des vers, écrire en vers. 
+mettre en vers 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|versifi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|versifi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|versifi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||versifi%[m|é]|
+|ayant|versifi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en versifi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|versifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|versifi%[m|e]|
+|tu|versifi%[m|es]|
+|il|versifi%[m|e]|
+|nous|versifi%[m|ons]|
+|vous|versifi%[m|ez]|
+|ils|versifi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|versifi%[m|é]|
+|tu|as |versifi%[m|é]|
+|il|a|versifi%[m|é]|
+|nous|avons|versifi%[m|é]|
+|vous|avez|versifi%[m|é]|
+|ils|ont|versifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|versifi%[m|ais]|
+|tu|versifi%[m|ais]|
+|il|versifi%[m|ait]|
+|nous|versifi%[m|ions]|
+|vous|versifi%[m|iez]|
+|ils|versifi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|versifi%[m|é]|
+|tu|avais|versifi%[m|é]|
+|il|avait|versifi%[m|é]|
+|nous|avions|versifi%[m|é]|
+|vous|aviez|versifi%[m|é]|
+|ils|avaient|versifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|versifi%[m|ai]|
+|tu|versifi%[m|as]|
+|il|versifi%[m|a]|
+|nous|versifi%[m|âmes]|
+|vous|versifi%[m|âtes]|
+|ils|versifi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|versifi%[m|é]|
+|tu|eus|versifi%[m|é]|
+|il|eut|versifi%[m|é]|
+|nous|e&ucirc;mes|versifi%[m|é]|
+|vous|e&ucirc;tes|versifi%[m|é]|
+|ils|eurent|versifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|versifi%[m|erai]|
+|tu|versifi%[m|eras]|
+|il|versifi%[m|era]|
+|nous|versifi%[m|erons]|
+|vous|versifi%[m|erez]|
+|ils|versifi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|versifi%[m|é]|
+|tu|auras|versifi%[m|é]|
+|il|aura|versifi%[m|é]|
+|nous|aurons|versifi%[m|é]|
+|vous|aurez|versifi%[m|é]|
+|ils|auront|versifi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|versifi%[m|erais]|
+|tu|versifi%[m|erais]|
+|il|versifi%[m|erait]|
+|nous|versifi%[m|erions]|
+|vous|versifi%[m|eriez]|
+|ils|versifi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|versifi%[m|é]|
+|tu|aurais|versifi%[m|é]|
+|il|aurait|versifi%[m|é]|
+|nous|aurions|versifi%[m|é]|
+|vous|auriez|versifi%[m|é]|
+|ils|auraient|versifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|versifi%[m|e]|
+|que|tu|versifi%[m|es]|
+|qu'|il|versifi%[m|e]|
+|que|nous|versifi%[m|ions]|
+|que|vous|versifi%[m|iez]|
+|qu'|ils|versifi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|versifi%[m|é]|
+|que|tu|aies|versifi%[m|é]|
+|qu'|il|ait|versifi%[m|é]|
+|que|nous|ayons|versifi%[m|é]|
+|que|vous|ayez|versifi%[m|é]|
+|qu'|ils|aient|versifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|versifi%[m|asse]|
+|que|tu|versifi%[m|asses]|
+|qu'|il|versifi%[m|ât]|
+|que|nous|versifi%[m|assions]|
+|que|vous|versifi%[m|assiez]|
+|qu'|ils|versifi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|versifi%[m|é]|
+|que|tu|eusses|versifi%[m|é]|
+|qu'|il|eût|versifi%[m|é]|
+|que|nous|eussions|versifi%[m|é]|
+|que|vous|eussiez|versifi%[m|é]|
+|qu'|ils|eussent|versifi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|versifi%[m|e]|
+|versifi%[m|ons]|
+|versifi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|versifi%[m|é]|
+|ayons|versifi%[m|é]|
+|ayez|versifi%[m|é]|
+|]
+

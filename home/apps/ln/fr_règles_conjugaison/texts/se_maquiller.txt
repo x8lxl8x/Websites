@@ -1,0 +1,190 @@
+# se maquiller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se maquill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|maquill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se maquill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|maquill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se maquill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|maquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|maquill%[m|e]|
+|tu|te|maquill%[m|es]|
+|il|se|maquill%[m|e]|
+|nous|nous|maquill%[m|ons]|
+|vous|vous|maquill%[m|ez]|
+|ils|se|maquill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|maquill%[m|é]|
+|tu|t'|es|maquill%[m|é]|
+|il|s'|est|maquill%[m|é]|
+|nous|nous|sommes|maquill%[m|és]|
+|vous|vous|êtes|maquill%[m|és]|
+|ils|se|sont|maquill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|maquill%[m|ais]|
+|tu|te|maquill%[m|ais]|
+|il|se|maquill%[m|ait]|
+|nous|nous|maquill%[m|ions]|
+|vous|vous|maquill%[m|iez]|
+|ils|se|maquill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|maquill%[m|é]|
+|tu|t'|étais|maquill%[m|é]|
+|il|s'|était|maquill%[m|é]|
+|nous|nous|étions|maquill%[m|és]|
+|vous|vous|étiez|maquill%[m|és]|
+|ils|s'|étaient|maquill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|maquill%[m|ai]|
+|tu|te|maquill%[m|as]|
+|il|se|maquill%[m|a]|
+|nous|nous|maquill%[m|âmes]|
+|vous|vous|maquill%[m|âtes]|
+|ils|se|maquill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|maquill%[m|é]|
+|tu|te|fus|maquill%[m|é]|
+|il|se|fut|maquill%[m|é]|
+|nous|nous|fûmes|maquill%[m|és]|
+|vous|vous|fûtes|maquill%[m|és]|
+|ils|se|furent|maquill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|maquill%[m|erai]|
+|tu|te|maquill%[m|eras]|
+|il|se|maquill%[m|era]|
+|nous|nous|maquill%[m|erons]|
+|vous|vous|maquill%[m|erez]|
+|ils|se|maquill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|maquill%[m|é]|
+|tu|te|seras|maquill%[m|é]|
+|il|se|sera|maquill%[m|é]|
+|nous|nous|serons|maquill%[m|és]|
+|vous|vous|serez|maquill%[m|és]|
+|ils|se|seront|maquill%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|maquill%[m|erais]|
+|tu|te|maquill%[m|erais]|
+|il|se|maquill%[m|erait]|
+|nous|nous|maquill%[m|erions]|
+|vous|vous|maquill%[m|eriez]|
+|ils|se|maquill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|maquill%[m|é]|
+|tu|te|serais|maquill%[m|é]|
+|il|se|serait|maquill%[m|é]|
+|nous|nous|serions|maquill%[m|és]|
+|vous|vous|seriez|maquill%[m|és]|
+|ils|se|seraient|maquill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|maquill%[m|e]|
+|que|tu|te|maquill%[m|es]|
+|qu'|il|se|maquill%[m|e]|
+|que|nous|nous|maquill%[m|ions]|
+|que|vous|vous|maquill%[m|iez]|
+|qu'|ils|se|maquill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|maquill%[m|é]|
+|que|tu|te|sois|maquill%[m|é]|
+|qu'|il|se|soit|maquill%[m|é]|
+|que|nous|nous|soyons|maquill%[m|és]|
+|que|vous|vous|soyez|maquill%[m|és]|
+|qu'|ils|se|soient|maquill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|maquill%[m|asse]|
+|que|tu|te|maquill%[m|asses]|
+|qu'|il|se|maquill%[m|ât]|
+|que|nous|nous|maquill%[m|assions]|
+|que|vous|vous|maquill%[m|assiez]|
+|qu'|ils|se|maquill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|maquill%[m|é]|
+|que|tu|te|fusses|maquill%[m|é]|
+|qu'|il|se|fût|maquill%[m|é]|
+|que|nous|nous|fussions|maquill%[m|és]|
+|que|vous|vous|fussiez|maquill%[m|és]|
+|qu'|ils|se|fussent|maquill%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|maquill%[m|e]-toi|
+|maquill%[m|ons]-nous|
+|maquill%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

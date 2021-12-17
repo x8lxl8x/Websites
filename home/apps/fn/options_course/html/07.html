@@ -1,0 +1,260 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./06.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./08.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Buy-Writes And Sell-Writes</h1>
+
+<p>A buy-write (also called a covered-write) is simply a
+covered call -- long stock plus a short call (please see
+our section during week 6 on covered calls for more
+details).&nbsp; </p>
+<p>The difference in the buy-write is in the way the
+order is handled.</p>
+<p>Most investors who enter covered call positions buy
+the stock first, then sell the call at a later time.&nbsp;
+The problem with delaying the sale of the calls -- even
+if it's only a matter of seconds -- is that you will be
+exposed to market movement and downside risk in the
+interim.</p>
+<h2>Example:</h2>
+<p>Say a stock is trading for $100 and a $100 call is
+trading for $5.</p>
+<p>An investor wants to enter into a covered call
+position.&nbsp; They feel that effectively paying $95 for the
+stock and selling it for $100 over the next month will
+be adequate potential profit relative to the risk they
+are taking.&nbsp; So they put in a market order to buy the
+stock, but get filled at $101 because heavy trading
+caused the stock to move up.&nbsp; Then they immediately put
+in the order to sell the call.&nbsp; The stock starts to fall
+and they sell the call for $4-1/2.&nbsp; </p>
+<p>The five-point profit they were seeking has now been
+reduced to $3-1/2.&nbsp; They bought stock for $101 and sold
+the call for $4-1/2 effectively paying $96-1/2 for the
+stock instead of the desired $95 at the outset.</p>
+<p>This is very common for people who enter covered
+calls in this manner.&nbsp; This is sometimes called &quot;legging
+in&quot; to a covered call because each of the &quot;legs&quot; -- the
+long stock and the short call -- is entered as a
+separate order.</p>
+<p>To prevent this risk, known as execution risk, the
+above investor could have entered a buy-write.&nbsp; There
+are two ways to enter a buy-write order: (1) As a market
+order (2) As a limit order</p>
+<p>If the investor enters the buy-write &quot;at market,&quot;
+this means the entire order -- both the long stock and
+short call -- must get filled <i>simultaneously</i> and
+the investor is willing to take the prevailing prices at
+the time their order arrives to the floor or market
+makers.&nbsp; In the above example, had the investor entered
+a buy-write, they may have paid $101 for the stock but
+also may have received $5-1/2 for the call for a net
+debit of $4-1/2.&nbsp; This is still not the $5 point profit
+they were expecting, but certainly better than the
+$3-1/2 they got.&nbsp; </p>
+<p>If the investor enters a buy-write as a &quot;limit
+order,&quot; they will <u>specify</u> the price they want to
+pay.&nbsp; The risk here is that the order does not get
+filled. However, if it does, you know the price will be
+at your limit or lower.</p>
+<h2>Example:</h2>
+<p>Say we see the following quotes:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table4'>
+<tr>
+<td>&nbsp;</td>
+<td><b>Bid</b></td>
+<td><b>Ask</b></td>
+</tr>
+<tr>
+<td><b>XYZ Stock</b></td>
+<td>$95-3/4</td>
+<td>$100</td>
+</tr>
+<tr>
+<td><b>XYS Mar $100 Call option</b></td>
+<td>$5</td>
+<td>$5-1/2</td>
+</tr>
+</table>
+<p>If the investor were able to get filled at the
+current prices, this buy-write would fill for a net
+debit of $95.&nbsp; This is because the investor can
+currently buy the stock for $100 (the ask) and sell the
+call option for $5 (the bid).&nbsp; This is also called &quot;the
+natural&quot; quote because a debit of $95 is where the
+buy-write would be filled naturally if the trade could
+be executed immediately.</p>
+<p>The investor may tell their broker, &quot;I'd like to
+place the following buy-write: Buy 500 XYZ and sell the
+Mar $100 calls for a net debit of $95.&quot;&nbsp; Now, the only
+way the trade can get filled is if the buy-write is
+filled at this price or lower. </p>
+<p>Remember, this is the <u>net debit</u> the investor
+is willing to pay so the order could come back filled
+as:</p>
+<p>Stock purchased for&nbsp;- $101<br>
+<u>Call sold for&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; + $6</u><br>
+For net debit of &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $95</p>
+<p>(or any other number of combinations of stock and
+option prices as long as the net debit does not exceed
+$95).</p>
+<p>If you enter a limit order on a buy-write, it must
+always be entered as a net debit for the fact that the
+price of the call can never exceed the price of the
+stock. (Please see our section on &quot;Basic Option Pricing&quot;
+during week 5 for more information.)&nbsp; </p>
+<p>Placing a buy-write with the market maker is similar
+to trading in a car.&nbsp; If your car is worth $10,000 and
+you are trading it in on a $25,000 car, you may tell the
+dealer, &quot;I want to buy that one and sell this one for a
+net cost of $15,000.&quot;&nbsp; </p>
+<p>Now, it should make no difference to you if they
+charge you $26,000 for the new car as long as they give
+you $11,000 for your trade.&nbsp; Or, the dealer may only
+want to give you $9,000 for your trade, but then must be
+willing to sell you the new car for $24,000.&nbsp; You are
+doing the same thing with the market maker on a
+buy-write limit order; you are specifying the net
+difference you are willing to pay for buying the stock
+and selling the call.</p>
+<p>Of course, you may decide to try for a little better
+deal.&nbsp; Using the above quotes again, you may see the
+&quot;natural&quot; is $95, but tell your broker to place the
+order for a net debit of $94-3/4.&nbsp; </p>
+<p>Regardless, any time you put in a limit order, you
+may not get filled.&nbsp; So you need to decide which is more
+important -- getting filled or getting the price you
+want.&nbsp; You can only guarantee the execution <i>or</i>
+the price, not both.</p>
+<p>By the way, if you do enter into a buy-write, you can
+close it out anytime with a simultaneous order too.&nbsp; You
+can tell your broker to sell the stock and buy back the
+call which is called an <i>unwind</i>.&nbsp; Unwinds will
+always be executed for net credits.</p>
+<h2>Sell-write</h2>
+<p>Many investors do not know this, but there is a trade
+opposite the buy-write, which is known as a sell-write.&nbsp;
+To enter a sell-write, the investor simultaneously
+shorts the stock (sells it) and then writes the put.&nbsp;
+The resulting position is a covered put; the sell-write
+is just a method of executing the two trades together to
+avoid execution risk.</p>
+<p>Now, if the stock falls, which is what the investor
+is betting on, he may be assigned on the short put and
+be forced to buy the stock.&nbsp; But this is what the trader
+desires, as he can profitably cover the short stock
+position through the assignment of the put.&nbsp; As with the
+buy-write, the short option position is considered
+&quot;covered&quot; because the risk of the short put -- the
+downside -- is covered by the short stock.&nbsp; This does
+not mean this strategy is risk-free; the trader has <i>
+unlimited liability to the upside</i>.&nbsp; The short put
+just provides a little upside hedge.</p>
+<h2>Example:</h2>
+<p>A trader is bearish on XYZ trading at $100.&nbsp; He
+decides to place a sell-write.&nbsp; What is the &quot;natural&quot;
+based on the following quotes?</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table5'>
+<tr>
+<td>&nbsp;</td>
+<td><b>Bid</b></td>
+<td><b>Ask</b></td>
+</tr>
+<tr>
+<td><b>XYZ Stock</b></td>
+<td>$95-3/4</td>
+<td>$100</td>
+</tr>
+<tr>
+<td><b>XYS Mar $95 put option</b></td>
+<td>$5</td>
+<td>$5-1/2</td>
+</tr>
+</table>
+<p>The natural is $100-3/4 because the trader can
+currently sell the stock for $95-3/4 and sell the put
+for $5 for a total credit of $100 3/4.&nbsp; Notice what the
+sell-write accomplishes.&nbsp; The trader now has a higher
+net credit, which is what you want when you are
+short-selling.&nbsp; If the trader were just shorting the
+stock, he or she would only receive $95-3/4 but instead,
+with the sell-write, receives $100-3/4.&nbsp; Remember, when
+short-selling, you sell high and buy low.&nbsp; The
+sell-write gives you a higher credit.</p>
+<p>Because of this higher credit, the sell-write
+provides a little upside hedge for the trader.&nbsp; If the
+trader is wrong about the direction of the stock, he or
+she can afford for the stock to now move up $5 -- the
+premium received for the put -- to a level of $100-3/4
+before heading into losses.&nbsp; The trader who only shorts
+the stock will be exposed to losses for <u>any</u> price
+above $95-3/4.</p>
+<p>What if the stock falls?&nbsp; If the stock falls far
+enough, the sell-write trader may be forced to buy the
+stock at $95 due to the short $95 put.&nbsp; But, as the
+trader sees it, that's okay because he or she was going
+to have to buy it to cover the short stock position
+anyway.</p>
+<p>The trade-off with this strategy is this:&nbsp; Say the
+stock crashes to a price of $50.&nbsp; The short seller would
+gain the full profit of $45-3/4 (shorts the stock at
+$95-3/4 and buys it back for $50).&nbsp; The sell-write
+trader, even though the stock is trading at $50 will be
+required to pay $95.&nbsp; The maximum the covered put writer
+could ever make, in this example, is $100-3/4 - 95 =
+$5-3/4.&nbsp; </p>
+<p>Again, it's all about risk and reward.&nbsp; Neither
+strategy is superior to the other.&nbsp; </p>
+<p>There is another important point to consider with the
+sell-write.&nbsp; In the above example, we said the trader
+might have to pay $95 with the stock at $50, right?&nbsp;
+Remember, it is the long put position that decides
+whether or not to exercise it.&nbsp; So, while you may be
+ready to close out the sell-write, even though you must
+pay $95 with the stock trading at $50, you do not have
+the choice!&nbsp; It is up to the person who is long the
+put.&nbsp; In these cases, it is sometimes best to
+simultaneously buy back the put and buy the stock, or <i>
+unwind</i> the position, even though it will result in
+less profit.</p>
+<p>I have seen it happen where investors enter a
+sell-write, watch the stock plummet, and then wait to
+get assigned on the stock yet never do.&nbsp; In the
+meantime, the stock runs back up, sometimes into losses,
+and they never get to profitably close out the trade.&nbsp;
+</p>
+<p>Buy-writes and sell-writes are nice strategies to
+understand because they allow you to get more favorable
+pricing from the market makers.&nbsp; After all, you are
+presenting them with two trades rather than one so you
+can definitely give yourself an edge.&nbsp; In addition, you
+are aiding the market makers in their &quot;three-sided
+positions&quot; (please see our section during week 11 on
+synthetics), so they are eager to work with multiple
+orders.&nbsp; </p>
+<p>If you like covered calls, you should take the time
+to explore buy-writes!&nbsp; The 1/4 and -1/2-point
+differences (or more) can make a huge difference at the
+end of a trading year.</p>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+# se surajouter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se surajout%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|surajout%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se surajout%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|surajout%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se surajout%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|surajout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|surajout%[m|e]|
+|tu|te|surajout%[m|es]|
+|il|se|surajout%[m|e]|
+|nous|nous|surajout%[m|ons]|
+|vous|vous|surajout%[m|ez]|
+|ils|se|surajout%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|surajout%[m|é]|
+|tu|t'|es|surajout%[m|é]|
+|il|s'|est|surajout%[m|é]|
+|nous|nous|sommes|surajout%[m|és]|
+|vous|vous|êtes|surajout%[m|és]|
+|ils|se|sont|surajout%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|surajout%[m|ais]|
+|tu|te|surajout%[m|ais]|
+|il|se|surajout%[m|ait]|
+|nous|nous|surajout%[m|ions]|
+|vous|vous|surajout%[m|iez]|
+|ils|se|surajout%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|surajout%[m|é]|
+|tu|t'|étais|surajout%[m|é]|
+|il|s'|était|surajout%[m|é]|
+|nous|nous|étions|surajout%[m|és]|
+|vous|vous|étiez|surajout%[m|és]|
+|ils|s'|étaient|surajout%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|surajout%[m|ai]|
+|tu|te|surajout%[m|as]|
+|il|se|surajout%[m|a]|
+|nous|nous|surajout%[m|âmes]|
+|vous|vous|surajout%[m|âtes]|
+|ils|se|surajout%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|surajout%[m|é]|
+|tu|te|fus|surajout%[m|é]|
+|il|se|fut|surajout%[m|é]|
+|nous|nous|fûmes|surajout%[m|és]|
+|vous|vous|fûtes|surajout%[m|és]|
+|ils|se|furent|surajout%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|surajout%[m|erai]|
+|tu|te|surajout%[m|eras]|
+|il|se|surajout%[m|era]|
+|nous|nous|surajout%[m|erons]|
+|vous|vous|surajout%[m|erez]|
+|ils|se|surajout%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|surajout%[m|é]|
+|tu|te|seras|surajout%[m|é]|
+|il|se|sera|surajout%[m|é]|
+|nous|nous|serons|surajout%[m|és]|
+|vous|vous|serez|surajout%[m|és]|
+|ils|se|seront|surajout%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|surajout%[m|erais]|
+|tu|te|surajout%[m|erais]|
+|il|se|surajout%[m|erait]|
+|nous|nous|surajout%[m|erions]|
+|vous|vous|surajout%[m|eriez]|
+|ils|se|surajout%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|surajout%[m|é]|
+|tu|te|serais|surajout%[m|é]|
+|il|se|serait|surajout%[m|é]|
+|nous|nous|serions|surajout%[m|és]|
+|vous|vous|seriez|surajout%[m|és]|
+|ils|se|seraient|surajout%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|surajout%[m|e]|
+|que|tu|te|surajout%[m|es]|
+|qu'|il|se|surajout%[m|e]|
+|que|nous|nous|surajout%[m|ions]|
+|que|vous|vous|surajout%[m|iez]|
+|qu'|ils|se|surajout%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|surajout%[m|é]|
+|que|tu|te|sois|surajout%[m|é]|
+|qu'|il|se|soit|surajout%[m|é]|
+|que|nous|nous|soyons|surajout%[m|és]|
+|que|vous|vous|soyez|surajout%[m|és]|
+|qu'|ils|se|soient|surajout%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|surajout%[m|asse]|
+|que|tu|te|surajout%[m|asses]|
+|qu'|il|se|surajout%[m|ât]|
+|que|nous|nous|surajout%[m|assions]|
+|que|vous|vous|surajout%[m|assiez]|
+|qu'|ils|se|surajout%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|surajout%[m|é]|
+|que|tu|te|fusses|surajout%[m|é]|
+|qu'|il|se|fût|surajout%[m|é]|
+|que|nous|nous|fussions|surajout%[m|és]|
+|que|vous|vous|fussiez|surajout%[m|és]|
+|qu'|ils|se|fussent|surajout%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surajout%[m|e]-toi|
+|surajout%[m|ons]-nous|
+|surajout%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,191 @@
+# trimer %[clVerbGroup|1]
+[-
+travailler avec acharnement. 
+travailler durement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|trim%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|trim%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|trim%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||trim%[m|é]|
+|ayant|trim%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en trim%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|trim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|trim%[m|e]|
+|tu|trim%[m|es]|
+|il|trim%[m|e]|
+|nous|trim%[m|ons]|
+|vous|trim%[m|ez]|
+|ils|trim%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|trim%[m|é]|
+|tu|as |trim%[m|é]|
+|il|a|trim%[m|é]|
+|nous|avons|trim%[m|é]|
+|vous|avez|trim%[m|é]|
+|ils|ont|trim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|trim%[m|ais]|
+|tu|trim%[m|ais]|
+|il|trim%[m|ait]|
+|nous|trim%[m|ions]|
+|vous|trim%[m|iez]|
+|ils|trim%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|trim%[m|é]|
+|tu|avais|trim%[m|é]|
+|il|avait|trim%[m|é]|
+|nous|avions|trim%[m|é]|
+|vous|aviez|trim%[m|é]|
+|ils|avaient|trim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|trim%[m|ai]|
+|tu|trim%[m|as]|
+|il|trim%[m|a]|
+|nous|trim%[m|âmes]|
+|vous|trim%[m|âtes]|
+|ils|trim%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|trim%[m|é]|
+|tu|eus|trim%[m|é]|
+|il|eut|trim%[m|é]|
+|nous|e&ucirc;mes|trim%[m|é]|
+|vous|e&ucirc;tes|trim%[m|é]|
+|ils|eurent|trim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|trim%[m|erai]|
+|tu|trim%[m|eras]|
+|il|trim%[m|era]|
+|nous|trim%[m|erons]|
+|vous|trim%[m|erez]|
+|ils|trim%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|trim%[m|é]|
+|tu|auras|trim%[m|é]|
+|il|aura|trim%[m|é]|
+|nous|aurons|trim%[m|é]|
+|vous|aurez|trim%[m|é]|
+|ils|auront|trim%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|trim%[m|erais]|
+|tu|trim%[m|erais]|
+|il|trim%[m|erait]|
+|nous|trim%[m|erions]|
+|vous|trim%[m|eriez]|
+|ils|trim%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|trim%[m|é]|
+|tu|aurais|trim%[m|é]|
+|il|aurait|trim%[m|é]|
+|nous|aurions|trim%[m|é]|
+|vous|auriez|trim%[m|é]|
+|ils|auraient|trim%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|trim%[m|e]|
+|que|tu|trim%[m|es]|
+|qu'|il|trim%[m|e]|
+|que|nous|trim%[m|ions]|
+|que|vous|trim%[m|iez]|
+|qu'|ils|trim%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|trim%[m|é]|
+|que|tu|aies|trim%[m|é]|
+|qu'|il|ait|trim%[m|é]|
+|que|nous|ayons|trim%[m|é]|
+|que|vous|ayez|trim%[m|é]|
+|qu'|ils|aient|trim%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|trim%[m|asse]|
+|que|tu|trim%[m|asses]|
+|qu'|il|trim%[m|ât]|
+|que|nous|trim%[m|assions]|
+|que|vous|trim%[m|assiez]|
+|qu'|ils|trim%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|trim%[m|é]|
+|que|tu|eusses|trim%[m|é]|
+|qu'|il|eût|trim%[m|é]|
+|que|nous|eussions|trim%[m|é]|
+|que|vous|eussiez|trim%[m|é]|
+|qu'|ils|eussent|trim%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|trim%[m|e]|
+|trim%[m|ons]|
+|trim%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|trim%[m|é]|
+|ayons|trim%[m|é]|
+|ayez|trim%[m|é]|
+|]
+

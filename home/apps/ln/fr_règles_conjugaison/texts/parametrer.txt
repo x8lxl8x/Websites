@@ -1,0 +1,190 @@
+# paramétrer %[clVerbGroup|1]
+[-
+informer les différents paramètres d'un programme. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|paramétr%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|paramétr%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||paramétr%[m|é]|
+|ayant|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en paramétr%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|paramétr%[m|e]|
+|tu|paramétr%[m|es]|
+|il|paramétr%[m|e]|
+|nous|paramétr%[m|ons]|
+|vous|paramétr%[m|ez]|
+|ils|paramétr%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|paramétr%[m|é]|
+|tu|as |paramétr%[m|é]|
+|il|a|paramétr%[m|é]|
+|nous|avons|paramétr%[m|é]|
+|vous|avez|paramétr%[m|é]|
+|ils|ont|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|paramétr%[m|ais]|
+|tu|paramétr%[m|ais]|
+|il|paramétr%[m|ait]|
+|nous|paramétr%[m|ions]|
+|vous|paramétr%[m|iez]|
+|ils|paramétr%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|paramétr%[m|é]|
+|tu|avais|paramétr%[m|é]|
+|il|avait|paramétr%[m|é]|
+|nous|avions|paramétr%[m|é]|
+|vous|aviez|paramétr%[m|é]|
+|ils|avaient|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|paramétr%[m|ai]|
+|tu|paramétr%[m|as]|
+|il|paramétr%[m|a]|
+|nous|paramétr%[m|âmes]|
+|vous|paramétr%[m|âtes]|
+|ils|paramétr%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|paramétr%[m|é]|
+|tu|eus|paramétr%[m|é]|
+|il|eut|paramétr%[m|é]|
+|nous|e&ucirc;mes|paramétr%[m|é]|
+|vous|e&ucirc;tes|paramétr%[m|é]|
+|ils|eurent|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|paramétr%[m|erai]|
+|tu|paramétr%[m|eras]|
+|il|paramétr%[m|era]|
+|nous|paramétr%[m|erons]|
+|vous|paramétr%[m|erez]|
+|ils|paramétr%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|paramétr%[m|é]|
+|tu|auras|paramétr%[m|é]|
+|il|aura|paramétr%[m|é]|
+|nous|aurons|paramétr%[m|é]|
+|vous|aurez|paramétr%[m|é]|
+|ils|auront|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|paramétr%[m|erais]|
+|tu|paramétr%[m|erais]|
+|il|paramétr%[m|erait]|
+|nous|paramétr%[m|erions]|
+|vous|paramétr%[m|eriez]|
+|ils|paramétr%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|paramétr%[m|é]|
+|tu|aurais|paramétr%[m|é]|
+|il|aurait|paramétr%[m|é]|
+|nous|aurions|paramétr%[m|é]|
+|vous|auriez|paramétr%[m|é]|
+|ils|auraient|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|paramétr%[m|e]|
+|que|tu|paramétr%[m|es]|
+|qu'|il|paramétr%[m|e]|
+|que|nous|paramétr%[m|ions]|
+|que|vous|paramétr%[m|iez]|
+|qu'|ils|paramétr%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|paramétr%[m|é]|
+|que|tu|aies|paramétr%[m|é]|
+|qu'|il|ait|paramétr%[m|é]|
+|que|nous|ayons|paramétr%[m|é]|
+|que|vous|ayez|paramétr%[m|é]|
+|qu'|ils|aient|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|paramétr%[m|asse]|
+|que|tu|paramétr%[m|asses]|
+|qu'|il|paramétr%[m|ât]|
+|que|nous|paramétr%[m|assions]|
+|que|vous|paramétr%[m|assiez]|
+|qu'|ils|paramétr%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|paramétr%[m|é]|
+|que|tu|eusses|paramétr%[m|é]|
+|qu'|il|eût|paramétr%[m|é]|
+|que|nous|eussions|paramétr%[m|é]|
+|que|vous|eussiez|paramétr%[m|é]|
+|qu'|ils|eussent|paramétr%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|paramétr%[m|e]|
+|paramétr%[m|ons]|
+|paramétr%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|paramétr%[m|é]|
+|ayons|paramétr%[m|é]|
+|ayez|paramétr%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# baser %[clVerbGroup|1]
+[-
+faire reposer un raisonnement sur une base, fonder. 
+donner pour base, concentrer en un lieu. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bas%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bas%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bas%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bas%[m|é]|
+|ayant|bas%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bas%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bas%[m|e]|
+|tu|bas%[m|es]|
+|il|bas%[m|e]|
+|nous|bas%[m|ons]|
+|vous|bas%[m|ez]|
+|ils|bas%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bas%[m|é]|
+|tu|as |bas%[m|é]|
+|il|a|bas%[m|é]|
+|nous|avons|bas%[m|é]|
+|vous|avez|bas%[m|é]|
+|ils|ont|bas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bas%[m|ais]|
+|tu|bas%[m|ais]|
+|il|bas%[m|ait]|
+|nous|bas%[m|ions]|
+|vous|bas%[m|iez]|
+|ils|bas%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bas%[m|é]|
+|tu|avais|bas%[m|é]|
+|il|avait|bas%[m|é]|
+|nous|avions|bas%[m|é]|
+|vous|aviez|bas%[m|é]|
+|ils|avaient|bas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bas%[m|ai]|
+|tu|bas%[m|as]|
+|il|bas%[m|a]|
+|nous|bas%[m|âmes]|
+|vous|bas%[m|âtes]|
+|ils|bas%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bas%[m|é]|
+|tu|eus|bas%[m|é]|
+|il|eut|bas%[m|é]|
+|nous|e&ucirc;mes|bas%[m|é]|
+|vous|e&ucirc;tes|bas%[m|é]|
+|ils|eurent|bas%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bas%[m|erai]|
+|tu|bas%[m|eras]|
+|il|bas%[m|era]|
+|nous|bas%[m|erons]|
+|vous|bas%[m|erez]|
+|ils|bas%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bas%[m|é]|
+|tu|auras|bas%[m|é]|
+|il|aura|bas%[m|é]|
+|nous|aurons|bas%[m|é]|
+|vous|aurez|bas%[m|é]|
+|ils|auront|bas%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bas%[m|erais]|
+|tu|bas%[m|erais]|
+|il|bas%[m|erait]|
+|nous|bas%[m|erions]|
+|vous|bas%[m|eriez]|
+|ils|bas%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bas%[m|é]|
+|tu|aurais|bas%[m|é]|
+|il|aurait|bas%[m|é]|
+|nous|aurions|bas%[m|é]|
+|vous|auriez|bas%[m|é]|
+|ils|auraient|bas%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bas%[m|e]|
+|que|tu|bas%[m|es]|
+|qu'|il|bas%[m|e]|
+|que|nous|bas%[m|ions]|
+|que|vous|bas%[m|iez]|
+|qu'|ils|bas%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bas%[m|é]|
+|que|tu|aies|bas%[m|é]|
+|qu'|il|ait|bas%[m|é]|
+|que|nous|ayons|bas%[m|é]|
+|que|vous|ayez|bas%[m|é]|
+|qu'|ils|aient|bas%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bas%[m|asse]|
+|que|tu|bas%[m|asses]|
+|qu'|il|bas%[m|ât]|
+|que|nous|bas%[m|assions]|
+|que|vous|bas%[m|assiez]|
+|qu'|ils|bas%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bas%[m|é]|
+|que|tu|eusses|bas%[m|é]|
+|qu'|il|eût|bas%[m|é]|
+|que|nous|eussions|bas%[m|é]|
+|que|vous|eussiez|bas%[m|é]|
+|qu'|ils|eussent|bas%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bas%[m|e]|
+|bas%[m|ons]|
+|bas%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bas%[m|é]|
+|ayons|bas%[m|é]|
+|ayez|bas%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se fatiguer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se fatigu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|fatigu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se fatigu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|fatigu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se fatigu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|fatigu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|fatigu%[m|e]|
+|tu|te|fatigu%[m|es]|
+|il|se|fatigu%[m|e]|
+|nous|nous|fatigu%[m|ons]|
+|vous|vous|fatigu%[m|ez]|
+|ils|se|fatigu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|fatigu%[m|é]|
+|tu|t'|es|fatigu%[m|é]|
+|il|s'|est|fatigu%[m|é]|
+|nous|nous|sommes|fatigu%[m|és]|
+|vous|vous|êtes|fatigu%[m|és]|
+|ils|se|sont|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|fatigu%[m|ais]|
+|tu|te|fatigu%[m|ais]|
+|il|se|fatigu%[m|ait]|
+|nous|nous|fatigu%[m|ions]|
+|vous|vous|fatigu%[m|iez]|
+|ils|se|fatigu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|fatigu%[m|é]|
+|tu|t'|étais|fatigu%[m|é]|
+|il|s'|était|fatigu%[m|é]|
+|nous|nous|étions|fatigu%[m|és]|
+|vous|vous|étiez|fatigu%[m|és]|
+|ils|s'|étaient|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|fatigu%[m|ai]|
+|tu|te|fatigu%[m|as]|
+|il|se|fatigu%[m|a]|
+|nous|nous|fatigu%[m|âmes]|
+|vous|vous|fatigu%[m|âtes]|
+|ils|se|fatigu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|fatigu%[m|é]|
+|tu|te|fus|fatigu%[m|é]|
+|il|se|fut|fatigu%[m|é]|
+|nous|nous|fûmes|fatigu%[m|és]|
+|vous|vous|fûtes|fatigu%[m|és]|
+|ils|se|furent|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|fatigu%[m|erai]|
+|tu|te|fatigu%[m|eras]|
+|il|se|fatigu%[m|era]|
+|nous|nous|fatigu%[m|erons]|
+|vous|vous|fatigu%[m|erez]|
+|ils|se|fatigu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|fatigu%[m|é]|
+|tu|te|seras|fatigu%[m|é]|
+|il|se|sera|fatigu%[m|é]|
+|nous|nous|serons|fatigu%[m|és]|
+|vous|vous|serez|fatigu%[m|és]|
+|ils|se|seront|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|fatigu%[m|erais]|
+|tu|te|fatigu%[m|erais]|
+|il|se|fatigu%[m|erait]|
+|nous|nous|fatigu%[m|erions]|
+|vous|vous|fatigu%[m|eriez]|
+|ils|se|fatigu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|fatigu%[m|é]|
+|tu|te|serais|fatigu%[m|é]|
+|il|se|serait|fatigu%[m|é]|
+|nous|nous|serions|fatigu%[m|és]|
+|vous|vous|seriez|fatigu%[m|és]|
+|ils|se|seraient|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|fatigu%[m|e]|
+|que|tu|te|fatigu%[m|es]|
+|qu'|il|se|fatigu%[m|e]|
+|que|nous|nous|fatigu%[m|ions]|
+|que|vous|vous|fatigu%[m|iez]|
+|qu'|ils|se|fatigu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|fatigu%[m|é]|
+|que|tu|te|sois|fatigu%[m|é]|
+|qu'|il|se|soit|fatigu%[m|é]|
+|que|nous|nous|soyons|fatigu%[m|és]|
+|que|vous|vous|soyez|fatigu%[m|és]|
+|qu'|ils|se|soient|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|fatigu%[m|asse]|
+|que|tu|te|fatigu%[m|asses]|
+|qu'|il|se|fatigu%[m|ât]|
+|que|nous|nous|fatigu%[m|assions]|
+|que|vous|vous|fatigu%[m|assiez]|
+|qu'|ils|se|fatigu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|fatigu%[m|é]|
+|que|tu|te|fusses|fatigu%[m|é]|
+|qu'|il|se|fût|fatigu%[m|é]|
+|que|nous|nous|fussions|fatigu%[m|és]|
+|que|vous|vous|fussiez|fatigu%[m|és]|
+|qu'|ils|se|fussent|fatigu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fatigu%[m|e]-toi|
+|fatigu%[m|ons]-nous|
+|fatigu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

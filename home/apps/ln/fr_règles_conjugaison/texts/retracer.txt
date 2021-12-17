@@ -1,0 +1,191 @@
+# retracer %[clVerbGroup|1]
+[-
+tracer de nouveau. 
+raconter quelque chose de manière vivante. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|retra%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|retra%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|retra%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||retra%[m|cé]|
+|ayant|retra%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en retra%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|retra%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|retra%[m|ce]|
+|tu|retra%[m|ces]|
+|il|retra%[m|ce]|
+|nous|retra%[m|çons]|
+|vous|retra%[m|cez]|
+|ils|retra%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|retra%[m|cé]|
+|tu|as |retra%[m|cé]|
+|il|a|retra%[m|cé]|
+|nous|avons|retra%[m|cé]|
+|vous|avez|retra%[m|cé]|
+|ils|ont|retra%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|retra%[m|çais]|
+|tu|retra%[m|çais]|
+|il|retra%[m|çait]|
+|nous|retra%[m|cions]|
+|vous|retra%[m|ciez]|
+|ils|retra%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|retra%[m|cé]|
+|tu|avais|retra%[m|cé]|
+|il|avait|retra%[m|cé]|
+|nous|avions|retra%[m|cé]|
+|vous|aviez|retra%[m|cé]|
+|ils|avaient|retra%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|retra%[m|çai]|
+|tu|retra%[m|ças]|
+|il|retra%[m|ça]|
+|nous|retra%[m|çâmes]|
+|vous|retra%[m|çâtes]|
+|ils|retra%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|retra%[m|cé]|
+|tu|eus|retra%[m|cé]|
+|il|eut|retra%[m|cé]|
+|nous|e&ucirc;mes|retra%[m|cé]|
+|vous|e&ucirc;tes|retra%[m|cé]|
+|ils|eurent|retra%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|retra%[m|cerai]|
+|tu|retra%[m|ceras]|
+|il|retra%[m|cera]|
+|nous|retra%[m|cerons]|
+|vous|retra%[m|cerez]|
+|ils|retra%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|retra%[m|cé]|
+|tu|auras|retra%[m|cé]|
+|il|aura|retra%[m|cé]|
+|nous|aurons|retra%[m|cé]|
+|vous|aurez|retra%[m|cé]|
+|ils|auront|retra%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|retra%[m|cerais]|
+|tu|retra%[m|cerais]|
+|il|retra%[m|cerait]|
+|nous|retra%[m|cerions]|
+|vous|retra%[m|ceriez]|
+|ils|retra%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|retra%[m|cé]|
+|tu|aurais|retra%[m|cé]|
+|il|aurait|retra%[m|cé]|
+|nous|aurions|retra%[m|cé]|
+|vous|auriez|retra%[m|cé]|
+|ils|auraient|retra%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|retra%[m|ce]|
+|que|tu|retra%[m|ces]|
+|qu'|il|retra%[m|ce]|
+|que|nous|retra%[m|cions]|
+|que|vous|retra%[m|ciez]|
+|qu'|ils|retra%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|retra%[m|cé]|
+|que|tu|aies|retra%[m|cé]|
+|qu'|il|ait|retra%[m|cé]|
+|que|nous|ayons|retra%[m|cé]|
+|que|vous|ayez|retra%[m|cé]|
+|qu'|ils|aient|retra%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|retra%[m|çasse]|
+|que|tu|retra%[m|çasses]|
+|qu'|il|retra%[m|çât]|
+|que|nous|retra%[m|çassions]|
+|que|vous|retra%[m|çassiez]|
+|qu'|ils|retra%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|retra%[m|cé]|
+|que|tu|eusses|retra%[m|cé]|
+|qu'|il|eût|retra%[m|cé]|
+|que|nous|eussions|retra%[m|cé]|
+|que|vous|eussiez|retra%[m|cé]|
+|qu'|ils|eussent|retra%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|retra%[m|ce]|
+|retra%[m|çons]|
+|retra%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|retra%[m|cé]|
+|ayons|retra%[m|cé]|
+|ayez|retra%[m|cé]|
+|]
+

@@ -1,0 +1,190 @@
+# dribbler %[clVerbGroup|1]
+[-
+guider le ballon (au pied ou à la main) par de petite poussées. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dribbl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dribbl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dribbl%[m|é]|
+|ayant|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dribbl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dribbl%[m|e]|
+|tu|dribbl%[m|es]|
+|il|dribbl%[m|e]|
+|nous|dribbl%[m|ons]|
+|vous|dribbl%[m|ez]|
+|ils|dribbl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dribbl%[m|é]|
+|tu|as |dribbl%[m|é]|
+|il|a|dribbl%[m|é]|
+|nous|avons|dribbl%[m|é]|
+|vous|avez|dribbl%[m|é]|
+|ils|ont|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dribbl%[m|ais]|
+|tu|dribbl%[m|ais]|
+|il|dribbl%[m|ait]|
+|nous|dribbl%[m|ions]|
+|vous|dribbl%[m|iez]|
+|ils|dribbl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dribbl%[m|é]|
+|tu|avais|dribbl%[m|é]|
+|il|avait|dribbl%[m|é]|
+|nous|avions|dribbl%[m|é]|
+|vous|aviez|dribbl%[m|é]|
+|ils|avaient|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dribbl%[m|ai]|
+|tu|dribbl%[m|as]|
+|il|dribbl%[m|a]|
+|nous|dribbl%[m|âmes]|
+|vous|dribbl%[m|âtes]|
+|ils|dribbl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dribbl%[m|é]|
+|tu|eus|dribbl%[m|é]|
+|il|eut|dribbl%[m|é]|
+|nous|e&ucirc;mes|dribbl%[m|é]|
+|vous|e&ucirc;tes|dribbl%[m|é]|
+|ils|eurent|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dribbl%[m|erai]|
+|tu|dribbl%[m|eras]|
+|il|dribbl%[m|era]|
+|nous|dribbl%[m|erons]|
+|vous|dribbl%[m|erez]|
+|ils|dribbl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dribbl%[m|é]|
+|tu|auras|dribbl%[m|é]|
+|il|aura|dribbl%[m|é]|
+|nous|aurons|dribbl%[m|é]|
+|vous|aurez|dribbl%[m|é]|
+|ils|auront|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dribbl%[m|erais]|
+|tu|dribbl%[m|erais]|
+|il|dribbl%[m|erait]|
+|nous|dribbl%[m|erions]|
+|vous|dribbl%[m|eriez]|
+|ils|dribbl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dribbl%[m|é]|
+|tu|aurais|dribbl%[m|é]|
+|il|aurait|dribbl%[m|é]|
+|nous|aurions|dribbl%[m|é]|
+|vous|auriez|dribbl%[m|é]|
+|ils|auraient|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dribbl%[m|e]|
+|que|tu|dribbl%[m|es]|
+|qu'|il|dribbl%[m|e]|
+|que|nous|dribbl%[m|ions]|
+|que|vous|dribbl%[m|iez]|
+|qu'|ils|dribbl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dribbl%[m|é]|
+|que|tu|aies|dribbl%[m|é]|
+|qu'|il|ait|dribbl%[m|é]|
+|que|nous|ayons|dribbl%[m|é]|
+|que|vous|ayez|dribbl%[m|é]|
+|qu'|ils|aient|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dribbl%[m|asse]|
+|que|tu|dribbl%[m|asses]|
+|qu'|il|dribbl%[m|ât]|
+|que|nous|dribbl%[m|assions]|
+|que|vous|dribbl%[m|assiez]|
+|qu'|ils|dribbl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dribbl%[m|é]|
+|que|tu|eusses|dribbl%[m|é]|
+|qu'|il|eût|dribbl%[m|é]|
+|que|nous|eussions|dribbl%[m|é]|
+|que|vous|eussiez|dribbl%[m|é]|
+|qu'|ils|eussent|dribbl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dribbl%[m|e]|
+|dribbl%[m|ons]|
+|dribbl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dribbl%[m|é]|
+|ayons|dribbl%[m|é]|
+|ayez|dribbl%[m|é]|
+|]
+

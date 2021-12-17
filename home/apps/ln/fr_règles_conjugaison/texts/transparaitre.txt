@@ -1,0 +1,191 @@
+# transparaître %[clVerbGroup|3]
+[-
+apparaître à travers. 
+se manifester, se révéler. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|transpar%[m|aître]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|transpar%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|transpar%[m|aissant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||transpar%[m|u]|
+|ayant|transpar%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en transpar%[m|aissant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|transpar%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|transpar%[m|ais]|
+|tu|transpar%[m|ais]|
+|il|transpar%[m|aît]|
+|nous|transpar%[m|aissons]|
+|vous|transpar%[m|aissez]|
+|ils|transpar%[m|aissent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|transpar%[m|u]|
+|tu|as |transpar%[m|u]|
+|il|a|transpar%[m|u]|
+|nous|avons|transpar%[m|u]|
+|vous|avez|transpar%[m|u]|
+|ils|ont|transpar%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|transpar%[m|aissais]|
+|tu|transpar%[m|aissais]|
+|il|transpar%[m|aissait]|
+|nous|transpar%[m|aissions]|
+|vous|transpar%[m|aissiez]|
+|ils|transpar%[m|aissaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|transpar%[m|u]|
+|tu|avais|transpar%[m|u]|
+|il|avait|transpar%[m|u]|
+|nous|avions|transpar%[m|u]|
+|vous|aviez|transpar%[m|u]|
+|ils|avaient|transpar%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|transpar%[m|us]|
+|tu|transpar%[m|us]|
+|il|transpar%[m|ut]|
+|nous|transpar%[m|ûmes]|
+|vous|transpar%[m|ûtes]|
+|ils|transpar%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|transpar%[m|u]|
+|tu|eus|transpar%[m|u]|
+|il|eut|transpar%[m|u]|
+|nous|e&ucirc;mes|transpar%[m|u]|
+|vous|e&ucirc;tes|transpar%[m|u]|
+|ils|eurent|transpar%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|transpar%[m|aîtrai]|
+|tu|transpar%[m|aîtras]|
+|il|transpar%[m|aîtra]|
+|nous|transpar%[m|aîtrons]|
+|vous|transpar%[m|aîtrez]|
+|ils|transpar%[m|aîtront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|transpar%[m|u]|
+|tu|auras|transpar%[m|u]|
+|il|aura|transpar%[m|u]|
+|nous|aurons|transpar%[m|u]|
+|vous|aurez|transpar%[m|u]|
+|ils|auront|transpar%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|transpar%[m|aîtrais]|
+|tu|transpar%[m|aîtrais]|
+|il|transpar%[m|aîtrait]|
+|nous|transpar%[m|aîtrions]|
+|vous|transpar%[m|aîtriez]|
+|ils|transpar%[m|aîtraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|transpar%[m|u]|
+|tu|aurais|transpar%[m|u]|
+|il|aurait|transpar%[m|u]|
+|nous|aurions|transpar%[m|u]|
+|vous|auriez|transpar%[m|u]|
+|ils|auraient|transpar%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|transpar%[m|aisse]|
+|que|tu|transpar%[m|aisses]|
+|qu'|il|transpar%[m|aisse]|
+|que|nous|transpar%[m|aissions]|
+|que|vous|transpar%[m|aissiez]|
+|qu'|ils|transpar%[m|aissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|transpar%[m|u]|
+|que|tu|aies|transpar%[m|u]|
+|qu'|il|ait|transpar%[m|u]|
+|que|nous|ayons|transpar%[m|u]|
+|que|vous|ayez|transpar%[m|u]|
+|qu'|ils|aient|transpar%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|transpar%[m|usse]|
+|que|tu|transpar%[m|usses]|
+|qu'|il|transpar%[m|ût]|
+|que|nous|transpar%[m|ussions]|
+|que|vous|transpar%[m|ussiez]|
+|qu'|ils|transpar%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|transpar%[m|u]|
+|que|tu|eusses|transpar%[m|u]|
+|qu'|il|eût|transpar%[m|u]|
+|que|nous|eussions|transpar%[m|u]|
+|que|vous|eussiez|transpar%[m|u]|
+|qu'|ils|eussent|transpar%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|transpar%[m|ais]|
+|transpar%[m|aissons]|
+|transpar%[m|aissez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|transpar%[m|u]|
+|ayons|transpar%[m|u]|
+|ayez|transpar%[m|u]|
+|]
+

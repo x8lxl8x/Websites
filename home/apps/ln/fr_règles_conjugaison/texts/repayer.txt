@@ -1,0 +1,190 @@
+# repayer %[clVerbGroup|1]
+[-
+payer de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repa%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repa%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repa%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repa%[m|yé]|
+|ayant|repa%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repa%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repa%[m|ie]/repa%[m|ye]|
+|tu|repa%[m|ies]/repa%[m|yes]|
+|il|repa%[m|ie]/repa%[m|ye]|
+|nous|repa%[m|yons]|
+|vous|repa%[m|yez]|
+|ils|repa%[m|ient]/repa%[m|yent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repa%[m|yé]|
+|tu|as |repa%[m|yé]|
+|il|a|repa%[m|yé]|
+|nous|avons|repa%[m|yé]|
+|vous|avez|repa%[m|yé]|
+|ils|ont|repa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repa%[m|yais]|
+|tu|repa%[m|yais]|
+|il|repa%[m|yait]|
+|nous|repa%[m|yions]|
+|vous|repa%[m|yiez]|
+|ils|repa%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repa%[m|yé]|
+|tu|avais|repa%[m|yé]|
+|il|avait|repa%[m|yé]|
+|nous|avions|repa%[m|yé]|
+|vous|aviez|repa%[m|yé]|
+|ils|avaient|repa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repa%[m|yai]|
+|tu|repa%[m|yas]|
+|il|repa%[m|ya]|
+|nous|repa%[m|yâmes]|
+|vous|repa%[m|yâtes]|
+|ils|repa%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repa%[m|yé]|
+|tu|eus|repa%[m|yé]|
+|il|eut|repa%[m|yé]|
+|nous|e&ucirc;mes|repa%[m|yé]|
+|vous|e&ucirc;tes|repa%[m|yé]|
+|ils|eurent|repa%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repa%[m|ierai]/repa%[m|yerai]|
+|tu|repa%[m|ieras]/repa%[m|yeras]|
+|il|repa%[m|iera]/repa%[m|yera]|
+|nous|repa%[m|ierons]/repa%[m|yerons]|
+|vous|repa%[m|ierez]/repa%[m|yerez]|
+|ils|repa%[m|ieront]/repa%[m|yeront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repa%[m|yé]|
+|tu|auras|repa%[m|yé]|
+|il|aura|repa%[m|yé]|
+|nous|aurons|repa%[m|yé]|
+|vous|aurez|repa%[m|yé]|
+|ils|auront|repa%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repa%[m|ierais]/repa%[m|yerais]|
+|tu|repa%[m|ierais]/repa%[m|yerais]|
+|il|repa%[m|ierait]/repa%[m|yerait]|
+|nous|repa%[m|ierions]/repa%[m|yerions]|
+|vous|repa%[m|ieriez]/repa%[m|yeriez]|
+|ils|repa%[m|ieraient]/repa%[m|yeraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repa%[m|yé]|
+|tu|aurais|repa%[m|yé]|
+|il|aurait|repa%[m|yé]|
+|nous|aurions|repa%[m|yé]|
+|vous|auriez|repa%[m|yé]|
+|ils|auraient|repa%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repa%[m|ie]/repa%[m|ye]|
+|que|tu|repa%[m|ies]/repa%[m|yes]|
+|qu'|il|repa%[m|ie]/repa%[m|ye]|
+|que|nous|repa%[m|yions]|
+|que|vous|repa%[m|yiez]|
+|qu'|ils|repa%[m|ient]/repa%[m|yent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repa%[m|yé]|
+|que|tu|aies|repa%[m|yé]|
+|qu'|il|ait|repa%[m|yé]|
+|que|nous|ayons|repa%[m|yé]|
+|que|vous|ayez|repa%[m|yé]|
+|qu'|ils|aient|repa%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repa%[m|yasse]|
+|que|tu|repa%[m|yasses]|
+|qu'|il|repa%[m|yât]|
+|que|nous|repa%[m|yassions]|
+|que|vous|repa%[m|yassiez]|
+|qu'|ils|repa%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repa%[m|yé]|
+|que|tu|eusses|repa%[m|yé]|
+|qu'|il|eût|repa%[m|yé]|
+|que|nous|eussions|repa%[m|yé]|
+|que|vous|eussiez|repa%[m|yé]|
+|qu'|ils|eussent|repa%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repa%[m|ie]/repa%[m|ye]|
+|repa%[m|yons]|
+|repa%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repa%[m|yé]|
+|ayons|repa%[m|yé]|
+|ayez|repa%[m|yé]|
+|]
+

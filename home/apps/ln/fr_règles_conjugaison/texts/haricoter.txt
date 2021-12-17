@@ -1,0 +1,190 @@
+# haricoter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|haricot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|haricot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|haricot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||haricot%[m|é]|
+|ayant|haricot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en haricot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|haricot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|haricot%[m|e]|
+|tu|haricot%[m|es]|
+|il|haricot%[m|e]|
+|nous|haricot%[m|ons]|
+|vous|haricot%[m|ez]|
+|ils|haricot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|haricot%[m|é]|
+|tu|as |haricot%[m|é]|
+|il|a|haricot%[m|é]|
+|nous|avons|haricot%[m|é]|
+|vous|avez|haricot%[m|é]|
+|ils|ont|haricot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|haricot%[m|ais]|
+|tu|haricot%[m|ais]|
+|il|haricot%[m|ait]|
+|nous|haricot%[m|ions]|
+|vous|haricot%[m|iez]|
+|ils|haricot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|haricot%[m|é]|
+|tu|avais|haricot%[m|é]|
+|il|avait|haricot%[m|é]|
+|nous|avions|haricot%[m|é]|
+|vous|aviez|haricot%[m|é]|
+|ils|avaient|haricot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|haricot%[m|ai]|
+|tu|haricot%[m|as]|
+|il|haricot%[m|a]|
+|nous|haricot%[m|âmes]|
+|vous|haricot%[m|âtes]|
+|ils|haricot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|haricot%[m|é]|
+|tu|eus|haricot%[m|é]|
+|il|eut|haricot%[m|é]|
+|nous|e&ucirc;mes|haricot%[m|é]|
+|vous|e&ucirc;tes|haricot%[m|é]|
+|ils|eurent|haricot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|haricot%[m|erai]|
+|tu|haricot%[m|eras]|
+|il|haricot%[m|era]|
+|nous|haricot%[m|erons]|
+|vous|haricot%[m|erez]|
+|ils|haricot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|haricot%[m|é]|
+|tu|auras|haricot%[m|é]|
+|il|aura|haricot%[m|é]|
+|nous|aurons|haricot%[m|é]|
+|vous|aurez|haricot%[m|é]|
+|ils|auront|haricot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|haricot%[m|erais]|
+|tu|haricot%[m|erais]|
+|il|haricot%[m|erait]|
+|nous|haricot%[m|erions]|
+|vous|haricot%[m|eriez]|
+|ils|haricot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|haricot%[m|é]|
+|tu|aurais|haricot%[m|é]|
+|il|aurait|haricot%[m|é]|
+|nous|aurions|haricot%[m|é]|
+|vous|auriez|haricot%[m|é]|
+|ils|auraient|haricot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|haricot%[m|e]|
+|que|tu|haricot%[m|es]|
+|qu'|il|haricot%[m|e]|
+|que|nous|haricot%[m|ions]|
+|que|vous|haricot%[m|iez]|
+|qu'|ils|haricot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|haricot%[m|é]|
+|que|tu|aies|haricot%[m|é]|
+|qu'|il|ait|haricot%[m|é]|
+|que|nous|ayons|haricot%[m|é]|
+|que|vous|ayez|haricot%[m|é]|
+|qu'|ils|aient|haricot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|haricot%[m|asse]|
+|que|tu|haricot%[m|asses]|
+|qu'|il|haricot%[m|ât]|
+|que|nous|haricot%[m|assions]|
+|que|vous|haricot%[m|assiez]|
+|qu'|ils|haricot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|haricot%[m|é]|
+|que|tu|eusses|haricot%[m|é]|
+|qu'|il|eût|haricot%[m|é]|
+|que|nous|eussions|haricot%[m|é]|
+|que|vous|eussiez|haricot%[m|é]|
+|qu'|ils|eussent|haricot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|haricot%[m|e]|
+|haricot%[m|ons]|
+|haricot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|haricot%[m|é]|
+|ayons|haricot%[m|é]|
+|ayez|haricot%[m|é]|
+|]
+

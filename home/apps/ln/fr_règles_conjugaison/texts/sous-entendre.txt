@@ -1,0 +1,190 @@
+# sous-entendre %[clVerbGroup|3]
+[-
+exprimer de façon indirecte. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sous-entend%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sous-entend%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sous-entend%[m|u]|
+|ayant|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sous-entend%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sous-entend%[m|s]|
+|tu|sous-entend%[m|s]|
+|il|sous-entend%[m|]|
+|nous|sous-entend%[m|ons]|
+|vous|sous-entend%[m|ez]|
+|ils|sous-entend%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sous-entend%[m|u]|
+|tu|as |sous-entend%[m|u]|
+|il|a|sous-entend%[m|u]|
+|nous|avons|sous-entend%[m|u]|
+|vous|avez|sous-entend%[m|u]|
+|ils|ont|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sous-entend%[m|ais]|
+|tu|sous-entend%[m|ais]|
+|il|sous-entend%[m|ait]|
+|nous|sous-entend%[m|ions]|
+|vous|sous-entend%[m|iez]|
+|ils|sous-entend%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sous-entend%[m|u]|
+|tu|avais|sous-entend%[m|u]|
+|il|avait|sous-entend%[m|u]|
+|nous|avions|sous-entend%[m|u]|
+|vous|aviez|sous-entend%[m|u]|
+|ils|avaient|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sous-entend%[m|is]|
+|tu|sous-entend%[m|is]|
+|il|sous-entend%[m|it]|
+|nous|sous-entend%[m|îmes]|
+|vous|sous-entend%[m|îtes]|
+|ils|sous-entend%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sous-entend%[m|u]|
+|tu|eus|sous-entend%[m|u]|
+|il|eut|sous-entend%[m|u]|
+|nous|e&ucirc;mes|sous-entend%[m|u]|
+|vous|e&ucirc;tes|sous-entend%[m|u]|
+|ils|eurent|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sous-entend%[m|rai]|
+|tu|sous-entend%[m|ras]|
+|il|sous-entend%[m|ra]|
+|nous|sous-entend%[m|rons]|
+|vous|sous-entend%[m|rez]|
+|ils|sous-entend%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sous-entend%[m|u]|
+|tu|auras|sous-entend%[m|u]|
+|il|aura|sous-entend%[m|u]|
+|nous|aurons|sous-entend%[m|u]|
+|vous|aurez|sous-entend%[m|u]|
+|ils|auront|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sous-entend%[m|rais]|
+|tu|sous-entend%[m|rais]|
+|il|sous-entend%[m|rait]|
+|nous|sous-entend%[m|rions]|
+|vous|sous-entend%[m|riez]|
+|ils|sous-entend%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sous-entend%[m|u]|
+|tu|aurais|sous-entend%[m|u]|
+|il|aurait|sous-entend%[m|u]|
+|nous|aurions|sous-entend%[m|u]|
+|vous|auriez|sous-entend%[m|u]|
+|ils|auraient|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sous-entend%[m|e]|
+|que|tu|sous-entend%[m|es]|
+|qu'|il|sous-entend%[m|e]|
+|que|nous|sous-entend%[m|ions]|
+|que|vous|sous-entend%[m|iez]|
+|qu'|ils|sous-entend%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sous-entend%[m|u]|
+|que|tu|aies|sous-entend%[m|u]|
+|qu'|il|ait|sous-entend%[m|u]|
+|que|nous|ayons|sous-entend%[m|u]|
+|que|vous|ayez|sous-entend%[m|u]|
+|qu'|ils|aient|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sous-entend%[m|isse]|
+|que|tu|sous-entend%[m|isses]|
+|qu'|il|sous-entend%[m|ît]|
+|que|nous|sous-entend%[m|issions]|
+|que|vous|sous-entend%[m|issiez]|
+|qu'|ils|sous-entend%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sous-entend%[m|u]|
+|que|tu|eusses|sous-entend%[m|u]|
+|qu'|il|eût|sous-entend%[m|u]|
+|que|nous|eussions|sous-entend%[m|u]|
+|que|vous|eussiez|sous-entend%[m|u]|
+|qu'|ils|eussent|sous-entend%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sous-entend%[m|s]|
+|sous-entend%[m|ons]|
+|sous-entend%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sous-entend%[m|u]|
+|ayons|sous-entend%[m|u]|
+|ayez|sous-entend%[m|u]|
+|]
+

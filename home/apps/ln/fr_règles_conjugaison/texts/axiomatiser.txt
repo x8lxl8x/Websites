@@ -1,0 +1,190 @@
+# axiomatiser %[clVerbGroup|1]
+[-
+décrire sous forme axiomatique. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|axiomatis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|axiomatis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||axiomatis%[m|é]|
+|ayant|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en axiomatis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|axiomatis%[m|e]|
+|tu|axiomatis%[m|es]|
+|il|axiomatis%[m|e]|
+|nous|axiomatis%[m|ons]|
+|vous|axiomatis%[m|ez]|
+|ils|axiomatis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|axiomatis%[m|é]|
+|tu|as |axiomatis%[m|é]|
+|il|a|axiomatis%[m|é]|
+|nous|avons|axiomatis%[m|é]|
+|vous|avez|axiomatis%[m|é]|
+|ils|ont|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|axiomatis%[m|ais]|
+|tu|axiomatis%[m|ais]|
+|il|axiomatis%[m|ait]|
+|nous|axiomatis%[m|ions]|
+|vous|axiomatis%[m|iez]|
+|ils|axiomatis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|axiomatis%[m|é]|
+|tu|avais|axiomatis%[m|é]|
+|il|avait|axiomatis%[m|é]|
+|nous|avions|axiomatis%[m|é]|
+|vous|aviez|axiomatis%[m|é]|
+|ils|avaient|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|axiomatis%[m|ai]|
+|tu|axiomatis%[m|as]|
+|il|axiomatis%[m|a]|
+|nous|axiomatis%[m|âmes]|
+|vous|axiomatis%[m|âtes]|
+|ils|axiomatis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|axiomatis%[m|é]|
+|tu|eus|axiomatis%[m|é]|
+|il|eut|axiomatis%[m|é]|
+|nous|e&ucirc;mes|axiomatis%[m|é]|
+|vous|e&ucirc;tes|axiomatis%[m|é]|
+|ils|eurent|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|axiomatis%[m|erai]|
+|tu|axiomatis%[m|eras]|
+|il|axiomatis%[m|era]|
+|nous|axiomatis%[m|erons]|
+|vous|axiomatis%[m|erez]|
+|ils|axiomatis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|axiomatis%[m|é]|
+|tu|auras|axiomatis%[m|é]|
+|il|aura|axiomatis%[m|é]|
+|nous|aurons|axiomatis%[m|é]|
+|vous|aurez|axiomatis%[m|é]|
+|ils|auront|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|axiomatis%[m|erais]|
+|tu|axiomatis%[m|erais]|
+|il|axiomatis%[m|erait]|
+|nous|axiomatis%[m|erions]|
+|vous|axiomatis%[m|eriez]|
+|ils|axiomatis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|axiomatis%[m|é]|
+|tu|aurais|axiomatis%[m|é]|
+|il|aurait|axiomatis%[m|é]|
+|nous|aurions|axiomatis%[m|é]|
+|vous|auriez|axiomatis%[m|é]|
+|ils|auraient|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|axiomatis%[m|e]|
+|que|tu|axiomatis%[m|es]|
+|qu'|il|axiomatis%[m|e]|
+|que|nous|axiomatis%[m|ions]|
+|que|vous|axiomatis%[m|iez]|
+|qu'|ils|axiomatis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|axiomatis%[m|é]|
+|que|tu|aies|axiomatis%[m|é]|
+|qu'|il|ait|axiomatis%[m|é]|
+|que|nous|ayons|axiomatis%[m|é]|
+|que|vous|ayez|axiomatis%[m|é]|
+|qu'|ils|aient|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|axiomatis%[m|asse]|
+|que|tu|axiomatis%[m|asses]|
+|qu'|il|axiomatis%[m|ât]|
+|que|nous|axiomatis%[m|assions]|
+|que|vous|axiomatis%[m|assiez]|
+|qu'|ils|axiomatis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|axiomatis%[m|é]|
+|que|tu|eusses|axiomatis%[m|é]|
+|qu'|il|eût|axiomatis%[m|é]|
+|que|nous|eussions|axiomatis%[m|é]|
+|que|vous|eussiez|axiomatis%[m|é]|
+|qu'|ils|eussent|axiomatis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|axiomatis%[m|e]|
+|axiomatis%[m|ons]|
+|axiomatis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|axiomatis%[m|é]|
+|ayons|axiomatis%[m|é]|
+|ayez|axiomatis%[m|é]|
+|]
+

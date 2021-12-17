@@ -1,0 +1,192 @@
+# arrondir %[clVerbGroup|2]
+[-
+donner une forme ronde. 
+approximer un nombre en le rendant plus simple. 
+compléter une somme en l'augmentant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|arrond%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|arrond%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|arrond%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||arrond%[m|i]|
+|ayant|arrond%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en arrond%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|arrond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|arrond%[m|is]|
+|tu|arrond%[m|is]|
+|il|arrond%[m|it]|
+|nous|arrond%[m|issons]|
+|vous|arrond%[m|issez]|
+|ils|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|arrond%[m|i]|
+|tu|as |arrond%[m|i]|
+|il|a|arrond%[m|i]|
+|nous|avons|arrond%[m|i]|
+|vous|avez|arrond%[m|i]|
+|ils|ont|arrond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|arrond%[m|issais]|
+|tu|arrond%[m|issais]|
+|il|arrond%[m|issait]|
+|nous|arrond%[m|issions]|
+|vous|arrond%[m|issiez]|
+|ils|arrond%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|arrond%[m|i]|
+|tu|avais|arrond%[m|i]|
+|il|avait|arrond%[m|i]|
+|nous|avions|arrond%[m|i]|
+|vous|aviez|arrond%[m|i]|
+|ils|avaient|arrond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|arrond%[m|is]|
+|tu|arrond%[m|is]|
+|il|arrond%[m|it]|
+|nous|arrond%[m|îmes]|
+|vous|arrond%[m|îtes]|
+|ils|arrond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|arrond%[m|i]|
+|tu|eus|arrond%[m|i]|
+|il|eut|arrond%[m|i]|
+|nous|e&ucirc;mes|arrond%[m|i]|
+|vous|e&ucirc;tes|arrond%[m|i]|
+|ils|eurent|arrond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|arrond%[m|irai]|
+|tu|arrond%[m|iras]|
+|il|arrond%[m|ira]|
+|nous|arrond%[m|irons]|
+|vous|arrond%[m|irez]|
+|ils|arrond%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|arrond%[m|i]|
+|tu|auras|arrond%[m|i]|
+|il|aura|arrond%[m|i]|
+|nous|aurons|arrond%[m|i]|
+|vous|aurez|arrond%[m|i]|
+|ils|auront|arrond%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|arrond%[m|irais]|
+|tu|arrond%[m|irais]|
+|il|arrond%[m|irait]|
+|nous|arrond%[m|irions]|
+|vous|arrond%[m|iriez]|
+|ils|arrond%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|arrond%[m|i]|
+|tu|aurais|arrond%[m|i]|
+|il|aurait|arrond%[m|i]|
+|nous|aurions|arrond%[m|i]|
+|vous|auriez|arrond%[m|i]|
+|ils|auraient|arrond%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|arrond%[m|isse]|
+|que|tu|arrond%[m|isses]|
+|qu'|il|arrond%[m|isse]|
+|que|nous|arrond%[m|issions]|
+|que|vous|arrond%[m|issiez]|
+|qu'|ils|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|arrond%[m|i]|
+|que|tu|aies|arrond%[m|i]|
+|qu'|il|ait|arrond%[m|i]|
+|que|nous|ayons|arrond%[m|i]|
+|que|vous|ayez|arrond%[m|i]|
+|qu'|ils|aient|arrond%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|arrond%[m|isse]|
+|que|tu|arrond%[m|isses]|
+|qu'|il|arrond%[m|ît]|
+|que|nous|arrond%[m|issions]|
+|que|vous|arrond%[m|issiez]|
+|qu'|ils|arrond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|arrond%[m|i]|
+|que|tu|eusses|arrond%[m|i]|
+|qu'|il|eût|arrond%[m|i]|
+|que|nous|eussions|arrond%[m|i]|
+|que|vous|eussiez|arrond%[m|i]|
+|qu'|ils|eussent|arrond%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arrond%[m|is]|
+|arrond%[m|issons]|
+|arrond%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|arrond%[m|i]|
+|ayons|arrond%[m|i]|
+|ayez|arrond%[m|i]|
+|]
+

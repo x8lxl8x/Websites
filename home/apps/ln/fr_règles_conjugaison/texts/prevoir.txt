@@ -1,0 +1,191 @@
+# prévoir %[clVerbGroup|3]
+[-
+concevoir, considérer comme probable, envisager ou imaginer un événement futur. 
+organiser d'avance, prendre des dispositions en prévision d'un événement futur. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|prév%[m|oir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|prév%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|prév%[m|oyant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||prév%[m|u]|
+|ayant|prév%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en prév%[m|oyant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|prév%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|prév%[m|ois]|
+|tu|prév%[m|ois]|
+|il|prév%[m|oit]|
+|nous|prév%[m|oyons]|
+|vous|prév%[m|oyez]|
+|ils|prév%[m|oient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|prév%[m|u]|
+|tu|as |prév%[m|u]|
+|il|a|prév%[m|u]|
+|nous|avons|prév%[m|u]|
+|vous|avez|prév%[m|u]|
+|ils|ont|prév%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|prév%[m|oyais]|
+|tu|prév%[m|oyais]|
+|il|prév%[m|oyait]|
+|nous|prév%[m|oyions]|
+|vous|prév%[m|oyiez]|
+|ils|prév%[m|oyaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|prév%[m|u]|
+|tu|avais|prév%[m|u]|
+|il|avait|prév%[m|u]|
+|nous|avions|prév%[m|u]|
+|vous|aviez|prév%[m|u]|
+|ils|avaient|prév%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|prév%[m|is]|
+|tu|prév%[m|is]|
+|il|prév%[m|it]|
+|nous|prév%[m|îmes]|
+|vous|prév%[m|îtes]|
+|ils|prév%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|prév%[m|u]|
+|tu|eus|prév%[m|u]|
+|il|eut|prév%[m|u]|
+|nous|e&ucirc;mes|prév%[m|u]|
+|vous|e&ucirc;tes|prév%[m|u]|
+|ils|eurent|prév%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|prév%[m|oirai]|
+|tu|prév%[m|oiras]|
+|il|prév%[m|oira]|
+|nous|prév%[m|oirons]|
+|vous|prév%[m|oirez]|
+|ils|prév%[m|oiront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|prév%[m|u]|
+|tu|auras|prév%[m|u]|
+|il|aura|prév%[m|u]|
+|nous|aurons|prév%[m|u]|
+|vous|aurez|prév%[m|u]|
+|ils|auront|prév%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|prév%[m|oirais]|
+|tu|prév%[m|oirais]|
+|il|prév%[m|oirait]|
+|nous|prév%[m|oirions]|
+|vous|prév%[m|oiriez]|
+|ils|prév%[m|oiraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|prév%[m|u]|
+|tu|aurais|prév%[m|u]|
+|il|aurait|prév%[m|u]|
+|nous|aurions|prév%[m|u]|
+|vous|auriez|prév%[m|u]|
+|ils|auraient|prév%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|prév%[m|oie]|
+|que|tu|prév%[m|oies]|
+|qu'|il|prév%[m|oie]|
+|que|nous|prév%[m|oyions]|
+|que|vous|prév%[m|oyiez]|
+|qu'|ils|prév%[m|oient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|prév%[m|u]|
+|que|tu|aies|prév%[m|u]|
+|qu'|il|ait|prév%[m|u]|
+|que|nous|ayons|prév%[m|u]|
+|que|vous|ayez|prév%[m|u]|
+|qu'|ils|aient|prév%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|prév%[m|isse]|
+|que|tu|prév%[m|isses]|
+|qu'|il|prév%[m|ît]|
+|que|nous|prév%[m|issions]|
+|que|vous|prév%[m|issiez]|
+|qu'|ils|prév%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|prév%[m|u]|
+|que|tu|eusses|prév%[m|u]|
+|qu'|il|eût|prév%[m|u]|
+|que|nous|eussions|prév%[m|u]|
+|que|vous|eussiez|prév%[m|u]|
+|qu'|ils|eussent|prév%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prév%[m|ois]|
+|prév%[m|oyons]|
+|prév%[m|oyez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|prév%[m|u]|
+|ayons|prév%[m|u]|
+|ayez|prév%[m|u]|
+|]
+

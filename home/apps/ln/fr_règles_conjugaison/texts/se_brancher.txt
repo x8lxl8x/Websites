@@ -1,0 +1,190 @@
+# se brancher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se branch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|branch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se branch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|branch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se branch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|branch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|branch%[m|e]|
+|tu|te|branch%[m|es]|
+|il|se|branch%[m|e]|
+|nous|nous|branch%[m|ons]|
+|vous|vous|branch%[m|ez]|
+|ils|se|branch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|branch%[m|é]|
+|tu|t'|es|branch%[m|é]|
+|il|s'|est|branch%[m|é]|
+|nous|nous|sommes|branch%[m|és]|
+|vous|vous|êtes|branch%[m|és]|
+|ils|se|sont|branch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|branch%[m|ais]|
+|tu|te|branch%[m|ais]|
+|il|se|branch%[m|ait]|
+|nous|nous|branch%[m|ions]|
+|vous|vous|branch%[m|iez]|
+|ils|se|branch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|branch%[m|é]|
+|tu|t'|étais|branch%[m|é]|
+|il|s'|était|branch%[m|é]|
+|nous|nous|étions|branch%[m|és]|
+|vous|vous|étiez|branch%[m|és]|
+|ils|s'|étaient|branch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|branch%[m|ai]|
+|tu|te|branch%[m|as]|
+|il|se|branch%[m|a]|
+|nous|nous|branch%[m|âmes]|
+|vous|vous|branch%[m|âtes]|
+|ils|se|branch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|branch%[m|é]|
+|tu|te|fus|branch%[m|é]|
+|il|se|fut|branch%[m|é]|
+|nous|nous|fûmes|branch%[m|és]|
+|vous|vous|fûtes|branch%[m|és]|
+|ils|se|furent|branch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|branch%[m|erai]|
+|tu|te|branch%[m|eras]|
+|il|se|branch%[m|era]|
+|nous|nous|branch%[m|erons]|
+|vous|vous|branch%[m|erez]|
+|ils|se|branch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|branch%[m|é]|
+|tu|te|seras|branch%[m|é]|
+|il|se|sera|branch%[m|é]|
+|nous|nous|serons|branch%[m|és]|
+|vous|vous|serez|branch%[m|és]|
+|ils|se|seront|branch%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|branch%[m|erais]|
+|tu|te|branch%[m|erais]|
+|il|se|branch%[m|erait]|
+|nous|nous|branch%[m|erions]|
+|vous|vous|branch%[m|eriez]|
+|ils|se|branch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|branch%[m|é]|
+|tu|te|serais|branch%[m|é]|
+|il|se|serait|branch%[m|é]|
+|nous|nous|serions|branch%[m|és]|
+|vous|vous|seriez|branch%[m|és]|
+|ils|se|seraient|branch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|branch%[m|e]|
+|que|tu|te|branch%[m|es]|
+|qu'|il|se|branch%[m|e]|
+|que|nous|nous|branch%[m|ions]|
+|que|vous|vous|branch%[m|iez]|
+|qu'|ils|se|branch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|branch%[m|é]|
+|que|tu|te|sois|branch%[m|é]|
+|qu'|il|se|soit|branch%[m|é]|
+|que|nous|nous|soyons|branch%[m|és]|
+|que|vous|vous|soyez|branch%[m|és]|
+|qu'|ils|se|soient|branch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|branch%[m|asse]|
+|que|tu|te|branch%[m|asses]|
+|qu'|il|se|branch%[m|ât]|
+|que|nous|nous|branch%[m|assions]|
+|que|vous|vous|branch%[m|assiez]|
+|qu'|ils|se|branch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|branch%[m|é]|
+|que|tu|te|fusses|branch%[m|é]|
+|qu'|il|se|fût|branch%[m|é]|
+|que|nous|nous|fussions|branch%[m|és]|
+|que|vous|vous|fussiez|branch%[m|és]|
+|qu'|ils|se|fussent|branch%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|branch%[m|e]-toi|
+|branch%[m|ons]-nous|
+|branch%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

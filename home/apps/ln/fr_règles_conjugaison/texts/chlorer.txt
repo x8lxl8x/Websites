@@ -1,0 +1,190 @@
+# chlorer %[clVerbGroup|1]
+[-
+traiter par le chlore. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|chlor%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|chlor%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|chlor%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||chlor%[m|é]|
+|ayant|chlor%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en chlor%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|chlor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|chlor%[m|e]|
+|tu|chlor%[m|es]|
+|il|chlor%[m|e]|
+|nous|chlor%[m|ons]|
+|vous|chlor%[m|ez]|
+|ils|chlor%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|chlor%[m|é]|
+|tu|as |chlor%[m|é]|
+|il|a|chlor%[m|é]|
+|nous|avons|chlor%[m|é]|
+|vous|avez|chlor%[m|é]|
+|ils|ont|chlor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|chlor%[m|ais]|
+|tu|chlor%[m|ais]|
+|il|chlor%[m|ait]|
+|nous|chlor%[m|ions]|
+|vous|chlor%[m|iez]|
+|ils|chlor%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|chlor%[m|é]|
+|tu|avais|chlor%[m|é]|
+|il|avait|chlor%[m|é]|
+|nous|avions|chlor%[m|é]|
+|vous|aviez|chlor%[m|é]|
+|ils|avaient|chlor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|chlor%[m|ai]|
+|tu|chlor%[m|as]|
+|il|chlor%[m|a]|
+|nous|chlor%[m|âmes]|
+|vous|chlor%[m|âtes]|
+|ils|chlor%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|chlor%[m|é]|
+|tu|eus|chlor%[m|é]|
+|il|eut|chlor%[m|é]|
+|nous|e&ucirc;mes|chlor%[m|é]|
+|vous|e&ucirc;tes|chlor%[m|é]|
+|ils|eurent|chlor%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|chlor%[m|erai]|
+|tu|chlor%[m|eras]|
+|il|chlor%[m|era]|
+|nous|chlor%[m|erons]|
+|vous|chlor%[m|erez]|
+|ils|chlor%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|chlor%[m|é]|
+|tu|auras|chlor%[m|é]|
+|il|aura|chlor%[m|é]|
+|nous|aurons|chlor%[m|é]|
+|vous|aurez|chlor%[m|é]|
+|ils|auront|chlor%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|chlor%[m|erais]|
+|tu|chlor%[m|erais]|
+|il|chlor%[m|erait]|
+|nous|chlor%[m|erions]|
+|vous|chlor%[m|eriez]|
+|ils|chlor%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|chlor%[m|é]|
+|tu|aurais|chlor%[m|é]|
+|il|aurait|chlor%[m|é]|
+|nous|aurions|chlor%[m|é]|
+|vous|auriez|chlor%[m|é]|
+|ils|auraient|chlor%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|chlor%[m|e]|
+|que|tu|chlor%[m|es]|
+|qu'|il|chlor%[m|e]|
+|que|nous|chlor%[m|ions]|
+|que|vous|chlor%[m|iez]|
+|qu'|ils|chlor%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|chlor%[m|é]|
+|que|tu|aies|chlor%[m|é]|
+|qu'|il|ait|chlor%[m|é]|
+|que|nous|ayons|chlor%[m|é]|
+|que|vous|ayez|chlor%[m|é]|
+|qu'|ils|aient|chlor%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|chlor%[m|asse]|
+|que|tu|chlor%[m|asses]|
+|qu'|il|chlor%[m|ât]|
+|que|nous|chlor%[m|assions]|
+|que|vous|chlor%[m|assiez]|
+|qu'|ils|chlor%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|chlor%[m|é]|
+|que|tu|eusses|chlor%[m|é]|
+|qu'|il|eût|chlor%[m|é]|
+|que|nous|eussions|chlor%[m|é]|
+|que|vous|eussiez|chlor%[m|é]|
+|qu'|ils|eussent|chlor%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|chlor%[m|e]|
+|chlor%[m|ons]|
+|chlor%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|chlor%[m|é]|
+|ayons|chlor%[m|é]|
+|ayez|chlor%[m|é]|
+|]
+

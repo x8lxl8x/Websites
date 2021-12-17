@@ -1,0 +1,190 @@
+# prosodier %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|prosodi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|prosodi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||prosodi%[m|é]|
+|ayant|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en prosodi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|prosodi%[m|e]|
+|tu|prosodi%[m|es]|
+|il|prosodi%[m|e]|
+|nous|prosodi%[m|ons]|
+|vous|prosodi%[m|ez]|
+|ils|prosodi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|prosodi%[m|é]|
+|tu|as |prosodi%[m|é]|
+|il|a|prosodi%[m|é]|
+|nous|avons|prosodi%[m|é]|
+|vous|avez|prosodi%[m|é]|
+|ils|ont|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|prosodi%[m|ais]|
+|tu|prosodi%[m|ais]|
+|il|prosodi%[m|ait]|
+|nous|prosodi%[m|ions]|
+|vous|prosodi%[m|iez]|
+|ils|prosodi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|prosodi%[m|é]|
+|tu|avais|prosodi%[m|é]|
+|il|avait|prosodi%[m|é]|
+|nous|avions|prosodi%[m|é]|
+|vous|aviez|prosodi%[m|é]|
+|ils|avaient|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|prosodi%[m|ai]|
+|tu|prosodi%[m|as]|
+|il|prosodi%[m|a]|
+|nous|prosodi%[m|âmes]|
+|vous|prosodi%[m|âtes]|
+|ils|prosodi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|prosodi%[m|é]|
+|tu|eus|prosodi%[m|é]|
+|il|eut|prosodi%[m|é]|
+|nous|e&ucirc;mes|prosodi%[m|é]|
+|vous|e&ucirc;tes|prosodi%[m|é]|
+|ils|eurent|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|prosodi%[m|erai]|
+|tu|prosodi%[m|eras]|
+|il|prosodi%[m|era]|
+|nous|prosodi%[m|erons]|
+|vous|prosodi%[m|erez]|
+|ils|prosodi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|prosodi%[m|é]|
+|tu|auras|prosodi%[m|é]|
+|il|aura|prosodi%[m|é]|
+|nous|aurons|prosodi%[m|é]|
+|vous|aurez|prosodi%[m|é]|
+|ils|auront|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|prosodi%[m|erais]|
+|tu|prosodi%[m|erais]|
+|il|prosodi%[m|erait]|
+|nous|prosodi%[m|erions]|
+|vous|prosodi%[m|eriez]|
+|ils|prosodi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|prosodi%[m|é]|
+|tu|aurais|prosodi%[m|é]|
+|il|aurait|prosodi%[m|é]|
+|nous|aurions|prosodi%[m|é]|
+|vous|auriez|prosodi%[m|é]|
+|ils|auraient|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|prosodi%[m|e]|
+|que|tu|prosodi%[m|es]|
+|qu'|il|prosodi%[m|e]|
+|que|nous|prosodi%[m|ions]|
+|que|vous|prosodi%[m|iez]|
+|qu'|ils|prosodi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|prosodi%[m|é]|
+|que|tu|aies|prosodi%[m|é]|
+|qu'|il|ait|prosodi%[m|é]|
+|que|nous|ayons|prosodi%[m|é]|
+|que|vous|ayez|prosodi%[m|é]|
+|qu'|ils|aient|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|prosodi%[m|asse]|
+|que|tu|prosodi%[m|asses]|
+|qu'|il|prosodi%[m|ât]|
+|que|nous|prosodi%[m|assions]|
+|que|vous|prosodi%[m|assiez]|
+|qu'|ils|prosodi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|prosodi%[m|é]|
+|que|tu|eusses|prosodi%[m|é]|
+|qu'|il|eût|prosodi%[m|é]|
+|que|nous|eussions|prosodi%[m|é]|
+|que|vous|eussiez|prosodi%[m|é]|
+|qu'|ils|eussent|prosodi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prosodi%[m|e]|
+|prosodi%[m|ons]|
+|prosodi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|prosodi%[m|é]|
+|ayons|prosodi%[m|é]|
+|ayez|prosodi%[m|é]|
+|]
+

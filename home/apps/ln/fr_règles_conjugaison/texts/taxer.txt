@@ -1,0 +1,191 @@
+# taxer %[clVerbGroup|1]
+[-
+soumettre à un impôt forfaitaire une marchandise, un service, un droit. 
+accuser quelqu'un de quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tax%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tax%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tax%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tax%[m|é]|
+|ayant|tax%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tax%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tax%[m|e]|
+|tu|tax%[m|es]|
+|il|tax%[m|e]|
+|nous|tax%[m|ons]|
+|vous|tax%[m|ez]|
+|ils|tax%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tax%[m|é]|
+|tu|as |tax%[m|é]|
+|il|a|tax%[m|é]|
+|nous|avons|tax%[m|é]|
+|vous|avez|tax%[m|é]|
+|ils|ont|tax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tax%[m|ais]|
+|tu|tax%[m|ais]|
+|il|tax%[m|ait]|
+|nous|tax%[m|ions]|
+|vous|tax%[m|iez]|
+|ils|tax%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tax%[m|é]|
+|tu|avais|tax%[m|é]|
+|il|avait|tax%[m|é]|
+|nous|avions|tax%[m|é]|
+|vous|aviez|tax%[m|é]|
+|ils|avaient|tax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tax%[m|ai]|
+|tu|tax%[m|as]|
+|il|tax%[m|a]|
+|nous|tax%[m|âmes]|
+|vous|tax%[m|âtes]|
+|ils|tax%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tax%[m|é]|
+|tu|eus|tax%[m|é]|
+|il|eut|tax%[m|é]|
+|nous|e&ucirc;mes|tax%[m|é]|
+|vous|e&ucirc;tes|tax%[m|é]|
+|ils|eurent|tax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tax%[m|erai]|
+|tu|tax%[m|eras]|
+|il|tax%[m|era]|
+|nous|tax%[m|erons]|
+|vous|tax%[m|erez]|
+|ils|tax%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tax%[m|é]|
+|tu|auras|tax%[m|é]|
+|il|aura|tax%[m|é]|
+|nous|aurons|tax%[m|é]|
+|vous|aurez|tax%[m|é]|
+|ils|auront|tax%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tax%[m|erais]|
+|tu|tax%[m|erais]|
+|il|tax%[m|erait]|
+|nous|tax%[m|erions]|
+|vous|tax%[m|eriez]|
+|ils|tax%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tax%[m|é]|
+|tu|aurais|tax%[m|é]|
+|il|aurait|tax%[m|é]|
+|nous|aurions|tax%[m|é]|
+|vous|auriez|tax%[m|é]|
+|ils|auraient|tax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tax%[m|e]|
+|que|tu|tax%[m|es]|
+|qu'|il|tax%[m|e]|
+|que|nous|tax%[m|ions]|
+|que|vous|tax%[m|iez]|
+|qu'|ils|tax%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tax%[m|é]|
+|que|tu|aies|tax%[m|é]|
+|qu'|il|ait|tax%[m|é]|
+|que|nous|ayons|tax%[m|é]|
+|que|vous|ayez|tax%[m|é]|
+|qu'|ils|aient|tax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tax%[m|asse]|
+|que|tu|tax%[m|asses]|
+|qu'|il|tax%[m|ât]|
+|que|nous|tax%[m|assions]|
+|que|vous|tax%[m|assiez]|
+|qu'|ils|tax%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tax%[m|é]|
+|que|tu|eusses|tax%[m|é]|
+|qu'|il|eût|tax%[m|é]|
+|que|nous|eussions|tax%[m|é]|
+|que|vous|eussiez|tax%[m|é]|
+|qu'|ils|eussent|tax%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tax%[m|e]|
+|tax%[m|ons]|
+|tax%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tax%[m|é]|
+|ayons|tax%[m|é]|
+|ayez|tax%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# démailler %[clVerbGroup|1]
+[-
+défaire les mailles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|démaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|démaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|démaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||démaill%[m|é]|
+|ayant|démaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en démaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|démaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|démaill%[m|e]|
+|tu|démaill%[m|es]|
+|il|démaill%[m|e]|
+|nous|démaill%[m|ons]|
+|vous|démaill%[m|ez]|
+|ils|démaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|démaill%[m|é]|
+|tu|as |démaill%[m|é]|
+|il|a|démaill%[m|é]|
+|nous|avons|démaill%[m|é]|
+|vous|avez|démaill%[m|é]|
+|ils|ont|démaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|démaill%[m|ais]|
+|tu|démaill%[m|ais]|
+|il|démaill%[m|ait]|
+|nous|démaill%[m|ions]|
+|vous|démaill%[m|iez]|
+|ils|démaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|démaill%[m|é]|
+|tu|avais|démaill%[m|é]|
+|il|avait|démaill%[m|é]|
+|nous|avions|démaill%[m|é]|
+|vous|aviez|démaill%[m|é]|
+|ils|avaient|démaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|démaill%[m|ai]|
+|tu|démaill%[m|as]|
+|il|démaill%[m|a]|
+|nous|démaill%[m|âmes]|
+|vous|démaill%[m|âtes]|
+|ils|démaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|démaill%[m|é]|
+|tu|eus|démaill%[m|é]|
+|il|eut|démaill%[m|é]|
+|nous|e&ucirc;mes|démaill%[m|é]|
+|vous|e&ucirc;tes|démaill%[m|é]|
+|ils|eurent|démaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|démaill%[m|erai]|
+|tu|démaill%[m|eras]|
+|il|démaill%[m|era]|
+|nous|démaill%[m|erons]|
+|vous|démaill%[m|erez]|
+|ils|démaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|démaill%[m|é]|
+|tu|auras|démaill%[m|é]|
+|il|aura|démaill%[m|é]|
+|nous|aurons|démaill%[m|é]|
+|vous|aurez|démaill%[m|é]|
+|ils|auront|démaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|démaill%[m|erais]|
+|tu|démaill%[m|erais]|
+|il|démaill%[m|erait]|
+|nous|démaill%[m|erions]|
+|vous|démaill%[m|eriez]|
+|ils|démaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|démaill%[m|é]|
+|tu|aurais|démaill%[m|é]|
+|il|aurait|démaill%[m|é]|
+|nous|aurions|démaill%[m|é]|
+|vous|auriez|démaill%[m|é]|
+|ils|auraient|démaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|démaill%[m|e]|
+|que|tu|démaill%[m|es]|
+|qu'|il|démaill%[m|e]|
+|que|nous|démaill%[m|ions]|
+|que|vous|démaill%[m|iez]|
+|qu'|ils|démaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|démaill%[m|é]|
+|que|tu|aies|démaill%[m|é]|
+|qu'|il|ait|démaill%[m|é]|
+|que|nous|ayons|démaill%[m|é]|
+|que|vous|ayez|démaill%[m|é]|
+|qu'|ils|aient|démaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|démaill%[m|asse]|
+|que|tu|démaill%[m|asses]|
+|qu'|il|démaill%[m|ât]|
+|que|nous|démaill%[m|assions]|
+|que|vous|démaill%[m|assiez]|
+|qu'|ils|démaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|démaill%[m|é]|
+|que|tu|eusses|démaill%[m|é]|
+|qu'|il|eût|démaill%[m|é]|
+|que|nous|eussions|démaill%[m|é]|
+|que|vous|eussiez|démaill%[m|é]|
+|qu'|ils|eussent|démaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|démaill%[m|e]|
+|démaill%[m|ons]|
+|démaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|démaill%[m|é]|
+|ayons|démaill%[m|é]|
+|ayez|démaill%[m|é]|
+|]
+

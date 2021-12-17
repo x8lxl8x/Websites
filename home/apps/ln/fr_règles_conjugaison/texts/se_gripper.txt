@@ -1,0 +1,190 @@
+# se gripper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se gripp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|gripp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se gripp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|gripp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se gripp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|gripp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|gripp%[m|e]|
+|tu|te|gripp%[m|es]|
+|il|se|gripp%[m|e]|
+|nous|nous|gripp%[m|ons]|
+|vous|vous|gripp%[m|ez]|
+|ils|se|gripp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|gripp%[m|é]|
+|tu|t'|es|gripp%[m|é]|
+|il|s'|est|gripp%[m|é]|
+|nous|nous|sommes|gripp%[m|és]|
+|vous|vous|êtes|gripp%[m|és]|
+|ils|se|sont|gripp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|gripp%[m|ais]|
+|tu|te|gripp%[m|ais]|
+|il|se|gripp%[m|ait]|
+|nous|nous|gripp%[m|ions]|
+|vous|vous|gripp%[m|iez]|
+|ils|se|gripp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|gripp%[m|é]|
+|tu|t'|étais|gripp%[m|é]|
+|il|s'|était|gripp%[m|é]|
+|nous|nous|étions|gripp%[m|és]|
+|vous|vous|étiez|gripp%[m|és]|
+|ils|s'|étaient|gripp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|gripp%[m|ai]|
+|tu|te|gripp%[m|as]|
+|il|se|gripp%[m|a]|
+|nous|nous|gripp%[m|âmes]|
+|vous|vous|gripp%[m|âtes]|
+|ils|se|gripp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|gripp%[m|é]|
+|tu|te|fus|gripp%[m|é]|
+|il|se|fut|gripp%[m|é]|
+|nous|nous|fûmes|gripp%[m|és]|
+|vous|vous|fûtes|gripp%[m|és]|
+|ils|se|furent|gripp%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|gripp%[m|erai]|
+|tu|te|gripp%[m|eras]|
+|il|se|gripp%[m|era]|
+|nous|nous|gripp%[m|erons]|
+|vous|vous|gripp%[m|erez]|
+|ils|se|gripp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|gripp%[m|é]|
+|tu|te|seras|gripp%[m|é]|
+|il|se|sera|gripp%[m|é]|
+|nous|nous|serons|gripp%[m|és]|
+|vous|vous|serez|gripp%[m|és]|
+|ils|se|seront|gripp%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|gripp%[m|erais]|
+|tu|te|gripp%[m|erais]|
+|il|se|gripp%[m|erait]|
+|nous|nous|gripp%[m|erions]|
+|vous|vous|gripp%[m|eriez]|
+|ils|se|gripp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|gripp%[m|é]|
+|tu|te|serais|gripp%[m|é]|
+|il|se|serait|gripp%[m|é]|
+|nous|nous|serions|gripp%[m|és]|
+|vous|vous|seriez|gripp%[m|és]|
+|ils|se|seraient|gripp%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|gripp%[m|e]|
+|que|tu|te|gripp%[m|es]|
+|qu'|il|se|gripp%[m|e]|
+|que|nous|nous|gripp%[m|ions]|
+|que|vous|vous|gripp%[m|iez]|
+|qu'|ils|se|gripp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|gripp%[m|é]|
+|que|tu|te|sois|gripp%[m|é]|
+|qu'|il|se|soit|gripp%[m|é]|
+|que|nous|nous|soyons|gripp%[m|és]|
+|que|vous|vous|soyez|gripp%[m|és]|
+|qu'|ils|se|soient|gripp%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|gripp%[m|asse]|
+|que|tu|te|gripp%[m|asses]|
+|qu'|il|se|gripp%[m|ât]|
+|que|nous|nous|gripp%[m|assions]|
+|que|vous|vous|gripp%[m|assiez]|
+|qu'|ils|se|gripp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|gripp%[m|é]|
+|que|tu|te|fusses|gripp%[m|é]|
+|qu'|il|se|fût|gripp%[m|é]|
+|que|nous|nous|fussions|gripp%[m|és]|
+|que|vous|vous|fussiez|gripp%[m|és]|
+|qu'|ils|se|fussent|gripp%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|gripp%[m|e]-toi|
+|gripp%[m|ons]-nous|
+|gripp%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

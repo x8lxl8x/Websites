@@ -1,0 +1,190 @@
+# plaire %[clVerbGroup|3]
+[-
+être de nature à faire plaisir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pl%[m|aire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pl%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pl%[m|aisant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pl%[m|u]|
+|ayant|pl%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pl%[m|aisant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pl%[m|ais]|
+|tu|pl%[m|ais]|
+|il|pl%[m|aît]|
+|nous|pl%[m|aisons]|
+|vous|pl%[m|aisez]|
+|ils|pl%[m|aisent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pl%[m|u]|
+|tu|as |pl%[m|u]|
+|il|a|pl%[m|u]|
+|nous|avons|pl%[m|u]|
+|vous|avez|pl%[m|u]|
+|ils|ont|pl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pl%[m|aisais]|
+|tu|pl%[m|aisais]|
+|il|pl%[m|aisait]|
+|nous|pl%[m|aisions]|
+|vous|pl%[m|aisiez]|
+|ils|pl%[m|aisaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pl%[m|u]|
+|tu|avais|pl%[m|u]|
+|il|avait|pl%[m|u]|
+|nous|avions|pl%[m|u]|
+|vous|aviez|pl%[m|u]|
+|ils|avaient|pl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pl%[m|us]|
+|tu|pl%[m|us]|
+|il|pl%[m|ut]|
+|nous|pl%[m|ûmes]|
+|vous|pl%[m|ûtes]|
+|ils|pl%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pl%[m|u]|
+|tu|eus|pl%[m|u]|
+|il|eut|pl%[m|u]|
+|nous|e&ucirc;mes|pl%[m|u]|
+|vous|e&ucirc;tes|pl%[m|u]|
+|ils|eurent|pl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pl%[m|airai]|
+|tu|pl%[m|airas]|
+|il|pl%[m|aira]|
+|nous|pl%[m|airons]|
+|vous|pl%[m|airez]|
+|ils|pl%[m|airont]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pl%[m|u]|
+|tu|auras|pl%[m|u]|
+|il|aura|pl%[m|u]|
+|nous|aurons|pl%[m|u]|
+|vous|aurez|pl%[m|u]|
+|ils|auront|pl%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pl%[m|airais]|
+|tu|pl%[m|airais]|
+|il|pl%[m|airait]|
+|nous|pl%[m|airions]|
+|vous|pl%[m|airiez]|
+|ils|pl%[m|airaient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pl%[m|u]|
+|tu|aurais|pl%[m|u]|
+|il|aurait|pl%[m|u]|
+|nous|aurions|pl%[m|u]|
+|vous|auriez|pl%[m|u]|
+|ils|auraient|pl%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pl%[m|aise]|
+|que|tu|pl%[m|aises]|
+|qu'|il|pl%[m|aise]|
+|que|nous|pl%[m|aisions]|
+|que|vous|pl%[m|aisiez]|
+|qu'|ils|pl%[m|aisent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pl%[m|u]|
+|que|tu|aies|pl%[m|u]|
+|qu'|il|ait|pl%[m|u]|
+|que|nous|ayons|pl%[m|u]|
+|que|vous|ayez|pl%[m|u]|
+|qu'|ils|aient|pl%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pl%[m|usse]|
+|que|tu|pl%[m|usses]|
+|qu'|il|pl%[m|ût]|
+|que|nous|pl%[m|ussions]|
+|que|vous|pl%[m|ussiez]|
+|qu'|ils|pl%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pl%[m|u]|
+|que|tu|eusses|pl%[m|u]|
+|qu'|il|eût|pl%[m|u]|
+|que|nous|eussions|pl%[m|u]|
+|que|vous|eussiez|pl%[m|u]|
+|qu'|ils|eussent|pl%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pl%[m|ais]|
+|pl%[m|aisons]|
+|pl%[m|aisez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pl%[m|u]|
+|ayons|pl%[m|u]|
+|ayez|pl%[m|u]|
+|]
+

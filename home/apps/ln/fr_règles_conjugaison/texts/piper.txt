@@ -1,0 +1,190 @@
+# piper %[clVerbGroup|1]
+[-
+piper les dés ou les cartes; les truquer pour tricher. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pip%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pip%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pip%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pip%[m|é]|
+|ayant|pip%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pip%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pip%[m|e]|
+|tu|pip%[m|es]|
+|il|pip%[m|e]|
+|nous|pip%[m|ons]|
+|vous|pip%[m|ez]|
+|ils|pip%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pip%[m|é]|
+|tu|as |pip%[m|é]|
+|il|a|pip%[m|é]|
+|nous|avons|pip%[m|é]|
+|vous|avez|pip%[m|é]|
+|ils|ont|pip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pip%[m|ais]|
+|tu|pip%[m|ais]|
+|il|pip%[m|ait]|
+|nous|pip%[m|ions]|
+|vous|pip%[m|iez]|
+|ils|pip%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pip%[m|é]|
+|tu|avais|pip%[m|é]|
+|il|avait|pip%[m|é]|
+|nous|avions|pip%[m|é]|
+|vous|aviez|pip%[m|é]|
+|ils|avaient|pip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pip%[m|ai]|
+|tu|pip%[m|as]|
+|il|pip%[m|a]|
+|nous|pip%[m|âmes]|
+|vous|pip%[m|âtes]|
+|ils|pip%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pip%[m|é]|
+|tu|eus|pip%[m|é]|
+|il|eut|pip%[m|é]|
+|nous|e&ucirc;mes|pip%[m|é]|
+|vous|e&ucirc;tes|pip%[m|é]|
+|ils|eurent|pip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pip%[m|erai]|
+|tu|pip%[m|eras]|
+|il|pip%[m|era]|
+|nous|pip%[m|erons]|
+|vous|pip%[m|erez]|
+|ils|pip%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pip%[m|é]|
+|tu|auras|pip%[m|é]|
+|il|aura|pip%[m|é]|
+|nous|aurons|pip%[m|é]|
+|vous|aurez|pip%[m|é]|
+|ils|auront|pip%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pip%[m|erais]|
+|tu|pip%[m|erais]|
+|il|pip%[m|erait]|
+|nous|pip%[m|erions]|
+|vous|pip%[m|eriez]|
+|ils|pip%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pip%[m|é]|
+|tu|aurais|pip%[m|é]|
+|il|aurait|pip%[m|é]|
+|nous|aurions|pip%[m|é]|
+|vous|auriez|pip%[m|é]|
+|ils|auraient|pip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pip%[m|e]|
+|que|tu|pip%[m|es]|
+|qu'|il|pip%[m|e]|
+|que|nous|pip%[m|ions]|
+|que|vous|pip%[m|iez]|
+|qu'|ils|pip%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pip%[m|é]|
+|que|tu|aies|pip%[m|é]|
+|qu'|il|ait|pip%[m|é]|
+|que|nous|ayons|pip%[m|é]|
+|que|vous|ayez|pip%[m|é]|
+|qu'|ils|aient|pip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pip%[m|asse]|
+|que|tu|pip%[m|asses]|
+|qu'|il|pip%[m|ât]|
+|que|nous|pip%[m|assions]|
+|que|vous|pip%[m|assiez]|
+|qu'|ils|pip%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pip%[m|é]|
+|que|tu|eusses|pip%[m|é]|
+|qu'|il|eût|pip%[m|é]|
+|que|nous|eussions|pip%[m|é]|
+|que|vous|eussiez|pip%[m|é]|
+|qu'|ils|eussent|pip%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pip%[m|e]|
+|pip%[m|ons]|
+|pip%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pip%[m|é]|
+|ayons|pip%[m|é]|
+|ayez|pip%[m|é]|
+|]
+

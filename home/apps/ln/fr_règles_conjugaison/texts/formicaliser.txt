@@ -1,0 +1,190 @@
+# formicaliser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|formicalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|formicalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||formicalis%[m|é]|
+|ayant|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en formicalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|formicalis%[m|e]|
+|tu|formicalis%[m|es]|
+|il|formicalis%[m|e]|
+|nous|formicalis%[m|ons]|
+|vous|formicalis%[m|ez]|
+|ils|formicalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|formicalis%[m|é]|
+|tu|as |formicalis%[m|é]|
+|il|a|formicalis%[m|é]|
+|nous|avons|formicalis%[m|é]|
+|vous|avez|formicalis%[m|é]|
+|ils|ont|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|formicalis%[m|ais]|
+|tu|formicalis%[m|ais]|
+|il|formicalis%[m|ait]|
+|nous|formicalis%[m|ions]|
+|vous|formicalis%[m|iez]|
+|ils|formicalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|formicalis%[m|é]|
+|tu|avais|formicalis%[m|é]|
+|il|avait|formicalis%[m|é]|
+|nous|avions|formicalis%[m|é]|
+|vous|aviez|formicalis%[m|é]|
+|ils|avaient|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|formicalis%[m|ai]|
+|tu|formicalis%[m|as]|
+|il|formicalis%[m|a]|
+|nous|formicalis%[m|âmes]|
+|vous|formicalis%[m|âtes]|
+|ils|formicalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|formicalis%[m|é]|
+|tu|eus|formicalis%[m|é]|
+|il|eut|formicalis%[m|é]|
+|nous|e&ucirc;mes|formicalis%[m|é]|
+|vous|e&ucirc;tes|formicalis%[m|é]|
+|ils|eurent|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|formicalis%[m|erai]|
+|tu|formicalis%[m|eras]|
+|il|formicalis%[m|era]|
+|nous|formicalis%[m|erons]|
+|vous|formicalis%[m|erez]|
+|ils|formicalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|formicalis%[m|é]|
+|tu|auras|formicalis%[m|é]|
+|il|aura|formicalis%[m|é]|
+|nous|aurons|formicalis%[m|é]|
+|vous|aurez|formicalis%[m|é]|
+|ils|auront|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|formicalis%[m|erais]|
+|tu|formicalis%[m|erais]|
+|il|formicalis%[m|erait]|
+|nous|formicalis%[m|erions]|
+|vous|formicalis%[m|eriez]|
+|ils|formicalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|formicalis%[m|é]|
+|tu|aurais|formicalis%[m|é]|
+|il|aurait|formicalis%[m|é]|
+|nous|aurions|formicalis%[m|é]|
+|vous|auriez|formicalis%[m|é]|
+|ils|auraient|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|formicalis%[m|e]|
+|que|tu|formicalis%[m|es]|
+|qu'|il|formicalis%[m|e]|
+|que|nous|formicalis%[m|ions]|
+|que|vous|formicalis%[m|iez]|
+|qu'|ils|formicalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|formicalis%[m|é]|
+|que|tu|aies|formicalis%[m|é]|
+|qu'|il|ait|formicalis%[m|é]|
+|que|nous|ayons|formicalis%[m|é]|
+|que|vous|ayez|formicalis%[m|é]|
+|qu'|ils|aient|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|formicalis%[m|asse]|
+|que|tu|formicalis%[m|asses]|
+|qu'|il|formicalis%[m|ât]|
+|que|nous|formicalis%[m|assions]|
+|que|vous|formicalis%[m|assiez]|
+|qu'|ils|formicalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|formicalis%[m|é]|
+|que|tu|eusses|formicalis%[m|é]|
+|qu'|il|eût|formicalis%[m|é]|
+|que|nous|eussions|formicalis%[m|é]|
+|que|vous|eussiez|formicalis%[m|é]|
+|qu'|ils|eussent|formicalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|formicalis%[m|e]|
+|formicalis%[m|ons]|
+|formicalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|formicalis%[m|é]|
+|ayons|formicalis%[m|é]|
+|ayez|formicalis%[m|é]|
+|]
+

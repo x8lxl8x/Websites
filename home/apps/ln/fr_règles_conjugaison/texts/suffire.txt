@@ -1,0 +1,193 @@
+# suffire %[clVerbGroup|3]
+[-
+ça va, ça suffit : assez! 
+avoir juste ce qui est nécessaire. 
+avoir en soi-même de quoi satisfaire à ses besoins. 
+pouvoir apporter juste ce qui est nécessaire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|suff%[m|ire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|suff%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|suff%[m|isant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||suff%[m|i]|
+|ayant|suff%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en suff%[m|isant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|suff%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|suff%[m|is]|
+|tu|suff%[m|is]|
+|il|suff%[m|it]|
+|nous|suff%[m|isons]|
+|vous|suff%[m|isez]|
+|ils|suff%[m|isent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|suff%[m|i]|
+|tu|as |suff%[m|i]|
+|il|a|suff%[m|i]|
+|nous|avons|suff%[m|i]|
+|vous|avez|suff%[m|i]|
+|ils|ont|suff%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|suff%[m|isais]|
+|tu|suff%[m|isais]|
+|il|suff%[m|isait]|
+|nous|suff%[m|isions]|
+|vous|suff%[m|isiez]|
+|ils|suff%[m|isaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|suff%[m|i]|
+|tu|avais|suff%[m|i]|
+|il|avait|suff%[m|i]|
+|nous|avions|suff%[m|i]|
+|vous|aviez|suff%[m|i]|
+|ils|avaient|suff%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|suff%[m|is]|
+|tu|suff%[m|is]|
+|il|suff%[m|it]|
+|nous|suff%[m|îmes]|
+|vous|suff%[m|îtes]|
+|ils|suff%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|suff%[m|i]|
+|tu|eus|suff%[m|i]|
+|il|eut|suff%[m|i]|
+|nous|e&ucirc;mes|suff%[m|i]|
+|vous|e&ucirc;tes|suff%[m|i]|
+|ils|eurent|suff%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|suff%[m|irai]|
+|tu|suff%[m|iras]|
+|il|suff%[m|ira]|
+|nous|suff%[m|irons]|
+|vous|suff%[m|irez]|
+|ils|suff%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|suff%[m|i]|
+|tu|auras|suff%[m|i]|
+|il|aura|suff%[m|i]|
+|nous|aurons|suff%[m|i]|
+|vous|aurez|suff%[m|i]|
+|ils|auront|suff%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|suff%[m|irais]|
+|tu|suff%[m|irais]|
+|il|suff%[m|irait]|
+|nous|suff%[m|irions]|
+|vous|suff%[m|iriez]|
+|ils|suff%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|suff%[m|i]|
+|tu|aurais|suff%[m|i]|
+|il|aurait|suff%[m|i]|
+|nous|aurions|suff%[m|i]|
+|vous|auriez|suff%[m|i]|
+|ils|auraient|suff%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|suff%[m|ise]|
+|que|tu|suff%[m|ises]|
+|qu'|il|suff%[m|ise]|
+|que|nous|suff%[m|isions]|
+|que|vous|suff%[m|isiez]|
+|qu'|ils|suff%[m|isent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|suff%[m|i]|
+|que|tu|aies|suff%[m|i]|
+|qu'|il|ait|suff%[m|i]|
+|que|nous|ayons|suff%[m|i]|
+|que|vous|ayez|suff%[m|i]|
+|qu'|ils|aient|suff%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|suff%[m|isse]|
+|que|tu|suff%[m|isses]|
+|qu'|il|suff%[m|ît]|
+|que|nous|suff%[m|issions]|
+|que|vous|suff%[m|issiez]|
+|qu'|ils|suff%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|suff%[m|i]|
+|que|tu|eusses|suff%[m|i]|
+|qu'|il|eût|suff%[m|i]|
+|que|nous|eussions|suff%[m|i]|
+|que|vous|eussiez|suff%[m|i]|
+|qu'|ils|eussent|suff%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|suff%[m|is]|
+|suff%[m|isons]|
+|suff%[m|isez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|suff%[m|i]|
+|ayons|suff%[m|i]|
+|ayez|suff%[m|i]|
+|]
+

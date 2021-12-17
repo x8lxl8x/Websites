@@ -1,0 +1,567 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./22.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./24.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Basic Options Pricing</h1>
+
+<p>In 1973, Fisher Black and Myron Scholes introduced
+their landmark publication with a formula for
+calculating the &quot;fair price&quot; of an option. It is
+arguably the most significant publication in finance or
+economics over the past fifty years or more. Myron
+Scholes received the Nobel Prize in 1997 for his
+contribution.</p>
+<p>The reason it is so significant is because, prior to,
+there was no way to fairly determine the price of an
+option. In this case, buyers bid very low and sellers
+offer very high. There becomes very little liquidity and
+the market never gets off the ground. </p>
+<p>This financial breakthrough led to the creation of
+the Chicago Board Options Exchange (CBOE) because prior
+to, there was no way to fairly determine the price of an
+option. Options were traded through the over-the-counter
+market (OTC) on an unregulated basis and did not have to
+adhere to the principle of &quot;fair and orderly markets.&quot;
+Today, largely due to Black and Scholes, the CBOE trades
+tens of millions of contracts per month.</p>
+<p>Black and Scholes basically developed an &quot;options
+calculator,&quot; known as the Black-Scholes Model, that will
+tell you what a call should be worth if you know five
+main factors (six if you include dividends): </p>
+<p>1) Stock price<br>
+2) Exercise or strike price<br>
+3) Risk-free rate of interest<br>
+4) Volatility of the underlying stock<br>
+5) Time to expiration</p>
+<p>The calculator is similar to a loan calculator that
+will tell you what your payment should be if you know
+the loan amount, time, interest rate and compounding
+periods. Similarly, if you know the five factors in the
+Black-Scholes Model, you can determine what the call
+option should be worth.</p>
+<h2>Trading without theoretical values </h2>
+<p>The Black-Scholes Model is an invaluable tool for
+floor traders and retail investors alike. However, there
+are certain principle relationships that must remain
+within the options markets, with or without the
+Black-Scholes Model, otherwise arbitrage opportunities
+will be available. This is where we will be focusing as,
+if you know these relationships, it will greatly improve
+your trading skills and knowledge of option pricing and
+strategies.</p>
+<h2>Option pricing relationships</h2>
+<h2><u>Pricing Relationship #1:</u></h2>
+<p><b>The Lower the strike, the higher the price of a
+call option.</b></p>
+<p>If you have two call options, one that is a $50 and
+$55 strike with all other factors alike (i.e. same
+underlying stock and time), the $50 will always be more
+expensive than the $55. Why?</p>
+<p>There are a number of ways to show this, and
+whichever way is easiest to remember is fine -- just as
+long as you understand it.</p>
+<p>First, we can look at it from a probability
+standpoint:</p>
+<p>
+<img width='300px'  src='../images/026.gif'>;-------No
+Value ------<img width='300px'  src='../images/027.gif'>
+<img width='300px'  src='../images/026.gif'>--------
+Value ---------<img width='300px'  src='../images/027.gif'></p>
+<p><b>$0 ------------------------------- $50
+------------------------$100</b></p>
+<p>Looking at the diagram above, say a stock can only
+trade between $0 and $100 and you have the $50 strike
+call. You have, in effect, a 50-50 chance of having
+intrinsic value at expiration. If the stock is above
+$50, your option will have some value; if it is below
+$50, it will be worth nothing. So, how do we increase
+our chances of having intrinsic value at expiration?
+Simple -- we buy a call with a lower strike price.</p>
+<p>
+<img width='300px'  src='../images/026.gif'>No
+Value<img width='300px'  src='../images/027.gif'>
+<img width='300px'  src='../images/026.gif'>----------------
+Value ------------------<img width='300px'  src='../images/027.gif'></p>
+<p><b>$0 --------------$25
+----------------------------------------------$100</b></p>
+<p>For example, buying the $25 strike gives us far more
+room to the right (intrinsic value) as compared to the
+$50 strike. Thus, our chances are better of having some
+value at expiration. The markets figure this out and
+will accordingly bid the $25 strike higher than the $50.</p>
+<p>The second method to show this relationship is simply
+from a financial cash flow standpoint. Remember, the
+option gives you the right to purchase the stock. Using
+the example above, at expiration, assuming you did want
+to buy the stock, would you rather pay $25 for it or
+$50? Again, the markets realize this and will bid the
+lower strikes above the higher strikes with all other
+factors constant.</p>
+<p>Okay, this may sound good in theory, but how do we
+know that it will actually happen in the real world? Say
+we quote two options one day and see the following
+prices:</p>
+<p><b>$50 call priced at $5<br>
+$55 call priced at $6</b></p>
+<p>What will happen? We found out above that the markets
+should bid the $50 strike higher, but for some reason,
+it is lower. If this were to happen in the real world,
+traders known as arbitrageurs, will do the following
+trades simultaneously:</p>
+<p>Buy the $50 call: -$5<br>
+Sell the $55 call: <u>+$6</u><br>
+Net Credit +$1</p>
+<p>They will receive a credit of $1 into their account.
+If the stock collapses, both options expire worthless
+and the arbitrageur will keep the $1. If the stock is
+trading higher, say $70, then the $50 call will be worth
+$20 and the $55 will be worth -$15 (remember, this call
+was sold. It will be worth $15 to the person who bought
+it) for a net credit of $6 ($5 for the difference in
+calls plus the $1 credit from the initial trade). </p>
+<p>This credit of $6 will be the result for any stock
+price at $55 or higher. What if the stock is between $50
+and $55? If the stock closes at $52, the $50 call is
+worth $2, and the $55 expires worthless, leaving the
+trader a credit of $3. So the worst that can happen is
+the arbitrageur makes $1, and the best is that he makes
+$6. Because there is a guaranteed profit with no cash
+outlay, it is an arbitrage. Do not worry -- arbitrageurs
+will guarantee that the lower strike calls will always
+be worth more than the higher strikes! </p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td><b>Insights into option pricing: Why can't I
+enter a buy-write for a net credit?</b><p>This
+leads to some interesting insights about option
+pricing. Theoretically, the optimal strike to
+own would be a $0 strike price (these don't
+exist, but just say they do). What should it be
+worth? Well, the price of a call can <u>never</u>
+exceed the price of the stock, otherwise -- you
+guessed it -- arbitrage is possible. Say a $0
+strike is trading for $51 with the stock at $50.
+Arbitrageurs will buy the stock for $50 and sell
+the $0 strike for $51 thus guaranteeing them a
+$1 profit. </p>
+<p>This is why buy-writes (orders where you
+simultaneously buy the stock and write, or sell,
+the call) can never be done at a credit. Now you
+know why! The call option can never be worth
+more than the stock.</td>
+</tr>
+</table>
+<p>For puts, the opposite relationship will hold for
+exactly the opposite reasons listed above. Put options
+will always be worth more with higher strikes with all
+other factors the same. </p>
+<p>As a practice, you may want to pull up option quotes
+on your favorite stock and see if lower strike calls are
+always worth more than the higher strikes and the
+opposite for puts. </p>
+<table cellPadding='18' border='1' id='table5'>
+<tr vAlign='top'>
+<td><b>Check:</b><br>
+Why is there an arbitrage opportunity in the
+following quotes? How would you perform the
+arbitrage? (Answers at the end.)<p>$60 put = $12<br>
+$70 put = $10</td>
+</tr>
+</table>
+<h2><u>Pricing Relationship #2:</u></h2>
+<p><b>At expiration, a call must be worth either zero or
+the difference between the stock price and the strike
+price.</b></p>
+<p>All this says is that a call must be worth intrinsic
+value (the difference between the stock price and
+strike) at expiration. If there is no intrinsic value,
+it's price will be zero at expiration. </p>
+<p>If the stock is trading at $57 at expiration, the $50
+call must be worth exactly $7 (actually, in the real
+world, bid/ask spreads will make it worth slightly
+less). Why must an option always be worth intrinsic?</p>
+<p>If it is not, an arbitrage opportunity is available.
+Say the following quotes exist:</p>
+<p>Stock trading at $57<br>
+$50 call trading at $5</p>
+<p>The arbitrageurs will realize the call is mispriced
+and do the following trades simultaneously:</p>
+<p>Short the stock: +57<br>
+Buy the call: <u>&nbsp;&nbsp;-5</u><br>
+Net credit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+52</p>
+<p>The arbitrageur will short the stock and buy the call
+as above. Now all he has to do is cover the short. How
+will he do this? Simple, he will use the option, which
+gives him the right to buy at $50, and exercise it
+immediately. Upon doing this, he will have received +$57
+then spent $55 for a net of $2; exactly the amount the
+call was mispriced. Because this is a guaranteed
+transaction with no cash outlay, it is an arbitrage.</p>
+<table cellPadding='18' border='1' id='table6'>
+<tr vAlign='top'>
+<td><b>Check:</b><br>
+Stock is trading for $100<br>
+$110 put is trading for $9<p>Is there an
+arbitrage opportunity? How would you do it?
+(Answers at the end.)</td>
+</tr>
+</table>
+<h2><u>Pricing Relationship #3:</u></h2>
+<p><b>Prior to expiration, a call option must be worth
+<u>at least</u> the difference between the stock price
+and the present value of the exercise price.</b></p>
+<p>This one is a little complicated, but still important
+for many strategies. What this says is that for any call
+option, the minimum price it must trade for is the cost
+of carry. </p>
+<p>Why? Think about this. Say a stock is trading for
+$100 and your best friend came to you and said, &quot;I'm
+getting a huge bonus in one year but really want to buy
+1,000 shares of this stock now. Would you be willing to
+buy it for me and I will pay you the $100,000 in one
+year?&quot; </p>
+<p>If you see your friend as risk-free, you should, at a
+minimum, charge him $5,000 for your forgone interest.
+That's all this relationship is stating. Of course, if
+there is an element of risk, you should charge more than
+$5 per contract. This leads to another important insight
+of call options -- they are a form of borrowing money!</p>
+<p>Let's look at this closely. If your friend owes you
+$5 in one year, how much is it worth today? To answer
+that, we need to know the present value of $5 owed in
+one year at 5% interest. </p>
+<table cellPadding='18' border='1' id='table7'>
+<tr vAlign='top'>
+<td><b>What does present value mean?</b><br>
+The <i>present value</i> of money is simply the
+value of a future cash flow today -- the value
+at the present. It's really very easy. Say you
+have $100 in a bank at 5% interest. In one year,
+you would have $105, right? That's called the
+future value of money -- it is a sum of money
+today ($100) valued in the future ($105). Now,
+present value just works backwards. If you are
+owed $105 in one year, how much is it worth
+today? Simple, just undo the above calculation
+-- $105/1.05 = $100. We would say the present
+value of $105 due in one year is $100 today if
+interest rates are 5% and the investment is
+risk-free. In other words, an investor should be
+indifferent between $100 today or $105 due in
+one year.</td>
+</tr>
+</table>
+<p>Because your friend is borrowing $5 for one year,
+that amount is worth $5/1.05 = $4.76 today. Because your
+principal, the $100, is being returned in one year, the
+only thing you will be missing in one year is the $5
+interest. So the call option, in this case, should sell
+for at least $4.76. Why would it trade higher? If the
+markets see the stock as risky, investors would rather
+buy the option versus the stock to reduce their downside
+risk. They will bid the option higher. So volatility
+makes options -- both calls and puts -- more expensive.</p>
+<p>Assume now that your friend wants to buy the stock
+from you in a year but only wants to pay $80 even though
+it's currently trading for $100. Now at the end of the
+year, you will be out $5 in interest plus $20 in
+principal for a total of $25 loss in one year. How much
+is that worth today? Take the present value: $25/1.05 =
+$23.81, and that's how much the $80 call must <u>at
+least</u> trade for! Any price lower than this leads to
+arbitrage.</p>
+<p>Mathematically, the formula for this relationship can
+also be written as:</p>
+<p><b>Minimum call price = Stock price - Present value
+of the strike price.</b></p>
+<table cellPadding='18' border='1' id='table8'>
+<tr vAlign='top'>
+<td><b>Examples:</b><p>Let's use the above
+formula to calculate the minimum price of a call
+instead of the intuitive method used earlier. If
+the stock is trading at $100 and interest rates
+are 5%, how much should the 1-year, $100 strike
+call trade for?<br>
+Stock price - present value of the strike price
+=<br>
+$100 - ($100/1.05) = $4.76</p>
+<p>For the $80 strike call:<br>
+$100 - ($80/1.05) = $23.81</td>
+</tr>
+</table>
+<p>Why does this formula work? Remember, we said the
+call should trade for at least the cost of carry. If the
+stock is trading for $100 today, we can rewrite this
+relationship as:</p>
+<p>$100 stock price today = $100 exercise price/1.05 +
+<b>$5 interest/1.05</b></p>
+<p>In order to isolate the interest amount or cost of
+carry (shown in bold), we can rewrite the formula as
+$100 stock price - $100 exercise price/1.05 = cost of
+carry, which is exactly the formula above. </p>
+<p>If the call option does not trade for this minimum
+amount, what will happen? This one is tricky to see, but
+an arbitrage opportunity does exist. Here's how the
+arbitrageurs will do it.</p>
+<p>Say we see the following quotes:</p>
+<p><b>Stock: $100<br>
+$100 call: $3<br>
+Time: 1-year option<br>
+Interest rates: 5%</b></p>
+<p>We have already determined that this call option
+should be worth $4.76 yet we see it trading for $3. </p>
+<p>Arbitrageurs will do the following trades
+simultaneously:</p>
+<p>Short 1000 shares of stock:&nbsp;&nbsp;&nbsp;&nbsp;+$100,000<br>
+Buy the call:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>&nbsp;&nbsp;-$3,000</u><br>
+Net credit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$97,000</p>
+<p>Now, the arbitrageurs will owe 1,000 share of stock
+from the short sale. By purchasing the call, they will
+always be able to buy back the stock for $100 if the
+stock is trading higher. They will leave the $97,000 in
+the money-market (or T-bills) and receive $101,850
+($97,000 credit * 1.05). </p>
+<p>The arbitrageur now has two choices depending on
+where the stock is trading at the end of the year. If
+the stock is above $100, they will just use the call
+option, pay $100, and keep the $1,850 (difference
+between the $101,850 received in interest and the
+$100,000 that must be paid to cover the short position).
+However, if the stock is trading below the strike price,
+traders will just let the option expire worthless and
+buy the stock in the open market, thus increasing the
+profits further.</p>
+<table cellPadding='18' border='1' id='table9'>
+<tr vAlign='top'>
+<td><b>Insights into the Black-Scholes Option
+Pricing Model</b><br>
+The Black-Scholes Option Pricing Model, in a
+simplified form, can be written as:<p>Stock
+price *(risk factor<sub>1</sub>) - (present
+value of the exercise price) *(risk factor<sub>2</sub>)<br>
+Without the &quot;risk factors,&quot; you will see the
+Black-Scholes formula is exactly the same as our
+formula above. Black and Scholes are simply
+saying that a call must be worth at least the
+cost of carry plus an additional amount if risk
+is present. It is the calculations of these risk
+factors that won the Nobel Prize!</td>
+</tr>
+</table>
+<h2><u>Pricing Relationship #4:</u></h2>
+<p><b>The more time to expiration, the greater the price
+of calls and puts.</b></p>
+<p>This relationship should be fairly obvious. The
+longer the life of the option, the more you will pay for
+it. The more time you have, the better your chances for
+the option going in-the-money. The markets, knowing
+this, will bid the longer-term options higher. This it
+true for calls and puts.</p>
+<p>Can we be assured this will happen in the real world?</p>
+<p>Say we see the following quotes one day:</p>
+<p><b>3-month $50 strike call = $5<br>
+6-month $50 strike call = $4<br>
+(with all other factors being the same)</b></p>
+<p>What will happen?</p>
+<p>Arbitrageurs will buy the 6-month and sell the 3
+month for a net credit of $1. If the stock falls below
+$50, the arbitrageur will keep the $1. What if the stock
+is higher than $50 when the 3-month expires?</p>
+<p>If the stock is trading at, say, $70 after 3-months,
+the person who owns the 3 month call will exercise it
+and buy the stock from us for $50. That's okay because
+we'll just exercise our call and buy the stock for $50.
+The reason we can exercise our call option early is
+because equity options are American-style, which means
+they can be exercised at any time*. We still keep our $1
+and have not lost a thing.</p>
+<p><b>*It is important to note that,
+under normal circumstances, it is never optimal to
+exercise a call option early except to capture a
+dividend. However, to complete the arbitrage, we must
+exercise early.</b></p>
+<p>Here's a tricky question: What if these are European
+style calls? European-style options can <u>only</u> be
+exercised at expiration, not before as with
+American-style calls.</p>
+<p>If this is the case, and we are assigned on the
+3-month call, we would have to buy stock in the open
+market at $70 and sell it for $50. That's a loss of $20
+to us although we still have our original $1 credit from
+the original transaction. It may appear as though we are
+faced with a $19 loss since we cannot exercise our call
+option. </p>
+<p>So what happens now? Are we stuck? No, and here's
+why:</p>
+<p>All we have to do is sell our call to close in the
+open market. Remember, under Pricing Relationship #2,
+the call must be worth at least the difference between
+the stock price and exercise price; therefore our call
+will be trading for at least $20 ($20 intrinsic value +
+time premium). So selling our call in the open market,
+we can complete the arbitrage!</p>
+<h2>Pricing Relationship #5</h2>
+<p><b>For any two options, the difference in price
+cannot exceed the difference in strikes.</b></p>
+<p>This relationship says that for any two call options,
+the difference in their prices cannot be greater than
+the difference in their strikes. An example will make
+this easier. Say we see the following quotes one day:</p>
+<p>$50 Call = $10<br>
+$55 Call = $4<br>
+(with all other factor constant)</p>
+<p>We know from Pricing Relationship #1 that the $50
+call should be worth more than the $55, and we see that
+it is. However, Relationship #5 says that there cannot
+be this much of a difference because the difference in
+strikes is $5, yet the difference in price is $6. So the
+difference in prices has exceeded the difference in
+strikes.</p>
+<p>How will the markets correct for this? You should
+know by now that arbitrage is the answer! </p>
+<p>Arbitrageurs will buy the $55 call and sell the $50
+for a net credit of $6.</p>
+<p>Buy $55 -$4<br>
+Sell $50 <u>+$10</u><br>
+Net credit +$6</p>
+<p>If the stock collapses, the arbitrageur will keep $6.
+This will be true for any stock price below $50. If the
+stock close between $50 and $55, say $52, the trader
+will lose $2 on the short $50 call, but still keep the
+initial $6 for a net gain of $4.</p>
+<p>The worst that can happen is for the stock to close
+above $55, for the trader will be assigned on the $50
+strike. We must then buy the stock at market and sell
+for $50. Of course, we can always exercise our $55 call
+to buy the stock, so no matter how high the stock moves,
+the worst we can be hurt is by the amount of the spread,
+in this case, $5. Because we made $6 initially, we will
+end up with a credit of $1.</p>
+<p>So the arbitrageur will make a minimum of $1 and a
+maximum of $6.</p>
+<p>An easier way to understand Pricing Relationship #5
+is to view the two contracts as if they were money.
+Imagine you are bidding on a foreign currency and can
+buy any denomination of bills. If you bid for 100 Yen,
+for example, you would never bid more than double that
+amount for 200 Yen.</p>
+<p>Likewise, options must obey the same principle. If
+you think about it, there really is no difference in
+owning a $50 call vs. a $55 call in terms of financial
+liability. The person with the $50 strike can pay $50
+for the stock; the person with the $55 strike can pay
+$55. So the market will never give you more than the
+difference in strikes.</p>
+<p>The same will hold for put options too.</p>
+<table cellPadding='18' border='1' id='table10'>
+<tr vAlign='top'>
+<td><b>Insights into option prices</b><br>
+Look at the call option quotes for your favorite
+stock. Look very deep in-the-money. What is the
+difference in asking prices? If you look deep
+enough, it will be <u>exactly</u> the difference
+in strikes and no more. If you look for the
+at-the-money quotes, you will see they will be
+less than the difference in strikes, usually
+about half. The markets will not give you the
+full value of the difference in strikes, because
+at-the-money options involve more risk so the
+markets will bid these spreads downward.
+Finally, look for the far out-of-the-money
+quotes. There will be virtually no differences
+in the asking prices; their spreads have
+collapsed to zero.
+<p>Now you should have a basic understanding of
+why this relationship is true for any option
+quotes!</td>
+</tr>
+</table>
+<h2>How to easily figure your maximum gain on spreads</h2>
+<p>Now that you understand some basics in option
+pricing, you should be able to easily figure out the max
+gain and loss for spreads! Say you buy a $50 call for $3
+and sell a $55 call for $1. Think about it this way: the
+maximum this spread could ever be worth is $5, right?
+However, you paid $2 for it (paid $3 and sold for $1 for
+a net of $2). So the maximum gain is $3 on this spread.
+The maximum loss is the amount you paid, $2. See, it's
+really not that hard once you understand why the prices
+must hold. </p>
+<p>These are just some of the most basic yet most
+important relationships to understand about options. It
+should be evident now, too, that market makers cannot
+just &quot;throw any quote on the board they please&quot; as many
+people will have you think. There is a very intricate
+web of pricing relationships that cannot be broken
+otherwise arbitrage opportunities will arise. </p>
+<p>Understanding option pricing is a key element to
+success in trading!</p>
+<p><i>As a subscriber to 21st Century Options, you will
+have access to our selected trades that are based on,
+among other factors, differences in theoretical prices.
+If you are having poor results with your trades, let us
+help you by giving you access to a team of professionals
+that will put the odds on your side.</i></p>
+<h2>Answers:</h2>
+<p>Why is there an arbitrage opportunity in the
+following quotes? How would you perform the arbitrage?
+</p>
+<p>$60 put = $12<br>
+$70 put = $10<br>
+&nbsp;</p>
+<p>There is an arbitrage opportunity because, all else
+constant, a higher strike put will always be worth more
+than a lower strike put. Because a put represents a cash
+flow in to your account upon exercise, it is more
+desirable to have a higher strike so it should trade for
+a higher price.</p>
+<p>To arbitrage:<br>
+Buy $70 put -$10<br>
+Sell $60 put <u>+$12</u><br>
+Net cash +$2</p>
+<p>If the stock collapses, you will make $10 from the
+spread plus $2 from the original transaction for a total
+of $12. If the stock flies to the upside, above $70,
+both contracts become worthless and you keep the $2. If
+the stock closes between $60 and $70, you will make
+money on the $70 but the $60 will expire worthless. So
+you will make at least $2 and possibly $12 from this
+arbitrage.</p>
+<h2>Question #2 </h2>
+<p>Stock is trading for $100<br>
+$110 put is trading for $9</p>
+<p>Is there an arbitrage opportunity? How would you do
+it?</p>
+<p>Yes, an arbitrage opportunity exists because any
+option, call or put, must trade for at least the
+intrinsic amount. In this case, the put option is
+trading for $9 but should be at least $10. </p>
+<p>To arbitrage:<br>
+Buy stock -$100<br>
+Buy $110 put <u>-$9</u><br>
+Net outlay -$109</p>
+<p>Exercise the option and receive $110 for a net credit
+of $1. This is the exact amount by which the option is
+mispriced.</p>
+
+</div>
+</div>
+</body>
+</html>

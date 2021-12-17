@@ -1,0 +1,191 @@
+# rhabiller %[clVerbGroup|1]
+[-
+habiller de nouveau. 
+remettre en état. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rhabill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rhabill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rhabill%[m|é]|
+|ayant|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rhabill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rhabill%[m|e]|
+|tu|rhabill%[m|es]|
+|il|rhabill%[m|e]|
+|nous|rhabill%[m|ons]|
+|vous|rhabill%[m|ez]|
+|ils|rhabill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rhabill%[m|é]|
+|tu|as |rhabill%[m|é]|
+|il|a|rhabill%[m|é]|
+|nous|avons|rhabill%[m|é]|
+|vous|avez|rhabill%[m|é]|
+|ils|ont|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rhabill%[m|ais]|
+|tu|rhabill%[m|ais]|
+|il|rhabill%[m|ait]|
+|nous|rhabill%[m|ions]|
+|vous|rhabill%[m|iez]|
+|ils|rhabill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rhabill%[m|é]|
+|tu|avais|rhabill%[m|é]|
+|il|avait|rhabill%[m|é]|
+|nous|avions|rhabill%[m|é]|
+|vous|aviez|rhabill%[m|é]|
+|ils|avaient|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rhabill%[m|ai]|
+|tu|rhabill%[m|as]|
+|il|rhabill%[m|a]|
+|nous|rhabill%[m|âmes]|
+|vous|rhabill%[m|âtes]|
+|ils|rhabill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rhabill%[m|é]|
+|tu|eus|rhabill%[m|é]|
+|il|eut|rhabill%[m|é]|
+|nous|e&ucirc;mes|rhabill%[m|é]|
+|vous|e&ucirc;tes|rhabill%[m|é]|
+|ils|eurent|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rhabill%[m|erai]|
+|tu|rhabill%[m|eras]|
+|il|rhabill%[m|era]|
+|nous|rhabill%[m|erons]|
+|vous|rhabill%[m|erez]|
+|ils|rhabill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rhabill%[m|é]|
+|tu|auras|rhabill%[m|é]|
+|il|aura|rhabill%[m|é]|
+|nous|aurons|rhabill%[m|é]|
+|vous|aurez|rhabill%[m|é]|
+|ils|auront|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rhabill%[m|erais]|
+|tu|rhabill%[m|erais]|
+|il|rhabill%[m|erait]|
+|nous|rhabill%[m|erions]|
+|vous|rhabill%[m|eriez]|
+|ils|rhabill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rhabill%[m|é]|
+|tu|aurais|rhabill%[m|é]|
+|il|aurait|rhabill%[m|é]|
+|nous|aurions|rhabill%[m|é]|
+|vous|auriez|rhabill%[m|é]|
+|ils|auraient|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rhabill%[m|e]|
+|que|tu|rhabill%[m|es]|
+|qu'|il|rhabill%[m|e]|
+|que|nous|rhabill%[m|ions]|
+|que|vous|rhabill%[m|iez]|
+|qu'|ils|rhabill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rhabill%[m|é]|
+|que|tu|aies|rhabill%[m|é]|
+|qu'|il|ait|rhabill%[m|é]|
+|que|nous|ayons|rhabill%[m|é]|
+|que|vous|ayez|rhabill%[m|é]|
+|qu'|ils|aient|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rhabill%[m|asse]|
+|que|tu|rhabill%[m|asses]|
+|qu'|il|rhabill%[m|ât]|
+|que|nous|rhabill%[m|assions]|
+|que|vous|rhabill%[m|assiez]|
+|qu'|ils|rhabill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rhabill%[m|é]|
+|que|tu|eusses|rhabill%[m|é]|
+|qu'|il|eût|rhabill%[m|é]|
+|que|nous|eussions|rhabill%[m|é]|
+|que|vous|eussiez|rhabill%[m|é]|
+|qu'|ils|eussent|rhabill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rhabill%[m|e]|
+|rhabill%[m|ons]|
+|rhabill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rhabill%[m|é]|
+|ayons|rhabill%[m|é]|
+|ayez|rhabill%[m|é]|
+|]
+

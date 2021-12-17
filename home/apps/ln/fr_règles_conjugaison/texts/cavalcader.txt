@@ -1,0 +1,191 @@
+# cavalcader %[clVerbGroup|1]
+[-
+faire des cavalcades. 
+chevaucher en groupe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cavalcad%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cavalcad%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cavalcad%[m|é]|
+|ayant|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cavalcad%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cavalcad%[m|e]|
+|tu|cavalcad%[m|es]|
+|il|cavalcad%[m|e]|
+|nous|cavalcad%[m|ons]|
+|vous|cavalcad%[m|ez]|
+|ils|cavalcad%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cavalcad%[m|é]|
+|tu|as |cavalcad%[m|é]|
+|il|a|cavalcad%[m|é]|
+|nous|avons|cavalcad%[m|é]|
+|vous|avez|cavalcad%[m|é]|
+|ils|ont|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cavalcad%[m|ais]|
+|tu|cavalcad%[m|ais]|
+|il|cavalcad%[m|ait]|
+|nous|cavalcad%[m|ions]|
+|vous|cavalcad%[m|iez]|
+|ils|cavalcad%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cavalcad%[m|é]|
+|tu|avais|cavalcad%[m|é]|
+|il|avait|cavalcad%[m|é]|
+|nous|avions|cavalcad%[m|é]|
+|vous|aviez|cavalcad%[m|é]|
+|ils|avaient|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cavalcad%[m|ai]|
+|tu|cavalcad%[m|as]|
+|il|cavalcad%[m|a]|
+|nous|cavalcad%[m|âmes]|
+|vous|cavalcad%[m|âtes]|
+|ils|cavalcad%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cavalcad%[m|é]|
+|tu|eus|cavalcad%[m|é]|
+|il|eut|cavalcad%[m|é]|
+|nous|e&ucirc;mes|cavalcad%[m|é]|
+|vous|e&ucirc;tes|cavalcad%[m|é]|
+|ils|eurent|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cavalcad%[m|erai]|
+|tu|cavalcad%[m|eras]|
+|il|cavalcad%[m|era]|
+|nous|cavalcad%[m|erons]|
+|vous|cavalcad%[m|erez]|
+|ils|cavalcad%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cavalcad%[m|é]|
+|tu|auras|cavalcad%[m|é]|
+|il|aura|cavalcad%[m|é]|
+|nous|aurons|cavalcad%[m|é]|
+|vous|aurez|cavalcad%[m|é]|
+|ils|auront|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cavalcad%[m|erais]|
+|tu|cavalcad%[m|erais]|
+|il|cavalcad%[m|erait]|
+|nous|cavalcad%[m|erions]|
+|vous|cavalcad%[m|eriez]|
+|ils|cavalcad%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cavalcad%[m|é]|
+|tu|aurais|cavalcad%[m|é]|
+|il|aurait|cavalcad%[m|é]|
+|nous|aurions|cavalcad%[m|é]|
+|vous|auriez|cavalcad%[m|é]|
+|ils|auraient|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cavalcad%[m|e]|
+|que|tu|cavalcad%[m|es]|
+|qu'|il|cavalcad%[m|e]|
+|que|nous|cavalcad%[m|ions]|
+|que|vous|cavalcad%[m|iez]|
+|qu'|ils|cavalcad%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cavalcad%[m|é]|
+|que|tu|aies|cavalcad%[m|é]|
+|qu'|il|ait|cavalcad%[m|é]|
+|que|nous|ayons|cavalcad%[m|é]|
+|que|vous|ayez|cavalcad%[m|é]|
+|qu'|ils|aient|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cavalcad%[m|asse]|
+|que|tu|cavalcad%[m|asses]|
+|qu'|il|cavalcad%[m|ât]|
+|que|nous|cavalcad%[m|assions]|
+|que|vous|cavalcad%[m|assiez]|
+|qu'|ils|cavalcad%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cavalcad%[m|é]|
+|que|tu|eusses|cavalcad%[m|é]|
+|qu'|il|eût|cavalcad%[m|é]|
+|que|nous|eussions|cavalcad%[m|é]|
+|que|vous|eussiez|cavalcad%[m|é]|
+|qu'|ils|eussent|cavalcad%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cavalcad%[m|e]|
+|cavalcad%[m|ons]|
+|cavalcad%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cavalcad%[m|é]|
+|ayons|cavalcad%[m|é]|
+|ayez|cavalcad%[m|é]|
+|]
+

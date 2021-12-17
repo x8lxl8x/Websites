@@ -1,0 +1,190 @@
+# répondre %[clVerbGroup|3]
+[-
+dire, écrire une réponse. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|répond%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|répond%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|répond%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||répond%[m|u]|
+|ayant|répond%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en répond%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|répond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|répond%[m|s]|
+|tu|répond%[m|s]|
+|il|répond%[m|]|
+|nous|répond%[m|ons]|
+|vous|répond%[m|ez]|
+|ils|répond%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|répond%[m|u]|
+|tu|as |répond%[m|u]|
+|il|a|répond%[m|u]|
+|nous|avons|répond%[m|u]|
+|vous|avez|répond%[m|u]|
+|ils|ont|répond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|répond%[m|ais]|
+|tu|répond%[m|ais]|
+|il|répond%[m|ait]|
+|nous|répond%[m|ions]|
+|vous|répond%[m|iez]|
+|ils|répond%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|répond%[m|u]|
+|tu|avais|répond%[m|u]|
+|il|avait|répond%[m|u]|
+|nous|avions|répond%[m|u]|
+|vous|aviez|répond%[m|u]|
+|ils|avaient|répond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|répond%[m|is]|
+|tu|répond%[m|is]|
+|il|répond%[m|it]|
+|nous|répond%[m|îmes]|
+|vous|répond%[m|îtes]|
+|ils|répond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|répond%[m|u]|
+|tu|eus|répond%[m|u]|
+|il|eut|répond%[m|u]|
+|nous|e&ucirc;mes|répond%[m|u]|
+|vous|e&ucirc;tes|répond%[m|u]|
+|ils|eurent|répond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|répond%[m|rai]|
+|tu|répond%[m|ras]|
+|il|répond%[m|ra]|
+|nous|répond%[m|rons]|
+|vous|répond%[m|rez]|
+|ils|répond%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|répond%[m|u]|
+|tu|auras|répond%[m|u]|
+|il|aura|répond%[m|u]|
+|nous|aurons|répond%[m|u]|
+|vous|aurez|répond%[m|u]|
+|ils|auront|répond%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|répond%[m|rais]|
+|tu|répond%[m|rais]|
+|il|répond%[m|rait]|
+|nous|répond%[m|rions]|
+|vous|répond%[m|riez]|
+|ils|répond%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|répond%[m|u]|
+|tu|aurais|répond%[m|u]|
+|il|aurait|répond%[m|u]|
+|nous|aurions|répond%[m|u]|
+|vous|auriez|répond%[m|u]|
+|ils|auraient|répond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|répond%[m|e]|
+|que|tu|répond%[m|es]|
+|qu'|il|répond%[m|e]|
+|que|nous|répond%[m|ions]|
+|que|vous|répond%[m|iez]|
+|qu'|ils|répond%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|répond%[m|u]|
+|que|tu|aies|répond%[m|u]|
+|qu'|il|ait|répond%[m|u]|
+|que|nous|ayons|répond%[m|u]|
+|que|vous|ayez|répond%[m|u]|
+|qu'|ils|aient|répond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|répond%[m|isse]|
+|que|tu|répond%[m|isses]|
+|qu'|il|répond%[m|ît]|
+|que|nous|répond%[m|issions]|
+|que|vous|répond%[m|issiez]|
+|qu'|ils|répond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|répond%[m|u]|
+|que|tu|eusses|répond%[m|u]|
+|qu'|il|eût|répond%[m|u]|
+|que|nous|eussions|répond%[m|u]|
+|que|vous|eussiez|répond%[m|u]|
+|qu'|ils|eussent|répond%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|répond%[m|s]|
+|répond%[m|ons]|
+|répond%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|répond%[m|u]|
+|ayons|répond%[m|u]|
+|ayez|répond%[m|u]|
+|]
+

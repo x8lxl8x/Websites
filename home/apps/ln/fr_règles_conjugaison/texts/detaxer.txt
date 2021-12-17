@@ -1,0 +1,190 @@
+# détaxer %[clVerbGroup|1]
+[-
+rembourser une taxe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|détax%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|détax%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|détax%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||détax%[m|é]|
+|ayant|détax%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en détax%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|détax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|détax%[m|e]|
+|tu|détax%[m|es]|
+|il|détax%[m|e]|
+|nous|détax%[m|ons]|
+|vous|détax%[m|ez]|
+|ils|détax%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|détax%[m|é]|
+|tu|as |détax%[m|é]|
+|il|a|détax%[m|é]|
+|nous|avons|détax%[m|é]|
+|vous|avez|détax%[m|é]|
+|ils|ont|détax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|détax%[m|ais]|
+|tu|détax%[m|ais]|
+|il|détax%[m|ait]|
+|nous|détax%[m|ions]|
+|vous|détax%[m|iez]|
+|ils|détax%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|détax%[m|é]|
+|tu|avais|détax%[m|é]|
+|il|avait|détax%[m|é]|
+|nous|avions|détax%[m|é]|
+|vous|aviez|détax%[m|é]|
+|ils|avaient|détax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|détax%[m|ai]|
+|tu|détax%[m|as]|
+|il|détax%[m|a]|
+|nous|détax%[m|âmes]|
+|vous|détax%[m|âtes]|
+|ils|détax%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|détax%[m|é]|
+|tu|eus|détax%[m|é]|
+|il|eut|détax%[m|é]|
+|nous|e&ucirc;mes|détax%[m|é]|
+|vous|e&ucirc;tes|détax%[m|é]|
+|ils|eurent|détax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|détax%[m|erai]|
+|tu|détax%[m|eras]|
+|il|détax%[m|era]|
+|nous|détax%[m|erons]|
+|vous|détax%[m|erez]|
+|ils|détax%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|détax%[m|é]|
+|tu|auras|détax%[m|é]|
+|il|aura|détax%[m|é]|
+|nous|aurons|détax%[m|é]|
+|vous|aurez|détax%[m|é]|
+|ils|auront|détax%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|détax%[m|erais]|
+|tu|détax%[m|erais]|
+|il|détax%[m|erait]|
+|nous|détax%[m|erions]|
+|vous|détax%[m|eriez]|
+|ils|détax%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|détax%[m|é]|
+|tu|aurais|détax%[m|é]|
+|il|aurait|détax%[m|é]|
+|nous|aurions|détax%[m|é]|
+|vous|auriez|détax%[m|é]|
+|ils|auraient|détax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|détax%[m|e]|
+|que|tu|détax%[m|es]|
+|qu'|il|détax%[m|e]|
+|que|nous|détax%[m|ions]|
+|que|vous|détax%[m|iez]|
+|qu'|ils|détax%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|détax%[m|é]|
+|que|tu|aies|détax%[m|é]|
+|qu'|il|ait|détax%[m|é]|
+|que|nous|ayons|détax%[m|é]|
+|que|vous|ayez|détax%[m|é]|
+|qu'|ils|aient|détax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|détax%[m|asse]|
+|que|tu|détax%[m|asses]|
+|qu'|il|détax%[m|ât]|
+|que|nous|détax%[m|assions]|
+|que|vous|détax%[m|assiez]|
+|qu'|ils|détax%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|détax%[m|é]|
+|que|tu|eusses|détax%[m|é]|
+|qu'|il|eût|détax%[m|é]|
+|que|nous|eussions|détax%[m|é]|
+|que|vous|eussiez|détax%[m|é]|
+|qu'|ils|eussent|détax%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|détax%[m|e]|
+|détax%[m|ons]|
+|détax%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|détax%[m|é]|
+|ayons|détax%[m|é]|
+|ayez|détax%[m|é]|
+|]
+

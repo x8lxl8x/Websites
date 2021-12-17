@@ -1,0 +1,190 @@
+# grenailler %[clVerbGroup|1]
+[-
+réduire en grenaille. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|grenaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|grenaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grenaill%[m|é]|
+|ayant|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en grenaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|grenaill%[m|e]|
+|tu|grenaill%[m|es]|
+|il|grenaill%[m|e]|
+|nous|grenaill%[m|ons]|
+|vous|grenaill%[m|ez]|
+|ils|grenaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grenaill%[m|é]|
+|tu|as |grenaill%[m|é]|
+|il|a|grenaill%[m|é]|
+|nous|avons|grenaill%[m|é]|
+|vous|avez|grenaill%[m|é]|
+|ils|ont|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|grenaill%[m|ais]|
+|tu|grenaill%[m|ais]|
+|il|grenaill%[m|ait]|
+|nous|grenaill%[m|ions]|
+|vous|grenaill%[m|iez]|
+|ils|grenaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grenaill%[m|é]|
+|tu|avais|grenaill%[m|é]|
+|il|avait|grenaill%[m|é]|
+|nous|avions|grenaill%[m|é]|
+|vous|aviez|grenaill%[m|é]|
+|ils|avaient|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|grenaill%[m|ai]|
+|tu|grenaill%[m|as]|
+|il|grenaill%[m|a]|
+|nous|grenaill%[m|âmes]|
+|vous|grenaill%[m|âtes]|
+|ils|grenaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grenaill%[m|é]|
+|tu|eus|grenaill%[m|é]|
+|il|eut|grenaill%[m|é]|
+|nous|e&ucirc;mes|grenaill%[m|é]|
+|vous|e&ucirc;tes|grenaill%[m|é]|
+|ils|eurent|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|grenaill%[m|erai]|
+|tu|grenaill%[m|eras]|
+|il|grenaill%[m|era]|
+|nous|grenaill%[m|erons]|
+|vous|grenaill%[m|erez]|
+|ils|grenaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grenaill%[m|é]|
+|tu|auras|grenaill%[m|é]|
+|il|aura|grenaill%[m|é]|
+|nous|aurons|grenaill%[m|é]|
+|vous|aurez|grenaill%[m|é]|
+|ils|auront|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|grenaill%[m|erais]|
+|tu|grenaill%[m|erais]|
+|il|grenaill%[m|erait]|
+|nous|grenaill%[m|erions]|
+|vous|grenaill%[m|eriez]|
+|ils|grenaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grenaill%[m|é]|
+|tu|aurais|grenaill%[m|é]|
+|il|aurait|grenaill%[m|é]|
+|nous|aurions|grenaill%[m|é]|
+|vous|auriez|grenaill%[m|é]|
+|ils|auraient|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|grenaill%[m|e]|
+|que|tu|grenaill%[m|es]|
+|qu'|il|grenaill%[m|e]|
+|que|nous|grenaill%[m|ions]|
+|que|vous|grenaill%[m|iez]|
+|qu'|ils|grenaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grenaill%[m|é]|
+|que|tu|aies|grenaill%[m|é]|
+|qu'|il|ait|grenaill%[m|é]|
+|que|nous|ayons|grenaill%[m|é]|
+|que|vous|ayez|grenaill%[m|é]|
+|qu'|ils|aient|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|grenaill%[m|asse]|
+|que|tu|grenaill%[m|asses]|
+|qu'|il|grenaill%[m|ât]|
+|que|nous|grenaill%[m|assions]|
+|que|vous|grenaill%[m|assiez]|
+|qu'|ils|grenaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grenaill%[m|é]|
+|que|tu|eusses|grenaill%[m|é]|
+|qu'|il|eût|grenaill%[m|é]|
+|que|nous|eussions|grenaill%[m|é]|
+|que|vous|eussiez|grenaill%[m|é]|
+|qu'|ils|eussent|grenaill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grenaill%[m|e]|
+|grenaill%[m|ons]|
+|grenaill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grenaill%[m|é]|
+|ayons|grenaill%[m|é]|
+|ayez|grenaill%[m|é]|
+|]
+

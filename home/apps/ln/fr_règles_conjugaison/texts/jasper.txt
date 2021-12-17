@@ -1,0 +1,190 @@
+# jasper %[clVerbGroup|1]
+[-
+donner l'aspect du jaspe, comme sur les reliures de certains livres. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|jasp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|jasp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|jasp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||jasp%[m|é]|
+|ayant|jasp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en jasp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|jasp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|jasp%[m|e]|
+|tu|jasp%[m|es]|
+|il|jasp%[m|e]|
+|nous|jasp%[m|ons]|
+|vous|jasp%[m|ez]|
+|ils|jasp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|jasp%[m|é]|
+|tu|as |jasp%[m|é]|
+|il|a|jasp%[m|é]|
+|nous|avons|jasp%[m|é]|
+|vous|avez|jasp%[m|é]|
+|ils|ont|jasp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|jasp%[m|ais]|
+|tu|jasp%[m|ais]|
+|il|jasp%[m|ait]|
+|nous|jasp%[m|ions]|
+|vous|jasp%[m|iez]|
+|ils|jasp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|jasp%[m|é]|
+|tu|avais|jasp%[m|é]|
+|il|avait|jasp%[m|é]|
+|nous|avions|jasp%[m|é]|
+|vous|aviez|jasp%[m|é]|
+|ils|avaient|jasp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|jasp%[m|ai]|
+|tu|jasp%[m|as]|
+|il|jasp%[m|a]|
+|nous|jasp%[m|âmes]|
+|vous|jasp%[m|âtes]|
+|ils|jasp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|jasp%[m|é]|
+|tu|eus|jasp%[m|é]|
+|il|eut|jasp%[m|é]|
+|nous|e&ucirc;mes|jasp%[m|é]|
+|vous|e&ucirc;tes|jasp%[m|é]|
+|ils|eurent|jasp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|jasp%[m|erai]|
+|tu|jasp%[m|eras]|
+|il|jasp%[m|era]|
+|nous|jasp%[m|erons]|
+|vous|jasp%[m|erez]|
+|ils|jasp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|jasp%[m|é]|
+|tu|auras|jasp%[m|é]|
+|il|aura|jasp%[m|é]|
+|nous|aurons|jasp%[m|é]|
+|vous|aurez|jasp%[m|é]|
+|ils|auront|jasp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|jasp%[m|erais]|
+|tu|jasp%[m|erais]|
+|il|jasp%[m|erait]|
+|nous|jasp%[m|erions]|
+|vous|jasp%[m|eriez]|
+|ils|jasp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|jasp%[m|é]|
+|tu|aurais|jasp%[m|é]|
+|il|aurait|jasp%[m|é]|
+|nous|aurions|jasp%[m|é]|
+|vous|auriez|jasp%[m|é]|
+|ils|auraient|jasp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|jasp%[m|e]|
+|que|tu|jasp%[m|es]|
+|qu'|il|jasp%[m|e]|
+|que|nous|jasp%[m|ions]|
+|que|vous|jasp%[m|iez]|
+|qu'|ils|jasp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|jasp%[m|é]|
+|que|tu|aies|jasp%[m|é]|
+|qu'|il|ait|jasp%[m|é]|
+|que|nous|ayons|jasp%[m|é]|
+|que|vous|ayez|jasp%[m|é]|
+|qu'|ils|aient|jasp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|jasp%[m|asse]|
+|que|tu|jasp%[m|asses]|
+|qu'|il|jasp%[m|ât]|
+|que|nous|jasp%[m|assions]|
+|que|vous|jasp%[m|assiez]|
+|qu'|ils|jasp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|jasp%[m|é]|
+|que|tu|eusses|jasp%[m|é]|
+|qu'|il|eût|jasp%[m|é]|
+|que|nous|eussions|jasp%[m|é]|
+|que|vous|eussiez|jasp%[m|é]|
+|qu'|ils|eussent|jasp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|jasp%[m|e]|
+|jasp%[m|ons]|
+|jasp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|jasp%[m|é]|
+|ayons|jasp%[m|é]|
+|ayez|jasp%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# s'aheurter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'aheurt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|aheurt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'aheurt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|aheurt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'aheurt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|aheurt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|aheurt%[m|e]|
+|tu|t'|aheurt%[m|es]|
+|il|s'|aheurt%[m|e]|
+|nous|nous|aheurt%[m|ons]|
+|vous|vous|aheurt%[m|ez]|
+|ils|s'|aheurt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|aheurt%[m|é]|
+|tu|t'|es|aheurt%[m|é]|
+|il|s'|est|aheurt%[m|é]|
+|nous|nous|sommes|aheurt%[m|és]|
+|vous|vous|êtes|aheurt%[m|és]|
+|ils|se|sont|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|aheurt%[m|ais]|
+|tu|t'|aheurt%[m|ais]|
+|il|s'|aheurt%[m|ait]|
+|nous|nous|aheurt%[m|ions]|
+|vous|vous|aheurt%[m|iez]|
+|ils|s'|aheurt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|aheurt%[m|é]|
+|tu|t'|étais|aheurt%[m|é]|
+|il|s'|était|aheurt%[m|é]|
+|nous|nous|étions|aheurt%[m|és]|
+|vous|vous|étiez|aheurt%[m|és]|
+|ils|s'|étaient|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|aheurt%[m|ai]|
+|tu|t'|aheurt%[m|as]|
+|il|s'|aheurt%[m|a]|
+|nous|nous|aheurt%[m|âmes]|
+|vous|vous|aheurt%[m|âtes]|
+|ils|s'|aheurt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|aheurt%[m|é]|
+|tu|te|fus|aheurt%[m|é]|
+|il|se|fut|aheurt%[m|é]|
+|nous|nous|fûmes|aheurt%[m|és]|
+|vous|vous|fûtes|aheurt%[m|és]|
+|ils|se|furent|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|aheurt%[m|erai]|
+|tu|t'|aheurt%[m|eras]|
+|il|s'|aheurt%[m|era]|
+|nous|nous|aheurt%[m|erons]|
+|vous|vous|aheurt%[m|erez]|
+|ils|s'|aheurt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|aheurt%[m|é]|
+|tu|te|seras|aheurt%[m|é]|
+|il|se|sera|aheurt%[m|é]|
+|nous|nous|serons|aheurt%[m|és]|
+|vous|vous|serez|aheurt%[m|és]|
+|ils|se|seront|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|aheurt%[m|erais]|
+|tu|t'|aheurt%[m|erais]|
+|il|s'|aheurt%[m|erait]|
+|nous|nous|aheurt%[m|erions]|
+|vous|vous|aheurt%[m|eriez]|
+|ils|s'|aheurt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|aheurt%[m|é]|
+|tu|te|serais|aheurt%[m|é]|
+|il|se|serait|aheurt%[m|é]|
+|nous|nous|serions|aheurt%[m|és]|
+|vous|vous|seriez|aheurt%[m|és]|
+|ils|se|seraient|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|aheurt%[m|e]|
+|que|tu|t'|aheurt%[m|es]|
+|qu'|il|s'|aheurt%[m|e]|
+|que|nous|nous|aheurt%[m|ions]|
+|que|vous|vous|aheurt%[m|iez]|
+|qu'|ils|s'|aheurt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|aheurt%[m|é]|
+|que|tu|te|sois|aheurt%[m|é]|
+|qu'|il|se|soit|aheurt%[m|é]|
+|que|nous|nous|soyons|aheurt%[m|és]|
+|que|vous|vous|soyez|aheurt%[m|és]|
+|qu'|ils|se|soient|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|aheurt%[m|asse]|
+|que|tu|t'|aheurt%[m|asses]|
+|qu'|il|s'|aheurt%[m|ât]|
+|que|nous|nous|aheurt%[m|assions]|
+|que|vous|vous|aheurt%[m|assiez]|
+|qu'|ils|s'|aheurt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|aheurt%[m|é]|
+|que|tu|te|fusses|aheurt%[m|é]|
+|qu'|il|se|fût|aheurt%[m|é]|
+|que|nous|nous|fussions|aheurt%[m|és]|
+|que|vous|vous|fussiez|aheurt%[m|és]|
+|qu'|ils|se|fussent|aheurt%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aheurt%[m|e]-toi|
+|aheurt%[m|ons]-nous|
+|aheurt%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

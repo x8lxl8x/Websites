@@ -1,0 +1,190 @@
+# apiquer %[clVerbGroup|1]
+[-
+manoeuvrer un espar pour le mettre à pic. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|apiqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|apiqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||apiqu%[m|é]|
+|ayant|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en apiqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|apiqu%[m|e]|
+|tu|apiqu%[m|es]|
+|il|apiqu%[m|e]|
+|nous|apiqu%[m|ons]|
+|vous|apiqu%[m|ez]|
+|ils|apiqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|apiqu%[m|é]|
+|tu|as |apiqu%[m|é]|
+|il|a|apiqu%[m|é]|
+|nous|avons|apiqu%[m|é]|
+|vous|avez|apiqu%[m|é]|
+|ils|ont|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|apiqu%[m|ais]|
+|tu|apiqu%[m|ais]|
+|il|apiqu%[m|ait]|
+|nous|apiqu%[m|ions]|
+|vous|apiqu%[m|iez]|
+|ils|apiqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|apiqu%[m|é]|
+|tu|avais|apiqu%[m|é]|
+|il|avait|apiqu%[m|é]|
+|nous|avions|apiqu%[m|é]|
+|vous|aviez|apiqu%[m|é]|
+|ils|avaient|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|apiqu%[m|ai]|
+|tu|apiqu%[m|as]|
+|il|apiqu%[m|a]|
+|nous|apiqu%[m|âmes]|
+|vous|apiqu%[m|âtes]|
+|ils|apiqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|apiqu%[m|é]|
+|tu|eus|apiqu%[m|é]|
+|il|eut|apiqu%[m|é]|
+|nous|e&ucirc;mes|apiqu%[m|é]|
+|vous|e&ucirc;tes|apiqu%[m|é]|
+|ils|eurent|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|apiqu%[m|erai]|
+|tu|apiqu%[m|eras]|
+|il|apiqu%[m|era]|
+|nous|apiqu%[m|erons]|
+|vous|apiqu%[m|erez]|
+|ils|apiqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|apiqu%[m|é]|
+|tu|auras|apiqu%[m|é]|
+|il|aura|apiqu%[m|é]|
+|nous|aurons|apiqu%[m|é]|
+|vous|aurez|apiqu%[m|é]|
+|ils|auront|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|apiqu%[m|erais]|
+|tu|apiqu%[m|erais]|
+|il|apiqu%[m|erait]|
+|nous|apiqu%[m|erions]|
+|vous|apiqu%[m|eriez]|
+|ils|apiqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|apiqu%[m|é]|
+|tu|aurais|apiqu%[m|é]|
+|il|aurait|apiqu%[m|é]|
+|nous|aurions|apiqu%[m|é]|
+|vous|auriez|apiqu%[m|é]|
+|ils|auraient|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|apiqu%[m|e]|
+|que|tu|apiqu%[m|es]|
+|qu'|il|apiqu%[m|e]|
+|que|nous|apiqu%[m|ions]|
+|que|vous|apiqu%[m|iez]|
+|qu'|ils|apiqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|apiqu%[m|é]|
+|que|tu|aies|apiqu%[m|é]|
+|qu'|il|ait|apiqu%[m|é]|
+|que|nous|ayons|apiqu%[m|é]|
+|que|vous|ayez|apiqu%[m|é]|
+|qu'|ils|aient|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|apiqu%[m|asse]|
+|que|tu|apiqu%[m|asses]|
+|qu'|il|apiqu%[m|ât]|
+|que|nous|apiqu%[m|assions]|
+|que|vous|apiqu%[m|assiez]|
+|qu'|ils|apiqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|apiqu%[m|é]|
+|que|tu|eusses|apiqu%[m|é]|
+|qu'|il|eût|apiqu%[m|é]|
+|que|nous|eussions|apiqu%[m|é]|
+|que|vous|eussiez|apiqu%[m|é]|
+|qu'|ils|eussent|apiqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|apiqu%[m|e]|
+|apiqu%[m|ons]|
+|apiqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|apiqu%[m|é]|
+|ayons|apiqu%[m|é]|
+|ayez|apiqu%[m|é]|
+|]
+

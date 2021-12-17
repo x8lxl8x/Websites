@@ -1,0 +1,190 @@
+# se transporter %[clVerbGroup|1]
+[-
+se déplacer, se rendre à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se transport%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|transport%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se transport%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|transport%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se transport%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|transport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|transport%[m|e]|
+|tu|te|transport%[m|es]|
+|il|se|transport%[m|e]|
+|nous|nous|transport%[m|ons]|
+|vous|vous|transport%[m|ez]|
+|ils|se|transport%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|transport%[m|é]|
+|tu|t'|es|transport%[m|é]|
+|il|s'|est|transport%[m|é]|
+|nous|nous|sommes|transport%[m|és]|
+|vous|vous|êtes|transport%[m|és]|
+|ils|se|sont|transport%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|transport%[m|ais]|
+|tu|te|transport%[m|ais]|
+|il|se|transport%[m|ait]|
+|nous|nous|transport%[m|ions]|
+|vous|vous|transport%[m|iez]|
+|ils|se|transport%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|transport%[m|é]|
+|tu|t'|étais|transport%[m|é]|
+|il|s'|était|transport%[m|é]|
+|nous|nous|étions|transport%[m|és]|
+|vous|vous|étiez|transport%[m|és]|
+|ils|s'|étaient|transport%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|transport%[m|ai]|
+|tu|te|transport%[m|as]|
+|il|se|transport%[m|a]|
+|nous|nous|transport%[m|âmes]|
+|vous|vous|transport%[m|âtes]|
+|ils|se|transport%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|transport%[m|é]|
+|tu|te|fus|transport%[m|é]|
+|il|se|fut|transport%[m|é]|
+|nous|nous|fûmes|transport%[m|és]|
+|vous|vous|fûtes|transport%[m|és]|
+|ils|se|furent|transport%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|transport%[m|erai]|
+|tu|te|transport%[m|eras]|
+|il|se|transport%[m|era]|
+|nous|nous|transport%[m|erons]|
+|vous|vous|transport%[m|erez]|
+|ils|se|transport%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|transport%[m|é]|
+|tu|te|seras|transport%[m|é]|
+|il|se|sera|transport%[m|é]|
+|nous|nous|serons|transport%[m|és]|
+|vous|vous|serez|transport%[m|és]|
+|ils|se|seront|transport%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|transport%[m|erais]|
+|tu|te|transport%[m|erais]|
+|il|se|transport%[m|erait]|
+|nous|nous|transport%[m|erions]|
+|vous|vous|transport%[m|eriez]|
+|ils|se|transport%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|transport%[m|é]|
+|tu|te|serais|transport%[m|é]|
+|il|se|serait|transport%[m|é]|
+|nous|nous|serions|transport%[m|és]|
+|vous|vous|seriez|transport%[m|és]|
+|ils|se|seraient|transport%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|transport%[m|e]|
+|que|tu|te|transport%[m|es]|
+|qu'|il|se|transport%[m|e]|
+|que|nous|nous|transport%[m|ions]|
+|que|vous|vous|transport%[m|iez]|
+|qu'|ils|se|transport%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|transport%[m|é]|
+|que|tu|te|sois|transport%[m|é]|
+|qu'|il|se|soit|transport%[m|é]|
+|que|nous|nous|soyons|transport%[m|és]|
+|que|vous|vous|soyez|transport%[m|és]|
+|qu'|ils|se|soient|transport%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|transport%[m|asse]|
+|que|tu|te|transport%[m|asses]|
+|qu'|il|se|transport%[m|ât]|
+|que|nous|nous|transport%[m|assions]|
+|que|vous|vous|transport%[m|assiez]|
+|qu'|ils|se|transport%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|transport%[m|é]|
+|que|tu|te|fusses|transport%[m|é]|
+|qu'|il|se|fût|transport%[m|é]|
+|que|nous|nous|fussions|transport%[m|és]|
+|que|vous|vous|fussiez|transport%[m|és]|
+|qu'|ils|se|fussent|transport%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|transport%[m|e]-toi|
+|transport%[m|ons]-nous|
+|transport%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

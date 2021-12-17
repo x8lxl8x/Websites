@@ -1,0 +1,192 @@
+# s'exiler %[clVerbGroup|1]
+[-
+envoyer quelqu'un en exil. 
+éloigner quelqu'un d'un lieu sans lui permettre d'y revenir. 
+quitter son pays. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'exil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|exil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'exil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|exil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'exil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|exil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|exil%[m|e]|
+|tu|t'|exil%[m|es]|
+|il|s'|exil%[m|e]|
+|nous|nous|exil%[m|ons]|
+|vous|vous|exil%[m|ez]|
+|ils|s'|exil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|exil%[m|é]|
+|tu|t'|es|exil%[m|é]|
+|il|s'|est|exil%[m|é]|
+|nous|nous|sommes|exil%[m|és]|
+|vous|vous|êtes|exil%[m|és]|
+|ils|se|sont|exil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|exil%[m|ais]|
+|tu|t'|exil%[m|ais]|
+|il|s'|exil%[m|ait]|
+|nous|nous|exil%[m|ions]|
+|vous|vous|exil%[m|iez]|
+|ils|s'|exil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|exil%[m|é]|
+|tu|t'|étais|exil%[m|é]|
+|il|s'|était|exil%[m|é]|
+|nous|nous|étions|exil%[m|és]|
+|vous|vous|étiez|exil%[m|és]|
+|ils|s'|étaient|exil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|exil%[m|ai]|
+|tu|t'|exil%[m|as]|
+|il|s'|exil%[m|a]|
+|nous|nous|exil%[m|âmes]|
+|vous|vous|exil%[m|âtes]|
+|ils|s'|exil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|exil%[m|é]|
+|tu|te|fus|exil%[m|é]|
+|il|se|fut|exil%[m|é]|
+|nous|nous|fûmes|exil%[m|és]|
+|vous|vous|fûtes|exil%[m|és]|
+|ils|se|furent|exil%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|exil%[m|erai]|
+|tu|t'|exil%[m|eras]|
+|il|s'|exil%[m|era]|
+|nous|nous|exil%[m|erons]|
+|vous|vous|exil%[m|erez]|
+|ils|s'|exil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|exil%[m|é]|
+|tu|te|seras|exil%[m|é]|
+|il|se|sera|exil%[m|é]|
+|nous|nous|serons|exil%[m|és]|
+|vous|vous|serez|exil%[m|és]|
+|ils|se|seront|exil%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|exil%[m|erais]|
+|tu|t'|exil%[m|erais]|
+|il|s'|exil%[m|erait]|
+|nous|nous|exil%[m|erions]|
+|vous|vous|exil%[m|eriez]|
+|ils|s'|exil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|exil%[m|é]|
+|tu|te|serais|exil%[m|é]|
+|il|se|serait|exil%[m|é]|
+|nous|nous|serions|exil%[m|és]|
+|vous|vous|seriez|exil%[m|és]|
+|ils|se|seraient|exil%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|exil%[m|e]|
+|que|tu|t'|exil%[m|es]|
+|qu'|il|s'|exil%[m|e]|
+|que|nous|nous|exil%[m|ions]|
+|que|vous|vous|exil%[m|iez]|
+|qu'|ils|s'|exil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|exil%[m|é]|
+|que|tu|te|sois|exil%[m|é]|
+|qu'|il|se|soit|exil%[m|é]|
+|que|nous|nous|soyons|exil%[m|és]|
+|que|vous|vous|soyez|exil%[m|és]|
+|qu'|ils|se|soient|exil%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|exil%[m|asse]|
+|que|tu|t'|exil%[m|asses]|
+|qu'|il|s'|exil%[m|ât]|
+|que|nous|nous|exil%[m|assions]|
+|que|vous|vous|exil%[m|assiez]|
+|qu'|ils|s'|exil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|exil%[m|é]|
+|que|tu|te|fusses|exil%[m|é]|
+|qu'|il|se|fût|exil%[m|é]|
+|que|nous|nous|fussions|exil%[m|és]|
+|que|vous|vous|fussiez|exil%[m|és]|
+|qu'|ils|se|fussent|exil%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|exil%[m|e]-toi|
+|exil%[m|ons]-nous|
+|exil%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

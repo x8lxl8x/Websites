@@ -1,0 +1,190 @@
+# trépasser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|trépass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|trépass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|trépass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||trépass%[m|é]|
+|ayant|trépass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en trépass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|trépass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|trépass%[m|e]|
+|tu|trépass%[m|es]|
+|il|trépass%[m|e]|
+|nous|trépass%[m|ons]|
+|vous|trépass%[m|ez]|
+|ils|trépass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|trépass%[m|é]|
+|tu|as |trépass%[m|é]|
+|il|a|trépass%[m|é]|
+|nous|avons|trépass%[m|é]|
+|vous|avez|trépass%[m|é]|
+|ils|ont|trépass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|trépass%[m|ais]|
+|tu|trépass%[m|ais]|
+|il|trépass%[m|ait]|
+|nous|trépass%[m|ions]|
+|vous|trépass%[m|iez]|
+|ils|trépass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|trépass%[m|é]|
+|tu|avais|trépass%[m|é]|
+|il|avait|trépass%[m|é]|
+|nous|avions|trépass%[m|é]|
+|vous|aviez|trépass%[m|é]|
+|ils|avaient|trépass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|trépass%[m|ai]|
+|tu|trépass%[m|as]|
+|il|trépass%[m|a]|
+|nous|trépass%[m|âmes]|
+|vous|trépass%[m|âtes]|
+|ils|trépass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|trépass%[m|é]|
+|tu|eus|trépass%[m|é]|
+|il|eut|trépass%[m|é]|
+|nous|e&ucirc;mes|trépass%[m|é]|
+|vous|e&ucirc;tes|trépass%[m|é]|
+|ils|eurent|trépass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|trépass%[m|erai]|
+|tu|trépass%[m|eras]|
+|il|trépass%[m|era]|
+|nous|trépass%[m|erons]|
+|vous|trépass%[m|erez]|
+|ils|trépass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|trépass%[m|é]|
+|tu|auras|trépass%[m|é]|
+|il|aura|trépass%[m|é]|
+|nous|aurons|trépass%[m|é]|
+|vous|aurez|trépass%[m|é]|
+|ils|auront|trépass%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|trépass%[m|erais]|
+|tu|trépass%[m|erais]|
+|il|trépass%[m|erait]|
+|nous|trépass%[m|erions]|
+|vous|trépass%[m|eriez]|
+|ils|trépass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|trépass%[m|é]|
+|tu|aurais|trépass%[m|é]|
+|il|aurait|trépass%[m|é]|
+|nous|aurions|trépass%[m|é]|
+|vous|auriez|trépass%[m|é]|
+|ils|auraient|trépass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|trépass%[m|e]|
+|que|tu|trépass%[m|es]|
+|qu'|il|trépass%[m|e]|
+|que|nous|trépass%[m|ions]|
+|que|vous|trépass%[m|iez]|
+|qu'|ils|trépass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|trépass%[m|é]|
+|que|tu|aies|trépass%[m|é]|
+|qu'|il|ait|trépass%[m|é]|
+|que|nous|ayons|trépass%[m|é]|
+|que|vous|ayez|trépass%[m|é]|
+|qu'|ils|aient|trépass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|trépass%[m|asse]|
+|que|tu|trépass%[m|asses]|
+|qu'|il|trépass%[m|ât]|
+|que|nous|trépass%[m|assions]|
+|que|vous|trépass%[m|assiez]|
+|qu'|ils|trépass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|trépass%[m|é]|
+|que|tu|eusses|trépass%[m|é]|
+|qu'|il|eût|trépass%[m|é]|
+|que|nous|eussions|trépass%[m|é]|
+|que|vous|eussiez|trépass%[m|é]|
+|qu'|ils|eussent|trépass%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|trépass%[m|e]|
+|trépass%[m|ons]|
+|trépass%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|trépass%[m|é]|
+|ayons|trépass%[m|é]|
+|ayez|trépass%[m|é]|
+|]
+

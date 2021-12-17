@@ -1,0 +1,190 @@
+# rosser %[clVerbGroup|1]
+[-
+battre violemment. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ross%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ross%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ross%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ross%[m|é]|
+|ayant|ross%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ross%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|ross%[m|e]|
+|tu|ross%[m|es]|
+|il|ross%[m|e]|
+|nous|ross%[m|ons]|
+|vous|ross%[m|ez]|
+|ils|ross%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ross%[m|é]|
+|tu|as |ross%[m|é]|
+|il|a|ross%[m|é]|
+|nous|avons|ross%[m|é]|
+|vous|avez|ross%[m|é]|
+|ils|ont|ross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|ross%[m|ais]|
+|tu|ross%[m|ais]|
+|il|ross%[m|ait]|
+|nous|ross%[m|ions]|
+|vous|ross%[m|iez]|
+|ils|ross%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ross%[m|é]|
+|tu|avais|ross%[m|é]|
+|il|avait|ross%[m|é]|
+|nous|avions|ross%[m|é]|
+|vous|aviez|ross%[m|é]|
+|ils|avaient|ross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|ross%[m|ai]|
+|tu|ross%[m|as]|
+|il|ross%[m|a]|
+|nous|ross%[m|âmes]|
+|vous|ross%[m|âtes]|
+|ils|ross%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ross%[m|é]|
+|tu|eus|ross%[m|é]|
+|il|eut|ross%[m|é]|
+|nous|e&ucirc;mes|ross%[m|é]|
+|vous|e&ucirc;tes|ross%[m|é]|
+|ils|eurent|ross%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|ross%[m|erai]|
+|tu|ross%[m|eras]|
+|il|ross%[m|era]|
+|nous|ross%[m|erons]|
+|vous|ross%[m|erez]|
+|ils|ross%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ross%[m|é]|
+|tu|auras|ross%[m|é]|
+|il|aura|ross%[m|é]|
+|nous|aurons|ross%[m|é]|
+|vous|aurez|ross%[m|é]|
+|ils|auront|ross%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|ross%[m|erais]|
+|tu|ross%[m|erais]|
+|il|ross%[m|erait]|
+|nous|ross%[m|erions]|
+|vous|ross%[m|eriez]|
+|ils|ross%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ross%[m|é]|
+|tu|aurais|ross%[m|é]|
+|il|aurait|ross%[m|é]|
+|nous|aurions|ross%[m|é]|
+|vous|auriez|ross%[m|é]|
+|ils|auraient|ross%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|ross%[m|e]|
+|que|tu|ross%[m|es]|
+|qu'|il|ross%[m|e]|
+|que|nous|ross%[m|ions]|
+|que|vous|ross%[m|iez]|
+|qu'|ils|ross%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ross%[m|é]|
+|que|tu|aies|ross%[m|é]|
+|qu'|il|ait|ross%[m|é]|
+|que|nous|ayons|ross%[m|é]|
+|que|vous|ayez|ross%[m|é]|
+|qu'|ils|aient|ross%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|ross%[m|asse]|
+|que|tu|ross%[m|asses]|
+|qu'|il|ross%[m|ât]|
+|que|nous|ross%[m|assions]|
+|que|vous|ross%[m|assiez]|
+|qu'|ils|ross%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ross%[m|é]|
+|que|tu|eusses|ross%[m|é]|
+|qu'|il|eût|ross%[m|é]|
+|que|nous|eussions|ross%[m|é]|
+|que|vous|eussiez|ross%[m|é]|
+|qu'|ils|eussent|ross%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ross%[m|e]|
+|ross%[m|ons]|
+|ross%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ross%[m|é]|
+|ayons|ross%[m|é]|
+|ayez|ross%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# biser %[clVerbGroup|1]
+[-
+faire la bise à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bis%[m|é]|
+|ayant|bis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bis%[m|e]|
+|tu|bis%[m|es]|
+|il|bis%[m|e]|
+|nous|bis%[m|ons]|
+|vous|bis%[m|ez]|
+|ils|bis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bis%[m|é]|
+|tu|as |bis%[m|é]|
+|il|a|bis%[m|é]|
+|nous|avons|bis%[m|é]|
+|vous|avez|bis%[m|é]|
+|ils|ont|bis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bis%[m|ais]|
+|tu|bis%[m|ais]|
+|il|bis%[m|ait]|
+|nous|bis%[m|ions]|
+|vous|bis%[m|iez]|
+|ils|bis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bis%[m|é]|
+|tu|avais|bis%[m|é]|
+|il|avait|bis%[m|é]|
+|nous|avions|bis%[m|é]|
+|vous|aviez|bis%[m|é]|
+|ils|avaient|bis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bis%[m|ai]|
+|tu|bis%[m|as]|
+|il|bis%[m|a]|
+|nous|bis%[m|âmes]|
+|vous|bis%[m|âtes]|
+|ils|bis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bis%[m|é]|
+|tu|eus|bis%[m|é]|
+|il|eut|bis%[m|é]|
+|nous|e&ucirc;mes|bis%[m|é]|
+|vous|e&ucirc;tes|bis%[m|é]|
+|ils|eurent|bis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bis%[m|erai]|
+|tu|bis%[m|eras]|
+|il|bis%[m|era]|
+|nous|bis%[m|erons]|
+|vous|bis%[m|erez]|
+|ils|bis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bis%[m|é]|
+|tu|auras|bis%[m|é]|
+|il|aura|bis%[m|é]|
+|nous|aurons|bis%[m|é]|
+|vous|aurez|bis%[m|é]|
+|ils|auront|bis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bis%[m|erais]|
+|tu|bis%[m|erais]|
+|il|bis%[m|erait]|
+|nous|bis%[m|erions]|
+|vous|bis%[m|eriez]|
+|ils|bis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bis%[m|é]|
+|tu|aurais|bis%[m|é]|
+|il|aurait|bis%[m|é]|
+|nous|aurions|bis%[m|é]|
+|vous|auriez|bis%[m|é]|
+|ils|auraient|bis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bis%[m|e]|
+|que|tu|bis%[m|es]|
+|qu'|il|bis%[m|e]|
+|que|nous|bis%[m|ions]|
+|que|vous|bis%[m|iez]|
+|qu'|ils|bis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bis%[m|é]|
+|que|tu|aies|bis%[m|é]|
+|qu'|il|ait|bis%[m|é]|
+|que|nous|ayons|bis%[m|é]|
+|que|vous|ayez|bis%[m|é]|
+|qu'|ils|aient|bis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bis%[m|asse]|
+|que|tu|bis%[m|asses]|
+|qu'|il|bis%[m|ât]|
+|que|nous|bis%[m|assions]|
+|que|vous|bis%[m|assiez]|
+|qu'|ils|bis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bis%[m|é]|
+|que|tu|eusses|bis%[m|é]|
+|qu'|il|eût|bis%[m|é]|
+|que|nous|eussions|bis%[m|é]|
+|que|vous|eussiez|bis%[m|é]|
+|qu'|ils|eussent|bis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bis%[m|e]|
+|bis%[m|ons]|
+|bis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bis%[m|é]|
+|ayons|bis%[m|é]|
+|ayez|bis%[m|é]|
+|]
+

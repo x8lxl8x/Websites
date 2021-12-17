@@ -1,0 +1,190 @@
+# voguer %[clVerbGroup|1]
+[-
+naviguer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|vogu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|vogu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|vogu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||vogu%[m|é]|
+|ayant|vogu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en vogu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|vogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|vogu%[m|e]|
+|tu|vogu%[m|es]|
+|il|vogu%[m|e]|
+|nous|vogu%[m|ons]|
+|vous|vogu%[m|ez]|
+|ils|vogu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|vogu%[m|é]|
+|tu|as |vogu%[m|é]|
+|il|a|vogu%[m|é]|
+|nous|avons|vogu%[m|é]|
+|vous|avez|vogu%[m|é]|
+|ils|ont|vogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|vogu%[m|ais]|
+|tu|vogu%[m|ais]|
+|il|vogu%[m|ait]|
+|nous|vogu%[m|ions]|
+|vous|vogu%[m|iez]|
+|ils|vogu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|vogu%[m|é]|
+|tu|avais|vogu%[m|é]|
+|il|avait|vogu%[m|é]|
+|nous|avions|vogu%[m|é]|
+|vous|aviez|vogu%[m|é]|
+|ils|avaient|vogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|vogu%[m|ai]|
+|tu|vogu%[m|as]|
+|il|vogu%[m|a]|
+|nous|vogu%[m|âmes]|
+|vous|vogu%[m|âtes]|
+|ils|vogu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|vogu%[m|é]|
+|tu|eus|vogu%[m|é]|
+|il|eut|vogu%[m|é]|
+|nous|e&ucirc;mes|vogu%[m|é]|
+|vous|e&ucirc;tes|vogu%[m|é]|
+|ils|eurent|vogu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|vogu%[m|erai]|
+|tu|vogu%[m|eras]|
+|il|vogu%[m|era]|
+|nous|vogu%[m|erons]|
+|vous|vogu%[m|erez]|
+|ils|vogu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|vogu%[m|é]|
+|tu|auras|vogu%[m|é]|
+|il|aura|vogu%[m|é]|
+|nous|aurons|vogu%[m|é]|
+|vous|aurez|vogu%[m|é]|
+|ils|auront|vogu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|vogu%[m|erais]|
+|tu|vogu%[m|erais]|
+|il|vogu%[m|erait]|
+|nous|vogu%[m|erions]|
+|vous|vogu%[m|eriez]|
+|ils|vogu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|vogu%[m|é]|
+|tu|aurais|vogu%[m|é]|
+|il|aurait|vogu%[m|é]|
+|nous|aurions|vogu%[m|é]|
+|vous|auriez|vogu%[m|é]|
+|ils|auraient|vogu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|vogu%[m|e]|
+|que|tu|vogu%[m|es]|
+|qu'|il|vogu%[m|e]|
+|que|nous|vogu%[m|ions]|
+|que|vous|vogu%[m|iez]|
+|qu'|ils|vogu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|vogu%[m|é]|
+|que|tu|aies|vogu%[m|é]|
+|qu'|il|ait|vogu%[m|é]|
+|que|nous|ayons|vogu%[m|é]|
+|que|vous|ayez|vogu%[m|é]|
+|qu'|ils|aient|vogu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|vogu%[m|asse]|
+|que|tu|vogu%[m|asses]|
+|qu'|il|vogu%[m|ât]|
+|que|nous|vogu%[m|assions]|
+|que|vous|vogu%[m|assiez]|
+|qu'|ils|vogu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|vogu%[m|é]|
+|que|tu|eusses|vogu%[m|é]|
+|qu'|il|eût|vogu%[m|é]|
+|que|nous|eussions|vogu%[m|é]|
+|que|vous|eussiez|vogu%[m|é]|
+|qu'|ils|eussent|vogu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|vogu%[m|e]|
+|vogu%[m|ons]|
+|vogu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|vogu%[m|é]|
+|ayons|vogu%[m|é]|
+|ayez|vogu%[m|é]|
+|]
+

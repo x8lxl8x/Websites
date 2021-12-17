@@ -1,0 +1,190 @@
+# avoyer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|av%[m|oyer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|av%[m|oyé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|av%[m|oyant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||av%[m|oyé]|
+|ayant|av%[m|oyé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en av%[m|oyant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|av%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|av%[m|oie]|
+|tu|av%[m|oies]|
+|il|av%[m|oie]|
+|nous|av%[m|oyons]|
+|vous|av%[m|oyez]|
+|ils|av%[m|oient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|av%[m|oyé]|
+|tu|as |av%[m|oyé]|
+|il|a|av%[m|oyé]|
+|nous|avons|av%[m|oyé]|
+|vous|avez|av%[m|oyé]|
+|ils|ont|av%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|av%[m|oyais]|
+|tu|av%[m|oyais]|
+|il|av%[m|oyait]|
+|nous|av%[m|oyions]|
+|vous|av%[m|oyiez]|
+|ils|av%[m|oyaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|av%[m|oyé]|
+|tu|avais|av%[m|oyé]|
+|il|avait|av%[m|oyé]|
+|nous|avions|av%[m|oyé]|
+|vous|aviez|av%[m|oyé]|
+|ils|avaient|av%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|av%[m|oyai]|
+|tu|av%[m|oyas]|
+|il|av%[m|oya]|
+|nous|av%[m|oyâmes]|
+|vous|av%[m|oyâtes]|
+|ils|av%[m|oyèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|av%[m|oyé]|
+|tu|eus|av%[m|oyé]|
+|il|eut|av%[m|oyé]|
+|nous|e&ucirc;mes|av%[m|oyé]|
+|vous|e&ucirc;tes|av%[m|oyé]|
+|ils|eurent|av%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|av%[m|errai]|
+|tu|av%[m|erras]|
+|il|av%[m|erra]|
+|nous|av%[m|errons]|
+|vous|av%[m|errez]|
+|ils|av%[m|erront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|av%[m|oyé]|
+|tu|auras|av%[m|oyé]|
+|il|aura|av%[m|oyé]|
+|nous|aurons|av%[m|oyé]|
+|vous|aurez|av%[m|oyé]|
+|ils|auront|av%[m|oyé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|av%[m|errais]|
+|tu|av%[m|errais]|
+|il|av%[m|errait]|
+|nous|av%[m|errions]|
+|vous|av%[m|erriez]|
+|ils|av%[m|erraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|av%[m|oyé]|
+|tu|aurais|av%[m|oyé]|
+|il|aurait|av%[m|oyé]|
+|nous|aurions|av%[m|oyé]|
+|vous|auriez|av%[m|oyé]|
+|ils|auraient|av%[m|oyé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|av%[m|oie]|
+|que|tu|av%[m|oies]|
+|qu'|il|av%[m|oie]|
+|que|nous|av%[m|oyions]|
+|que|vous|av%[m|oyiez]|
+|qu'|ils|av%[m|oient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|av%[m|oyé]|
+|que|tu|aies|av%[m|oyé]|
+|qu'|il|ait|av%[m|oyé]|
+|que|nous|ayons|av%[m|oyé]|
+|que|vous|ayez|av%[m|oyé]|
+|qu'|ils|aient|av%[m|oyé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|av%[m|oyasse]|
+|que|tu|av%[m|oyasses]|
+|qu'|il|av%[m|oyât]|
+|que|nous|av%[m|oyassions]|
+|que|vous|av%[m|oyassiez]|
+|qu'|ils|av%[m|oyassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|av%[m|oyé]|
+|que|tu|eusses|av%[m|oyé]|
+|qu'|il|eût|av%[m|oyé]|
+|que|nous|eussions|av%[m|oyé]|
+|que|vous|eussiez|av%[m|oyé]|
+|qu'|ils|eussent|av%[m|oyé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|av%[m|oie]|
+|av%[m|oyons]|
+|av%[m|oyez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|av%[m|oyé]|
+|ayons|av%[m|oyé]|
+|ayez|av%[m|oyé]|
+|]
+

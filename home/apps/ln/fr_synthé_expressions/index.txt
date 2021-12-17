@@ -1,0 +1,20 @@
+<span class='clIndex'>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=01.txt'>Приветствие - La Salutation</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=02.txt'>Ответ - La Réponse</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=03.txt'>Понимание - La Compréhension</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=04.txt'>Событие - L'Événement (m)</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=05.txt'>Местоположение - La Situation</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=06.txt'>Состояние n°1 - L'État (m)</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=07.txt'>Состояние n°2 - L'État (m)</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=08.txt'>Знакомство n°1 - La Connaissance</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=09.txt'>Знакомство n°2 - La Connaissance</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=10.txt'>Знакомство n°3 - La Connaissance</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=11.txt'>Мнение - L'Opinion (f)</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=12.txt'>Любовь - L'Amour (m)</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=13.txt'>Поздравление n°1 - La Félicitation</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=14.txt'>Поздравление n°2 - La Félicitation</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=15.txt'>Пожелание n°1 - Le Souhait</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=16.txt'>Пожелание n°2 - Le Souhait</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=17.txt'>Пожелание n°3 - Le Souhait</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Expressions&varAppArea=ln&varAppDir=fr_synthé_expressions&varFileName=18.txt'>Пожелание n°4 - Le Souhait</a><br>
+</span>

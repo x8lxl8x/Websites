@@ -1,0 +1,190 @@
+# comporter %[clVerbGroup|1]
+[-
+contenir, avoir pour éléments constitutifs. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|comport%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|comport%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|comport%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||comport%[m|é]|
+|ayant|comport%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en comport%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|comport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|comport%[m|e]|
+|tu|comport%[m|es]|
+|il|comport%[m|e]|
+|nous|comport%[m|ons]|
+|vous|comport%[m|ez]|
+|ils|comport%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|comport%[m|é]|
+|tu|as |comport%[m|é]|
+|il|a|comport%[m|é]|
+|nous|avons|comport%[m|é]|
+|vous|avez|comport%[m|é]|
+|ils|ont|comport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|comport%[m|ais]|
+|tu|comport%[m|ais]|
+|il|comport%[m|ait]|
+|nous|comport%[m|ions]|
+|vous|comport%[m|iez]|
+|ils|comport%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|comport%[m|é]|
+|tu|avais|comport%[m|é]|
+|il|avait|comport%[m|é]|
+|nous|avions|comport%[m|é]|
+|vous|aviez|comport%[m|é]|
+|ils|avaient|comport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|comport%[m|ai]|
+|tu|comport%[m|as]|
+|il|comport%[m|a]|
+|nous|comport%[m|âmes]|
+|vous|comport%[m|âtes]|
+|ils|comport%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|comport%[m|é]|
+|tu|eus|comport%[m|é]|
+|il|eut|comport%[m|é]|
+|nous|e&ucirc;mes|comport%[m|é]|
+|vous|e&ucirc;tes|comport%[m|é]|
+|ils|eurent|comport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|comport%[m|erai]|
+|tu|comport%[m|eras]|
+|il|comport%[m|era]|
+|nous|comport%[m|erons]|
+|vous|comport%[m|erez]|
+|ils|comport%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|comport%[m|é]|
+|tu|auras|comport%[m|é]|
+|il|aura|comport%[m|é]|
+|nous|aurons|comport%[m|é]|
+|vous|aurez|comport%[m|é]|
+|ils|auront|comport%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|comport%[m|erais]|
+|tu|comport%[m|erais]|
+|il|comport%[m|erait]|
+|nous|comport%[m|erions]|
+|vous|comport%[m|eriez]|
+|ils|comport%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|comport%[m|é]|
+|tu|aurais|comport%[m|é]|
+|il|aurait|comport%[m|é]|
+|nous|aurions|comport%[m|é]|
+|vous|auriez|comport%[m|é]|
+|ils|auraient|comport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|comport%[m|e]|
+|que|tu|comport%[m|es]|
+|qu'|il|comport%[m|e]|
+|que|nous|comport%[m|ions]|
+|que|vous|comport%[m|iez]|
+|qu'|ils|comport%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|comport%[m|é]|
+|que|tu|aies|comport%[m|é]|
+|qu'|il|ait|comport%[m|é]|
+|que|nous|ayons|comport%[m|é]|
+|que|vous|ayez|comport%[m|é]|
+|qu'|ils|aient|comport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|comport%[m|asse]|
+|que|tu|comport%[m|asses]|
+|qu'|il|comport%[m|ât]|
+|que|nous|comport%[m|assions]|
+|que|vous|comport%[m|assiez]|
+|qu'|ils|comport%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|comport%[m|é]|
+|que|tu|eusses|comport%[m|é]|
+|qu'|il|eût|comport%[m|é]|
+|que|nous|eussions|comport%[m|é]|
+|que|vous|eussiez|comport%[m|é]|
+|qu'|ils|eussent|comport%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|comport%[m|e]|
+|comport%[m|ons]|
+|comport%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|comport%[m|é]|
+|ayons|comport%[m|é]|
+|ayez|comport%[m|é]|
+|]
+

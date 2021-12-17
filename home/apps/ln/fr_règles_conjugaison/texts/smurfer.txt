@@ -1,0 +1,190 @@
+# smurfer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|smurf%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|smurf%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|smurf%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||smurf%[m|é]|
+|ayant|smurf%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en smurf%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|smurf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|smurf%[m|e]|
+|tu|smurf%[m|es]|
+|il|smurf%[m|e]|
+|nous|smurf%[m|ons]|
+|vous|smurf%[m|ez]|
+|ils|smurf%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|smurf%[m|é]|
+|tu|as |smurf%[m|é]|
+|il|a|smurf%[m|é]|
+|nous|avons|smurf%[m|é]|
+|vous|avez|smurf%[m|é]|
+|ils|ont|smurf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|smurf%[m|ais]|
+|tu|smurf%[m|ais]|
+|il|smurf%[m|ait]|
+|nous|smurf%[m|ions]|
+|vous|smurf%[m|iez]|
+|ils|smurf%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|smurf%[m|é]|
+|tu|avais|smurf%[m|é]|
+|il|avait|smurf%[m|é]|
+|nous|avions|smurf%[m|é]|
+|vous|aviez|smurf%[m|é]|
+|ils|avaient|smurf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|smurf%[m|ai]|
+|tu|smurf%[m|as]|
+|il|smurf%[m|a]|
+|nous|smurf%[m|âmes]|
+|vous|smurf%[m|âtes]|
+|ils|smurf%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|smurf%[m|é]|
+|tu|eus|smurf%[m|é]|
+|il|eut|smurf%[m|é]|
+|nous|e&ucirc;mes|smurf%[m|é]|
+|vous|e&ucirc;tes|smurf%[m|é]|
+|ils|eurent|smurf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|smurf%[m|erai]|
+|tu|smurf%[m|eras]|
+|il|smurf%[m|era]|
+|nous|smurf%[m|erons]|
+|vous|smurf%[m|erez]|
+|ils|smurf%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|smurf%[m|é]|
+|tu|auras|smurf%[m|é]|
+|il|aura|smurf%[m|é]|
+|nous|aurons|smurf%[m|é]|
+|vous|aurez|smurf%[m|é]|
+|ils|auront|smurf%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|smurf%[m|erais]|
+|tu|smurf%[m|erais]|
+|il|smurf%[m|erait]|
+|nous|smurf%[m|erions]|
+|vous|smurf%[m|eriez]|
+|ils|smurf%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|smurf%[m|é]|
+|tu|aurais|smurf%[m|é]|
+|il|aurait|smurf%[m|é]|
+|nous|aurions|smurf%[m|é]|
+|vous|auriez|smurf%[m|é]|
+|ils|auraient|smurf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|smurf%[m|e]|
+|que|tu|smurf%[m|es]|
+|qu'|il|smurf%[m|e]|
+|que|nous|smurf%[m|ions]|
+|que|vous|smurf%[m|iez]|
+|qu'|ils|smurf%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|smurf%[m|é]|
+|que|tu|aies|smurf%[m|é]|
+|qu'|il|ait|smurf%[m|é]|
+|que|nous|ayons|smurf%[m|é]|
+|que|vous|ayez|smurf%[m|é]|
+|qu'|ils|aient|smurf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|smurf%[m|asse]|
+|que|tu|smurf%[m|asses]|
+|qu'|il|smurf%[m|ât]|
+|que|nous|smurf%[m|assions]|
+|que|vous|smurf%[m|assiez]|
+|qu'|ils|smurf%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|smurf%[m|é]|
+|que|tu|eusses|smurf%[m|é]|
+|qu'|il|eût|smurf%[m|é]|
+|que|nous|eussions|smurf%[m|é]|
+|que|vous|eussiez|smurf%[m|é]|
+|qu'|ils|eussent|smurf%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|smurf%[m|e]|
+|smurf%[m|ons]|
+|smurf%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|smurf%[m|é]|
+|ayons|smurf%[m|é]|
+|ayez|smurf%[m|é]|
+|]
+

@@ -1,0 +1,192 @@
+# accentuer %[clVerbGroup|1]
+[-
+augmenter l'intensité de la voix sur un son, dans la parole. 
+placer un accent graphique sur une lettre de l'alphabet. 
+rendre plus intense, plus marqué, faire ressortir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|accentu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|accentu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|accentu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||accentu%[m|é]|
+|ayant|accentu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en accentu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|accentu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|accentu%[m|e]|
+|tu|accentu%[m|es]|
+|il|accentu%[m|e]|
+|nous|accentu%[m|ons]|
+|vous|accentu%[m|ez]|
+|ils|accentu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|accentu%[m|é]|
+|tu|as |accentu%[m|é]|
+|il|a|accentu%[m|é]|
+|nous|avons|accentu%[m|é]|
+|vous|avez|accentu%[m|é]|
+|ils|ont|accentu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|accentu%[m|ais]|
+|tu|accentu%[m|ais]|
+|il|accentu%[m|ait]|
+|nous|accentu%[m|ions]|
+|vous|accentu%[m|iez]|
+|ils|accentu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|accentu%[m|é]|
+|tu|avais|accentu%[m|é]|
+|il|avait|accentu%[m|é]|
+|nous|avions|accentu%[m|é]|
+|vous|aviez|accentu%[m|é]|
+|ils|avaient|accentu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|accentu%[m|ai]|
+|tu|accentu%[m|as]|
+|il|accentu%[m|a]|
+|nous|accentu%[m|âmes]|
+|vous|accentu%[m|âtes]|
+|ils|accentu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|accentu%[m|é]|
+|tu|eus|accentu%[m|é]|
+|il|eut|accentu%[m|é]|
+|nous|e&ucirc;mes|accentu%[m|é]|
+|vous|e&ucirc;tes|accentu%[m|é]|
+|ils|eurent|accentu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|accentu%[m|erai]|
+|tu|accentu%[m|eras]|
+|il|accentu%[m|era]|
+|nous|accentu%[m|erons]|
+|vous|accentu%[m|erez]|
+|ils|accentu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|accentu%[m|é]|
+|tu|auras|accentu%[m|é]|
+|il|aura|accentu%[m|é]|
+|nous|aurons|accentu%[m|é]|
+|vous|aurez|accentu%[m|é]|
+|ils|auront|accentu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|accentu%[m|erais]|
+|tu|accentu%[m|erais]|
+|il|accentu%[m|erait]|
+|nous|accentu%[m|erions]|
+|vous|accentu%[m|eriez]|
+|ils|accentu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|accentu%[m|é]|
+|tu|aurais|accentu%[m|é]|
+|il|aurait|accentu%[m|é]|
+|nous|aurions|accentu%[m|é]|
+|vous|auriez|accentu%[m|é]|
+|ils|auraient|accentu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|accentu%[m|e]|
+|que|tu|accentu%[m|es]|
+|qu'|il|accentu%[m|e]|
+|que|nous|accentu%[m|ions]|
+|que|vous|accentu%[m|iez]|
+|qu'|ils|accentu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|accentu%[m|é]|
+|que|tu|aies|accentu%[m|é]|
+|qu'|il|ait|accentu%[m|é]|
+|que|nous|ayons|accentu%[m|é]|
+|que|vous|ayez|accentu%[m|é]|
+|qu'|ils|aient|accentu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|accentu%[m|asse]|
+|que|tu|accentu%[m|asses]|
+|qu'|il|accentu%[m|ât]|
+|que|nous|accentu%[m|assions]|
+|que|vous|accentu%[m|assiez]|
+|qu'|ils|accentu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|accentu%[m|é]|
+|que|tu|eusses|accentu%[m|é]|
+|qu'|il|eût|accentu%[m|é]|
+|que|nous|eussions|accentu%[m|é]|
+|que|vous|eussiez|accentu%[m|é]|
+|qu'|ils|eussent|accentu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accentu%[m|e]|
+|accentu%[m|ons]|
+|accentu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|accentu%[m|é]|
+|ayons|accentu%[m|é]|
+|ayez|accentu%[m|é]|
+|]
+

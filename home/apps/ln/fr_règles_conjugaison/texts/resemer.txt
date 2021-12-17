@@ -1,0 +1,190 @@
+# resemer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|resem%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|resem%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|resem%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||resem%[m|é]|
+|ayant|resem%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en resem%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|resem%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|resem%[m|e]|
+|tu|resem%[m|es]|
+|il|resem%[m|e]|
+|nous|resem%[m|ons]|
+|vous|resem%[m|ez]|
+|ils|resem%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|resem%[m|é]|
+|tu|as |resem%[m|é]|
+|il|a|resem%[m|é]|
+|nous|avons|resem%[m|é]|
+|vous|avez|resem%[m|é]|
+|ils|ont|resem%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|resem%[m|ais]|
+|tu|resem%[m|ais]|
+|il|resem%[m|ait]|
+|nous|resem%[m|ions]|
+|vous|resem%[m|iez]|
+|ils|resem%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|resem%[m|é]|
+|tu|avais|resem%[m|é]|
+|il|avait|resem%[m|é]|
+|nous|avions|resem%[m|é]|
+|vous|aviez|resem%[m|é]|
+|ils|avaient|resem%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|resem%[m|ai]|
+|tu|resem%[m|as]|
+|il|resem%[m|a]|
+|nous|resem%[m|âmes]|
+|vous|resem%[m|âtes]|
+|ils|resem%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|resem%[m|é]|
+|tu|eus|resem%[m|é]|
+|il|eut|resem%[m|é]|
+|nous|e&ucirc;mes|resem%[m|é]|
+|vous|e&ucirc;tes|resem%[m|é]|
+|ils|eurent|resem%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|resem%[m|erai]|
+|tu|resem%[m|eras]|
+|il|resem%[m|era]|
+|nous|resem%[m|erons]|
+|vous|resem%[m|erez]|
+|ils|resem%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|resem%[m|é]|
+|tu|auras|resem%[m|é]|
+|il|aura|resem%[m|é]|
+|nous|aurons|resem%[m|é]|
+|vous|aurez|resem%[m|é]|
+|ils|auront|resem%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|resem%[m|erais]|
+|tu|resem%[m|erais]|
+|il|resem%[m|erait]|
+|nous|resem%[m|erions]|
+|vous|resem%[m|eriez]|
+|ils|resem%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|resem%[m|é]|
+|tu|aurais|resem%[m|é]|
+|il|aurait|resem%[m|é]|
+|nous|aurions|resem%[m|é]|
+|vous|auriez|resem%[m|é]|
+|ils|auraient|resem%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|resem%[m|e]|
+|que|tu|resem%[m|es]|
+|qu'|il|resem%[m|e]|
+|que|nous|resem%[m|ions]|
+|que|vous|resem%[m|iez]|
+|qu'|ils|resem%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|resem%[m|é]|
+|que|tu|aies|resem%[m|é]|
+|qu'|il|ait|resem%[m|é]|
+|que|nous|ayons|resem%[m|é]|
+|que|vous|ayez|resem%[m|é]|
+|qu'|ils|aient|resem%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|resem%[m|asse]|
+|que|tu|resem%[m|asses]|
+|qu'|il|resem%[m|ât]|
+|que|nous|resem%[m|assions]|
+|que|vous|resem%[m|assiez]|
+|qu'|ils|resem%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|resem%[m|é]|
+|que|tu|eusses|resem%[m|é]|
+|qu'|il|eût|resem%[m|é]|
+|que|nous|eussions|resem%[m|é]|
+|que|vous|eussiez|resem%[m|é]|
+|qu'|ils|eussent|resem%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|resem%[m|e]|
+|resem%[m|ons]|
+|resem%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|resem%[m|é]|
+|ayons|resem%[m|é]|
+|ayez|resem%[m|é]|
+|]
+

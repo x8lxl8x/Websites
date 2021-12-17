@@ -1,0 +1,190 @@
+# s'abstenir %[clVerbGroup|3]
+[-
+ne pas prendre part à un scrutin. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'abst%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|abst%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'abst%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|abst%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'abst%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|abst%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|abst%[m|iens]|
+|tu|t'|abst%[m|iens]|
+|il|s'|abst%[m|ient]|
+|nous|nous|abst%[m|enons]|
+|vous|vous|abst%[m|enez]|
+|ils|s'|abst%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|abst%[m|enu]|
+|tu|t'|es|abst%[m|enu]|
+|il|s'|est|abst%[m|enu]|
+|nous|nous|sommes|abst%[m|enus]|
+|vous|vous|êtes|abst%[m|enus]|
+|ils|se|sont|abst%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|abst%[m|enais]|
+|tu|t'|abst%[m|enais]|
+|il|s'|abst%[m|enait]|
+|nous|nous|abst%[m|enions]|
+|vous|vous|abst%[m|eniez]|
+|ils|s'|abst%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|abst%[m|enu]|
+|tu|t'|étais|abst%[m|enu]|
+|il|s'|était|abst%[m|enu]|
+|nous|nous|étions|abst%[m|enus]|
+|vous|vous|étiez|abst%[m|enus]|
+|ils|s'|étaient|abst%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|abst%[m|ins]|
+|tu|t'|abst%[m|ins]|
+|il|s'|abst%[m|int]|
+|nous|nous|abst%[m|înmes]|
+|vous|vous|abst%[m|întes]|
+|ils|s'|abst%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|abst%[m|enu]|
+|tu|te|fus|abst%[m|enu]|
+|il|se|fut|abst%[m|enu]|
+|nous|nous|fûmes|abst%[m|enus]|
+|vous|vous|fûtes|abst%[m|enus]|
+|ils|se|furent|abst%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|abst%[m|iendrai]|
+|tu|t'|abst%[m|iendras]|
+|il|s'|abst%[m|iendra]|
+|nous|nous|abst%[m|iendrons]|
+|vous|vous|abst%[m|iendrez]|
+|ils|s'|abst%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|abst%[m|enu]|
+|tu|te|seras|abst%[m|enu]|
+|il|se|sera|abst%[m|enu]|
+|nous|nous|serons|abst%[m|enus]|
+|vous|vous|serez|abst%[m|enus]|
+|ils|se|seront|abst%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|abst%[m|iendrais]|
+|tu|t'|abst%[m|iendrais]|
+|il|s'|abst%[m|iendrait]|
+|nous|nous|abst%[m|iendrions]|
+|vous|vous|abst%[m|iendriez]|
+|ils|s'|abst%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|abst%[m|enu]|
+|tu|te|serais|abst%[m|enu]|
+|il|se|serait|abst%[m|enu]|
+|nous|nous|serions|abst%[m|enus]|
+|vous|vous|seriez|abst%[m|enus]|
+|ils|se|seraient|abst%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|abst%[m|ienne]|
+|que|tu|t'|abst%[m|iennes]|
+|qu'|il|s'|abst%[m|ienne]|
+|que|nous|nous|abst%[m|enions]|
+|que|vous|vous|abst%[m|eniez]|
+|qu'|ils|s'|abst%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|abst%[m|enu]|
+|que|tu|te|sois|abst%[m|enu]|
+|qu'|il|se|soit|abst%[m|enu]|
+|que|nous|nous|soyons|abst%[m|enus]|
+|que|vous|vous|soyez|abst%[m|enus]|
+|qu'|ils|se|soient|abst%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|abst%[m|insse]|
+|que|tu|t'|abst%[m|insses]|
+|qu'|il|s'|abst%[m|înt]|
+|que|nous|nous|abst%[m|inssions]|
+|que|vous|vous|abst%[m|inssiez]|
+|qu'|ils|s'|abst%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|abst%[m|enu]|
+|que|tu|te|fusses|abst%[m|enu]|
+|qu'|il|se|fût|abst%[m|enu]|
+|que|nous|nous|fussions|abst%[m|enus]|
+|que|vous|vous|fussiez|abst%[m|enus]|
+|qu'|ils|se|fussent|abst%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|abst%[m|iens]-toi|
+|abst%[m|enons]-nous|
+|abst%[m|enez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

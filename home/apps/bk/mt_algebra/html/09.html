@@ -1,0 +1,1136 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Algebra</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_340'>      9. Matrices</a><br>
+<br>
+<a href='#section_358'>      9.1. Introduction to Matrices</a><br>
+<a href='#concept_387'>      9.1.1. What is a Matrix?</a><br>
+<a href='#concept_200'>      9.1.2. Addition and Subtraction; Scalar Multiplication</a><br>
+<a href='#concept_201'>      9.1.3. Matrix Multiplication</a><br>
+<a href='#concept_203'>      9.1.4. The Identity Matrix</a><br>
+<br>
+<a href='#section_359'>      9.2. Using Matrices to Solve Systems of Equations</a><br>
+<a href='#concept_202'>      9.2.1. Matrix Equations</a><br>
+<a href='#concept_197'>      9.2.2. Matrices and Row Operations</a><br>
+<a href='#concept_198'>      9.2.3. Simplifying Matrices With Row Operations</a><br>
+<br>
+<a href='#section_360'>      9.3. Inverses of Matrices</a><br>
+<a href='#concept_204'>      9.3.1. The Inverse of a Matrix</a><br>
+<a href='#concept_205'>      9.3.2. Solving Systems of Equations Using Matrix Inverses</a><br>
+<br>
+<a href='#section_361'>      9.4. Determinants and Cramer's Rule</a><br>
+<a href='#concept_206'>      9.4.1. Determinants of 2-by-2 Square Matrices</a><br>
+<a href='#concept_207'>      9.4.2. Cofactors, Minors, and Further Determinants</a><br>
+<a href='#concept_208'>      9.4.3. Cramer's Rule</a><br>
+</div>
+
+<h1 id='chapter_340'>9. Matrices</h1>
+
+<h2 id='section_358'>9.1. Introduction to Matrices</h2>
+
+<h3 id='concept_387'>9.1.1. What is a Matrix?</h3>
+
+<blockquote>A matrix is a  rectangular arrays of numbers, symbols, or expressions, arranged in rows and columns.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Describe the parts of a matrix and what they represent</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A matrix (whose plural is matrices) is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns.</li>
+<li>A matrix with <span class='clFormula'>$m$</span>
+ rows and <span class='clFormula'>$n$</span>
+ columns is called an <span class='clFormula'>$m\times n$</span>
+ matrix or <span class='clFormula'>$m$</span>
+-by-<span class='clFormula'>$n$</span>
+ matrix, where <span class='clFormula'>$m$</span>
+ and <span class='clFormula'>$n$</span>
+ are called the matrix dimensions.
+</li>
+<li>Matrices can be used to compactly write and work with multiple linear equations, that is, a system of linear equations. Matrices and matrix multiplication reveal their essential features when related to linear transformations, also known as linear maps.
+</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>column vector</dt>
+<dd>A matrix with a single column</dd>
+<dt>row vector</dt>
+<dd>A matrix with a single row</dd>
+<dt>element</dt>
+<dd>An individual item in a matrix</dd>
+<dt>matrix</dt>
+<dd>A rectangular array of numbers, symbols, or expressions, arranged in rows and columns</dd>
+<dt>square matrix</dt>
+<dd>A matrix which has the same number of rows and columns</dd>
+</dl>
+
+<h3>History of the Matrix</h3>
+
+<p>The matrix has a long history of application in solving linear equations. They were known as arrays until the <span class='clFormula'>$1800$</span>
+'s.  The term "matrix" (Latin for "womb", derived from <em>mater</em>—mother) was coined by James Joseph Sylvester in <span class='clFormula'>$1850$</span>
+, who understood a matrix as an object giving rise to a number of determinants today called minors, that is to say, determinants of smaller matrices that are derived from the original one by removing columns and rows.  An English mathematician named Cullis was the first to use modern bracket notation for matrices in <span class='clFormula'>$1913$</span>
+and he simultaneously demonstrated the first significant use of the notation <span class='clFormula'>$A=a_{i,j}$</span>
+ to represent a matrix where <span class='clFormula'>$a_{i,j}$</span>
+ refers to the element found in the <em>i</em>th row and the <em>j</em>th column.  Matrices can be used to compactly write and work with multiple linear equations, referred to as a system of linear equations, simultaneously.
+Matrices and matrix multiplication reveal their essential features when related to linear transformations,  also known as linear maps.
+</p>
+
+<h3>What is a Matrix </h3>
+
+<p>In mathematics, a <em>matrix</em> (plural matrices) is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. Matrices are commonly written in box brackets. The horizontal and vertical lines of entries in a matrix are called <em>rows</em> and <em>columns</em>, respectively.
+The size of a matrix is defined by the number of rows and columns that it contains. A matrix with <em>m</em> rows and <em>n</em> columns is called an <em>m</em> × <em>n</em> matrix or <span class='clFormula'>$m$</span>
+-by-<span class='clFormula'>$n$</span>
+matrix, while <em>m</em> and <em>n</em> are called its <em>dimensions</em>.
+The dimensions of the following matrix are <span class='clFormula'>$2 \times 3$</span>
+ up(read "two by three"), because there are two rows and three columns.</p>
+
+<div class='clFormula'>$A={\displaystyle {\begin{bmatrix}1&amp;9&amp;-13\\20&amp;5&amp;-6\end{bmatrix}}}$</div>
+
+
+
+
+<a href='../images/0901.png'><img class='clImageThumb' src='../images/0901.png' alt='Matrix Dimensions'></a>
+
+<div><b><i>Matrix Dimensions</i></b></div>
+<p>
+Each element of a matrix is often denoted by a variable with two subscripts. For instance, <span class='clFormula'>$a_{2,1}$</span>
+ represents the element at the second row and first column of a matrix A.</p>
+
+<p>The individual items (numbers, symbols or expressions) in a matrix are called its <em>elements</em> or <em>entries</em>.  
+Provided that they are the same size (have the same number of rows and the same number of columns), two matrices can be added or subtracted element by element. The rule for matrix multiplication, however, is that two matrices can be multiplied only when the number of columns in the first equals the number of rows in the second. Any matrix can be multiplied element-wise by a scalar from its associated field.</p>
+
+<p>Matrices which have a single row are called row vectors, and those which have a single column are called column vectors. A matrix which has the same number of rows and columns is called a square matrix.  In some contexts, such as computer algebra programs, it is useful to consider a matrix with no rows or no columns, called an empty matrix.</p>
+
+
+
+<h3 id='concept_200'>9.1.2. Addition and Subtraction; Scalar Multiplication</h3>
+
+<blockquote>Matrix addition, subtraction, and scalar multiplication are types of operations that can be applied to modify matrices. </blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice adding and subtracting matrices, as well as multiplying matrices by scalar numbers</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>When performing addition, add each element in the first matrix to the corresponding element in the second matrix.</li>
+<li>When performing subtraction,  subtract each element in  the second matrix from the corresponding element in the first matrix.</li>
+<li>Addition and subtraction require that the matrices be the same dimensions. The resultant matrix is also of the same dimension.</li>
+<li>Scalar multiplication of a real Euclidean vector by a positive real number multiplies the magnitude of the vector without changing its direction.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>scalar</dt>
+<dd>A quantity that has magnitude but not direction. </dd>
+</dl>
+
+<p>There are a number of operations that can be applied to modify matrices, such as matrix addition, subtraction, and scalar multiplication. These form the basic techniques to work with matrices.</p>
+<p>These techniques can be used in calculating sums, differences and products of information such as sodas that come in three different flavors: apple, orange, and strawberry and two different packaging: bottle and can. Two tables summarizing the total sales between last month and this month are written to illustrate the amounts. Matrix addition, subtraction and scalar multiplication can be used to find such things as: the sales of last month and the sales of this month, the average sales for each flavor and packaging of soda in the <span class='clFormula'>$2$</span>
+-month period.</p>
+
+
+
+
+
+<h3>Adding and Subtracting Matrices</h3>
+
+<p>We use matrices to list data or to represent systems. Because the entries are numbers, we can perform operations on matrices. We add or subtract matrices by adding or subtracting corresponding entries.</p>
+<p>In order to do this, the entries must correspond. Therefore, addition and subtraction of matrices is only possible when the matrices have the same dimensions.  Matrix addition is commutative and is also associative, so the following is true:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A+B=B+A&#10; $</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;(A+B)+C=A+(B+C)$</div>
+
+
+
+<p>
+Adding matrices is very simple. Just add each element in the first matrix to the corresponding element in the second matrix.  </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin {pmatrix} 1 &amp; 2 &amp; 3 \\ 4 &amp; 5 &amp; 6 \end{pmatrix}+\begin{pmatrix} 10 &amp; 20 &amp; 30 \\ 40 &amp; 50 &amp; 60 \end{pmatrix}=\begin {pmatrix} 11 &amp; 22 &amp; 33 \\ 44 &amp; 55 &amp; 66 \end {pmatrix}$</div>
+
+<p>Note that element  in the first matrix, <span class='clFormula'>$1$</span>
+, adds to element <span class='clFormula'>$x_{11}$</span>
+ in the second matrix, <span class='clFormula'>$10$</span>
+, to produce element <span class='clFormula'>$x_{11}$</span>
+ in the resultant matrix, <span class='clFormula'>$11$</span>
+. Also note that both matrices being added are <span class='clFormula'>$2\times 3$</span>
+, and the resulting matrix is also <span class='clFormula'>$2\times 3$</span>
+. You cannot add two matrices that have different dimensions.</p>
+<p>As you might guess, subtracting works much the same way except that you subtract instead of adding.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 10 &amp; -20 &amp; 30 \\ 40 &amp; 50 &amp; 60 \end{pmatrix}-\begin{pmatrix} 1 &amp; -2 &amp; 3 \\ 4 &amp; -5 &amp; 6 \end{pmatrix}=\begin{pmatrix} 9 &amp; -18 &amp; 27 \\ 36 &amp; 55 &amp; 54 \end{pmatrix}$</div>
+
+<p>Once again, note that the resulting matrix has the same dimensions as the originals, and that you cannot subtract two matrices that have different dimensions. Be careful when subtracting with signed numbers.</p>
+
+<h3>Scalar Multiplication</h3>
+
+<p>In an intuitive geometrical context, scalar multiplication of a real Euclidean vector by a positive real number multiplies the magnitude of the vector without changing its direction. What does it mean to multiply a number by <span class='clFormula'>$3$</span>
+? It means you add the number to itself <span class='clFormula'>$3$</span>
+times. Multiplying a matrix by <span class='clFormula'>$3$</span>
+means the same thing; you add the matrix to itself <span class='clFormula'>$3$</span>
+times, or simply multiply each element by that constant.</p>
+
+<div class='clFormula'>$\displaystyle&#10;3\cdot \begin{pmatrix} 1 &amp; 2 &amp; 3 \\ 4 &amp; 5 &amp; 6 \end{pmatrix}=\begin{pmatrix} 3 &amp; 6 &amp; 9 \\ 12 &amp; 15 &amp; 18 \end{pmatrix}$</div>
+
+<p> The resulting matrix has the same dimensions as the original. Scalar multiplication has the following properties:</p>
+
+<ul>
+<li>Left and right distributivity: <span class='clFormula'>$(c+d)\textbf{M} = \textbf{M}(c+d) = \textbf{M}c+\textbf{M}d$</span></li>
+<li>Associativity: <span class='clFormula'>$(cd)\textbf{M} = c(d\textbf{M})$</span></li>
+<li>Identity: <span class='clFormula'>$1\textbf{M} = \textbf{M}$</span></li>
+<li>Null: <span class='clFormula'>$0\textbf{M} = \textbf{0}$</span></li>
+<li>Additive inverse: <span class='clFormula'>$(-1)\textbf{M} = -\textbf{M}$</span></li>
+</ul>
+
+<h3 id='concept_201'>9.1.3. Matrix Multiplication</h3>
+
+<blockquote>When multiplying matrices, the elements of the rows in the first matrix are multiplied with corresponding columns in the second matrix.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p> Practice multiplying matrices and identify matrices that can be multiplied together</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>If <span class='clFormula'>$A$</span>
+ is an <span class='clFormula'>$n\times m $</span>
+ matrix and <span class='clFormula'>$B$</span>
+ is an <span class='clFormula'>$m \times p$</span>
+ matrix, the result <span class='clFormula'>$AB$</span>
+ of their multiplication is an <span class='clFormula'>$n \times p$</span>
+ matrix defined only if the number of columns <span class='clFormula'>$m$</span>
+in <span class='clFormula'>$A$</span>
+is equal to the number of rows <span class='clFormula'>$m$</span>
+in <span class='clFormula'>$B$</span>
+.</li>
+<li>The product of a square matrix multiplied by a column matrix arises naturally in linear algebra for solving linear equations and representing linear transformations.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>matrix</dt>
+<dd>A rectangular arrangement of numbers or terms having various uses such as transforming coordinates in geometry, solving systems of linear equations in linear algebra and representing graphs in graph theory.</dd>
+</dl>
+
+<p>If <span class='clFormula'>$A$</span>
+is an <span class='clFormula'>$n\times m $</span>
+matrix and <span class='clFormula'>$B$</span>
+is an <span class='clFormula'>$m \times p$</span>
+matrix, the result <span class='clFormula'>$AB$</span>
+of their multiplication is an <span class='clFormula'>$n \times p$</span>
+matrix defined only if the number of columns <span class='clFormula'>$m$</span>
+in <span class='clFormula'>$A$</span>
+is equal to the number of rows <span class='clFormula'>$m$</span>
+in <span class='clFormula'>$B$</span>
+.  Check to make sure that this is true before multiplying the matrices, since there is "no solution" otherwise.</p>
+
+<h3>General Definition and Process: Matrix Multiplication</h3>
+
+<p>Scalar multiplication is simply multiplying a value through all the elements of a matrix, whereas matrix multiplication is multiplying every element of each row of the first matrix times every element of each column in the second matrix.  Scalar multiplication is much more simple than matrix multiplication; however, a pattern does exist.    </p>
+<p>When multiplying matrices, the elements of the rows in the first matrix are multiplied with corresponding columns in the second matrix. Each entry of the resultant matrix is computed one at a time. </p>
+<p>For two matrices the final position of the product is shown below:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{bmatrix} { a }_{ 11 } &amp; { a }_{ 12 } \\ \cdot &amp; \cdot \\ { a }_{ 31 } &amp; { a }_{ 32 } \\ \cdot &amp; \cdot \end{bmatrix}\begin{bmatrix} \cdot &amp; { b }_{ 12 } &amp; { b }_{ 13 } \\ \cdot &amp; { b }_{ 22 } &amp; { b }_{ 23 } \end{bmatrix}=\begin{bmatrix} \cdot &amp; x_{ 12 } &amp; \cdot \\ \cdot &amp; \cdot &amp; \cdot \\ \cdot &amp; \cdot &amp; { x }_{ 33 } \\ \cdot &amp; \cdot &amp; \cdot \end{bmatrix}$</div>
+
+
+
+
+<a href='../images/0902.png'><img class='clImageThumb' src='../images/0902.png' alt='Matrix Multiplication'></a>
+
+<div><b><i>Matrix Multiplication</i></b></div>
+<p>This figure illustrates diagrammatically the product of two matrices A and B, showing how each intersection in the product matrix corresponds to a row of A and a column of B.</p>
+
+<p>The values at the intersections marked with circles are:</p>
+
+<div class='clFormula'>$\displaystyle&#10;{x}_{12}=({a}_{11},{a}_{12}) \cdot ({b}_{12},{b}_{22})=({a}_{11} {b}_{12}) +({a}_{12} {b}_{22})$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;{x}_{33}=({a}_{31},{a}_{32}) \cdot ({b}_{13},{b}_{23})=({a}_{31} {b}_{13}) +({a}_{32} {b}_{23})$</div>
+
+
+<h3>Matrix Multiplication: Process</h3>
+
+<h3>Example 1:  Find the product <span class='clFormula'>$AB$</span></h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} { 1 } &amp; { 2 } \\ { 3 } &amp; { 4 } \end{pmatrix}\quad B=\begin{pmatrix} { 5 } &amp; { 6 } \\ { 7 } &amp; { 8 } \end{pmatrix}&#10;$</div>
+
+<p>First ask: <em>Do the number of columns  in </em><span class='clFormula'>$A$</span><em> equal the number of rows  in </em><span class='clFormula'>$B$</span>
+?  The number of columns in <span class='clFormula'>$A$</span>
+is <span class='clFormula'>$2$</span>
+, and the number of rows in <span class='clFormula'>$B$</span>
+ is also <span class='clFormula'>$2$</span>
+, therefore a product exists.</p>
+<p>Start with producing the product for the first row, first column element.  Take the first row of Matrix <span class='clFormula'>$A$</span>
+ and multiply by the first column of Matrix <span class='clFormula'>$B$</span>
+:  The first element of <span class='clFormula'>$A$</span>
+times the first column element of <span class='clFormula'>$B$</span>
+, plus the second element of <span class='clFormula'>$A$</span>
+times the second column element of <span class='clFormula'>$B$</span>
+.</p>
+
+<div class='clFormula'>$\displaystyle&#10;AB=\begin{pmatrix} { (1 \cdot 5) }+{ (2 \cdot 7) } &amp; ({ })+{ ( )} \\ { ( ) }+{ ( ) } &amp; { ( ) }+{ ( ) } \end{pmatrix}$</div>
+
+<p>Continue the pattern with the first row of <span class='clFormula'>$A$</span>
+by the second column of <span class='clFormula'>$B$</span>
+, and then repeat with the second row of <span class='clFormula'>$A$</span>
+.</p>
+<p>AB has entries defined by the equation:</p>
+
+<div class='clFormula'>$\displaystyle&#10;AB=\begin{pmatrix} { (1 \cdot 5) }+{ (2 \cdot 7) } &amp; ({ 1 \cdot 6})+{ (2 \cdot 8)} \\ { (3 \cdot 5) }+{ (4 \cdot 7) } &amp; { (3 \cdot 6) }+{ (4 \cdot 8) } \end{pmatrix}$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;AB=\begin{pmatrix} {(5+14)} &amp; {(6+16)} \\ {(15+28)} &amp; {(18+32)} \end{pmatrix}$</div>
+
+<p><span class='clFormula'>$\displaystyle&#10;AB= \begin{pmatrix} {(19)} &amp; {(22)} \\ {(43)} &amp; {(50)} \end{pmatrix}$</span>
+ </p>
+
+<h3 id='concept_203'>9.1.4. The Identity Matrix</h3>
+
+<blockquote>The identity matrix <span class='clFormula'>$[I]$</span>
+is defined so that <span class='clFormula'>$[A][I]=[I][A]=[A]$</span>
+, i.e. it is the matrix version of multiplying a number by one.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discuss the properties of the identity matrix</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>For any square matrix, its identity matrix is a diagonal stretch of <span class='clFormula'>$1$</span>
+s going from the upper-left-hand corner to the lower-right, with all other elements being <span class='clFormula'>$0$</span>
+.</li>
+<li>Non-square matrices do not have an identity. That is, for a non-square matrix <span class='clFormula'>$[A]$</span>
+, there is no matrix such that <span class='clFormula'>$[A][I]=[I][A]=[A]$</span>
+.</li>
+<li>Proving that the identity matrix functions as desired requires the use of matrix multiplication.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>matrix</dt>
+<dd>A rectangular arrangement of numbers or terms having various uses such as transforming coordinates in geometry, solving systems of linear equations in linear algebra and representing graphs in graph theory.</dd>
+<dt>identity matrix</dt>
+<dd>A diagonal matrix all of the diagonal elements of which are equal to <equation>$1$</equation>, the rest being equal to <equation>$0$</equation>.</dd>
+</dl>
+
+<p>The number <span class='clFormula'>$1$</span>
+has a special property: when multiplying  any number by <span class='clFormula'>$1$</span>
+, the result is the same number, i.e.  <span class='clFormula'>$5 \cdot 1 = 5$</span>
+.  This idea can be expressed with the following property as an algebraic generalization: <span class='clFormula'>$1x=x$</span>
+.  The matrix that has this property is referred to as the <em>identity matrix</em>.</p>
+
+<h3>Definition of the Identity Matrix</h3>
+
+<p>The identity matrix, designated as <span class='clFormula'>$[I]$</span>
+, is defined by the property: </p>
+<p><span class='clFormula'>$\displaystyle&#10;[A][I]=[I][A]=[A]$</span>
+.</p>
+<p>Note that the definition of [I][I] stipulates that the multiplication must commute, that is, it must yield the same answer no matter in which order multiplication is done.</p>
+<p>This stipulation is important because, for most matrices, multiplication does not commute.</p>
+<p>What matrix has this property? A first guess might be a matrix full of <span class='clFormula'>$1$</span>
+s, but that does not work:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 1 &amp; 2 \\ 3 &amp; 4 \end{pmatrix} \begin{pmatrix} 1 &amp; 1 \\ 1 &amp; 1 \end{pmatrix} = \begin{pmatrix} 3 &amp; 3 \\ 7 &amp; 7 \end{pmatrix}$</span>
+ </p>
+<p>So <span class='clFormula'>$\begin{pmatrix} 1 &amp; 1 \\ 1 &amp; 1 \end{pmatrix}$</span>
+ is not an identity matrix.</p>
+<p>The matrix that does work is a diagonal stretch of <span class='clFormula'>$1$</span>
+s, with all other elements being <span class='clFormula'>$0$</span>
+.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 1 &amp; 3 \\ 2 &amp; 4 \end{pmatrix} \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix} = \begin{pmatrix} 1 &amp; 3 \\ 2 &amp; 4 \end{pmatrix}$</div>
+
+<p>So <span class='clFormula'>$\begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</span>
+ is the identity matrix for <span class='clFormula'>$2 \times 2$</span>
+matrices.</p>
+<p>For a <span class='clFormula'>$3 \times 3$</span>
+matrix, the identity matrix is a <span class='clFormula'>$3 \times 3$</span>
+matrix with diagonal <span class='clFormula'>$1$</span>
+s and the rest equal to <span class='clFormula'>$0$</span>
+:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 2 &amp; \pi &amp; -3 \\ 5 &amp; -2 &amp; \frac 12 \\ 9 &amp; 8 &amp; 8.3 \end{pmatrix} \begin{pmatrix} 1 &amp; 0 &amp; 0 \\ 0 &amp; 1 &amp; 0 \\ 0 &amp; 0 &amp; 1 \end{pmatrix} = \begin{pmatrix} 2 &amp; \pi &amp; -3 \\ 5 &amp; -2 &amp; \frac 12 \\ 9 &amp; 8 &amp; 8.3 \end{pmatrix}$</div>
+
+<p>So <span class='clFormula'>$\begin{pmatrix} 1 &amp; 0 &amp; 0 \\ 0 &amp; 1 &amp; 0 \\ 0 &amp; 0 &amp; 1 \end{pmatrix}$</span>
+ is the identity matrix for <span class='clFormula'>$3 \times 3$</span>
+matrices.</p>
+<p>It is important to confirm those multiplications, and also confirm that they work in reverse order (as the definition requires). </p>
+<p> There is no identity for a non-square matrix because of the requirement of matrices being commutative. For a non-square matrix <span class='clFormula'>$[A]&#10;$</span>
+one might be able to find a matrix <span class='clFormula'>$[I]$</span>
+ such that <span class='clFormula'>$[A][I]=[A]$</span>
+, however, if the order is reversed then an illegal multiplication will be left. The reason for this is because, for two matrices to be multiplied together, the first matrix must have the same number of columns as the second has rows.</p>
+<h2 id='section_359'>9.2. Using Matrices to Solve Systems of Equations</h2>
+
+<h3 id='concept_202'>9.2.1. Matrix Equations</h3>
+
+<blockquote>Matrices can be used to compactly write and work with systems of multiple linear equations.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Identify how matrices can represent a system of equations</p>
+
+<h4>Key Point</h4>
+
+<ul>
+<li>If <span class='clFormula'>$A$</span>
+is an <span class='clFormula'>$m \times n$</span>
+matrix, and <span class='clFormula'>$x$</span>
+designates a column vector (i.e. <span class='clFormula'>$n \times 1$</span>
+ matrix) of  <span class='clFormula'>$n$</span>
+ variables <span class='clFormula'>$x_1, x_2, ..., x_n$</span>
+, and <span class='clFormula'>$b$</span>
+is an <span class='clFormula'>$m \times 1$</span>
+ column vector, then the matrix equation is: <span class='clFormula'>$Ax=b$</span>
+.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>matrix</dt>
+<dd>A rectangular arrangement of numbers or terms having various uses such as transforming coordinates in geometry, solving systems of linear equations in linear algebra and representing graphs in graph theory.</dd>
+</dl>
+
+<p>Matrices can be used to compactly write and work with systems of equations. As we have learned in previous sections, matrices can be manipulated in any way that a normal equation can be. This is very helpful when we start to work with systems of equations. It is helpful to understand how to organize matrices to solve these systems.</p>
+
+<h3>Writing a System of Equations with Matrices</h3>
+
+<p>It is possible to solve this system using the elimination or substitution method, but it is also possible to do it with a matrix operation. Before we start setting up the matrices, it is important to do the following:</p>
+<ul>
+<li>Make sure that all of the equations are written in a similar manner, meaning the variables need to all be in the same order.</li>
+<li>Make sure that one side of the equation is only variables and their coefficients, and the other side is just constants.</li>
+</ul>
+<p>Solving a system of linear equations using the inverse of a matrix requires the definition of two new matrices: <span class='clFormula'>$X$</span>
+ is the matrix representing the variables of the system, and <span class='clFormula'>$B$</span>
+ is the matrix representing the constants. Using matrix multiplication, we may define a system of equations with the same number of equations as variables as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A\cdot X=B$</div>
+
+<p>To solve a system of linear equations using an inverse matrix, let <span class='clFormula'>$A$</span>
+ be the coefficient matrix, let <span class='clFormula'>$X$</span>
+ be the variable matrix, and let <span class='clFormula'>$B$</span>
+ be the constant matrix.</p>
+<p>Given the system:  </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;x+8y&amp;=7 \\ &#10;2x-8y&amp;=-3&#10;\end{align}$</div>
+
+<p>The coefficient matrix is:</p>
+
+<div class='clFormula'>$A=\begin{bmatrix}&#10;1 &amp; 8\\ 2 &amp; -8&#10;\end{bmatrix}$</div>
+
+<p>
+The variable matrix is:</p>
+
+
+
+<div class='clFormula'>$\displaystyle&#10;X=\begin{bmatrix}&#10;x\\ y&#10;\end{bmatrix}$</div>
+
+<p>The constant matrix is:</p>
+
+
+
+<div class='clFormula'>$\displaystyle&#10;B=\begin{bmatrix}&#10;7\\ -3&#10;\end{bmatrix}$</div>
+
+
+
+<p>Thus,  to solve a system <span class='clFormula'>$AX=B$</span>
+, for <span class='clFormula'>$X$</span>
+, multiply both sides by the inverse of <span class='clFormula'>$A$</span>
+ and we shall obtain the solution:</p>
+
+<div class='clFormula'>$\displaystyle&#10;X=(A^{-1})B$</div>
+
+<p>Provided the inverse <span class='clFormula'>$\left( A^{-1} \right)$</span>
+ exists, this formula will solve the system.</p>
+
+
+<p>
+If the coefficient matrix is not invertible, the system could be inconsistent and have no solution, or be dependent and have infinitely many solutions.
+</p>
+
+<h3 id='concept_197'>9.2.2. Matrices and Row Operations</h3>
+
+<blockquote>Two matrices are row equivalent if one can be changed to the other by a sequence of elementary row operations.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how to use row operations and why they produce equivalent matrices</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>An elementary row operation is any one of the following moves: row switching (swap two rows of a matrix), row multiplication  (multiply a row of a matrix by a non-zero constant), or row addition (add to one row of a matrix to some multiple of another row).</li>
+<li>If the rows of the matrix represent a system of linear equations, then the row space consists of all linear equations that can be deduced algebraically from those in the system.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>row space</dt>
+<dd>The set of all possible linear combinations of its row vectors.</dd>
+<dt>row equivalent</dt>
+<dd>In linear algebra, when one matrix can be changed to the other by a sequence of elementary row operations.</dd>
+</dl>
+
+<h3>Elementary Row Operations (ERO)</h3>
+
+<p>In linear algebra, two matrices are row equivalent if one can be changed to the other by a sequence of elementary row operations. Alternatively, two <span class='clFormula'>$m \times n$</span>
+matrices are row equivalent if and only if they have the same row space.  The <em>row space</em> of a matrix is the set of all possible linear combinations of its row vectors.
+If the rows of the matrix represent a system of linear equations, then the row space consists of all linear equations that can be deduced algebraically from those in the system. Two matrices of the same size are row equivalent if and only if the corresponding homogeneous systems have the same set of solutions, or equivalently the matrices have the same null space. Because elementary row operations are reversible, row equivalence is an equivalence relation. It is commonly denoted by a tilde (~).  </p>
+<p>An elementary row operation is any one of the following three moves:</p>
+
+<ol>
+<li>Row switching (swap): Swap two rows of a matrix.</li>
+<li>Row multiplication (scale): Multiply a row of a matrix by a nonzero constant.</li>
+<li>Row addition (pivot): Add to one row of a matrix some multiple of another row.</li>
+</ol>
+
+<h3>
+Produce Equivalent Matrices Using Elementary Row Operations</h3>
+
+<p>Since the matrix is essentially the coefficients and constants of a linear system, the three row operations preserve the matrix. For example, swapping two rows simply means switching their position within the matrix. Also, when solving a system of linear equations by the elimination method, row multiplication would be the same as multiplying the whole equation by a number to obtain additive inverses so that a variable cancels. Finally, row addition is also the same as the elimination method, when one chooses to add or subtract the like terms of the equations to obtain the variable. Therefore, row operations preserve the matrix and can be used as an alternative method to solve a system of equations.</p>
+
+<h3>Example 1:  Show that these two matrices are row equivalent:</h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} 1 &amp; -1 &amp; 0 \\ 2 &amp; 1 &amp; 1 \end{pmatrix}\quad B=\begin{pmatrix} 3 &amp; 0 &amp; 1 \\ 0 &amp; 3 &amp; 1 \end{pmatrix}$</div>
+
+<p>Start with <span class='clFormula'>$A$</span>
+,  add the second row to the first:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} 3 &amp; 0 &amp; 1 \\ 2 &amp; 1 &amp; 1 \end{pmatrix}$</div>
+
+<p>Then, multiply the second row by 3 and then subtract the first row from the second:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} 3 &amp; 0 &amp; 1 \\ 3 &amp; 3 &amp; 2 \end{pmatrix}$</div>
+
+<p>Finally, subtract the first row from the second:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} 3 &amp; 0 &amp; 1 \\ 0 &amp; 3 &amp; 1 \end{pmatrix}$</div>
+
+<p>You can see that <span class='clFormula'>$A=B$</span>
+, which we achieved through a series of elementary row operations.</p>
+
+<h3>Row Reduction:  Solving a System of Linear Equations</h3>
+
+<p>In row reduction, the linear system:</p>
+<p><span class='clFormula'>$\displaystyle&#10;x+3y-2z=5 \\&#10;3x+5y+6z=7 \\&#10;2x+4y+3z=8$</span>
+   </p>
+<p>Is represented as an augmented matrix:</p>
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix}&#10;1 &amp; 3 &amp; -2 &amp; 5 \\ 3 &amp; 5 &amp; 6 &amp; 7 \\ 2 &amp; 4 &amp; 3 &amp; 8 \end{pmatrix}$</div>
+
+<p>This matrix is then modified using elementary row operations until it reaches reduced row echelon form. </p>
+<p>Because these operations are reversible, the augmented matrix produced always represents a linear system that is equivalent to the original.</p>
+<p>There are several specific algorithms to row-reduce an augmented matrix, the simplest of which are Gaussian elimination and Gauss-Jordan elimination. This computation can be done by hand (using the three types of ERO) or on the calculator under the matrix function 'rref' (reduced row echelon form). </p>
+<p>
+The final matrix is in reduced row echelon form, and represents the system <span class='clFormula'>$x=-15$</span>
+, <span class='clFormula'>$y=8$</span><span class='clFormula'>$z=2$</span>
+.</p>
+
+<div class='clFormula'>$\displaystyle&#10;A=\begin{pmatrix} 1 &amp; 0 &amp; 0 &amp; -15 \\ 0 &amp; 1 &amp; 0 &amp; 8 \\ 0 &amp; 0 &amp; 1 &amp; 2 \end{pmatrix}$</div>
+
+
+
+
+<h3 id='concept_198'>9.2.3. Simplifying Matrices With Row Operations</h3>
+
+<blockquote>Using elementary operations, Gaussian elimination reduces matrices to row echelon form.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use elementary row operations to put a matrix in simplified form</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Since elementary row operations preserve the row space of the matrix, the row space of the row echelon form is the same as that of the original matrix.</li>
+<li>There are three types of elementary row operations: swap the positions of two rows, multiply a row by a nonzero scalar, and add to one row a scalar multiple of another.</li>
+<li>In practice, one does not usually deal with the systems in terms of equations but instead makes use of the augmented matrix (which is also suitable for computer manipulations).</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>augmented matrix</dt>
+<dd>A matrix obtained by appending the columns of two given matrices, usually for the purpose of performing the same elementary row operations on each of the given matrices.</dd>
+</dl>
+
+<p>By means of a finite sequence of elementary row operations, called Gaussian elimination, any matrix can be transformed to a row echelon form.  This transformation is necessary for solving a system of linear equations.  </p>
+<p>Before getting into more detail, there are a couple of key terms that should be mentioned:</p>
+<ul>
+<li>
+<em>Augmented matrix</em>: an augmented matrix is a matrix obtained by appending the columns of two given matrices, usually for the purpose of performing the same elementary row operations on each of the given matrices.</li>
+<li>
+<em>Upper triangle form</em>: A square matrix is called upper triangular if all the entries below the main diagonal are zero. A triangular matrix is one that is either lower triangular or upper triangular. A matrix that is both upper and lower triangular is a diagonal matrix.</li>
+<li>
+<em>Elementary row operations</em>: Swap rows, add rows or multiply rows.</li>
+</ul>
+
+<h3>Gaussian Elimination </h3>
+
+
+<ol>
+<li>Write the augmented matrix for the linear equations.</li>
+<li>Use elementary row operations on the augmented matrix <span class='clFormula'>$[A|b]$</span>
+to transform <span class='clFormula'>$A$</span>
+to upper triangle form. If a zero is on the diagonal, switch the rows until a nonzero is in its place.</li>
+<li>Use back substitution to find the solution.</li>
+</ol>
+
+<h3>Example 1:  Solve the system by Gaussian Elimination:  </h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;2x+y-z=8\\&#10;-3x-y+2z=-11\\&#10;-2x+y+2z=-3$</div>
+
+<p>Write the augmented matrix: </p>
+
+<div class='clFormula'>$\left[\begin{array}{rrr|r} 2 &amp; 1 &amp; -1 &amp; 8 \\ -3 &amp; -1 &amp; 2 &amp; -11 \\ -2 &amp; 1 &amp; 2 &amp; -3 \end{array} \right] $</div>
+
+<p>Use elementary row operations to reduce the matrix to reduced row echelon form:</p>
+
+<div class='clFormula'>$\left[\begin{array}{rrr|r} 1 &amp; 0 &amp; 0 &amp; 2 \\ 0 &amp; 1 &amp; 0 &amp; 3 \\ 0 &amp; 0 &amp; 1 &amp; -1 \end{array} \right] $</div>
+
+<p>Using elementary row operations to obtain reduced row echelon form ('rref' in the calculator) the solution to the system is revealed in the last column:  <span class='clFormula'>$x=2, y=3, z=-1$</span>
+.</p>
+<h2 id='section_360'>9.3. Inverses of Matrices</h2>
+
+<h3 id='concept_204'>9.3.1. The Inverse of a Matrix</h3>
+
+<blockquote>The inverse of matrix <span class='clFormula'>$[A]$</span>
+is <span class='clFormula'>$[A]^{-1}$</span>
+, and is defined by the property: <span class='clFormula'>$[A][A]^{-1}=[A]^{-1}[A]=[I]$</span>
+.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice finding the inverse of a matrix and describe its properties</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The  definition of a matrix inverse requires commutativity—the multiplication must work the same in either order.</li>
+<li>To be invertible, a matrix must be square, because the identity matrix must be square as well.</li>
+<li>To determine the inverse of the matrix <span class='clFormula'>$\begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix}$</span>
+, set <span class='clFormula'>$\begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix} \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</span>
+. Then solve for <span class='clFormula'>$a$</span>
+, <span class='clFormula'>$b$</span>
+, <span class='clFormula'>$c$</span>
+, and <span class='clFormula'>$d$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>identity matrix</dt>
+<dd>A diagonal matrix all of the diagonal elements of which are equal to <equation>$1$</equation>, the rest being equal to <equation>$0$</equation>.</dd>
+<dt>inverse matrix</dt>
+<dd>A  square matrix <equation>$[A]$</equation> with an associated  matrix <equation>$[B]$</equation> such that <equation>$[A]$</equation> multiplied by <equation>$[B]$</equation> and <equation>$[B]$</equation> multiplied by <equation>$[A]$</equation> both equal the identity matrix.</dd>
+<dt>matrix</dt>
+<dd>A rectangular arrangement of numbers or terms having various uses such as transforming coordinates in geometry, solving systems of linear equations in linear algebra and representing graphs in graph theory.</dd>
+<dt>singular matrix</dt>
+<dd>A matrix that has no inverse. </dd>
+</dl>
+
+<p>Having seen that the number <span class='clFormula'>$1$</span>
+plays a special role in multiplication, <span class='clFormula'>$1x=x$</span>
+, the inverse of a number is defined as a number that multiplies by that number to give <span class='clFormula'>$1$</span>
+. The matrix <span class='clFormula'>$B$</span>
+is the inverse of the matrix <span class='clFormula'>$A$</span>
+if when multiplied together, <span class='clFormula'>$A\cdot B$</span>
+ or  <span class='clFormula'>$B\cdot A$</span>
+ gives the identity matrix.</p>
+
+<h3>Definition of Inverse Matrix</h3>
+
+<p>The inverse of matrix <span class='clFormula'>$[A]$</span>
+, designated as <span class='clFormula'>$[A]^{-1}$</span>
+, is defined by the property:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;[A][A]^{-1}=[A]^{-1}[A]=[I]$</span></p>
+<p>Where <span class='clFormula'>$[I]$</span>
+ is the identity matrix.</p>
+<p>Note that, just as in the definition of the identity matrix, this definition requires commutativity—the multiplication must work the same in either order.</p>
+<p>Note also that only square matrices can have an inverse. The definition of an inverse matrix is based on the identity matrix <span class='clFormula'>$[I]$</span>
+, and it has already been established that only square matrices have an associated identity matrix.</p>
+<p>The method for finding an inverse matrix comes directly from the definition, along with a little algebra.</p>
+
+<h3>Finding an Inverse Matrix</h3>
+
+<h3>Example: Find the inverse of: <span class='clFormula'>$\begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix}$</span></h3>
+
+<p>First, let the following be true:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix} \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</div>
+
+<p>This is the key step. It establishes <span class='clFormula'>$\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}$</span>
+as the inverse that is being looked for, by asserting that it fills the definition of an inverse matrix. When multiplying this mystery matrix by our original matrix, the result is <span class='clFormula'>$[I]$</span>
+. When solving for the four variables <span class='clFormula'>$a$</span>
+, <span class='clFormula'>$b$</span>
+, <span class='clFormula'>$c$</span>
+, and <span class='clFormula'>$d$</span>
+, then the inverse of the matrix will be found.</p>
+<p>Next, do the multiplication:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 3a+4c &amp; 3b+4d \\ 5a+6c &amp; 5b+6d \end{pmatrix} = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</div>
+
+<p>For two matrices to be equal, every element in the left must equal its corresponding element on the right. So, for these two matrices to equal each other:</p>
+
+<div class='clFormula'>$\displaystyle&#10;3a+4c=1$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;3b+4d=0$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;5a+6c=0$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;5b+6d=1$</div>
+
+<p>Solve the first two equations for <span class='clFormula'>$a$</span>
+and <span class='clFormula'>$c$</span>
+ and the second two equations for <span class='clFormula'>$b$</span>
+and <span class='clFormula'>$d$</span>
+by using either elimination or substitution.</p>
+<p>The results are:</p>
+
+<div class='clFormula'>$\displaystyle&#10;a=-3$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;b=2$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;c=2 \frac12$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;d= -1 \frac 12$</div>
+
+<p>Having solved for the four variables, the result is the inverse <span class='clFormula'>$\begin{pmatrix} -3 &amp; 2 \\ 2 \frac 12 &amp; -1 \frac 12 \end{pmatrix}$</span>
+.</p>
+<p>If an inverse has been found, then a quick check to be sure it is correct is to multiply it by the original matrix and see if the identify matrix results:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} -3 &amp; 2 \\ 2 \frac 12 &amp; -1 \frac 12 \end{pmatrix} \begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix} $</div>
+
+<p>After multiplying, the result is: </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} (-3)(3)+(2)(5) &amp; (-3)(4)+(2)(6) \\ (2 \frac 12)(3)_+(-1 \frac 12)(5) &amp; (2 \frac 12)(4)+(-1 \frac 12)(6) \end{pmatrix} $</div>
+
+<p>Simplifying the problem gives:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;\begin{pmatrix} -9+10 &amp; -12+12 \\ 7 \frac 12 -7 \frac 12 &amp; 10-9 \end{pmatrix} = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</span></p>
+<p>Therefore, the inverse works. But wait!</p>
+<p>Note that, to fully test it, one has to try the multiplication in both orders, because, in general, changing the order of a matrix multiplication changes the answer. The definition of an inverse matrix specifies that it must work both ways. </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} 3 &amp; 4 \\ 5 &amp; 6 \end{pmatrix}&#10;\begin{pmatrix} -3 &amp; 2 \\ 2 \frac 12 &amp; -1 \frac 12 \end{pmatrix} $</div>
+
+<p>After multiplying, one gets:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} (3)(-3)+(4)(2\frac 12) &amp; (3)(2)+(4)(-1 \frac 12) \\ (5)(-3)_+(6)(2\frac 12) &amp; (5)(2)+(6)(-1\frac 12) \end{pmatrix}$</div>
+
+<p>Simplifying the problem gives:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{pmatrix} -9+10 &amp; 6-6 \\ -15+15 &amp; 10-9 \end{pmatrix} = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}$</div>
+
+<p>So the inverse matrix works both ways.</p>
+<p>In some cases, the inverse of a square matrix does not exist. This is called a singular matrix. </p>
+
+<h3 id='concept_205'>9.3.2. Solving Systems of Equations Using Matrix Inverses</h3>
+
+<blockquote>A system of equations can be readily solved using the concept of the inverse matrix and matrix multiplication.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice using inverse matrices to solve a system of linear equations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Using matrices to solve systems of equations can drastically reduce the workload on you. For example, consider the following three equations: <span class='clFormula'>$x+2y-z=11$</span>
+,  <span class='clFormula'>$2x-y+3z=7$</span>
+ and <span class='clFormula'>$7x-3y-2z = 2$</span>
+.</li>
+<li>To solve these equations using matrices, we first define a <span class='clFormula'>$3 \times 3&#10;$</span>
+matrix <span class='clFormula'>$[A]$</span>
+, which  are the coefficients of all the variables on the left side of the equal signs:<span class='clFormula'>$[A] = \begin{bmatrix} 1&amp;2&amp;-1\\2&amp;-1&amp;3\\7&amp;-3&amp;-2 \end{bmatrix}$</span>
+ Then define a <span class='clFormula'>$3 \times 1$</span>
+matrix <span class='clFormula'>$[B]$</span>
+, which are the numbers on the right side of the equal signs: <span class='clFormula'>$[B] = \begin{bmatrix} 11\\7\\2 \end{bmatrix} .$</span></li>
+<li>In order to determine the values of the variables, we simply multiply the inverse of <span class='clFormula'>$[A]$</span>
+times <span class='clFormula'>$[B]$</span>
+. This is most readily done using a calculator. The calculator responds with a <span class='clFormula'>$3 \times 1$</span>
+matrix, which includes the solution to the system as: <span class='clFormula'>$x=3$</span>
+, <span class='clFormula'>$y=5$</span>
+, and <span class='clFormula'>$z=2$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>inverse matrix</dt>
+<dd>For a matrix <equation>$[A]$</equation>, if a matrix <equation>$[B]$</equation> exist such that <equation>$[A]$</equation> multiplied by <equation>$[B]$</equation> and <equation>$[B]$</equation> multiplied by <equation>$[A]$</equation> both equal the identity matrix, then <equation>$[B]$</equation> is the inverse of <equation>$[A]$</equation>.</dd>
+<dt>linear equation</dt>
+<dd>A polynomial equation of the first degree (such as <equation>$x=2y-7$</equation>).</dd>
+</dl>
+
+<p>A system of equations can be readily solved using the concepts of the inverse matrix and matrix multiplication.  We have seen, in the chapter on simultaneous equations, how to solve two equations with two unknowns. But suppose we have three equations with three unknowns? Or four, or five?  Such situations are more common than you might suppose in the real world.  And even if you are allowed to use a calculator, it is not at all obvious how to solve such a problem in a reasonable amount of time.</p>
+
+<h3>Example 1:  Solve the following system of linear equations: </h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;x+2y-z = 11 \\&#10;2x-y+3z = 7 \\&#10;7x-3y-2z = 2&#10;$</div>
+
+<p>Step 1:  Set up a matrix <span class='clFormula'>$A$</span>
+, which is comprised of the coefficients of all the variables from each equation from the left hand side of the equal sign:</p>
+
+<div class='clFormula'>$\displaystyle&#10;[A] = \begin{bmatrix} 1&amp;2&amp;-1\\2&amp;-1&amp;3\\7&amp;-3&amp;-2 \end{bmatrix}$</div>
+
+<p>Step 2:  Step up a matrix <span class='clFormula'>$B$</span>
+, which consists of the constants on the right hand side of the equal sign:</p>
+
+<div class='clFormula'>$\displaystyle&#10;[B] = \begin{bmatrix} 11\\7\\2 \end{bmatrix}$</div>
+
+<p>Now, in order to determine the values of <span class='clFormula'>$x$</span>
+, <span class='clFormula'>$y$</span>
+, and <span class='clFormula'>$z$</span>
+, we simply multiply the inverse of <span class='clFormula'>$[A]$</span>
+times <span class='clFormula'>$[B]$</span>
+. This can be done by hand, finding the inverse matrix of <span class='clFormula'>$[A]$</span>
+, then performing the appropriate matrix multiplication with <span class='clFormula'>$[B]$</span>
+. </p>
+<p>However, if you have a graphing calculator, the situation is much easier.  Using the matrix function on the calculator, first enter both matrices.  Then calculate <span class='clFormula'>$[A^{-1}][B]$</span>
+, that is, the inverse of matrix <span class='clFormula'>$[A]$</span>
+, multiplied by matrix <span class='clFormula'>$[B]$</span>
+.</p>
+<p>The calculator responds with a <span class='clFormula'>$3 \times 1$</span>
+ matrix, which includes the solution to the system as: <span class='clFormula'>$x=3$</span>
+, <span class='clFormula'>$y=5$</span>
+, and <span class='clFormula'>$z=2$</span>
+. Solving linear equations in this way is fast and easy. </p>
+<h2 id='section_361'>9.4. Determinants and Cramer's Rule</h2>
+
+<h3 id='concept_206'>9.4.1. Determinants of 2-by-2 Square Matrices</h3>
+
+<blockquote>The determinant of a <span class='clFormula'>$2\times 2$</span>
+ square matrix is a mathematical construct used in problem solving that is found  by a special formula.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Practice finding the determinant of a <equation>$2\times 2$</equation> matrix</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The determinant of a <span class='clFormula'>$2 \times 2$</span>
+matrix <span class='clFormula'>$\begin{bmatrix}a&amp;b\\c&amp;d\end{bmatrix}$</span>
+is defined to be <span class='clFormula'>$ad-bc$</span>
+.</li>
+<li>A matrix is often used to represent the coefficients in a system of linear equations, and the <em>determinant</em> can be used to solve those equations.</li>
+<li>Any matrix has a unique inverse if its determinant is nonzero.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>determinant</dt>
+<dd>The unique scalar function over square matrices which is distributive over matrix multiplication, multilinear in the rows and columns, and takes the value of 1 for the unit matrix. Its abbreviation is "<equation>$\det$</equation>".</dd>
+</dl>
+
+<h3>What is a determinant?  </h3>
+
+<p>A matrix is often used to represent the coefficients in a system of linear equations, and the <em>determinant</em> can be used to solve those equations. The use of determinants in calculus includes the Jacobian determinant in the change of variables rule for integrals of functions of several variables. Determinants are also used to define the characteristic polynomial of a matrix, which is essential for eigenvalue problems in linear algebra. In analytical geometry, determinants express the signed <span class='clFormula'>$n$</span>
+-dimensional volumes of <span class='clFormula'>$n$</span>
+-dimensional parallelepipeds. Sometimes, determinants are used merely as a compact notation for expressions that would otherwise be unwieldy to write down.</p>
+<p>It can be proven that any matrix has a unique inverse if its determinant is nonzero. Various other theorems can be proved as well, including that the determinant of a product of matrices is always equal to the product of determinants; and, the determinant of a Hermitian matrix is always real.</p>
+<p>The determinant of a matrix <span class='clFormula'>$[A]$</span>
+is denoted <span class='clFormula'>$\det(A)$</span>
+,  <span class='clFormula'>$\det\ A$</span>
+, or <span class='clFormula'>$\left |  A \right |$</span>
+. In the case where the matrix entries are written out in full, the determinant is denoted by surrounding the matrix entries by vertical bars instead of the brackets or parentheses of the matrix.</p>
+<p>For instance, the determinant of the matrix <span class='clFormula'>$\begin{bmatrix} a &amp; b \\ d &amp; e \end{bmatrix}$</span>
+is written <span class='clFormula'>$\begin{vmatrix} a &amp; b \\ d &amp; e \end{vmatrix}$</span>
+.</p>
+
+<h3>Determinant of a 2-by-2 Matrix</h3>
+
+<p>In linear algebra, the determinant is a value associated with a square matrix. It can be computed from the entries of the matrix by a specific arithmetic expression, shown below:</p>
+<p>For a <span class='clFormula'>$2 \times 2$</span>
+matrix, <span class='clFormula'>$\begin{bmatrix} a &amp; b\\ c &amp; d \end{bmatrix}$</span>
+, </p>
+<p>the determinant <span class='clFormula'>$\begin{vmatrix} a &amp; b\\ c &amp; d \end{vmatrix}$</span>
+ is defined to be <span class='clFormula'>$ad-bc$</span>
+.</p>
+
+<h3>Example 1:  Find the determinant of the following matrix: </h3>
+
+<h3>
+<span class='clFormula'>$\displaystyle&#10;\begin{bmatrix} 4 &amp; -2 \\ 7 &amp; 5 \end{bmatrix}$</span></h3>
+
+<p>The determinant <span class='clFormula'>$\begin{vmatrix} 4 &amp; -2\\ 7 &amp; 5 \end{vmatrix}$</span>
+is:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;\begin{align}&#10;(4 \cdot 5) - (-2 \cdot 7)&amp;= 20 - (-14)\\&#10;&amp;=34&#10;\end{align}$</span></p>
+
+<h3 id='concept_207'>9.4.2. Cofactors, Minors, and Further Determinants</h3>
+
+<blockquote>The cofactor of an entry <span class='clFormula'>$(i,j)$</span>
+of a matrix <span class='clFormula'>$A$</span>
+is the signed minor of that matrix.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how to use minor and cofactor matrices to calculate determinants</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Let <span class='clFormula'>$A$</span>
+be an <span class='clFormula'>$m \times n$</span>
+matrix and <span class='clFormula'>$k$</span>
+an integer with <span class='clFormula'>$0&lt;k\leq m$</span>
+, and <span class='clFormula'>$k \leq n$</span>
+.  A <span class='clFormula'>$k \times k$</span>
+minor of <span class='clFormula'>$A$</span>
+is the determinant of a <span class='clFormula'>$k \times k$</span>
+matrix obtained from <span class='clFormula'>$A$</span>
+by deleting <span class='clFormula'>$m-k$</span>
+rows and <span class='clFormula'>$n-k$</span>
+columns.</li>
+<li>The first minor of a matrix <span class='clFormula'>$M_{ij}$</span>
+is formed by removing the <span class='clFormula'>$i$</span>
+th row and <span class='clFormula'>$j$</span>
+th column of the matrix, and retrieving the determinant of the smaller matrix.</li>
+<li>The cofactor of an element <span class='clFormula'>$a_{ij}$</span>
+of a matrix <span class='clFormula'>$A$</span>
+, written as <span class='clFormula'>$C_{ij}$</span>
+is defined as <span class='clFormula'>$(-1)^{i+j}M_{ij}$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>minor</dt>
+<dd>The determinant of some smaller square matrix, cut down from matrix <equation>$A$</equation> by removing one or more of its rows or columns.</dd>
+<dt>cofactor</dt>
+<dd>The signed minor of an entry of a matrix.</dd>
+</dl>
+
+<h3>Cofactor and Minor: Definitions</h3>
+
+<h3>Cofactor</h3>
+
+<p>In linear algebra, the <em>cofactor</em> (sometimes called adjunct) describes a particular construction that is useful for calculating both the determinant and inverse of square matrices. Specifically the cofactor of the <span class='clFormula'>$(i,j)$</span>
+entry of a matrix, also known as the <span class='clFormula'>$(i,j)$</span>
+cofactor of that matrix, is the signed minor of that entry.</p>
+<p>The cofactor of <span class='clFormula'>$a_{ij}$</span>
+entry of a matrix is defined as:</p>
+
+<div class='clFormula'>$\displaystyle&#10;C_{ij}=(-1)^{i+j}M_{ij}$</div>
+
+
+<h3>Minor</h3>
+
+<p>To know what the signed minor is, we need to know what the minor of a matrix is. In linear algebra, a <em>minor</em> of a matrix <span class='clFormula'>$A$</span>
+is the determinant of some smaller square matrix, cut down from <span class='clFormula'>$A$</span>
+by removing one or more of its rows or columns. Minors obtained by removing just one row and one column from square matrices (first minors) are required for calculating matrix <em>cofactors.</em></p>
+<p>Let <span class='clFormula'>$A$</span>
+ be an <span class='clFormula'>$m \times n$</span>
+ matrix and <span class='clFormula'>$k$</span>
+ an integer with <span class='clFormula'>$0&lt;k\leq m$</span>
+, and <span class='clFormula'>$k \leq n$</span>
+.  A <span class='clFormula'>$k \times k$</span>
+ minor of <span class='clFormula'>$A$</span>
+ is the determinant of a <span class='clFormula'>$k \times k$</span>
+ matrix obtained from <span class='clFormula'>$A$</span>
+ by deleting <span class='clFormula'>$m-k$</span>
+ rows and <span class='clFormula'>$n-k$</span>
+ columns.</p>
+
+<h3>Calculate the Determinant</h3>
+
+<p>The determinant of any matrix can be found using its signed minors. The determinant is the sum of the signed minors of any row or column of the matrix scaled by the elements in that row or column.</p>
+
+<h3>Calculating the Minors</h3>
+
+<p>The following steps are used to find the determinant of a given  minor of a matrix A:</p>
+
+<ol>
+<li>Choose an entry <span class='clFormula'>$a_{ij}$</span>
+from the matrix.</li>
+<li>Cross out the entries that lie in the corresponding row <span class='clFormula'>$i$</span>
+and column <span class='clFormula'>$j$</span>
+.</li>
+<li>Rewrite the matrix without the marked entries.</li>
+<li>Obtain the determinant of this new matrix.</li>
+</ol>
+<p><span class='clFormula'>$M_{ij}$</span>
+is termed the minor for entry <span class='clFormula'>$a_{ij}$</span>
+.</p>
+<p>Note: If <span class='clFormula'>$i+j$</span>
+is an even number, the cofactor coincides with its minor: <span class='clFormula'>$C_{ij}=M_{ij}$</span>
+. Otherwise, it is equal to the additive inverse of its minor: <span class='clFormula'>$C_{ij}=-M_{ij}$</span></p>
+
+<h3>Calculating the Determinant</h3>
+
+<p>We will find the determinant of the following matrix A by calculating the determinants of its cofactors for the third, rightmost column and then multiplying them by the elements of that column.</p>
+<p>  <span class='clFormula'>$\displaystyle&#10;\begin{bmatrix} 1 &amp; 4 &amp; 7\\ 3 &amp; 0 &amp; 5\\ -1&amp; 9 &amp;11\\ \end{bmatrix}$</span></p>
+<p>As an example, we will calculate the determinant of the minor <span class='clFormula'>$M_{23}$</span>
+, which is the determinant of the <span class='clFormula'>$2 \times 2$</span>
+matrix formed by removing the <span class='clFormula'>$2$</span>
+nd row and <span class='clFormula'>$3$</span>
+rd column.  A black dot represents an element we are removing. </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;\begin{vmatrix} 1 &amp; 4 &amp; \bullet\\ \bullet&amp; \bullet&amp; \bullet\\ -1&amp; 9 &amp;\bullet \end{vmatrix} &amp;= \begin{vmatrix} 1 &amp; 4\\ -1&amp;9 \end{vmatrix}\\ &amp;=(9-(-4))\\&amp;=13&#10;\end{align}$</div>
+
+<p>Since <span class='clFormula'>$i+j=5 $</span>
+ is an odd number, the cofactor is the additive inverse of its minor: <span class='clFormula'>$-(13)=-13$</span></p>
+<p>We multiply this number by <span class='clFormula'>$a_{23}=5$</span>
+, giving <span class='clFormula'>$-65$</span>
+.</p>
+<p>The same process is carried out to find the determinants of <span class='clFormula'>$C_{13}$</span>
+ and <span class='clFormula'>$C_{33}$</span>
+, which are then multiplied by <span class='clFormula'>$a_{13}$</span>
+ and <span class='clFormula'>$a_{33}$</span>
+, respectively. The determinant is then found by summing all of these:</p>
+
+<div class='clFormula'>$\begin {align} \det{A} &amp;= a_{13}\det{C_{13}}+a_{23}\det{C_{23}}+a_{33}\det{C_{33}} \\ &amp;= 7\cdot27-5\cdot13+11\cdot-12 \\&amp;=-8 \end{align}$</div>
+
+
+<h3 id='concept_208'>9.4.3. Cramer's Rule</h3>
+
+<blockquote>Cramer's Rule uses determinants to solve for a solution to the equation <span class='clFormula'>$Ax=b$</span>
+, when <span class='clFormula'>$A$</span>
+is a square matrix.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use Cramer's Rule to solve for a single variable in a system of linear equations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Cramer's Rule only works on square matrices that have a non-zero determinant and a unique solution.</li>
+<li>Consider the linear system <span class='clFormula'>$\left\{\begin{matrix} ax+by &amp; ={\color{Red}e}\\ cx+dy &amp; ={\color{Red}f} \end{matrix}\right.$</span>
+, which in matrix format is <span class='clFormula'>$\begin{bmatrix}a&amp;b\\c&amp;d\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}{\color{Red}e}\\{\color{Red}f}\end{bmatrix}$</span>
+.   Assume the determinant is non-zero. Then, <span class='clFormula'>$x$</span>
+ and <span class='clFormula'>$y$</span>
+ and be found by Cramer's rule: <span class='clFormula'>$x=\frac{\begin{vmatrix}{\color{Red}e}&amp;b\\{\color{Red}f}&amp;d\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}=\frac{{\color{Red}e}d-b{\color{Red}f}}{ad-bc}$</span>
+  and <span class='clFormula'>$y=\frac{\begin{vmatrix}a&amp;{\color{Red}e}\\c&amp;{\color{Red}f}\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}=\frac{a{\color{Red}f}-{\color{Red}e}c}{ad-bc}$</span>
+.</li>
+<li>Cramer's Rule is efficient for solving small systems and can be calculated quite quickly; however, as the system grows, calculating the new determinants can be tedious.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>square matrix</dt>
+<dd>A matrix having the same number of rows as columns.</dd>
+<dt>determinant</dt>
+<dd>The unique scalar function over square matrices which is distributive over matrix multiplication, multilinear in the rows and columns, and takes the value of <equation>$1$</equation> for the unit matrix. Its abbreviation is "<equation>$\det$</equation>".</dd>
+</dl>
+
+<p>"Cramer's Rule" is another way to solve a system of linear equations with matrices.  It uses a formula to calculate the solution to the system utilizing the definition of determinants.</p>
+
+<h3>Cramer's Rule:  Definition</h3>
+
+<p><em>Cramer's Rule</em> is an explicit formula for the solution of a system of linear equations with as many equations as unknowns, i.e. a square matrix, valid whenever the system has a unique solution. It expresses the solution in terms of the determinants of the (square) coefficient matrix and of matrices obtained from it by replacing one column by the vector of right hand sides of the equations.  </p>
+
+<h3>Cramer's Rule:  Formula</h3>
+
+<h3>Rules for a <span class='clFormula'>$2\times 2$</span>
+ Matrix</h3>
+
+<p>Consider the linear system:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{bmatrix}a&amp;b\\c&amp;d\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}{\color{Red}e}\\{\color{Red}f}\end{bmatrix}$</div>
+
+<p>Assume the determinant is non-zero. Then, <span class='clFormula'>$x$</span>
+and <span class='clFormula'>$y$</span>
+can be found by Cramer's rule: </p>
+
+<div class='clFormula'>$\displaystyle&#10;x=\frac{\begin{vmatrix}{\color{Red}e}&amp;b\\{\color{Red}f}&amp;d\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}=\frac{{\color{Red}e}d-b{\color{Red}f}}{ad-bc}$</div>
+
+<p>And:</p>
+
+<div class='clFormula'>$\displaystyle&#10;y=\frac{\begin{vmatrix}a&amp;{\color{Red}e}\\c&amp;{\color{Red}f}\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}=\frac{a{\color{Red}f}-{\color{Red}e}c}{ad-bc}$</div>
+
+
+<h3>Rules for a <span class='clFormula'>$3 \times 3$</span>
+ Matrix </h3>
+
+<p>Given:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{bmatrix}a&amp;b&amp;c\\d&amp;e&amp;f\\g&amp;h&amp;i\end{bmatrix} \begin{bmatrix}x\\y\\z\end{bmatrix}=\begin{bmatrix}{\color{Red}j}\\{\color{Red}k}\\{\color{Red}l}\end{bmatrix}$</div>
+
+<p>Then the values of <span class='clFormula'>$x$</span>
+, <span class='clFormula'>$y$</span>
+and <span class='clFormula'>$z$</span>
+can be found as follows:</p>
+
+<div class='clFormula'>$\displaystyle&#10;x=\frac{\begin{vmatrix}{\color{Red}j}&amp;b&amp;c\\{\color{Red}k}&amp;e&amp;f\\{\color{Red}l}&amp;h&amp;i\end{vmatrix}}{\begin{vmatrix}a&amp;b&amp;c\\d&amp;e&amp;f\\g&amp;h&amp;i\end{vmatrix}}&#10;\quad&#10;y=\frac{\begin{vmatrix}a&amp;{\color{Red}j}&amp;c\\d&amp;{\color{Red}k}&amp;f\\g&amp;{\color{Red}l}&amp;i\end{vmatrix}}{\begin{vmatrix}a&amp;b&amp;c\\d&amp;e&amp;f\\g&amp;h&amp;i\end{vmatrix}}&#10;\quad &#10;z=\frac{\begin{vmatrix}a&amp;b&amp;{\color{Red}j}\\d&amp;e&amp;{\color{Red}k}\\g&amp;h&amp;{\color{Red}l}\end{vmatrix}}{\begin{vmatrix}a&amp;b&amp;c\\d&amp;e&amp;f\\g&amp;h&amp;i\end{vmatrix}}$</div>
+
+
+<h3>Using Cramer's Rule</h3>
+
+<h3>Example 1:  Solve the system using Cramer's Rule:</h3>
+
+
+<div class='clFormula'>$\displaystyle&#10;\left\{\begin{matrix} 3x+2y &amp; = 10\\ -6x+4y &amp; = 4 \end{matrix}\right.$</div>
+
+<p>In matrix format:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{bmatrix}3&amp;2\\-6&amp;4\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}10\\4\end{bmatrix}$</div>
+
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;x&amp;=\frac{\begin{vmatrix}{\color{Red}e}&amp;b\\{\color{Red}f}&amp;d\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}\\&amp;=\frac{{\color{Red}e}d-b{\color{Red}f}}{ad-bc}\end{align}&#10;$</div>
+
+<p><span class='clFormula'>$\displaystyle&#10;\begin{align}&#10;x&amp;=\frac{\begin{vmatrix}10&amp;2\\4&amp;4\end{vmatrix}}{\begin{vmatrix}3&amp;2\\-6&amp;4\end{vmatrix}}\\&amp;=\frac{10\cdot 4-2 \cdot 4}{(3 \cdot 4) -[2 \cdot (-6)]}\\&amp;=\frac{32}{24}=\frac{4}{3}\end{align}$</span>
+ </p>
+<p><span class='clFormula'>$\displaystyle&#10;\begin{align}&#10;y&amp;=\frac{\begin{vmatrix}a&amp;{\color{Red}e}\\c&amp;{\color{Red}f}\end{vmatrix}}{\begin{vmatrix}a&amp;b\\c&amp;d\end{vmatrix}}\\&#10;&amp;=\frac{a{\color{Red}f}-{\color{Red}e}c}{ad-bc}&#10;\end{align}$</span>
+       </p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align}&#10;y&amp;=\frac{\begin{vmatrix}3&amp;10\\-6&amp;4\end{vmatrix}}{\begin{vmatrix}3&amp;2\\-6&amp;4\end{vmatrix}}\\&#10;&amp;=\frac{(3 \cdot 4)-[10 \cdot(-6)]}{(3 \cdot 4)-[2 \cdot (-6)]}\\&#10;&amp;=\frac{72}{24}=3&#10;\end{align}$</div>
+
+<p>The solution to the system is <span class='clFormula'>$(\frac{4}{3}, 3)$</span>
+.</p>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,191 @@
+# colmater %[clVerbGroup|1]
+[-
+boucher un orifice. 
+enrichir un sol en y faisant séjourner de l'eau riche en limon. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|colmat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|colmat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|colmat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||colmat%[m|é]|
+|ayant|colmat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en colmat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|colmat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|colmat%[m|e]|
+|tu|colmat%[m|es]|
+|il|colmat%[m|e]|
+|nous|colmat%[m|ons]|
+|vous|colmat%[m|ez]|
+|ils|colmat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|colmat%[m|é]|
+|tu|as |colmat%[m|é]|
+|il|a|colmat%[m|é]|
+|nous|avons|colmat%[m|é]|
+|vous|avez|colmat%[m|é]|
+|ils|ont|colmat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|colmat%[m|ais]|
+|tu|colmat%[m|ais]|
+|il|colmat%[m|ait]|
+|nous|colmat%[m|ions]|
+|vous|colmat%[m|iez]|
+|ils|colmat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|colmat%[m|é]|
+|tu|avais|colmat%[m|é]|
+|il|avait|colmat%[m|é]|
+|nous|avions|colmat%[m|é]|
+|vous|aviez|colmat%[m|é]|
+|ils|avaient|colmat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|colmat%[m|ai]|
+|tu|colmat%[m|as]|
+|il|colmat%[m|a]|
+|nous|colmat%[m|âmes]|
+|vous|colmat%[m|âtes]|
+|ils|colmat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|colmat%[m|é]|
+|tu|eus|colmat%[m|é]|
+|il|eut|colmat%[m|é]|
+|nous|e&ucirc;mes|colmat%[m|é]|
+|vous|e&ucirc;tes|colmat%[m|é]|
+|ils|eurent|colmat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|colmat%[m|erai]|
+|tu|colmat%[m|eras]|
+|il|colmat%[m|era]|
+|nous|colmat%[m|erons]|
+|vous|colmat%[m|erez]|
+|ils|colmat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|colmat%[m|é]|
+|tu|auras|colmat%[m|é]|
+|il|aura|colmat%[m|é]|
+|nous|aurons|colmat%[m|é]|
+|vous|aurez|colmat%[m|é]|
+|ils|auront|colmat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|colmat%[m|erais]|
+|tu|colmat%[m|erais]|
+|il|colmat%[m|erait]|
+|nous|colmat%[m|erions]|
+|vous|colmat%[m|eriez]|
+|ils|colmat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|colmat%[m|é]|
+|tu|aurais|colmat%[m|é]|
+|il|aurait|colmat%[m|é]|
+|nous|aurions|colmat%[m|é]|
+|vous|auriez|colmat%[m|é]|
+|ils|auraient|colmat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|colmat%[m|e]|
+|que|tu|colmat%[m|es]|
+|qu'|il|colmat%[m|e]|
+|que|nous|colmat%[m|ions]|
+|que|vous|colmat%[m|iez]|
+|qu'|ils|colmat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|colmat%[m|é]|
+|que|tu|aies|colmat%[m|é]|
+|qu'|il|ait|colmat%[m|é]|
+|que|nous|ayons|colmat%[m|é]|
+|que|vous|ayez|colmat%[m|é]|
+|qu'|ils|aient|colmat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|colmat%[m|asse]|
+|que|tu|colmat%[m|asses]|
+|qu'|il|colmat%[m|ât]|
+|que|nous|colmat%[m|assions]|
+|que|vous|colmat%[m|assiez]|
+|qu'|ils|colmat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|colmat%[m|é]|
+|que|tu|eusses|colmat%[m|é]|
+|qu'|il|eût|colmat%[m|é]|
+|que|nous|eussions|colmat%[m|é]|
+|que|vous|eussiez|colmat%[m|é]|
+|qu'|ils|eussent|colmat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|colmat%[m|e]|
+|colmat%[m|ons]|
+|colmat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|colmat%[m|é]|
+|ayons|colmat%[m|é]|
+|ayez|colmat%[m|é]|
+|]
+

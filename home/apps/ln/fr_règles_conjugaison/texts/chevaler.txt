@@ -1,0 +1,190 @@
+# chevaler %[clVerbGroup|1]
+[-
+étayer avec un chevalement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cheval%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cheval%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cheval%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cheval%[m|é]|
+|ayant|cheval%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cheval%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cheval%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cheval%[m|e]|
+|tu|cheval%[m|es]|
+|il|cheval%[m|e]|
+|nous|cheval%[m|ons]|
+|vous|cheval%[m|ez]|
+|ils|cheval%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cheval%[m|é]|
+|tu|as |cheval%[m|é]|
+|il|a|cheval%[m|é]|
+|nous|avons|cheval%[m|é]|
+|vous|avez|cheval%[m|é]|
+|ils|ont|cheval%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cheval%[m|ais]|
+|tu|cheval%[m|ais]|
+|il|cheval%[m|ait]|
+|nous|cheval%[m|ions]|
+|vous|cheval%[m|iez]|
+|ils|cheval%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cheval%[m|é]|
+|tu|avais|cheval%[m|é]|
+|il|avait|cheval%[m|é]|
+|nous|avions|cheval%[m|é]|
+|vous|aviez|cheval%[m|é]|
+|ils|avaient|cheval%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cheval%[m|ai]|
+|tu|cheval%[m|as]|
+|il|cheval%[m|a]|
+|nous|cheval%[m|âmes]|
+|vous|cheval%[m|âtes]|
+|ils|cheval%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cheval%[m|é]|
+|tu|eus|cheval%[m|é]|
+|il|eut|cheval%[m|é]|
+|nous|e&ucirc;mes|cheval%[m|é]|
+|vous|e&ucirc;tes|cheval%[m|é]|
+|ils|eurent|cheval%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cheval%[m|erai]|
+|tu|cheval%[m|eras]|
+|il|cheval%[m|era]|
+|nous|cheval%[m|erons]|
+|vous|cheval%[m|erez]|
+|ils|cheval%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cheval%[m|é]|
+|tu|auras|cheval%[m|é]|
+|il|aura|cheval%[m|é]|
+|nous|aurons|cheval%[m|é]|
+|vous|aurez|cheval%[m|é]|
+|ils|auront|cheval%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cheval%[m|erais]|
+|tu|cheval%[m|erais]|
+|il|cheval%[m|erait]|
+|nous|cheval%[m|erions]|
+|vous|cheval%[m|eriez]|
+|ils|cheval%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cheval%[m|é]|
+|tu|aurais|cheval%[m|é]|
+|il|aurait|cheval%[m|é]|
+|nous|aurions|cheval%[m|é]|
+|vous|auriez|cheval%[m|é]|
+|ils|auraient|cheval%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cheval%[m|e]|
+|que|tu|cheval%[m|es]|
+|qu'|il|cheval%[m|e]|
+|que|nous|cheval%[m|ions]|
+|que|vous|cheval%[m|iez]|
+|qu'|ils|cheval%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cheval%[m|é]|
+|que|tu|aies|cheval%[m|é]|
+|qu'|il|ait|cheval%[m|é]|
+|que|nous|ayons|cheval%[m|é]|
+|que|vous|ayez|cheval%[m|é]|
+|qu'|ils|aient|cheval%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cheval%[m|asse]|
+|que|tu|cheval%[m|asses]|
+|qu'|il|cheval%[m|ât]|
+|que|nous|cheval%[m|assions]|
+|que|vous|cheval%[m|assiez]|
+|qu'|ils|cheval%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cheval%[m|é]|
+|que|tu|eusses|cheval%[m|é]|
+|qu'|il|eût|cheval%[m|é]|
+|que|nous|eussions|cheval%[m|é]|
+|que|vous|eussiez|cheval%[m|é]|
+|qu'|ils|eussent|cheval%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cheval%[m|e]|
+|cheval%[m|ons]|
+|cheval%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cheval%[m|é]|
+|ayons|cheval%[m|é]|
+|ayez|cheval%[m|é]|
+|]
+

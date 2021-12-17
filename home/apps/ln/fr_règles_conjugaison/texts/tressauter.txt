@@ -1,0 +1,190 @@
+# tressauter %[clVerbGroup|1]
+[-
+tressaillir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tressaut%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tressaut%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tressaut%[m|é]|
+|ayant|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tressaut%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tressaut%[m|e]|
+|tu|tressaut%[m|es]|
+|il|tressaut%[m|e]|
+|nous|tressaut%[m|ons]|
+|vous|tressaut%[m|ez]|
+|ils|tressaut%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tressaut%[m|é]|
+|tu|as |tressaut%[m|é]|
+|il|a|tressaut%[m|é]|
+|nous|avons|tressaut%[m|é]|
+|vous|avez|tressaut%[m|é]|
+|ils|ont|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tressaut%[m|ais]|
+|tu|tressaut%[m|ais]|
+|il|tressaut%[m|ait]|
+|nous|tressaut%[m|ions]|
+|vous|tressaut%[m|iez]|
+|ils|tressaut%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tressaut%[m|é]|
+|tu|avais|tressaut%[m|é]|
+|il|avait|tressaut%[m|é]|
+|nous|avions|tressaut%[m|é]|
+|vous|aviez|tressaut%[m|é]|
+|ils|avaient|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tressaut%[m|ai]|
+|tu|tressaut%[m|as]|
+|il|tressaut%[m|a]|
+|nous|tressaut%[m|âmes]|
+|vous|tressaut%[m|âtes]|
+|ils|tressaut%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tressaut%[m|é]|
+|tu|eus|tressaut%[m|é]|
+|il|eut|tressaut%[m|é]|
+|nous|e&ucirc;mes|tressaut%[m|é]|
+|vous|e&ucirc;tes|tressaut%[m|é]|
+|ils|eurent|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tressaut%[m|erai]|
+|tu|tressaut%[m|eras]|
+|il|tressaut%[m|era]|
+|nous|tressaut%[m|erons]|
+|vous|tressaut%[m|erez]|
+|ils|tressaut%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tressaut%[m|é]|
+|tu|auras|tressaut%[m|é]|
+|il|aura|tressaut%[m|é]|
+|nous|aurons|tressaut%[m|é]|
+|vous|aurez|tressaut%[m|é]|
+|ils|auront|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tressaut%[m|erais]|
+|tu|tressaut%[m|erais]|
+|il|tressaut%[m|erait]|
+|nous|tressaut%[m|erions]|
+|vous|tressaut%[m|eriez]|
+|ils|tressaut%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tressaut%[m|é]|
+|tu|aurais|tressaut%[m|é]|
+|il|aurait|tressaut%[m|é]|
+|nous|aurions|tressaut%[m|é]|
+|vous|auriez|tressaut%[m|é]|
+|ils|auraient|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tressaut%[m|e]|
+|que|tu|tressaut%[m|es]|
+|qu'|il|tressaut%[m|e]|
+|que|nous|tressaut%[m|ions]|
+|que|vous|tressaut%[m|iez]|
+|qu'|ils|tressaut%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tressaut%[m|é]|
+|que|tu|aies|tressaut%[m|é]|
+|qu'|il|ait|tressaut%[m|é]|
+|que|nous|ayons|tressaut%[m|é]|
+|que|vous|ayez|tressaut%[m|é]|
+|qu'|ils|aient|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tressaut%[m|asse]|
+|que|tu|tressaut%[m|asses]|
+|qu'|il|tressaut%[m|ât]|
+|que|nous|tressaut%[m|assions]|
+|que|vous|tressaut%[m|assiez]|
+|qu'|ils|tressaut%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tressaut%[m|é]|
+|que|tu|eusses|tressaut%[m|é]|
+|qu'|il|eût|tressaut%[m|é]|
+|que|nous|eussions|tressaut%[m|é]|
+|que|vous|eussiez|tressaut%[m|é]|
+|qu'|ils|eussent|tressaut%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tressaut%[m|e]|
+|tressaut%[m|ons]|
+|tressaut%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tressaut%[m|é]|
+|ayons|tressaut%[m|é]|
+|ayez|tressaut%[m|é]|
+|]
+

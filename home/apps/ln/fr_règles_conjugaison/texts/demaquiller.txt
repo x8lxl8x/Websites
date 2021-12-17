@@ -1,0 +1,190 @@
+# démaquiller %[clVerbGroup|1]
+[-
+enlever le maquillage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|démaquill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|démaquill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||démaquill%[m|é]|
+|ayant|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en démaquill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|démaquill%[m|e]|
+|tu|démaquill%[m|es]|
+|il|démaquill%[m|e]|
+|nous|démaquill%[m|ons]|
+|vous|démaquill%[m|ez]|
+|ils|démaquill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|démaquill%[m|é]|
+|tu|as |démaquill%[m|é]|
+|il|a|démaquill%[m|é]|
+|nous|avons|démaquill%[m|é]|
+|vous|avez|démaquill%[m|é]|
+|ils|ont|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|démaquill%[m|ais]|
+|tu|démaquill%[m|ais]|
+|il|démaquill%[m|ait]|
+|nous|démaquill%[m|ions]|
+|vous|démaquill%[m|iez]|
+|ils|démaquill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|démaquill%[m|é]|
+|tu|avais|démaquill%[m|é]|
+|il|avait|démaquill%[m|é]|
+|nous|avions|démaquill%[m|é]|
+|vous|aviez|démaquill%[m|é]|
+|ils|avaient|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|démaquill%[m|ai]|
+|tu|démaquill%[m|as]|
+|il|démaquill%[m|a]|
+|nous|démaquill%[m|âmes]|
+|vous|démaquill%[m|âtes]|
+|ils|démaquill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|démaquill%[m|é]|
+|tu|eus|démaquill%[m|é]|
+|il|eut|démaquill%[m|é]|
+|nous|e&ucirc;mes|démaquill%[m|é]|
+|vous|e&ucirc;tes|démaquill%[m|é]|
+|ils|eurent|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|démaquill%[m|erai]|
+|tu|démaquill%[m|eras]|
+|il|démaquill%[m|era]|
+|nous|démaquill%[m|erons]|
+|vous|démaquill%[m|erez]|
+|ils|démaquill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|démaquill%[m|é]|
+|tu|auras|démaquill%[m|é]|
+|il|aura|démaquill%[m|é]|
+|nous|aurons|démaquill%[m|é]|
+|vous|aurez|démaquill%[m|é]|
+|ils|auront|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|démaquill%[m|erais]|
+|tu|démaquill%[m|erais]|
+|il|démaquill%[m|erait]|
+|nous|démaquill%[m|erions]|
+|vous|démaquill%[m|eriez]|
+|ils|démaquill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|démaquill%[m|é]|
+|tu|aurais|démaquill%[m|é]|
+|il|aurait|démaquill%[m|é]|
+|nous|aurions|démaquill%[m|é]|
+|vous|auriez|démaquill%[m|é]|
+|ils|auraient|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|démaquill%[m|e]|
+|que|tu|démaquill%[m|es]|
+|qu'|il|démaquill%[m|e]|
+|que|nous|démaquill%[m|ions]|
+|que|vous|démaquill%[m|iez]|
+|qu'|ils|démaquill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|démaquill%[m|é]|
+|que|tu|aies|démaquill%[m|é]|
+|qu'|il|ait|démaquill%[m|é]|
+|que|nous|ayons|démaquill%[m|é]|
+|que|vous|ayez|démaquill%[m|é]|
+|qu'|ils|aient|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|démaquill%[m|asse]|
+|que|tu|démaquill%[m|asses]|
+|qu'|il|démaquill%[m|ât]|
+|que|nous|démaquill%[m|assions]|
+|que|vous|démaquill%[m|assiez]|
+|qu'|ils|démaquill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|démaquill%[m|é]|
+|que|tu|eusses|démaquill%[m|é]|
+|qu'|il|eût|démaquill%[m|é]|
+|que|nous|eussions|démaquill%[m|é]|
+|que|vous|eussiez|démaquill%[m|é]|
+|qu'|ils|eussent|démaquill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|démaquill%[m|e]|
+|démaquill%[m|ons]|
+|démaquill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|démaquill%[m|é]|
+|ayons|démaquill%[m|é]|
+|ayez|démaquill%[m|é]|
+|]
+

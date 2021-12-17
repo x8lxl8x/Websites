@@ -1,0 +1,190 @@
+# pyramider %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pyramid%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pyramid%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pyramid%[m|é]|
+|ayant|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pyramid%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pyramid%[m|e]|
+|tu|pyramid%[m|es]|
+|il|pyramid%[m|e]|
+|nous|pyramid%[m|ons]|
+|vous|pyramid%[m|ez]|
+|ils|pyramid%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pyramid%[m|é]|
+|tu|as |pyramid%[m|é]|
+|il|a|pyramid%[m|é]|
+|nous|avons|pyramid%[m|é]|
+|vous|avez|pyramid%[m|é]|
+|ils|ont|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pyramid%[m|ais]|
+|tu|pyramid%[m|ais]|
+|il|pyramid%[m|ait]|
+|nous|pyramid%[m|ions]|
+|vous|pyramid%[m|iez]|
+|ils|pyramid%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pyramid%[m|é]|
+|tu|avais|pyramid%[m|é]|
+|il|avait|pyramid%[m|é]|
+|nous|avions|pyramid%[m|é]|
+|vous|aviez|pyramid%[m|é]|
+|ils|avaient|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pyramid%[m|ai]|
+|tu|pyramid%[m|as]|
+|il|pyramid%[m|a]|
+|nous|pyramid%[m|âmes]|
+|vous|pyramid%[m|âtes]|
+|ils|pyramid%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pyramid%[m|é]|
+|tu|eus|pyramid%[m|é]|
+|il|eut|pyramid%[m|é]|
+|nous|e&ucirc;mes|pyramid%[m|é]|
+|vous|e&ucirc;tes|pyramid%[m|é]|
+|ils|eurent|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pyramid%[m|erai]|
+|tu|pyramid%[m|eras]|
+|il|pyramid%[m|era]|
+|nous|pyramid%[m|erons]|
+|vous|pyramid%[m|erez]|
+|ils|pyramid%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pyramid%[m|é]|
+|tu|auras|pyramid%[m|é]|
+|il|aura|pyramid%[m|é]|
+|nous|aurons|pyramid%[m|é]|
+|vous|aurez|pyramid%[m|é]|
+|ils|auront|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pyramid%[m|erais]|
+|tu|pyramid%[m|erais]|
+|il|pyramid%[m|erait]|
+|nous|pyramid%[m|erions]|
+|vous|pyramid%[m|eriez]|
+|ils|pyramid%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pyramid%[m|é]|
+|tu|aurais|pyramid%[m|é]|
+|il|aurait|pyramid%[m|é]|
+|nous|aurions|pyramid%[m|é]|
+|vous|auriez|pyramid%[m|é]|
+|ils|auraient|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pyramid%[m|e]|
+|que|tu|pyramid%[m|es]|
+|qu'|il|pyramid%[m|e]|
+|que|nous|pyramid%[m|ions]|
+|que|vous|pyramid%[m|iez]|
+|qu'|ils|pyramid%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pyramid%[m|é]|
+|que|tu|aies|pyramid%[m|é]|
+|qu'|il|ait|pyramid%[m|é]|
+|que|nous|ayons|pyramid%[m|é]|
+|que|vous|ayez|pyramid%[m|é]|
+|qu'|ils|aient|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pyramid%[m|asse]|
+|que|tu|pyramid%[m|asses]|
+|qu'|il|pyramid%[m|ât]|
+|que|nous|pyramid%[m|assions]|
+|que|vous|pyramid%[m|assiez]|
+|qu'|ils|pyramid%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pyramid%[m|é]|
+|que|tu|eusses|pyramid%[m|é]|
+|qu'|il|eût|pyramid%[m|é]|
+|que|nous|eussions|pyramid%[m|é]|
+|que|vous|eussiez|pyramid%[m|é]|
+|qu'|ils|eussent|pyramid%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pyramid%[m|e]|
+|pyramid%[m|ons]|
+|pyramid%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pyramid%[m|é]|
+|ayons|pyramid%[m|é]|
+|ayez|pyramid%[m|é]|
+|]
+

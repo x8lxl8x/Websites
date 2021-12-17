@@ -1,0 +1,190 @@
+# reformuler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|reformul%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|reformul%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|reformul%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||reformul%[m|é]|
+|ayant|reformul%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en reformul%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|reformul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|reformul%[m|e]|
+|tu|reformul%[m|es]|
+|il|reformul%[m|e]|
+|nous|reformul%[m|ons]|
+|vous|reformul%[m|ez]|
+|ils|reformul%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|reformul%[m|é]|
+|tu|as |reformul%[m|é]|
+|il|a|reformul%[m|é]|
+|nous|avons|reformul%[m|é]|
+|vous|avez|reformul%[m|é]|
+|ils|ont|reformul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|reformul%[m|ais]|
+|tu|reformul%[m|ais]|
+|il|reformul%[m|ait]|
+|nous|reformul%[m|ions]|
+|vous|reformul%[m|iez]|
+|ils|reformul%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|reformul%[m|é]|
+|tu|avais|reformul%[m|é]|
+|il|avait|reformul%[m|é]|
+|nous|avions|reformul%[m|é]|
+|vous|aviez|reformul%[m|é]|
+|ils|avaient|reformul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|reformul%[m|ai]|
+|tu|reformul%[m|as]|
+|il|reformul%[m|a]|
+|nous|reformul%[m|âmes]|
+|vous|reformul%[m|âtes]|
+|ils|reformul%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|reformul%[m|é]|
+|tu|eus|reformul%[m|é]|
+|il|eut|reformul%[m|é]|
+|nous|e&ucirc;mes|reformul%[m|é]|
+|vous|e&ucirc;tes|reformul%[m|é]|
+|ils|eurent|reformul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|reformul%[m|erai]|
+|tu|reformul%[m|eras]|
+|il|reformul%[m|era]|
+|nous|reformul%[m|erons]|
+|vous|reformul%[m|erez]|
+|ils|reformul%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|reformul%[m|é]|
+|tu|auras|reformul%[m|é]|
+|il|aura|reformul%[m|é]|
+|nous|aurons|reformul%[m|é]|
+|vous|aurez|reformul%[m|é]|
+|ils|auront|reformul%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|reformul%[m|erais]|
+|tu|reformul%[m|erais]|
+|il|reformul%[m|erait]|
+|nous|reformul%[m|erions]|
+|vous|reformul%[m|eriez]|
+|ils|reformul%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|reformul%[m|é]|
+|tu|aurais|reformul%[m|é]|
+|il|aurait|reformul%[m|é]|
+|nous|aurions|reformul%[m|é]|
+|vous|auriez|reformul%[m|é]|
+|ils|auraient|reformul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|reformul%[m|e]|
+|que|tu|reformul%[m|es]|
+|qu'|il|reformul%[m|e]|
+|que|nous|reformul%[m|ions]|
+|que|vous|reformul%[m|iez]|
+|qu'|ils|reformul%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|reformul%[m|é]|
+|que|tu|aies|reformul%[m|é]|
+|qu'|il|ait|reformul%[m|é]|
+|que|nous|ayons|reformul%[m|é]|
+|que|vous|ayez|reformul%[m|é]|
+|qu'|ils|aient|reformul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|reformul%[m|asse]|
+|que|tu|reformul%[m|asses]|
+|qu'|il|reformul%[m|ât]|
+|que|nous|reformul%[m|assions]|
+|que|vous|reformul%[m|assiez]|
+|qu'|ils|reformul%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|reformul%[m|é]|
+|que|tu|eusses|reformul%[m|é]|
+|qu'|il|eût|reformul%[m|é]|
+|que|nous|eussions|reformul%[m|é]|
+|que|vous|eussiez|reformul%[m|é]|
+|qu'|ils|eussent|reformul%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|reformul%[m|e]|
+|reformul%[m|ons]|
+|reformul%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|reformul%[m|é]|
+|ayons|reformul%[m|é]|
+|ayez|reformul%[m|é]|
+|]
+

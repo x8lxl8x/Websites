@@ -1,0 +1,190 @@
+# primariser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|primaris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|primaris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|primaris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||primaris%[m|é]|
+|ayant|primaris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en primaris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|primaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|primaris%[m|e]|
+|tu|primaris%[m|es]|
+|il|primaris%[m|e]|
+|nous|primaris%[m|ons]|
+|vous|primaris%[m|ez]|
+|ils|primaris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|primaris%[m|é]|
+|tu|as |primaris%[m|é]|
+|il|a|primaris%[m|é]|
+|nous|avons|primaris%[m|é]|
+|vous|avez|primaris%[m|é]|
+|ils|ont|primaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|primaris%[m|ais]|
+|tu|primaris%[m|ais]|
+|il|primaris%[m|ait]|
+|nous|primaris%[m|ions]|
+|vous|primaris%[m|iez]|
+|ils|primaris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|primaris%[m|é]|
+|tu|avais|primaris%[m|é]|
+|il|avait|primaris%[m|é]|
+|nous|avions|primaris%[m|é]|
+|vous|aviez|primaris%[m|é]|
+|ils|avaient|primaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|primaris%[m|ai]|
+|tu|primaris%[m|as]|
+|il|primaris%[m|a]|
+|nous|primaris%[m|âmes]|
+|vous|primaris%[m|âtes]|
+|ils|primaris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|primaris%[m|é]|
+|tu|eus|primaris%[m|é]|
+|il|eut|primaris%[m|é]|
+|nous|e&ucirc;mes|primaris%[m|é]|
+|vous|e&ucirc;tes|primaris%[m|é]|
+|ils|eurent|primaris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|primaris%[m|erai]|
+|tu|primaris%[m|eras]|
+|il|primaris%[m|era]|
+|nous|primaris%[m|erons]|
+|vous|primaris%[m|erez]|
+|ils|primaris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|primaris%[m|é]|
+|tu|auras|primaris%[m|é]|
+|il|aura|primaris%[m|é]|
+|nous|aurons|primaris%[m|é]|
+|vous|aurez|primaris%[m|é]|
+|ils|auront|primaris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|primaris%[m|erais]|
+|tu|primaris%[m|erais]|
+|il|primaris%[m|erait]|
+|nous|primaris%[m|erions]|
+|vous|primaris%[m|eriez]|
+|ils|primaris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|primaris%[m|é]|
+|tu|aurais|primaris%[m|é]|
+|il|aurait|primaris%[m|é]|
+|nous|aurions|primaris%[m|é]|
+|vous|auriez|primaris%[m|é]|
+|ils|auraient|primaris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|primaris%[m|e]|
+|que|tu|primaris%[m|es]|
+|qu'|il|primaris%[m|e]|
+|que|nous|primaris%[m|ions]|
+|que|vous|primaris%[m|iez]|
+|qu'|ils|primaris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|primaris%[m|é]|
+|que|tu|aies|primaris%[m|é]|
+|qu'|il|ait|primaris%[m|é]|
+|que|nous|ayons|primaris%[m|é]|
+|que|vous|ayez|primaris%[m|é]|
+|qu'|ils|aient|primaris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|primaris%[m|asse]|
+|que|tu|primaris%[m|asses]|
+|qu'|il|primaris%[m|ât]|
+|que|nous|primaris%[m|assions]|
+|que|vous|primaris%[m|assiez]|
+|qu'|ils|primaris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|primaris%[m|é]|
+|que|tu|eusses|primaris%[m|é]|
+|qu'|il|eût|primaris%[m|é]|
+|que|nous|eussions|primaris%[m|é]|
+|que|vous|eussiez|primaris%[m|é]|
+|qu'|ils|eussent|primaris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|primaris%[m|e]|
+|primaris%[m|ons]|
+|primaris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|primaris%[m|é]|
+|ayons|primaris%[m|é]|
+|ayez|primaris%[m|é]|
+|]
+

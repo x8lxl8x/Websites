@@ -1,0 +1,190 @@
+# matir %[clVerbGroup|2]
+[-
+rendre mat, enlever le poli de certains métaux (or, argent...) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mat%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mat%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mat%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mat%[m|i]|
+|ayant|mat%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mat%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mat%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mat%[m|is]|
+|tu|mat%[m|is]|
+|il|mat%[m|it]|
+|nous|mat%[m|issons]|
+|vous|mat%[m|issez]|
+|ils|mat%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mat%[m|i]|
+|tu|as |mat%[m|i]|
+|il|a|mat%[m|i]|
+|nous|avons|mat%[m|i]|
+|vous|avez|mat%[m|i]|
+|ils|ont|mat%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mat%[m|issais]|
+|tu|mat%[m|issais]|
+|il|mat%[m|issait]|
+|nous|mat%[m|issions]|
+|vous|mat%[m|issiez]|
+|ils|mat%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mat%[m|i]|
+|tu|avais|mat%[m|i]|
+|il|avait|mat%[m|i]|
+|nous|avions|mat%[m|i]|
+|vous|aviez|mat%[m|i]|
+|ils|avaient|mat%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mat%[m|is]|
+|tu|mat%[m|is]|
+|il|mat%[m|it]|
+|nous|mat%[m|îmes]|
+|vous|mat%[m|îtes]|
+|ils|mat%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mat%[m|i]|
+|tu|eus|mat%[m|i]|
+|il|eut|mat%[m|i]|
+|nous|e&ucirc;mes|mat%[m|i]|
+|vous|e&ucirc;tes|mat%[m|i]|
+|ils|eurent|mat%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mat%[m|irai]|
+|tu|mat%[m|iras]|
+|il|mat%[m|ira]|
+|nous|mat%[m|irons]|
+|vous|mat%[m|irez]|
+|ils|mat%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mat%[m|i]|
+|tu|auras|mat%[m|i]|
+|il|aura|mat%[m|i]|
+|nous|aurons|mat%[m|i]|
+|vous|aurez|mat%[m|i]|
+|ils|auront|mat%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mat%[m|irais]|
+|tu|mat%[m|irais]|
+|il|mat%[m|irait]|
+|nous|mat%[m|irions]|
+|vous|mat%[m|iriez]|
+|ils|mat%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mat%[m|i]|
+|tu|aurais|mat%[m|i]|
+|il|aurait|mat%[m|i]|
+|nous|aurions|mat%[m|i]|
+|vous|auriez|mat%[m|i]|
+|ils|auraient|mat%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mat%[m|isse]|
+|que|tu|mat%[m|isses]|
+|qu'|il|mat%[m|isse]|
+|que|nous|mat%[m|issions]|
+|que|vous|mat%[m|issiez]|
+|qu'|ils|mat%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mat%[m|i]|
+|que|tu|aies|mat%[m|i]|
+|qu'|il|ait|mat%[m|i]|
+|que|nous|ayons|mat%[m|i]|
+|que|vous|ayez|mat%[m|i]|
+|qu'|ils|aient|mat%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mat%[m|isse]|
+|que|tu|mat%[m|isses]|
+|qu'|il|mat%[m|ît]|
+|que|nous|mat%[m|issions]|
+|que|vous|mat%[m|issiez]|
+|qu'|ils|mat%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mat%[m|i]|
+|que|tu|eusses|mat%[m|i]|
+|qu'|il|eût|mat%[m|i]|
+|que|nous|eussions|mat%[m|i]|
+|que|vous|eussiez|mat%[m|i]|
+|qu'|ils|eussent|mat%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mat%[m|is]|
+|mat%[m|issons]|
+|mat%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mat%[m|i]|
+|ayons|mat%[m|i]|
+|ayez|mat%[m|i]|
+|]
+

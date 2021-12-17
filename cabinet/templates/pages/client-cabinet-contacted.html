@@ -1,0 +1,93 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+
+<div id='idNotification'>
+<p>Внимание! Информация о стоимости консультации действительна в течение 30 дней с момента предоставления. Если заказ за этот срок не произведен, запрос на консультацию необходимо сделать заново.</p>
+</div>
+
+<h4>Добро пожаловать!</h4>
+<div class='clIndented'>
+<p>$strWelcomeMessageText</p>
+</div>
+
+<h4>Полный пакет</h4>
+<div class='clIndented'>
+<p>Включает информацию о текущем состоянии - «викрити» и комплекс по приведению в баланс, теорию аюрведы, очищение, подбор продуктов питания, йога, пранаяма, мудры, визуализация, некоторые духовные аспекты, рассмотрение психологической совместимости людей разных конституций.
+Вам выслаются подробные описания, указанных вами проблем с точки зрения аюрведы, аюрведических препаратов, рекомендованных для вашего состояния. По препаратам приводятся подробные разъяснения специалистов.</p>
+
+<p>Для беременных, кормящих матерей и маленьких детей  (у консультирующейся матери) даются отдельные рекомендации.
+Разбираются психосоматические  заболевания. Это не относится к Аюрведе, но помогает понять состояние, так как симптомы могут не давать ясной картины  и простое прохождение тестов на интернете не покажет правильной Викрити. Указываются  некоторые техники из  восточных систем оздоровления.</p>
+
+<p>После получения и изучение  рекомендаций вы составляете свой план действий на основе полученной информации и соответствующего вашему образу жизни и возможности приобретения рекомендованных препаратов. Я просматриваю составленный вами план и если нужно корректирую. Вы можете задавать мне любые вопросы по теме – столько, сколько вам потребуется в течение шести месяцев после обращения. Через шесть месяцев данные удаляются.</p>
+</div>
+
+<h4>Базовый пакет</h4>
+<div class='clIndented'>
+<p>Включает информацию о текущем состоянии - «викрити» и подбор продуктов питания.  Перечисляются техники приведения в баланс и применяемые для это препараты (без подробного описания и разбора). Остальные аспекты, перечисленные в «Полном пакете»  не рассматриваются.
+</p>
+
+<p>После получения и изучение  рекомендаций вы  составляете свой план действий  на основе полученной информации и действуете самостоятельно. Рекомендации по Аюрведе не заменяют лечения у докторов. Все ранее выполняемые предписания врачей и лекарства не прекращаются.  Если у вас серьезные проблемы со здоровьем, то принятие решений по использованию полученной информации полностью лежит на вас.
+</p>
+
+<p>Консультация заканчивается после пересылки вам ответов. Файл удаляется. Подробно на вопросы  в течение шести месяцев после обращения я отвечаю только выбравшим «Полный пакет».</p>
+</div>
+
+<!--
+&emsp;<b>{strClientPrice}</b></p>
+-->
+
+
+<form id='idMain' name='varMain' method='post' action='./client-state-requested-proc.php?varIdKey=$strIdKey'>
+
+<h4>Выбор пакета консультации</h4>
+<div class='clIndented'>
+  <table>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPackage01' name='varPackage' value='01'></td>
+    <td class='clInputName01'>Полный пакет</td><td  class='clInputName01'><b>${strSourceCurrencySymbol}${strPriceFull}</b> ({$strSourceCurrency} - {$strSourceCurrencyText})</td>
+  </tr>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPackage02' name='varPackage' value='02'></td>
+    <td class='clInputName01'>Базовый пакет</td><td  class='clInputName01'><b>&nbsp;&nbsp;${strSourceCurrencySymbol}${strPriceBasic}</b> ({$strSourceCurrency} - {$strSourceCurrencyText})</td>
+  </tr>
+  </table>
+</div>
+<br>
+<h4>Выбор метода оплаты</h4>
+<div class='clIndented'>
+  <i>(метод оплаты необходимо выбрать для предоставления реквизитов платежа)</i><br>
+
+  <table>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPaymentMethod01' name='varPaymentMethod' value='01'></td>
+    <td class='clInputName01'><img class='clFunds' title='ru' src='https://ayurveda.help/wp-content/themes/ayurveda/images/fl_ru.jpg' alt='ru' />&emsp;<img class='clFunds' title='Сбербанк Карта Mir' src='$strBlog/wp-content/themes/ayurveda/images/fn_sberbank.jpg' alt='Сбербанк Карта Mir' /></td>
+  </tr>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPaymentMethod02' name='varPaymentMethod' value='02'></td>
+    <td class='clInputName01'><img class='clFunds' title='eu' src='https://ayurveda.help/wp-content/themes/ayurveda/images/fl_eu.jpg' alt='eu' />&emsp;<img class='clFunds' title='SEPA' src='$strBlog/wp-content/themes/ayurveda/images/fn_sepa.jpg' alt='SEPA' /></td>
+  </tr>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPaymentMethod03' name='varPaymentMethod' value='03'></td>
+    <td class='clInputName01'><img class='clFunds' title='gl' src='https://ayurveda.help/wp-content/themes/ayurveda/images/fl_gl.jpg' alt='gl' />&emsp;<img class='clFunds' title='Western Union' src='$strBlog/wp-content/themes/ayurveda/images/fn_westernunion.jpg' alt='Western Union' /></td>
+  </tr>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPaymentMethod04' name='varPaymentMethod' value='04'></td>
+    <td class='clInputName01'><img class='clFunds' title='gl' src='https://ayurveda.help/wp-content/themes/ayurveda/images/fl_gl.jpg' alt='gl' />&emsp;<img class='clFunds' title='Золотая корона' src='$strBlog/wp-content/themes/ayurveda/images/fn_korona.jpg' alt='Золотая корона' /></td>
+  </tr>
+  <tr>
+    <td><input class='clRadio' type='radio' id='idPaymentMethod05' name='varPaymentMethod' value='05'></td>
+    <td class='clInputName01'><img class='clFunds' title='ca' src='https://ayurveda.help/wp-content/themes/ayurveda/images/fl_ca.jpg' alt='ca' />&emsp;<img class='clFunds' title='Interac' src='$strBlog/wp-content/themes/ayurveda/images/fn_interac.jpg' alt='Interac' /></td>
+  </tr>
+  </table>
+</div>
+
+<div id='idSubmit'>
+  <input type='button' value='Выбрать' onClick='fncOnLoadClientContacted();'>
+  <input id='idClientNameLast'  name='varClientNameLast'  type='hidden' value='$strClientNameLast'>
+  <input id='idClientNameFirst'  name='varClientNameFirst'  type='hidden' value='$strClientNameFirst'>
+  <input id='idClientEmail'    name='varClientEmail'    type='hidden' value='$strClientEmail'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a onClick='fncExitCabinet();' href='javascript:void(0)'>Выход из кабинета</a>
+</div>

@@ -1,0 +1,190 @@
+# réimporter %[clVerbGroup|1]
+[-
+importer de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|réimport%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|réimport%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|réimport%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||réimport%[m|é]|
+|ayant|réimport%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en réimport%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|réimport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|réimport%[m|e]|
+|tu|réimport%[m|es]|
+|il|réimport%[m|e]|
+|nous|réimport%[m|ons]|
+|vous|réimport%[m|ez]|
+|ils|réimport%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|réimport%[m|é]|
+|tu|as |réimport%[m|é]|
+|il|a|réimport%[m|é]|
+|nous|avons|réimport%[m|é]|
+|vous|avez|réimport%[m|é]|
+|ils|ont|réimport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|réimport%[m|ais]|
+|tu|réimport%[m|ais]|
+|il|réimport%[m|ait]|
+|nous|réimport%[m|ions]|
+|vous|réimport%[m|iez]|
+|ils|réimport%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|réimport%[m|é]|
+|tu|avais|réimport%[m|é]|
+|il|avait|réimport%[m|é]|
+|nous|avions|réimport%[m|é]|
+|vous|aviez|réimport%[m|é]|
+|ils|avaient|réimport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|réimport%[m|ai]|
+|tu|réimport%[m|as]|
+|il|réimport%[m|a]|
+|nous|réimport%[m|âmes]|
+|vous|réimport%[m|âtes]|
+|ils|réimport%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|réimport%[m|é]|
+|tu|eus|réimport%[m|é]|
+|il|eut|réimport%[m|é]|
+|nous|e&ucirc;mes|réimport%[m|é]|
+|vous|e&ucirc;tes|réimport%[m|é]|
+|ils|eurent|réimport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|réimport%[m|erai]|
+|tu|réimport%[m|eras]|
+|il|réimport%[m|era]|
+|nous|réimport%[m|erons]|
+|vous|réimport%[m|erez]|
+|ils|réimport%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|réimport%[m|é]|
+|tu|auras|réimport%[m|é]|
+|il|aura|réimport%[m|é]|
+|nous|aurons|réimport%[m|é]|
+|vous|aurez|réimport%[m|é]|
+|ils|auront|réimport%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|réimport%[m|erais]|
+|tu|réimport%[m|erais]|
+|il|réimport%[m|erait]|
+|nous|réimport%[m|erions]|
+|vous|réimport%[m|eriez]|
+|ils|réimport%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|réimport%[m|é]|
+|tu|aurais|réimport%[m|é]|
+|il|aurait|réimport%[m|é]|
+|nous|aurions|réimport%[m|é]|
+|vous|auriez|réimport%[m|é]|
+|ils|auraient|réimport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|réimport%[m|e]|
+|que|tu|réimport%[m|es]|
+|qu'|il|réimport%[m|e]|
+|que|nous|réimport%[m|ions]|
+|que|vous|réimport%[m|iez]|
+|qu'|ils|réimport%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|réimport%[m|é]|
+|que|tu|aies|réimport%[m|é]|
+|qu'|il|ait|réimport%[m|é]|
+|que|nous|ayons|réimport%[m|é]|
+|que|vous|ayez|réimport%[m|é]|
+|qu'|ils|aient|réimport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|réimport%[m|asse]|
+|que|tu|réimport%[m|asses]|
+|qu'|il|réimport%[m|ât]|
+|que|nous|réimport%[m|assions]|
+|que|vous|réimport%[m|assiez]|
+|qu'|ils|réimport%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|réimport%[m|é]|
+|que|tu|eusses|réimport%[m|é]|
+|qu'|il|eût|réimport%[m|é]|
+|que|nous|eussions|réimport%[m|é]|
+|que|vous|eussiez|réimport%[m|é]|
+|qu'|ils|eussent|réimport%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|réimport%[m|e]|
+|réimport%[m|ons]|
+|réimport%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|réimport%[m|é]|
+|ayons|réimport%[m|é]|
+|ayez|réimport%[m|é]|
+|]
+

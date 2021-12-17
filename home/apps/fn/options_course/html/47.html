@@ -1,0 +1,348 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./46.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./48.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Box Spread</h1>
+
+<p>There are many tools that market-makers use to hedge
+risks, either partially or fully.&nbsp; One of the most
+powerful tools is called a box spread.&nbsp; While this
+particular strategy is not widely used by retail
+investors, it is very useful in determining if your
+vertical spread is priced fairly.</p>
+<p>Another important use of the box spread is for
+investors who place spread orders (please see our
+section on spreads if you are not familiar with these.)&nbsp;
+They often ask, &quot;Do you think I can get filled at
+such-and-such a price?&quot;&nbsp; If you understand the box
+spread, you will be able to immediately determine if
+there is any room for the market makers to work with
+your order.</p>
+<p>If you are a user of spread orders, understanding box
+spreads will be a very helpful tool!</p>
+<h2>The box spread</h2>
+<p>A box spread is a relatively simple strategy.&nbsp; To
+enter into a long box position, all you need to do is
+buy the bull spread and buy the bear spread with the
+same strikes and all other factors the same (if you are
+unsure about bull and bear spreads, please see our
+section on &quot;Basic Spreads.&quot;)</p>
+<p>For example, say a stock is trading at $50.&nbsp; A trader
+could buy the Jan $50 call and sell the Jan $55 call
+(bull spread), and also buy the Jan $55 put and sell the
+Jan $50 put (bear spread.)</p>
+<p>This trade will result in a debit for both spreads.&nbsp;
+What is interesting about this position is that it is
+now <u>guaranteed</u> to be worth $5 (the difference in
+strikes) at expiration (keep in mind this is a
+theoretical price, and in the real world of trading, the
+bid-ask spreads will probably make the value slightly
+less than $5 at expiration).</p>
+<p>How?&nbsp; Think about this:&nbsp; <b>No matter where the stock
+closes, either the $50 call or the $55 put will be
+in-the-money</b>.&nbsp; Because these are the two long
+positions of the box spread, the trader who buys the box
+spread is guaranteed to have a position worth $5 at
+expiration.</p>
+<p>Let's run through some examples if you are still not
+sure:</p>
+<p>If the stock closes at $53, the long $50 call will be
+worth $3 and the long $55 put will be worth $2 for a
+total of $5.&nbsp; The short $55 call and short $50 put will
+expire worthless (if you are not sure why these prices
+must hold, please see our section under &quot;Basic Option
+Pricing&quot;). </p>
+<p>If the stock closes at $51, the $50 call will be
+worth $1, and the $55 put will be worth $4 for a total
+of $5.&nbsp; Again, the two short positions expire worthless.</p>
+<p>What if the stock closes outside the ranges of $50
+and $55?&nbsp; </p>
+<p>If the stock closes at, say, $30, the $55 put will be
+worth $25 and both calls will expire worthless.&nbsp;
+However, the short $50 put now has value.&nbsp; In fact, it
+will be worth $20, which is an obligation because the
+trader is short.&nbsp; So the total value of the position is
++$25 - $20 = $5.&nbsp; </p>
+<p>You can't get around it.&nbsp; No matter where the stock
+closes, the position will be worth the difference in
+strikes, in this case, $5.</p>
+<table cellPadding='18' border='1' id='table4'>
+<tr vAlign='top'>
+<td><b>Question:</b><br>
+Okay, here's one for you to try.&nbsp; What will be
+the value of the above box spread is the stock
+is trading for $100 at expiration?&nbsp; How would
+you show it?&nbsp; (Answers at the end.)</td>
+</tr>
+</table>
+<h2>Pricing a box spread</h2>
+<p>Now that we know the mechanics of the box spread, how
+can we use it to help with our trading?</p>
+<p>It is now October 31 and say you are interested in
+SCMR, which is currently $58-3/8, with the following
+quotes available for options:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table5'>
+<tr>
+<td v>&nbsp;</td>
+<td v>
+<p align='center'><b>BID</b></td>
+<td v>
+<p align='center'><b>ASK</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Dec $55 Call</b></td>
+<td v>
+<p align='center'>$12-7/8</td>
+<td v>
+<p align='center'>$13-7/8</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Dec $65 Call</b></td>
+<td v>
+<p align='center'>$8-7/8</td>
+<td v>
+<p align='center'>$9-5/8</td>
+</tr>
+<tr>
+<td v>&nbsp;</td>
+<td v>&nbsp;</td>
+<td v>&nbsp;</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Dec $55 Put</b></td>
+<td v>
+<p align='center'>$8-3/4</td>
+<td v>
+<p align='center'>$9-1/2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Dec $65 Put</b></td>
+<td v>
+<p align='center'>$14-3/4</td>
+<td v>
+<p align='center'>$15-3/4</td>
+</tr>
+</table>
+<p>Let's say you are bullish on SCMR and want to place a
+$55/$65 bull spread:</p>
+<p>Buy Dec $55 Calls =&nbsp;&nbsp;&nbsp;$13-7/8<br>
+Sell Dec $65 Calls =&nbsp;&nbsp;&nbsp;$ <u>&nbsp;8-7/8</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$&nbsp;&nbsp;5</p>
+<p>Is this being priced fairly?&nbsp; Is it likely we will
+get filled if we put a net debit of $4-3/4?</p>
+<p>In order to answer these questions, let's look at the
+other side of the box spread:<br>
+&nbsp;</p>
+<p>Buy Dec $65 Puts =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$15-3/4 <br>
+Sell Dec $55 Puts = &nbsp;&nbsp;&nbsp;&nbsp;$<u>&nbsp;&nbsp;8-3/4</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$&nbsp;&nbsp;7</p>
+<p>Now, you will pay $5 for the bull spread and $7 for
+the bear spread for a total debit of $12, which is
+guaranteed to fall to a value of $10 at expiration!&nbsp; So
+with the current bid/ask spreads, this box is not being
+priced fairly.&nbsp; In fact, this is most often the case and
+the primary reason the box spread is not a popular tool
+for retail investors.</p>
+<p>Let's see what the market makers are trying to do.&nbsp;
+Remember, the bid represents what they are willing to
+pay, and the ask what they are willing to sell.&nbsp; So,
+from the market-makers perspective, here is how the box
+spread looks:</p>
+<p>Buy Dec $55 Calls =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$12-7/8<br>
+Sell Dec $65 Calls =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$<u>&nbsp;9-5/8</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$ 3-1/4</p>
+<p>Buy Dec $65 Puts =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$14-3/4 <br>
+Sell Dec $55 Puts =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$<u>&nbsp;&nbsp;9-1/2</u><br>
+Net debit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$&nbsp;&nbsp;5-1/4</p>
+<p>The market makers want to complete the box spread for
+a total of $8 1/2 points, which is guaranteed to grow to
+a value of $10.</p>
+<p>On the surface, it appears to be a pretty good deal.&nbsp;
+Let's see just how good it is.&nbsp; </p>
+<p>Remember, it is October 31 and we are looking at
+December options, which will expire in 45 days.&nbsp; That
+actually works out to be 17.6% simple interest, or a
+whopping 267% annualized rate of return -- which
+certainly beats the guaranteed rates on T-bills.</p>
+<p>So to answer the second question: yes there is
+certainly a lot of room to work with on the bull spread.</p>
+<p>Let's go a step further.&nbsp; Just how much room is
+there?&nbsp; One useful method is to start with what the
+spread &quot;should&quot; cost.&nbsp; If the spread is guaranteed, it
+should earn the risk-free rate (roughly 6%).&nbsp; So the
+value of $10 guaranteed in 45 days is about $9.93, which
+is roughly $1.17 above the $8-3/4 price the market
+makers are trying to pay.&nbsp; </p>
+<p>In a case like this, it is very feasible to get 1/2
+point or maybe more off of this spread.&nbsp; </p>
+<p>Please remember, <u>any</u> limit order, no matter
+how close to the market, is not guaranteed to fill,&nbsp; so,
+if you really need to get into or out of a trade, use
+caution in applying this method.&nbsp; This pricing method is
+a great tool for analyzing the potential for all traders
+who like to use limit orders. </p>
+<h2>Uses of the box spread</h2>
+<p>Why would a market maker enter into a box spread?&nbsp;
+The box spread is effectively a way for market makers to
+borrow or lend money.&nbsp; If a market maker sells a box
+spread, they are effectively borrowing money.&nbsp; They
+receive a credit and must pay back the value of the box
+at expiration.&nbsp; Similarly, if they buy a box spread,
+they are loaning money.&nbsp; They will pay money but receive
+a guaranteed return at expiration.&nbsp; </p>
+<p>Of course, the market makers will price the boxes in
+their favor and either buy it below or sell it above the
+theoretical fair value.</p>
+<p>For example, say a $90/$100 <i>box</i> is priced at
+$9.&nbsp; If the $90/$100 <i>put</i> spread is priced at $4,
+the $90/$100 <i>call</i> spread should be worth $5.&nbsp;
+However, the market maker may bid $4-3/4 and ask $5-1/4
+for the call spread.&nbsp; This way, regardless of whether he
+buys or sells the call spread, he is either borrowing at
+less than (or loaning for a higher rate of) current
+risk-free rates by completing the box.&nbsp; For instance, if
+he buys the call spread for $4-3/4, he will buy the put
+spread for $4 and thus pay only $8-3/4 for a box
+position worth $9, and effectively loan money for higher
+than the risk-free rate.&nbsp; Likewise, if he sells the bull
+spread for $5-1/4, he will sell the bear spread for $4
+thereby completing the box for $9-1/4.&nbsp; Now the market
+maker has sold a box worth $9 for $9-1/4 and effectively
+borrowed money for less than the risk-free rate.</p>
+<h2>Other views of the box spread</h2>
+<p>We said earlier that a long box spread could be
+viewed as a long bull spread matched with a long bear
+spread.&nbsp; There are two other ways to view boxes, and
+depending on your situation, one or the other may be
+more helpful.&nbsp; </p>
+<p>One way to see it as a conversion at one strike and a
+reversal at another.&nbsp; For example, if a trader is short
+stock at $50, long $50 calls and short the $50 puts, he
+has a reversal at $50.&nbsp; If he subsequently buys stock at
+$60 with long $60 puts and short $60 calls, he has a $60
+conversion.</p>
+<p>Notice that the long and short stock positions cancel
+out, leaving the trader with long $50 calls and short
+$50 puts (synthetic long position) with long $60 puts
+and short $60 calls (synthetic short position).</p>
+<table cellPadding='18' border='1' id='table6'>
+<tr vAlign='top'>
+<td>
+<table cellSpacing='0' cellPadding='0' border='0' id='table7'>
+<tr>
+<td vAlign='top' align='left'>
+<div align='left'>
+<b>$50 reversal&nbsp;</b></div>
+</td>
+<td vAlign='top' align='left'>
+<div align='left'>
+<b>$60 conversion</b></div>
+</td>
+</tr>
+<tr vAlign='top' align='left'>
+<td>
+<div align='left'>
+<s>Short 1,000
+shares at $50</s></div>
+</td>
+<td>
+<div align='left'>
+<s>Long 1,000
+shares at $60</s></div>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr vAlign='top' align='left'>
+<td>
+<div align='left'>
+Long 10 $50 calls
+</div>
+</td>
+<td>
+<div align='left'>
+Long 10 $60 puts </div>
+</td>
+</tr>
+<tr vAlign='top' align='left'>
+<td>
+<div align='left'>
+Short 10 $50 puts</div>
+</td>
+<td>
+<div align='left'>
+Short 10 $60 calls</div>
+</td>
+</tr>
+</table>
+<p><i>The long and short stock positions cancel
+each other out (shown in red).&nbsp; The remaining
+positions are a synthetic long position (blue)
+at $50 and a synthetic short position (black) at
+$60.&nbsp; Notice the embedded bull and bear spreads
+(long $50 call and short $60 call, long $60 put
+and short $50 put).</i></td>
+</tr>
+</table>
+<p>Of course, a long position matched with a short
+position cancels each other.&nbsp; This holds true whether
+it's actual stock or synthetic versions.&nbsp; The trader who
+is synthetic long at $50 and synthetic short at $60 has
+effectively purchased stock at $50 and sold at $60.&nbsp;
+Bear in mind this is not as good as it seems, as the
+trader was also short stock at $50 and long at $60.&nbsp; The
+profits or losses come for the total reversal and
+conversion prices.</p>
+<p>If you trade spreads, take the time to really
+understand box positions, as it will make all the
+difference in the world in your understanding of spread
+pricing.&nbsp; Once you have a handle on that, you will be
+able to make more knowledgeable decisions as to which
+limits to use with your orders.</p>
+<table cellPadding='18' border='1' id='table8'>
+<tr vAlign='top'>
+<td><b>Answers:</b><br>
+What will be the value of the above box spread
+if the stock is trading for $100 at expiration?&nbsp;
+How would you show it?<p>The question was
+referring to the $50/$55 box spread.&nbsp; The value
+of the box spread must be worth $5 -- the
+difference in strikes -- at expiration.&nbsp; To
+prove it, if the stock is trading at $100, the
+long $50 call will be worth $50 and the short
+$55 call (which is an obligation) will be worth
+$45.&nbsp; Both puts, the $50 and $55, will expire
+worthless because they are out-of-the-money.&nbsp; So
+the total value to the trader will be +$50 - $45
+= $5</td>
+</tr>
+</table>
+</p>
+
+</div>
+</div>
+</body>
+</html>

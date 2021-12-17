@@ -1,0 +1,190 @@
+# s'esbaudir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'esbaud%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|esbaud%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'esbaud%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|esbaud%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'esbaud%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|esbaud%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|esbaud%[m|is]|
+|tu|t'|esbaud%[m|is]|
+|il|s'|esbaud%[m|it]|
+|nous|nous|esbaud%[m|issons]|
+|vous|vous|esbaud%[m|issez]|
+|ils|s'|esbaud%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|esbaud%[m|i]|
+|tu|t'|es|esbaud%[m|i]|
+|il|s'|est|esbaud%[m|i]|
+|nous|nous|sommes|esbaud%[m|is]|
+|vous|vous|êtes|esbaud%[m|is]|
+|ils|se|sont|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|esbaud%[m|issais]|
+|tu|t'|esbaud%[m|issais]|
+|il|s'|esbaud%[m|issait]|
+|nous|nous|esbaud%[m|issions]|
+|vous|vous|esbaud%[m|issiez]|
+|ils|s'|esbaud%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|esbaud%[m|i]|
+|tu|t'|étais|esbaud%[m|i]|
+|il|s'|était|esbaud%[m|i]|
+|nous|nous|étions|esbaud%[m|is]|
+|vous|vous|étiez|esbaud%[m|is]|
+|ils|s'|étaient|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|esbaud%[m|is]|
+|tu|t'|esbaud%[m|is]|
+|il|s'|esbaud%[m|it]|
+|nous|nous|esbaud%[m|îmes]|
+|vous|vous|esbaud%[m|îtes]|
+|ils|s'|esbaud%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|esbaud%[m|i]|
+|tu|te|fus|esbaud%[m|i]|
+|il|se|fut|esbaud%[m|i]|
+|nous|nous|fûmes|esbaud%[m|is]|
+|vous|vous|fûtes|esbaud%[m|is]|
+|ils|se|furent|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|esbaud%[m|irai]|
+|tu|t'|esbaud%[m|iras]|
+|il|s'|esbaud%[m|ira]|
+|nous|nous|esbaud%[m|irons]|
+|vous|vous|esbaud%[m|irez]|
+|ils|s'|esbaud%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|esbaud%[m|i]|
+|tu|te|seras|esbaud%[m|i]|
+|il|se|sera|esbaud%[m|i]|
+|nous|nous|serons|esbaud%[m|is]|
+|vous|vous|serez|esbaud%[m|is]|
+|ils|se|seront|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|esbaud%[m|irais]|
+|tu|t'|esbaud%[m|irais]|
+|il|s'|esbaud%[m|irait]|
+|nous|nous|esbaud%[m|irions]|
+|vous|vous|esbaud%[m|iriez]|
+|ils|s'|esbaud%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|esbaud%[m|i]|
+|tu|te|serais|esbaud%[m|i]|
+|il|se|serait|esbaud%[m|i]|
+|nous|nous|serions|esbaud%[m|is]|
+|vous|vous|seriez|esbaud%[m|is]|
+|ils|se|seraient|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|esbaud%[m|isse]|
+|que|tu|t'|esbaud%[m|isses]|
+|qu'|il|s'|esbaud%[m|isse]|
+|que|nous|nous|esbaud%[m|issions]|
+|que|vous|vous|esbaud%[m|issiez]|
+|qu'|ils|s'|esbaud%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|esbaud%[m|i]|
+|que|tu|te|sois|esbaud%[m|i]|
+|qu'|il|se|soit|esbaud%[m|i]|
+|que|nous|nous|soyons|esbaud%[m|is]|
+|que|vous|vous|soyez|esbaud%[m|is]|
+|qu'|ils|se|soient|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|esbaud%[m|isse]|
+|que|tu|t'|esbaud%[m|isses]|
+|qu'|il|s'|esbaud%[m|ît]|
+|que|nous|nous|esbaud%[m|issions]|
+|que|vous|vous|esbaud%[m|issiez]|
+|qu'|ils|s'|esbaud%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|esbaud%[m|i]|
+|que|tu|te|fusses|esbaud%[m|i]|
+|qu'|il|se|fût|esbaud%[m|i]|
+|que|nous|nous|fussions|esbaud%[m|is]|
+|que|vous|vous|fussiez|esbaud%[m|is]|
+|qu'|ils|se|fussent|esbaud%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|esbaud%[m|is]-toi|
+|esbaud%[m|issons]-nous|
+|esbaud%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

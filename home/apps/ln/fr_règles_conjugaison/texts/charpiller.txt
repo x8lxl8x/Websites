@@ -1,0 +1,190 @@
+# charpiller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|charpill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|charpill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|charpill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||charpill%[m|é]|
+|ayant|charpill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en charpill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|charpill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|charpill%[m|e]|
+|tu|charpill%[m|es]|
+|il|charpill%[m|e]|
+|nous|charpill%[m|ons]|
+|vous|charpill%[m|ez]|
+|ils|charpill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|charpill%[m|é]|
+|tu|as |charpill%[m|é]|
+|il|a|charpill%[m|é]|
+|nous|avons|charpill%[m|é]|
+|vous|avez|charpill%[m|é]|
+|ils|ont|charpill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|charpill%[m|ais]|
+|tu|charpill%[m|ais]|
+|il|charpill%[m|ait]|
+|nous|charpill%[m|ions]|
+|vous|charpill%[m|iez]|
+|ils|charpill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|charpill%[m|é]|
+|tu|avais|charpill%[m|é]|
+|il|avait|charpill%[m|é]|
+|nous|avions|charpill%[m|é]|
+|vous|aviez|charpill%[m|é]|
+|ils|avaient|charpill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|charpill%[m|ai]|
+|tu|charpill%[m|as]|
+|il|charpill%[m|a]|
+|nous|charpill%[m|âmes]|
+|vous|charpill%[m|âtes]|
+|ils|charpill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|charpill%[m|é]|
+|tu|eus|charpill%[m|é]|
+|il|eut|charpill%[m|é]|
+|nous|e&ucirc;mes|charpill%[m|é]|
+|vous|e&ucirc;tes|charpill%[m|é]|
+|ils|eurent|charpill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|charpill%[m|erai]|
+|tu|charpill%[m|eras]|
+|il|charpill%[m|era]|
+|nous|charpill%[m|erons]|
+|vous|charpill%[m|erez]|
+|ils|charpill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|charpill%[m|é]|
+|tu|auras|charpill%[m|é]|
+|il|aura|charpill%[m|é]|
+|nous|aurons|charpill%[m|é]|
+|vous|aurez|charpill%[m|é]|
+|ils|auront|charpill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|charpill%[m|erais]|
+|tu|charpill%[m|erais]|
+|il|charpill%[m|erait]|
+|nous|charpill%[m|erions]|
+|vous|charpill%[m|eriez]|
+|ils|charpill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|charpill%[m|é]|
+|tu|aurais|charpill%[m|é]|
+|il|aurait|charpill%[m|é]|
+|nous|aurions|charpill%[m|é]|
+|vous|auriez|charpill%[m|é]|
+|ils|auraient|charpill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|charpill%[m|e]|
+|que|tu|charpill%[m|es]|
+|qu'|il|charpill%[m|e]|
+|que|nous|charpill%[m|ions]|
+|que|vous|charpill%[m|iez]|
+|qu'|ils|charpill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|charpill%[m|é]|
+|que|tu|aies|charpill%[m|é]|
+|qu'|il|ait|charpill%[m|é]|
+|que|nous|ayons|charpill%[m|é]|
+|que|vous|ayez|charpill%[m|é]|
+|qu'|ils|aient|charpill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|charpill%[m|asse]|
+|que|tu|charpill%[m|asses]|
+|qu'|il|charpill%[m|ât]|
+|que|nous|charpill%[m|assions]|
+|que|vous|charpill%[m|assiez]|
+|qu'|ils|charpill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|charpill%[m|é]|
+|que|tu|eusses|charpill%[m|é]|
+|qu'|il|eût|charpill%[m|é]|
+|que|nous|eussions|charpill%[m|é]|
+|que|vous|eussiez|charpill%[m|é]|
+|qu'|ils|eussent|charpill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|charpill%[m|e]|
+|charpill%[m|ons]|
+|charpill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|charpill%[m|é]|
+|ayons|charpill%[m|é]|
+|ayez|charpill%[m|é]|
+|]
+

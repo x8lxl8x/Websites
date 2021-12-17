@@ -1,0 +1,190 @@
+# gifler %[clVerbGroup|1]
+[-
+donner une gifle. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|gifl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|gifl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|gifl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||gifl%[m|é]|
+|ayant|gifl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en gifl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|gifl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|gifl%[m|e]|
+|tu|gifl%[m|es]|
+|il|gifl%[m|e]|
+|nous|gifl%[m|ons]|
+|vous|gifl%[m|ez]|
+|ils|gifl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|gifl%[m|é]|
+|tu|as |gifl%[m|é]|
+|il|a|gifl%[m|é]|
+|nous|avons|gifl%[m|é]|
+|vous|avez|gifl%[m|é]|
+|ils|ont|gifl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|gifl%[m|ais]|
+|tu|gifl%[m|ais]|
+|il|gifl%[m|ait]|
+|nous|gifl%[m|ions]|
+|vous|gifl%[m|iez]|
+|ils|gifl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|gifl%[m|é]|
+|tu|avais|gifl%[m|é]|
+|il|avait|gifl%[m|é]|
+|nous|avions|gifl%[m|é]|
+|vous|aviez|gifl%[m|é]|
+|ils|avaient|gifl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|gifl%[m|ai]|
+|tu|gifl%[m|as]|
+|il|gifl%[m|a]|
+|nous|gifl%[m|âmes]|
+|vous|gifl%[m|âtes]|
+|ils|gifl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|gifl%[m|é]|
+|tu|eus|gifl%[m|é]|
+|il|eut|gifl%[m|é]|
+|nous|e&ucirc;mes|gifl%[m|é]|
+|vous|e&ucirc;tes|gifl%[m|é]|
+|ils|eurent|gifl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|gifl%[m|erai]|
+|tu|gifl%[m|eras]|
+|il|gifl%[m|era]|
+|nous|gifl%[m|erons]|
+|vous|gifl%[m|erez]|
+|ils|gifl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|gifl%[m|é]|
+|tu|auras|gifl%[m|é]|
+|il|aura|gifl%[m|é]|
+|nous|aurons|gifl%[m|é]|
+|vous|aurez|gifl%[m|é]|
+|ils|auront|gifl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|gifl%[m|erais]|
+|tu|gifl%[m|erais]|
+|il|gifl%[m|erait]|
+|nous|gifl%[m|erions]|
+|vous|gifl%[m|eriez]|
+|ils|gifl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|gifl%[m|é]|
+|tu|aurais|gifl%[m|é]|
+|il|aurait|gifl%[m|é]|
+|nous|aurions|gifl%[m|é]|
+|vous|auriez|gifl%[m|é]|
+|ils|auraient|gifl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|gifl%[m|e]|
+|que|tu|gifl%[m|es]|
+|qu'|il|gifl%[m|e]|
+|que|nous|gifl%[m|ions]|
+|que|vous|gifl%[m|iez]|
+|qu'|ils|gifl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|gifl%[m|é]|
+|que|tu|aies|gifl%[m|é]|
+|qu'|il|ait|gifl%[m|é]|
+|que|nous|ayons|gifl%[m|é]|
+|que|vous|ayez|gifl%[m|é]|
+|qu'|ils|aient|gifl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|gifl%[m|asse]|
+|que|tu|gifl%[m|asses]|
+|qu'|il|gifl%[m|ât]|
+|que|nous|gifl%[m|assions]|
+|que|vous|gifl%[m|assiez]|
+|qu'|ils|gifl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|gifl%[m|é]|
+|que|tu|eusses|gifl%[m|é]|
+|qu'|il|eût|gifl%[m|é]|
+|que|nous|eussions|gifl%[m|é]|
+|que|vous|eussiez|gifl%[m|é]|
+|qu'|ils|eussent|gifl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|gifl%[m|e]|
+|gifl%[m|ons]|
+|gifl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|gifl%[m|é]|
+|ayons|gifl%[m|é]|
+|ayez|gifl%[m|é]|
+|]
+

@@ -1,0 +1,79 @@
+.clIndexH1
+{
+  margin:               1.000rem 0.000rem 1.500rem 0.000rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+}
+
+.clIndexH3
+{
+  color:                #aa0000;
+  font-weight:          600;
+  margin:               1.000rem 0.000rem 1.000rem 0.000rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+}
+
+.clIndexCount
+{
+  color:                #555555;
+  font-weight:          400;
+  font-size:            small;
+  margin:               0.000rem 0.000rem 0.000rem 0.500rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+}
+
+.clIndexGroup
+{
+  color:                #555555;
+  font-size:            60%;
+  vertical-align:      -20%;
+}
+
+.clIndex a,
+.clIndex a:visited
+{
+  color:                #aa0000;
+  text-decoration:      none;
+}
+
+.clIndex a:hover
+{
+  color:                #ff0000;
+  text-decoration:      none;
+}
+
+.clVerbGroup
+{
+  color:                #555555;
+  font-size:            60%;
+  vertical-align:      -20%
+}
+
+.clIndexRu
+{
+  color:                #333333;
+}
+
+h3
+{
+  font-size:            1.000rem;
+  margin:               0.000rem 0.000rem 0.500rem 0.000rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+}
+
+.clType
+{
+  color:                #0D800F;
+}
+
+a,
+a:visited
+{
+  color:                #000000;
+  text-decoration:      none;
+}
+
+a:hover
+{
+  color:                #dd0000;
+  text-decoration:      none;
+}

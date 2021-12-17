@@ -1,0 +1,191 @@
+# rancarder %[clVerbGroup|1]
+[-
+confier un renseignement secret. 
+donner un rendez-vous. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rancard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rancard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rancard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rancard%[m|é]|
+|ayant|rancard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rancard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rancard%[m|e]|
+|tu|rancard%[m|es]|
+|il|rancard%[m|e]|
+|nous|rancard%[m|ons]|
+|vous|rancard%[m|ez]|
+|ils|rancard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rancard%[m|é]|
+|tu|as |rancard%[m|é]|
+|il|a|rancard%[m|é]|
+|nous|avons|rancard%[m|é]|
+|vous|avez|rancard%[m|é]|
+|ils|ont|rancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rancard%[m|ais]|
+|tu|rancard%[m|ais]|
+|il|rancard%[m|ait]|
+|nous|rancard%[m|ions]|
+|vous|rancard%[m|iez]|
+|ils|rancard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rancard%[m|é]|
+|tu|avais|rancard%[m|é]|
+|il|avait|rancard%[m|é]|
+|nous|avions|rancard%[m|é]|
+|vous|aviez|rancard%[m|é]|
+|ils|avaient|rancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rancard%[m|ai]|
+|tu|rancard%[m|as]|
+|il|rancard%[m|a]|
+|nous|rancard%[m|âmes]|
+|vous|rancard%[m|âtes]|
+|ils|rancard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rancard%[m|é]|
+|tu|eus|rancard%[m|é]|
+|il|eut|rancard%[m|é]|
+|nous|e&ucirc;mes|rancard%[m|é]|
+|vous|e&ucirc;tes|rancard%[m|é]|
+|ils|eurent|rancard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rancard%[m|erai]|
+|tu|rancard%[m|eras]|
+|il|rancard%[m|era]|
+|nous|rancard%[m|erons]|
+|vous|rancard%[m|erez]|
+|ils|rancard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rancard%[m|é]|
+|tu|auras|rancard%[m|é]|
+|il|aura|rancard%[m|é]|
+|nous|aurons|rancard%[m|é]|
+|vous|aurez|rancard%[m|é]|
+|ils|auront|rancard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rancard%[m|erais]|
+|tu|rancard%[m|erais]|
+|il|rancard%[m|erait]|
+|nous|rancard%[m|erions]|
+|vous|rancard%[m|eriez]|
+|ils|rancard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rancard%[m|é]|
+|tu|aurais|rancard%[m|é]|
+|il|aurait|rancard%[m|é]|
+|nous|aurions|rancard%[m|é]|
+|vous|auriez|rancard%[m|é]|
+|ils|auraient|rancard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rancard%[m|e]|
+|que|tu|rancard%[m|es]|
+|qu'|il|rancard%[m|e]|
+|que|nous|rancard%[m|ions]|
+|que|vous|rancard%[m|iez]|
+|qu'|ils|rancard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rancard%[m|é]|
+|que|tu|aies|rancard%[m|é]|
+|qu'|il|ait|rancard%[m|é]|
+|que|nous|ayons|rancard%[m|é]|
+|que|vous|ayez|rancard%[m|é]|
+|qu'|ils|aient|rancard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rancard%[m|asse]|
+|que|tu|rancard%[m|asses]|
+|qu'|il|rancard%[m|ât]|
+|que|nous|rancard%[m|assions]|
+|que|vous|rancard%[m|assiez]|
+|qu'|ils|rancard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rancard%[m|é]|
+|que|tu|eusses|rancard%[m|é]|
+|qu'|il|eût|rancard%[m|é]|
+|que|nous|eussions|rancard%[m|é]|
+|que|vous|eussiez|rancard%[m|é]|
+|qu'|ils|eussent|rancard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rancard%[m|e]|
+|rancard%[m|ons]|
+|rancard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rancard%[m|é]|
+|ayons|rancard%[m|é]|
+|ayez|rancard%[m|é]|
+|]
+

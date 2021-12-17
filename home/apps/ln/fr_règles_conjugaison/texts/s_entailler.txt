@@ -1,0 +1,190 @@
+# s'entailler %[clVerbGroup|1]
+[-
+faire une entaille dans. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'entaill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|entaill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'entaill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|entaill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'entaill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|entaill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|entaill%[m|e]|
+|tu|t'|entaill%[m|es]|
+|il|s'|entaill%[m|e]|
+|nous|nous|entaill%[m|ons]|
+|vous|vous|entaill%[m|ez]|
+|ils|s'|entaill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|entaill%[m|é]|
+|tu|t'|es|entaill%[m|é]|
+|il|s'|est|entaill%[m|é]|
+|nous|nous|sommes|entaill%[m|és]|
+|vous|vous|êtes|entaill%[m|és]|
+|ils|se|sont|entaill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|entaill%[m|ais]|
+|tu|t'|entaill%[m|ais]|
+|il|s'|entaill%[m|ait]|
+|nous|nous|entaill%[m|ions]|
+|vous|vous|entaill%[m|iez]|
+|ils|s'|entaill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|entaill%[m|é]|
+|tu|t'|étais|entaill%[m|é]|
+|il|s'|était|entaill%[m|é]|
+|nous|nous|étions|entaill%[m|és]|
+|vous|vous|étiez|entaill%[m|és]|
+|ils|s'|étaient|entaill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|entaill%[m|ai]|
+|tu|t'|entaill%[m|as]|
+|il|s'|entaill%[m|a]|
+|nous|nous|entaill%[m|âmes]|
+|vous|vous|entaill%[m|âtes]|
+|ils|s'|entaill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|entaill%[m|é]|
+|tu|te|fus|entaill%[m|é]|
+|il|se|fut|entaill%[m|é]|
+|nous|nous|fûmes|entaill%[m|és]|
+|vous|vous|fûtes|entaill%[m|és]|
+|ils|se|furent|entaill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|entaill%[m|erai]|
+|tu|t'|entaill%[m|eras]|
+|il|s'|entaill%[m|era]|
+|nous|nous|entaill%[m|erons]|
+|vous|vous|entaill%[m|erez]|
+|ils|s'|entaill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|entaill%[m|é]|
+|tu|te|seras|entaill%[m|é]|
+|il|se|sera|entaill%[m|é]|
+|nous|nous|serons|entaill%[m|és]|
+|vous|vous|serez|entaill%[m|és]|
+|ils|se|seront|entaill%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|entaill%[m|erais]|
+|tu|t'|entaill%[m|erais]|
+|il|s'|entaill%[m|erait]|
+|nous|nous|entaill%[m|erions]|
+|vous|vous|entaill%[m|eriez]|
+|ils|s'|entaill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|entaill%[m|é]|
+|tu|te|serais|entaill%[m|é]|
+|il|se|serait|entaill%[m|é]|
+|nous|nous|serions|entaill%[m|és]|
+|vous|vous|seriez|entaill%[m|és]|
+|ils|se|seraient|entaill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|entaill%[m|e]|
+|que|tu|t'|entaill%[m|es]|
+|qu'|il|s'|entaill%[m|e]|
+|que|nous|nous|entaill%[m|ions]|
+|que|vous|vous|entaill%[m|iez]|
+|qu'|ils|s'|entaill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|entaill%[m|é]|
+|que|tu|te|sois|entaill%[m|é]|
+|qu'|il|se|soit|entaill%[m|é]|
+|que|nous|nous|soyons|entaill%[m|és]|
+|que|vous|vous|soyez|entaill%[m|és]|
+|qu'|ils|se|soient|entaill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|entaill%[m|asse]|
+|que|tu|t'|entaill%[m|asses]|
+|qu'|il|s'|entaill%[m|ât]|
+|que|nous|nous|entaill%[m|assions]|
+|que|vous|vous|entaill%[m|assiez]|
+|qu'|ils|s'|entaill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|entaill%[m|é]|
+|que|tu|te|fusses|entaill%[m|é]|
+|qu'|il|se|fût|entaill%[m|é]|
+|que|nous|nous|fussions|entaill%[m|és]|
+|que|vous|vous|fussiez|entaill%[m|és]|
+|qu'|ils|se|fussent|entaill%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|entaill%[m|e]-toi|
+|entaill%[m|ons]-nous|
+|entaill%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

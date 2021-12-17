@@ -1,0 +1,190 @@
+# anticiper %[clVerbGroup|1]
+[-
+faire avant le moment prévu. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|anticip%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|anticip%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|anticip%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||anticip%[m|é]|
+|ayant|anticip%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en anticip%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|anticip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|anticip%[m|e]|
+|tu|anticip%[m|es]|
+|il|anticip%[m|e]|
+|nous|anticip%[m|ons]|
+|vous|anticip%[m|ez]|
+|ils|anticip%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|anticip%[m|é]|
+|tu|as |anticip%[m|é]|
+|il|a|anticip%[m|é]|
+|nous|avons|anticip%[m|é]|
+|vous|avez|anticip%[m|é]|
+|ils|ont|anticip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|anticip%[m|ais]|
+|tu|anticip%[m|ais]|
+|il|anticip%[m|ait]|
+|nous|anticip%[m|ions]|
+|vous|anticip%[m|iez]|
+|ils|anticip%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|anticip%[m|é]|
+|tu|avais|anticip%[m|é]|
+|il|avait|anticip%[m|é]|
+|nous|avions|anticip%[m|é]|
+|vous|aviez|anticip%[m|é]|
+|ils|avaient|anticip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|anticip%[m|ai]|
+|tu|anticip%[m|as]|
+|il|anticip%[m|a]|
+|nous|anticip%[m|âmes]|
+|vous|anticip%[m|âtes]|
+|ils|anticip%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|anticip%[m|é]|
+|tu|eus|anticip%[m|é]|
+|il|eut|anticip%[m|é]|
+|nous|e&ucirc;mes|anticip%[m|é]|
+|vous|e&ucirc;tes|anticip%[m|é]|
+|ils|eurent|anticip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|anticip%[m|erai]|
+|tu|anticip%[m|eras]|
+|il|anticip%[m|era]|
+|nous|anticip%[m|erons]|
+|vous|anticip%[m|erez]|
+|ils|anticip%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|anticip%[m|é]|
+|tu|auras|anticip%[m|é]|
+|il|aura|anticip%[m|é]|
+|nous|aurons|anticip%[m|é]|
+|vous|aurez|anticip%[m|é]|
+|ils|auront|anticip%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|anticip%[m|erais]|
+|tu|anticip%[m|erais]|
+|il|anticip%[m|erait]|
+|nous|anticip%[m|erions]|
+|vous|anticip%[m|eriez]|
+|ils|anticip%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|anticip%[m|é]|
+|tu|aurais|anticip%[m|é]|
+|il|aurait|anticip%[m|é]|
+|nous|aurions|anticip%[m|é]|
+|vous|auriez|anticip%[m|é]|
+|ils|auraient|anticip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|anticip%[m|e]|
+|que|tu|anticip%[m|es]|
+|qu'|il|anticip%[m|e]|
+|que|nous|anticip%[m|ions]|
+|que|vous|anticip%[m|iez]|
+|qu'|ils|anticip%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|anticip%[m|é]|
+|que|tu|aies|anticip%[m|é]|
+|qu'|il|ait|anticip%[m|é]|
+|que|nous|ayons|anticip%[m|é]|
+|que|vous|ayez|anticip%[m|é]|
+|qu'|ils|aient|anticip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|anticip%[m|asse]|
+|que|tu|anticip%[m|asses]|
+|qu'|il|anticip%[m|ât]|
+|que|nous|anticip%[m|assions]|
+|que|vous|anticip%[m|assiez]|
+|qu'|ils|anticip%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|anticip%[m|é]|
+|que|tu|eusses|anticip%[m|é]|
+|qu'|il|eût|anticip%[m|é]|
+|que|nous|eussions|anticip%[m|é]|
+|que|vous|eussiez|anticip%[m|é]|
+|qu'|ils|eussent|anticip%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|anticip%[m|e]|
+|anticip%[m|ons]|
+|anticip%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|anticip%[m|é]|
+|ayons|anticip%[m|é]|
+|ayez|anticip%[m|é]|
+|]
+

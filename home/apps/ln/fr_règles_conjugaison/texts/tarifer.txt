@@ -1,0 +1,190 @@
+# tarifer %[clVerbGroup|1]
+[-
+fixer un prix, un tarif. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tarif%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tarif%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tarif%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tarif%[m|é]|
+|ayant|tarif%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tarif%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tarif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tarif%[m|e]|
+|tu|tarif%[m|es]|
+|il|tarif%[m|e]|
+|nous|tarif%[m|ons]|
+|vous|tarif%[m|ez]|
+|ils|tarif%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tarif%[m|é]|
+|tu|as |tarif%[m|é]|
+|il|a|tarif%[m|é]|
+|nous|avons|tarif%[m|é]|
+|vous|avez|tarif%[m|é]|
+|ils|ont|tarif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tarif%[m|ais]|
+|tu|tarif%[m|ais]|
+|il|tarif%[m|ait]|
+|nous|tarif%[m|ions]|
+|vous|tarif%[m|iez]|
+|ils|tarif%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tarif%[m|é]|
+|tu|avais|tarif%[m|é]|
+|il|avait|tarif%[m|é]|
+|nous|avions|tarif%[m|é]|
+|vous|aviez|tarif%[m|é]|
+|ils|avaient|tarif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tarif%[m|ai]|
+|tu|tarif%[m|as]|
+|il|tarif%[m|a]|
+|nous|tarif%[m|âmes]|
+|vous|tarif%[m|âtes]|
+|ils|tarif%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tarif%[m|é]|
+|tu|eus|tarif%[m|é]|
+|il|eut|tarif%[m|é]|
+|nous|e&ucirc;mes|tarif%[m|é]|
+|vous|e&ucirc;tes|tarif%[m|é]|
+|ils|eurent|tarif%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tarif%[m|erai]|
+|tu|tarif%[m|eras]|
+|il|tarif%[m|era]|
+|nous|tarif%[m|erons]|
+|vous|tarif%[m|erez]|
+|ils|tarif%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tarif%[m|é]|
+|tu|auras|tarif%[m|é]|
+|il|aura|tarif%[m|é]|
+|nous|aurons|tarif%[m|é]|
+|vous|aurez|tarif%[m|é]|
+|ils|auront|tarif%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tarif%[m|erais]|
+|tu|tarif%[m|erais]|
+|il|tarif%[m|erait]|
+|nous|tarif%[m|erions]|
+|vous|tarif%[m|eriez]|
+|ils|tarif%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tarif%[m|é]|
+|tu|aurais|tarif%[m|é]|
+|il|aurait|tarif%[m|é]|
+|nous|aurions|tarif%[m|é]|
+|vous|auriez|tarif%[m|é]|
+|ils|auraient|tarif%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tarif%[m|e]|
+|que|tu|tarif%[m|es]|
+|qu'|il|tarif%[m|e]|
+|que|nous|tarif%[m|ions]|
+|que|vous|tarif%[m|iez]|
+|qu'|ils|tarif%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tarif%[m|é]|
+|que|tu|aies|tarif%[m|é]|
+|qu'|il|ait|tarif%[m|é]|
+|que|nous|ayons|tarif%[m|é]|
+|que|vous|ayez|tarif%[m|é]|
+|qu'|ils|aient|tarif%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tarif%[m|asse]|
+|que|tu|tarif%[m|asses]|
+|qu'|il|tarif%[m|ât]|
+|que|nous|tarif%[m|assions]|
+|que|vous|tarif%[m|assiez]|
+|qu'|ils|tarif%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tarif%[m|é]|
+|que|tu|eusses|tarif%[m|é]|
+|qu'|il|eût|tarif%[m|é]|
+|que|nous|eussions|tarif%[m|é]|
+|que|vous|eussiez|tarif%[m|é]|
+|qu'|ils|eussent|tarif%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tarif%[m|e]|
+|tarif%[m|ons]|
+|tarif%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tarif%[m|é]|
+|ayons|tarif%[m|é]|
+|ayez|tarif%[m|é]|
+|]
+

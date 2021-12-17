@@ -1,0 +1,192 @@
+# habiller %[clVerbGroup|1]
+[-
+aider quelqu'un à passer ses vêtements, un costume de scène. 
+en parlant d'un vêtement, convenir, mettre en valeur : ce manteau habille bien. 
+parer, couvrir : habiller un canapé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|habill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|habill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|habill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||habill%[m|é]|
+|ayant|habill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en habill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|habill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|habill%[m|e]|
+|tu|habill%[m|es]|
+|il|habill%[m|e]|
+|nous|habill%[m|ons]|
+|vous|habill%[m|ez]|
+|ils|habill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|habill%[m|é]|
+|tu|as |habill%[m|é]|
+|il|a|habill%[m|é]|
+|nous|avons|habill%[m|é]|
+|vous|avez|habill%[m|é]|
+|ils|ont|habill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|habill%[m|ais]|
+|tu|habill%[m|ais]|
+|il|habill%[m|ait]|
+|nous|habill%[m|ions]|
+|vous|habill%[m|iez]|
+|ils|habill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|habill%[m|é]|
+|tu|avais|habill%[m|é]|
+|il|avait|habill%[m|é]|
+|nous|avions|habill%[m|é]|
+|vous|aviez|habill%[m|é]|
+|ils|avaient|habill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|habill%[m|ai]|
+|tu|habill%[m|as]|
+|il|habill%[m|a]|
+|nous|habill%[m|âmes]|
+|vous|habill%[m|âtes]|
+|ils|habill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|habill%[m|é]|
+|tu|eus|habill%[m|é]|
+|il|eut|habill%[m|é]|
+|nous|e&ucirc;mes|habill%[m|é]|
+|vous|e&ucirc;tes|habill%[m|é]|
+|ils|eurent|habill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|habill%[m|erai]|
+|tu|habill%[m|eras]|
+|il|habill%[m|era]|
+|nous|habill%[m|erons]|
+|vous|habill%[m|erez]|
+|ils|habill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|habill%[m|é]|
+|tu|auras|habill%[m|é]|
+|il|aura|habill%[m|é]|
+|nous|aurons|habill%[m|é]|
+|vous|aurez|habill%[m|é]|
+|ils|auront|habill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|habill%[m|erais]|
+|tu|habill%[m|erais]|
+|il|habill%[m|erait]|
+|nous|habill%[m|erions]|
+|vous|habill%[m|eriez]|
+|ils|habill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|habill%[m|é]|
+|tu|aurais|habill%[m|é]|
+|il|aurait|habill%[m|é]|
+|nous|aurions|habill%[m|é]|
+|vous|auriez|habill%[m|é]|
+|ils|auraient|habill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|habill%[m|e]|
+|que|tu|habill%[m|es]|
+|qu'|il|habill%[m|e]|
+|que|nous|habill%[m|ions]|
+|que|vous|habill%[m|iez]|
+|qu'|ils|habill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|habill%[m|é]|
+|que|tu|aies|habill%[m|é]|
+|qu'|il|ait|habill%[m|é]|
+|que|nous|ayons|habill%[m|é]|
+|que|vous|ayez|habill%[m|é]|
+|qu'|ils|aient|habill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|habill%[m|asse]|
+|que|tu|habill%[m|asses]|
+|qu'|il|habill%[m|ât]|
+|que|nous|habill%[m|assions]|
+|que|vous|habill%[m|assiez]|
+|qu'|ils|habill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|habill%[m|é]|
+|que|tu|eusses|habill%[m|é]|
+|qu'|il|eût|habill%[m|é]|
+|que|nous|eussions|habill%[m|é]|
+|que|vous|eussiez|habill%[m|é]|
+|qu'|ils|eussent|habill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|habill%[m|e]|
+|habill%[m|ons]|
+|habill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|habill%[m|é]|
+|ayons|habill%[m|é]|
+|ayez|habill%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# collecter %[clVerbGroup|1]
+[-
+recueillir des dons, des fonds. 
+ramasser, rassembler, réunir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|collect%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|collect%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|collect%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||collect%[m|é]|
+|ayant|collect%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en collect%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|collect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|collect%[m|e]|
+|tu|collect%[m|es]|
+|il|collect%[m|e]|
+|nous|collect%[m|ons]|
+|vous|collect%[m|ez]|
+|ils|collect%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|collect%[m|é]|
+|tu|as |collect%[m|é]|
+|il|a|collect%[m|é]|
+|nous|avons|collect%[m|é]|
+|vous|avez|collect%[m|é]|
+|ils|ont|collect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|collect%[m|ais]|
+|tu|collect%[m|ais]|
+|il|collect%[m|ait]|
+|nous|collect%[m|ions]|
+|vous|collect%[m|iez]|
+|ils|collect%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|collect%[m|é]|
+|tu|avais|collect%[m|é]|
+|il|avait|collect%[m|é]|
+|nous|avions|collect%[m|é]|
+|vous|aviez|collect%[m|é]|
+|ils|avaient|collect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|collect%[m|ai]|
+|tu|collect%[m|as]|
+|il|collect%[m|a]|
+|nous|collect%[m|âmes]|
+|vous|collect%[m|âtes]|
+|ils|collect%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|collect%[m|é]|
+|tu|eus|collect%[m|é]|
+|il|eut|collect%[m|é]|
+|nous|e&ucirc;mes|collect%[m|é]|
+|vous|e&ucirc;tes|collect%[m|é]|
+|ils|eurent|collect%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|collect%[m|erai]|
+|tu|collect%[m|eras]|
+|il|collect%[m|era]|
+|nous|collect%[m|erons]|
+|vous|collect%[m|erez]|
+|ils|collect%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|collect%[m|é]|
+|tu|auras|collect%[m|é]|
+|il|aura|collect%[m|é]|
+|nous|aurons|collect%[m|é]|
+|vous|aurez|collect%[m|é]|
+|ils|auront|collect%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|collect%[m|erais]|
+|tu|collect%[m|erais]|
+|il|collect%[m|erait]|
+|nous|collect%[m|erions]|
+|vous|collect%[m|eriez]|
+|ils|collect%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|collect%[m|é]|
+|tu|aurais|collect%[m|é]|
+|il|aurait|collect%[m|é]|
+|nous|aurions|collect%[m|é]|
+|vous|auriez|collect%[m|é]|
+|ils|auraient|collect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|collect%[m|e]|
+|que|tu|collect%[m|es]|
+|qu'|il|collect%[m|e]|
+|que|nous|collect%[m|ions]|
+|que|vous|collect%[m|iez]|
+|qu'|ils|collect%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|collect%[m|é]|
+|que|tu|aies|collect%[m|é]|
+|qu'|il|ait|collect%[m|é]|
+|que|nous|ayons|collect%[m|é]|
+|que|vous|ayez|collect%[m|é]|
+|qu'|ils|aient|collect%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|collect%[m|asse]|
+|que|tu|collect%[m|asses]|
+|qu'|il|collect%[m|ât]|
+|que|nous|collect%[m|assions]|
+|que|vous|collect%[m|assiez]|
+|qu'|ils|collect%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|collect%[m|é]|
+|que|tu|eusses|collect%[m|é]|
+|qu'|il|eût|collect%[m|é]|
+|que|nous|eussions|collect%[m|é]|
+|que|vous|eussiez|collect%[m|é]|
+|qu'|ils|eussent|collect%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|collect%[m|e]|
+|collect%[m|ons]|
+|collect%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|collect%[m|é]|
+|ayons|collect%[m|é]|
+|ayez|collect%[m|é]|
+|]
+

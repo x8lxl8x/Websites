@@ -1,0 +1,190 @@
+# volter %[clVerbGroup|1]
+[-
+exécuter une volte (pour un cheval) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|volt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|volt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|volt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||volt%[m|é]|
+|ayant|volt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en volt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|volt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|volt%[m|e]|
+|tu|volt%[m|es]|
+|il|volt%[m|e]|
+|nous|volt%[m|ons]|
+|vous|volt%[m|ez]|
+|ils|volt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|volt%[m|é]|
+|tu|as |volt%[m|é]|
+|il|a|volt%[m|é]|
+|nous|avons|volt%[m|é]|
+|vous|avez|volt%[m|é]|
+|ils|ont|volt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|volt%[m|ais]|
+|tu|volt%[m|ais]|
+|il|volt%[m|ait]|
+|nous|volt%[m|ions]|
+|vous|volt%[m|iez]|
+|ils|volt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|volt%[m|é]|
+|tu|avais|volt%[m|é]|
+|il|avait|volt%[m|é]|
+|nous|avions|volt%[m|é]|
+|vous|aviez|volt%[m|é]|
+|ils|avaient|volt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|volt%[m|ai]|
+|tu|volt%[m|as]|
+|il|volt%[m|a]|
+|nous|volt%[m|âmes]|
+|vous|volt%[m|âtes]|
+|ils|volt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|volt%[m|é]|
+|tu|eus|volt%[m|é]|
+|il|eut|volt%[m|é]|
+|nous|e&ucirc;mes|volt%[m|é]|
+|vous|e&ucirc;tes|volt%[m|é]|
+|ils|eurent|volt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|volt%[m|erai]|
+|tu|volt%[m|eras]|
+|il|volt%[m|era]|
+|nous|volt%[m|erons]|
+|vous|volt%[m|erez]|
+|ils|volt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|volt%[m|é]|
+|tu|auras|volt%[m|é]|
+|il|aura|volt%[m|é]|
+|nous|aurons|volt%[m|é]|
+|vous|aurez|volt%[m|é]|
+|ils|auront|volt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|volt%[m|erais]|
+|tu|volt%[m|erais]|
+|il|volt%[m|erait]|
+|nous|volt%[m|erions]|
+|vous|volt%[m|eriez]|
+|ils|volt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|volt%[m|é]|
+|tu|aurais|volt%[m|é]|
+|il|aurait|volt%[m|é]|
+|nous|aurions|volt%[m|é]|
+|vous|auriez|volt%[m|é]|
+|ils|auraient|volt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|volt%[m|e]|
+|que|tu|volt%[m|es]|
+|qu'|il|volt%[m|e]|
+|que|nous|volt%[m|ions]|
+|que|vous|volt%[m|iez]|
+|qu'|ils|volt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|volt%[m|é]|
+|que|tu|aies|volt%[m|é]|
+|qu'|il|ait|volt%[m|é]|
+|que|nous|ayons|volt%[m|é]|
+|que|vous|ayez|volt%[m|é]|
+|qu'|ils|aient|volt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|volt%[m|asse]|
+|que|tu|volt%[m|asses]|
+|qu'|il|volt%[m|ât]|
+|que|nous|volt%[m|assions]|
+|que|vous|volt%[m|assiez]|
+|qu'|ils|volt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|volt%[m|é]|
+|que|tu|eusses|volt%[m|é]|
+|qu'|il|eût|volt%[m|é]|
+|que|nous|eussions|volt%[m|é]|
+|que|vous|eussiez|volt%[m|é]|
+|qu'|ils|eussent|volt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|volt%[m|e]|
+|volt%[m|ons]|
+|volt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|volt%[m|é]|
+|ayons|volt%[m|é]|
+|ayez|volt%[m|é]|
+|]
+

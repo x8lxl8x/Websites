@@ -1,0 +1,190 @@
+# recopier %[clVerbGroup|1]
+[-
+copier un texte écrit. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|recopi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|recopi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|recopi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||recopi%[m|é]|
+|ayant|recopi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en recopi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|recopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|recopi%[m|e]|
+|tu|recopi%[m|es]|
+|il|recopi%[m|e]|
+|nous|recopi%[m|ons]|
+|vous|recopi%[m|ez]|
+|ils|recopi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|recopi%[m|é]|
+|tu|as |recopi%[m|é]|
+|il|a|recopi%[m|é]|
+|nous|avons|recopi%[m|é]|
+|vous|avez|recopi%[m|é]|
+|ils|ont|recopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|recopi%[m|ais]|
+|tu|recopi%[m|ais]|
+|il|recopi%[m|ait]|
+|nous|recopi%[m|ions]|
+|vous|recopi%[m|iez]|
+|ils|recopi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|recopi%[m|é]|
+|tu|avais|recopi%[m|é]|
+|il|avait|recopi%[m|é]|
+|nous|avions|recopi%[m|é]|
+|vous|aviez|recopi%[m|é]|
+|ils|avaient|recopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|recopi%[m|ai]|
+|tu|recopi%[m|as]|
+|il|recopi%[m|a]|
+|nous|recopi%[m|âmes]|
+|vous|recopi%[m|âtes]|
+|ils|recopi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|recopi%[m|é]|
+|tu|eus|recopi%[m|é]|
+|il|eut|recopi%[m|é]|
+|nous|e&ucirc;mes|recopi%[m|é]|
+|vous|e&ucirc;tes|recopi%[m|é]|
+|ils|eurent|recopi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|recopi%[m|erai]|
+|tu|recopi%[m|eras]|
+|il|recopi%[m|era]|
+|nous|recopi%[m|erons]|
+|vous|recopi%[m|erez]|
+|ils|recopi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|recopi%[m|é]|
+|tu|auras|recopi%[m|é]|
+|il|aura|recopi%[m|é]|
+|nous|aurons|recopi%[m|é]|
+|vous|aurez|recopi%[m|é]|
+|ils|auront|recopi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|recopi%[m|erais]|
+|tu|recopi%[m|erais]|
+|il|recopi%[m|erait]|
+|nous|recopi%[m|erions]|
+|vous|recopi%[m|eriez]|
+|ils|recopi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|recopi%[m|é]|
+|tu|aurais|recopi%[m|é]|
+|il|aurait|recopi%[m|é]|
+|nous|aurions|recopi%[m|é]|
+|vous|auriez|recopi%[m|é]|
+|ils|auraient|recopi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|recopi%[m|e]|
+|que|tu|recopi%[m|es]|
+|qu'|il|recopi%[m|e]|
+|que|nous|recopi%[m|ions]|
+|que|vous|recopi%[m|iez]|
+|qu'|ils|recopi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|recopi%[m|é]|
+|que|tu|aies|recopi%[m|é]|
+|qu'|il|ait|recopi%[m|é]|
+|que|nous|ayons|recopi%[m|é]|
+|que|vous|ayez|recopi%[m|é]|
+|qu'|ils|aient|recopi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|recopi%[m|asse]|
+|que|tu|recopi%[m|asses]|
+|qu'|il|recopi%[m|ât]|
+|que|nous|recopi%[m|assions]|
+|que|vous|recopi%[m|assiez]|
+|qu'|ils|recopi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|recopi%[m|é]|
+|que|tu|eusses|recopi%[m|é]|
+|qu'|il|eût|recopi%[m|é]|
+|que|nous|eussions|recopi%[m|é]|
+|que|vous|eussiez|recopi%[m|é]|
+|qu'|ils|eussent|recopi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recopi%[m|e]|
+|recopi%[m|ons]|
+|recopi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|recopi%[m|é]|
+|ayons|recopi%[m|é]|
+|ayez|recopi%[m|é]|
+|]
+

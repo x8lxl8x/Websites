@@ -1,0 +1,190 @@
+# vesser %[clVerbGroup|1]
+[-
+lâcher une vesse, lâcher un pet sans bruit. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|vess%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|vess%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|vess%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||vess%[m|é]|
+|ayant|vess%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en vess%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|vess%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|vess%[m|e]|
+|tu|vess%[m|es]|
+|il|vess%[m|e]|
+|nous|vess%[m|ons]|
+|vous|vess%[m|ez]|
+|ils|vess%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|vess%[m|é]|
+|tu|as |vess%[m|é]|
+|il|a|vess%[m|é]|
+|nous|avons|vess%[m|é]|
+|vous|avez|vess%[m|é]|
+|ils|ont|vess%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|vess%[m|ais]|
+|tu|vess%[m|ais]|
+|il|vess%[m|ait]|
+|nous|vess%[m|ions]|
+|vous|vess%[m|iez]|
+|ils|vess%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|vess%[m|é]|
+|tu|avais|vess%[m|é]|
+|il|avait|vess%[m|é]|
+|nous|avions|vess%[m|é]|
+|vous|aviez|vess%[m|é]|
+|ils|avaient|vess%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|vess%[m|ai]|
+|tu|vess%[m|as]|
+|il|vess%[m|a]|
+|nous|vess%[m|âmes]|
+|vous|vess%[m|âtes]|
+|ils|vess%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|vess%[m|é]|
+|tu|eus|vess%[m|é]|
+|il|eut|vess%[m|é]|
+|nous|e&ucirc;mes|vess%[m|é]|
+|vous|e&ucirc;tes|vess%[m|é]|
+|ils|eurent|vess%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|vess%[m|erai]|
+|tu|vess%[m|eras]|
+|il|vess%[m|era]|
+|nous|vess%[m|erons]|
+|vous|vess%[m|erez]|
+|ils|vess%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|vess%[m|é]|
+|tu|auras|vess%[m|é]|
+|il|aura|vess%[m|é]|
+|nous|aurons|vess%[m|é]|
+|vous|aurez|vess%[m|é]|
+|ils|auront|vess%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|vess%[m|erais]|
+|tu|vess%[m|erais]|
+|il|vess%[m|erait]|
+|nous|vess%[m|erions]|
+|vous|vess%[m|eriez]|
+|ils|vess%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|vess%[m|é]|
+|tu|aurais|vess%[m|é]|
+|il|aurait|vess%[m|é]|
+|nous|aurions|vess%[m|é]|
+|vous|auriez|vess%[m|é]|
+|ils|auraient|vess%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|vess%[m|e]|
+|que|tu|vess%[m|es]|
+|qu'|il|vess%[m|e]|
+|que|nous|vess%[m|ions]|
+|que|vous|vess%[m|iez]|
+|qu'|ils|vess%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|vess%[m|é]|
+|que|tu|aies|vess%[m|é]|
+|qu'|il|ait|vess%[m|é]|
+|que|nous|ayons|vess%[m|é]|
+|que|vous|ayez|vess%[m|é]|
+|qu'|ils|aient|vess%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|vess%[m|asse]|
+|que|tu|vess%[m|asses]|
+|qu'|il|vess%[m|ât]|
+|que|nous|vess%[m|assions]|
+|que|vous|vess%[m|assiez]|
+|qu'|ils|vess%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|vess%[m|é]|
+|que|tu|eusses|vess%[m|é]|
+|qu'|il|eût|vess%[m|é]|
+|que|nous|eussions|vess%[m|é]|
+|que|vous|eussiez|vess%[m|é]|
+|qu'|ils|eussent|vess%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|vess%[m|e]|
+|vess%[m|ons]|
+|vess%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|vess%[m|é]|
+|ayons|vess%[m|é]|
+|ayez|vess%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# parvenir %[clVerbGroup|3]
+[-
+arriver en un lieu; arriver à destination. 
+arriver au résultat visé; accéder à une fonction convoitée. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|parv%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|parv%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|parv%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||parv%[m|enu]|
+|étant|parv%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en parv%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|parv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|parv%[m|iens]|
+|tu|parv%[m|iens]|
+|il|parv%[m|ient]|
+|nous|parv%[m|enons]|
+|vous|parv%[m|enez]|
+|ils|parv%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|parv%[m|enu]|
+|tu|es|parv%[m|enu]|
+|il|est|parv%[m|enu]|
+|nous|sommes|parv%[m|enus]|
+|vous|êtes|parv%[m|enus]|
+|ils|sont|parv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|parv%[m|enais]|
+|tu|parv%[m|enais]|
+|il|parv%[m|enait]|
+|nous|parv%[m|enions]|
+|vous|parv%[m|eniez]|
+|ils|parv%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|parv%[m|enu]|
+|tu|étais|parv%[m|enu]|
+|il|était|parv%[m|enu]|
+|nous|étions|parv%[m|enus]|
+|vous|étiez|parv%[m|enus]|
+|ils|étaient|parv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|parv%[m|ins]|
+|tu|parv%[m|ins]|
+|il|parv%[m|int]|
+|nous|parv%[m|înmes]|
+|vous|parv%[m|întes]|
+|ils|parv%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|parv%[m|enu]|
+|tu|fus|parv%[m|enu]|
+|il|fut|parv%[m|enu]|
+|nous|fûmes|parv%[m|enus]|
+|vous|fûtes|parv%[m|enus]|
+|ils|furent|parv%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|parv%[m|iendrai]|
+|tu|parv%[m|iendras]|
+|il|parv%[m|iendra]|
+|nous|parv%[m|iendrons]|
+|vous|parv%[m|iendrez]|
+|ils|parv%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|parv%[m|enu]|
+|tu|seras|parv%[m|enu]|
+|il|sera|parv%[m|enu]|
+|nous|serons|parv%[m|enus]|
+|vous|serez|parv%[m|enus]|
+|ils|seront|parv%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|parv%[m|iendrais]|
+|tu|parv%[m|iendrais]|
+|il|parv%[m|iendrait]|
+|nous|parv%[m|iendrions]|
+|vous|parv%[m|iendriez]|
+|ils|parv%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|parv%[m|enu]|
+|tu|serais|parv%[m|enu]|
+|il|serait|parv%[m|enu]|
+|nous|serions|parv%[m|enus]|
+|vous|seriez|parv%[m|enus]|
+|ils|seraient|parv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|parv%[m|ienne]|
+|que|tu|parv%[m|iennes]|
+|qu'|il|parv%[m|ienne]|
+|que|nous|parv%[m|enions]|
+|que|vous|parv%[m|eniez]|
+|qu'|ils|parv%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|parv%[m|enu]|
+|que|tu|sois|parv%[m|enu]|
+|qu'|il|soit|parv%[m|enu]|
+|que|nous|soyons|parv%[m|enus]|
+|que|vous|soyez|parv%[m|enus]|
+|qu'|ils|soient|parv%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|parv%[m|insse]|
+|que|tu|parv%[m|insses]|
+|qu'|il|parv%[m|înt]|
+|que|nous|parv%[m|inssions]|
+|que|vous|parv%[m|inssiez]|
+|qu'|ils|parv%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|parv%[m|enu]|
+|que|tu|fusses|parv%[m|enu]|
+|qu'|il|fût|parv%[m|enu]|
+|que|nous|fussions|parv%[m|enus]|
+|que|vous|fussiez|parv%[m|enus]|
+|qu'|ils|fussent|parv%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|parv%[m|iens]|
+|parv%[m|enons]|
+|parv%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|parv%[m|enu]|
+|soyons|parv%[m|enus]|
+|soyez|parv%[m|enus]|
+|]
+

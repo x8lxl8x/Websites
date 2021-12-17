@@ -1,0 +1,190 @@
+# se pincer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se pin%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|pin%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se pin%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|pin%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se pin%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|pin%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|pin%[m|ce]|
+|tu|te|pin%[m|ces]|
+|il|se|pin%[m|ce]|
+|nous|nous|pin%[m|çons]|
+|vous|vous|pin%[m|cez]|
+|ils|se|pin%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|pin%[m|cé]|
+|tu|t'|es|pin%[m|cé]|
+|il|s'|est|pin%[m|cé]|
+|nous|nous|sommes|pin%[m|cés]|
+|vous|vous|êtes|pin%[m|cés]|
+|ils|se|sont|pin%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|pin%[m|çais]|
+|tu|te|pin%[m|çais]|
+|il|se|pin%[m|çait]|
+|nous|nous|pin%[m|cions]|
+|vous|vous|pin%[m|ciez]|
+|ils|se|pin%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|pin%[m|cé]|
+|tu|t'|étais|pin%[m|cé]|
+|il|s'|était|pin%[m|cé]|
+|nous|nous|étions|pin%[m|cés]|
+|vous|vous|étiez|pin%[m|cés]|
+|ils|s'|étaient|pin%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|pin%[m|çai]|
+|tu|te|pin%[m|ças]|
+|il|se|pin%[m|ça]|
+|nous|nous|pin%[m|çâmes]|
+|vous|vous|pin%[m|çâtes]|
+|ils|se|pin%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|pin%[m|cé]|
+|tu|te|fus|pin%[m|cé]|
+|il|se|fut|pin%[m|cé]|
+|nous|nous|fûmes|pin%[m|cés]|
+|vous|vous|fûtes|pin%[m|cés]|
+|ils|se|furent|pin%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|pin%[m|cerai]|
+|tu|te|pin%[m|ceras]|
+|il|se|pin%[m|cera]|
+|nous|nous|pin%[m|cerons]|
+|vous|vous|pin%[m|cerez]|
+|ils|se|pin%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|pin%[m|cé]|
+|tu|te|seras|pin%[m|cé]|
+|il|se|sera|pin%[m|cé]|
+|nous|nous|serons|pin%[m|cés]|
+|vous|vous|serez|pin%[m|cés]|
+|ils|se|seront|pin%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|pin%[m|cerais]|
+|tu|te|pin%[m|cerais]|
+|il|se|pin%[m|cerait]|
+|nous|nous|pin%[m|cerions]|
+|vous|vous|pin%[m|ceriez]|
+|ils|se|pin%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|pin%[m|cé]|
+|tu|te|serais|pin%[m|cé]|
+|il|se|serait|pin%[m|cé]|
+|nous|nous|serions|pin%[m|cés]|
+|vous|vous|seriez|pin%[m|cés]|
+|ils|se|seraient|pin%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|pin%[m|ce]|
+|que|tu|te|pin%[m|ces]|
+|qu'|il|se|pin%[m|ce]|
+|que|nous|nous|pin%[m|cions]|
+|que|vous|vous|pin%[m|ciez]|
+|qu'|ils|se|pin%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|pin%[m|cé]|
+|que|tu|te|sois|pin%[m|cé]|
+|qu'|il|se|soit|pin%[m|cé]|
+|que|nous|nous|soyons|pin%[m|cés]|
+|que|vous|vous|soyez|pin%[m|cés]|
+|qu'|ils|se|soient|pin%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|pin%[m|çasse]|
+|que|tu|te|pin%[m|çasses]|
+|qu'|il|se|pin%[m|çât]|
+|que|nous|nous|pin%[m|çassions]|
+|que|vous|vous|pin%[m|çassiez]|
+|qu'|ils|se|pin%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|pin%[m|cé]|
+|que|tu|te|fusses|pin%[m|cé]|
+|qu'|il|se|fût|pin%[m|cé]|
+|que|nous|nous|fussions|pin%[m|cés]|
+|que|vous|vous|fussiez|pin%[m|cés]|
+|qu'|ils|se|fussent|pin%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pin%[m|ce]-toi|
+|pin%[m|çons]-nous|
+|pin%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

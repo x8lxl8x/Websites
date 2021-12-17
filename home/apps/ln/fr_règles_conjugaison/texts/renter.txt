@@ -1,0 +1,190 @@
+# renter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rent%[m|é]|
+|ayant|rent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rent%[m|e]|
+|tu|rent%[m|es]|
+|il|rent%[m|e]|
+|nous|rent%[m|ons]|
+|vous|rent%[m|ez]|
+|ils|rent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rent%[m|é]|
+|tu|as |rent%[m|é]|
+|il|a|rent%[m|é]|
+|nous|avons|rent%[m|é]|
+|vous|avez|rent%[m|é]|
+|ils|ont|rent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rent%[m|ais]|
+|tu|rent%[m|ais]|
+|il|rent%[m|ait]|
+|nous|rent%[m|ions]|
+|vous|rent%[m|iez]|
+|ils|rent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rent%[m|é]|
+|tu|avais|rent%[m|é]|
+|il|avait|rent%[m|é]|
+|nous|avions|rent%[m|é]|
+|vous|aviez|rent%[m|é]|
+|ils|avaient|rent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rent%[m|ai]|
+|tu|rent%[m|as]|
+|il|rent%[m|a]|
+|nous|rent%[m|âmes]|
+|vous|rent%[m|âtes]|
+|ils|rent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rent%[m|é]|
+|tu|eus|rent%[m|é]|
+|il|eut|rent%[m|é]|
+|nous|e&ucirc;mes|rent%[m|é]|
+|vous|e&ucirc;tes|rent%[m|é]|
+|ils|eurent|rent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rent%[m|erai]|
+|tu|rent%[m|eras]|
+|il|rent%[m|era]|
+|nous|rent%[m|erons]|
+|vous|rent%[m|erez]|
+|ils|rent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rent%[m|é]|
+|tu|auras|rent%[m|é]|
+|il|aura|rent%[m|é]|
+|nous|aurons|rent%[m|é]|
+|vous|aurez|rent%[m|é]|
+|ils|auront|rent%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rent%[m|erais]|
+|tu|rent%[m|erais]|
+|il|rent%[m|erait]|
+|nous|rent%[m|erions]|
+|vous|rent%[m|eriez]|
+|ils|rent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rent%[m|é]|
+|tu|aurais|rent%[m|é]|
+|il|aurait|rent%[m|é]|
+|nous|aurions|rent%[m|é]|
+|vous|auriez|rent%[m|é]|
+|ils|auraient|rent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rent%[m|e]|
+|que|tu|rent%[m|es]|
+|qu'|il|rent%[m|e]|
+|que|nous|rent%[m|ions]|
+|que|vous|rent%[m|iez]|
+|qu'|ils|rent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rent%[m|é]|
+|que|tu|aies|rent%[m|é]|
+|qu'|il|ait|rent%[m|é]|
+|que|nous|ayons|rent%[m|é]|
+|que|vous|ayez|rent%[m|é]|
+|qu'|ils|aient|rent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rent%[m|asse]|
+|que|tu|rent%[m|asses]|
+|qu'|il|rent%[m|ât]|
+|que|nous|rent%[m|assions]|
+|que|vous|rent%[m|assiez]|
+|qu'|ils|rent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rent%[m|é]|
+|que|tu|eusses|rent%[m|é]|
+|qu'|il|eût|rent%[m|é]|
+|que|nous|eussions|rent%[m|é]|
+|que|vous|eussiez|rent%[m|é]|
+|qu'|ils|eussent|rent%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rent%[m|e]|
+|rent%[m|ons]|
+|rent%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rent%[m|é]|
+|ayons|rent%[m|é]|
+|ayez|rent%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# consteller %[clVerbGroup|1]
+[-
+parsemer d'étoiles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|constell%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|constell%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|constell%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||constell%[m|é]|
+|ayant|constell%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en constell%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|constell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|constell%[m|e]|
+|tu|constell%[m|es]|
+|il|constell%[m|e]|
+|nous|constell%[m|ons]|
+|vous|constell%[m|ez]|
+|ils|constell%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|constell%[m|é]|
+|tu|as |constell%[m|é]|
+|il|a|constell%[m|é]|
+|nous|avons|constell%[m|é]|
+|vous|avez|constell%[m|é]|
+|ils|ont|constell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|constell%[m|ais]|
+|tu|constell%[m|ais]|
+|il|constell%[m|ait]|
+|nous|constell%[m|ions]|
+|vous|constell%[m|iez]|
+|ils|constell%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|constell%[m|é]|
+|tu|avais|constell%[m|é]|
+|il|avait|constell%[m|é]|
+|nous|avions|constell%[m|é]|
+|vous|aviez|constell%[m|é]|
+|ils|avaient|constell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|constell%[m|ai]|
+|tu|constell%[m|as]|
+|il|constell%[m|a]|
+|nous|constell%[m|âmes]|
+|vous|constell%[m|âtes]|
+|ils|constell%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|constell%[m|é]|
+|tu|eus|constell%[m|é]|
+|il|eut|constell%[m|é]|
+|nous|e&ucirc;mes|constell%[m|é]|
+|vous|e&ucirc;tes|constell%[m|é]|
+|ils|eurent|constell%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|constell%[m|erai]|
+|tu|constell%[m|eras]|
+|il|constell%[m|era]|
+|nous|constell%[m|erons]|
+|vous|constell%[m|erez]|
+|ils|constell%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|constell%[m|é]|
+|tu|auras|constell%[m|é]|
+|il|aura|constell%[m|é]|
+|nous|aurons|constell%[m|é]|
+|vous|aurez|constell%[m|é]|
+|ils|auront|constell%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|constell%[m|erais]|
+|tu|constell%[m|erais]|
+|il|constell%[m|erait]|
+|nous|constell%[m|erions]|
+|vous|constell%[m|eriez]|
+|ils|constell%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|constell%[m|é]|
+|tu|aurais|constell%[m|é]|
+|il|aurait|constell%[m|é]|
+|nous|aurions|constell%[m|é]|
+|vous|auriez|constell%[m|é]|
+|ils|auraient|constell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|constell%[m|e]|
+|que|tu|constell%[m|es]|
+|qu'|il|constell%[m|e]|
+|que|nous|constell%[m|ions]|
+|que|vous|constell%[m|iez]|
+|qu'|ils|constell%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|constell%[m|é]|
+|que|tu|aies|constell%[m|é]|
+|qu'|il|ait|constell%[m|é]|
+|que|nous|ayons|constell%[m|é]|
+|que|vous|ayez|constell%[m|é]|
+|qu'|ils|aient|constell%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|constell%[m|asse]|
+|que|tu|constell%[m|asses]|
+|qu'|il|constell%[m|ât]|
+|que|nous|constell%[m|assions]|
+|que|vous|constell%[m|assiez]|
+|qu'|ils|constell%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|constell%[m|é]|
+|que|tu|eusses|constell%[m|é]|
+|qu'|il|eût|constell%[m|é]|
+|que|nous|eussions|constell%[m|é]|
+|que|vous|eussiez|constell%[m|é]|
+|qu'|ils|eussent|constell%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|constell%[m|e]|
+|constell%[m|ons]|
+|constell%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|constell%[m|é]|
+|ayons|constell%[m|é]|
+|ayez|constell%[m|é]|
+|]
+

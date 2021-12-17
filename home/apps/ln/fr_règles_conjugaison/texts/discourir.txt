@@ -1,0 +1,190 @@
+# discourir %[clVerbGroup|3]
+[-
+parler longuement d'un sujet. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|discour%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|discour%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|discour%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||discour%[m|u]|
+|ayant|discour%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en discour%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|discour%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|discour%[m|s]|
+|tu|discour%[m|s]|
+|il|discour%[m|t]|
+|nous|discour%[m|ons]|
+|vous|discour%[m|ez]|
+|ils|discour%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|discour%[m|u]|
+|tu|as |discour%[m|u]|
+|il|a|discour%[m|u]|
+|nous|avons|discour%[m|u]|
+|vous|avez|discour%[m|u]|
+|ils|ont|discour%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|discour%[m|ais]|
+|tu|discour%[m|ais]|
+|il|discour%[m|ait]|
+|nous|discour%[m|ions]|
+|vous|discour%[m|iez]|
+|ils|discour%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|discour%[m|u]|
+|tu|avais|discour%[m|u]|
+|il|avait|discour%[m|u]|
+|nous|avions|discour%[m|u]|
+|vous|aviez|discour%[m|u]|
+|ils|avaient|discour%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|discour%[m|us]|
+|tu|discour%[m|us]|
+|il|discour%[m|ut]|
+|nous|discour%[m|ûmes]|
+|vous|discour%[m|ûtes]|
+|ils|discour%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|discour%[m|u]|
+|tu|eus|discour%[m|u]|
+|il|eut|discour%[m|u]|
+|nous|e&ucirc;mes|discour%[m|u]|
+|vous|e&ucirc;tes|discour%[m|u]|
+|ils|eurent|discour%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|discour%[m|rai]|
+|tu|discour%[m|ras]|
+|il|discour%[m|ra]|
+|nous|discour%[m|rons]|
+|vous|discour%[m|rez]|
+|ils|discour%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|discour%[m|u]|
+|tu|auras|discour%[m|u]|
+|il|aura|discour%[m|u]|
+|nous|aurons|discour%[m|u]|
+|vous|aurez|discour%[m|u]|
+|ils|auront|discour%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|discour%[m|rais]|
+|tu|discour%[m|rais]|
+|il|discour%[m|rait]|
+|nous|discour%[m|rions]|
+|vous|discour%[m|riez]|
+|ils|discour%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|discour%[m|u]|
+|tu|aurais|discour%[m|u]|
+|il|aurait|discour%[m|u]|
+|nous|aurions|discour%[m|u]|
+|vous|auriez|discour%[m|u]|
+|ils|auraient|discour%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|discour%[m|e]|
+|que|tu|discour%[m|es]|
+|qu'|il|discour%[m|e]|
+|que|nous|discour%[m|ions]|
+|que|vous|discour%[m|iez]|
+|qu'|ils|discour%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|discour%[m|u]|
+|que|tu|aies|discour%[m|u]|
+|qu'|il|ait|discour%[m|u]|
+|que|nous|ayons|discour%[m|u]|
+|que|vous|ayez|discour%[m|u]|
+|qu'|ils|aient|discour%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|discour%[m|usse]|
+|que|tu|discour%[m|usses]|
+|qu'|il|discour%[m|ût]|
+|que|nous|discour%[m|ussions]|
+|que|vous|discour%[m|ussiez]|
+|qu'|ils|discour%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|discour%[m|u]|
+|que|tu|eusses|discour%[m|u]|
+|qu'|il|eût|discour%[m|u]|
+|que|nous|eussions|discour%[m|u]|
+|que|vous|eussiez|discour%[m|u]|
+|qu'|ils|eussent|discour%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|discour%[m|s]|
+|discour%[m|ons]|
+|discour%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|discour%[m|u]|
+|ayons|discour%[m|u]|
+|ayez|discour%[m|u]|
+|]
+

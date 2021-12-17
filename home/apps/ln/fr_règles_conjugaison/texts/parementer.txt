@@ -1,0 +1,190 @@
+# parementer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|parement%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|parement%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|parement%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||parement%[m|é]|
+|ayant|parement%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en parement%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|parement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|parement%[m|e]|
+|tu|parement%[m|es]|
+|il|parement%[m|e]|
+|nous|parement%[m|ons]|
+|vous|parement%[m|ez]|
+|ils|parement%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|parement%[m|é]|
+|tu|as |parement%[m|é]|
+|il|a|parement%[m|é]|
+|nous|avons|parement%[m|é]|
+|vous|avez|parement%[m|é]|
+|ils|ont|parement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|parement%[m|ais]|
+|tu|parement%[m|ais]|
+|il|parement%[m|ait]|
+|nous|parement%[m|ions]|
+|vous|parement%[m|iez]|
+|ils|parement%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|parement%[m|é]|
+|tu|avais|parement%[m|é]|
+|il|avait|parement%[m|é]|
+|nous|avions|parement%[m|é]|
+|vous|aviez|parement%[m|é]|
+|ils|avaient|parement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|parement%[m|ai]|
+|tu|parement%[m|as]|
+|il|parement%[m|a]|
+|nous|parement%[m|âmes]|
+|vous|parement%[m|âtes]|
+|ils|parement%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|parement%[m|é]|
+|tu|eus|parement%[m|é]|
+|il|eut|parement%[m|é]|
+|nous|e&ucirc;mes|parement%[m|é]|
+|vous|e&ucirc;tes|parement%[m|é]|
+|ils|eurent|parement%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|parement%[m|erai]|
+|tu|parement%[m|eras]|
+|il|parement%[m|era]|
+|nous|parement%[m|erons]|
+|vous|parement%[m|erez]|
+|ils|parement%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|parement%[m|é]|
+|tu|auras|parement%[m|é]|
+|il|aura|parement%[m|é]|
+|nous|aurons|parement%[m|é]|
+|vous|aurez|parement%[m|é]|
+|ils|auront|parement%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|parement%[m|erais]|
+|tu|parement%[m|erais]|
+|il|parement%[m|erait]|
+|nous|parement%[m|erions]|
+|vous|parement%[m|eriez]|
+|ils|parement%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|parement%[m|é]|
+|tu|aurais|parement%[m|é]|
+|il|aurait|parement%[m|é]|
+|nous|aurions|parement%[m|é]|
+|vous|auriez|parement%[m|é]|
+|ils|auraient|parement%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|parement%[m|e]|
+|que|tu|parement%[m|es]|
+|qu'|il|parement%[m|e]|
+|que|nous|parement%[m|ions]|
+|que|vous|parement%[m|iez]|
+|qu'|ils|parement%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|parement%[m|é]|
+|que|tu|aies|parement%[m|é]|
+|qu'|il|ait|parement%[m|é]|
+|que|nous|ayons|parement%[m|é]|
+|que|vous|ayez|parement%[m|é]|
+|qu'|ils|aient|parement%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|parement%[m|asse]|
+|que|tu|parement%[m|asses]|
+|qu'|il|parement%[m|ât]|
+|que|nous|parement%[m|assions]|
+|que|vous|parement%[m|assiez]|
+|qu'|ils|parement%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|parement%[m|é]|
+|que|tu|eusses|parement%[m|é]|
+|qu'|il|eût|parement%[m|é]|
+|que|nous|eussions|parement%[m|é]|
+|que|vous|eussiez|parement%[m|é]|
+|qu'|ils|eussent|parement%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|parement%[m|e]|
+|parement%[m|ons]|
+|parement%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|parement%[m|é]|
+|ayons|parement%[m|é]|
+|ayez|parement%[m|é]|
+|]
+

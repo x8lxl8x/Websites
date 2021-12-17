@@ -1,0 +1,190 @@
+# permanenter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|permanent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|permanent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|permanent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||permanent%[m|é]|
+|ayant|permanent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en permanent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|permanent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|permanent%[m|e]|
+|tu|permanent%[m|es]|
+|il|permanent%[m|e]|
+|nous|permanent%[m|ons]|
+|vous|permanent%[m|ez]|
+|ils|permanent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|permanent%[m|é]|
+|tu|as |permanent%[m|é]|
+|il|a|permanent%[m|é]|
+|nous|avons|permanent%[m|é]|
+|vous|avez|permanent%[m|é]|
+|ils|ont|permanent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|permanent%[m|ais]|
+|tu|permanent%[m|ais]|
+|il|permanent%[m|ait]|
+|nous|permanent%[m|ions]|
+|vous|permanent%[m|iez]|
+|ils|permanent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|permanent%[m|é]|
+|tu|avais|permanent%[m|é]|
+|il|avait|permanent%[m|é]|
+|nous|avions|permanent%[m|é]|
+|vous|aviez|permanent%[m|é]|
+|ils|avaient|permanent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|permanent%[m|ai]|
+|tu|permanent%[m|as]|
+|il|permanent%[m|a]|
+|nous|permanent%[m|âmes]|
+|vous|permanent%[m|âtes]|
+|ils|permanent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|permanent%[m|é]|
+|tu|eus|permanent%[m|é]|
+|il|eut|permanent%[m|é]|
+|nous|e&ucirc;mes|permanent%[m|é]|
+|vous|e&ucirc;tes|permanent%[m|é]|
+|ils|eurent|permanent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|permanent%[m|erai]|
+|tu|permanent%[m|eras]|
+|il|permanent%[m|era]|
+|nous|permanent%[m|erons]|
+|vous|permanent%[m|erez]|
+|ils|permanent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|permanent%[m|é]|
+|tu|auras|permanent%[m|é]|
+|il|aura|permanent%[m|é]|
+|nous|aurons|permanent%[m|é]|
+|vous|aurez|permanent%[m|é]|
+|ils|auront|permanent%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|permanent%[m|erais]|
+|tu|permanent%[m|erais]|
+|il|permanent%[m|erait]|
+|nous|permanent%[m|erions]|
+|vous|permanent%[m|eriez]|
+|ils|permanent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|permanent%[m|é]|
+|tu|aurais|permanent%[m|é]|
+|il|aurait|permanent%[m|é]|
+|nous|aurions|permanent%[m|é]|
+|vous|auriez|permanent%[m|é]|
+|ils|auraient|permanent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|permanent%[m|e]|
+|que|tu|permanent%[m|es]|
+|qu'|il|permanent%[m|e]|
+|que|nous|permanent%[m|ions]|
+|que|vous|permanent%[m|iez]|
+|qu'|ils|permanent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|permanent%[m|é]|
+|que|tu|aies|permanent%[m|é]|
+|qu'|il|ait|permanent%[m|é]|
+|que|nous|ayons|permanent%[m|é]|
+|que|vous|ayez|permanent%[m|é]|
+|qu'|ils|aient|permanent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|permanent%[m|asse]|
+|que|tu|permanent%[m|asses]|
+|qu'|il|permanent%[m|ât]|
+|que|nous|permanent%[m|assions]|
+|que|vous|permanent%[m|assiez]|
+|qu'|ils|permanent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|permanent%[m|é]|
+|que|tu|eusses|permanent%[m|é]|
+|qu'|il|eût|permanent%[m|é]|
+|que|nous|eussions|permanent%[m|é]|
+|que|vous|eussiez|permanent%[m|é]|
+|qu'|ils|eussent|permanent%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|permanent%[m|e]|
+|permanent%[m|ons]|
+|permanent%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|permanent%[m|é]|
+|ayons|permanent%[m|é]|
+|ayez|permanent%[m|é]|
+|]
+

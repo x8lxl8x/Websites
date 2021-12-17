@@ -1,0 +1,190 @@
+# désenfiler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désenfil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désenfil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désenfil%[m|é]|
+|ayant|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désenfil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désenfil%[m|e]|
+|tu|désenfil%[m|es]|
+|il|désenfil%[m|e]|
+|nous|désenfil%[m|ons]|
+|vous|désenfil%[m|ez]|
+|ils|désenfil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désenfil%[m|é]|
+|tu|as |désenfil%[m|é]|
+|il|a|désenfil%[m|é]|
+|nous|avons|désenfil%[m|é]|
+|vous|avez|désenfil%[m|é]|
+|ils|ont|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désenfil%[m|ais]|
+|tu|désenfil%[m|ais]|
+|il|désenfil%[m|ait]|
+|nous|désenfil%[m|ions]|
+|vous|désenfil%[m|iez]|
+|ils|désenfil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désenfil%[m|é]|
+|tu|avais|désenfil%[m|é]|
+|il|avait|désenfil%[m|é]|
+|nous|avions|désenfil%[m|é]|
+|vous|aviez|désenfil%[m|é]|
+|ils|avaient|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désenfil%[m|ai]|
+|tu|désenfil%[m|as]|
+|il|désenfil%[m|a]|
+|nous|désenfil%[m|âmes]|
+|vous|désenfil%[m|âtes]|
+|ils|désenfil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désenfil%[m|é]|
+|tu|eus|désenfil%[m|é]|
+|il|eut|désenfil%[m|é]|
+|nous|e&ucirc;mes|désenfil%[m|é]|
+|vous|e&ucirc;tes|désenfil%[m|é]|
+|ils|eurent|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désenfil%[m|erai]|
+|tu|désenfil%[m|eras]|
+|il|désenfil%[m|era]|
+|nous|désenfil%[m|erons]|
+|vous|désenfil%[m|erez]|
+|ils|désenfil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désenfil%[m|é]|
+|tu|auras|désenfil%[m|é]|
+|il|aura|désenfil%[m|é]|
+|nous|aurons|désenfil%[m|é]|
+|vous|aurez|désenfil%[m|é]|
+|ils|auront|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désenfil%[m|erais]|
+|tu|désenfil%[m|erais]|
+|il|désenfil%[m|erait]|
+|nous|désenfil%[m|erions]|
+|vous|désenfil%[m|eriez]|
+|ils|désenfil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désenfil%[m|é]|
+|tu|aurais|désenfil%[m|é]|
+|il|aurait|désenfil%[m|é]|
+|nous|aurions|désenfil%[m|é]|
+|vous|auriez|désenfil%[m|é]|
+|ils|auraient|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désenfil%[m|e]|
+|que|tu|désenfil%[m|es]|
+|qu'|il|désenfil%[m|e]|
+|que|nous|désenfil%[m|ions]|
+|que|vous|désenfil%[m|iez]|
+|qu'|ils|désenfil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désenfil%[m|é]|
+|que|tu|aies|désenfil%[m|é]|
+|qu'|il|ait|désenfil%[m|é]|
+|que|nous|ayons|désenfil%[m|é]|
+|que|vous|ayez|désenfil%[m|é]|
+|qu'|ils|aient|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désenfil%[m|asse]|
+|que|tu|désenfil%[m|asses]|
+|qu'|il|désenfil%[m|ât]|
+|que|nous|désenfil%[m|assions]|
+|que|vous|désenfil%[m|assiez]|
+|qu'|ils|désenfil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désenfil%[m|é]|
+|que|tu|eusses|désenfil%[m|é]|
+|qu'|il|eût|désenfil%[m|é]|
+|que|nous|eussions|désenfil%[m|é]|
+|que|vous|eussiez|désenfil%[m|é]|
+|qu'|ils|eussent|désenfil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désenfil%[m|e]|
+|désenfil%[m|ons]|
+|désenfil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désenfil%[m|é]|
+|ayons|désenfil%[m|é]|
+|ayez|désenfil%[m|é]|
+|]
+

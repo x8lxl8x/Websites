@@ -1,0 +1,697 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Statistics</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_6'>        6. Measures of Variation</a><br>
+<br>
+<a href='#section_26'>       6.1. Describing Variability</a><br>
+<a href='#concept_131'>      6.1.1. Range</a><br>
+<a href='#concept_132'>      6.1.2. Variance</a><br>
+<a href='#concept_133'>      6.1.3. Standard Deviation: Definition and Calculation</a><br>
+<a href='#concept_134'>      6.1.4. Interpreting the Standard Deviation</a><br>
+<a href='#concept_135'>      6.1.5. Using a Statistical Calculator</a><br>
+<a href='#concept_136'>      6.1.6. Degrees of Freedom</a><br>
+<a href='#concept_137'>      6.1.7. Interquartile Range</a><br>
+<a href='#concept_138'>      6.1.8. Measures of Variability of Qualitative and Ranked Data</a><br>
+<a href='#concept_139'>      6.1.9. Distorting the Truth with Descriptive Statistics</a><br>
+<a href='#concept_140'>      6.1.10. Exploratory Data Analysis (EDA)</a><br>
+</div>
+
+<h1 id='chapter_6'>6. Measures of Variation</h1>
+
+<h2 id='section_26'>6.1. Describing Variability</h2>
+
+<h3 id='concept_131'>6.1.1. Range</h3>
+
+<blockquote>The range is a measure of the total spread of values in a quantitative dataset.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Interpret the range as the overall dispersion of values in a dataset</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Unlike other more popular measures of dispersion, the range actually measures total dispersion (between the smallest and largest values) rather than relative dispersion around a measure of central tendency.</li>
+<li>The range is measured in the same units as the variable of reference and, thus, has a direct interpretation as such.</li>
+<li>Because the information the range provides is rather limited, it is seldom used in statistical analyses.</li>
+<li>The mid-range of a set of statistical data values is the arithmetic mean of the maximum and minimum values in a data set.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>dispersion</dt>
+<dd>the degree of scatter of data</dd>
+<dt>range</dt>
+<dd>the length of the smallest interval which contains all the data in a sample; the difference between the largest and smallest observations in the sample</dd>
+</dl>
+
+<p>In statistics, the range is a measure of the total spread of values in a quantitative dataset. Unlike other more popular measures of dispersion, the range actually measures total dispersion (between the smallest and largest values) rather than relative dispersion around a measure of central tendency.</p>
+
+<h3>Interpreting the Range</h3>
+
+<p>The range is interpreted as t<em>he overall dispersion</em> of values in a dataset or, more literally, as the <em>difference between the largest and the smallest value</em> in a dataset. The range is measured in the same units as the variable of reference and, thus, has a direct interpretation as such. This can be useful when comparing similar variables but of little use when comparing variables measured in different units. However, because the information the range provides is rather limited, it is seldom used in statistical analyses.</p>
+<p>For example, if you read that the age range of two groups of students is 3 in one group and 7 in another, then you know that the second group is more spread out (there is a difference of seven years between the youngest and the oldest student) than the first (which only sports a difference of three years between the youngest and the oldest student).</p>
+
+<h3>Mid-Range</h3>
+
+<p>The mid-range of a set of statistical data values is the arithmetic mean of the maximum and minimum values in a data set, defined as:</p>
+
+<div class='clFormula'>$\displaystyle M = \frac{x_\text{max}+x_\text{min}}{2}$</div>
+
+<p>The mid-range is the midpoint of the range; as such, it is a measure of central tendency. The mid-range is rarely used in practical statistical analysis, as it lacks efficiency as an estimator for most distributions of interest because it ignores all intermediate points. The mid-range also lacks robustness, as outliers change it significantly. Indeed, it is one of the least efficient and least robust statistics.</p>
+<p>However, it finds some use in special cases:</p>
+<ul>
+<li>It is the maximally efficient estimator for the center of a uniform distribution</li>
+<li>Trimmed mid-ranges address robustness</li>
+<li>As an <span class='clFormula'>$L$</span>
+-estimator, it is simple to understand and compute.</li>
+</ul><h3 id='concept_132'>6.1.2. Variance</h3>
+
+<blockquote>Variance is the sum of the probabilities that various outcomes will occur multiplied by the squared deviations from the average of the random variable.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate variance to describe a population</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>When determining the "spread" of the population, we want to know a measure of the possible distances between the data and the population mean.</li>
+<li>When trying to determine the risk associated with a given set of options, the variance is a very useful tool.</li>
+<li>When dealing with the complete population the (population) variance is a constant, a parameter which helps to describe the population.</li>
+<li>When dealing with a sample from the population the (sample) variance is actually a random variable, whose value differs from sample to sample.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>deviation</dt>
+<dd>For interval variables and ratio variables, a measure of difference between the observed value and the mean.</dd>
+<dt>spread</dt>
+<dd>A numerical difference.</dd>
+</dl>
+
+<p>When describing data, it is helpful (and in some cases necessary) to determine the spread of a distribution. In describing a complete population, the data represents all the elements of the population. When determining the spread of the population, we want to know a measure of the possible distances between the data and the population mean. These distances are known as deviations.</p>
+<p>The variance of a data set measures the average square of these deviations. More specifically, the variance is the sum of the probabilities that various outcomes will occur multiplied by the squared deviations from the average of the random variable. When trying to determine the risk associated with a given set of options, the variance is a very useful tool.</p>
+
+<h3>Calculating the Variance</h3>
+
+<p>Calculating the variance begins with finding the mean. Once the mean is known, the variance is calculated by finding the average squared deviation of each number in the sample from the mean. For the numbers 1, 2, 3, 4, and 5, the mean is 3. The calculation for finding the mean is as follows:</p>
+
+<div class='clFormula'>$\displaystyle \frac{1+2+3+4+5}{5} = \frac{15}{5} = 3$</div>
+
+<p>Once the mean is known, the variance can be calculated. The variance for the above set of numbers is:</p>
+<p><span class='clFormula'>$\displaystyle \sigma^2 = \frac{(1-3)^2 + (2-3)^2 + (3-3)^2 + (4-3)^2 + (5-3)^2}{5}$</span>
+ </p>
+
+<div class='clFormula'>$\displaystyle \sigma^2 = \frac{(-2)^2 + (-1)^2 + (0)^2 + (1)^2 + (2)^2}{5}$</div>
+
+
+<div class='clFormula'>$\displaystyle \sigma^2 = \frac{4+1+0+1+4}{5}$</div>
+
+
+<div class='clFormula'>$\displaystyle \sigma^2 = \frac{10}{5} = 2$</div>
+
+<p>A clear distinction should be made between dealing with the population or with a sample from it. When dealing with the complete population the (population) variance is a constant, a parameter which helps to describe the population. When dealing with a sample from the population the (sample) variance is actually a random variable, whose value differs from sample to sample.</p>
+
+
+
+<a href='../images/18393.jpeg'><img class='clImageThumb' src='../images/18393.jpeg' alt='Population of Cheetahs'></a>
+
+<div><b><i>Population of Cheetahs</i></b></div>
+<p><i>The population variance can be very helpful in analyzing data of various wildlife populations.</i></p>
+
+<h3 id='concept_133'>6.1.3. Standard Deviation: Definition and Calculation</h3>
+
+<blockquote>Standard deviation is a measure of the average distance between the values of the data in the set and the mean.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast the usefulness of variance and standard deviation</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A low standard deviation indicates that the data points tend to be very close to the mean; a high standard deviation indicates that the data points are spread out over a large range of values.</li>
+<li>In addition to expressing the variability of a population, standard deviation is commonly used to measure confidence in statistical conclusions.</li>
+<li>To calculate the population standard deviation, first compute the difference of each data point from the mean, and square the result of each. Next, compute the average of these values, and take the square root.</li>
+<li>The standard deviation is a "natural" measure of statistical dispersion if the center of the data is measured about the mean because the standard deviation from the mean is smaller than from any other point.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>normal distribution</dt>
+<dd>A family of continuous probability distributions such that the probability density function is the normal (or Gaussian) function.</dd>
+<dt>coefficient of variation</dt>
+<dd>The ratio of the standard deviation to the mean.</dd>
+<dt>mean squared error</dt>
+<dd>A measure of the average of the squares of the "errors"; the amount by which the value implied by the estimator differs from the quantity to be estimated.</dd>
+<dt>standard deviation</dt>
+<dd>a measure of how spread out data values are around the mean, defined as the square root of the variance</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>The average height for adult men in the United States is about 70 inches, with a standard deviation of around 3 inches. This means that most men (about 68%, assuming a normal distribution) have a height within 3 inches of the mean (67–73 inches) – one standard deviation – and almost all men (about 95%) have a height within 6 inches of the mean (64–76 inches) – two standard deviations. If the standard deviation were zero, then all men would be exactly 70 inches tall. If the standard deviation were 20 inches, then men would have much more variable heights, with a typical range of about 50–90 inches. Three standard deviations account for 99.7% of the sample population being studied, assuming the distribution is normal (bell-shaped).</li>
+</ul>
+<p>Since the variance is a squared quantity, it cannot be directly compared to the data values or the mean value of a data set. It is therefore more useful to have a quantity that is the square root of the variance. The standard error is an estimate of how close to the population mean your sample mean is likely to be, whereas the standard deviation is the degree to which individuals within the sample differ from the sample mean. This quantity is known as the standard deviation.</p>
+<p>Standard deviation (represented by the symbol sigma, <span class='clFormula'>$\sigma$</span>
+) shows how much variation or dispersion exists from the average (mean), or expected value. More precisely, it is a measure of the average distance between the values of the data in the set and the mean. A low standard deviation indicates that the data points tend to be very close to the mean; a high standard deviation indicates that the data points are spread out over a large range of values. A useful property of standard deviation is that, unlike variance, it is expressed in the same units as the data.</p>
+<p>In statistics, the standard deviation is the most common measure of statistical dispersion. However, in addition to expressing the variability of a population, standard deviation is commonly used to measure confidence in statistical conclusions. For example, the margin of error in polling data is determined by calculating the expected standard deviation in the results if the same poll were to be conducted multiple times.</p>
+
+<h3>Basic Calculation</h3>
+
+<p>Consider a population consisting of the following eight values:</p>
+<p>2, 4, 4, 4, 5, 5, 7, 9</p>
+<p>These eight data points have a mean (average) of 5:</p>
+
+<div class='clFormula'>$\displaystyle \frac{2+4+4+4+5+5+7+9}{8} = 5$</div>
+
+<p>To calculate the population standard deviation, first compute the difference of each data point from the mean, and square the result of each:</p>
+
+<div class='clFormula'>$(2-5)^2 = 9 \\ (4-5)^2 = 1 \\ (4-5)^2 = 1 \\ (4-5)^2 = 1\\ (5-5)^2 = 0 \\ (5-5)^2 = 0 \\ (7-5)^2 = 4 \\ (9-5)^2 = 16 $</div>
+
+<p>Next, compute the average of these values, and take the square root:</p>
+
+<div class='clFormula'>$\displaystyle \sqrt{\frac{9+1+1+1+0+0+4+16}{8}} = 2$</div>
+
+<p>This quantity is the population standard deviation, and is equal to the square root of the variance. The formula is valid only if the eight values we began with form the complete population. If the values instead were a random sample drawn from some larger parent population, then we would have divided by 7 (which is <span class='clFormula'>$n-1$</span>
+) instead of 8 (which is <span class='clFormula'>$n$</span>
+) in the denominator of the last formula, and then the quantity thus obtained would be called the sample standard deviation.</p>
+
+<h3>Estimation</h3>
+
+<p>The sample standard deviation, <span class='clFormula'>$s$</span>
+, is a statistic known as an estimator. In cases where the standard deviation of an entire population cannot be found, it is estimated by examining a random sample taken from the population and computing a statistic of the sample. Unlike the estimation of the population mean, for which the sample mean is a simple estimator with many desirable properties (unbiased, efficient, maximum likelihood), there is no single estimator for the standard deviation with all these properties. Therefore, unbiased estimation of standard deviation is a very technically involved problem.</p>
+<p>As mentioned above, most often the standard deviation is estimated using the corrected sample standard deviation (using <span class='clFormula'>$N-1$</span>
+). However, other estimators are better in other respects:</p>
+<ul>
+<li>Using the uncorrected estimator (using <span class='clFormula'>$N$</span>
+) yields lower mean squared error.</li>
+<li>Using <span class='clFormula'>$N-1.5$</span>
+(for the normal distribution) almost completely eliminates bias.</li>
+</ul>
+
+<h3>Relationship with the Mean</h3>
+
+<p>The mean and the standard deviation of a set of data are usually reported together. In a certain sense, the standard deviation is a "natural" measure of statistical dispersion if the center of the data is measured about the mean. This is because the standard deviation from the mean is smaller than from any other point. Variability can also be measured by the coefficient of variation, which is the ratio of the standard deviation to the mean.</p>
+<p>Often, we want some information about the precision of the mean we obtained. We can obtain this by determining the standard deviation of the sampled mean, which is the standard deviation divided by the square root of the total amount of numbers in a data set:</p>
+
+<div class='clFormula'>$\displaystyle \sigma_{\text{mean}} = \frac{\sigma}{\sqrt{N}}$</div>
+
+
+
+
+<a href='../images/17767.svg'><img class='clImageThumb' src='../images/17767.svg' alt='Standard Deviation Diagram'></a>
+
+<div><b><i>Standard Deviation Diagram</i></b></div>
+<p><i>Dark blue is one standard deviation on either side of the mean. For the normal distribution, this accounts for 68.27 percent of the set; while two standard deviations from the mean (medium and dark blue) account for 95.45 percent; three standard deviations (light, medium, and dark blue) account for 99.73 percent; and four standard deviations account for 99.994 percent.</i></p>
+
+<h3 id='concept_134'>6.1.4. Interpreting the Standard Deviation</h3>
+
+<blockquote>The practical value of understanding the standard deviation of a set of values is in appreciating how much variation there is from the mean.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Derive standard deviation to measure the uncertainty in daily life examples</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A large standard deviation indicates that the data points are far from the mean, and a small standard deviation indicates that they are clustered closely around the mean.</li>
+<li>When deciding whether measurements agree with a theoretical prediction, the standard deviation of those measurements is of crucial importance.</li>
+<li>In finance, standard deviation is often used as a measure of the risk associated with price-fluctuations of a given asset (stocks, bonds, property, etc. ), or the risk of a portfolio of assets.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>disparity</dt>
+<dd>the state of being unequal; difference</dd>
+<dt>standard deviation</dt>
+<dd>a measure of how spread out data values are around the mean, defined as the square root of the variance</dd>
+</dl>
+
+<h5>Example</h5>
+
+<ul>
+<li>In finance, standard deviation is often used as a measure of the risk associated with price-fluctuations of a given asset (stocks, bonds, property, etc.), or the risk of a portfolio of assets. Risk is an important factor in determining how to efficiently manage a portfolio of investments because it determines the variation in returns on the asset and/or portfolio and gives investors a mathematical basis for investment decisions. When evaluating investments, investors should estimate both the expected return and the uncertainty of future returns. Standard deviation provides a quantified estimate of the uncertainty of future returns.</li>
+</ul>
+<p>A large standard deviation, which is the square root of the variance, indicates that the data points are far from the mean, and a small standard deviation indicates that they are clustered closely around the mean. For example, each of the three populations <span class='clFormula'>$\{0, 0, 14, 14\}$</span>
+, <span class='clFormula'>$\{0, 6, 8, 14\}$</span>
+, and <span class='clFormula'>$\{6, 6, 8, 8\}$</span>
+has a mean of 7. Their standard deviations are 7, 5, and 1, respectively. The third population has a much smaller standard deviation than the other two because its values are all close to 7.</p>
+<p>Standard deviation may serve as a measure of uncertainty. In physical science, for example, the reported standard deviation of a group of repeated measurements gives the precision of those measurements. When deciding whether measurements agree with a theoretical prediction, the standard deviation of those measurements is of crucial importance. If the mean of the measurements is too far away from the prediction (with the distance measured in standard deviations), then the theory being tested probably needs to be revised. This makes sense since they fall outside the range of values that could reasonably be expected to occur, if the prediction were correct and the standard deviation appropriately quantified.</p>
+
+<h3>Application of the Standard Deviation</h3>
+
+<p>The practical value of understanding the standard deviation of a set of values is in appreciating how much variation there is from the average (mean).</p>
+
+<h3>Climate</h3>
+
+<p>As a simple example, consider the average daily maximum temperatures for two cities, one inland and one on the coast. It is helpful to understand that the range of daily maximum temperatures for cities near the coast is smaller than for cities inland. Thus, while these two cities may each have the same average maximum temperature, the standard deviation of the daily maximum temperature for the coastal city will be less than that of the inland city as, on any particular day, the actual maximum temperature is more likely to be farther from the average maximum temperature for the inland city than for the coastal one.</p>
+
+<h3>Sports</h3>
+
+<p>Another way of seeing it is to consider sports teams. In any set of categories, there will be teams that rate highly at some things and poorly at others. Chances are, the teams that lead in the standings will not show such disparity but will perform well in most categories. The lower the standard deviation of their ratings in each category, the more balanced and consistent they will tend to be. Teams with a higher standard deviation, however, will be more unpredictable.</p>
+
+
+
+<a href='../images/17780.svg'><img class='clImageThumb' src='../images/17780.svg' alt='Comparison of Standard Deviations'></a>
+
+<div><b><i>Comparison of Standard Deviations</i></b></div>
+<p><i>Example of two samples with the same mean and different standard deviations. The red sample has a mean of 100 and a SD of 10; the blue sample has a mean of 100 and a SD of 50. Each sample has 1,000 values drawn at random from a Gaussian distribution with the specified parameters.</i></p>
+
+<h3 id='concept_135'>6.1.5. Using a Statistical Calculator</h3>
+
+<blockquote>For advanced calculating and graphing, it is often very helpful for students and statisticians to have access to statistical calculators.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Analyze the use of R statistical software and TI-83 graphing calculators</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Two of the most common calculators in use are the TI-83 series and the R statistical software environment.</li>
+<li>The TI-83 includes many features, including function graphing, polar/parametric/sequence graphing modes, statistics, trigonometric, and algebraic functions, along with many useful applications.</li>
+<li>The R language is widely used among statisticians and data miners for developing statistical software and data analysis.</li>
+<li>R provides a wide variety of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, and clustering.</li>
+<li>Another strength of R is static graphics, which can produce publication-quality graphs, including mathematical symbols.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>TI-83</dt>
+<dd>A calculator manufactured by Texas Instruments that is one of the most popular graphing calculators for statistical purposes.</dd>
+<dt>R</dt>
+<dd>A free software programming language and a software environment for statistical computing and graphics.</dd>
+</dl>
+
+<p>For many advanced calculations and/or graphical representations, statistical calculators are often quite helpful for statisticians and students of statistics. Two of the most common calculators in use are the TI-83 series and the R statistical software environment.</p>
+
+<h3>TI-83</h3>
+
+<p>The TI-83 series of graphing calculators, shown in , is manufactured by Texas Instruments. Released in 1996, it was one of the most popular graphing calculators for students. In addition to the functions present on normal scientific calculators, the TI-83 includes many andvanced features, including function graphing, polar/parametric/sequence graphing modes, statistics, trigonometric, and algebraic functions, along with many useful applications.</p>
+
+
+
+<a href='../images/17921.png'><img class='clImageThumb' src='../images/17921.png' alt='TI-83'></a>
+
+<div><b><i>TI-83</i></b></div>
+<p><i>The TI-83 series of graphing calculators is one of the most popular calculators for statistics students.</i></p>
+
+<p>The TI-83 has a handy statistics mode (accessed via the "STAT" button) that will perform such functions as manipulation of one-variable statistics, drawing of histograms and box plots, linear regression, and even distribution tests.</p>
+
+<h3>R</h3>
+
+<p>R (logo shown in ) is a free software programming language and a software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. Polls and surveys of data miners are showing R's popularity has increased substantially in recent years.</p>
+<p>R is an implementation of the S programming language, which was created by John Chambers while he was at Bell Labs. R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team, of which Chambers is a member. R is a GNU project, which means it's source code is freely available under the GNU General Public License.</p>
+<p>R provides a wide variety of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, and clustering. Another strength of R is static graphics, which can produce publication-quality graphs, including mathematical symbols. Dynamic and interactive graphics are available through additional packages.</p>
+<p>R is easily extensible through functions and extensions, and the R community is noted for its active contributions in terms of packages. These packagers allow specialized statistical techniques, graphical devices, import/export capabilities, reporting tools, et cetera. Due to its S heritage, R has stronger object-oriented programming facilities than most statistical computing languages.</p>
+
+<h3 id='concept_136'>6.1.6. Degrees of Freedom</h3>
+
+<blockquote>The number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Outline an example of "degrees of freedom"</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The degree of freedom can be defined as the minimum number of independent coordinates which can specify the position of the system completely.</li>
+<li>A parameter is a characteristic of the variable under examination as a whole; it is part of describing the overall distribution of values.</li>
+<li>As more degrees of freedom are lost, fewer and fewer different situations are accounted for by a model since fewer and fewer pieces of information could, in principle, be different from what is actually observed.</li>
+<li>Degrees of freedom can be seen as linking sample size to explanatory power.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>residual</dt>
+<dd>The difference between the observed value and the estimated function value.</dd>
+<dt>vector</dt>
+<dd>in statistics, a set of real-valued random variables that may be correlated</dd>
+</dl>
+
+<p>The number of independent ways by which a dynamical system can move without violating any constraint imposed on it is known as "degree of freedom. " The degree of freedom can be defined as the minimum number of independent coordinates that completely specify the position of the system.</p>
+<p>Consider this example: To compute the variance, first sum the square deviations from the mean. The mean is a parameter, a characteristic of the variable under examination as a whole, and a part of describing the overall distribution of values. Knowing all the parameters, you can accurately describe the data. The more known (fixed) parameters you know, the fewer samples fit this model of the data. If you know only the mean, there will be many possible sets of data that are consistent with this model. However, if you know the mean and the standard deviation, fewer possible sets of data fit this model.</p>
+<p>In computing the variance, first calculate the mean, then you can vary any of the scores in the data except one. This one score left unexamined can always be calculated accurately from the rest of the data and the mean itself.</p>
+<p>As an example, take the ages of a class of students and find the mean. With a fixed mean, how many of the other scores (there are N of them remember) could still vary? The answer is N-1 independent pieces of information (degrees of freedom) that could vary while the mean is known. One piece of information cannot vary because its value is fully determined by the parameter (in this case the mean) and the other scores. Each parameter that is fixed during our computations constitutes the loss of a degree of freedom.</p>
+<p>Imagine starting with a small number of data points and then fixing a relatively large number of parameters as we compute some statistic. We see that as more degrees of freedom are lost, fewer and fewer different situations are accounted for by our model since fewer and fewer pieces of information could, in principle, be different from what is actually observed.</p>
+<p>Put informally, the "interest" in our data is determined by the degrees of freedom. If there is nothing that can vary once our parameter is fixed (because we have so very few data points, maybe just one) then there is nothing to investigate. Degrees of freedom can be seen as linking sample size to explanatory power.</p>
+<p>The degrees of freedom are also commonly associated with the squared lengths (or "sum of squares" of the coordinates) of random vectors and the parameters of chi-squared and other distributions that arise in associated statistical testing problems.</p>
+
+<h3>Notation and Residuals</h3>
+
+<p>In equations, the typical symbol for degrees of freedom is <span class='clFormula'>$\nu$</span>
+(lowercase Greek letter nu). In text and tables, the abbreviation "<em>d.f</em>. " is commonly used.</p>
+<p>In fitting statistical models to data, the random vectors of residuals are constrained to lie in a space of smaller dimension than the number of components in the vector. That smaller dimension is the number of degrees of freedom for error. In statistical terms, a random vector is a list of mathematical variables each of whose value is unknown, either because the value has not yet occurred or because there is imperfect knowledge of its value. The individual variables in a random vector are grouped together because there may be correlations among them. Often they represent different properties of an individual statistical unit (e.g., a particular person, event, etc.).</p>
+<p>A residual is an observable estimate of the unobservable statistical error. Consider an example with men's heights and suppose we have a random sample of <em>n</em> people. The sample mean could serve as a good estimator of the population mean. The difference between the height of each man in the sample and the observable sample mean is a residual. Note that the sum of the residuals within a random sample is necessarily zero, and thus the residuals are necessarily not independent.</p>
+<p>Perhaps the simplest example is this. Suppose <em>X<sub>1</sub>,...,X<sub>n</sub></em> are random variables each with expected value μ, and let</p>
+
+<div class='clFormula'>$\bar { { X }_{ n } } =\frac { { X }_{ 1 }+\cdot \cdot \cdot +{ X }_{ n } }{ n }$</div>
+
+<p>be the "sample mean. " Then the quantities</p>
+
+<div class='clFormula'>${ X }_{ i }-\bar { { X }_{ n } }$</div>
+
+<p>are residuals that may be considered estimates of the errors<em> X</em><sub>i</sub> − μ. The sum of the residuals is necessarily 0. If one knows the values of any <em>n</em> − 1 of the residuals, one can thus find the last one. That means they are constrained to lie in a space of dimension <em>n</em> − 1, and we say that "there are <em>n</em> − 1 degrees of freedom for error. "</p>
+
+
+
+<a href='../images/17784.png'><img class='clImageThumb' src='../images/17784.png' alt='Degrees of Freedom'></a>
+
+<div><b><i>Degrees of Freedom</i></b></div>
+<p><i>This image illustrates the difference (or distance) between the cumulative distribution functions of the standard normal distribution (Φ) and a hypothetical distribution of a standardized sample mean (Fn). Specifically, the plotted hypothetical distribution is a t distribution with 3 degrees of freedom.</i></p>
+
+<h3 id='concept_137'>6.1.7. Interquartile Range</h3>
+
+<blockquote>The interquartile range (IQR) is a measure of statistical dispersion, or variability, based on dividing a data set into quartiles.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate interquartile range based on a given data set</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The interquartile range is equal to the difference between the upper and lower quartiles: IQR = Q3 − Q1.</li>
+<li>It is a trimmed estimator, defined as the 25% trimmed mid-range, and is the most significant basic robust measure of scale.</li>
+<li>The IQR is used to build box plots, which are simple graphical representations of a probability distribution.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>quartile</dt>
+<dd>any of the three points that divide an ordered distribution into four parts, each containing a quarter of the population</dd>
+<dt>outlier</dt>
+<dd>a value in a statistical sample which does not fit a pattern that describes most other data points; specifically, a value that lies 1.5 IQR beyond the upper or lower quartile</dd>
+</dl>
+
+<p>The interquartile range (IQR) is a measure of statistical dispersion, or variability, based on dividing a data set into quartiles. Quartiles divide an ordered data set into four equal parts. The values that divide these parts are known as the first quartile, second quartile and third quartile (Q1, Q2, Q3). The interquartile range is equal to the difference between the upper and lower quartiles:</p>
+<p>IQR = Q3 − Q1</p>
+<p>It is a trimmed estimator, defined as the 25% trimmed mid-range, and is the most significant basic robust measure of scale. As an example, consider the following numbers:</p>
+<p>1, 13, 6, 21, 19, 2, 137</p>
+<p>Put the data in numerical order: 1, 2, 6, 13, 19, 21, 137</p>
+<p>Find the median of the data: 13</p>
+<p>Divide the data into four quartiles by finding the median of all the numbers below the median of the full set, and then find the median of all the numbers above the median of the full set.</p>
+<p>To find the lower quartile, take all of the numbers below the median: 1, 2, 6</p>
+<p>Find the median of these numbers: take the first and last number in the subset and add their positions (not values) and divide by two. This will give you the position of your median:</p>
+<p>1+3 = 4/2 = 2</p>
+<p>The median of the subset is the second position, which is two. Repeat with numbers above the median of the full set: 19, 21, 137. Median is 1+3 = 4/2 = 2<sup>nd</sup> position, which is 21. This median separates the third and fourth quartiles.</p>
+<p>Subtract the lower quartile from the upper quartile: 21-2=19. This is the Interquartile range, or IQR.</p>
+<p><em>If there is an even number of values, then the position of the median will be in between two numbers. </em>In that case, take the average of the two numbers that the median is between. Example: 1, 3, 7, 12. Median is 1+4=5/2=2.5<sup>th</sup> position, so it is the average of the second and third positions, which is 3+7=10/2=5. This median separates the first and second quartiles.</p>
+
+<h3>Uses</h3>
+
+<p>Unlike (total) range, the interquartile range has a breakdown point of 25%. Thus, it is often preferred to the total range. In other words, since this process excludes outliers, the interquartile range is a more accurate representation of the "spread" of the data than range.</p>
+<p>The IQR is used to build box plots, which are simple graphical representations of a probability distribution. A box plot separates the quartiles of the data. All outliers are displayed as regular points on the graph. The vertical line in the box indicates the location of the median of the data. The box starts at the lower quartile and ends at the upper quartile, so the difference, or length of the boxplot, is the IQR.</p>
+<p>On this boxplot in , the IQR is about 300, because Q1 starts at about 300 and Q3 ends at 600, and 600 - 300 = 300.</p>
+
+
+
+<a href='../images/17786.png'><img class='clImageThumb' src='../images/17786.png' alt='Interquartile Range'></a>
+
+<div><b><i>Interquartile Range</i></b></div>
+<p><i>The IQR is used to build box plots, which are simple graphical representations of a probability distribution.</i></p>
+
+<p>In a boxplot, if the median (Q2 vertical line) is in the center of the box, the distribution is symmetrical. If the median is to the left of the data (such as in the graph above), then the distribution is considered to be skewed right because there is more data on the right side of the median. Similarly, if the median is on the right side of the box, the distribution is skewed left because there is more data on the left side.</p>
+<p>The range of this data is 1,700 (biggest outlier) - 500 (smallest outlier) = 2,200. If you wanted to leave out the outliers for a more accurate reading, you would subtract the values at the ends of both "whiskers:"</p>
+<p>1,000 - 0 = 1,000</p>
+<p>To calculate whether something is truly an outlier or not you use the formula 1.5 x IQR. Once you get that number, the range that includes numbers that are not outliers is [Q1 - 1.5(IQR), Q3 + 1.5(IQR)]. Anything lying outside those numbers are true outliers.</p>
+
+<h3 id='concept_138'>6.1.8. Measures of Variability of Qualitative and Ranked Data</h3>
+
+<blockquote>Variability for qualitative data is measured in terms of how often observations differ from one another.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Assess the use of IQV in measuring statistical dispersion in nominal distributions</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The notion of "how far apart" does not make sense when evaluating qualitative data. Instead, we should focus on the unlikeability, or how often observations differ.</li>
+<li>An index of qualitative variation (IQV) is a measure of statistical dispersion in nominal distributions--or those dealing with qualitative data.</li>
+<li>The variation ratio is the simplest measure of qualitative variation. It is defined as the proportion of cases which are not the mode.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>qualitative data</dt>
+<dd>data centered around descriptions or distinctions based on some quality or characteristic rather than on some quantity or measured value</dd>
+<dt>variation ratio</dt>
+<dd>the proportion of cases not in the mode</dd>
+</dl>
+
+<p>The study of statistics generally places considerable focus upon the distribution and measure of variability of quantitative variables. A discussion of the variability of qualitative--or categorical-- data can sometimes be absent. In such a discussion, we would consider the variability of qualitative data in terms of unlikeability. Unlikeability can be defined as the frequency with which observations differ from one another. Consider this in contrast to the variability of quantitative data, which ican be defined as the extent to which the values differ from the mean. In other words, the notion of "how far apart" does not make sense when evaluating qualitative data. Instead, we should focus on the unlikeability.</p>
+<p>In qualitative research, two responses differ if they are in different categories and are the same if they are in the same category. Consider two polls with the simple parameters of "agree" or "disagree. " These polls question 100 respondents. The first poll results in 75 "agrees" while the second poll only results in 50 "agrees. " The first poll has less variability since more respondents answered similarly.</p>
+
+<h3>Index of Qualitative Variation</h3>
+
+<p>An index of qualitative variation (IQV) is a measure of statistical dispersion in nominal distributions--or those dealing with qualitative data. The following standardization properties are required to be satisfied:</p>
+<ul>
+<li>Variation varies between 0 and 1.</li>
+<li>Variation is 0 if and only if all cases belong to a single category.</li>
+<li>Variation is 1 if and only if cases are evenly divided across all categories.</li>
+</ul>
+<p>In particular, the value of these standardized indices does not depend on the number of categories or number of samples. For any index, the closer to uniform the distribution, the larger the variance, and the larger the differences in frequencies across categories, the smaller the variance.</p>
+
+<h3>Variation Ratio</h3>
+
+<p>The variation ratio is a simple measure of statistical dispersion in nominal distributions. It is the simplest measure of qualitative variation. It is defined as the proportion of cases which are not the mode:</p>
+
+<div class='clFormula'>$\displaystyle v=1-\frac{f_m}{N}$</div>
+
+<p>Just as with the range or standard deviation, the larger the variation ratio, the more differentiated or dispersed the data are; and the smaller the variation ratio, the more concentrated and similar the data are.</p>
+<p>For example, a group which is 55% female and 45% male has a proportion of 0.55 females and, therefore, a variation ratio of:</p>
+
+<div class='clFormula'>$1.0-0.55=0.45$</div>
+
+<p>This group is more dispersed in terms of gender than a group which is 95% female and has a variation ratio of only 0.05. Similarly, a group which is 25% Catholic (where Catholic is the modal religious preference) has a variation ratio of 0.75. This group is much more dispersed, religiously, than a group which is 85% Catholic and has a variation ratio of only 0.15.</p>
+
+<h3 id='concept_139'>6.1.9. Distorting the Truth with Descriptive Statistics</h3>
+
+<blockquote>Descriptive statistics can be manipulated in many ways that can be misleading, including the changing of scale and statistical bias.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Assess the significance of descriptive statistics given its limitations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Descriptive statistics is a powerful form of research because it collects and summarizes vast amounts of data and information in a manageable and organized manner.</li>
+<li>Descriptive statistics, however, lacks the ability to identify the cause behind the phenomenon, correlate (associate) data, account for randomness, or provide statistical calculations that can lead to hypothesis or theories of populations studied.</li>
+<li>A statistic is biased if it is calculated in such a way that is systematically different from the population parameter of interest.</li>
+<li>Every time you try to describe a large set of observations with a single descriptive statistics indicator, you run the risk of distorting the original data or losing important detail.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>null hypothesis</dt>
+<dd>A hypothesis set up to be refuted in order to support an alternative hypothesis; presumed true until statistical evidence in the form of a hypothesis test indicates otherwise.</dd>
+<dt>descriptive statistics</dt>
+<dd>A branch of mathematics dealing with summarization and description of collections of data sets, including the concepts of arithmetic mean, median, and mode.</dd>
+<dt>bias</dt>
+<dd>(Uncountable) Inclination towards something; predisposition, partiality, prejudice, preference, predilection.</dd>
+</dl>
+
+<p>Descriptive statistics can be manipulated in many ways that can be misleading. Graphs need to be carefully analyzed, and questions must always be asked about "the story behind the figures. " Potential manipulations include:</p>
+<ul>
+<li>changing the scale to change the appearence of a graph</li>
+<li>omissions and biased selection of data</li>
+<li>focus on particular research questions</li>
+<li>selection of groups</li>
+</ul>
+<p>As an example of changing the scale of a graph, consider the following two figures, and .</p>
+
+
+
+<a href='../images/17924.png'><img class='clImageThumb' src='../images/17924.png' alt='Effects of Changing Scale'></a>
+
+<div><b><i>Effects of Changing Scale</i></b></div>
+<p><i>In this graph, the earnings scale is greater.</i></p>
+
+
+
+<a href='../images/17925.png'><img class='clImageThumb' src='../images/17925.png' alt='Effects of Changing Scale'></a>
+
+<div><b><i>Effects of Changing Scale</i></b></div>
+<p><i>This is a graph plotting yearly earnings.</i></p>
+
+<p>Both graphs plot the years 2002, 2003, and 2004 along the x-axis. However, the y-axis of the first graph presents earnings from "0 to 10," while the y-axis of the second graph presents earnings from "0 to 30. " Therefore, there is a distortion between the two of the rate of increased earnings.</p>
+
+<h3>Statistical Bias</h3>
+
+<p>Bias is another common distortion in the field of descriptive statistics. A statistic is biased if it is calculated in such a way that is systematically different from the population parameter of interest. The following are examples of statistical bias.</p>
+<ul>
+<li>
+<em>Selection bias </em>occurs when individuals or groups are more likely to take part in a research project than others, resulting in biased samples.</li>
+<li>
+<em>Spectrum bias</em> arises from evaluating diagnostic tests on biased patient samples, leading to an overestimate of the sensitivity and specificity of the test.</li>
+<li>The <em>bias of an estimator</em> is the difference between an estimator's expectations and the true value of the parameter being estimated.</li>
+<li>
+<em>Omitted-</em>variable<em> bias</em> appears in estimates of parameters in a regression analysis when the assumed specification is incorrect, in that it omits an independent variable that should be in the model.</li>
+<li>In <em>statistical hypothesis testing</em>, a test is said to be unbiased when the probability of rejecting the null hypothesis is less than or equal to the significance level when the null hypothesis is true, and the probability of rejecting the null hypothesis is greater than or equal to the significance level when the alternative hypothesis is true.</li>
+<li>
+<em>Detection bias</em> occurs when a phenomenon is more likely to be observed and/or reported for a particular set of study subjects.</li>
+<li>
+<em>Funding bias</em> may lead to selection of outcomes, test samples, or test procedures that favor a study's financial sponsor.</li>
+<li>
+<em>Reporting bias</em> involves a skew in the availability of data, such that observations of a certain kind may be more likely to be reported and consequently used in research.</li>
+<li>
+<em>Data-snooping bias</em> comes from the misuse of data mining techniques.</li>
+<li>
+<em>Analytical bias</em> arises due to the way that the results are evaluated.</li>
+<li>
+<em>Exclusion bias</em> arises due to the systematic exclusion of certain individuals from the study</li>
+</ul>
+
+<h3>Limitations of Descriptive Statistics</h3>
+
+<p>Descriptive statistics is a powerful form of research because it collects and summarizes vast amounts of data and information in a manageable and organized manner. Moreover, it establishes the standard deviation and can lay the groundwork for more complex statistical analysis.</p>
+<p>However, what descriptive statistics lacks is the ability to:</p>
+
+<ol>
+<li>identify the cause behind the phenomenon because it only describes and reports observations;</li>
+<li>correlate (associate) data or create any type of statistical relationship modeling relationship among variables;</li>
+<li>account for randomness; and</li>
+<li>provide statistical calculations that can lead to hypothesis or theories of populations studied.</li>
+</ol>
+<p>To illustrate you can use descriptive statistics to calculate a raw GPA score, but a raw GPA does not reflect:</p>
+
+<ol>
+<li>how difficult the courses were, or</li>
+<li>the identity of major fields and disciplines in which courses were taken.</li>
+</ol>
+<p>In other words, every time you try to describe a large set of observations with a single descriptive statistics indicator, you run the risk of distorting the original data or losing important detail.</p>
+
+<h3 id='concept_140'>6.1.10. Exploratory Data Analysis (EDA)</h3>
+
+<blockquote>Exploratory data analysis is an approach to analyzing data sets in order to summarize their main characteristics, often with visual methods.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how the techniques of EDA achieve its objectives</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>EDA is concerned with uncovering underlying structure, extracting important variables, detecting outliers and anomalies, testing underlying assumptions, and developing models.</li>
+<li>Exploratory data analysis was promoted by John Tukey to encourage statisticians to explore the data and possibly formulate hypotheses that could lead to new data collection and experiments.</li>
+<li>Robust statistics and nonparametric statistics both try to reduce the sensitivity of statistical inferences to errors in formulating statistical models.</li>
+<li>Many EDA techniques have been adopted into data mining and are being taught to young students as a way to introduce them to statistical thinking.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>skewed</dt>
+<dd>Biased or distorted (pertaining to statistics or information).</dd>
+<dt>data mining</dt>
+<dd>a technique for searching large-scale databases for patterns; used mainly to find previously unknown correlations between variables that may be commercially useful</dd>
+<dt>exploratory data analysis</dt>
+<dd>an approach to analyzing data sets that is concerned with uncovering underlying structure, extracting important variables, detecting outliers and anomalies, testing underlying assumptions, and developing models</dd>
+</dl>
+
+<p>Exploratory data analysis (EDA) is an approach to analyzing data sets in order to summarize their main characteristics, often with visual methods. It is a statistical practice concerned with (among other things):</p>
+<ul>
+<li>uncovering underlying structure,</li>
+<li>extracting important variables,</li>
+<li>detecting outliers and anomalies,</li>
+<li>testing underlying assumptions, and</li>
+<li>developing models.</li>
+</ul>
+<p>Primarily, EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task. EDA is different from initial data analysis (IDA), which focuses more narrowly on checking assumptions required for model fitting and hypothesis testing, handling missing values, and making transformations of variables as needed. EDA encompasses IDA.</p>
+<p>Exploratory data analysis was promoted by John Tukey to encourage statisticians to explore the data and possibly formulate hypotheses that could lead to new data collection and experiments. Tukey's EDA was related to two other developments in statistical theory: robust statistics and nonparametric statistics. Both of these try to reduce the sensitivity of statistical inferences to errors in formulating statistical models. Tukey promoted the use of the five number summary of numerical data:</p>
+<ul>
+<li>the two extremes (maximum and minimum),</li>
+<li>the median, and</li>
+<li>the quartiles.</li>
+</ul>
+<p>His reasoning was that the median and quartiles, being functions of the empirical distribution, are defined for all distributions, unlike the mean and standard deviation. Moreover, the quartiles and median are more robust to skewed or heavy-tailed distributions than traditional summaries (the mean and standard deviation).</p>
+<p>Exploratory data analysis, robust statistics, and nonparametric statistics facilitated statisticians' work on scientific and engineering problems. Such problems included the fabrication of semiconductors and the understanding of communications networks. These statistical developments, all championed by Tukey, were designed to complement the analytic theory of testing statistical hypotheses.</p>
+
+<h3>Objectives of EDA</h3>
+
+<p>Tukey held that too much emphasis in statistics was placed on statistical hypothesis testing (confirmatory data analysis) and more emphasis needed to be placed on using data to suggest hypotheses to test. In particular, he held that confusing the two types of analyses and employing them on the same set of data can lead to systematic bias owing to the issues inherent in testing hypotheses suggested by the data.</p>
+<p>Subsequently, the objectives of EDA are to:</p>
+
+<ol>
+<li>suggest hypotheses about the causes of observed phenomena,</li>
+<li>assess assumptions on which statistical inference will be based,</li>
+<li>support the selection of appropriate statistical tools and techniques, and</li>
+<li>provide a basis for further data collection through surveys or experiments.</li>
+</ol>
+
+<h3>Techniques of EDA</h3>
+
+<p>Although EDA is characterized more by the attitude taken than by particular techniques, there are a number of tools that are useful. Many EDA techniques have been adopted into data mining and are being taught to young students as a way to introduce them to statistical thinking. Typical graphical techniques used in EDA are:</p>
+<ul>
+<li>Box plots</li>
+<li>
+Histograms
+</li>
+<li>Multi-vari charts</li>
+<li>Run charts</li>
+<li>Pareto charts</li>
+<li>Scatter plots</li>
+<li>Stem-and-leaf plots</li>
+<li>Parallel coordinates</li>
+<li>Odds ratios</li>
+<li>Multidimensional scaling</li>
+<li>Targeted projection pursuits</li>
+<li>Principal component analyses</li>
+<li>Parallel coordinate plots</li>
+<li>Interactive versions of these plots</li>
+<li>Projection methods such as grand tour, guided tour and manual tour</li>
+</ul>
+<p>These EDA techniques aim to position these plots so as to maximize our natural pattern-recognition abilities. <em>A clear picture is worth a thousand words</em>!</p>
+
+
+
+<a href='../images/17788.svg'><img class='clImageThumb' src='../images/17788.svg' alt='Scatter Plots'></a>
+
+<div><b><i>Scatter Plots</i></b></div>
+<p><i>A scatter plot is one visual statistical technique developed from EDA.</i></p>
+
+</div>
+</div>
+</body>
+</html>

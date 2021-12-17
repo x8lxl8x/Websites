@@ -1,0 +1,190 @@
+# cabiner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cabin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cabin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cabin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cabin%[m|é]|
+|ayant|cabin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cabin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cabin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cabin%[m|e]|
+|tu|cabin%[m|es]|
+|il|cabin%[m|e]|
+|nous|cabin%[m|ons]|
+|vous|cabin%[m|ez]|
+|ils|cabin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cabin%[m|é]|
+|tu|as |cabin%[m|é]|
+|il|a|cabin%[m|é]|
+|nous|avons|cabin%[m|é]|
+|vous|avez|cabin%[m|é]|
+|ils|ont|cabin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cabin%[m|ais]|
+|tu|cabin%[m|ais]|
+|il|cabin%[m|ait]|
+|nous|cabin%[m|ions]|
+|vous|cabin%[m|iez]|
+|ils|cabin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cabin%[m|é]|
+|tu|avais|cabin%[m|é]|
+|il|avait|cabin%[m|é]|
+|nous|avions|cabin%[m|é]|
+|vous|aviez|cabin%[m|é]|
+|ils|avaient|cabin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cabin%[m|ai]|
+|tu|cabin%[m|as]|
+|il|cabin%[m|a]|
+|nous|cabin%[m|âmes]|
+|vous|cabin%[m|âtes]|
+|ils|cabin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cabin%[m|é]|
+|tu|eus|cabin%[m|é]|
+|il|eut|cabin%[m|é]|
+|nous|e&ucirc;mes|cabin%[m|é]|
+|vous|e&ucirc;tes|cabin%[m|é]|
+|ils|eurent|cabin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cabin%[m|erai]|
+|tu|cabin%[m|eras]|
+|il|cabin%[m|era]|
+|nous|cabin%[m|erons]|
+|vous|cabin%[m|erez]|
+|ils|cabin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cabin%[m|é]|
+|tu|auras|cabin%[m|é]|
+|il|aura|cabin%[m|é]|
+|nous|aurons|cabin%[m|é]|
+|vous|aurez|cabin%[m|é]|
+|ils|auront|cabin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cabin%[m|erais]|
+|tu|cabin%[m|erais]|
+|il|cabin%[m|erait]|
+|nous|cabin%[m|erions]|
+|vous|cabin%[m|eriez]|
+|ils|cabin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cabin%[m|é]|
+|tu|aurais|cabin%[m|é]|
+|il|aurait|cabin%[m|é]|
+|nous|aurions|cabin%[m|é]|
+|vous|auriez|cabin%[m|é]|
+|ils|auraient|cabin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cabin%[m|e]|
+|que|tu|cabin%[m|es]|
+|qu'|il|cabin%[m|e]|
+|que|nous|cabin%[m|ions]|
+|que|vous|cabin%[m|iez]|
+|qu'|ils|cabin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cabin%[m|é]|
+|que|tu|aies|cabin%[m|é]|
+|qu'|il|ait|cabin%[m|é]|
+|que|nous|ayons|cabin%[m|é]|
+|que|vous|ayez|cabin%[m|é]|
+|qu'|ils|aient|cabin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cabin%[m|asse]|
+|que|tu|cabin%[m|asses]|
+|qu'|il|cabin%[m|ât]|
+|que|nous|cabin%[m|assions]|
+|que|vous|cabin%[m|assiez]|
+|qu'|ils|cabin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cabin%[m|é]|
+|que|tu|eusses|cabin%[m|é]|
+|qu'|il|eût|cabin%[m|é]|
+|que|nous|eussions|cabin%[m|é]|
+|que|vous|eussiez|cabin%[m|é]|
+|qu'|ils|eussent|cabin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cabin%[m|e]|
+|cabin%[m|ons]|
+|cabin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cabin%[m|é]|
+|ayons|cabin%[m|é]|
+|ayez|cabin%[m|é]|
+|]
+

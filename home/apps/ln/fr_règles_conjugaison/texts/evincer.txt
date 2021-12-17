@@ -1,0 +1,190 @@
+# évincer %[clVerbGroup|1]
+[-
+éloigner, priver quelqu'un d'une place. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|évin%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|évin%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|évin%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||évin%[m|cé]|
+|ayant|évin%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en évin%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|évin%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|évin%[m|ce]|
+|tu|évin%[m|ces]|
+|il|évin%[m|ce]|
+|nous|évin%[m|çons]|
+|vous|évin%[m|cez]|
+|ils|évin%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|évin%[m|cé]|
+|tu|as |évin%[m|cé]|
+|il|a|évin%[m|cé]|
+|nous|avons|évin%[m|cé]|
+|vous|avez|évin%[m|cé]|
+|ils|ont|évin%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|évin%[m|çais]|
+|tu|évin%[m|çais]|
+|il|évin%[m|çait]|
+|nous|évin%[m|cions]|
+|vous|évin%[m|ciez]|
+|ils|évin%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|évin%[m|cé]|
+|tu|avais|évin%[m|cé]|
+|il|avait|évin%[m|cé]|
+|nous|avions|évin%[m|cé]|
+|vous|aviez|évin%[m|cé]|
+|ils|avaient|évin%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|évin%[m|çai]|
+|tu|évin%[m|ças]|
+|il|évin%[m|ça]|
+|nous|évin%[m|çâmes]|
+|vous|évin%[m|çâtes]|
+|ils|évin%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|évin%[m|cé]|
+|tu|eus|évin%[m|cé]|
+|il|eut|évin%[m|cé]|
+|nous|e&ucirc;mes|évin%[m|cé]|
+|vous|e&ucirc;tes|évin%[m|cé]|
+|ils|eurent|évin%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|évin%[m|cerai]|
+|tu|évin%[m|ceras]|
+|il|évin%[m|cera]|
+|nous|évin%[m|cerons]|
+|vous|évin%[m|cerez]|
+|ils|évin%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|évin%[m|cé]|
+|tu|auras|évin%[m|cé]|
+|il|aura|évin%[m|cé]|
+|nous|aurons|évin%[m|cé]|
+|vous|aurez|évin%[m|cé]|
+|ils|auront|évin%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|évin%[m|cerais]|
+|tu|évin%[m|cerais]|
+|il|évin%[m|cerait]|
+|nous|évin%[m|cerions]|
+|vous|évin%[m|ceriez]|
+|ils|évin%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|évin%[m|cé]|
+|tu|aurais|évin%[m|cé]|
+|il|aurait|évin%[m|cé]|
+|nous|aurions|évin%[m|cé]|
+|vous|auriez|évin%[m|cé]|
+|ils|auraient|évin%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|évin%[m|ce]|
+|que|tu|évin%[m|ces]|
+|qu'|il|évin%[m|ce]|
+|que|nous|évin%[m|cions]|
+|que|vous|évin%[m|ciez]|
+|qu'|ils|évin%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|évin%[m|cé]|
+|que|tu|aies|évin%[m|cé]|
+|qu'|il|ait|évin%[m|cé]|
+|que|nous|ayons|évin%[m|cé]|
+|que|vous|ayez|évin%[m|cé]|
+|qu'|ils|aient|évin%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|évin%[m|çasse]|
+|que|tu|évin%[m|çasses]|
+|qu'|il|évin%[m|çât]|
+|que|nous|évin%[m|çassions]|
+|que|vous|évin%[m|çassiez]|
+|qu'|ils|évin%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|évin%[m|cé]|
+|que|tu|eusses|évin%[m|cé]|
+|qu'|il|eût|évin%[m|cé]|
+|que|nous|eussions|évin%[m|cé]|
+|que|vous|eussiez|évin%[m|cé]|
+|qu'|ils|eussent|évin%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|évin%[m|ce]|
+|évin%[m|çons]|
+|évin%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|évin%[m|cé]|
+|ayons|évin%[m|cé]|
+|ayez|évin%[m|cé]|
+|]
+

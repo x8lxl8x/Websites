@@ -1,0 +1,190 @@
+# opaliser %[clVerbGroup|1]
+[-
+donner l'aspect translucide de l'opale. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|opalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|opalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|opalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||opalis%[m|é]|
+|ayant|opalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en opalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|opalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|opalis%[m|e]|
+|tu|opalis%[m|es]|
+|il|opalis%[m|e]|
+|nous|opalis%[m|ons]|
+|vous|opalis%[m|ez]|
+|ils|opalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|opalis%[m|é]|
+|tu|as |opalis%[m|é]|
+|il|a|opalis%[m|é]|
+|nous|avons|opalis%[m|é]|
+|vous|avez|opalis%[m|é]|
+|ils|ont|opalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|opalis%[m|ais]|
+|tu|opalis%[m|ais]|
+|il|opalis%[m|ait]|
+|nous|opalis%[m|ions]|
+|vous|opalis%[m|iez]|
+|ils|opalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|opalis%[m|é]|
+|tu|avais|opalis%[m|é]|
+|il|avait|opalis%[m|é]|
+|nous|avions|opalis%[m|é]|
+|vous|aviez|opalis%[m|é]|
+|ils|avaient|opalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|opalis%[m|ai]|
+|tu|opalis%[m|as]|
+|il|opalis%[m|a]|
+|nous|opalis%[m|âmes]|
+|vous|opalis%[m|âtes]|
+|ils|opalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|opalis%[m|é]|
+|tu|eus|opalis%[m|é]|
+|il|eut|opalis%[m|é]|
+|nous|e&ucirc;mes|opalis%[m|é]|
+|vous|e&ucirc;tes|opalis%[m|é]|
+|ils|eurent|opalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|opalis%[m|erai]|
+|tu|opalis%[m|eras]|
+|il|opalis%[m|era]|
+|nous|opalis%[m|erons]|
+|vous|opalis%[m|erez]|
+|ils|opalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|opalis%[m|é]|
+|tu|auras|opalis%[m|é]|
+|il|aura|opalis%[m|é]|
+|nous|aurons|opalis%[m|é]|
+|vous|aurez|opalis%[m|é]|
+|ils|auront|opalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|opalis%[m|erais]|
+|tu|opalis%[m|erais]|
+|il|opalis%[m|erait]|
+|nous|opalis%[m|erions]|
+|vous|opalis%[m|eriez]|
+|ils|opalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|opalis%[m|é]|
+|tu|aurais|opalis%[m|é]|
+|il|aurait|opalis%[m|é]|
+|nous|aurions|opalis%[m|é]|
+|vous|auriez|opalis%[m|é]|
+|ils|auraient|opalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|opalis%[m|e]|
+|que|tu|opalis%[m|es]|
+|qu'|il|opalis%[m|e]|
+|que|nous|opalis%[m|ions]|
+|que|vous|opalis%[m|iez]|
+|qu'|ils|opalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|opalis%[m|é]|
+|que|tu|aies|opalis%[m|é]|
+|qu'|il|ait|opalis%[m|é]|
+|que|nous|ayons|opalis%[m|é]|
+|que|vous|ayez|opalis%[m|é]|
+|qu'|ils|aient|opalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|opalis%[m|asse]|
+|que|tu|opalis%[m|asses]|
+|qu'|il|opalis%[m|ât]|
+|que|nous|opalis%[m|assions]|
+|que|vous|opalis%[m|assiez]|
+|qu'|ils|opalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|opalis%[m|é]|
+|que|tu|eusses|opalis%[m|é]|
+|qu'|il|eût|opalis%[m|é]|
+|que|nous|eussions|opalis%[m|é]|
+|que|vous|eussiez|opalis%[m|é]|
+|qu'|ils|eussent|opalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|opalis%[m|e]|
+|opalis%[m|ons]|
+|opalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|opalis%[m|é]|
+|ayons|opalis%[m|é]|
+|ayez|opalis%[m|é]|
+|]
+

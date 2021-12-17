@@ -1,0 +1,190 @@
+# départir %[clVerbGroup|3]
+[-
+attribuer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dépar%[m|tir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dépar%[m|tant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dépar%[m|ti]|
+|ayant|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dépar%[m|tant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dépar%[m|s]|
+|tu|dépar%[m|s]|
+|il|dépar%[m|t]|
+|nous|dépar%[m|tons]|
+|vous|dépar%[m|tez]|
+|ils|dépar%[m|tent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dépar%[m|ti]|
+|tu|as |dépar%[m|ti]|
+|il|a|dépar%[m|ti]|
+|nous|avons|dépar%[m|ti]|
+|vous|avez|dépar%[m|ti]|
+|ils|ont|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dépar%[m|tais]|
+|tu|dépar%[m|tais]|
+|il|dépar%[m|tait]|
+|nous|dépar%[m|tions]|
+|vous|dépar%[m|tiez]|
+|ils|dépar%[m|taient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dépar%[m|ti]|
+|tu|avais|dépar%[m|ti]|
+|il|avait|dépar%[m|ti]|
+|nous|avions|dépar%[m|ti]|
+|vous|aviez|dépar%[m|ti]|
+|ils|avaient|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dépar%[m|tis]|
+|tu|dépar%[m|tis]|
+|il|dépar%[m|tit]|
+|nous|dépar%[m|tîmes]|
+|vous|dépar%[m|tîtes]|
+|ils|dépar%[m|tirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dépar%[m|ti]|
+|tu|eus|dépar%[m|ti]|
+|il|eut|dépar%[m|ti]|
+|nous|e&ucirc;mes|dépar%[m|ti]|
+|vous|e&ucirc;tes|dépar%[m|ti]|
+|ils|eurent|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dépar%[m|tirai]|
+|tu|dépar%[m|tiras]|
+|il|dépar%[m|tira]|
+|nous|dépar%[m|tirons]|
+|vous|dépar%[m|tirez]|
+|ils|dépar%[m|tiront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dépar%[m|ti]|
+|tu|auras|dépar%[m|ti]|
+|il|aura|dépar%[m|ti]|
+|nous|aurons|dépar%[m|ti]|
+|vous|aurez|dépar%[m|ti]|
+|ils|auront|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dépar%[m|tirais]|
+|tu|dépar%[m|tirais]|
+|il|dépar%[m|tirait]|
+|nous|dépar%[m|tirions]|
+|vous|dépar%[m|tiriez]|
+|ils|dépar%[m|tiraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dépar%[m|ti]|
+|tu|aurais|dépar%[m|ti]|
+|il|aurait|dépar%[m|ti]|
+|nous|aurions|dépar%[m|ti]|
+|vous|auriez|dépar%[m|ti]|
+|ils|auraient|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dépar%[m|te]|
+|que|tu|dépar%[m|tes]|
+|qu'|il|dépar%[m|te]|
+|que|nous|dépar%[m|tions]|
+|que|vous|dépar%[m|tiez]|
+|qu'|ils|dépar%[m|tent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dépar%[m|ti]|
+|que|tu|aies|dépar%[m|ti]|
+|qu'|il|ait|dépar%[m|ti]|
+|que|nous|ayons|dépar%[m|ti]|
+|que|vous|ayez|dépar%[m|ti]|
+|qu'|ils|aient|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dépar%[m|tisse]|
+|que|tu|dépar%[m|tisses]|
+|qu'|il|dépar%[m|tît]|
+|que|nous|dépar%[m|tissions]|
+|que|vous|dépar%[m|tissiez]|
+|qu'|ils|dépar%[m|tissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dépar%[m|ti]|
+|que|tu|eusses|dépar%[m|ti]|
+|qu'|il|eût|dépar%[m|ti]|
+|que|nous|eussions|dépar%[m|ti]|
+|que|vous|eussiez|dépar%[m|ti]|
+|qu'|ils|eussent|dépar%[m|ti]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dépar%[m|s]|
+|dépar%[m|tons]|
+|dépar%[m|tez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dépar%[m|ti]|
+|ayons|dépar%[m|ti]|
+|ayez|dépar%[m|ti]|
+|]
+

@@ -1,0 +1,191 @@
+# s'émouvoir %[clVerbGroup|3]
+[-
+provoquer une émotion chez quelqu'un. 
+être agité par une émotion plus ou moins vive. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'ém%[m|ouvoir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|ém%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'ém%[m|ouvant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|ém%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'ém%[m|ouvant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|ém%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|ém%[m|eus]|
+|tu|t'|ém%[m|eus]|
+|il|s'|ém%[m|eut]|
+|nous|nous|ém%[m|ouvons]|
+|vous|vous|ém%[m|ouvez]|
+|ils|s'|ém%[m|euvent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|ém%[m|u]|
+|tu|t'|es|ém%[m|u]|
+|il|s'|est|ém%[m|u]|
+|nous|nous|sommes|ém%[m|us]|
+|vous|vous|êtes|ém%[m|us]|
+|ils|se|sont|ém%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|ém%[m|ouvais]|
+|tu|t'|ém%[m|ouvais]|
+|il|s'|ém%[m|ouvait]|
+|nous|nous|ém%[m|ouvions]|
+|vous|vous|ém%[m|ouviez]|
+|ils|s'|ém%[m|ouvaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|ém%[m|u]|
+|tu|t'|étais|ém%[m|u]|
+|il|s'|était|ém%[m|u]|
+|nous|nous|étions|ém%[m|us]|
+|vous|vous|étiez|ém%[m|us]|
+|ils|s'|étaient|ém%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|ém%[m|us]|
+|tu|t'|ém%[m|us]|
+|il|s'|ém%[m|ut]|
+|nous|nous|ém%[m|ûmes]|
+|vous|vous|ém%[m|ûtes]|
+|ils|s'|ém%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|ém%[m|u]|
+|tu|te|fus|ém%[m|u]|
+|il|se|fut|ém%[m|u]|
+|nous|nous|fûmes|ém%[m|us]|
+|vous|vous|fûtes|ém%[m|us]|
+|ils|se|furent|ém%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|ém%[m|ouvrai]|
+|tu|t'|ém%[m|ouvras]|
+|il|s'|ém%[m|ouvra]|
+|nous|nous|ém%[m|ouvrons]|
+|vous|vous|ém%[m|ouvrez]|
+|ils|s'|ém%[m|ouvront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|ém%[m|u]|
+|tu|te|seras|ém%[m|u]|
+|il|se|sera|ém%[m|u]|
+|nous|nous|serons|ém%[m|us]|
+|vous|vous|serez|ém%[m|us]|
+|ils|se|seront|ém%[m|us]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|ém%[m|ouvrais]|
+|tu|t'|ém%[m|ouvrais]|
+|il|s'|ém%[m|ouvrait]|
+|nous|nous|ém%[m|ouvrions]|
+|vous|vous|ém%[m|ouvriez]|
+|ils|s'|ém%[m|ouvraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|ém%[m|u]|
+|tu|te|serais|ém%[m|u]|
+|il|se|serait|ém%[m|u]|
+|nous|nous|serions|ém%[m|us]|
+|vous|vous|seriez|ém%[m|us]|
+|ils|se|seraient|ém%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|ém%[m|euve]|
+|que|tu|t'|ém%[m|euves]|
+|qu'|il|s'|ém%[m|euve]|
+|que|nous|nous|ém%[m|ouvions]|
+|que|vous|vous|ém%[m|ouviez]|
+|qu'|ils|s'|ém%[m|euvent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|ém%[m|u]|
+|que|tu|te|sois|ém%[m|u]|
+|qu'|il|se|soit|ém%[m|u]|
+|que|nous|nous|soyons|ém%[m|us]|
+|que|vous|vous|soyez|ém%[m|us]|
+|qu'|ils|se|soient|ém%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|ém%[m|usse]|
+|que|tu|t'|ém%[m|usses]|
+|qu'|il|s'|ém%[m|ût]|
+|que|nous|nous|ém%[m|ussions]|
+|que|vous|vous|ém%[m|ussiez]|
+|qu'|ils|s'|ém%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|ém%[m|u]|
+|que|tu|te|fusses|ém%[m|u]|
+|qu'|il|se|fût|ém%[m|u]|
+|que|nous|nous|fussions|ém%[m|us]|
+|que|vous|vous|fussiez|ém%[m|us]|
+|qu'|ils|se|fussent|ém%[m|us]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ém%[m|eus]-toi|
+|ém%[m|ouvons]-nous|
+|ém%[m|ouvez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

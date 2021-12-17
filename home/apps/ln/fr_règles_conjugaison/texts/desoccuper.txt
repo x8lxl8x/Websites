@@ -1,0 +1,190 @@
+# désoccuper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désoccup%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désoccup%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désoccup%[m|é]|
+|ayant|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désoccup%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désoccup%[m|e]|
+|tu|désoccup%[m|es]|
+|il|désoccup%[m|e]|
+|nous|désoccup%[m|ons]|
+|vous|désoccup%[m|ez]|
+|ils|désoccup%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désoccup%[m|é]|
+|tu|as |désoccup%[m|é]|
+|il|a|désoccup%[m|é]|
+|nous|avons|désoccup%[m|é]|
+|vous|avez|désoccup%[m|é]|
+|ils|ont|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désoccup%[m|ais]|
+|tu|désoccup%[m|ais]|
+|il|désoccup%[m|ait]|
+|nous|désoccup%[m|ions]|
+|vous|désoccup%[m|iez]|
+|ils|désoccup%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désoccup%[m|é]|
+|tu|avais|désoccup%[m|é]|
+|il|avait|désoccup%[m|é]|
+|nous|avions|désoccup%[m|é]|
+|vous|aviez|désoccup%[m|é]|
+|ils|avaient|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désoccup%[m|ai]|
+|tu|désoccup%[m|as]|
+|il|désoccup%[m|a]|
+|nous|désoccup%[m|âmes]|
+|vous|désoccup%[m|âtes]|
+|ils|désoccup%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désoccup%[m|é]|
+|tu|eus|désoccup%[m|é]|
+|il|eut|désoccup%[m|é]|
+|nous|e&ucirc;mes|désoccup%[m|é]|
+|vous|e&ucirc;tes|désoccup%[m|é]|
+|ils|eurent|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désoccup%[m|erai]|
+|tu|désoccup%[m|eras]|
+|il|désoccup%[m|era]|
+|nous|désoccup%[m|erons]|
+|vous|désoccup%[m|erez]|
+|ils|désoccup%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désoccup%[m|é]|
+|tu|auras|désoccup%[m|é]|
+|il|aura|désoccup%[m|é]|
+|nous|aurons|désoccup%[m|é]|
+|vous|aurez|désoccup%[m|é]|
+|ils|auront|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désoccup%[m|erais]|
+|tu|désoccup%[m|erais]|
+|il|désoccup%[m|erait]|
+|nous|désoccup%[m|erions]|
+|vous|désoccup%[m|eriez]|
+|ils|désoccup%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désoccup%[m|é]|
+|tu|aurais|désoccup%[m|é]|
+|il|aurait|désoccup%[m|é]|
+|nous|aurions|désoccup%[m|é]|
+|vous|auriez|désoccup%[m|é]|
+|ils|auraient|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désoccup%[m|e]|
+|que|tu|désoccup%[m|es]|
+|qu'|il|désoccup%[m|e]|
+|que|nous|désoccup%[m|ions]|
+|que|vous|désoccup%[m|iez]|
+|qu'|ils|désoccup%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désoccup%[m|é]|
+|que|tu|aies|désoccup%[m|é]|
+|qu'|il|ait|désoccup%[m|é]|
+|que|nous|ayons|désoccup%[m|é]|
+|que|vous|ayez|désoccup%[m|é]|
+|qu'|ils|aient|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désoccup%[m|asse]|
+|que|tu|désoccup%[m|asses]|
+|qu'|il|désoccup%[m|ât]|
+|que|nous|désoccup%[m|assions]|
+|que|vous|désoccup%[m|assiez]|
+|qu'|ils|désoccup%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désoccup%[m|é]|
+|que|tu|eusses|désoccup%[m|é]|
+|qu'|il|eût|désoccup%[m|é]|
+|que|nous|eussions|désoccup%[m|é]|
+|que|vous|eussiez|désoccup%[m|é]|
+|qu'|ils|eussent|désoccup%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désoccup%[m|e]|
+|désoccup%[m|ons]|
+|désoccup%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désoccup%[m|é]|
+|ayons|désoccup%[m|é]|
+|ayez|désoccup%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# passepoiler %[clVerbGroup|1]
+[-
+orner d'un passepoil. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|passepoil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|passepoil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||passepoil%[m|é]|
+|ayant|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en passepoil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|passepoil%[m|e]|
+|tu|passepoil%[m|es]|
+|il|passepoil%[m|e]|
+|nous|passepoil%[m|ons]|
+|vous|passepoil%[m|ez]|
+|ils|passepoil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|passepoil%[m|é]|
+|tu|as |passepoil%[m|é]|
+|il|a|passepoil%[m|é]|
+|nous|avons|passepoil%[m|é]|
+|vous|avez|passepoil%[m|é]|
+|ils|ont|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|passepoil%[m|ais]|
+|tu|passepoil%[m|ais]|
+|il|passepoil%[m|ait]|
+|nous|passepoil%[m|ions]|
+|vous|passepoil%[m|iez]|
+|ils|passepoil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|passepoil%[m|é]|
+|tu|avais|passepoil%[m|é]|
+|il|avait|passepoil%[m|é]|
+|nous|avions|passepoil%[m|é]|
+|vous|aviez|passepoil%[m|é]|
+|ils|avaient|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|passepoil%[m|ai]|
+|tu|passepoil%[m|as]|
+|il|passepoil%[m|a]|
+|nous|passepoil%[m|âmes]|
+|vous|passepoil%[m|âtes]|
+|ils|passepoil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|passepoil%[m|é]|
+|tu|eus|passepoil%[m|é]|
+|il|eut|passepoil%[m|é]|
+|nous|e&ucirc;mes|passepoil%[m|é]|
+|vous|e&ucirc;tes|passepoil%[m|é]|
+|ils|eurent|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|passepoil%[m|erai]|
+|tu|passepoil%[m|eras]|
+|il|passepoil%[m|era]|
+|nous|passepoil%[m|erons]|
+|vous|passepoil%[m|erez]|
+|ils|passepoil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|passepoil%[m|é]|
+|tu|auras|passepoil%[m|é]|
+|il|aura|passepoil%[m|é]|
+|nous|aurons|passepoil%[m|é]|
+|vous|aurez|passepoil%[m|é]|
+|ils|auront|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|passepoil%[m|erais]|
+|tu|passepoil%[m|erais]|
+|il|passepoil%[m|erait]|
+|nous|passepoil%[m|erions]|
+|vous|passepoil%[m|eriez]|
+|ils|passepoil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|passepoil%[m|é]|
+|tu|aurais|passepoil%[m|é]|
+|il|aurait|passepoil%[m|é]|
+|nous|aurions|passepoil%[m|é]|
+|vous|auriez|passepoil%[m|é]|
+|ils|auraient|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|passepoil%[m|e]|
+|que|tu|passepoil%[m|es]|
+|qu'|il|passepoil%[m|e]|
+|que|nous|passepoil%[m|ions]|
+|que|vous|passepoil%[m|iez]|
+|qu'|ils|passepoil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|passepoil%[m|é]|
+|que|tu|aies|passepoil%[m|é]|
+|qu'|il|ait|passepoil%[m|é]|
+|que|nous|ayons|passepoil%[m|é]|
+|que|vous|ayez|passepoil%[m|é]|
+|qu'|ils|aient|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|passepoil%[m|asse]|
+|que|tu|passepoil%[m|asses]|
+|qu'|il|passepoil%[m|ât]|
+|que|nous|passepoil%[m|assions]|
+|que|vous|passepoil%[m|assiez]|
+|qu'|ils|passepoil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|passepoil%[m|é]|
+|que|tu|eusses|passepoil%[m|é]|
+|qu'|il|eût|passepoil%[m|é]|
+|que|nous|eussions|passepoil%[m|é]|
+|que|vous|eussiez|passepoil%[m|é]|
+|qu'|ils|eussent|passepoil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|passepoil%[m|e]|
+|passepoil%[m|ons]|
+|passepoil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|passepoil%[m|é]|
+|ayons|passepoil%[m|é]|
+|ayez|passepoil%[m|é]|
+|]
+

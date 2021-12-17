@@ -1,0 +1,444 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./23.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./25.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Black-Scholes</h1>
+
+<h2>The black-scholes factors</h2>
+<p>According to the Black-Scholes formula for option
+pricing, there are five main factors that affect an
+options price.&nbsp; Technically, dividends are a sixth
+factor but aren't of much concern, as they are generally
+factored into the price of the option, since all market
+participants know the amount of the dividend and when it
+will be paid.&nbsp; However, if it is a surprise dividend or
+dividend increase or cut, then it becomes a much more
+relevant factor.</p>
+<p>According to the Black-Scholes model, the factors
+are:<br>
+1) Stock price<br>
+2) Exercise or strike price<br>
+3) Interest rates (risk-free rate)<br>
+4) Volatility of the underlying stock<br>
+5) Time to expiration<br>
+6) Dividends</p>
+<p>We will look at each of these in turn and see exactly
+the effects they have on calls and puts.&nbsp; Some will be
+fairly intuitive and others not but all are important if
+you really want to understand options.</p>
+<h2>Stock price</h2>
+<p>The stock price is probably the most obvious of all
+the factors that affect an option's price.&nbsp; This is
+simply due to the fact that the option's price is
+derived from the underlying stock -- hence the name
+derivative instrument.</p>
+<p><b>As the stock price increases, the price of a call
+will increase and the price of the put will decrease
+with all other factors constant.</b></p>
+<p>This is a theoretical statement, so do not be alarmed
+if your call option is not up with the underlying stock
+trading higher.&nbsp; In fact, anybody who has traded options
+for any length of time has experienced this.&nbsp; There are
+sound reasons why this happens, so let's see if we can
+make sense of it.</p>
+<p>First of all, there are many strikes for any given
+option.&nbsp; In fact, new strikes will be added if the stock
+is moving, either up or down, significantly.&nbsp; If a stock
+is trading at $120 up $2, a $100 strike will likely be
+up a significant portion of that $2 -- maybe up $1-1/2
+or so -- depending on the volatility and time remaining
+on the option.&nbsp; </p>
+<p>What about a $150 strike?&nbsp; Here, it is difficult to
+say.&nbsp; We know it is worth more <i>theoretically</i>, but
+it is up to the market to determine just how much. As an
+analogy, say you are betting on a runner to complete a
+twenty-six mile marathon and the runner has just taken
+the first step across the start line.&nbsp; Do you adjust
+your bet upward?&nbsp; Probably not, even though,
+theoretically, the runner is closer to the finish line
+than he was one step earlier.&nbsp; From a theoretical
+viewpoint, you should be <i>a little</i> more confident
+on your bet that he will complete it.&nbsp; It does not mean
+you will adjust your bet.</p>
+<p>This holds for the options, too.&nbsp; An option can be
+thought of as a bet that the stock will cross the finish
+line -- the strike -- by expiration.&nbsp; As the stock moves
+higher, <u>all calls</u> become worth more
+theoretically.&nbsp; Whether or not the market reflects added
+value remains to be seen.</p>
+<p>This same reasoning holds for puts, but in the
+opposite direction.&nbsp; Because a put option confers the
+right to sell stock, it should be worth more as the
+stock moves lower.&nbsp; As the stock falls, all puts become
+worth more theoretically.</p>
+<h2>Exercise (or strike) price</h2>
+<p>The exercise price is closely related to the stock
+price.&nbsp; In fact, they are really just two ways of
+looking at the same thing.&nbsp; When we were considering the
+stock price above, we assumed the strike price remained
+constant (as well as all other factors).&nbsp; Now, if we
+hold the stock price constant but lower the strike,
+effectively we are doing the same thing; that is, in
+either case we are putting the call option more
+in-the-money or at least in that direction.&nbsp; </p>
+<p><b>As the exercise price (strike price) is decreased,
+calls become worth more and puts less with all other
+factors constant.</b></p>
+<p>By the same reasoning, as the exercise price is
+raised, puts become worth more and calls will be worth
+less.</p>
+<p>Another way to understand this is by thinking of what
+a call does.&nbsp; It gives you the right to purchase stock.&nbsp;
+Now, would you rather buy stock for $100 per share or
+$120 per share?&nbsp; Of course, you'd rather pay $100 and so
+would everybody else in the market, so market
+participants correspondingly bid the $100 strike higher,
+which is just a reflection of the higher demand.</p>
+<p>Similarly, a put option gives you the right to sell
+your stock.&nbsp; Because everybody would rather get $120 per
+share, investors bid the $120 put higher than the $100
+strike.</p>
+<h2>Interest rates</h2>
+<p>How interest rates affect calls and puts are a little
+more difficult to understand.&nbsp; It may be helpful to
+think about the following analogy.&nbsp; Calls are a form of
+<i>borrowing</i> money.&nbsp; Although you pay for the call
+option, in effect you are borrowing funds.&nbsp; Here's why:&nbsp;
+Say you buy a one-year $100 strike.&nbsp; You control all
+stock prices above $100 for the next year but are not
+obligated to pay him until one year from now.&nbsp; So
+effectively you are borrowing money from the call
+writer.&nbsp; Because interest rates affect the cost of carry
+to the seller:</p>
+<p><b>An increase in interest rates will increase the
+price of a call option and decrease the price of a put
+option with all other factors constant.</b></p>
+<p>Although this is fairly easy to show mathematically,
+it is easier to remember if you understand it
+conceptually.&nbsp; So let's look at another line of
+reasoning.</p>
+<p>Say interest rates are very high -- 20%.&nbsp; You have
+$100,000 in the money-market that you would like to
+invest in stocks.&nbsp; You can either buy the stocks today,
+or for a fee, buy a call option which gives you control
+of the stock but allows you to defer payment.&nbsp; The
+choice should be clear: buy the call option so you can
+hang on to your money and continue to earn interest.&nbsp;
+The markets follow this same line of reasoning and bid
+the calls higher.</p>
+<p>What about the puts?&nbsp; Puts give you the right to sell
+your stock, which represents a cash flow into the
+account, which is nice to have if interest rates are
+really high.&nbsp; So do you elect to buy puts to defer the
+sale?&nbsp; No, in fact, you may even <i>sell</i> the puts to
+generate cash into the account so it can earn the high
+rate of interest.&nbsp; Because few of the market
+participants are willing to buy puts relative to those
+wanting to sell them, the price of puts will fall.</p>
+<p>There is one thing to be careful with here.&nbsp; All of
+these factors we are discussing assume the other factors
+remain constant.&nbsp; In the real world, this is rarely the
+case.&nbsp; So if interest rates rise suddenly, do not be
+surprised if your call options <u>decrease in price</u>
+and don't increase as we have said so far.&nbsp; This is
+usually due to the fact that <u>stock prices will fall</u>
+with increases in interest rates.&nbsp; We know that falling
+stock prices correspond with falling call prices.&nbsp; But
+it should be evident that all factors did not stay the
+same in this case -- we assumed interest rates rose <u>
+and</u> stock prices fell.</p>
+<h2>Volatility</h2>
+<p>Without a doubt, volatility is the single-most
+important factor of the Black-Scholes model.&nbsp; In fact,
+it is the only true unknown in the equation.&nbsp; For
+example, if you asked 10 different people what the stock
+price is, they would all give you exactly the same
+answer.&nbsp; Likewise, they would quote the same strike
+price, risk-free rates of interest, and time remaining
+on the option.&nbsp; However, what should they tell you is
+the correct volatility measure for the stock?&nbsp; The
+10-day average?&nbsp; The 20-day?&nbsp; The 50-day?&nbsp; Or should
+they quote the projected expected future volatility?&nbsp; It
+should be easy to see why this is the most important
+factor in the model -- it is the only one that nobody
+knows for sure.</p>
+<p><b>If volatility increases, both call and put prices
+will increase with all other factors the same.</b></p>
+<p>Now, you may be thinking if volatility increases, the
+stock becomes riskier.&nbsp; Why would somebody pay more for
+a risky asset?&nbsp; After all, junk bonds trade for lower
+prices than government bonds because of the risk.</p>
+<p>The reason for the apparent contradiction is that
+options have a limited downside; the owner can only lose
+what they put into it.&nbsp; </p>
+<p>Look at the following diagram.&nbsp; Assume one investor
+buys stock at $50 and another purchases a $50 call for
+$5:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table4'>
+<tr>
+<td v>&nbsp;</td>
+<td v>
+<p align='center'><b>30</b></td>
+<td v>
+<p align='center'><b>35</b></td>
+<td v>
+<p align='center'><b>40</b></td>
+<td v>
+<p align='center'><b>45</b></td>
+<td v>
+<p align='center'><b>50</b></td>
+<td v>
+<p align='center'><b>55</b></td>
+<td v>
+<p align='center'><b>60</b></td>
+<td v>
+<p align='center'><b>65</b></td>
+<td v>
+<p align='center'><b>70</b></td>
+<td v>
+<p align='center'><b>75</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>Gain on stock purchased at $50</td>
+<td v>
+<p align='center'>-20</td>
+<td v>
+<p align='center'>-15</td>
+<td v>
+<p align='center'>-10</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>0</td>
+<td v>
+<p align='center'>5</td>
+<td v>
+<p align='center'>10</td>
+<td v>
+<p align='center'>15</td>
+<td v>
+<p align='center'>20</td>
+<td v>
+<p align='center'>25</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>Intrinsic gain on $50 call
+purchased at $5</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>-5</td>
+<td v>
+<p align='center'>5</td>
+<td v>
+<p align='center'>10</td>
+<td v>
+<p align='center'>15</td>
+<td v>
+<p align='center'>20</td>
+<td v>
+<p align='center'>25</td>
+</tr>
+</table>
+<p>If you purchased stock at $50 and the stock closes at
+$30, you are down $20.&nbsp; However, the call owner is only
+down $5.&nbsp; In fact, that's the most the call owner can
+lose; however, they can match the stock purchaser on
+profit for all stock prices above $50.&nbsp; So more
+volatility just means a higher expected return for the
+option buyer -- whether calls or puts.&nbsp; So investors
+will bid up the prices of options that are tied to risky
+stocks.</p>
+<h2>Time to expiration</h2>
+<p>This factor is fairly straightforward.&nbsp; We said
+earlier that an option could be viewed as a bet that the
+stock will be above the strike price (for calls) or
+below the strike price (for puts) by expiration.&nbsp; In
+other words, you are in effect betting that the option
+will have intrinsic value.&nbsp; Because of this, the more
+time available, the more likely the stock will have
+intrinsic value.&nbsp; </p>
+<p><b>The more time to expiration, the more valuable are
+calls and puts.</b></p>
+<p>From a trading standpoint, the more time you buy, the
+better.&nbsp; This is because calls and puts become
+increasingly cheaper (on a per month basis) the more
+time you buy.&nbsp; For example, if a one-month option is
+trading for $5, you would have to look at a four-month
+option to double the price to $10.&nbsp; Many people think
+that a two-month option would double the price but it
+doesn't&nbsp; -- it takes four times the amount of time to
+double the price.&nbsp; So the implication is that it becomes
+a better and better deal for the option buyer to buy
+time.&nbsp; Likewise, it becomes a worse and worse deal for
+the options seller to sell longer-term options.</p>
+<p>Please don't confuse this to mean that it is wrong to
+sell longer-term options or that it's wrong to buy
+little time because that's not necessarily true.&nbsp; It
+depends on many factors with the particular strategy at
+hand.&nbsp; All that is being said is that, everything else
+constant, option buyers should buy lots of time and
+option sellers should sell short amounts of time.</p>
+<table cellPadding='18' border='1' id='table5'>
+<tr vAlign='top'>
+<td>Special note:&nbsp; There is one small point that
+should be made here.&nbsp; It is possible for a
+deep-in-the-money <u>European</u> put option to
+become more valuable with the passage of time.&nbsp;
+This is due to the fact that the European option
+holder <u>must wait</u> to receive the cash from
+the put.&nbsp; So a deep-in-the-money European put
+will be worth the present value of the future
+cash flow and will increase in price with the
+passage of time.&nbsp; However, options on the equity
+market (stocks) are always American style so
+this caveat doesn't hold for most of our
+discussions on equity trading strategies.&nbsp; Just
+be aware that there is one exception to this
+rule.</td>
+</tr>
+</table>
+<h2>Dividends</h2>
+<p>Last, we will consider the effect of dividends on
+calls and puts.&nbsp; This one is also fairly
+straightforward.&nbsp; </p>
+<p>If a stock pays a dividend, the price of the stock is
+reduced by the amount of the dividend (rounded to the
+nearest 1/8th of a point) the next trading session.&nbsp; The
+reason the price is reduced is because the company has
+paid out cash -- one of its assets -- so is now worth
+less than before it paid the dividend.&nbsp; For example, say
+a $100 stock will pay a $1 dividend tomorrow.&nbsp; On the
+opening, the stock will be trading for $99 unchanged
+(this is considered to be unchanged since the fall is
+not due to supply and demand factors).</p>
+<p>Think about it for a moment. If the stock price is
+down and all other factors stay the same, what will
+happen to the call?&nbsp; You've got it, the call price will
+fall.</p>
+<p><b>Dividend increases cause call prices to fall and
+put prices to rise with all other factors the same.</b></p>
+<p>Why will put prices rise?&nbsp; Because the put owner can
+force the seller to buy the stock, which is now worth
+even less after the dividend is paid, so the put options
+become more valuable.</p>
+<p>The following table will help as a recap.&nbsp; The table
+shows the effect on call and put prices with the six
+factors being <u>up</u>.&nbsp; Of course, the reverse will be
+true if the factors are down.</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table6'>
+<tr>
+<td v>&nbsp;</td>
+<td v>
+<p align='center'>If this factor is <b>up</b>:</td>
+<td v>
+<p align='center'><b>Call price</b></td>
+<td v>
+<p align='center'><b>Put price</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>1</td>
+<td v>
+<p align='center'>Stock price&nbsp; </td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/025.gif'></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>2</td>
+<td v>
+<p align='center'>Exercise price</td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/025.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>3</td>
+<td v>
+<p align='center'>Risk-free rates</td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/025.gif'></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>4</td>
+<td v>
+<p align='center'>Volatility</td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>5</td>
+<td v>
+<p align='center'>Time to expiration</td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>6</td>
+<td v>
+<p align='center'>Dividends</td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/025.gif'></td>
+<td v>
+<p align='center'>
+<img width='300px' src='../images/024.gif'>
+
+<p>Most strategies are some form of a play on the five
+main factors that affect option prices.&nbsp; If you
+understanding these factors, you are on your way to
+becoming a better options trader!</p>
+
+</div>
+</div>
+</body>
+</html>

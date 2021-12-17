@@ -1,0 +1,190 @@
+# tacher %[clVerbGroup|1]
+[-
+marquer d'une tache. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tach%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tach%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tach%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tach%[m|é]|
+|ayant|tach%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tach%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tach%[m|e]|
+|tu|tach%[m|es]|
+|il|tach%[m|e]|
+|nous|tach%[m|ons]|
+|vous|tach%[m|ez]|
+|ils|tach%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tach%[m|é]|
+|tu|as |tach%[m|é]|
+|il|a|tach%[m|é]|
+|nous|avons|tach%[m|é]|
+|vous|avez|tach%[m|é]|
+|ils|ont|tach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tach%[m|ais]|
+|tu|tach%[m|ais]|
+|il|tach%[m|ait]|
+|nous|tach%[m|ions]|
+|vous|tach%[m|iez]|
+|ils|tach%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tach%[m|é]|
+|tu|avais|tach%[m|é]|
+|il|avait|tach%[m|é]|
+|nous|avions|tach%[m|é]|
+|vous|aviez|tach%[m|é]|
+|ils|avaient|tach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tach%[m|ai]|
+|tu|tach%[m|as]|
+|il|tach%[m|a]|
+|nous|tach%[m|âmes]|
+|vous|tach%[m|âtes]|
+|ils|tach%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tach%[m|é]|
+|tu|eus|tach%[m|é]|
+|il|eut|tach%[m|é]|
+|nous|e&ucirc;mes|tach%[m|é]|
+|vous|e&ucirc;tes|tach%[m|é]|
+|ils|eurent|tach%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tach%[m|erai]|
+|tu|tach%[m|eras]|
+|il|tach%[m|era]|
+|nous|tach%[m|erons]|
+|vous|tach%[m|erez]|
+|ils|tach%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tach%[m|é]|
+|tu|auras|tach%[m|é]|
+|il|aura|tach%[m|é]|
+|nous|aurons|tach%[m|é]|
+|vous|aurez|tach%[m|é]|
+|ils|auront|tach%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tach%[m|erais]|
+|tu|tach%[m|erais]|
+|il|tach%[m|erait]|
+|nous|tach%[m|erions]|
+|vous|tach%[m|eriez]|
+|ils|tach%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tach%[m|é]|
+|tu|aurais|tach%[m|é]|
+|il|aurait|tach%[m|é]|
+|nous|aurions|tach%[m|é]|
+|vous|auriez|tach%[m|é]|
+|ils|auraient|tach%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tach%[m|e]|
+|que|tu|tach%[m|es]|
+|qu'|il|tach%[m|e]|
+|que|nous|tach%[m|ions]|
+|que|vous|tach%[m|iez]|
+|qu'|ils|tach%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tach%[m|é]|
+|que|tu|aies|tach%[m|é]|
+|qu'|il|ait|tach%[m|é]|
+|que|nous|ayons|tach%[m|é]|
+|que|vous|ayez|tach%[m|é]|
+|qu'|ils|aient|tach%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tach%[m|asse]|
+|que|tu|tach%[m|asses]|
+|qu'|il|tach%[m|ât]|
+|que|nous|tach%[m|assions]|
+|que|vous|tach%[m|assiez]|
+|qu'|ils|tach%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tach%[m|é]|
+|que|tu|eusses|tach%[m|é]|
+|qu'|il|eût|tach%[m|é]|
+|que|nous|eussions|tach%[m|é]|
+|que|vous|eussiez|tach%[m|é]|
+|qu'|ils|eussent|tach%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tach%[m|e]|
+|tach%[m|ons]|
+|tach%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tach%[m|é]|
+|ayons|tach%[m|é]|
+|ayez|tach%[m|é]|
+|]
+

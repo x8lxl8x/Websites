@@ -1,0 +1,190 @@
+# surligner %[clVerbGroup|1]
+[-
+marquer avec un surligneur (un texte) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surlign%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surlign%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surlign%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surlign%[m|é]|
+|ayant|surlign%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surlign%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surlign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surlign%[m|e]|
+|tu|surlign%[m|es]|
+|il|surlign%[m|e]|
+|nous|surlign%[m|ons]|
+|vous|surlign%[m|ez]|
+|ils|surlign%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surlign%[m|é]|
+|tu|as |surlign%[m|é]|
+|il|a|surlign%[m|é]|
+|nous|avons|surlign%[m|é]|
+|vous|avez|surlign%[m|é]|
+|ils|ont|surlign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surlign%[m|ais]|
+|tu|surlign%[m|ais]|
+|il|surlign%[m|ait]|
+|nous|surlign%[m|ions]|
+|vous|surlign%[m|iez]|
+|ils|surlign%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surlign%[m|é]|
+|tu|avais|surlign%[m|é]|
+|il|avait|surlign%[m|é]|
+|nous|avions|surlign%[m|é]|
+|vous|aviez|surlign%[m|é]|
+|ils|avaient|surlign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surlign%[m|ai]|
+|tu|surlign%[m|as]|
+|il|surlign%[m|a]|
+|nous|surlign%[m|âmes]|
+|vous|surlign%[m|âtes]|
+|ils|surlign%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surlign%[m|é]|
+|tu|eus|surlign%[m|é]|
+|il|eut|surlign%[m|é]|
+|nous|e&ucirc;mes|surlign%[m|é]|
+|vous|e&ucirc;tes|surlign%[m|é]|
+|ils|eurent|surlign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surlign%[m|erai]|
+|tu|surlign%[m|eras]|
+|il|surlign%[m|era]|
+|nous|surlign%[m|erons]|
+|vous|surlign%[m|erez]|
+|ils|surlign%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surlign%[m|é]|
+|tu|auras|surlign%[m|é]|
+|il|aura|surlign%[m|é]|
+|nous|aurons|surlign%[m|é]|
+|vous|aurez|surlign%[m|é]|
+|ils|auront|surlign%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surlign%[m|erais]|
+|tu|surlign%[m|erais]|
+|il|surlign%[m|erait]|
+|nous|surlign%[m|erions]|
+|vous|surlign%[m|eriez]|
+|ils|surlign%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surlign%[m|é]|
+|tu|aurais|surlign%[m|é]|
+|il|aurait|surlign%[m|é]|
+|nous|aurions|surlign%[m|é]|
+|vous|auriez|surlign%[m|é]|
+|ils|auraient|surlign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surlign%[m|e]|
+|que|tu|surlign%[m|es]|
+|qu'|il|surlign%[m|e]|
+|que|nous|surlign%[m|ions]|
+|que|vous|surlign%[m|iez]|
+|qu'|ils|surlign%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surlign%[m|é]|
+|que|tu|aies|surlign%[m|é]|
+|qu'|il|ait|surlign%[m|é]|
+|que|nous|ayons|surlign%[m|é]|
+|que|vous|ayez|surlign%[m|é]|
+|qu'|ils|aient|surlign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surlign%[m|asse]|
+|que|tu|surlign%[m|asses]|
+|qu'|il|surlign%[m|ât]|
+|que|nous|surlign%[m|assions]|
+|que|vous|surlign%[m|assiez]|
+|qu'|ils|surlign%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surlign%[m|é]|
+|que|tu|eusses|surlign%[m|é]|
+|qu'|il|eût|surlign%[m|é]|
+|que|nous|eussions|surlign%[m|é]|
+|que|vous|eussiez|surlign%[m|é]|
+|qu'|ils|eussent|surlign%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surlign%[m|e]|
+|surlign%[m|ons]|
+|surlign%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surlign%[m|é]|
+|ayons|surlign%[m|é]|
+|ayez|surlign%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# fluoriser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fluoris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fluoris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fluoris%[m|é]|
+|ayant|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fluoris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fluoris%[m|e]|
+|tu|fluoris%[m|es]|
+|il|fluoris%[m|e]|
+|nous|fluoris%[m|ons]|
+|vous|fluoris%[m|ez]|
+|ils|fluoris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fluoris%[m|é]|
+|tu|as |fluoris%[m|é]|
+|il|a|fluoris%[m|é]|
+|nous|avons|fluoris%[m|é]|
+|vous|avez|fluoris%[m|é]|
+|ils|ont|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fluoris%[m|ais]|
+|tu|fluoris%[m|ais]|
+|il|fluoris%[m|ait]|
+|nous|fluoris%[m|ions]|
+|vous|fluoris%[m|iez]|
+|ils|fluoris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fluoris%[m|é]|
+|tu|avais|fluoris%[m|é]|
+|il|avait|fluoris%[m|é]|
+|nous|avions|fluoris%[m|é]|
+|vous|aviez|fluoris%[m|é]|
+|ils|avaient|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fluoris%[m|ai]|
+|tu|fluoris%[m|as]|
+|il|fluoris%[m|a]|
+|nous|fluoris%[m|âmes]|
+|vous|fluoris%[m|âtes]|
+|ils|fluoris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fluoris%[m|é]|
+|tu|eus|fluoris%[m|é]|
+|il|eut|fluoris%[m|é]|
+|nous|e&ucirc;mes|fluoris%[m|é]|
+|vous|e&ucirc;tes|fluoris%[m|é]|
+|ils|eurent|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fluoris%[m|erai]|
+|tu|fluoris%[m|eras]|
+|il|fluoris%[m|era]|
+|nous|fluoris%[m|erons]|
+|vous|fluoris%[m|erez]|
+|ils|fluoris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fluoris%[m|é]|
+|tu|auras|fluoris%[m|é]|
+|il|aura|fluoris%[m|é]|
+|nous|aurons|fluoris%[m|é]|
+|vous|aurez|fluoris%[m|é]|
+|ils|auront|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fluoris%[m|erais]|
+|tu|fluoris%[m|erais]|
+|il|fluoris%[m|erait]|
+|nous|fluoris%[m|erions]|
+|vous|fluoris%[m|eriez]|
+|ils|fluoris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fluoris%[m|é]|
+|tu|aurais|fluoris%[m|é]|
+|il|aurait|fluoris%[m|é]|
+|nous|aurions|fluoris%[m|é]|
+|vous|auriez|fluoris%[m|é]|
+|ils|auraient|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fluoris%[m|e]|
+|que|tu|fluoris%[m|es]|
+|qu'|il|fluoris%[m|e]|
+|que|nous|fluoris%[m|ions]|
+|que|vous|fluoris%[m|iez]|
+|qu'|ils|fluoris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fluoris%[m|é]|
+|que|tu|aies|fluoris%[m|é]|
+|qu'|il|ait|fluoris%[m|é]|
+|que|nous|ayons|fluoris%[m|é]|
+|que|vous|ayez|fluoris%[m|é]|
+|qu'|ils|aient|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fluoris%[m|asse]|
+|que|tu|fluoris%[m|asses]|
+|qu'|il|fluoris%[m|ât]|
+|que|nous|fluoris%[m|assions]|
+|que|vous|fluoris%[m|assiez]|
+|qu'|ils|fluoris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fluoris%[m|é]|
+|que|tu|eusses|fluoris%[m|é]|
+|qu'|il|eût|fluoris%[m|é]|
+|que|nous|eussions|fluoris%[m|é]|
+|que|vous|eussiez|fluoris%[m|é]|
+|qu'|ils|eussent|fluoris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fluoris%[m|e]|
+|fluoris%[m|ons]|
+|fluoris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fluoris%[m|é]|
+|ayons|fluoris%[m|é]|
+|ayez|fluoris%[m|é]|
+|]
+

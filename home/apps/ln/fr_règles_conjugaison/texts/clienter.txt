@@ -1,0 +1,190 @@
+# clienter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|client%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|client%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|client%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||client%[m|é]|
+|ayant|client%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en client%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|client%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|client%[m|e]|
+|tu|client%[m|es]|
+|il|client%[m|e]|
+|nous|client%[m|ons]|
+|vous|client%[m|ez]|
+|ils|client%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|client%[m|é]|
+|tu|as |client%[m|é]|
+|il|a|client%[m|é]|
+|nous|avons|client%[m|é]|
+|vous|avez|client%[m|é]|
+|ils|ont|client%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|client%[m|ais]|
+|tu|client%[m|ais]|
+|il|client%[m|ait]|
+|nous|client%[m|ions]|
+|vous|client%[m|iez]|
+|ils|client%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|client%[m|é]|
+|tu|avais|client%[m|é]|
+|il|avait|client%[m|é]|
+|nous|avions|client%[m|é]|
+|vous|aviez|client%[m|é]|
+|ils|avaient|client%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|client%[m|ai]|
+|tu|client%[m|as]|
+|il|client%[m|a]|
+|nous|client%[m|âmes]|
+|vous|client%[m|âtes]|
+|ils|client%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|client%[m|é]|
+|tu|eus|client%[m|é]|
+|il|eut|client%[m|é]|
+|nous|e&ucirc;mes|client%[m|é]|
+|vous|e&ucirc;tes|client%[m|é]|
+|ils|eurent|client%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|client%[m|erai]|
+|tu|client%[m|eras]|
+|il|client%[m|era]|
+|nous|client%[m|erons]|
+|vous|client%[m|erez]|
+|ils|client%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|client%[m|é]|
+|tu|auras|client%[m|é]|
+|il|aura|client%[m|é]|
+|nous|aurons|client%[m|é]|
+|vous|aurez|client%[m|é]|
+|ils|auront|client%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|client%[m|erais]|
+|tu|client%[m|erais]|
+|il|client%[m|erait]|
+|nous|client%[m|erions]|
+|vous|client%[m|eriez]|
+|ils|client%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|client%[m|é]|
+|tu|aurais|client%[m|é]|
+|il|aurait|client%[m|é]|
+|nous|aurions|client%[m|é]|
+|vous|auriez|client%[m|é]|
+|ils|auraient|client%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|client%[m|e]|
+|que|tu|client%[m|es]|
+|qu'|il|client%[m|e]|
+|que|nous|client%[m|ions]|
+|que|vous|client%[m|iez]|
+|qu'|ils|client%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|client%[m|é]|
+|que|tu|aies|client%[m|é]|
+|qu'|il|ait|client%[m|é]|
+|que|nous|ayons|client%[m|é]|
+|que|vous|ayez|client%[m|é]|
+|qu'|ils|aient|client%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|client%[m|asse]|
+|que|tu|client%[m|asses]|
+|qu'|il|client%[m|ât]|
+|que|nous|client%[m|assions]|
+|que|vous|client%[m|assiez]|
+|qu'|ils|client%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|client%[m|é]|
+|que|tu|eusses|client%[m|é]|
+|qu'|il|eût|client%[m|é]|
+|que|nous|eussions|client%[m|é]|
+|que|vous|eussiez|client%[m|é]|
+|qu'|ils|eussent|client%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|client%[m|e]|
+|client%[m|ons]|
+|client%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|client%[m|é]|
+|ayons|client%[m|é]|
+|ayez|client%[m|é]|
+|]
+

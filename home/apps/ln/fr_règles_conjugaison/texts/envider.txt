@@ -1,0 +1,190 @@
+# envider %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|envid%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|envid%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|envid%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||envid%[m|é]|
+|ayant|envid%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en envid%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|envid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|envid%[m|e]|
+|tu|envid%[m|es]|
+|il|envid%[m|e]|
+|nous|envid%[m|ons]|
+|vous|envid%[m|ez]|
+|ils|envid%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|envid%[m|é]|
+|tu|as |envid%[m|é]|
+|il|a|envid%[m|é]|
+|nous|avons|envid%[m|é]|
+|vous|avez|envid%[m|é]|
+|ils|ont|envid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|envid%[m|ais]|
+|tu|envid%[m|ais]|
+|il|envid%[m|ait]|
+|nous|envid%[m|ions]|
+|vous|envid%[m|iez]|
+|ils|envid%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|envid%[m|é]|
+|tu|avais|envid%[m|é]|
+|il|avait|envid%[m|é]|
+|nous|avions|envid%[m|é]|
+|vous|aviez|envid%[m|é]|
+|ils|avaient|envid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|envid%[m|ai]|
+|tu|envid%[m|as]|
+|il|envid%[m|a]|
+|nous|envid%[m|âmes]|
+|vous|envid%[m|âtes]|
+|ils|envid%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|envid%[m|é]|
+|tu|eus|envid%[m|é]|
+|il|eut|envid%[m|é]|
+|nous|e&ucirc;mes|envid%[m|é]|
+|vous|e&ucirc;tes|envid%[m|é]|
+|ils|eurent|envid%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|envid%[m|erai]|
+|tu|envid%[m|eras]|
+|il|envid%[m|era]|
+|nous|envid%[m|erons]|
+|vous|envid%[m|erez]|
+|ils|envid%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|envid%[m|é]|
+|tu|auras|envid%[m|é]|
+|il|aura|envid%[m|é]|
+|nous|aurons|envid%[m|é]|
+|vous|aurez|envid%[m|é]|
+|ils|auront|envid%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|envid%[m|erais]|
+|tu|envid%[m|erais]|
+|il|envid%[m|erait]|
+|nous|envid%[m|erions]|
+|vous|envid%[m|eriez]|
+|ils|envid%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|envid%[m|é]|
+|tu|aurais|envid%[m|é]|
+|il|aurait|envid%[m|é]|
+|nous|aurions|envid%[m|é]|
+|vous|auriez|envid%[m|é]|
+|ils|auraient|envid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|envid%[m|e]|
+|que|tu|envid%[m|es]|
+|qu'|il|envid%[m|e]|
+|que|nous|envid%[m|ions]|
+|que|vous|envid%[m|iez]|
+|qu'|ils|envid%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|envid%[m|é]|
+|que|tu|aies|envid%[m|é]|
+|qu'|il|ait|envid%[m|é]|
+|que|nous|ayons|envid%[m|é]|
+|que|vous|ayez|envid%[m|é]|
+|qu'|ils|aient|envid%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|envid%[m|asse]|
+|que|tu|envid%[m|asses]|
+|qu'|il|envid%[m|ât]|
+|que|nous|envid%[m|assions]|
+|que|vous|envid%[m|assiez]|
+|qu'|ils|envid%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|envid%[m|é]|
+|que|tu|eusses|envid%[m|é]|
+|qu'|il|eût|envid%[m|é]|
+|que|nous|eussions|envid%[m|é]|
+|que|vous|eussiez|envid%[m|é]|
+|qu'|ils|eussent|envid%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|envid%[m|e]|
+|envid%[m|ons]|
+|envid%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|envid%[m|é]|
+|ayons|envid%[m|é]|
+|ayez|envid%[m|é]|
+|]
+

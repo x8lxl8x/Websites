@@ -1,0 +1,190 @@
+# biner %[clVerbGroup|1]
+[-
+retourner peu profondément une terre pour la désherber. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bin%[m|é]|
+|ayant|bin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bin%[m|e]|
+|tu|bin%[m|es]|
+|il|bin%[m|e]|
+|nous|bin%[m|ons]|
+|vous|bin%[m|ez]|
+|ils|bin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bin%[m|é]|
+|tu|as |bin%[m|é]|
+|il|a|bin%[m|é]|
+|nous|avons|bin%[m|é]|
+|vous|avez|bin%[m|é]|
+|ils|ont|bin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bin%[m|ais]|
+|tu|bin%[m|ais]|
+|il|bin%[m|ait]|
+|nous|bin%[m|ions]|
+|vous|bin%[m|iez]|
+|ils|bin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bin%[m|é]|
+|tu|avais|bin%[m|é]|
+|il|avait|bin%[m|é]|
+|nous|avions|bin%[m|é]|
+|vous|aviez|bin%[m|é]|
+|ils|avaient|bin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bin%[m|ai]|
+|tu|bin%[m|as]|
+|il|bin%[m|a]|
+|nous|bin%[m|âmes]|
+|vous|bin%[m|âtes]|
+|ils|bin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bin%[m|é]|
+|tu|eus|bin%[m|é]|
+|il|eut|bin%[m|é]|
+|nous|e&ucirc;mes|bin%[m|é]|
+|vous|e&ucirc;tes|bin%[m|é]|
+|ils|eurent|bin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bin%[m|erai]|
+|tu|bin%[m|eras]|
+|il|bin%[m|era]|
+|nous|bin%[m|erons]|
+|vous|bin%[m|erez]|
+|ils|bin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bin%[m|é]|
+|tu|auras|bin%[m|é]|
+|il|aura|bin%[m|é]|
+|nous|aurons|bin%[m|é]|
+|vous|aurez|bin%[m|é]|
+|ils|auront|bin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bin%[m|erais]|
+|tu|bin%[m|erais]|
+|il|bin%[m|erait]|
+|nous|bin%[m|erions]|
+|vous|bin%[m|eriez]|
+|ils|bin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bin%[m|é]|
+|tu|aurais|bin%[m|é]|
+|il|aurait|bin%[m|é]|
+|nous|aurions|bin%[m|é]|
+|vous|auriez|bin%[m|é]|
+|ils|auraient|bin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bin%[m|e]|
+|que|tu|bin%[m|es]|
+|qu'|il|bin%[m|e]|
+|que|nous|bin%[m|ions]|
+|que|vous|bin%[m|iez]|
+|qu'|ils|bin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bin%[m|é]|
+|que|tu|aies|bin%[m|é]|
+|qu'|il|ait|bin%[m|é]|
+|que|nous|ayons|bin%[m|é]|
+|que|vous|ayez|bin%[m|é]|
+|qu'|ils|aient|bin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bin%[m|asse]|
+|que|tu|bin%[m|asses]|
+|qu'|il|bin%[m|ât]|
+|que|nous|bin%[m|assions]|
+|que|vous|bin%[m|assiez]|
+|qu'|ils|bin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bin%[m|é]|
+|que|tu|eusses|bin%[m|é]|
+|qu'|il|eût|bin%[m|é]|
+|que|nous|eussions|bin%[m|é]|
+|que|vous|eussiez|bin%[m|é]|
+|qu'|ils|eussent|bin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bin%[m|e]|
+|bin%[m|ons]|
+|bin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bin%[m|é]|
+|ayons|bin%[m|é]|
+|ayez|bin%[m|é]|
+|]
+

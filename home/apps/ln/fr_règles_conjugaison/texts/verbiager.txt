@@ -1,0 +1,190 @@
+# verbiager %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|verbiag%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|verbiag%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||verbiag%[m|é]|
+|ayant|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en verbiag%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|verbiag%[m|e]|
+|tu|verbiag%[m|es]|
+|il|verbiag%[m|e]|
+|nous|verbiag%[m|eons]|
+|vous|verbiag%[m|ez]|
+|ils|verbiag%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|verbiag%[m|é]|
+|tu|as |verbiag%[m|é]|
+|il|a|verbiag%[m|é]|
+|nous|avons|verbiag%[m|é]|
+|vous|avez|verbiag%[m|é]|
+|ils|ont|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|verbiag%[m|eais]|
+|tu|verbiag%[m|eais]|
+|il|verbiag%[m|eait]|
+|nous|verbiag%[m|ions]|
+|vous|verbiag%[m|iez]|
+|ils|verbiag%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|verbiag%[m|é]|
+|tu|avais|verbiag%[m|é]|
+|il|avait|verbiag%[m|é]|
+|nous|avions|verbiag%[m|é]|
+|vous|aviez|verbiag%[m|é]|
+|ils|avaient|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|verbiag%[m|eai]|
+|tu|verbiag%[m|eas]|
+|il|verbiag%[m|ea]|
+|nous|verbiag%[m|eâmes]|
+|vous|verbiag%[m|eâtes]|
+|ils|verbiag%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|verbiag%[m|é]|
+|tu|eus|verbiag%[m|é]|
+|il|eut|verbiag%[m|é]|
+|nous|e&ucirc;mes|verbiag%[m|é]|
+|vous|e&ucirc;tes|verbiag%[m|é]|
+|ils|eurent|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|verbiag%[m|erai]|
+|tu|verbiag%[m|eras]|
+|il|verbiag%[m|era]|
+|nous|verbiag%[m|erons]|
+|vous|verbiag%[m|erez]|
+|ils|verbiag%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|verbiag%[m|é]|
+|tu|auras|verbiag%[m|é]|
+|il|aura|verbiag%[m|é]|
+|nous|aurons|verbiag%[m|é]|
+|vous|aurez|verbiag%[m|é]|
+|ils|auront|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|verbiag%[m|erais]|
+|tu|verbiag%[m|erais]|
+|il|verbiag%[m|erait]|
+|nous|verbiag%[m|erions]|
+|vous|verbiag%[m|eriez]|
+|ils|verbiag%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|verbiag%[m|é]|
+|tu|aurais|verbiag%[m|é]|
+|il|aurait|verbiag%[m|é]|
+|nous|aurions|verbiag%[m|é]|
+|vous|auriez|verbiag%[m|é]|
+|ils|auraient|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|verbiag%[m|e]|
+|que|tu|verbiag%[m|es]|
+|qu'|il|verbiag%[m|e]|
+|que|nous|verbiag%[m|ions]|
+|que|vous|verbiag%[m|iez]|
+|qu'|ils|verbiag%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|verbiag%[m|é]|
+|que|tu|aies|verbiag%[m|é]|
+|qu'|il|ait|verbiag%[m|é]|
+|que|nous|ayons|verbiag%[m|é]|
+|que|vous|ayez|verbiag%[m|é]|
+|qu'|ils|aient|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|verbiag%[m|easse]|
+|que|tu|verbiag%[m|easses]|
+|qu'|il|verbiag%[m|eât]|
+|que|nous|verbiag%[m|eassions]|
+|que|vous|verbiag%[m|eassiez]|
+|qu'|ils|verbiag%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|verbiag%[m|é]|
+|que|tu|eusses|verbiag%[m|é]|
+|qu'|il|eût|verbiag%[m|é]|
+|que|nous|eussions|verbiag%[m|é]|
+|que|vous|eussiez|verbiag%[m|é]|
+|qu'|ils|eussent|verbiag%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|verbiag%[m|e]|
+|verbiag%[m|eons]|
+|verbiag%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|verbiag%[m|é]|
+|ayons|verbiag%[m|é]|
+|ayez|verbiag%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# casemater %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|casemat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|casemat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|casemat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||casemat%[m|é]|
+|ayant|casemat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en casemat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|casemat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|casemat%[m|e]|
+|tu|casemat%[m|es]|
+|il|casemat%[m|e]|
+|nous|casemat%[m|ons]|
+|vous|casemat%[m|ez]|
+|ils|casemat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|casemat%[m|é]|
+|tu|as |casemat%[m|é]|
+|il|a|casemat%[m|é]|
+|nous|avons|casemat%[m|é]|
+|vous|avez|casemat%[m|é]|
+|ils|ont|casemat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|casemat%[m|ais]|
+|tu|casemat%[m|ais]|
+|il|casemat%[m|ait]|
+|nous|casemat%[m|ions]|
+|vous|casemat%[m|iez]|
+|ils|casemat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|casemat%[m|é]|
+|tu|avais|casemat%[m|é]|
+|il|avait|casemat%[m|é]|
+|nous|avions|casemat%[m|é]|
+|vous|aviez|casemat%[m|é]|
+|ils|avaient|casemat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|casemat%[m|ai]|
+|tu|casemat%[m|as]|
+|il|casemat%[m|a]|
+|nous|casemat%[m|âmes]|
+|vous|casemat%[m|âtes]|
+|ils|casemat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|casemat%[m|é]|
+|tu|eus|casemat%[m|é]|
+|il|eut|casemat%[m|é]|
+|nous|e&ucirc;mes|casemat%[m|é]|
+|vous|e&ucirc;tes|casemat%[m|é]|
+|ils|eurent|casemat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|casemat%[m|erai]|
+|tu|casemat%[m|eras]|
+|il|casemat%[m|era]|
+|nous|casemat%[m|erons]|
+|vous|casemat%[m|erez]|
+|ils|casemat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|casemat%[m|é]|
+|tu|auras|casemat%[m|é]|
+|il|aura|casemat%[m|é]|
+|nous|aurons|casemat%[m|é]|
+|vous|aurez|casemat%[m|é]|
+|ils|auront|casemat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|casemat%[m|erais]|
+|tu|casemat%[m|erais]|
+|il|casemat%[m|erait]|
+|nous|casemat%[m|erions]|
+|vous|casemat%[m|eriez]|
+|ils|casemat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|casemat%[m|é]|
+|tu|aurais|casemat%[m|é]|
+|il|aurait|casemat%[m|é]|
+|nous|aurions|casemat%[m|é]|
+|vous|auriez|casemat%[m|é]|
+|ils|auraient|casemat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|casemat%[m|e]|
+|que|tu|casemat%[m|es]|
+|qu'|il|casemat%[m|e]|
+|que|nous|casemat%[m|ions]|
+|que|vous|casemat%[m|iez]|
+|qu'|ils|casemat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|casemat%[m|é]|
+|que|tu|aies|casemat%[m|é]|
+|qu'|il|ait|casemat%[m|é]|
+|que|nous|ayons|casemat%[m|é]|
+|que|vous|ayez|casemat%[m|é]|
+|qu'|ils|aient|casemat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|casemat%[m|asse]|
+|que|tu|casemat%[m|asses]|
+|qu'|il|casemat%[m|ât]|
+|que|nous|casemat%[m|assions]|
+|que|vous|casemat%[m|assiez]|
+|qu'|ils|casemat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|casemat%[m|é]|
+|que|tu|eusses|casemat%[m|é]|
+|qu'|il|eût|casemat%[m|é]|
+|que|nous|eussions|casemat%[m|é]|
+|que|vous|eussiez|casemat%[m|é]|
+|qu'|ils|eussent|casemat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|casemat%[m|e]|
+|casemat%[m|ons]|
+|casemat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|casemat%[m|é]|
+|ayons|casemat%[m|é]|
+|ayez|casemat%[m|é]|
+|]
+

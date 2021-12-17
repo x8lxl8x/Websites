@@ -1,0 +1,27 @@
+<h3>Кабинет консультанта</h3>
+
+<h4>Добавление клиента</h4>
+
+<form id='idMainAdd' name='varMainAdd' method='post' action='./admin-client-add-proc.php?varIdKey=$strIdKey'>
+<p class='clInputName01'>Фамилия      </p>
+<p><input id='idClientNameLast'  name='varClientNameLast'  type='text' maxlength='50' size='50'></p>
+
+<p class='clInputName01'>Имя        </p>
+<p><input id='idClientNameFirst'  name='varClientNameFirst'  type='text' maxlength='50' size='50'></p>
+
+<p class='clInputName01'>Почта        </p>
+<p><input id='idClientEmail'    name='varClientEmail'    type='text' maxlength='50' size='50'></p>
+
+<br>
+Послать сообщение? <input id='idClientEmailSend' name='varClientEmailSend'  type='checkbox' checked>
+
+<p class='clQuestion'>Текст сообщения:</p>
+<textarea rows='5' cols='80' id='idMessageText' name='varMessageText' type='textarea'></textarea>
+<br>
+<br>
+<input type='button' value='Добавить' onClick='fncClientAdd();'>
+</form>
+
+<div id='idExitLink'>
+  <a href='./admin-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

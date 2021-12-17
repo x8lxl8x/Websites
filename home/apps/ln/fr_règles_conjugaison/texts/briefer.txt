@@ -1,0 +1,190 @@
+# briefer %[clVerbGroup|1]
+[-
+informer quelqu'un par un bref exposé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|brief%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|brief%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|brief%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||brief%[m|é]|
+|ayant|brief%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en brief%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|brief%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|brief%[m|e]|
+|tu|brief%[m|es]|
+|il|brief%[m|e]|
+|nous|brief%[m|ons]|
+|vous|brief%[m|ez]|
+|ils|brief%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|brief%[m|é]|
+|tu|as |brief%[m|é]|
+|il|a|brief%[m|é]|
+|nous|avons|brief%[m|é]|
+|vous|avez|brief%[m|é]|
+|ils|ont|brief%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|brief%[m|ais]|
+|tu|brief%[m|ais]|
+|il|brief%[m|ait]|
+|nous|brief%[m|ions]|
+|vous|brief%[m|iez]|
+|ils|brief%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|brief%[m|é]|
+|tu|avais|brief%[m|é]|
+|il|avait|brief%[m|é]|
+|nous|avions|brief%[m|é]|
+|vous|aviez|brief%[m|é]|
+|ils|avaient|brief%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|brief%[m|ai]|
+|tu|brief%[m|as]|
+|il|brief%[m|a]|
+|nous|brief%[m|âmes]|
+|vous|brief%[m|âtes]|
+|ils|brief%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|brief%[m|é]|
+|tu|eus|brief%[m|é]|
+|il|eut|brief%[m|é]|
+|nous|e&ucirc;mes|brief%[m|é]|
+|vous|e&ucirc;tes|brief%[m|é]|
+|ils|eurent|brief%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|brief%[m|erai]|
+|tu|brief%[m|eras]|
+|il|brief%[m|era]|
+|nous|brief%[m|erons]|
+|vous|brief%[m|erez]|
+|ils|brief%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|brief%[m|é]|
+|tu|auras|brief%[m|é]|
+|il|aura|brief%[m|é]|
+|nous|aurons|brief%[m|é]|
+|vous|aurez|brief%[m|é]|
+|ils|auront|brief%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|brief%[m|erais]|
+|tu|brief%[m|erais]|
+|il|brief%[m|erait]|
+|nous|brief%[m|erions]|
+|vous|brief%[m|eriez]|
+|ils|brief%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|brief%[m|é]|
+|tu|aurais|brief%[m|é]|
+|il|aurait|brief%[m|é]|
+|nous|aurions|brief%[m|é]|
+|vous|auriez|brief%[m|é]|
+|ils|auraient|brief%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|brief%[m|e]|
+|que|tu|brief%[m|es]|
+|qu'|il|brief%[m|e]|
+|que|nous|brief%[m|ions]|
+|que|vous|brief%[m|iez]|
+|qu'|ils|brief%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|brief%[m|é]|
+|que|tu|aies|brief%[m|é]|
+|qu'|il|ait|brief%[m|é]|
+|que|nous|ayons|brief%[m|é]|
+|que|vous|ayez|brief%[m|é]|
+|qu'|ils|aient|brief%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|brief%[m|asse]|
+|que|tu|brief%[m|asses]|
+|qu'|il|brief%[m|ât]|
+|que|nous|brief%[m|assions]|
+|que|vous|brief%[m|assiez]|
+|qu'|ils|brief%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|brief%[m|é]|
+|que|tu|eusses|brief%[m|é]|
+|qu'|il|eût|brief%[m|é]|
+|que|nous|eussions|brief%[m|é]|
+|que|vous|eussiez|brief%[m|é]|
+|qu'|ils|eussent|brief%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|brief%[m|e]|
+|brief%[m|ons]|
+|brief%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|brief%[m|é]|
+|ayons|brief%[m|é]|
+|ayez|brief%[m|é]|
+|]
+

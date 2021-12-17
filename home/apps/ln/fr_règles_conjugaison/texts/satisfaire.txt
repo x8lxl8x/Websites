@@ -1,0 +1,190 @@
+# satisfaire %[clVerbGroup|3]
+[-
+contenter, accorder à quelqu'un ce qu'il demande. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|satisf%[m|aire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|satisf%[m|aisant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||satisf%[m|ait]|
+|ayant|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en satisf%[m|aisant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|satisf%[m|ais]|
+|tu|satisf%[m|ais]|
+|il|satisf%[m|ait]|
+|nous|satisf%[m|aisons]|
+|vous|satisf%[m|aites]|
+|ils|satisf%[m|ont]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|satisf%[m|ait]|
+|tu|as |satisf%[m|ait]|
+|il|a|satisf%[m|ait]|
+|nous|avons|satisf%[m|ait]|
+|vous|avez|satisf%[m|ait]|
+|ils|ont|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|satisf%[m|aisais]|
+|tu|satisf%[m|aisais]|
+|il|satisf%[m|aisait]|
+|nous|satisf%[m|aisions]|
+|vous|satisf%[m|aisiez]|
+|ils|satisf%[m|aisaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|satisf%[m|ait]|
+|tu|avais|satisf%[m|ait]|
+|il|avait|satisf%[m|ait]|
+|nous|avions|satisf%[m|ait]|
+|vous|aviez|satisf%[m|ait]|
+|ils|avaient|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|satisf%[m|is]|
+|tu|satisf%[m|is]|
+|il|satisf%[m|it]|
+|nous|satisf%[m|îmes]|
+|vous|satisf%[m|îtes]|
+|ils|satisf%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|satisf%[m|ait]|
+|tu|eus|satisf%[m|ait]|
+|il|eut|satisf%[m|ait]|
+|nous|e&ucirc;mes|satisf%[m|ait]|
+|vous|e&ucirc;tes|satisf%[m|ait]|
+|ils|eurent|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|satisf%[m|erai]|
+|tu|satisf%[m|eras]|
+|il|satisf%[m|era]|
+|nous|satisf%[m|erons]|
+|vous|satisf%[m|erez]|
+|ils|satisf%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|satisf%[m|ait]|
+|tu|auras|satisf%[m|ait]|
+|il|aura|satisf%[m|ait]|
+|nous|aurons|satisf%[m|ait]|
+|vous|aurez|satisf%[m|ait]|
+|ils|auront|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|satisf%[m|erais]|
+|tu|satisf%[m|erais]|
+|il|satisf%[m|erait]|
+|nous|satisf%[m|erions]|
+|vous|satisf%[m|eriez]|
+|ils|satisf%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|satisf%[m|ait]|
+|tu|aurais|satisf%[m|ait]|
+|il|aurait|satisf%[m|ait]|
+|nous|aurions|satisf%[m|ait]|
+|vous|auriez|satisf%[m|ait]|
+|ils|auraient|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|satisf%[m|asse]|
+|que|tu|satisf%[m|asses]|
+|qu'|il|satisf%[m|asse]|
+|que|nous|satisf%[m|assions]|
+|que|vous|satisf%[m|assiez]|
+|qu'|ils|satisf%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|satisf%[m|ait]|
+|que|tu|aies|satisf%[m|ait]|
+|qu'|il|ait|satisf%[m|ait]|
+|que|nous|ayons|satisf%[m|ait]|
+|que|vous|ayez|satisf%[m|ait]|
+|qu'|ils|aient|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|satisf%[m|isse]|
+|que|tu|satisf%[m|isses]|
+|qu'|il|satisf%[m|ît]|
+|que|nous|satisf%[m|issions]|
+|que|vous|satisf%[m|issiez]|
+|qu'|ils|satisf%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|satisf%[m|ait]|
+|que|tu|eusses|satisf%[m|ait]|
+|qu'|il|eût|satisf%[m|ait]|
+|que|nous|eussions|satisf%[m|ait]|
+|que|vous|eussiez|satisf%[m|ait]|
+|qu'|ils|eussent|satisf%[m|ait]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|satisf%[m|ais]|
+|satisf%[m|aisons]|
+|satisf%[m|aites]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|satisf%[m|ait]|
+|ayons|satisf%[m|ait]|
+|ayez|satisf%[m|ait]|
+|]
+

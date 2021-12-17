@@ -1,0 +1,189 @@
+# se suffire %[clVerbGroup|3]
+[-
+
+-]
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se suff%[m|ire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|suff%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se suff%[m|isant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|suff%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se suff%[m|isant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|suff%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|suff%[m|is]|
+|tu|te|suff%[m|is]|
+|il|se|suff%[m|it]|
+|nous|nous|suff%[m|isons]|
+|vous|vous|suff%[m|isez]|
+|ils|se|suff%[m|isent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|suff%[m|i]|
+|tu|t'|es|suff%[m|i]|
+|il|s'|est|suff%[m|i]|
+|nous|nous|sommes|suff%[m|is]|
+|vous|vous|êtes|suff%[m|is]|
+|ils|se|sont|suff%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|suff%[m|isais]|
+|tu|te|suff%[m|isais]|
+|il|se|suff%[m|isait]|
+|nous|nous|suff%[m|isions]|
+|vous|vous|suff%[m|isiez]|
+|ils|se|suff%[m|isaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|suff%[m|i]|
+|tu|t'|étais|suff%[m|i]|
+|il|s'|était|suff%[m|i]|
+|nous|nous|étions|suff%[m|is]|
+|vous|vous|étiez|suff%[m|is]|
+|ils|s'|étaient|suff%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|suff%[m|is]|
+|tu|te|suff%[m|is]|
+|il|se|suff%[m|it]|
+|nous|nous|suff%[m|îmes]|
+|vous|vous|suff%[m|îtes]|
+|ils|se|suff%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|suff%[m|i]|
+|tu|te|fus|suff%[m|i]|
+|il|se|fut|suff%[m|i]|
+|nous|nous|fûmes|suff%[m|is]|
+|vous|vous|fûtes|suff%[m|is]|
+|ils|se|furent|suff%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|suff%[m|irai]|
+|tu|te|suff%[m|iras]|
+|il|se|suff%[m|ira]|
+|nous|nous|suff%[m|irons]|
+|vous|vous|suff%[m|irez]|
+|ils|se|suff%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|suff%[m|i]|
+|tu|te|seras|suff%[m|i]|
+|il|se|sera|suff%[m|i]|
+|nous|nous|serons|suff%[m|is]|
+|vous|vous|serez|suff%[m|is]|
+|ils|se|seront|suff%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|suff%[m|irais]|
+|tu|te|suff%[m|irais]|
+|il|se|suff%[m|irait]|
+|nous|nous|suff%[m|irions]|
+|vous|vous|suff%[m|iriez]|
+|ils|se|suff%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|suff%[m|i]|
+|tu|te|serais|suff%[m|i]|
+|il|se|serait|suff%[m|i]|
+|nous|nous|serions|suff%[m|is]|
+|vous|vous|seriez|suff%[m|is]|
+|ils|se|seraient|suff%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|suff%[m|ise]|
+|que|tu|te|suff%[m|ises]|
+|qu'|il|se|suff%[m|ise]|
+|que|nous|nous|suff%[m|isions]|
+|que|vous|vous|suff%[m|isiez]|
+|qu'|ils|se|suff%[m|isent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|suff%[m|i]|
+|que|tu|te|sois|suff%[m|i]|
+|qu'|il|se|soit|suff%[m|i]|
+|que|nous|nous|soyons|suff%[m|is]|
+|que|vous|vous|soyez|suff%[m|is]|
+|qu'|ils|se|soient|suff%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|suff%[m|isse]|
+|que|tu|te|suff%[m|isses]|
+|qu'|il|se|suff%[m|ît]|
+|que|nous|nous|suff%[m|issions]|
+|que|vous|vous|suff%[m|issiez]|
+|qu'|ils|se|suff%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|suff%[m|i]|
+|que|tu|te|fusses|suff%[m|i]|
+|qu'|il|se|fût|suff%[m|i]|
+|que|nous|nous|fussions|suff%[m|is]|
+|que|vous|vous|fussiez|suff%[m|is]|
+|qu'|ils|se|fussent|suff%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|suff%[m|is]-toi|
+|suff%[m|isons]-nous|
+|suff%[m|isez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

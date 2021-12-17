@@ -1,0 +1,190 @@
+# boetter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|boett%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|boett%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|boett%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||boett%[m|é]|
+|ayant|boett%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en boett%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|boett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|boett%[m|e]|
+|tu|boett%[m|es]|
+|il|boett%[m|e]|
+|nous|boett%[m|ons]|
+|vous|boett%[m|ez]|
+|ils|boett%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|boett%[m|é]|
+|tu|as |boett%[m|é]|
+|il|a|boett%[m|é]|
+|nous|avons|boett%[m|é]|
+|vous|avez|boett%[m|é]|
+|ils|ont|boett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|boett%[m|ais]|
+|tu|boett%[m|ais]|
+|il|boett%[m|ait]|
+|nous|boett%[m|ions]|
+|vous|boett%[m|iez]|
+|ils|boett%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|boett%[m|é]|
+|tu|avais|boett%[m|é]|
+|il|avait|boett%[m|é]|
+|nous|avions|boett%[m|é]|
+|vous|aviez|boett%[m|é]|
+|ils|avaient|boett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|boett%[m|ai]|
+|tu|boett%[m|as]|
+|il|boett%[m|a]|
+|nous|boett%[m|âmes]|
+|vous|boett%[m|âtes]|
+|ils|boett%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|boett%[m|é]|
+|tu|eus|boett%[m|é]|
+|il|eut|boett%[m|é]|
+|nous|e&ucirc;mes|boett%[m|é]|
+|vous|e&ucirc;tes|boett%[m|é]|
+|ils|eurent|boett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|boett%[m|erai]|
+|tu|boett%[m|eras]|
+|il|boett%[m|era]|
+|nous|boett%[m|erons]|
+|vous|boett%[m|erez]|
+|ils|boett%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|boett%[m|é]|
+|tu|auras|boett%[m|é]|
+|il|aura|boett%[m|é]|
+|nous|aurons|boett%[m|é]|
+|vous|aurez|boett%[m|é]|
+|ils|auront|boett%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|boett%[m|erais]|
+|tu|boett%[m|erais]|
+|il|boett%[m|erait]|
+|nous|boett%[m|erions]|
+|vous|boett%[m|eriez]|
+|ils|boett%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|boett%[m|é]|
+|tu|aurais|boett%[m|é]|
+|il|aurait|boett%[m|é]|
+|nous|aurions|boett%[m|é]|
+|vous|auriez|boett%[m|é]|
+|ils|auraient|boett%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|boett%[m|e]|
+|que|tu|boett%[m|es]|
+|qu'|il|boett%[m|e]|
+|que|nous|boett%[m|ions]|
+|que|vous|boett%[m|iez]|
+|qu'|ils|boett%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|boett%[m|é]|
+|que|tu|aies|boett%[m|é]|
+|qu'|il|ait|boett%[m|é]|
+|que|nous|ayons|boett%[m|é]|
+|que|vous|ayez|boett%[m|é]|
+|qu'|ils|aient|boett%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|boett%[m|asse]|
+|que|tu|boett%[m|asses]|
+|qu'|il|boett%[m|ât]|
+|que|nous|boett%[m|assions]|
+|que|vous|boett%[m|assiez]|
+|qu'|ils|boett%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|boett%[m|é]|
+|que|tu|eusses|boett%[m|é]|
+|qu'|il|eût|boett%[m|é]|
+|que|nous|eussions|boett%[m|é]|
+|que|vous|eussiez|boett%[m|é]|
+|qu'|ils|eussent|boett%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|boett%[m|e]|
+|boett%[m|ons]|
+|boett%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|boett%[m|é]|
+|ayons|boett%[m|é]|
+|ayez|boett%[m|é]|
+|]
+

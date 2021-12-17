@@ -1,0 +1,190 @@
+# animaliser %[clVerbGroup|1]
+[-
+donner les caractères propres aux animaux aux personnes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|animalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|animalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|animalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||animalis%[m|é]|
+|ayant|animalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en animalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|animalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|animalis%[m|e]|
+|tu|animalis%[m|es]|
+|il|animalis%[m|e]|
+|nous|animalis%[m|ons]|
+|vous|animalis%[m|ez]|
+|ils|animalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|animalis%[m|é]|
+|tu|as |animalis%[m|é]|
+|il|a|animalis%[m|é]|
+|nous|avons|animalis%[m|é]|
+|vous|avez|animalis%[m|é]|
+|ils|ont|animalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|animalis%[m|ais]|
+|tu|animalis%[m|ais]|
+|il|animalis%[m|ait]|
+|nous|animalis%[m|ions]|
+|vous|animalis%[m|iez]|
+|ils|animalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|animalis%[m|é]|
+|tu|avais|animalis%[m|é]|
+|il|avait|animalis%[m|é]|
+|nous|avions|animalis%[m|é]|
+|vous|aviez|animalis%[m|é]|
+|ils|avaient|animalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|animalis%[m|ai]|
+|tu|animalis%[m|as]|
+|il|animalis%[m|a]|
+|nous|animalis%[m|âmes]|
+|vous|animalis%[m|âtes]|
+|ils|animalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|animalis%[m|é]|
+|tu|eus|animalis%[m|é]|
+|il|eut|animalis%[m|é]|
+|nous|e&ucirc;mes|animalis%[m|é]|
+|vous|e&ucirc;tes|animalis%[m|é]|
+|ils|eurent|animalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|animalis%[m|erai]|
+|tu|animalis%[m|eras]|
+|il|animalis%[m|era]|
+|nous|animalis%[m|erons]|
+|vous|animalis%[m|erez]|
+|ils|animalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|animalis%[m|é]|
+|tu|auras|animalis%[m|é]|
+|il|aura|animalis%[m|é]|
+|nous|aurons|animalis%[m|é]|
+|vous|aurez|animalis%[m|é]|
+|ils|auront|animalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|animalis%[m|erais]|
+|tu|animalis%[m|erais]|
+|il|animalis%[m|erait]|
+|nous|animalis%[m|erions]|
+|vous|animalis%[m|eriez]|
+|ils|animalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|animalis%[m|é]|
+|tu|aurais|animalis%[m|é]|
+|il|aurait|animalis%[m|é]|
+|nous|aurions|animalis%[m|é]|
+|vous|auriez|animalis%[m|é]|
+|ils|auraient|animalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|animalis%[m|e]|
+|que|tu|animalis%[m|es]|
+|qu'|il|animalis%[m|e]|
+|que|nous|animalis%[m|ions]|
+|que|vous|animalis%[m|iez]|
+|qu'|ils|animalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|animalis%[m|é]|
+|que|tu|aies|animalis%[m|é]|
+|qu'|il|ait|animalis%[m|é]|
+|que|nous|ayons|animalis%[m|é]|
+|que|vous|ayez|animalis%[m|é]|
+|qu'|ils|aient|animalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|animalis%[m|asse]|
+|que|tu|animalis%[m|asses]|
+|qu'|il|animalis%[m|ât]|
+|que|nous|animalis%[m|assions]|
+|que|vous|animalis%[m|assiez]|
+|qu'|ils|animalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|animalis%[m|é]|
+|que|tu|eusses|animalis%[m|é]|
+|qu'|il|eût|animalis%[m|é]|
+|que|nous|eussions|animalis%[m|é]|
+|que|vous|eussiez|animalis%[m|é]|
+|qu'|ils|eussent|animalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|animalis%[m|e]|
+|animalis%[m|ons]|
+|animalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|animalis%[m|é]|
+|ayons|animalis%[m|é]|
+|ayez|animalis%[m|é]|
+|]
+

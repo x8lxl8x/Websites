@@ -1,0 +1,190 @@
+# fuseler %[clVerbGroup|1]
+[-
+tailler en fuseau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fusel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fusel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fusel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fusel%[m|é]|
+|ayant|fusel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fusel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fusel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fusel%[m|l]%[m|e]|
+|tu|fusel%[m|l]%[m|es]|
+|il|fusel%[m|l]%[m|e]|
+|nous|fusel%[m|]%[m|ons]|
+|vous|fusel%[m|]%[m|ez]|
+|ils|fusel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fusel%[m|é]|
+|tu|as |fusel%[m|é]|
+|il|a|fusel%[m|é]|
+|nous|avons|fusel%[m|é]|
+|vous|avez|fusel%[m|é]|
+|ils|ont|fusel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fusel%[m|]%[m|ais]|
+|tu|fusel%[m|]%[m|ais]|
+|il|fusel%[m|]%[m|ait]|
+|nous|fusel%[m|]%[m|ions]|
+|vous|fusel%[m|]%[m|iez]|
+|ils|fusel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fusel%[m|é]|
+|tu|avais|fusel%[m|é]|
+|il|avait|fusel%[m|é]|
+|nous|avions|fusel%[m|é]|
+|vous|aviez|fusel%[m|é]|
+|ils|avaient|fusel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fusel%[m|]%[m|ai]|
+|tu|fusel%[m|]%[m|as]|
+|il|fusel%[m|]%[m|a]|
+|nous|fusel%[m|]%[m|âmes]|
+|vous|fusel%[m|]%[m|âtes]|
+|ils|fusel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fusel%[m|é]|
+|tu|eus|fusel%[m|é]|
+|il|eut|fusel%[m|é]|
+|nous|e&ucirc;mes|fusel%[m|é]|
+|vous|e&ucirc;tes|fusel%[m|é]|
+|ils|eurent|fusel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fusel%[m|l]%[m|erai]|
+|tu|fusel%[m|l]%[m|eras]|
+|il|fusel%[m|l]%[m|era]|
+|nous|fusel%[m|l]%[m|erons]|
+|vous|fusel%[m|l]%[m|erez]|
+|ils|fusel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fusel%[m|é]|
+|tu|auras|fusel%[m|é]|
+|il|aura|fusel%[m|é]|
+|nous|aurons|fusel%[m|é]|
+|vous|aurez|fusel%[m|é]|
+|ils|auront|fusel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fusel%[m|l]%[m|erais]|
+|tu|fusel%[m|l]%[m|erais]|
+|il|fusel%[m|l]%[m|erait]|
+|nous|fusel%[m|l]%[m|erions]|
+|vous|fusel%[m|l]%[m|eriez]|
+|ils|fusel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fusel%[m|é]|
+|tu|aurais|fusel%[m|é]|
+|il|aurait|fusel%[m|é]|
+|nous|aurions|fusel%[m|é]|
+|vous|auriez|fusel%[m|é]|
+|ils|auraient|fusel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fusel%[m|l]%[m|e]|
+|que|tu|fusel%[m|l]%[m|es]|
+|qu'|il|fusel%[m|l]%[m|e]|
+|que|nous|fusel%[m|]%[m|ions]|
+|que|vous|fusel%[m|]%[m|iez]|
+|qu'|ils|fusel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fusel%[m|é]|
+|que|tu|aies|fusel%[m|é]|
+|qu'|il|ait|fusel%[m|é]|
+|que|nous|ayons|fusel%[m|é]|
+|que|vous|ayez|fusel%[m|é]|
+|qu'|ils|aient|fusel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fusel%[m|]%[m|asse]|
+|que|tu|fusel%[m|]%[m|asses]|
+|qu'|il|fusel%[m|]%[m|ât]|
+|que|nous|fusel%[m|]%[m|assions]|
+|que|vous|fusel%[m|]%[m|assiez]|
+|qu'|ils|fusel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fusel%[m|é]|
+|que|tu|eusses|fusel%[m|é]|
+|qu'|il|eût|fusel%[m|é]|
+|que|nous|eussions|fusel%[m|é]|
+|que|vous|eussiez|fusel%[m|é]|
+|qu'|ils|eussent|fusel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fusel%[m|l]%[m|e]|
+|fusel%[m|]%[m|ons]|
+|fusel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fusel%[m|é]|
+|ayons|fusel%[m|é]|
+|ayez|fusel%[m|é]|
+|]
+

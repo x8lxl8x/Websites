@@ -1,0 +1,190 @@
+# roustir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|roust%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|roust%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|roust%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||roust%[m|i]|
+|ayant|roust%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en roust%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|roust%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|roust%[m|is]|
+|tu|roust%[m|is]|
+|il|roust%[m|it]|
+|nous|roust%[m|issons]|
+|vous|roust%[m|issez]|
+|ils|roust%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|roust%[m|i]|
+|tu|as |roust%[m|i]|
+|il|a|roust%[m|i]|
+|nous|avons|roust%[m|i]|
+|vous|avez|roust%[m|i]|
+|ils|ont|roust%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|roust%[m|issais]|
+|tu|roust%[m|issais]|
+|il|roust%[m|issait]|
+|nous|roust%[m|issions]|
+|vous|roust%[m|issiez]|
+|ils|roust%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|roust%[m|i]|
+|tu|avais|roust%[m|i]|
+|il|avait|roust%[m|i]|
+|nous|avions|roust%[m|i]|
+|vous|aviez|roust%[m|i]|
+|ils|avaient|roust%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|roust%[m|is]|
+|tu|roust%[m|is]|
+|il|roust%[m|it]|
+|nous|roust%[m|îmes]|
+|vous|roust%[m|îtes]|
+|ils|roust%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|roust%[m|i]|
+|tu|eus|roust%[m|i]|
+|il|eut|roust%[m|i]|
+|nous|e&ucirc;mes|roust%[m|i]|
+|vous|e&ucirc;tes|roust%[m|i]|
+|ils|eurent|roust%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|roust%[m|irai]|
+|tu|roust%[m|iras]|
+|il|roust%[m|ira]|
+|nous|roust%[m|irons]|
+|vous|roust%[m|irez]|
+|ils|roust%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|roust%[m|i]|
+|tu|auras|roust%[m|i]|
+|il|aura|roust%[m|i]|
+|nous|aurons|roust%[m|i]|
+|vous|aurez|roust%[m|i]|
+|ils|auront|roust%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|roust%[m|irais]|
+|tu|roust%[m|irais]|
+|il|roust%[m|irait]|
+|nous|roust%[m|irions]|
+|vous|roust%[m|iriez]|
+|ils|roust%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|roust%[m|i]|
+|tu|aurais|roust%[m|i]|
+|il|aurait|roust%[m|i]|
+|nous|aurions|roust%[m|i]|
+|vous|auriez|roust%[m|i]|
+|ils|auraient|roust%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|roust%[m|isse]|
+|que|tu|roust%[m|isses]|
+|qu'|il|roust%[m|isse]|
+|que|nous|roust%[m|issions]|
+|que|vous|roust%[m|issiez]|
+|qu'|ils|roust%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|roust%[m|i]|
+|que|tu|aies|roust%[m|i]|
+|qu'|il|ait|roust%[m|i]|
+|que|nous|ayons|roust%[m|i]|
+|que|vous|ayez|roust%[m|i]|
+|qu'|ils|aient|roust%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|roust%[m|isse]|
+|que|tu|roust%[m|isses]|
+|qu'|il|roust%[m|ît]|
+|que|nous|roust%[m|issions]|
+|que|vous|roust%[m|issiez]|
+|qu'|ils|roust%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|roust%[m|i]|
+|que|tu|eusses|roust%[m|i]|
+|qu'|il|eût|roust%[m|i]|
+|que|nous|eussions|roust%[m|i]|
+|que|vous|eussiez|roust%[m|i]|
+|qu'|ils|eussent|roust%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|roust%[m|is]|
+|roust%[m|issons]|
+|roust%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|roust%[m|i]|
+|ayons|roust%[m|i]|
+|ayez|roust%[m|i]|
+|]
+

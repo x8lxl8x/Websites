@@ -1,0 +1,463 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Finance Tutorial</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+
+<div id='idContent'>
+
+<h1>Options Greeks: Introduction</h1>
+
+
+<p>Trading options without an understanding of the Greeks - the essential risk measures and profit/loss guideposts in options strategies - is synonymous to flying a plane without the ability to read instruments. </p>
+
+<p>Unfortunately, many traders are not option strategy "instrument rated"; that is, they do not know how to read the Greeks when trading. This puts them at risk of a fatal error, much like a pilot would experience flying in bad weather without the benefit of a panel of instruments at his or her disposal. </p>
+<p>This tutorial is aimed at getting you instrument rated in options trading, to continue the analogy with piloting, so that you can handle any strategy scenario and take the appropriate action to avoid losses or enhance gains. It will also provide you with the tools necessary to determine the risk and reward potential before lift off.</p>
+<p>When taking an option position or setting up an options strategy, there will be risk and potential reward from the following areas: </p>
+<ul><li>Price change    </li><li>Changes in volatility    </li><li>Time value decay </li></ul>If you are an option buyer, then risk resides in a wrong-way price move, a fall in implied volatility (IV) and decline in value on the option due to passage of time. A seller of that option, on the other hand, faces risk with a wrong-way price move in the opposite direction or a rise in IV, but not from time value decay. (For background reading, see <em>Reducing Risk With Options</em>.)</p>
+<p>Interest rates, while used in option pricing models, generally don't play a role in typical strategy designs and outcomes, so they will remain left out of the discussion at this point. In the next part of this tutorial, the role interest rates play in option valuation will be touched on in order to complete the overview of the Greeks. </p>
+<p>When any strategy is constructed, there are associated <em>Delta</em>, <em>Vega</em> and <em>Theta </em>positions, as well as other position Greeks. </p>
+<p>When options are traded outright, or are combined, we can calculate position Greeks (or net Greeks value) so that we can know how much risk and potential reward resides in the strategy, whether it is a long put or call, or a complex strategy like a strangle, butterfly spread or ratio spread, among many others. </p>
+<p>Typically, you should try to match your outlook on a market to the position Greeks in a strategy so that if your outlook is correct you capitalize on favorable changes in the strategy at every level of the Greeks. That is why knowing what the Greeks are telling you is so important.</p>
+<p>Greeks can be incorporated into strategy design at a precise level using mathematical modeling and sophisticated software. But at a more basic level, the Greeks can be used as guideposts for where the risks and rewards can generally be found. </p>
+<p>A simple example will help to demonstrate how <em>not</em> knowing the Greeks can lead to making bad choices when establishing options positions.</p>
+
+
+<p>If you open any basic options book for beginners, you'll typically find a calendar spread as an off-the-shelf, plain vanilla approach. If you have a neutral outlook on a stock or futures market, the calendar spread can be a good choice for strategists. </p>
+<p>However, hidden in the calendar spread is a volatility risk dimension rarely highlighted in beginner books. If you sell an at-the-money front month option and buy an at-the-money back month option (standard calendar spread), the <em>Vega</em> values on these options will net out a positive position <em>Vega</em> (long volatility).</p>
+<p>That means that if implied volatility falls, you will experience a loss, assuming other things remain the same. What you will find is that a small change in implied volatility (either up or down) can lead to unrealized gains or losses, respectively, that make the potential profit from the original differential time value decay on the calendar spread seem trivial. </p>
+<p>Most beginner books regarding calendar spreads only draw your attention to the position <em>Theta</em>; this example demonstrates the importance of a combination of Greeks in any analysis.</p>
+<p>When a pilot sees his or her horizon indicator and correctly interprets it, then it is possible to keep the plane flying level even when flying through clouds or at night. Likewise, watching <em>Vega</em> and other Greeks can help keep options strategists from suffering a sudden dive in equity resulting from not knowing where they are in relation to the risk horizons in options trading - a dive that they may not be able to pull out of before it is too late. </p>
+<p>For background reading, see <em>Using the Greeks to Understand Options</em>.</p>
+
+
+
+<h2>Options Greeks: Options and Risk Parameters</h2>
+
+
+<p>This segment of the options Greeks tutorial will summarize the key Greeks and their roles in the determination of risk and reward in options trading. Whether you trade options on futures or options on equities and ETFs, these concepts are transferable, so this tutorial will help all new and experienced options traders get up to speed. </p>
+
+
+<p>There are five essential Greeks, and a sixth that is sometimes used by traders. </p>
+<p><strong><em>Delta </p>
+<p></em></strong><em>Delta</em> for individual options, and position <em>Delta</em> for strategies involving combinations of positions, are measures of risk from a move of the underlying price. For example, if you buy an at-the-money call or put, it will have a <em>Delta</em> of approximately 0.5, meaning that if the underlying stock price moves 1 point, the option price will change by 0.5 points (all other things remaining the same). If the price moves up, the call will increase by 0.5 points and the put will decrease by 0.5 points. While a 0.5 <em>Delta</em> is for options at-the-money, the range of <em>Delta</em> values will run from 0 to 1.0 (1.0 being a long stock equivalent position) and from -1.0 to 0 for puts (with -1.0 being an equivalent short stock position). </p>
+<p>In the next part of this tutorial, this simple concept will be expanded to include positive and negative position <em>Delta</em> (where individual <em>Delta</em>s of options are merged in a combination strategy) in most of the popular options strategies. </p>
+<p><strong><em>Vega </p>
+<p></em></strong>When any position is taken in options, not only is there risk from changes in the underlying but there is risk from changes in implied volatility. <em>Vega</em> is the measure of that risk. When the underlying changes, or even if it does not in some cases, implied volatility levels may change. Whether large or small, any change in the levels of implied volatility will have an impact on unrealized profit/loss in a strategy. Some strategies are long volatility and others are short volatility, while some can be constructed to be neutral volatility. For example, a put that is purchased is long volatility, which means the value increases when volatility increases and falls when volatility drops (assuming the underlying price remains the same). Conversely, a put that is sold (naked) is short volatility (the position loses value if the volatility increases). When a strategy is long volatility, it has a positive position <em>Vega</em> value and when short volatility, its position <em>Vega</em> is negative. When the volatility risk has been neutralized, position <em>Vega</em> will be neither positive nor negative. </p>
+<p><strong><em>Theta</p>
+<p></em></strong><em><em>Theta</em></em> is a measure of the rate of time premium decay and it is always negative (leaving position <em>Theta</em> aside for now). Anybody who has purchased an option knows what <em>Theta</em> is, since it is one of the most difficult hurdles to surmount for buyers. As soon as you own an option (a wasting asset), the clock starts ticking, and with each tick the amount of time value remaining on the option decreases, other things remaining the same. Owners of these wasting assets take the position because they believe the underlying stock or futures will make a move quick enough to put a profit on the option position before the clock has ticked too long. In other words, <em>Delta</em> beats <em>Theta</em> and the trade can be closed profitably. When <em>Theta</em> beats <em>Delta</em>, the seller of the option would show gains. This tug of war between <em>Delta</em> and <em>Theta</em> characterizes the experience of many traders, whether long (purchasers) or short (sellers) of options. </p>
+<p><strong><em></p>
+<p>Gamma</p>
+<p></em></strong><em>Delta</em> measures the change in price of an option resulting from the change in the underlying price. However, <em>Delta</em> is not a constant. When the underlying moves so does the <em>Delta</em> value on any option. This rate of change of <em>Delta</em> resulting from movement of the underlying is known as <em>Gamma</em>. And <em>Gamma</em> is largest for options that are at-the-money, while smallest for those options that are deepest in- and out-of-the-money. <em>Gammas</em> that get too big are risky for traders, but they also hold potential for large-size gains. <em>Gammas</em> can get very large as expiration nears, particularly on the last trading day for near-the-money options. </p>
+
+<p><strong><city w:st="on"><place w:st="on"><em>Rho</p>
+<p></em></place></city></strong><city w:st="on"><place w:st="on"><em><city w:st="on"><place w:st="on"><em>Rho</em></place></city></em></place></city> is a risk measure related to changes in interest rates. Since the interest rate risk is generally of a trivial nature for most strategists (the risk free interest rate does not make large enough changes in the time frame of most options strategies), it will not be dealt with at length in this tutorial. </p>
+<p>When interest rates rise, call prices will rise and put prices will fall. Just the reverse occurs when interest rates fall. <city w:st="on"><place w:st="on"><em>Rho</em></place></city> is a risk measure that tells strategists by how much call and put prices change as a result of the rise or fall in interest rates. The <city w:st="on"><place w:st="on"><em>Rho</em></place></city> values for in-the-money options will be largest due to arbitrage activity with such options. Arbitragers are willing to pay more for call options and less for put options when interest rates rise because of the interest earnings potential on short sales made to hedge long calls and opportunity costs of not earning that interest.</p>
+<p>Positive for calls and negative for puts, the <city w:st="on"><place w:st="on"><em>Rho</em></place></city> values will be larger for long-dated options and negligible for short-dated ones. Strategists who use long-term equity anticipation securities (LEAPS) should take into account <city w:st="on"><place w:st="on"><em>Rho</em></place></city> since over longer time frames the interest rate share of an option's value is more significant. </p>
+
+
+
+<table><tr valign="center" bgcolor="#cccccc"><td valign="bottom"><strong>Position Greeks</strong></td><td valign="bottom"><strong>If Positive Value (+)</strong></td><td valign="bottom"><strong>If Negative Value (-)</strong></td></tr><tr><td valign="top"><em>Delta</em></td><td valign="top">Long the Underlying</td><td valign="top">Short the Underlying</td></tr><tr><td valign="top"><em>Vega</em></td><td valign="top">Long Volatility (Gains if IV Rises)</td><td valign="top">Short Volatility (Gains if IV Falls)</td></tr><tr><td valign="top"><em>Theta</em></td><td valign="top">Gains From Time Value Decay</td><td valign="top">Loses From Time Value Decay</td></tr><tr><td valign="top"><em>Gamma</em></td><td valign="top">Net Long Puts/Calls</td><td valign="top">Net Short Puts/Calls</td></tr><tr><td valign="top"><city w:st="on"><place w:st="on"><em>Rho</em></place></city></td><td valign="top">Calls Increase in Value W/ Interest Rates Rise</td><td valign="top">Put Decrease in Value W/ Interest Rate Rise</td></tr></table>
+
+
+
+<table><tr><td>Figure 1: Greeks and what they tell us about potential changes in options valuation</td></tr></table>
+
+</p>
+<p>One other Greek is known as the <em>Gamma</em> of the <em>Gamma</em>, which measures the rate of change of the rate of change of <em>Delta</em>. Not often used by strategists, it may become an important risk measure of extremely volatile commodities or stocks, which have potential for large changes in <em>Delta</em>.</p>
+
+<p>In terms of position Greeks, a strategy can have a positive or negative value. In subsequent tutorial segments covering each of the Greeks, the positive and negative position values for each strategy will be identified and related to potential risk and reward scenarios. Figure 1 presents a summary of the essential characteristics of the Greeks in terms of what they tell us about potential changes in options valuation. For example, a long (positive) <em>Vega</em> position will experience gains from a rise in volatility, and a short (negative) <em>Delta</em> position will benefit from a decline in the underlying, other things remaining the same.</p>
+<p>Last, by altering ratios of options in a complex strategy (among other adjustments), a strategist can neutralize risk from the Greeks. However, there are limitations to such an approach, which will be explored in subsequent parts of this tutorial. (For more, see <em>Getting To Know The Greeks</em>.)</p>
+<p><strong>Conclusion</p>
+<p></strong>A summary of the risk measures known as the Greeks is presented, noting how each expresses the expected changes in an option's price resulting from changes in the underlying (<em>Delta</em>), volatility (<em>Vega</em>), time value decay (<em>Theta</em>), interest rates (<city w:st="on"><place w:st="on"><em>Rho</em></place></city>) and the rate of change of <em>Delta</em> (<em>Gamma</em>). It was also shown what it means to have positive or negative position Greeks. </p>
+<p>
+
+
+<h2>Options Greeks: Delta Risk and Reward</h2>
+
+
+
+<p>Perhaps the most familiar Greek is <em>Delta</em>,which measures option sensitivity to a change in the price of the underlying. <em>Delta</em> is most likely the first risk parameter encountered by a trader of outright positions. When contemplating how far out-of-the-money to buy a put option, for example, a trader will want to know what the trade-off is between paying less for that option the farther it is out-of-the-money in exchange for lower <em>Delta</em> at these more distant strikes. The eye can easily scan the strike chain to see how the prices of the options change as you get either deeper out-of-the-money or deeper in-the-money, which is a proxy for measuring <em>Delta</em>. </p>
+
+<p>As can be seen in Figure 2containing IBM options, the lower the price of the option, the lower its <em>Delta</em>. The left hand green shaded area shows the strikes (calls on top ranging from 130 to 90 strikes, and puts below ranging from 130 to 95). To the right of the green shaded area is a column containing option prices, which is beside a middle column showing the <em>Delta</em>s (125, 110 and 100 call strike <em>Deltas</em> are circled). Finally, the right-hand column in the white area is time premium on the options.</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 2 revamp.gif'><img class='clImageThumb' src='../images/Figure 2 revamp.gif'></a>
+
+</td></tr><tr><td>Figure 2: IBM Delta values across time and along strike chain as taken on Dec. 28, 2007. Months in the green-shaded area across top and strikes in green-shaded area along left side. The price of IBM when these values were taken was at 110.09 at close on Friday, Dec. 28, 2007.</td></tr><tr><td>Source: OptionVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+
+<p>Circled items in Figure 2 indicate <em>Delta</em> values for select IBM call strikes. For example, the first set of circled values (January call options) is 90.2 (100 call strike), 52.9 (110 call strike) and 2.27 (125 call strike). The highest <em>Delta</em> value is for the in-the-money 100 call and the lowest is for the far out-of-the-money 125 call. At the money is indicated with the small arrow to the right of the 110 call strike (green shaded area). Note that the <em>Delta</em> values rise as the strikes move from deep out of the money to deep in the money. </p>
+
+<p>One interpretation of <em>Delta</em> used by traders is to read the value as a probability number - the chance of the option expiring in-the-money. For instance, the at-the-money 110 call with a <em>Delta</em> of 52.9 in this case suggests that the 110 call has a 52.9% probability of expiring in-the-money. Of course, underlying this interpretation is the assumption that prices follow a log-normal distribution (essentially daily price changes are merely a coin flip – heads up or tails down). Of course, in short- and even medium-term time frames, stocks or futures may have a significant trend to them, which would alter the 50-50 coin flip story. </p>
+<p><em>Delta</em> values on options strikes depend on two key factors – time remaining until expiration and strike price relative to the underlying. Looking again at Figure 2, it is possible to see the effect of time remaining on the options. Figure 2 provides <em>Delta</em> values for January, February, April and July options months. The yellow highlighted area is for the 110 call option strike across months, which is the at-the-money strike. As is clear from the <em>Delta</em> values along the yellow bar (i.e., all the at-the-money options), <em>Delta</em> increases slightly as the option acquires more time on it. For example, the 110 call option for January 2008 has a <em>Delta</em> of 52.9 while the July 2008 call option has a <em>Delta</em> value of 56.2. </p>
+<p>These differences, however, are small compared to the differences in <em>Delta</em>s on options across these months that are deep in-the-money and deep out-of-the-money. The out-of-the-money 125 call options, for example, have a <em>Delta</em> range from 2.27 (January) to 29.4 (July). And the 100 in-the-money call options have <em>Delta</em>s ranging from 90.2 to 72.8 for the same months. Note that the in-the-money <em>Delta</em>s <em>fall</em> with greater time remaining while the out-of-the-money call options <em>rise</em> with more time remaining on them. </p>
+
+
+
+<p>The put <em>Delta</em>s, meanwhile, are also shown in Figure 2 (but not highlighted) just below the calls. They all have negative signs since put <em>Deltas</em> are always negative (even though position <em>Delta</em> will depend on whether you buy or sell the puts). The same relationships between strikes and time remaining apply equally to the puts as they do to the calls, so there is no need to repeat the analysis for the puts on IBM. As for position <em>Delta</em>s, long puts have negative position <em>Delta</em> (i.e., short the market) and short puts positive position <em>Delta</em> (i.e., long the market). </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="top"><strong>Strategies</strong></td><td valign="top"><strong>Position <em>Delta</em> </strong></td></tr><tr><td valign="top">Long Call</td><td valign="top">Positive</td></tr><tr><td valign="top">Short Call</td><td valign="top">Negative</td></tr><tr><td valign="top">Long Put</td><td valign="top">Negative</td></tr><tr><td valign="top">Short Put</td><td valign="top">Positive</td></tr><tr><td valign="top">Long Straddle</td><td valign="top">Neutral</td></tr><tr><td valign="top">Short Straddle</td><td valign="top">Neutral</td></tr><tr><td valign="top">Long Strangle</td><td valign="top">Neutral</td></tr><tr><td valign="top">Short Strangle</td><td valign="top">Neutral</td></tr><tr><td valign="top">Put Credit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Debit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Credit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Debit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Ratio Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Put Ratio Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Back Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Back Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Calendar Spread</td><td valign="top">(Near) Neutral</td></tr><tr><td valign="top">Covered Call Write</td><td valign="top">Negative</td></tr><tr><td valign="top">Covered Put Write</td><td valign="top">Positive</td></tr></table>
+
+
+
+<table><tr><td>Figure 3: <em>Delta</em> risk and common strategies for options. The position <em>Delta</em>s in this table represent standard strategy setups. Long and short straddles and strangles assume equal <em>Delta </em>valueson the strikes.</td></tr></table>
+
+</p>
+<p>A summary of position <em>Delta</em>s for many popular strategies is seen in Figure 3. A few assumptions were made for several of the strategies to allow for easy categorization. For instance, the call and put ratio spreads assume that the spreads are out-of-the-money and have smaller <em>Delta</em> on the long leg compared with the position <em>Delta</em> on the short legs (i.e., 1 long leg and 2 short legs). Additionally, the calendar spread is at-the-money. And the straddles and strangles are constructed with <em>Delta</em>s on the puts and calls being the same. </p>
+<p><strong>Conclusion</strong></p>
+<p>The options Greek known as <em>Delta</em> is explained, providing a look at <em>Delta</em>s horizontally across time and vertically along strike chains for different months. The key differences in <em>Delta</em>s inside this matrix of strike prices are highlighted. Finally, position <em>Delta</em>s for popular strategies are presented in table format. </p>
+<p>For more insight, see <em>Going Beyond Simple Delta: Understanding Position Delta</em> and <em>Capturing Profits with Position-Delta Neutral Trading</em>.</p>
+<p>
+
+
+<h2>Options Greeks: Vega Risk and Reward</h2>
+
+<p>When an option is purchased or option strategy established, any price movement of the underlying depending on position <em>Delta</em> will have an impact (unless it is <em>Delta</em> neutral) on the outcome in terms of profit and loss, as was seen in the previous segment of this tutorial. But another important risk/reward dimension exists, usually lurking in the background, which is known as <em>Vega</em>. <em>Vega</em> measures the risk of gain or loss resulting from changes in volatility.</p>
+
+
+<table><tbody><tr><td>
+
+<a href='../images/Figure%204%20revamp.gif'><img class='clImageThumb' src='../images/Figure%204%20revamp.gif'></a>
+
+</td>
+</tr><tr><td>Figure 4: IBM Vega values across time and along strike chains. Values taken on Dec. 29, 2007 with price of underlying at 110.09.</td>
+</tr><tr><td>Source: OptionVue 5 Options Analysis Software</td>
+</tr></tbody></table>
+
+<p>Figure 4 shows all <em>Vega</em> values as positive because they are not here reflecting position <em>Vega</em>s. <em>Vega</em> for all options is always a positive number because options increase in value when volatility increases and decrease in value when volatility declines. When position <em>Vega</em>s are generated, however, positive and negative signs appear, which are not shown in Figure 4. When a strategist takes a position selling or buying an option, this will result in either a negative sign (for selling) or positive sign (for buying), and the position <em>Vega</em> will depend on net <em>Vega</em>s. What should be obvious from Figure 4 and from the other <em>Vega</em> values is that <em>Vega</em> will be larger or smaller depending on the size of time premium on the options. Time values are viewable in the right-hand data column in each month's options window. For the January 110, 105 and 100 calls, for instance, the time values are and 3.01, 1.27 and 0.49 respectively. These higher time premium values are associated with higher <em>Vega</em> values. The 110 strike has <em>Vega</em> of 10.5, the 105 strike a <em>Vega</em> of 8.07 and the 100 a <em>Vega</em> of 4.52.Any other sequence of time value and <em>Vega</em> values in any of the months will show this same pattern. <em>Vega</em> values will be higher on options that have more distant expiration dates . As you can see in Figure 4, for example, the at-the-money call option <em>Vega</em>s (highlighted in yellow), go from 10.5 (January) to 32.1 (July). Clearly, an at-the-money July call option has much greater <em>Vega</em> risk than a January at-the-money call option. This means that LEAPS options, which have sometimes two to three years of time value, will carry very large <em>Vega</em>s and are subject to major risk (and potential reward) from changes in implied volatility. But a distant option with little time premium because it is very far out of the money may have less <em>Vega</em> risk. (For more, see <em>ABCs Of Option Volatility</em>.)The premium for each of these options in the bull call spread is indicated at the left of the yellow highlighted <em>Vega</em> values. You would pay 10.58 ($1,058) and collect 6.36 ($636) for the 100 and 105 January calls, respectively. Since these are in-the-money options, most of the value is intrinsic (IBM price at this snapshot is 110.09).Depending upon whether the strategy employed is <em>Vega</em> long or short, the relationship between price movement and implied volatility can lead to either gains or losses for the options strategist. Let's take a look at a simple example to illustrate this dynamic before exploring some more advanced concepts related to <em>Vega</em> and position <em>Vega</em>.The implied volatility (IV) of options on the S&amp;P 500 index is inversely related to movement of the underlying index. If the market has been bearish, typically IV levels will trend higher and vice versa. Therefore, when a call option is purchased near market bottoms (when IV is at a relatively high level), it is exposed to a negative (inverse) price-volatility relationship. Buying a call, or any option for that matter, puts you on the long side of <em>Vega</em> (long <em>Vega</em>), which means if IV declines, other things remaining the same, the option strategy will lose. In this example, however, other things don't remain the same, since the market is going to make a bottom and trade higher off that bottom. <em>Delta </em>has a positive impact (the position is long <em>Delta</em>), but this will be offset to the degree <em>Vega,</em> long position <em>Vega </em>and volatility decline. If the market does a V-like bottom, there is little risk from <em>Theta</em>, or time value decay, since the market moves fast and far, leaving little room for <em>Theta</em> to pose any risk. There are some exceptions, such as bullish call spreads that are in-the-money, or partially in-the-money. For example, if we create a bull call spread to play a market rebound, it would be better from the <em>Vega</em> risk perspective to select a long call that has a smaller <em>Vega</em> value than the one we sell against it. For example, looking at Figure 5, in January, the purchase of an IBM 100 in that month will add long (positive) 4.52 <em>Vega</em>s (here meaning that for every point fall in implied volatility, the option will lose $4.52). Then if we sell a 105 call in the same month, we add 8.07 short (negative) <em>Vega</em>s, leaving a position <em>Vega</em> of -3.55 (the difference between the two) for this bull call spread. Returning to the construction of this in-the-money bull call spread, if the spread is moved out-of-the-money, the position <em>Vega</em> will change from net short to net long. As you can see in Figure 5, if an at-the-money strike is bought for 3.10 ($310), it adds 10.5 long <em>Vega</em>s. If the 120 January call is sold for 0.30 ($30) to complete the construction of this at- to out-of-the-money bull call spread, 4.33 short <em>Vega</em>s are added (remember sold options always have position <em>Vega</em>s that are negative, meaning they benefit from a fall in volatility), leaving a position <em>Vega</em> on the spread of +6.17 (10.5 - 4.33 = 6.17). With this spread, a rebound in IBM with an associated collapse in implied volatility levels (remember most big-cap stocks and major averages have an inverse price-implied volatility relationship), would be a negative for this trade, undermining unrealized gains from being long position <em>Delta</em>. We would be better off using an in-the-money bull call spread because it gets us long <em>Delta</em> and short <em>Vega.</em></p>
+<p><em>
+
+<a href='../images/Figure%205%20revamp.gif'><img class='clImageThumb' src='../images/Figure%205%20revamp.gif'></a>
+
+ Figure 5: IBM Vega values on each strike of in-the-money bull call spread. Position Vega is positive with -8.07 negative Vegas and +4.52 positive Vegas, leaving a net Vega of -3.55. Values taken on Dec. 29, 2007, with IBM at 110.09. Source: OptionVue 5 Options Analysis Software </em></p>
+
+<p>If playing a market bottom, novice traders might buy a call or bull call spread. Assuming <em>Theta</em> is not a factor here, in a long call position there would be gains resulting from the position's positive <em>Delta, </em>but losses due to having long <em>Vega</em>. Unless we know the exact <em>Vega</em> and <em>Delta</em> values and the size of the drop in implied volatility associated with the price move (typically large inverse relationship at market bottom reversals), we will not know ahead of time exactly how much will be gained or lost on this position. Nevertheless, we know the fact that rebound reversal rallies typically generate large implied volatility decline, so this clearly is not the best approach.Had the trader purchased a call ahead of the rebound and got the directional call correct, a drop in IV would have erased gains from being long <em>Delta</em>. Not a happy outcome, but an experience that should alert a trader to this potential pitfall.A put option buyer would suffer a worse fate. Since the premium on the option is inflated due to raised levels of IV, a buyer of puts would suffer from being on the wrong side of <em>Delta</em> and <em>Vega</em> given a rebound reversal rally. Buying an expensive put and having the market go against you results in a double dose of trouble – being short <em>Delta</em> and long <em>Vega</em> when the market goes up and IV comes crashing down. Clearly, the best of all possible positions here is a long <em>Delta</em> and short <em>Vega</em> play, which at the simplest level would be a short put. But this would hurt doubly if the market continues to go lower. A more conservative play would be an in-the-money bull call spread as discussed earlier.Figure 6 contains the popular options strategies and associated position <em>Vega</em>s. However, as can be seen from the comparison of an in-the-money bull call spread and an at- to out-of-the-money bull call spread, where spreads are placed, not just the type of spread, can alter the position <em>Vega</em>s, just as it can alter other position Greeks. Therefore, Figure 6 should not be taken as the final word on the position <em>Vega</em>s. It merely provides position <em>Vega</em>s for some standard strategy setups, not all possible strike selection variations of each strategy.</p>
+
+
+<table><tbody><tr><td><strong>Strategies</strong></td>
+<td><strong>Position <em>Vega</em> Signs</strong></td>
+</tr><tr><td>Long Call</td>
+<td>Positive</td>
+</tr><tr><td>Short Call</td>
+<td>Negative</td>
+</tr><tr><td>Long Put</td>
+<td>Positive</td>
+</tr><tr><td>Short Put</td>
+<td>Negative</td>
+</tr><tr><td>Long Straddle</td>
+<td>Positive</td>
+</tr><tr><td>Short Straddle</td>
+<td>Negative</td>
+</tr><tr><td>Long Strangle</td>
+<td>Positive</td>
+</tr><tr><td>Short Strangle</td>
+<td>Negative</td>
+</tr><tr><td>Put Credit Spread</td>
+<td>Negative</td>
+</tr><tr><td>Put Debit Spread</td>
+<td>Positive</td>
+</tr><tr><td>Call Credit Spread</td>
+<td>Positive</td>
+</tr><tr><td>Call Debit Spread</td>
+<td>Negative</td>
+</tr><tr><td>Call Ratio Spread</td>
+<td>Negative</td>
+</tr><tr><td>Put Ratio Spread</td>
+<td>Negative</td>
+</tr><tr><td>Calendar Spread</td>
+<td>Positive</td>
+</tr><tr><td>Covered Call Write</td>
+<td>Negative</td>
+</tr><tr><td>Covered Put Write</td>
+<td>Negative</td>
+</tr></tbody></table>
+
+
+
+<table><tbody><tr><td>Figure 6: Position <em>Vega</em> signs for common options strategies. The position <em>Vega</em>s in this table represent standard strategy setups. When alternative strike selections are made, the position <em>Vega</em>s can invert.</td>
+</tr></tbody></table>
+
+<p><strong>Conclusion</strong></p><p>In this segment <em>Vega</em> is presented by discussing both position <em>Vega</em> and non-position <em>Vega</em>, and providing a look at <em>Vega</em> horizontally across time and vertically along strike chains for different months. The pattern of <em>Vega</em> values inside this matrix of strike prices is explained. Finally, negative and positive position <em>Vega</em>s for popular strategies are presented in table format.</p>
+
+
+<h2>Options Greeks: Theta Risk and Reward</h2>
+
+
+<p>Time value decay, the so-called "silent killer" of option buyers, can wipe a smile off the face of any determined trader once its insidious nature becomes fully felt. Buyers, by definition, have only limited risk in their strategies together with the potential for unlimited gains. While this might look good on paper, in practice it often turns out to be death by a thousand cuts. </p>
+
+
+<p>In other words, it is true you can only lose what you pay for an option. It is also true that there is no limit to how many times you can lose. And as any lottery player knows well, a little money spent each week can add up after a year (or lifetime) of not hitting the jackpot. For option buyers, therefore, the pain of slowly eroding your trading capital sours the experience. </p>
+<p>Now, to be fair, sellers are likely to experience lots of small wins, while getting lulled into a false sense of success, only to suddenly find their profits (and possibly worse) obliterated in one ugly move against them. </p>
+<p>Returning to time value decay as a risk variable, it is measured in the form of the (non-constant) rate of its decay, known as <em>Theta</em>. <em>Theta</em> values are always negative for options because options are always losing time value with each tick of the clock until expiration is reached. In fact, it is a fact of life that all options, no matter what strikes or what markets, will always have zero time value at expiration. <em>Theta</em> will have wiped out all time value (also known as extrinsic value) leaving the option with no value or some degree of intrinsic value. Intrinsic value will represent to what extent the option expired in the money. (For more, see <em>The Importance of Time Value</em>.) </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 7 revamp.gif'><img class='clImageThumb' src='../images/Figure 7 revamp.gif'></a>
+
+</td></tr><tr><td>Figure 7: IBM options Theta values. Values taken on Dec. 29, 2007 with IBM at 110.09.</td></tr><tr><td>Source: OptionVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+<p>As you can see from a look at Figure 7, the rate of decay decreases in the more distant contract months. The yellow highlights the calls that are at the money and the violet the at-the-money puts. The January 110 calls, for example, have a <em>Theta</em> value of -7.58, meaning this option is losing $7.58 in time value each day. This rate of decay decreases for each back month 110 call with a <em>Theta</em> of -2.57. If we think of time value on these 110 calls as if it represented just one July option, clearly the rate of loss of time value would be accelerating as the July call gets nearer to expiration (i.e., the rate of decay is much faster on the option near to expiration than with a lot of time remaining on it). Nevertheless, the amount of time premium on the back months is greater. </p>
+
+<p>Therefore, if a trader desires less time premium risk and a back month option is chosen, the trade-off is that more premium is at risk from <em>Delta</em> and <em>Vega</em> risk. In other words, you can slow down the rate of decay by choosing an options contract with more time on it, but you add more risk in exchange due to the higher price (subject to more loss from a wrong-way price move) and from an adverse change in implied volatility (since higher premium is associated with higher <em>Vega</em> risk). In Part VIII of this tutorial more about the interaction of Greeks is discussed and analyzed.</p>
+
+
+<p>The common options strategies have position <em>Theta</em> signs that are easy to categorize, since a selling or net selling strategy will always have a positive position <em>Theta</em> while a buying or net buying strategy will always have a negative position <em>Theta</em>, as seen in Figure 8<strong>.</strong></p>
+
+
+
+<table><tr bgcolor="#cccccc"><td valign="top"><strong>Strategies</strong></td><td valign="top"><strong>Position <em>Theta</em> Signs</strong></td></tr><tr><td valign="top">Long Call</td><td valign="top">Negative</td></tr><tr><td valign="top">Short Call</td><td valign="top">Positive</td></tr><tr><td valign="top">Long Put</td><td valign="top">Negative</td></tr><tr><td valign="top">Short Put</td><td valign="top">Positive</td></tr><tr><td valign="top">Long Straddle</td><td valign="top">Negative</td></tr><tr><td valign="top">Short Straddle</td><td valign="top">Positive</td></tr><tr><td valign="top">Long Strangle</td><td valign="top">Negative</td></tr><tr><td valign="top">Short Strangle</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Credit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Debit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Credit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Debit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Ratio Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Ratio Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Put Back Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Back Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Calendar Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Covered Call Write</td><td valign="top">Positive</td></tr><tr><td valign="top">Covered Put Write</td><td valign="top">Positive</td></tr></table>
+
+
+
+<table><tr><td>Figure 8: Position <em>Theta</em> signs for common options strategies. The position <em>Theta</em>s in this table represent standard strategy setups.</td></tr></table>
+
+</p>
+<p><strong></p>
+<p></strong><strong>Conclusion</p>
+<p></strong>Interpreting <em>Theta</em> (both position and non-position <em>Theta</em>) is straightforward. Looking at <em>Theta</em> horizontally across time and vertically along strike price chains for different months, it is shown that key differences in <em>Thetas </em>inside a matrix of strike prices depend on time to expiration and distance away from the money. The highest <em>Thetas</em> are found at the money and closest to expiration. Finally, position <em>Theta </em>for popular strategies is presented in table format.</p>
+<p>
+
+
+<h2>Options Greeks: Gamma Risk and Reward</h2>
+
+
+<p><em><em>Gamma</em></em> is one of the more obscure Greeks. <em>Delta</em>, <em>Vega</em> and <em>Theta</em> generally get most of the attention, but <em>Gamma</em> has important implications for risk in options strategies that can easily be demonstrated. First, though, let's quickly review what <em>Gamma</em> represents. </p>
+
+
+<p>As was presented in summary form in Part II of this tutorial, <em>Gamma</em> measures the rate of change of <em>Delta</em>. <em>Delta</em> tells us how much an option price will change given a one-point move of the underlying. But since <em>Delta</em> is not fixed and will increase or decrease at different rates, it needs its own measure, which is <em>Gamma</em>. </p>
+<p><em>Delta,</em> recall, is a measure of directional risk faced by any option strategy. When you incorporate a <em>Gamma</em> risk analysis into your trading, however, you learn that two <em>Delta</em>s of equal size may not be equal in outcome. The <em>Delta</em> with the higher <em>Gamma</em> will have a higher risk (and potential reward, of course) because given an unfavorable move of the underlying, the <em>Delta</em> with the higher <em>Gamma</em> will exhibit a larger adverse change. Figure 9 reveals that the highest <em>Gamma</em>s are always found on at-the-money options, with the January 110 call showing a <em>Gamma</em> of 5.58, the highest in the entire matrix. The same can be seen for the 110 puts. The risk/reward resulting from changes in <em>Delta</em> are highest at this point. (For more insight, see <em>Gamma-Delta Neutral Option Spreads</em>.)</p>
+<p>
+
+<table><tr><td><em>
+
+<a href='../images/Figure 9 revamp.gif'><img class='clImageThumb' src='../images/Figure 9 revamp.gif'></a>
+
+</em></td></tr><tr><td>Figure 9: IBM options Gamma values. Values taken on Dec. 29, 2007. The highest Gamma values are always found on the at-the-money options that are nearest to expiration.</td></tr><tr><td>Source: OptionsVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+<p>In terms of position <em>Gamma</em>, a seller of put options would face a negative <em>Gamma</em> (all selling strategies have negative <em>Gamma</em>s) and buyer of puts would acquire a positive <em>Gamma</em> (all buying strategies have positive <em>Gammas</em>. But all <em>Gamma</em> values are positive because the values change in the same direction as <em>Delta</em> (i.e., a higher <em>Gamma</em> means a higher change in <em>Delta</em> and vice versa). Signs change with positions or strategies because higher <em>Gammas</em> mean greater potential loss for sellers and, for buyers, greater potential gain.</p>
+
+<p><em>Gammas</em> along a strike chain reveal how the <em>Gamma</em> values change. Take a look at Figure 9, which again contains an IBM options <em>Gamma</em> matrix for the months of January, February, April and July. If we take the out-of-the-money calls (indicated with arrows), you can see that the <em>Gamma</em> rises from 0.73 in January for the 125 out-of-the-money calls to 5.58 for January 115 at-the-money calls, and from 0.83 for the out-of-the-money 95 puts to 5.58 for the at-the-money 110 puts. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 10 revamp.gif'><img class='clImageThumb' src='../images/Figure 10 revamp.gif'></a>
+
+</td></tr><tr><td>Figure 10: IBM options Delta values. Values taken on Dec. 29, 2007.</td></tr><tr><td>Source: OptionVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 11 revamp.gif'><img class='clImageThumb' src='../images/Figure 11 revamp.gif'></a>
+
+</td></tr><tr><td>Figure 11: IBM Options Gamma values. Values taken on Dec. 29, 2007.</td></tr><tr><td>Source: OptionVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+<p>Perhaps more interesting, however, is what happens to <em>Delta</em> and <em>Gamma</em> values across time when the options are out-of-the-money. Looking at the 115 strikes, you can see in Figure 11 that the <em>Gamma</em>s rise from 1.89 in July to 4.74 in January. While lower levels than for the at-the-money call options (again always the highest <em>Gamma</em> strike whether puts or calls), they are associated with falling, not rising <em>Delta</em> values, as seen in Figure 10. While not circled, the 115 calls show <em>Delta</em>s for July at 47.0 and 26.6 for January, compared with a drop from 56.2 in July to just 52.9 in January for the at-the-money <em>Deltas</em>. This tells us that the while out-of-the-money January 115 calls have gained <em>Gamma</em>, they have lost significant <em>Delta</em> traction from time value decay (<em>Theta</em>).    </p>
+<p><strong>What do the <em>Gamma</em> values represent?</strong></p>
+<p>A <em>Gamma</em> of 5.58 means that for each one-point move of the underlying, <em>Delta</em> on that option will change by +5.58 (other things remaining the same). Looking at the <em>Delta</em> for the 105 January puts in Figure 10 for a moment, which is 23.4, if a trader buys the put, he or she will see the negative <em>Delta</em> on that option increase by 3.96 <em>Gamma</em>s x 5, or by 19.8 <em>Deltas</em>. To verify this, take a look at the <em>Delta</em> value for the at-the-money 110 strikes (five points higher). <em>Delta</em> is 47.1, so it is 23.7 <em>Delta</em>s higher. What accounts for the difference? Another measure of risk is known as the <em>Gamma</em> of the <em>Gamma</em>. Note that <em>Gamma</em> is increasing as the put moves closer to being at-the-money. If we take an average of the two <em>Gamma</em>s (105 and 110 strike <em>Gamma</em>s), then we will get a closer match in our calculation. For example, the average <em>Gamma</em> of the two strikes is 4.77. Using this average number, when multiplied by 5 points, gives us 22.75, now only one <em>Delta</em> (out of 100 possible <em>Delta</em>s) shy of the existing <em>Delta</em> on the 110 strike of 23.4. This simulation helps to illustrate the dynamics of risk/reward posed by how rapidly <em>Delta </em>can change, which is linked to the size and rate of change of <em>Gamma</em> (the <em>Gamma</em> of the <em>Gamma</em>).</p>
+
+<p>Finally, when looking at <em>Gamma</em> values for popular strategies, categorization, much like with position <em>Theta</em>, is easy to do. All net selling strategies will have negative position <em>Gamma</em> and net buying strategies will have net positive <em>Gamma</em>. For example, a short call seller would face negative position <em>Gamma</em>. Clearly, the highest risk for the call seller would be at-the-money, where <em>Gamma</em> is highest. <em>Delta</em> will increase rapidly with an adverse move and with it unrealized losses. For the buyer of the call, it is where potential unrealized gains are highest for a favorable move of the underlying.</p>
+
+
+
+<table><tr bgcolor="#cccccc"><td valign="top"><strong>Strategies</strong></td><td valign="top"><strong>Position <em>Gamma</em> Signs</strong></td></tr><tr><td valign="top">Long Call</td><td valign="top">Positive</td></tr><tr><td valign="top">Short Call</td><td valign="top">Negative</td></tr><tr><td valign="top">Long Put</td><td valign="top">Positive</td></tr><tr><td valign="top">Short Put</td><td valign="top">Negative</td></tr><tr><td valign="top">Long Straddle</td><td valign="top">Positive</td></tr><tr><td valign="top">Short Straddle</td><td valign="top">Negative</td></tr><tr><td valign="top">Long Strangle</td><td valign="top">Positive</td></tr><tr><td valign="top">Short Strangle</td><td valign="top">Negative</td></tr><tr><td valign="top">Put Credit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Put Debit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Credit Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Call Debit Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Ratio Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Put Ratio Spread</td><td valign="top">Negative</td></tr><tr><td valign="top">Put Back Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Call Back Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Calendar Spread</td><td valign="top">Positive</td></tr><tr><td valign="top">Covered Call Write</td><td valign="top">Positive</td></tr><tr><td valign="top">Covered Put Write</td><td valign="top">Positive</td></tr></table>
+
+
+
+<table><tr><td>Figure 12: Position <em>Gamma</em> signs for common strategies for options. The position <em>Gamma</em>s in this table represent standard strategy setups.</td></tr></table>
+
+</p>
+<p><strong>Conclusion</p>
+<p></strong><em>Gamma</em> tells us how fast <em>Delta</em> changes when the underlying moves, but it has characteristics that are not so obvious across time and vertically along strike chains for different months. Some patterns in <em>Gamma</em>s inside this matrix of strike prices were highlighted, with an interpretation of the risk/reward significance. Finally, position <em>Gamma</em>s for popular strategies is presented in table format.</p>
+<p>
+
+<h2>Options Greeks: Position Greeks</h2>
+
+
+<p>Position Greeks can be defined as either the sign or value of any Greek for an outright position, or the net Greeks position when all options legs in a complex strategy are tabulated. Let's begin with basic outright positions, which we have touched on in previous segments of this tutorial when explaining the individual Greeks and what they represent. </p>
+
+
+<p>The sign on the Greeks is easy, as was seen in previous tables. What is more complicated is the degree to which any Greek is either negative or positive. </p>
+<p>We know that all puts have a negative <em>Delta</em>, which stems from the fact that when the underlying rises, put values fall (an inverse relationship). Long calls have a positive <em>Delta</em> because when the underlying rises, so does the premium on the option, all other things remaining the same (<em><em><em>ceteris paribus</em></em></em>). But what happens if we have a long call and long put with the same strikes (known as a long straddle)? What is the position <em>Delta</em>? Here is where the story gets somewhat gray. </p>
+<p>For example, we know that a long straddle involves buying an at-the-money call and at-the-money put, in combination. At-the-money options have a <em>Delta</em> that is 0.50 (where two long calls equal 100 shares of the underlying or one futures contract). Therefore, if we own a call (positive <em>Delta</em>) and own a put (negative <em>Delta</em>), both of which have the same <em>Delta</em> value but different signs, then we can calculate the position <em>Delta</em> easily. The <em>Deltas</em> of -0.50 and +0.50 cancel out, leaving position <em>Delta</em> at zero (or <em>Delta</em> neutral). </p>
+<p>Now this is at one point in time when the underlying is at the strikes of the straddle. Once we get a move one way or the other, the relative <em>Delta</em> values begin to diverge from equality and with it position <em>Delta</em> neutrality. Take, for instance, a rise in price. Let's say the call gets in the money so that the <em>Delta</em> on the call is now +0.75, having increased from +0.50. This means the long put in the straddle is now out-of-the-money. Let's say its <em>Delta</em> has fallen to -0.25 from -0.50. Remember, the put is now out-of-the-money so its <em>Delta</em> value will be smaller. (For more, see <em>Out-of-the-Money Put Time Spreads</em>.) </p>
+
+<p>Now we have a position <em>Delta</em> that is net positive (+0.75 -0.25 = +0.50). The position <em>Delta</em> is positive by 0.50, meaning it is long the market. If the reverse move occurred, the straddle would show a position <em>Delta</em> of -0.50 (the long put would have a <em>Delta</em> of -0.75 and the long call 0.25, leaving -0.50). The position <em>Delta</em> would be short the market. This simple example using <em>Delta</em> and position <em>Delta</em> for a straddle illustrates two important concepts related to position Greeks. </p>
+<ol type="1"><li>Position Greeks are not constant, always changing with movement of the underlying and other variables such as time value decay and volatility levels.     </li><li>Movement of the underlying can change the value of position Greeks, and in some cases the sign will flip or invert from positive to negative or vice versa. </li></ol>It would require an entire book to walk through each of the strategies and associated possible position Greeks. In the limited space of this segment of this options Greeks tutorial, the aim is to provide an understanding of the concept of position Greeks so that traders can go on to learn more about position Greeks as they might apply to their favorite strategies. Let's take a look at some other Greeks in the context of some popular strategies, to help illustrate the point of position Greeks. </p>
+<p>If we take a long straddle and move the call and put from at the money to out-of-the-money and sell them instead of buy them, then the position becomes a short strangle. Let's say that the <em>Deltas</em> on each option are +0.25 for the short put (now that the put is sold not bought, the sign changes from negative, or short the market, to positive, or long the market) and -0.25 for the short call (now that we have sold it not bought it, the call position is short the market, not long the market). So individually speaking, each leg of this short strangle has its own <em>Delta</em>, positive 0.25 for the put and negative 0.25 for the call, but when we combine them, we have neutrality again, like with the long straddle example above. And once again, movement of the underlying in any direction will begin to shift neutrality to non-neutrality. To maintain neutrality, adjustments are required to positions to bring <em>Deltas</em> in line again. </p>
+<p>Complicating the picture, moving to position <em>Vega</em> now, recall that all short options have negative <em>Vega</em>s. In a short strangle, therefore, the position <em>Vega</em> is negative (short volatility), and it can be calculated by adding the negative <em>Vega</em>s of each option in the strangle. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 13 revamp.gif'><img class='clImageThumb' src='../images/Figure 13 revamp.gif'></a>
+
+</td></tr><tr><td>Figure 13: IBM short strangle position Vegas. Values taken on Dec. 29, 2007.</td></tr><tr><td>Source: OptionVue 5 Options Analysis Software</td></tr></table>
+
+</p>
+<p>Looking at Figure 13, we can see how a short strangle will work in terms of position <em>Vega.</em> Remember, all short options strategies, or net short strategies, carry a negative position <em>Vega</em>. In Figure 13, the position <em>Vegas</em> for each leg of the strangle are indicated with a red rectangle. The 115 call has -7.71 short <em>Vegas </em>and the 105 put has -7.27 short <em>Vegas</em>, giving a position <em>Vega</em> of $14.98 (summing the two). This tells us that for each point rise in implied volatility, the position will lose $14.98, assuming no other changes. </p>
+<p><strong>Conclusion</p>
+<p></strong>These segments of the tutorial on Greeks explained the concept of position Greeks, using a long straddle and short strangle to examine position <em>Delta</em> and position <em>Vega </em>(for a strangle). Using these so-called combination trades, which have two legs in the strategy, it is shown that when combining the <em>Deltas</em> and <em>Vega</em> on each option, we arrive at net position Greeks. The concept of position <em>Delta</em> neutrality is also demonstrated along with the impact on neutrality of a price move of the underlying.</p></p>
+<p>
+
+<h2>Options Greeks: Inter-Greeks Behavior</h2>
+
+
+<p>After looking at the concept of position Greeks in previous tutorial segments, here we will return to a look at some outright positions in order to reveal how Greeks interrelate, and how their interaction in options strategies can alter the prospects for profit and loss. One key area is highlighted here - how <em>Theta</em> and <em>Delta</em> relate and are impacted by changing levels of implied volatility. </p>
+
+<p>In previous segments the Greeks were largely inspected in isolation (the <em>ceteris paribus</em> assumption). But if we relax the assumption of all other things remaining the same (<em>ceteris paribus</em>), then a more complicated picture emerges in terms of the behavior of Greeks. </p>
+<p>Take the example of position <em>Delta</em>. Recall that at different strikes across time the <em>Delta</em> rises with more time premium on the option. Taking a look at Figure 14, we can subject <em>Delta</em> to a fall in implied volatility. Remember, when implied volatility falls, so will extrinsic value on those options. The higher the extrinsic value before the fall, the more risk there is in terms of <em>Vega</em> exposure, so typically higher extrinsic value will mean higher <em>Vega</em> values. Since options have negative <em>Vega</em> because they lose value when implied volatility falls, the size of the loss can be measured by looking at <em>Vega</em> on each option, or if a strategy uses a combination of options, by looking at the position <em>Vega</em>. </p>
+
+
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" rowspan="2"></p>
+<p><strong>Simulated Changes to IV Levels</strong></td><td valign="bottom"><strong>1360 At-the-Money Call Option Strike</strong></td><td valign="bottom"><strong>1410 Out-of-the-Money Call Option Strike</strong></td></tr><tr><td valign="bottom" colspan="2"><strong><em>Delta</em></strong><strong> Values w/ No Time Value Decay</strong></td></tr><tr><td valign="top"><strong>0</strong></td><td valign="top"><strong>58.63</strong></td><td valign="top"><strong>38.05</strong></td></tr><tr><td valign="top"><strong>-2</strong></td><td valign="top"><strong>58.55</strong></td><td valign="top"><strong>35.80</strong></td></tr><tr><td valign="top"><strong>-4</strong></td><td valign="top"><strong>58.41</strong></td><td valign="top"><strong>33.15</strong></td></tr><tr><td valign="top"><strong>-6</strong></td><td valign="top"><strong>58.26</strong></td><td valign="top"><strong>29.96</strong></td></tr><tr><td valign="top"><strong>-8</strong></td><td valign="top"><strong>58.11</strong></td><td valign="top"><strong>26.11</strong></td></tr><tr><td valign="top"><strong>-10</strong></td><td valign="top"><strong>57.93</strong></td><td valign="top"><strong>21.40</strong></td></tr></table>
+
+
+
+<table><tr><td>Figure 14 : <em>Delta</em> values for S&amp;P 500 futures February call options <em>Delta</em>s and associated changes in implied volatility (IV). S&amp;P 500 futures price at 1361.60. As IV falls, <em>Delta</em> values decline. But the fall in <em>Delta</em> is higher for the at- and out-of-the-money calls. Assumes no time value decay.</td></tr></table>
+
+</p>
+<p>Figure 14 provides a look at <em>Deltas</em> assuming no time value decay. The 1410 out-of-the-money call strike <em>Delta</em> (right-hand column) suffers a significant decline with falling IV (left hand column). This decline is exacerbated when the 8 days have elapsed, as seen in Figure 15. For instance, with no implied volatility changes and no time value decay, the <em>Delta</em> is 38.05, as seen in Figure 14. But with a fall in implied volatility by 4 points (-4) and passage of 8 calendar days, the <em>Delta</em> declines to 28.25, as seen in Figure 15, making any long position a more unlikely winner and a short position a more likely winner. Additional declines in implied volatility and time value decay will eventually reduce <em>Delta</em> to single digits as seen, for instance, in Figure 16. Here, with a -10 fall in IV at 17 days into the trade, <em>Delta</em> has fallen to just 8.97.</p>
+
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" rowspan="2"></p>
+<p><strong>Simulated Changes to IV Levels</strong></td><td valign="bottom"><strong>1360 At-the-Money Call Option Strike</strong></td><td valign="bottom"><strong>1410 Out-of-the-Money Call Option Strike</strong></td></tr><tr><td valign="bottom" colspan="2"><strong><em>Delta</em></strong><strong> Values w/ 8 Days in Time Value Decay</strong></td></tr><tr><td valign="top">0</td><td valign="top">57.57</td><td valign="top">33.60</td></tr><tr><td valign="top">-2</td><td valign="top">57.45</td><td valign="top">31.14</td></tr><tr><td valign="top">-4</td><td valign="top">57.32</td><td valign="top">28.25</td></tr><tr><td valign="top">-6</td><td valign="top">57.18</td><td valign="top">24.84</td></tr><tr><td valign="top">-8</td><td valign="top">57.04</td><td valign="top">20.82</td></tr><tr><td valign="top">-10</td><td valign="top">56.87</td><td valign="top">16.13</td></tr></table>
+
+
+
+<table><tr><td>Figure 15: <em>Delta</em> values for S&amp;P 500 futures February call options with 8 calendar days remaining until expiration and associated changes in implied volatility (IV). S&amp;P 500 futures price at 1361.60. As IV falls, <em>Delta</em> values decline. But the fall in <em>Delta</em> is higher for the at- and out-of-the-money calls.</td></tr></table>
+
+</p>
+<p><strong></p>
+<p></strong></p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" rowspan="2"></p>
+<p><strong>Simulated Changes to IV Levels</strong></td><td valign="bottom"><strong>1360 At-the-Money Call Option Strike</strong></td><td valign="bottom"><strong>1410 Out–of-the-Money Call Option Strike</strong></td></tr><tr><td valign="bottom" colspan="2"><strong><em>Delta</em></strong><strong> Values w/ 17 Days in Time Value Decay</strong></td></tr><tr><td valign="top">0</td><td valign="top">56.26</td><td valign="top">26.44</td></tr><tr><td valign="top">-2</td><td valign="top">56.16</td><td valign="top">23.69</td></tr><tr><td valign="top">-4</td><td valign="top">56.00</td><td valign="top">20.57</td></tr><tr><td valign="top">-6</td><td valign="top">55.92</td><td valign="top">17.03</td></tr><tr><td valign="top">-8</td><td valign="top">55.80</td><td valign="top">13.11</td></tr><tr><td valign="top">-10</td><td valign="top">55.60</td><td valign="top">8.97</td></tr></table>
+
+
+
+<table><tr><td>Figure 16: <em>Delta</em> values for S&amp;P 500 futures February call options with 17 calendar days remaining until expiration and associated changes in implied volatility (IV). S&amp;P 500 futures price at 1361.60. As IV falls, <em>Delta</em> values decline. But the fall in <em>Delta</em> is higher for the at- and out-of-the-money calls.</td></tr></table>
+
+</p>
+<p><strong></p>
+<p></strong></p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" rowspan="2"></p>
+<p><strong>Simulated Changes to IV Levels</strong></td><td valign="bottom"><strong>1360 At-the-Money Call Option Strike</strong></td><td valign="bottom"><strong>1410 Out-of-the-Money Call Option Strike</strong></td></tr><tr><td valign="bottom" colspan="2"><strong><em>Delta</em></strong><strong> Values w/ 25 Days Time Value Decay</strong></td></tr><tr><td valign="top"><strong>0</strong></td><td valign="top"><strong>55.20</strong></td><td valign="bottom"><strong>14.96</strong></td></tr><tr><td valign="top"><strong>-2</strong></td><td valign="top"><strong>55.10</strong></td><td valign="bottom"><strong>12.11</strong></td></tr><tr><td valign="top"><strong>-4</strong></td><td valign="top"><strong>55.05</strong></td><td valign="bottom"><strong>9.14</strong></td></tr><tr><td valign="top"><strong>-6</strong></td><td valign="top"><strong>55.00</strong></td><td valign="bottom"><strong>6.17</strong></td></tr><tr><td valign="top"><strong>-8</strong></td><td valign="top"><strong>54.95</strong></td><td valign="bottom"><strong>3.5</strong></td></tr><tr><td valign="top"><strong>-10</strong></td><td valign="top"><strong>54.90</strong></td><td valign="bottom"><strong>1.4</strong></td></tr></table>
+
+
+
+<table><tr><td>Figure 17: <em>Delta</em> values for S&amp;P 500 futures February call options with 33 calendar days remaining until expiration and associated changes in implied volatility (IV). S&amp;P 500 futures price at 1361.60. As IV falls, <em>Delta</em> values decline. But the fall in <em>Delta</em> is higher for the at- and out-of-the-money calls. 42.50 is the price of the 1360 call and 18.90 is the price of the 1410 call. Clearly ultimately, more is at risk with the higher priced call (higher maximum potential loss).</td></tr></table>
+
+</p>
+<p>While the <em>Delta</em> risk is greater for the 1360 call at all time intervals, the <em>Delta</em> decay rate due to falling IV is much <em>lower</em> with the closer-to-the-money (in this case slightly in-the-money) 1360 call options, as seen in Figures 14-17. The severity of the decline in <em>Delta</em> on the 1410 call is revealed in Figures 18-2 and Tables 21-22. The at- to in-the-money 1360 maintains its <em>Delta</em> values despite declines in IV and time value. However, because the option has more time premium, there is always more directional risk should the market move the wrong way, a difficult trade-off, particularly for option buyers. (To learn more about time value, read <em>The Importance of Time Value</em>.)</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 9.gif'><img class='clImageThumb' src='../images/Figure 9.gif'></a>
+
+</td></tr><tr><td>Figure 18: <em>Delta</em> values at different days remaining. Assumes no change in volatility levels.</td></tr></table>
+
+</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 10.gif'><img class='clImageThumb' src='../images/Figure 10.gif'></a>
+
+</td></tr><tr><td>Figure 19: <em>Delta</em> values at different days remaining. Assumes -2% points change in volatility levels.</td></tr></table>
+
+</p>
+
+<p>
+
+<table><tr><td>
+
+<a href='../images/Figure 11.gif'><img class='clImageThumb' src='../images/Figure 11.gif'></a>
+
+</td></tr><tr><td>Figure 20: <em>Delta</em> values at different days remaining. Assumes -6% points change in IV levels.</td></tr></table>
+
+</p>
+
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" nowrap="nowrap"><strong>% Point Change in IV</strong></td><td valign="bottom" nowrap="nowrap"><strong>33 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>25 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>16 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>8 Days Left</strong></td></tr><tr><td valign="bottom" nowrap="nowrap">0</td><td valign="bottom" nowrap="nowrap">38.05</td><td valign="bottom" nowrap="nowrap">33.6</td><td valign="bottom" nowrap="nowrap">26.44</td><td valign="bottom" nowrap="nowrap">14.96</td></tr><tr><td valign="bottom" nowrap="nowrap">-2</td><td valign="bottom" nowrap="nowrap">35.8</td><td valign="bottom" nowrap="nowrap">31.14</td><td valign="bottom" nowrap="nowrap">23.69</td><td valign="bottom" nowrap="nowrap">12.11</td></tr><tr><td valign="bottom" nowrap="nowrap">-4</td><td valign="bottom" nowrap="nowrap">33.15</td><td valign="bottom" nowrap="nowrap">28.25</td><td valign="bottom" nowrap="nowrap">20.57</td><td valign="bottom" nowrap="nowrap">9.14</td></tr><tr><td valign="bottom" nowrap="nowrap">-6</td><td valign="bottom" nowrap="nowrap">29.96</td><td valign="bottom" nowrap="nowrap">24.84</td><td valign="bottom" nowrap="nowrap">17.03</td><td valign="bottom" nowrap="nowrap">6.17</td></tr><tr><td valign="bottom" nowrap="nowrap">-8</td><td valign="bottom" nowrap="nowrap">26.11</td><td valign="bottom" nowrap="nowrap">20.82</td><td valign="bottom" nowrap="nowrap">13.11</td><td valign="bottom" nowrap="nowrap">3.5</td></tr><tr><td valign="bottom" nowrap="nowrap">-10</td><td valign="bottom" nowrap="nowrap">21.4</td><td valign="bottom" nowrap="nowrap">16.13</td><td valign="bottom" nowrap="nowrap">8.97</td><td valign="bottom" nowrap="nowrap">1.4</td></tr><tr><td valign="bottom" nowrap="nowrap">Total Rate of Change in <em>Delta</em></td><td valign="bottom" nowrap="nowrap">-43.76</td><td valign="bottom" nowrap="nowrap">-51.99</td><td valign="bottom" nowrap="nowrap">-66.07</td><td valign="bottom" nowrap="nowrap">-90.64</td></tr></table>
+
+
+
+<table><tr><td>Figure 21: <em>Delta</em> values and total rates of decay of <em>Delta</em> for 1410 call options with changing levels of IV and decays remaining on the option. The highest rate of decline in <em>Delta</em> takes place on the option with eight days remaining, which suffers a 90.64% drop in <em>Delta</em> with a -10 fall in IV in terms of percentage points change.</td></tr></table>
+
+</p>
+
+
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" nowrap="nowrap">% <strong>Point Change in IV</strong></td><td valign="bottom" nowrap="nowrap"><strong>33 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>25 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>16 Days Left</strong></td><td valign="bottom" nowrap="nowrap"><strong>8 Days Left</strong></td></tr><tr><td valign="bottom" nowrap="nowrap">0</td><td valign="bottom" nowrap="nowrap">58.63</td><td valign="bottom" nowrap="nowrap">57.57</td><td valign="bottom" nowrap="nowrap">56.26</td><td valign="bottom" nowrap="nowrap">55.2</td></tr><tr><td valign="bottom" nowrap="nowrap">-2</td><td valign="bottom" nowrap="nowrap">58.55</td><td valign="bottom" nowrap="nowrap">57.45</td><td valign="bottom" nowrap="nowrap">56.16</td><td valign="bottom" nowrap="nowrap">55.1</td></tr><tr><td valign="bottom" nowrap="nowrap">-4</td><td valign="bottom" nowrap="nowrap">58.41</td><td valign="bottom" nowrap="nowrap">57.32</td><td valign="bottom" nowrap="nowrap">56</td><td valign="bottom" nowrap="nowrap">55.05</td></tr><tr><td valign="bottom" nowrap="nowrap">-6</td><td valign="bottom" nowrap="nowrap">58.26</td><td valign="bottom" nowrap="nowrap">57.18</td><td valign="bottom" nowrap="nowrap">55.92</td><td valign="bottom" nowrap="nowrap">55</td></tr><tr><td valign="bottom" nowrap="nowrap">-8</td><td valign="bottom" nowrap="nowrap">58.11</td><td valign="bottom" nowrap="nowrap">57.04</td><td valign="bottom" nowrap="nowrap">55.8</td><td valign="bottom" nowrap="nowrap">54.95</td></tr><tr><td valign="bottom" nowrap="nowrap">-10</td><td valign="bottom" nowrap="nowrap">57.93</td><td valign="bottom" nowrap="nowrap">56.87</td><td valign="bottom" nowrap="nowrap">55.6</td><td valign="bottom" nowrap="nowrap">54.9</td></tr><tr><td valign="bottom" nowrap="nowrap">Total Rate of Change in <em>Delta</em></td><td valign="bottom" nowrap="nowrap">-1.1</td><td valign="bottom" nowrap="nowrap">-1.22</td><td valign="bottom" nowrap="nowrap">-1.17</td><td valign="bottom" nowrap="nowrap">-0.54</td></tr></table>
+
+
+
+<table><tr><td>Figure 21: <em>Delta</em> values and total rates of decay of <em>Delta</em> for 1360 call options with changing levels of IV and decays remaining on the option. The highest rate of decline in <em>Delta</em> takes place on the option with 33 days remaining, which suffers a 1.19% drop in <em>Delta</em> with a -10 fall in IV in terms of percentage points change. Contrast this with the out-of-the-money 1410 call, which suffers the smallest decline in <em>Delta</em> on the 33 -day intervals. However, the magnitudes are much greater: a 43.76% drop on the 1410 call versus a 1.19% drop in <em>Delta</em> on the 1360 call.</td></tr></table>
+
+</p>
+<p><strong>Conclusion</strong></p>
+<p>In this segment, at-the-money and out-of-the-money call options are used to contrast the impact on <em>Delta</em> values resulting from changes to levels of implied volatility and time remaining on the options. It is demonstrated that while more potential dollar risk may reside on an at-the-money call option, it does not experience the corrosive effects of falling implied volatility and passage of time that an out-of-the-money call option does (a put option would similarly face the same conditions). While out-of-the-money options cost less (and therefore have much less maximum risk for a buyer), they display much larger <em>Delta</em> decay risk. </p>
+<p>
+
+
+<h2>Options Greeks: Conclusion</h2>
+
+
+<p>Greeks play a critical role in strategy behavior, most importantly in determining the prospects for success or failure. The key Greek risk factors - <em>Delta</em>, <em>Vega</em>, and <em>Theta</em> - were explained both in terms of how each relates to options in general (i.e., What is the sign on the <em>Delta</em> of all call or put options, or what is sign on the <em>Theta</em> of a call or put option?). While <em>Delta</em>s of calls are always positive and <em>Delta</em> of puts always negative, for the other Greeks the signs for puts and calls are the same. </p>
+<p><em></p>
+<p></em></p>
+<p>Theta is negative for all options because whether puts or calls, each tick of the clock reduces premium on an option, other things remaining the same. Likewise, all options have positive <em>Vega</em> values, since regardless of whether call or put, a rise in volatility will add value, while a decline will take value away. When moving to the level of position Greeks (i.e., Which strategy is employed and which strategy Greeks are associated with it?), the picture gets more complicated. </p>
+<p>Calls and puts can have either negative or positive Greeks depending on whether or not they are short (sold) or long (purchased). And a combination of options (calls and puts or different strikes using calls or puts) will result in a position <em>Delta</em>, <em>Vega</em> or <em>Theta</em> depending on the net position Greeks in the strategy. </p>
+
+<p>Finally, in the last part of this tutorial, the <em>ceteris paribus</em> assumption (all things remaining the same) is dropped to look at how Greeks change when other things don't remain the same, such as implied volatility (IV) and time remaining to expiration. While just one avenue for exploration, it was shown how <em>Delta</em> changes with both changes in time remaining until expiration and falling levels of IV. Further simulations along these lines could have been carried out, but due to the limitation of space it is not possible here. </p>
+<p>Suffice it to say that a rise in implied volatility will have the reverse impact in similar magnitudes for calls and puts. As for other scenarios, it would be best to acquire some software or access to a sophisticated broker platform that allows for extending this type of multidimensional analysis to other strategies.</p>
+
+
+<p>For now, bear in mind that each strategy will be impacted by changing levels of implied volatility (which can hurt or help depending on the sign and size of the position <em>Vega</em>), time remaining to expiration (position <em>Theta</em> risk), and to a smaller extent interest rates (typically negligible for most short- to medium-term strategies).</p>
+<p>With enough practice, eventually an understanding of the relationships of the Greeks to each strategy will become second nature so that analysis only becomes necessary to calculate their exact magnitude if using large lot sizes. </p>
+<p>Remember, it is better to trade smart. Begin slowly, risking little, and eventually increase risk when you begin to achieve success on small positions.</p>
+
+
+<div>
+</p>
+<p>
+
+
+
+</div>
+</div>
+</body>
+</html>

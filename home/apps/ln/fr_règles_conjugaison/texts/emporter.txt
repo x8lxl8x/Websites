@@ -1,0 +1,191 @@
+# emporter %[clVerbGroup|1]
+[-
+prendre quelque chose avec soi et le porter ailleurs. 
+enlever, entraîner violemment. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|emport%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|emport%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|emport%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||emport%[m|é]|
+|ayant|emport%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en emport%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|emport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|emport%[m|e]|
+|tu|emport%[m|es]|
+|il|emport%[m|e]|
+|nous|emport%[m|ons]|
+|vous|emport%[m|ez]|
+|ils|emport%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|emport%[m|é]|
+|tu|as |emport%[m|é]|
+|il|a|emport%[m|é]|
+|nous|avons|emport%[m|é]|
+|vous|avez|emport%[m|é]|
+|ils|ont|emport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|emport%[m|ais]|
+|tu|emport%[m|ais]|
+|il|emport%[m|ait]|
+|nous|emport%[m|ions]|
+|vous|emport%[m|iez]|
+|ils|emport%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|emport%[m|é]|
+|tu|avais|emport%[m|é]|
+|il|avait|emport%[m|é]|
+|nous|avions|emport%[m|é]|
+|vous|aviez|emport%[m|é]|
+|ils|avaient|emport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|emport%[m|ai]|
+|tu|emport%[m|as]|
+|il|emport%[m|a]|
+|nous|emport%[m|âmes]|
+|vous|emport%[m|âtes]|
+|ils|emport%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|emport%[m|é]|
+|tu|eus|emport%[m|é]|
+|il|eut|emport%[m|é]|
+|nous|e&ucirc;mes|emport%[m|é]|
+|vous|e&ucirc;tes|emport%[m|é]|
+|ils|eurent|emport%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|emport%[m|erai]|
+|tu|emport%[m|eras]|
+|il|emport%[m|era]|
+|nous|emport%[m|erons]|
+|vous|emport%[m|erez]|
+|ils|emport%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|emport%[m|é]|
+|tu|auras|emport%[m|é]|
+|il|aura|emport%[m|é]|
+|nous|aurons|emport%[m|é]|
+|vous|aurez|emport%[m|é]|
+|ils|auront|emport%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|emport%[m|erais]|
+|tu|emport%[m|erais]|
+|il|emport%[m|erait]|
+|nous|emport%[m|erions]|
+|vous|emport%[m|eriez]|
+|ils|emport%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|emport%[m|é]|
+|tu|aurais|emport%[m|é]|
+|il|aurait|emport%[m|é]|
+|nous|aurions|emport%[m|é]|
+|vous|auriez|emport%[m|é]|
+|ils|auraient|emport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|emport%[m|e]|
+|que|tu|emport%[m|es]|
+|qu'|il|emport%[m|e]|
+|que|nous|emport%[m|ions]|
+|que|vous|emport%[m|iez]|
+|qu'|ils|emport%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|emport%[m|é]|
+|que|tu|aies|emport%[m|é]|
+|qu'|il|ait|emport%[m|é]|
+|que|nous|ayons|emport%[m|é]|
+|que|vous|ayez|emport%[m|é]|
+|qu'|ils|aient|emport%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|emport%[m|asse]|
+|que|tu|emport%[m|asses]|
+|qu'|il|emport%[m|ât]|
+|que|nous|emport%[m|assions]|
+|que|vous|emport%[m|assiez]|
+|qu'|ils|emport%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|emport%[m|é]|
+|que|tu|eusses|emport%[m|é]|
+|qu'|il|eût|emport%[m|é]|
+|que|nous|eussions|emport%[m|é]|
+|que|vous|eussiez|emport%[m|é]|
+|qu'|ils|eussent|emport%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|emport%[m|e]|
+|emport%[m|ons]|
+|emport%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|emport%[m|é]|
+|ayons|emport%[m|é]|
+|ayez|emport%[m|é]|
+|]
+

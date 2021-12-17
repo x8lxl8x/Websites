@@ -1,0 +1,190 @@
+# surfer %[clVerbGroup|1]
+[-
+faire du surf. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surf%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surf%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surf%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surf%[m|é]|
+|ayant|surf%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surf%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surf%[m|e]|
+|tu|surf%[m|es]|
+|il|surf%[m|e]|
+|nous|surf%[m|ons]|
+|vous|surf%[m|ez]|
+|ils|surf%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surf%[m|é]|
+|tu|as |surf%[m|é]|
+|il|a|surf%[m|é]|
+|nous|avons|surf%[m|é]|
+|vous|avez|surf%[m|é]|
+|ils|ont|surf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surf%[m|ais]|
+|tu|surf%[m|ais]|
+|il|surf%[m|ait]|
+|nous|surf%[m|ions]|
+|vous|surf%[m|iez]|
+|ils|surf%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surf%[m|é]|
+|tu|avais|surf%[m|é]|
+|il|avait|surf%[m|é]|
+|nous|avions|surf%[m|é]|
+|vous|aviez|surf%[m|é]|
+|ils|avaient|surf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surf%[m|ai]|
+|tu|surf%[m|as]|
+|il|surf%[m|a]|
+|nous|surf%[m|âmes]|
+|vous|surf%[m|âtes]|
+|ils|surf%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surf%[m|é]|
+|tu|eus|surf%[m|é]|
+|il|eut|surf%[m|é]|
+|nous|e&ucirc;mes|surf%[m|é]|
+|vous|e&ucirc;tes|surf%[m|é]|
+|ils|eurent|surf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surf%[m|erai]|
+|tu|surf%[m|eras]|
+|il|surf%[m|era]|
+|nous|surf%[m|erons]|
+|vous|surf%[m|erez]|
+|ils|surf%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surf%[m|é]|
+|tu|auras|surf%[m|é]|
+|il|aura|surf%[m|é]|
+|nous|aurons|surf%[m|é]|
+|vous|aurez|surf%[m|é]|
+|ils|auront|surf%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surf%[m|erais]|
+|tu|surf%[m|erais]|
+|il|surf%[m|erait]|
+|nous|surf%[m|erions]|
+|vous|surf%[m|eriez]|
+|ils|surf%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surf%[m|é]|
+|tu|aurais|surf%[m|é]|
+|il|aurait|surf%[m|é]|
+|nous|aurions|surf%[m|é]|
+|vous|auriez|surf%[m|é]|
+|ils|auraient|surf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surf%[m|e]|
+|que|tu|surf%[m|es]|
+|qu'|il|surf%[m|e]|
+|que|nous|surf%[m|ions]|
+|que|vous|surf%[m|iez]|
+|qu'|ils|surf%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surf%[m|é]|
+|que|tu|aies|surf%[m|é]|
+|qu'|il|ait|surf%[m|é]|
+|que|nous|ayons|surf%[m|é]|
+|que|vous|ayez|surf%[m|é]|
+|qu'|ils|aient|surf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surf%[m|asse]|
+|que|tu|surf%[m|asses]|
+|qu'|il|surf%[m|ât]|
+|que|nous|surf%[m|assions]|
+|que|vous|surf%[m|assiez]|
+|qu'|ils|surf%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surf%[m|é]|
+|que|tu|eusses|surf%[m|é]|
+|qu'|il|eût|surf%[m|é]|
+|que|nous|eussions|surf%[m|é]|
+|que|vous|eussiez|surf%[m|é]|
+|qu'|ils|eussent|surf%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surf%[m|e]|
+|surf%[m|ons]|
+|surf%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surf%[m|é]|
+|ayons|surf%[m|é]|
+|ayez|surf%[m|é]|
+|]
+

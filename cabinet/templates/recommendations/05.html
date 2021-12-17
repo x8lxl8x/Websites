@@ -1,0 +1,23 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Викрити - Капха</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id05001' name='var05001' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Доша                       </td></tr>
+<tr><td><input id='id05002' name='var05002' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Капха-дефицит              </td></tr>
+<tr><td><input id='id05003' name='var05003' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Сухой тип                  </td></tr>
+<tr><td><input id='id05004' name='var05004' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Вкусы                      </td></tr>
+<tr><td><input id='id05005' name='var05005' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Продукты                   </td></tr>
+<tr><td><input id='id05006' name='var05006' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Шамана                     </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

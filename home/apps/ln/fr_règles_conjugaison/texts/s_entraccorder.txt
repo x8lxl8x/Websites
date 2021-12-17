@@ -1,0 +1,190 @@
+# s'entraccorder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'entraccord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|entraccord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'entraccord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|entraccord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'entraccord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|entraccord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|entraccord%[m|e]|
+|tu|t'|entraccord%[m|es]|
+|il|s'|entraccord%[m|e]|
+|nous|nous|entraccord%[m|ons]|
+|vous|vous|entraccord%[m|ez]|
+|ils|s'|entraccord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|entraccord%[m|é]|
+|tu|t'|es|entraccord%[m|é]|
+|il|s'|est|entraccord%[m|é]|
+|nous|nous|sommes|entraccord%[m|és]|
+|vous|vous|êtes|entraccord%[m|és]|
+|ils|se|sont|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|entraccord%[m|ais]|
+|tu|t'|entraccord%[m|ais]|
+|il|s'|entraccord%[m|ait]|
+|nous|nous|entraccord%[m|ions]|
+|vous|vous|entraccord%[m|iez]|
+|ils|s'|entraccord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|entraccord%[m|é]|
+|tu|t'|étais|entraccord%[m|é]|
+|il|s'|était|entraccord%[m|é]|
+|nous|nous|étions|entraccord%[m|és]|
+|vous|vous|étiez|entraccord%[m|és]|
+|ils|s'|étaient|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|entraccord%[m|ai]|
+|tu|t'|entraccord%[m|as]|
+|il|s'|entraccord%[m|a]|
+|nous|nous|entraccord%[m|âmes]|
+|vous|vous|entraccord%[m|âtes]|
+|ils|s'|entraccord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|entraccord%[m|é]|
+|tu|te|fus|entraccord%[m|é]|
+|il|se|fut|entraccord%[m|é]|
+|nous|nous|fûmes|entraccord%[m|és]|
+|vous|vous|fûtes|entraccord%[m|és]|
+|ils|se|furent|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|entraccord%[m|erai]|
+|tu|t'|entraccord%[m|eras]|
+|il|s'|entraccord%[m|era]|
+|nous|nous|entraccord%[m|erons]|
+|vous|vous|entraccord%[m|erez]|
+|ils|s'|entraccord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|entraccord%[m|é]|
+|tu|te|seras|entraccord%[m|é]|
+|il|se|sera|entraccord%[m|é]|
+|nous|nous|serons|entraccord%[m|és]|
+|vous|vous|serez|entraccord%[m|és]|
+|ils|se|seront|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|entraccord%[m|erais]|
+|tu|t'|entraccord%[m|erais]|
+|il|s'|entraccord%[m|erait]|
+|nous|nous|entraccord%[m|erions]|
+|vous|vous|entraccord%[m|eriez]|
+|ils|s'|entraccord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|entraccord%[m|é]|
+|tu|te|serais|entraccord%[m|é]|
+|il|se|serait|entraccord%[m|é]|
+|nous|nous|serions|entraccord%[m|és]|
+|vous|vous|seriez|entraccord%[m|és]|
+|ils|se|seraient|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|entraccord%[m|e]|
+|que|tu|t'|entraccord%[m|es]|
+|qu'|il|s'|entraccord%[m|e]|
+|que|nous|nous|entraccord%[m|ions]|
+|que|vous|vous|entraccord%[m|iez]|
+|qu'|ils|s'|entraccord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|entraccord%[m|é]|
+|que|tu|te|sois|entraccord%[m|é]|
+|qu'|il|se|soit|entraccord%[m|é]|
+|que|nous|nous|soyons|entraccord%[m|és]|
+|que|vous|vous|soyez|entraccord%[m|és]|
+|qu'|ils|se|soient|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|entraccord%[m|asse]|
+|que|tu|t'|entraccord%[m|asses]|
+|qu'|il|s'|entraccord%[m|ât]|
+|que|nous|nous|entraccord%[m|assions]|
+|que|vous|vous|entraccord%[m|assiez]|
+|qu'|ils|s'|entraccord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|entraccord%[m|é]|
+|que|tu|te|fusses|entraccord%[m|é]|
+|qu'|il|se|fût|entraccord%[m|é]|
+|que|nous|nous|fussions|entraccord%[m|és]|
+|que|vous|vous|fussiez|entraccord%[m|és]|
+|qu'|ils|se|fussent|entraccord%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|entraccord%[m|e]-toi|
+|entraccord%[m|ons]-nous|
+|entraccord%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

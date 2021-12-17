@@ -1,0 +1,190 @@
+# subvenir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|subv%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|subv%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|subv%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||subv%[m|enu]|
+|ayant|subv%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en subv%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|subv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|subv%[m|iens]|
+|tu|subv%[m|iens]|
+|il|subv%[m|ient]|
+|nous|subv%[m|enons]|
+|vous|subv%[m|enez]|
+|ils|subv%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|subv%[m|enu]|
+|tu|as |subv%[m|enu]|
+|il|a|subv%[m|enu]|
+|nous|avons|subv%[m|enu]|
+|vous|avez|subv%[m|enu]|
+|ils|ont|subv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|subv%[m|enais]|
+|tu|subv%[m|enais]|
+|il|subv%[m|enait]|
+|nous|subv%[m|enions]|
+|vous|subv%[m|eniez]|
+|ils|subv%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|subv%[m|enu]|
+|tu|avais|subv%[m|enu]|
+|il|avait|subv%[m|enu]|
+|nous|avions|subv%[m|enu]|
+|vous|aviez|subv%[m|enu]|
+|ils|avaient|subv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|subv%[m|ins]|
+|tu|subv%[m|ins]|
+|il|subv%[m|int]|
+|nous|subv%[m|înmes]|
+|vous|subv%[m|întes]|
+|ils|subv%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|subv%[m|enu]|
+|tu|eus|subv%[m|enu]|
+|il|eut|subv%[m|enu]|
+|nous|e&ucirc;mes|subv%[m|enu]|
+|vous|e&ucirc;tes|subv%[m|enu]|
+|ils|eurent|subv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|subv%[m|iendrai]|
+|tu|subv%[m|iendras]|
+|il|subv%[m|iendra]|
+|nous|subv%[m|iendrons]|
+|vous|subv%[m|iendrez]|
+|ils|subv%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|subv%[m|enu]|
+|tu|auras|subv%[m|enu]|
+|il|aura|subv%[m|enu]|
+|nous|aurons|subv%[m|enu]|
+|vous|aurez|subv%[m|enu]|
+|ils|auront|subv%[m|enu]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|subv%[m|iendrais]|
+|tu|subv%[m|iendrais]|
+|il|subv%[m|iendrait]|
+|nous|subv%[m|iendrions]|
+|vous|subv%[m|iendriez]|
+|ils|subv%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|subv%[m|enu]|
+|tu|aurais|subv%[m|enu]|
+|il|aurait|subv%[m|enu]|
+|nous|aurions|subv%[m|enu]|
+|vous|auriez|subv%[m|enu]|
+|ils|auraient|subv%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|subv%[m|ienne]|
+|que|tu|subv%[m|iennes]|
+|qu'|il|subv%[m|ienne]|
+|que|nous|subv%[m|enions]|
+|que|vous|subv%[m|eniez]|
+|qu'|ils|subv%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|subv%[m|enu]|
+|que|tu|aies|subv%[m|enu]|
+|qu'|il|ait|subv%[m|enu]|
+|que|nous|ayons|subv%[m|enu]|
+|que|vous|ayez|subv%[m|enu]|
+|qu'|ils|aient|subv%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|subv%[m|insse]|
+|que|tu|subv%[m|insses]|
+|qu'|il|subv%[m|înt]|
+|que|nous|subv%[m|inssions]|
+|que|vous|subv%[m|inssiez]|
+|qu'|ils|subv%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|subv%[m|enu]|
+|que|tu|eusses|subv%[m|enu]|
+|qu'|il|eût|subv%[m|enu]|
+|que|nous|eussions|subv%[m|enu]|
+|que|vous|eussiez|subv%[m|enu]|
+|qu'|ils|eussent|subv%[m|enu]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|subv%[m|iens]|
+|subv%[m|enons]|
+|subv%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|subv%[m|enu]|
+|ayons|subv%[m|enu]|
+|ayez|subv%[m|enu]|
+|]
+

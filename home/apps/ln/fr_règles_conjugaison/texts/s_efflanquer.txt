@@ -1,0 +1,190 @@
+# s'efflanquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'efflanqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|efflanqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'efflanqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|efflanqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'efflanqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|efflanqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|efflanqu%[m|e]|
+|tu|t'|efflanqu%[m|es]|
+|il|s'|efflanqu%[m|e]|
+|nous|nous|efflanqu%[m|ons]|
+|vous|vous|efflanqu%[m|ez]|
+|ils|s'|efflanqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|efflanqu%[m|é]|
+|tu|t'|es|efflanqu%[m|é]|
+|il|s'|est|efflanqu%[m|é]|
+|nous|nous|sommes|efflanqu%[m|és]|
+|vous|vous|êtes|efflanqu%[m|és]|
+|ils|se|sont|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|efflanqu%[m|ais]|
+|tu|t'|efflanqu%[m|ais]|
+|il|s'|efflanqu%[m|ait]|
+|nous|nous|efflanqu%[m|ions]|
+|vous|vous|efflanqu%[m|iez]|
+|ils|s'|efflanqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|efflanqu%[m|é]|
+|tu|t'|étais|efflanqu%[m|é]|
+|il|s'|était|efflanqu%[m|é]|
+|nous|nous|étions|efflanqu%[m|és]|
+|vous|vous|étiez|efflanqu%[m|és]|
+|ils|s'|étaient|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|efflanqu%[m|ai]|
+|tu|t'|efflanqu%[m|as]|
+|il|s'|efflanqu%[m|a]|
+|nous|nous|efflanqu%[m|âmes]|
+|vous|vous|efflanqu%[m|âtes]|
+|ils|s'|efflanqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|efflanqu%[m|é]|
+|tu|te|fus|efflanqu%[m|é]|
+|il|se|fut|efflanqu%[m|é]|
+|nous|nous|fûmes|efflanqu%[m|és]|
+|vous|vous|fûtes|efflanqu%[m|és]|
+|ils|se|furent|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|efflanqu%[m|erai]|
+|tu|t'|efflanqu%[m|eras]|
+|il|s'|efflanqu%[m|era]|
+|nous|nous|efflanqu%[m|erons]|
+|vous|vous|efflanqu%[m|erez]|
+|ils|s'|efflanqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|efflanqu%[m|é]|
+|tu|te|seras|efflanqu%[m|é]|
+|il|se|sera|efflanqu%[m|é]|
+|nous|nous|serons|efflanqu%[m|és]|
+|vous|vous|serez|efflanqu%[m|és]|
+|ils|se|seront|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|efflanqu%[m|erais]|
+|tu|t'|efflanqu%[m|erais]|
+|il|s'|efflanqu%[m|erait]|
+|nous|nous|efflanqu%[m|erions]|
+|vous|vous|efflanqu%[m|eriez]|
+|ils|s'|efflanqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|efflanqu%[m|é]|
+|tu|te|serais|efflanqu%[m|é]|
+|il|se|serait|efflanqu%[m|é]|
+|nous|nous|serions|efflanqu%[m|és]|
+|vous|vous|seriez|efflanqu%[m|és]|
+|ils|se|seraient|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|efflanqu%[m|e]|
+|que|tu|t'|efflanqu%[m|es]|
+|qu'|il|s'|efflanqu%[m|e]|
+|que|nous|nous|efflanqu%[m|ions]|
+|que|vous|vous|efflanqu%[m|iez]|
+|qu'|ils|s'|efflanqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|efflanqu%[m|é]|
+|que|tu|te|sois|efflanqu%[m|é]|
+|qu'|il|se|soit|efflanqu%[m|é]|
+|que|nous|nous|soyons|efflanqu%[m|és]|
+|que|vous|vous|soyez|efflanqu%[m|és]|
+|qu'|ils|se|soient|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|efflanqu%[m|asse]|
+|que|tu|t'|efflanqu%[m|asses]|
+|qu'|il|s'|efflanqu%[m|ât]|
+|que|nous|nous|efflanqu%[m|assions]|
+|que|vous|vous|efflanqu%[m|assiez]|
+|qu'|ils|s'|efflanqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|efflanqu%[m|é]|
+|que|tu|te|fusses|efflanqu%[m|é]|
+|qu'|il|se|fût|efflanqu%[m|é]|
+|que|nous|nous|fussions|efflanqu%[m|és]|
+|que|vous|vous|fussiez|efflanqu%[m|és]|
+|qu'|ils|se|fussent|efflanqu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|efflanqu%[m|e]-toi|
+|efflanqu%[m|ons]-nous|
+|efflanqu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

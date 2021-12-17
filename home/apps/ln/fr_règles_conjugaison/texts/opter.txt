@@ -1,0 +1,190 @@
+# opter %[clVerbGroup|1]
+[-
+faire un choix entre plusieurs choses ou plusieurs solutions. Choisir, prendre parti. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|opt%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|opt%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|opt%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||opt%[m|é]|
+|ayant|opt%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en opt%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|opt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|opt%[m|e]|
+|tu|opt%[m|es]|
+|il|opt%[m|e]|
+|nous|opt%[m|ons]|
+|vous|opt%[m|ez]|
+|ils|opt%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|opt%[m|é]|
+|tu|as |opt%[m|é]|
+|il|a|opt%[m|é]|
+|nous|avons|opt%[m|é]|
+|vous|avez|opt%[m|é]|
+|ils|ont|opt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|opt%[m|ais]|
+|tu|opt%[m|ais]|
+|il|opt%[m|ait]|
+|nous|opt%[m|ions]|
+|vous|opt%[m|iez]|
+|ils|opt%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|opt%[m|é]|
+|tu|avais|opt%[m|é]|
+|il|avait|opt%[m|é]|
+|nous|avions|opt%[m|é]|
+|vous|aviez|opt%[m|é]|
+|ils|avaient|opt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|opt%[m|ai]|
+|tu|opt%[m|as]|
+|il|opt%[m|a]|
+|nous|opt%[m|âmes]|
+|vous|opt%[m|âtes]|
+|ils|opt%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|opt%[m|é]|
+|tu|eus|opt%[m|é]|
+|il|eut|opt%[m|é]|
+|nous|e&ucirc;mes|opt%[m|é]|
+|vous|e&ucirc;tes|opt%[m|é]|
+|ils|eurent|opt%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|opt%[m|erai]|
+|tu|opt%[m|eras]|
+|il|opt%[m|era]|
+|nous|opt%[m|erons]|
+|vous|opt%[m|erez]|
+|ils|opt%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|opt%[m|é]|
+|tu|auras|opt%[m|é]|
+|il|aura|opt%[m|é]|
+|nous|aurons|opt%[m|é]|
+|vous|aurez|opt%[m|é]|
+|ils|auront|opt%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|opt%[m|erais]|
+|tu|opt%[m|erais]|
+|il|opt%[m|erait]|
+|nous|opt%[m|erions]|
+|vous|opt%[m|eriez]|
+|ils|opt%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|opt%[m|é]|
+|tu|aurais|opt%[m|é]|
+|il|aurait|opt%[m|é]|
+|nous|aurions|opt%[m|é]|
+|vous|auriez|opt%[m|é]|
+|ils|auraient|opt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|opt%[m|e]|
+|que|tu|opt%[m|es]|
+|qu'|il|opt%[m|e]|
+|que|nous|opt%[m|ions]|
+|que|vous|opt%[m|iez]|
+|qu'|ils|opt%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|opt%[m|é]|
+|que|tu|aies|opt%[m|é]|
+|qu'|il|ait|opt%[m|é]|
+|que|nous|ayons|opt%[m|é]|
+|que|vous|ayez|opt%[m|é]|
+|qu'|ils|aient|opt%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|opt%[m|asse]|
+|que|tu|opt%[m|asses]|
+|qu'|il|opt%[m|ât]|
+|que|nous|opt%[m|assions]|
+|que|vous|opt%[m|assiez]|
+|qu'|ils|opt%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|opt%[m|é]|
+|que|tu|eusses|opt%[m|é]|
+|qu'|il|eût|opt%[m|é]|
+|que|nous|eussions|opt%[m|é]|
+|que|vous|eussiez|opt%[m|é]|
+|qu'|ils|eussent|opt%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|opt%[m|e]|
+|opt%[m|ons]|
+|opt%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|opt%[m|é]|
+|ayons|opt%[m|é]|
+|ayez|opt%[m|é]|
+|]
+

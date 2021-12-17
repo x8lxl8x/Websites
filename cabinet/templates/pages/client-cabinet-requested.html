@@ -1,0 +1,30 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+
+<div id='idNotification'>
+<i>Внимание! Информация о стоимости консультации и реквизитах платежа действительна в течение 30 дней с момента предоставления. Если оплата за этот срок не произведена, запрос на консультацию необходимо сделать заново.</i>
+</div>
+
+<p>
+$strClientPaymentMethodText
+</p>
+
+<h4>Уведомление об оплате</h4>
+
+<form id='idMain' name='varMain' method='post' action='./client-state-paid-proc.php?varIdKey=$strIdKey'>
+
+<p class='clQuestion'>После того, как оплата произведена, пожалуйста, пошлите уведомление. В тексте укажите дату платежа и оплаченную сумму. Также сообщите любую дополнительную информацию, которая поможет идентифицировать ваш платёж:</p>
+<textarea rows='5' cols='80' id='idPaymentMessage' name='varPaymentMessage' type='textarea'></textarea>
+
+<div id='idSubmit'>
+  <input type='submit' value='Сообщить'>
+  <input id='idPaymentMethod'    name='varPaymentMethod'    type='hidden' value='$strClientPaymentMethod'>
+  <input id='idClientNameLast'  name='varClientNameLast'  type='hidden' value='$strClientNameLast'>
+  <input id='idClientNameFirst'  name='varClientNameFirst'  type='hidden' value='$strClientNameFirst'>
+  <input id='idClientEmail'    name='varClientEmail'    type='hidden' value='$strClientEmail'>
+</div>
+</form>
+
+<br>
+<div id='idExitLink'>
+  <a onClick='fncExitCabinet();' href='javascript:void(0)'>Выход из кабинета</a>
+</div>

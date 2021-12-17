@@ -1,0 +1,193 @@
+# mordre %[clVerbGroup|3]
+[-
+entamer, user avec un outil. Mordre le bois à la lime, à la scie. 
+s'accrocher, trouver prise. 
+empiéter sur quelque chose (ex : mordre sur les attributions de quelqu'un) 
+saisir et serrer avec les dents pour blesser et entamer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mord%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mord%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mord%[m|u]|
+|ayant|mord%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mord%[m|s]|
+|tu|mord%[m|s]|
+|il|mord%[m|]|
+|nous|mord%[m|ons]|
+|vous|mord%[m|ez]|
+|ils|mord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mord%[m|u]|
+|tu|as |mord%[m|u]|
+|il|a|mord%[m|u]|
+|nous|avons|mord%[m|u]|
+|vous|avez|mord%[m|u]|
+|ils|ont|mord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mord%[m|ais]|
+|tu|mord%[m|ais]|
+|il|mord%[m|ait]|
+|nous|mord%[m|ions]|
+|vous|mord%[m|iez]|
+|ils|mord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mord%[m|u]|
+|tu|avais|mord%[m|u]|
+|il|avait|mord%[m|u]|
+|nous|avions|mord%[m|u]|
+|vous|aviez|mord%[m|u]|
+|ils|avaient|mord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mord%[m|is]|
+|tu|mord%[m|is]|
+|il|mord%[m|it]|
+|nous|mord%[m|îmes]|
+|vous|mord%[m|îtes]|
+|ils|mord%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mord%[m|u]|
+|tu|eus|mord%[m|u]|
+|il|eut|mord%[m|u]|
+|nous|e&ucirc;mes|mord%[m|u]|
+|vous|e&ucirc;tes|mord%[m|u]|
+|ils|eurent|mord%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mord%[m|rai]|
+|tu|mord%[m|ras]|
+|il|mord%[m|ra]|
+|nous|mord%[m|rons]|
+|vous|mord%[m|rez]|
+|ils|mord%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mord%[m|u]|
+|tu|auras|mord%[m|u]|
+|il|aura|mord%[m|u]|
+|nous|aurons|mord%[m|u]|
+|vous|aurez|mord%[m|u]|
+|ils|auront|mord%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mord%[m|rais]|
+|tu|mord%[m|rais]|
+|il|mord%[m|rait]|
+|nous|mord%[m|rions]|
+|vous|mord%[m|riez]|
+|ils|mord%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mord%[m|u]|
+|tu|aurais|mord%[m|u]|
+|il|aurait|mord%[m|u]|
+|nous|aurions|mord%[m|u]|
+|vous|auriez|mord%[m|u]|
+|ils|auraient|mord%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mord%[m|e]|
+|que|tu|mord%[m|es]|
+|qu'|il|mord%[m|e]|
+|que|nous|mord%[m|ions]|
+|que|vous|mord%[m|iez]|
+|qu'|ils|mord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mord%[m|u]|
+|que|tu|aies|mord%[m|u]|
+|qu'|il|ait|mord%[m|u]|
+|que|nous|ayons|mord%[m|u]|
+|que|vous|ayez|mord%[m|u]|
+|qu'|ils|aient|mord%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mord%[m|isse]|
+|que|tu|mord%[m|isses]|
+|qu'|il|mord%[m|ît]|
+|que|nous|mord%[m|issions]|
+|que|vous|mord%[m|issiez]|
+|qu'|ils|mord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mord%[m|u]|
+|que|tu|eusses|mord%[m|u]|
+|qu'|il|eût|mord%[m|u]|
+|que|nous|eussions|mord%[m|u]|
+|que|vous|eussiez|mord%[m|u]|
+|qu'|ils|eussent|mord%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mord%[m|s]|
+|mord%[m|ons]|
+|mord%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mord%[m|u]|
+|ayons|mord%[m|u]|
+|ayez|mord%[m|u]|
+|]
+

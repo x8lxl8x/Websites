@@ -1,0 +1,190 @@
+# gréser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|gr%[m|é]s%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grés%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|gr%[m|é]s%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grés%[m|é]|
+|ayant|grés%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en gr%[m|é]s%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grés%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|gr%[m|è]s%[m|e]|
+|tu|gr%[m|è]s%[m|es]|
+|il|gr%[m|è]s%[m|e]|
+|nous|gr%[m|é]s%[m|ons]|
+|vous|gr%[m|é]s%[m|ez]|
+|ils|gr%[m|è]s%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grés%[m|é]|
+|tu|as |grés%[m|é]|
+|il|a|grés%[m|é]|
+|nous|avons|grés%[m|é]|
+|vous|avez|grés%[m|é]|
+|ils|ont|grés%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|gr%[m|é]s%[m|ais]|
+|tu|gr%[m|é]s%[m|ais]|
+|il|gr%[m|é]s%[m|ait]|
+|nous|gr%[m|é]s%[m|ions]|
+|vous|gr%[m|é]s%[m|iez]|
+|ils|gr%[m|é]s%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grés%[m|é]|
+|tu|avais|grés%[m|é]|
+|il|avait|grés%[m|é]|
+|nous|avions|grés%[m|é]|
+|vous|aviez|grés%[m|é]|
+|ils|avaient|grés%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|gr%[m|é]s%[m|ai]|
+|tu|gr%[m|é]s%[m|as]|
+|il|gr%[m|é]s%[m|a]|
+|nous|gr%[m|é]s%[m|âmes]|
+|vous|gr%[m|é]s%[m|âtes]|
+|ils|gr%[m|é]s%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grés%[m|é]|
+|tu|eus|grés%[m|é]|
+|il|eut|grés%[m|é]|
+|nous|e&ucirc;mes|grés%[m|é]|
+|vous|e&ucirc;tes|grés%[m|é]|
+|ils|eurent|grés%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|gr%[m|é]s%[m|erai]|
+|tu|gr%[m|é]s%[m|eras]|
+|il|gr%[m|é]s%[m|era]|
+|nous|gr%[m|é]s%[m|erons]|
+|vous|gr%[m|é]s%[m|erez]|
+|ils|gr%[m|é]s%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grés%[m|é]|
+|tu|auras|grés%[m|é]|
+|il|aura|grés%[m|é]|
+|nous|aurons|grés%[m|é]|
+|vous|aurez|grés%[m|é]|
+|ils|auront|grés%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|gr%[m|é]s%[m|erais]|
+|tu|gr%[m|é]s%[m|erais]|
+|il|gr%[m|é]s%[m|erait]|
+|nous|gr%[m|é]s%[m|erions]|
+|vous|gr%[m|é]s%[m|eriez]|
+|ils|gr%[m|é]s%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grés%[m|é]|
+|tu|aurais|grés%[m|é]|
+|il|aurait|grés%[m|é]|
+|nous|aurions|grés%[m|é]|
+|vous|auriez|grés%[m|é]|
+|ils|auraient|grés%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|gr%[m|è]s%[m|e]|
+|que|tu|gr%[m|è]s%[m|es]|
+|qu'|il|gr%[m|è]s%[m|e]|
+|que|nous|gr%[m|é]s%[m|ions]|
+|que|vous|gr%[m|é]s%[m|iez]|
+|qu'|ils|gr%[m|è]s%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grés%[m|é]|
+|que|tu|aies|grés%[m|é]|
+|qu'|il|ait|grés%[m|é]|
+|que|nous|ayons|grés%[m|é]|
+|que|vous|ayez|grés%[m|é]|
+|qu'|ils|aient|grés%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|gr%[m|é]s%[m|asse]|
+|que|tu|gr%[m|é]s%[m|asses]|
+|qu'|il|gr%[m|é]s%[m|ât]|
+|que|nous|gr%[m|é]s%[m|assions]|
+|que|vous|gr%[m|é]s%[m|assiez]|
+|qu'|ils|gr%[m|é]s%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grés%[m|é]|
+|que|tu|eusses|grés%[m|é]|
+|qu'|il|eût|grés%[m|é]|
+|que|nous|eussions|grés%[m|é]|
+|que|vous|eussiez|grés%[m|é]|
+|qu'|ils|eussent|grés%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|gr%[m|è]s%[m|e]|
+|gr%[m|é]s%[m|ons]|
+|gr%[m|é]s%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grés%[m|é]|
+|ayons|grés%[m|é]|
+|ayez|grés%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# rappointir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rappoint%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rappoint%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rappoint%[m|i]|
+|ayant|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rappoint%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rappoint%[m|is]|
+|tu|rappoint%[m|is]|
+|il|rappoint%[m|it]|
+|nous|rappoint%[m|issons]|
+|vous|rappoint%[m|issez]|
+|ils|rappoint%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rappoint%[m|i]|
+|tu|as |rappoint%[m|i]|
+|il|a|rappoint%[m|i]|
+|nous|avons|rappoint%[m|i]|
+|vous|avez|rappoint%[m|i]|
+|ils|ont|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rappoint%[m|issais]|
+|tu|rappoint%[m|issais]|
+|il|rappoint%[m|issait]|
+|nous|rappoint%[m|issions]|
+|vous|rappoint%[m|issiez]|
+|ils|rappoint%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rappoint%[m|i]|
+|tu|avais|rappoint%[m|i]|
+|il|avait|rappoint%[m|i]|
+|nous|avions|rappoint%[m|i]|
+|vous|aviez|rappoint%[m|i]|
+|ils|avaient|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rappoint%[m|is]|
+|tu|rappoint%[m|is]|
+|il|rappoint%[m|it]|
+|nous|rappoint%[m|îmes]|
+|vous|rappoint%[m|îtes]|
+|ils|rappoint%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rappoint%[m|i]|
+|tu|eus|rappoint%[m|i]|
+|il|eut|rappoint%[m|i]|
+|nous|e&ucirc;mes|rappoint%[m|i]|
+|vous|e&ucirc;tes|rappoint%[m|i]|
+|ils|eurent|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rappoint%[m|irai]|
+|tu|rappoint%[m|iras]|
+|il|rappoint%[m|ira]|
+|nous|rappoint%[m|irons]|
+|vous|rappoint%[m|irez]|
+|ils|rappoint%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rappoint%[m|i]|
+|tu|auras|rappoint%[m|i]|
+|il|aura|rappoint%[m|i]|
+|nous|aurons|rappoint%[m|i]|
+|vous|aurez|rappoint%[m|i]|
+|ils|auront|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rappoint%[m|irais]|
+|tu|rappoint%[m|irais]|
+|il|rappoint%[m|irait]|
+|nous|rappoint%[m|irions]|
+|vous|rappoint%[m|iriez]|
+|ils|rappoint%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rappoint%[m|i]|
+|tu|aurais|rappoint%[m|i]|
+|il|aurait|rappoint%[m|i]|
+|nous|aurions|rappoint%[m|i]|
+|vous|auriez|rappoint%[m|i]|
+|ils|auraient|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rappoint%[m|isse]|
+|que|tu|rappoint%[m|isses]|
+|qu'|il|rappoint%[m|isse]|
+|que|nous|rappoint%[m|issions]|
+|que|vous|rappoint%[m|issiez]|
+|qu'|ils|rappoint%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rappoint%[m|i]|
+|que|tu|aies|rappoint%[m|i]|
+|qu'|il|ait|rappoint%[m|i]|
+|que|nous|ayons|rappoint%[m|i]|
+|que|vous|ayez|rappoint%[m|i]|
+|qu'|ils|aient|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rappoint%[m|isse]|
+|que|tu|rappoint%[m|isses]|
+|qu'|il|rappoint%[m|ît]|
+|que|nous|rappoint%[m|issions]|
+|que|vous|rappoint%[m|issiez]|
+|qu'|ils|rappoint%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rappoint%[m|i]|
+|que|tu|eusses|rappoint%[m|i]|
+|qu'|il|eût|rappoint%[m|i]|
+|que|nous|eussions|rappoint%[m|i]|
+|que|vous|eussiez|rappoint%[m|i]|
+|qu'|ils|eussent|rappoint%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rappoint%[m|is]|
+|rappoint%[m|issons]|
+|rappoint%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rappoint%[m|i]|
+|ayons|rappoint%[m|i]|
+|ayez|rappoint%[m|i]|
+|]
+

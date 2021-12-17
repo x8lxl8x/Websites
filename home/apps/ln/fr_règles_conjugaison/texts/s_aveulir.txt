@@ -1,0 +1,190 @@
+# s'aveulir %[clVerbGroup|2]
+[-
+rendre veule, amollir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'aveul%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|aveul%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'aveul%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|aveul%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'aveul%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|aveul%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|aveul%[m|is]|
+|tu|t'|aveul%[m|is]|
+|il|s'|aveul%[m|it]|
+|nous|nous|aveul%[m|issons]|
+|vous|vous|aveul%[m|issez]|
+|ils|s'|aveul%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|aveul%[m|i]|
+|tu|t'|es|aveul%[m|i]|
+|il|s'|est|aveul%[m|i]|
+|nous|nous|sommes|aveul%[m|is]|
+|vous|vous|êtes|aveul%[m|is]|
+|ils|se|sont|aveul%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|aveul%[m|issais]|
+|tu|t'|aveul%[m|issais]|
+|il|s'|aveul%[m|issait]|
+|nous|nous|aveul%[m|issions]|
+|vous|vous|aveul%[m|issiez]|
+|ils|s'|aveul%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|aveul%[m|i]|
+|tu|t'|étais|aveul%[m|i]|
+|il|s'|était|aveul%[m|i]|
+|nous|nous|étions|aveul%[m|is]|
+|vous|vous|étiez|aveul%[m|is]|
+|ils|s'|étaient|aveul%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|aveul%[m|is]|
+|tu|t'|aveul%[m|is]|
+|il|s'|aveul%[m|it]|
+|nous|nous|aveul%[m|îmes]|
+|vous|vous|aveul%[m|îtes]|
+|ils|s'|aveul%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|aveul%[m|i]|
+|tu|te|fus|aveul%[m|i]|
+|il|se|fut|aveul%[m|i]|
+|nous|nous|fûmes|aveul%[m|is]|
+|vous|vous|fûtes|aveul%[m|is]|
+|ils|se|furent|aveul%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|aveul%[m|irai]|
+|tu|t'|aveul%[m|iras]|
+|il|s'|aveul%[m|ira]|
+|nous|nous|aveul%[m|irons]|
+|vous|vous|aveul%[m|irez]|
+|ils|s'|aveul%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|aveul%[m|i]|
+|tu|te|seras|aveul%[m|i]|
+|il|se|sera|aveul%[m|i]|
+|nous|nous|serons|aveul%[m|is]|
+|vous|vous|serez|aveul%[m|is]|
+|ils|se|seront|aveul%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|aveul%[m|irais]|
+|tu|t'|aveul%[m|irais]|
+|il|s'|aveul%[m|irait]|
+|nous|nous|aveul%[m|irions]|
+|vous|vous|aveul%[m|iriez]|
+|ils|s'|aveul%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|aveul%[m|i]|
+|tu|te|serais|aveul%[m|i]|
+|il|se|serait|aveul%[m|i]|
+|nous|nous|serions|aveul%[m|is]|
+|vous|vous|seriez|aveul%[m|is]|
+|ils|se|seraient|aveul%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|aveul%[m|isse]|
+|que|tu|t'|aveul%[m|isses]|
+|qu'|il|s'|aveul%[m|isse]|
+|que|nous|nous|aveul%[m|issions]|
+|que|vous|vous|aveul%[m|issiez]|
+|qu'|ils|s'|aveul%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|aveul%[m|i]|
+|que|tu|te|sois|aveul%[m|i]|
+|qu'|il|se|soit|aveul%[m|i]|
+|que|nous|nous|soyons|aveul%[m|is]|
+|que|vous|vous|soyez|aveul%[m|is]|
+|qu'|ils|se|soient|aveul%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|aveul%[m|isse]|
+|que|tu|t'|aveul%[m|isses]|
+|qu'|il|s'|aveul%[m|ît]|
+|que|nous|nous|aveul%[m|issions]|
+|que|vous|vous|aveul%[m|issiez]|
+|qu'|ils|s'|aveul%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|aveul%[m|i]|
+|que|tu|te|fusses|aveul%[m|i]|
+|qu'|il|se|fût|aveul%[m|i]|
+|que|nous|nous|fussions|aveul%[m|is]|
+|que|vous|vous|fussiez|aveul%[m|is]|
+|qu'|ils|se|fussent|aveul%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aveul%[m|is]-toi|
+|aveul%[m|issons]-nous|
+|aveul%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

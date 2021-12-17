@@ -1,0 +1,190 @@
+# exporter %[clVerbGroup|1]
+[-
+vendre hors d'un pays des produits qui y sont fabriqués. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|export%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|export%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|export%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||export%[m|é]|
+|ayant|export%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en export%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|export%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|export%[m|e]|
+|tu|export%[m|es]|
+|il|export%[m|e]|
+|nous|export%[m|ons]|
+|vous|export%[m|ez]|
+|ils|export%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|export%[m|é]|
+|tu|as |export%[m|é]|
+|il|a|export%[m|é]|
+|nous|avons|export%[m|é]|
+|vous|avez|export%[m|é]|
+|ils|ont|export%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|export%[m|ais]|
+|tu|export%[m|ais]|
+|il|export%[m|ait]|
+|nous|export%[m|ions]|
+|vous|export%[m|iez]|
+|ils|export%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|export%[m|é]|
+|tu|avais|export%[m|é]|
+|il|avait|export%[m|é]|
+|nous|avions|export%[m|é]|
+|vous|aviez|export%[m|é]|
+|ils|avaient|export%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|export%[m|ai]|
+|tu|export%[m|as]|
+|il|export%[m|a]|
+|nous|export%[m|âmes]|
+|vous|export%[m|âtes]|
+|ils|export%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|export%[m|é]|
+|tu|eus|export%[m|é]|
+|il|eut|export%[m|é]|
+|nous|e&ucirc;mes|export%[m|é]|
+|vous|e&ucirc;tes|export%[m|é]|
+|ils|eurent|export%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|export%[m|erai]|
+|tu|export%[m|eras]|
+|il|export%[m|era]|
+|nous|export%[m|erons]|
+|vous|export%[m|erez]|
+|ils|export%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|export%[m|é]|
+|tu|auras|export%[m|é]|
+|il|aura|export%[m|é]|
+|nous|aurons|export%[m|é]|
+|vous|aurez|export%[m|é]|
+|ils|auront|export%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|export%[m|erais]|
+|tu|export%[m|erais]|
+|il|export%[m|erait]|
+|nous|export%[m|erions]|
+|vous|export%[m|eriez]|
+|ils|export%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|export%[m|é]|
+|tu|aurais|export%[m|é]|
+|il|aurait|export%[m|é]|
+|nous|aurions|export%[m|é]|
+|vous|auriez|export%[m|é]|
+|ils|auraient|export%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|export%[m|e]|
+|que|tu|export%[m|es]|
+|qu'|il|export%[m|e]|
+|que|nous|export%[m|ions]|
+|que|vous|export%[m|iez]|
+|qu'|ils|export%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|export%[m|é]|
+|que|tu|aies|export%[m|é]|
+|qu'|il|ait|export%[m|é]|
+|que|nous|ayons|export%[m|é]|
+|que|vous|ayez|export%[m|é]|
+|qu'|ils|aient|export%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|export%[m|asse]|
+|que|tu|export%[m|asses]|
+|qu'|il|export%[m|ât]|
+|que|nous|export%[m|assions]|
+|que|vous|export%[m|assiez]|
+|qu'|ils|export%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|export%[m|é]|
+|que|tu|eusses|export%[m|é]|
+|qu'|il|eût|export%[m|é]|
+|que|nous|eussions|export%[m|é]|
+|que|vous|eussiez|export%[m|é]|
+|qu'|ils|eussent|export%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|export%[m|e]|
+|export%[m|ons]|
+|export%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|export%[m|é]|
+|ayons|export%[m|é]|
+|ayez|export%[m|é]|
+|]
+

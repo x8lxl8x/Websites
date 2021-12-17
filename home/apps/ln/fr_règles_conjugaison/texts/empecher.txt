@@ -1,0 +1,191 @@
+# empêcher %[clVerbGroup|1]
+[-
+faire en sorte que quelque chose ne puisse se faire. 
+faire en sorte que quelqu'un ne puisse pas faire quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|empêch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|empêch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|empêch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||empêch%[m|é]|
+|ayant|empêch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en empêch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|empêch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|empêch%[m|e]|
+|tu|empêch%[m|es]|
+|il|empêch%[m|e]|
+|nous|empêch%[m|ons]|
+|vous|empêch%[m|ez]|
+|ils|empêch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|empêch%[m|é]|
+|tu|as |empêch%[m|é]|
+|il|a|empêch%[m|é]|
+|nous|avons|empêch%[m|é]|
+|vous|avez|empêch%[m|é]|
+|ils|ont|empêch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|empêch%[m|ais]|
+|tu|empêch%[m|ais]|
+|il|empêch%[m|ait]|
+|nous|empêch%[m|ions]|
+|vous|empêch%[m|iez]|
+|ils|empêch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|empêch%[m|é]|
+|tu|avais|empêch%[m|é]|
+|il|avait|empêch%[m|é]|
+|nous|avions|empêch%[m|é]|
+|vous|aviez|empêch%[m|é]|
+|ils|avaient|empêch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|empêch%[m|ai]|
+|tu|empêch%[m|as]|
+|il|empêch%[m|a]|
+|nous|empêch%[m|âmes]|
+|vous|empêch%[m|âtes]|
+|ils|empêch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|empêch%[m|é]|
+|tu|eus|empêch%[m|é]|
+|il|eut|empêch%[m|é]|
+|nous|e&ucirc;mes|empêch%[m|é]|
+|vous|e&ucirc;tes|empêch%[m|é]|
+|ils|eurent|empêch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|empêch%[m|erai]|
+|tu|empêch%[m|eras]|
+|il|empêch%[m|era]|
+|nous|empêch%[m|erons]|
+|vous|empêch%[m|erez]|
+|ils|empêch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|empêch%[m|é]|
+|tu|auras|empêch%[m|é]|
+|il|aura|empêch%[m|é]|
+|nous|aurons|empêch%[m|é]|
+|vous|aurez|empêch%[m|é]|
+|ils|auront|empêch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|empêch%[m|erais]|
+|tu|empêch%[m|erais]|
+|il|empêch%[m|erait]|
+|nous|empêch%[m|erions]|
+|vous|empêch%[m|eriez]|
+|ils|empêch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|empêch%[m|é]|
+|tu|aurais|empêch%[m|é]|
+|il|aurait|empêch%[m|é]|
+|nous|aurions|empêch%[m|é]|
+|vous|auriez|empêch%[m|é]|
+|ils|auraient|empêch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|empêch%[m|e]|
+|que|tu|empêch%[m|es]|
+|qu'|il|empêch%[m|e]|
+|que|nous|empêch%[m|ions]|
+|que|vous|empêch%[m|iez]|
+|qu'|ils|empêch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|empêch%[m|é]|
+|que|tu|aies|empêch%[m|é]|
+|qu'|il|ait|empêch%[m|é]|
+|que|nous|ayons|empêch%[m|é]|
+|que|vous|ayez|empêch%[m|é]|
+|qu'|ils|aient|empêch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|empêch%[m|asse]|
+|que|tu|empêch%[m|asses]|
+|qu'|il|empêch%[m|ât]|
+|que|nous|empêch%[m|assions]|
+|que|vous|empêch%[m|assiez]|
+|qu'|ils|empêch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|empêch%[m|é]|
+|que|tu|eusses|empêch%[m|é]|
+|qu'|il|eût|empêch%[m|é]|
+|que|nous|eussions|empêch%[m|é]|
+|que|vous|eussiez|empêch%[m|é]|
+|qu'|ils|eussent|empêch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|empêch%[m|e]|
+|empêch%[m|ons]|
+|empêch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|empêch%[m|é]|
+|ayons|empêch%[m|é]|
+|ayez|empêch%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se meubler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se meubl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|meubl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se meubl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|meubl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se meubl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|meubl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|meubl%[m|e]|
+|tu|te|meubl%[m|es]|
+|il|se|meubl%[m|e]|
+|nous|nous|meubl%[m|ons]|
+|vous|vous|meubl%[m|ez]|
+|ils|se|meubl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|meubl%[m|é]|
+|tu|t'|es|meubl%[m|é]|
+|il|s'|est|meubl%[m|é]|
+|nous|nous|sommes|meubl%[m|és]|
+|vous|vous|êtes|meubl%[m|és]|
+|ils|se|sont|meubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|meubl%[m|ais]|
+|tu|te|meubl%[m|ais]|
+|il|se|meubl%[m|ait]|
+|nous|nous|meubl%[m|ions]|
+|vous|vous|meubl%[m|iez]|
+|ils|se|meubl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|meubl%[m|é]|
+|tu|t'|étais|meubl%[m|é]|
+|il|s'|était|meubl%[m|é]|
+|nous|nous|étions|meubl%[m|és]|
+|vous|vous|étiez|meubl%[m|és]|
+|ils|s'|étaient|meubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|meubl%[m|ai]|
+|tu|te|meubl%[m|as]|
+|il|se|meubl%[m|a]|
+|nous|nous|meubl%[m|âmes]|
+|vous|vous|meubl%[m|âtes]|
+|ils|se|meubl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|meubl%[m|é]|
+|tu|te|fus|meubl%[m|é]|
+|il|se|fut|meubl%[m|é]|
+|nous|nous|fûmes|meubl%[m|és]|
+|vous|vous|fûtes|meubl%[m|és]|
+|ils|se|furent|meubl%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|meubl%[m|erai]|
+|tu|te|meubl%[m|eras]|
+|il|se|meubl%[m|era]|
+|nous|nous|meubl%[m|erons]|
+|vous|vous|meubl%[m|erez]|
+|ils|se|meubl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|meubl%[m|é]|
+|tu|te|seras|meubl%[m|é]|
+|il|se|sera|meubl%[m|é]|
+|nous|nous|serons|meubl%[m|és]|
+|vous|vous|serez|meubl%[m|és]|
+|ils|se|seront|meubl%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|meubl%[m|erais]|
+|tu|te|meubl%[m|erais]|
+|il|se|meubl%[m|erait]|
+|nous|nous|meubl%[m|erions]|
+|vous|vous|meubl%[m|eriez]|
+|ils|se|meubl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|meubl%[m|é]|
+|tu|te|serais|meubl%[m|é]|
+|il|se|serait|meubl%[m|é]|
+|nous|nous|serions|meubl%[m|és]|
+|vous|vous|seriez|meubl%[m|és]|
+|ils|se|seraient|meubl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|meubl%[m|e]|
+|que|tu|te|meubl%[m|es]|
+|qu'|il|se|meubl%[m|e]|
+|que|nous|nous|meubl%[m|ions]|
+|que|vous|vous|meubl%[m|iez]|
+|qu'|ils|se|meubl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|meubl%[m|é]|
+|que|tu|te|sois|meubl%[m|é]|
+|qu'|il|se|soit|meubl%[m|é]|
+|que|nous|nous|soyons|meubl%[m|és]|
+|que|vous|vous|soyez|meubl%[m|és]|
+|qu'|ils|se|soient|meubl%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|meubl%[m|asse]|
+|que|tu|te|meubl%[m|asses]|
+|qu'|il|se|meubl%[m|ât]|
+|que|nous|nous|meubl%[m|assions]|
+|que|vous|vous|meubl%[m|assiez]|
+|qu'|ils|se|meubl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|meubl%[m|é]|
+|que|tu|te|fusses|meubl%[m|é]|
+|qu'|il|se|fût|meubl%[m|é]|
+|que|nous|nous|fussions|meubl%[m|és]|
+|que|vous|vous|fussiez|meubl%[m|és]|
+|qu'|ils|se|fussent|meubl%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|meubl%[m|e]-toi|
+|meubl%[m|ons]-nous|
+|meubl%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

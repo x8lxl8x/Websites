@@ -1,0 +1,190 @@
+# renarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|renard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|renard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|renard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||renard%[m|é]|
+|ayant|renard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en renard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|renard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|renard%[m|e]|
+|tu|renard%[m|es]|
+|il|renard%[m|e]|
+|nous|renard%[m|ons]|
+|vous|renard%[m|ez]|
+|ils|renard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|renard%[m|é]|
+|tu|as |renard%[m|é]|
+|il|a|renard%[m|é]|
+|nous|avons|renard%[m|é]|
+|vous|avez|renard%[m|é]|
+|ils|ont|renard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|renard%[m|ais]|
+|tu|renard%[m|ais]|
+|il|renard%[m|ait]|
+|nous|renard%[m|ions]|
+|vous|renard%[m|iez]|
+|ils|renard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|renard%[m|é]|
+|tu|avais|renard%[m|é]|
+|il|avait|renard%[m|é]|
+|nous|avions|renard%[m|é]|
+|vous|aviez|renard%[m|é]|
+|ils|avaient|renard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|renard%[m|ai]|
+|tu|renard%[m|as]|
+|il|renard%[m|a]|
+|nous|renard%[m|âmes]|
+|vous|renard%[m|âtes]|
+|ils|renard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|renard%[m|é]|
+|tu|eus|renard%[m|é]|
+|il|eut|renard%[m|é]|
+|nous|e&ucirc;mes|renard%[m|é]|
+|vous|e&ucirc;tes|renard%[m|é]|
+|ils|eurent|renard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|renard%[m|erai]|
+|tu|renard%[m|eras]|
+|il|renard%[m|era]|
+|nous|renard%[m|erons]|
+|vous|renard%[m|erez]|
+|ils|renard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|renard%[m|é]|
+|tu|auras|renard%[m|é]|
+|il|aura|renard%[m|é]|
+|nous|aurons|renard%[m|é]|
+|vous|aurez|renard%[m|é]|
+|ils|auront|renard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|renard%[m|erais]|
+|tu|renard%[m|erais]|
+|il|renard%[m|erait]|
+|nous|renard%[m|erions]|
+|vous|renard%[m|eriez]|
+|ils|renard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|renard%[m|é]|
+|tu|aurais|renard%[m|é]|
+|il|aurait|renard%[m|é]|
+|nous|aurions|renard%[m|é]|
+|vous|auriez|renard%[m|é]|
+|ils|auraient|renard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|renard%[m|e]|
+|que|tu|renard%[m|es]|
+|qu'|il|renard%[m|e]|
+|que|nous|renard%[m|ions]|
+|que|vous|renard%[m|iez]|
+|qu'|ils|renard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|renard%[m|é]|
+|que|tu|aies|renard%[m|é]|
+|qu'|il|ait|renard%[m|é]|
+|que|nous|ayons|renard%[m|é]|
+|que|vous|ayez|renard%[m|é]|
+|qu'|ils|aient|renard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|renard%[m|asse]|
+|que|tu|renard%[m|asses]|
+|qu'|il|renard%[m|ât]|
+|que|nous|renard%[m|assions]|
+|que|vous|renard%[m|assiez]|
+|qu'|ils|renard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|renard%[m|é]|
+|que|tu|eusses|renard%[m|é]|
+|qu'|il|eût|renard%[m|é]|
+|que|nous|eussions|renard%[m|é]|
+|que|vous|eussiez|renard%[m|é]|
+|qu'|ils|eussent|renard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|renard%[m|e]|
+|renard%[m|ons]|
+|renard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|renard%[m|é]|
+|ayons|renard%[m|é]|
+|ayez|renard%[m|é]|
+|]
+

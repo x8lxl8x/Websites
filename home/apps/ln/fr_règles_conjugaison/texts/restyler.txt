@@ -1,0 +1,190 @@
+# restyler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|restyl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|restyl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|restyl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||restyl%[m|é]|
+|ayant|restyl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en restyl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|restyl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|restyl%[m|e]|
+|tu|restyl%[m|es]|
+|il|restyl%[m|e]|
+|nous|restyl%[m|ons]|
+|vous|restyl%[m|ez]|
+|ils|restyl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|restyl%[m|é]|
+|tu|as |restyl%[m|é]|
+|il|a|restyl%[m|é]|
+|nous|avons|restyl%[m|é]|
+|vous|avez|restyl%[m|é]|
+|ils|ont|restyl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|restyl%[m|ais]|
+|tu|restyl%[m|ais]|
+|il|restyl%[m|ait]|
+|nous|restyl%[m|ions]|
+|vous|restyl%[m|iez]|
+|ils|restyl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|restyl%[m|é]|
+|tu|avais|restyl%[m|é]|
+|il|avait|restyl%[m|é]|
+|nous|avions|restyl%[m|é]|
+|vous|aviez|restyl%[m|é]|
+|ils|avaient|restyl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|restyl%[m|ai]|
+|tu|restyl%[m|as]|
+|il|restyl%[m|a]|
+|nous|restyl%[m|âmes]|
+|vous|restyl%[m|âtes]|
+|ils|restyl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|restyl%[m|é]|
+|tu|eus|restyl%[m|é]|
+|il|eut|restyl%[m|é]|
+|nous|e&ucirc;mes|restyl%[m|é]|
+|vous|e&ucirc;tes|restyl%[m|é]|
+|ils|eurent|restyl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|restyl%[m|erai]|
+|tu|restyl%[m|eras]|
+|il|restyl%[m|era]|
+|nous|restyl%[m|erons]|
+|vous|restyl%[m|erez]|
+|ils|restyl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|restyl%[m|é]|
+|tu|auras|restyl%[m|é]|
+|il|aura|restyl%[m|é]|
+|nous|aurons|restyl%[m|é]|
+|vous|aurez|restyl%[m|é]|
+|ils|auront|restyl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|restyl%[m|erais]|
+|tu|restyl%[m|erais]|
+|il|restyl%[m|erait]|
+|nous|restyl%[m|erions]|
+|vous|restyl%[m|eriez]|
+|ils|restyl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|restyl%[m|é]|
+|tu|aurais|restyl%[m|é]|
+|il|aurait|restyl%[m|é]|
+|nous|aurions|restyl%[m|é]|
+|vous|auriez|restyl%[m|é]|
+|ils|auraient|restyl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|restyl%[m|e]|
+|que|tu|restyl%[m|es]|
+|qu'|il|restyl%[m|e]|
+|que|nous|restyl%[m|ions]|
+|que|vous|restyl%[m|iez]|
+|qu'|ils|restyl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|restyl%[m|é]|
+|que|tu|aies|restyl%[m|é]|
+|qu'|il|ait|restyl%[m|é]|
+|que|nous|ayons|restyl%[m|é]|
+|que|vous|ayez|restyl%[m|é]|
+|qu'|ils|aient|restyl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|restyl%[m|asse]|
+|que|tu|restyl%[m|asses]|
+|qu'|il|restyl%[m|ât]|
+|que|nous|restyl%[m|assions]|
+|que|vous|restyl%[m|assiez]|
+|qu'|ils|restyl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|restyl%[m|é]|
+|que|tu|eusses|restyl%[m|é]|
+|qu'|il|eût|restyl%[m|é]|
+|que|nous|eussions|restyl%[m|é]|
+|que|vous|eussiez|restyl%[m|é]|
+|qu'|ils|eussent|restyl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|restyl%[m|e]|
+|restyl%[m|ons]|
+|restyl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|restyl%[m|é]|
+|ayons|restyl%[m|é]|
+|ayez|restyl%[m|é]|
+|]
+

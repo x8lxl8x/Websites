@@ -1,0 +1,190 @@
+# postdater %[clVerbGroup|1]
+[-
+dater d'une date postérieure à la date réelle. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|postdat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|postdat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|postdat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||postdat%[m|é]|
+|ayant|postdat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en postdat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|postdat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|postdat%[m|e]|
+|tu|postdat%[m|es]|
+|il|postdat%[m|e]|
+|nous|postdat%[m|ons]|
+|vous|postdat%[m|ez]|
+|ils|postdat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|postdat%[m|é]|
+|tu|as |postdat%[m|é]|
+|il|a|postdat%[m|é]|
+|nous|avons|postdat%[m|é]|
+|vous|avez|postdat%[m|é]|
+|ils|ont|postdat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|postdat%[m|ais]|
+|tu|postdat%[m|ais]|
+|il|postdat%[m|ait]|
+|nous|postdat%[m|ions]|
+|vous|postdat%[m|iez]|
+|ils|postdat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|postdat%[m|é]|
+|tu|avais|postdat%[m|é]|
+|il|avait|postdat%[m|é]|
+|nous|avions|postdat%[m|é]|
+|vous|aviez|postdat%[m|é]|
+|ils|avaient|postdat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|postdat%[m|ai]|
+|tu|postdat%[m|as]|
+|il|postdat%[m|a]|
+|nous|postdat%[m|âmes]|
+|vous|postdat%[m|âtes]|
+|ils|postdat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|postdat%[m|é]|
+|tu|eus|postdat%[m|é]|
+|il|eut|postdat%[m|é]|
+|nous|e&ucirc;mes|postdat%[m|é]|
+|vous|e&ucirc;tes|postdat%[m|é]|
+|ils|eurent|postdat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|postdat%[m|erai]|
+|tu|postdat%[m|eras]|
+|il|postdat%[m|era]|
+|nous|postdat%[m|erons]|
+|vous|postdat%[m|erez]|
+|ils|postdat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|postdat%[m|é]|
+|tu|auras|postdat%[m|é]|
+|il|aura|postdat%[m|é]|
+|nous|aurons|postdat%[m|é]|
+|vous|aurez|postdat%[m|é]|
+|ils|auront|postdat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|postdat%[m|erais]|
+|tu|postdat%[m|erais]|
+|il|postdat%[m|erait]|
+|nous|postdat%[m|erions]|
+|vous|postdat%[m|eriez]|
+|ils|postdat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|postdat%[m|é]|
+|tu|aurais|postdat%[m|é]|
+|il|aurait|postdat%[m|é]|
+|nous|aurions|postdat%[m|é]|
+|vous|auriez|postdat%[m|é]|
+|ils|auraient|postdat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|postdat%[m|e]|
+|que|tu|postdat%[m|es]|
+|qu'|il|postdat%[m|e]|
+|que|nous|postdat%[m|ions]|
+|que|vous|postdat%[m|iez]|
+|qu'|ils|postdat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|postdat%[m|é]|
+|que|tu|aies|postdat%[m|é]|
+|qu'|il|ait|postdat%[m|é]|
+|que|nous|ayons|postdat%[m|é]|
+|que|vous|ayez|postdat%[m|é]|
+|qu'|ils|aient|postdat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|postdat%[m|asse]|
+|que|tu|postdat%[m|asses]|
+|qu'|il|postdat%[m|ât]|
+|que|nous|postdat%[m|assions]|
+|que|vous|postdat%[m|assiez]|
+|qu'|ils|postdat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|postdat%[m|é]|
+|que|tu|eusses|postdat%[m|é]|
+|qu'|il|eût|postdat%[m|é]|
+|que|nous|eussions|postdat%[m|é]|
+|que|vous|eussiez|postdat%[m|é]|
+|qu'|ils|eussent|postdat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|postdat%[m|e]|
+|postdat%[m|ons]|
+|postdat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|postdat%[m|é]|
+|ayons|postdat%[m|é]|
+|ayez|postdat%[m|é]|
+|]
+

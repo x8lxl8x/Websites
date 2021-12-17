@@ -1,0 +1,190 @@
+# se saisir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se sais%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|sais%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se sais%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|sais%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se sais%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|sais%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|sais%[m|is]|
+|tu|te|sais%[m|is]|
+|il|se|sais%[m|it]|
+|nous|nous|sais%[m|issons]|
+|vous|vous|sais%[m|issez]|
+|ils|se|sais%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|sais%[m|i]|
+|tu|t'|es|sais%[m|i]|
+|il|s'|est|sais%[m|i]|
+|nous|nous|sommes|sais%[m|is]|
+|vous|vous|êtes|sais%[m|is]|
+|ils|se|sont|sais%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|sais%[m|issais]|
+|tu|te|sais%[m|issais]|
+|il|se|sais%[m|issait]|
+|nous|nous|sais%[m|issions]|
+|vous|vous|sais%[m|issiez]|
+|ils|se|sais%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|sais%[m|i]|
+|tu|t'|étais|sais%[m|i]|
+|il|s'|était|sais%[m|i]|
+|nous|nous|étions|sais%[m|is]|
+|vous|vous|étiez|sais%[m|is]|
+|ils|s'|étaient|sais%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|sais%[m|is]|
+|tu|te|sais%[m|is]|
+|il|se|sais%[m|it]|
+|nous|nous|sais%[m|îmes]|
+|vous|vous|sais%[m|îtes]|
+|ils|se|sais%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|sais%[m|i]|
+|tu|te|fus|sais%[m|i]|
+|il|se|fut|sais%[m|i]|
+|nous|nous|fûmes|sais%[m|is]|
+|vous|vous|fûtes|sais%[m|is]|
+|ils|se|furent|sais%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|sais%[m|irai]|
+|tu|te|sais%[m|iras]|
+|il|se|sais%[m|ira]|
+|nous|nous|sais%[m|irons]|
+|vous|vous|sais%[m|irez]|
+|ils|se|sais%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|sais%[m|i]|
+|tu|te|seras|sais%[m|i]|
+|il|se|sera|sais%[m|i]|
+|nous|nous|serons|sais%[m|is]|
+|vous|vous|serez|sais%[m|is]|
+|ils|se|seront|sais%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|sais%[m|irais]|
+|tu|te|sais%[m|irais]|
+|il|se|sais%[m|irait]|
+|nous|nous|sais%[m|irions]|
+|vous|vous|sais%[m|iriez]|
+|ils|se|sais%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|sais%[m|i]|
+|tu|te|serais|sais%[m|i]|
+|il|se|serait|sais%[m|i]|
+|nous|nous|serions|sais%[m|is]|
+|vous|vous|seriez|sais%[m|is]|
+|ils|se|seraient|sais%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|sais%[m|isse]|
+|que|tu|te|sais%[m|isses]|
+|qu'|il|se|sais%[m|isse]|
+|que|nous|nous|sais%[m|issions]|
+|que|vous|vous|sais%[m|issiez]|
+|qu'|ils|se|sais%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|sais%[m|i]|
+|que|tu|te|sois|sais%[m|i]|
+|qu'|il|se|soit|sais%[m|i]|
+|que|nous|nous|soyons|sais%[m|is]|
+|que|vous|vous|soyez|sais%[m|is]|
+|qu'|ils|se|soient|sais%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|sais%[m|isse]|
+|que|tu|te|sais%[m|isses]|
+|qu'|il|se|sais%[m|ît]|
+|que|nous|nous|sais%[m|issions]|
+|que|vous|vous|sais%[m|issiez]|
+|qu'|ils|se|sais%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|sais%[m|i]|
+|que|tu|te|fusses|sais%[m|i]|
+|qu'|il|se|fût|sais%[m|i]|
+|que|nous|nous|fussions|sais%[m|is]|
+|que|vous|vous|fussiez|sais%[m|is]|
+|qu'|ils|se|fussent|sais%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sais%[m|is]-toi|
+|sais%[m|issons]-nous|
+|sais%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

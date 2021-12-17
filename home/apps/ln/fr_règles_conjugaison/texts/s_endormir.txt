@@ -1,0 +1,194 @@
+# s'endormir %[clVerbGroup|3]
+[-
+faire dormir, plonger dans le sommeil. 
+ennuyer au point de faire dormir. 
+atténuer. 
+commencer à dormir. 
+relâcher son activité, sa vigilance. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'endor%[m|mir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|endor%[m|mi]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'endor%[m|mant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|endor%[m|mi]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'endor%[m|mant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|endor%[m|mi]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|endor%[m|s]|
+|tu|t'|endor%[m|s]|
+|il|s'|endor%[m|t]|
+|nous|nous|endor%[m|mons]|
+|vous|vous|endor%[m|mez]|
+|ils|s'|endor%[m|ment]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|endor%[m|mi]|
+|tu|t'|es|endor%[m|mi]|
+|il|s'|est|endor%[m|mi]|
+|nous|nous|sommes|endor%[m|mis]|
+|vous|vous|êtes|endor%[m|mis]|
+|ils|se|sont|endor%[m|mis]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|endor%[m|mais]|
+|tu|t'|endor%[m|mais]|
+|il|s'|endor%[m|mait]|
+|nous|nous|endor%[m|mions]|
+|vous|vous|endor%[m|miez]|
+|ils|s'|endor%[m|maient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|endor%[m|mi]|
+|tu|t'|étais|endor%[m|mi]|
+|il|s'|était|endor%[m|mi]|
+|nous|nous|étions|endor%[m|mis]|
+|vous|vous|étiez|endor%[m|mis]|
+|ils|s'|étaient|endor%[m|mis]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|endor%[m|mis]|
+|tu|t'|endor%[m|mis]|
+|il|s'|endor%[m|mit]|
+|nous|nous|endor%[m|mîmes]|
+|vous|vous|endor%[m|mîtes]|
+|ils|s'|endor%[m|mirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|endor%[m|mi]|
+|tu|te|fus|endor%[m|mi]|
+|il|se|fut|endor%[m|mi]|
+|nous|nous|fûmes|endor%[m|mis]|
+|vous|vous|fûtes|endor%[m|mis]|
+|ils|se|furent|endor%[m|mis]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|endor%[m|mirai]|
+|tu|t'|endor%[m|miras]|
+|il|s'|endor%[m|mira]|
+|nous|nous|endor%[m|mirons]|
+|vous|vous|endor%[m|mirez]|
+|ils|s'|endor%[m|miront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|endor%[m|mi]|
+|tu|te|seras|endor%[m|mi]|
+|il|se|sera|endor%[m|mi]|
+|nous|nous|serons|endor%[m|mis]|
+|vous|vous|serez|endor%[m|mis]|
+|ils|se|seront|endor%[m|mis]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|endor%[m|mirais]|
+|tu|t'|endor%[m|mirais]|
+|il|s'|endor%[m|mirait]|
+|nous|nous|endor%[m|mirions]|
+|vous|vous|endor%[m|miriez]|
+|ils|s'|endor%[m|miraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|endor%[m|mi]|
+|tu|te|serais|endor%[m|mi]|
+|il|se|serait|endor%[m|mi]|
+|nous|nous|serions|endor%[m|mis]|
+|vous|vous|seriez|endor%[m|mis]|
+|ils|se|seraient|endor%[m|mis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|endor%[m|me]|
+|que|tu|t'|endor%[m|mes]|
+|qu'|il|s'|endor%[m|me]|
+|que|nous|nous|endor%[m|mions]|
+|que|vous|vous|endor%[m|miez]|
+|qu'|ils|s'|endor%[m|ment]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|endor%[m|mi]|
+|que|tu|te|sois|endor%[m|mi]|
+|qu'|il|se|soit|endor%[m|mi]|
+|que|nous|nous|soyons|endor%[m|mis]|
+|que|vous|vous|soyez|endor%[m|mis]|
+|qu'|ils|se|soient|endor%[m|mis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|endor%[m|misse]|
+|que|tu|t'|endor%[m|misses]|
+|qu'|il|s'|endor%[m|mît]|
+|que|nous|nous|endor%[m|missions]|
+|que|vous|vous|endor%[m|missiez]|
+|qu'|ils|s'|endor%[m|missent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|endor%[m|mi]|
+|que|tu|te|fusses|endor%[m|mi]|
+|qu'|il|se|fût|endor%[m|mi]|
+|que|nous|nous|fussions|endor%[m|mis]|
+|que|vous|vous|fussiez|endor%[m|mis]|
+|qu'|ils|se|fussent|endor%[m|mis]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|endor%[m|s]-toi|
+|endor%[m|mons]-nous|
+|endor%[m|mez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

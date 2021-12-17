@@ -1,0 +1,190 @@
+# distendre %[clVerbGroup|3]
+[-
+augmenter la dimension de quelque chose par une tension. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|distend%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|distend%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|distend%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||distend%[m|u]|
+|ayant|distend%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en distend%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|distend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|distend%[m|s]|
+|tu|distend%[m|s]|
+|il|distend%[m|]|
+|nous|distend%[m|ons]|
+|vous|distend%[m|ez]|
+|ils|distend%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|distend%[m|u]|
+|tu|as |distend%[m|u]|
+|il|a|distend%[m|u]|
+|nous|avons|distend%[m|u]|
+|vous|avez|distend%[m|u]|
+|ils|ont|distend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|distend%[m|ais]|
+|tu|distend%[m|ais]|
+|il|distend%[m|ait]|
+|nous|distend%[m|ions]|
+|vous|distend%[m|iez]|
+|ils|distend%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|distend%[m|u]|
+|tu|avais|distend%[m|u]|
+|il|avait|distend%[m|u]|
+|nous|avions|distend%[m|u]|
+|vous|aviez|distend%[m|u]|
+|ils|avaient|distend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|distend%[m|is]|
+|tu|distend%[m|is]|
+|il|distend%[m|it]|
+|nous|distend%[m|îmes]|
+|vous|distend%[m|îtes]|
+|ils|distend%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|distend%[m|u]|
+|tu|eus|distend%[m|u]|
+|il|eut|distend%[m|u]|
+|nous|e&ucirc;mes|distend%[m|u]|
+|vous|e&ucirc;tes|distend%[m|u]|
+|ils|eurent|distend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|distend%[m|rai]|
+|tu|distend%[m|ras]|
+|il|distend%[m|ra]|
+|nous|distend%[m|rons]|
+|vous|distend%[m|rez]|
+|ils|distend%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|distend%[m|u]|
+|tu|auras|distend%[m|u]|
+|il|aura|distend%[m|u]|
+|nous|aurons|distend%[m|u]|
+|vous|aurez|distend%[m|u]|
+|ils|auront|distend%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|distend%[m|rais]|
+|tu|distend%[m|rais]|
+|il|distend%[m|rait]|
+|nous|distend%[m|rions]|
+|vous|distend%[m|riez]|
+|ils|distend%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|distend%[m|u]|
+|tu|aurais|distend%[m|u]|
+|il|aurait|distend%[m|u]|
+|nous|aurions|distend%[m|u]|
+|vous|auriez|distend%[m|u]|
+|ils|auraient|distend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|distend%[m|e]|
+|que|tu|distend%[m|es]|
+|qu'|il|distend%[m|e]|
+|que|nous|distend%[m|ions]|
+|que|vous|distend%[m|iez]|
+|qu'|ils|distend%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|distend%[m|u]|
+|que|tu|aies|distend%[m|u]|
+|qu'|il|ait|distend%[m|u]|
+|que|nous|ayons|distend%[m|u]|
+|que|vous|ayez|distend%[m|u]|
+|qu'|ils|aient|distend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|distend%[m|isse]|
+|que|tu|distend%[m|isses]|
+|qu'|il|distend%[m|ît]|
+|que|nous|distend%[m|issions]|
+|que|vous|distend%[m|issiez]|
+|qu'|ils|distend%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|distend%[m|u]|
+|que|tu|eusses|distend%[m|u]|
+|qu'|il|eût|distend%[m|u]|
+|que|nous|eussions|distend%[m|u]|
+|que|vous|eussiez|distend%[m|u]|
+|qu'|ils|eussent|distend%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|distend%[m|s]|
+|distend%[m|ons]|
+|distend%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|distend%[m|u]|
+|ayons|distend%[m|u]|
+|ayez|distend%[m|u]|
+|]
+

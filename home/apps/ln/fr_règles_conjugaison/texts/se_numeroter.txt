@@ -1,0 +1,190 @@
+# se numéroter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se numérot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|numérot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se numérot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|numérot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se numérot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|numérot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|numérot%[m|e]|
+|tu|te|numérot%[m|es]|
+|il|se|numérot%[m|e]|
+|nous|nous|numérot%[m|ons]|
+|vous|vous|numérot%[m|ez]|
+|ils|se|numérot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|numérot%[m|é]|
+|tu|t'|es|numérot%[m|é]|
+|il|s'|est|numérot%[m|é]|
+|nous|nous|sommes|numérot%[m|és]|
+|vous|vous|êtes|numérot%[m|és]|
+|ils|se|sont|numérot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|numérot%[m|ais]|
+|tu|te|numérot%[m|ais]|
+|il|se|numérot%[m|ait]|
+|nous|nous|numérot%[m|ions]|
+|vous|vous|numérot%[m|iez]|
+|ils|se|numérot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|numérot%[m|é]|
+|tu|t'|étais|numérot%[m|é]|
+|il|s'|était|numérot%[m|é]|
+|nous|nous|étions|numérot%[m|és]|
+|vous|vous|étiez|numérot%[m|és]|
+|ils|s'|étaient|numérot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|numérot%[m|ai]|
+|tu|te|numérot%[m|as]|
+|il|se|numérot%[m|a]|
+|nous|nous|numérot%[m|âmes]|
+|vous|vous|numérot%[m|âtes]|
+|ils|se|numérot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|numérot%[m|é]|
+|tu|te|fus|numérot%[m|é]|
+|il|se|fut|numérot%[m|é]|
+|nous|nous|fûmes|numérot%[m|és]|
+|vous|vous|fûtes|numérot%[m|és]|
+|ils|se|furent|numérot%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|numérot%[m|erai]|
+|tu|te|numérot%[m|eras]|
+|il|se|numérot%[m|era]|
+|nous|nous|numérot%[m|erons]|
+|vous|vous|numérot%[m|erez]|
+|ils|se|numérot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|numérot%[m|é]|
+|tu|te|seras|numérot%[m|é]|
+|il|se|sera|numérot%[m|é]|
+|nous|nous|serons|numérot%[m|és]|
+|vous|vous|serez|numérot%[m|és]|
+|ils|se|seront|numérot%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|numérot%[m|erais]|
+|tu|te|numérot%[m|erais]|
+|il|se|numérot%[m|erait]|
+|nous|nous|numérot%[m|erions]|
+|vous|vous|numérot%[m|eriez]|
+|ils|se|numérot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|numérot%[m|é]|
+|tu|te|serais|numérot%[m|é]|
+|il|se|serait|numérot%[m|é]|
+|nous|nous|serions|numérot%[m|és]|
+|vous|vous|seriez|numérot%[m|és]|
+|ils|se|seraient|numérot%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|numérot%[m|e]|
+|que|tu|te|numérot%[m|es]|
+|qu'|il|se|numérot%[m|e]|
+|que|nous|nous|numérot%[m|ions]|
+|que|vous|vous|numérot%[m|iez]|
+|qu'|ils|se|numérot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|numérot%[m|é]|
+|que|tu|te|sois|numérot%[m|é]|
+|qu'|il|se|soit|numérot%[m|é]|
+|que|nous|nous|soyons|numérot%[m|és]|
+|que|vous|vous|soyez|numérot%[m|és]|
+|qu'|ils|se|soient|numérot%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|numérot%[m|asse]|
+|que|tu|te|numérot%[m|asses]|
+|qu'|il|se|numérot%[m|ât]|
+|que|nous|nous|numérot%[m|assions]|
+|que|vous|vous|numérot%[m|assiez]|
+|qu'|ils|se|numérot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|numérot%[m|é]|
+|que|tu|te|fusses|numérot%[m|é]|
+|qu'|il|se|fût|numérot%[m|é]|
+|que|nous|nous|fussions|numérot%[m|és]|
+|que|vous|vous|fussiez|numérot%[m|és]|
+|qu'|ils|se|fussent|numérot%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|numérot%[m|e]-toi|
+|numérot%[m|ons]-nous|
+|numérot%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

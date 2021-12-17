@@ -1,0 +1,363 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./16.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./18.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Time Value &amp; Intrinsic Value</h1>
+
+<p>An option's premium, the amount you pay, can be
+broken down into two component parts: <i>time value</i>
+and <i>intrinsic value</i>.&nbsp; It is important to know how
+to break an option's price into these two components as
+well as understand the interpretation if you want to
+become better at trading options.</p>
+<h2>In-the-money versus out-of-the-money</h2>
+<p>Before you can break an option's premium into time
+and intrinsic values, you need to understand the terms
+in-the-money and out-of-the-money, also called the <i>
+moneyness</i> of an option.&nbsp; </p>
+<p>An option is in-the-money if the stock price is
+higher than the strike for calls and lower than the
+strike for puts.&nbsp; If a stock is trading for $100, a $90
+call is in-the-money and a $90 put is out-of-the-money.&nbsp;
+The following chart may help:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table4'>
+<tr>
+<td v>&nbsp;</td>
+<td v>
+<p align='center'><b>Calls</b></td>
+<td v>
+<p align='center'><b>Puts</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Stock price ABOVE strike</b></td>
+<td v>
+<p align='center'>In-the-money</td>
+<td v>
+<p align='center'>Out-of-the-money</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Stock price BELOW strike</b></td>
+<td v>
+<p align='center'>Out-of-the-money</td>
+<td v>
+<p align='center'>In-the-money</td>
+</tr>
+</table>
+<p>An option that is exactly at the strike price is said
+to be <i>at-the-money</i>.&nbsp; Now, it's rare to find a
+stock trading exactly at the strike price, so it is
+customary to call the nearest strike (whether in or
+out-of-the-money) the at-the-money strike.&nbsp; For example,
+if a stock were trading at $99-1/2, most traders would
+consider the $100 strike at-the-money even though the
+strike is slightly out-of-the-money.&nbsp; Likewise, if the
+stock were slightly higher, say $100-1/4, most would
+call the $100 strike at-the-money even though it is
+slightly in-the-money.</p>
+<h2>Intrinsic value</h2>
+<p>If an option is in-the-money, it is said to have <i>
+intrinsic value</i>.&nbsp; This is the value of the option if
+you were to immediately exercise -- the difference
+between the stock price and the strike.&nbsp; For example, if
+the stock is trading for $101 and you hold the $100
+call, you could realize a $1 point gain by exercising
+the call option; you would receive stock worth $101, but
+pay only $100*.</p>
+<p>*<i>Generally a trader should never exercise a call
+option early.&nbsp; Please see our section on &quot;Early
+Exercise&quot; for more information.&nbsp; The value you could
+gain by exercising early is purely a definition of
+intrinsic value.</i></p>
+<p>Another way to view intrinsic value is to calculate
+the value of the option if it were to expire
+immediately.&nbsp; Using the above example, if the $100 call
+option expired, it would be worth $1, the same value as
+if you exercised early.&nbsp; Why will it be worth $1?&nbsp; If it
+is trading for less than that, say $1/2, arbitrageurs
+will correct for it by buying the option for $1/2 and
+selling the stock for $101, for a net credit of
+$100-1/2. &nbsp;By immediately exercising, they can cover the
+short position by paying only $100, the strike, for an
+arbitrage profit of $1/2.&nbsp; This would continue until the
+option is priced at a minimum of $1 (please see our
+section under &quot;Basic Option Pricing&quot; in week five).</p>
+<p>For puts, the idea of intrinsic value is the same but
+in the other direction.&nbsp; If the stock were trading for
+$99, the $100 put would have an intrinsic value of $1.&nbsp;
+The holder of the put could exercise and sell stock
+worth $99 but receive $100 -- a $1 gain.&nbsp; </p>
+<p>Also, if the put option expired immediately, it would
+be worth $1.&nbsp; If it is worth less than this, say $1/2,
+arbitrageurs will buy the put for $1/2 and buy the stock
+for $99, for a total purchase price of $99-1/2.&nbsp; Then
+they would immediately exercise it, sell the stock for
+$100, and capture a $1/2 arbitrage profit.&nbsp; This would
+continue until the option is priced at a minimum of $1.</p>
+<p>Probably the easiest way to understand intrinsic
+value is to think of it as the number of points the
+stock is in your favor in relation to the strike price.&nbsp;
+For example, if you are long a call, you are bullish and
+want the stock to go up.&nbsp; If you have the $100 strike
+call with the stock at $103, then your option is 3
+points in-the-money; the stock is trading $3 points to
+the bullish side (above) of your option.&nbsp; If you are
+long the $105 put, you are bearish and want the stock to
+fall.&nbsp; With the stock at $103, the stock is two points
+to the bearish side (below) of your strike.</p>
+<h2>Time value</h2>
+<p>Time value (or time premium) is easy to calculate.&nbsp;
+It's what is left over after accounting for intrinsic
+value.&nbsp; Assume a $100 call is trading for a premium of
+$3.&nbsp; If the stock is trading for $101 then the $100 call
+has intrinsic value of $1; the remaining $2 is called
+time premium.&nbsp; The following formula may help:</p>
+<h2>Premium - intrinsic value = time value </h2>
+<p>What if the stock were trading at $100?&nbsp; Now, the
+$100 call is at-the-money and has no intrinsic value.&nbsp;
+With the option trading for $3, the entire premium is
+all time premium. &nbsp;This would be true for any stock
+price at or below $100; the option would be comprised
+entirely of time premium.</p>
+<p>For puts, let's assume the stock is $98 and you are
+holding the $100 put, which is trading for $5.&nbsp; The
+option has $2 intrinsic value and therefore has $3 time
+value.</p>
+<p><b>Examples:</b></p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table5'>
+<tr>
+<td v>
+<p align='center'><b>Call option premium</b></td>
+<td v>
+<p align='center'><b>Stock </b></td>
+<td v>
+<p align='center'><b>Intrinsic Value</b></td>
+<td v>
+<p align='center'><b>Time value</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$50 call = $3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+<td v>
+<p align='center'>$52</td>
+<td v>
+<p align='center'>$2</td>
+<td v>
+<p align='center'>$1</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$100 call = $7</td>
+<td v>
+<p align='center'>$105</td>
+<td v>
+<p align='center'>$5</td>
+<td v>
+<p align='center'>$2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$80 call = $5 1/2</td>
+<td v>
+<p align='center'>$79</td>
+<td v>
+<p align='center'>$0</td>
+<td v>
+<p align='center'>$5 1/2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$75 call = $4 3/4</td>
+<td v>
+<p align='center'>$77</td>
+<td v>
+<p align='center'>$2</td>
+<td v>
+<p align='center'>$2 3/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'><b>Put option premium</b></td>
+<td v>&nbsp;</td>
+<td v>&nbsp;</td>
+<td v>&nbsp;</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$100 put = $5</td>
+<td v>
+<p align='center'>$97</td>
+<td v>
+<p align='center'>$3</td>
+<td v>
+<p align='center'>$2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$75 put = $2 3/4</td>
+<td v>
+<p align='center'>$77</td>
+<td v>
+<p align='center'>$0</td>
+<td v>
+<p align='center'>$2 3/4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$40 put = $3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+<td v>
+<p align='center'>$38 1/2</td>
+<td v>
+<p align='center'>$1 1/2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+<td v>
+<p align='center'>$1 1/2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$85 put = $6 1/2</td>
+<td v>
+<p align='center'>$79</td>
+<td v>
+<p align='center'>$6</td>
+<td v>
+<p align='center'>$1/2</td>
+</tr>
+<tr>
+<td colSpan='4' v>
+<p align='center'><i>Notice in the above
+examples that the intrinsic value plus the time
+value equals the total price (premium) of the
+option.</i></td>
+</tr>
+</table>
+<h2>How much time premium do options have?</h2>
+<p>Generally there will always be some time premium on
+an option, even if only a small amount.&nbsp; With all else
+constant, the longer the maturity of the option or the
+more volatile the option, the more you will pay in time
+premium.&nbsp; Why?&nbsp; With all else constant, investors will
+prefer to buy longer-term options, as they will have
+more time for it to gain intrinsic value.&nbsp; Likewise,
+investors will prefer more volatile options, as they
+have a greater chance of making bigger moves, thereby
+giving the option more intrinsic value.</p>
+<p>Also, the deeper-in-the-money you go, the more time
+premium will decrease.&nbsp; So if the stock is $100, the $80
+call will have less time premium than the $85 call, and
+the $85 will have less than the $90, etc.&nbsp; If the option
+is deep enough in the money, the time premium will equal
+the risk-free rate.&nbsp; Why?&nbsp; If the stock is at $100 and
+the $80 call is sufficiently in-the-money, investors can
+buy the stock and sell the $80 call (covered call
+position) thereby &quot;guaranteeing&quot; them $80 at
+expiration.&nbsp; As with any guaranteed trade, the interest
+rate will be the risk-free rate.&nbsp; Now, it should be
+mentioned that a covered call is never truly guaranteed,
+as it is always possible for the stock to fall below the
+strike price of the short call.&nbsp; However, if it is
+sufficiently deep-in-the-money where the markets <i>
+perceive</i> it to be guaranteed, then the market will
+only reward you the risk-free rate for that trade.&nbsp; The
+important point to understand is that as you move to
+lower and lower strikes for calls (higher strikes for
+puts), they become more and more likely to have
+intrinsic value.&nbsp; Because of this, they will have
+correspondingly lower amounts of time premium.</p>
+<h2>Parity</h2>
+<p>If there is no time premium on an option, it is said
+to be trading at <i>parity</i>.&nbsp; For example, with the
+stock at $103, a $100 call trading for $3 would be
+trading at parity; there is no time premium on this
+option.&nbsp; Usually, the only time you will see an option
+trading at parity is at expiration with options that are
+fairly deep-in-the-money.</p>
+<h2>How do i use this information to trade?</h2>
+<p>We said earlier that it is important to understand
+time value and intrinsic value in order to understand
+what you're getting into with a particular option.&nbsp; Any
+option that has high time premium is risky (in trading
+terms, it will have a high gamma value).&nbsp; The reason it
+is risky is because the underlying stock must move, in
+the proper direction, enough to make up for the time
+premium.&nbsp; If it does not, you will end up with a losing
+trade. </p>
+<p>For example, if you buy a $100 call option for $10
+with the stock at $100, the stock must get to $110
+(stock price plus time premium) in order to break even.&nbsp;
+If the stock moves to $108 at expiration, the $100 call
+will be worth $8, yet you paid $10 for a $2 loss.</p>
+<p>Now compare this to the trader who may have purchased
+the $80 call, which may have been trading for $21 ($20
+intrinsic + $1 time premium).&nbsp; With the stock at $110 at
+expiration, the $80 call will be worth $30.&nbsp; This trader
+bought for $21 and sold for $30 -- a profit of $9, which
+is certainly different from the $2 loss taken with the
+$100 call (for more on this, please see &quot;Deltas and
+Gammas&quot; during week 5).</p>
+<p>If you are looking for very quick moves in the
+underlying, you can afford to buy options with higher
+time premium.&nbsp; However, if you are only interested in
+speculating on the direction of the underlying stock,
+you should consider deeper-in-the-money options to avoid
+the high risk associated with high time premium options.</p>
+<p>But avoiding the speed game is not for free.&nbsp; If you
+buy a deep-in-the-money option, you will pay more in
+total dollars (more intrinsic value and less time
+value).&nbsp; By doing so, you now have more money at risk if
+the stock should move against you.&nbsp; In addition, if the
+stock should fall, the deep-in-the-money option will
+fall nearly point-for-point through a certain range of
+stock prices before slowing.&nbsp; It is a delicate balancing
+act to find the appropriate option that suits your
+needs.</p>
+<h2>Option trading mistakes</h2>
+<p>One of the biggest mistakes new option traders make
+is to buy an option just because it is &quot;cheap.&quot;&nbsp; The
+inexperienced trader will usually look to
+out-of-the-money options because they can buy more
+contracts for a fixed dollar investment, or similarly,
+pay less money for a given number of contracts.&nbsp; For
+example, if a stock is trading at $50, a new trader who
+is bullish on the stock will usually look at a $55
+strike or higher.&nbsp; They often wonder why one should buy
+an in-the-money option as the stock has already exceeded
+the strike price. &nbsp;They feel they are &quot;wasting&quot; money by
+paying for the intrinsic value.</p>
+<p>Usually cheap options are composed entirely of time
+premium and can also be far-out-of-the-money.&nbsp; Make sure
+you know where your break-even points are and that it
+matches your sentiment with the underlying.&nbsp; For
+example, if the stock is $100 and you want to buy the
+$115 option for $2, that stock will have to move to $117
+by expiration in order to break even on the trade.&nbsp; If
+you do not think this is likely, you should probably
+consider another option.&nbsp; A deeper-in-the-money option
+will be more costly but have less time premium; it will
+not need to move as far to break even.</p>
+<p>Many strategies rely on the behavior of time
+premium.&nbsp; If you plan to increase your trading knowledge
+of options, you need to have a solid understanding of
+time and intrinsic values.</p>
+
+</div>
+</div>
+</body>
+</html>

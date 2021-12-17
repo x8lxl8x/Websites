@@ -1,0 +1,190 @@
+# gourmander %[clVerbGroup|1]
+[-
+réprimander, gronder. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|gourmand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|gourmand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||gourmand%[m|é]|
+|ayant|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en gourmand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|gourmand%[m|e]|
+|tu|gourmand%[m|es]|
+|il|gourmand%[m|e]|
+|nous|gourmand%[m|ons]|
+|vous|gourmand%[m|ez]|
+|ils|gourmand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|gourmand%[m|é]|
+|tu|as |gourmand%[m|é]|
+|il|a|gourmand%[m|é]|
+|nous|avons|gourmand%[m|é]|
+|vous|avez|gourmand%[m|é]|
+|ils|ont|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|gourmand%[m|ais]|
+|tu|gourmand%[m|ais]|
+|il|gourmand%[m|ait]|
+|nous|gourmand%[m|ions]|
+|vous|gourmand%[m|iez]|
+|ils|gourmand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|gourmand%[m|é]|
+|tu|avais|gourmand%[m|é]|
+|il|avait|gourmand%[m|é]|
+|nous|avions|gourmand%[m|é]|
+|vous|aviez|gourmand%[m|é]|
+|ils|avaient|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|gourmand%[m|ai]|
+|tu|gourmand%[m|as]|
+|il|gourmand%[m|a]|
+|nous|gourmand%[m|âmes]|
+|vous|gourmand%[m|âtes]|
+|ils|gourmand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|gourmand%[m|é]|
+|tu|eus|gourmand%[m|é]|
+|il|eut|gourmand%[m|é]|
+|nous|e&ucirc;mes|gourmand%[m|é]|
+|vous|e&ucirc;tes|gourmand%[m|é]|
+|ils|eurent|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|gourmand%[m|erai]|
+|tu|gourmand%[m|eras]|
+|il|gourmand%[m|era]|
+|nous|gourmand%[m|erons]|
+|vous|gourmand%[m|erez]|
+|ils|gourmand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|gourmand%[m|é]|
+|tu|auras|gourmand%[m|é]|
+|il|aura|gourmand%[m|é]|
+|nous|aurons|gourmand%[m|é]|
+|vous|aurez|gourmand%[m|é]|
+|ils|auront|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|gourmand%[m|erais]|
+|tu|gourmand%[m|erais]|
+|il|gourmand%[m|erait]|
+|nous|gourmand%[m|erions]|
+|vous|gourmand%[m|eriez]|
+|ils|gourmand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|gourmand%[m|é]|
+|tu|aurais|gourmand%[m|é]|
+|il|aurait|gourmand%[m|é]|
+|nous|aurions|gourmand%[m|é]|
+|vous|auriez|gourmand%[m|é]|
+|ils|auraient|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|gourmand%[m|e]|
+|que|tu|gourmand%[m|es]|
+|qu'|il|gourmand%[m|e]|
+|que|nous|gourmand%[m|ions]|
+|que|vous|gourmand%[m|iez]|
+|qu'|ils|gourmand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|gourmand%[m|é]|
+|que|tu|aies|gourmand%[m|é]|
+|qu'|il|ait|gourmand%[m|é]|
+|que|nous|ayons|gourmand%[m|é]|
+|que|vous|ayez|gourmand%[m|é]|
+|qu'|ils|aient|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|gourmand%[m|asse]|
+|que|tu|gourmand%[m|asses]|
+|qu'|il|gourmand%[m|ât]|
+|que|nous|gourmand%[m|assions]|
+|que|vous|gourmand%[m|assiez]|
+|qu'|ils|gourmand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|gourmand%[m|é]|
+|que|tu|eusses|gourmand%[m|é]|
+|qu'|il|eût|gourmand%[m|é]|
+|que|nous|eussions|gourmand%[m|é]|
+|que|vous|eussiez|gourmand%[m|é]|
+|qu'|ils|eussent|gourmand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|gourmand%[m|e]|
+|gourmand%[m|ons]|
+|gourmand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|gourmand%[m|é]|
+|ayons|gourmand%[m|é]|
+|ayez|gourmand%[m|é]|
+|]
+

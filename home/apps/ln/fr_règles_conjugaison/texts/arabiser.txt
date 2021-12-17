@@ -1,0 +1,190 @@
+# arabiser %[clVerbGroup|1]
+[-
+marquer d'un caractère arabe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|arabis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|arabis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|arabis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||arabis%[m|é]|
+|ayant|arabis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en arabis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|arabis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|arabis%[m|e]|
+|tu|arabis%[m|es]|
+|il|arabis%[m|e]|
+|nous|arabis%[m|ons]|
+|vous|arabis%[m|ez]|
+|ils|arabis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|arabis%[m|é]|
+|tu|as |arabis%[m|é]|
+|il|a|arabis%[m|é]|
+|nous|avons|arabis%[m|é]|
+|vous|avez|arabis%[m|é]|
+|ils|ont|arabis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|arabis%[m|ais]|
+|tu|arabis%[m|ais]|
+|il|arabis%[m|ait]|
+|nous|arabis%[m|ions]|
+|vous|arabis%[m|iez]|
+|ils|arabis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|arabis%[m|é]|
+|tu|avais|arabis%[m|é]|
+|il|avait|arabis%[m|é]|
+|nous|avions|arabis%[m|é]|
+|vous|aviez|arabis%[m|é]|
+|ils|avaient|arabis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|arabis%[m|ai]|
+|tu|arabis%[m|as]|
+|il|arabis%[m|a]|
+|nous|arabis%[m|âmes]|
+|vous|arabis%[m|âtes]|
+|ils|arabis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|arabis%[m|é]|
+|tu|eus|arabis%[m|é]|
+|il|eut|arabis%[m|é]|
+|nous|e&ucirc;mes|arabis%[m|é]|
+|vous|e&ucirc;tes|arabis%[m|é]|
+|ils|eurent|arabis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|arabis%[m|erai]|
+|tu|arabis%[m|eras]|
+|il|arabis%[m|era]|
+|nous|arabis%[m|erons]|
+|vous|arabis%[m|erez]|
+|ils|arabis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|arabis%[m|é]|
+|tu|auras|arabis%[m|é]|
+|il|aura|arabis%[m|é]|
+|nous|aurons|arabis%[m|é]|
+|vous|aurez|arabis%[m|é]|
+|ils|auront|arabis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|arabis%[m|erais]|
+|tu|arabis%[m|erais]|
+|il|arabis%[m|erait]|
+|nous|arabis%[m|erions]|
+|vous|arabis%[m|eriez]|
+|ils|arabis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|arabis%[m|é]|
+|tu|aurais|arabis%[m|é]|
+|il|aurait|arabis%[m|é]|
+|nous|aurions|arabis%[m|é]|
+|vous|auriez|arabis%[m|é]|
+|ils|auraient|arabis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|arabis%[m|e]|
+|que|tu|arabis%[m|es]|
+|qu'|il|arabis%[m|e]|
+|que|nous|arabis%[m|ions]|
+|que|vous|arabis%[m|iez]|
+|qu'|ils|arabis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|arabis%[m|é]|
+|que|tu|aies|arabis%[m|é]|
+|qu'|il|ait|arabis%[m|é]|
+|que|nous|ayons|arabis%[m|é]|
+|que|vous|ayez|arabis%[m|é]|
+|qu'|ils|aient|arabis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|arabis%[m|asse]|
+|que|tu|arabis%[m|asses]|
+|qu'|il|arabis%[m|ât]|
+|que|nous|arabis%[m|assions]|
+|que|vous|arabis%[m|assiez]|
+|qu'|ils|arabis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|arabis%[m|é]|
+|que|tu|eusses|arabis%[m|é]|
+|qu'|il|eût|arabis%[m|é]|
+|que|nous|eussions|arabis%[m|é]|
+|que|vous|eussiez|arabis%[m|é]|
+|qu'|ils|eussent|arabis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arabis%[m|e]|
+|arabis%[m|ons]|
+|arabis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|arabis%[m|é]|
+|ayons|arabis%[m|é]|
+|ayez|arabis%[m|é]|
+|]
+

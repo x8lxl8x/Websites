@@ -1,0 +1,190 @@
+# filmer %[clVerbGroup|1]
+[-
+enregistrer un film (sur une pellicule photographique) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|film%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|film%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|film%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||film%[m|é]|
+|ayant|film%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en film%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|film%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|film%[m|e]|
+|tu|film%[m|es]|
+|il|film%[m|e]|
+|nous|film%[m|ons]|
+|vous|film%[m|ez]|
+|ils|film%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|film%[m|é]|
+|tu|as |film%[m|é]|
+|il|a|film%[m|é]|
+|nous|avons|film%[m|é]|
+|vous|avez|film%[m|é]|
+|ils|ont|film%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|film%[m|ais]|
+|tu|film%[m|ais]|
+|il|film%[m|ait]|
+|nous|film%[m|ions]|
+|vous|film%[m|iez]|
+|ils|film%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|film%[m|é]|
+|tu|avais|film%[m|é]|
+|il|avait|film%[m|é]|
+|nous|avions|film%[m|é]|
+|vous|aviez|film%[m|é]|
+|ils|avaient|film%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|film%[m|ai]|
+|tu|film%[m|as]|
+|il|film%[m|a]|
+|nous|film%[m|âmes]|
+|vous|film%[m|âtes]|
+|ils|film%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|film%[m|é]|
+|tu|eus|film%[m|é]|
+|il|eut|film%[m|é]|
+|nous|e&ucirc;mes|film%[m|é]|
+|vous|e&ucirc;tes|film%[m|é]|
+|ils|eurent|film%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|film%[m|erai]|
+|tu|film%[m|eras]|
+|il|film%[m|era]|
+|nous|film%[m|erons]|
+|vous|film%[m|erez]|
+|ils|film%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|film%[m|é]|
+|tu|auras|film%[m|é]|
+|il|aura|film%[m|é]|
+|nous|aurons|film%[m|é]|
+|vous|aurez|film%[m|é]|
+|ils|auront|film%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|film%[m|erais]|
+|tu|film%[m|erais]|
+|il|film%[m|erait]|
+|nous|film%[m|erions]|
+|vous|film%[m|eriez]|
+|ils|film%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|film%[m|é]|
+|tu|aurais|film%[m|é]|
+|il|aurait|film%[m|é]|
+|nous|aurions|film%[m|é]|
+|vous|auriez|film%[m|é]|
+|ils|auraient|film%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|film%[m|e]|
+|que|tu|film%[m|es]|
+|qu'|il|film%[m|e]|
+|que|nous|film%[m|ions]|
+|que|vous|film%[m|iez]|
+|qu'|ils|film%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|film%[m|é]|
+|que|tu|aies|film%[m|é]|
+|qu'|il|ait|film%[m|é]|
+|que|nous|ayons|film%[m|é]|
+|que|vous|ayez|film%[m|é]|
+|qu'|ils|aient|film%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|film%[m|asse]|
+|que|tu|film%[m|asses]|
+|qu'|il|film%[m|ât]|
+|que|nous|film%[m|assions]|
+|que|vous|film%[m|assiez]|
+|qu'|ils|film%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|film%[m|é]|
+|que|tu|eusses|film%[m|é]|
+|qu'|il|eût|film%[m|é]|
+|que|nous|eussions|film%[m|é]|
+|que|vous|eussiez|film%[m|é]|
+|qu'|ils|eussent|film%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|film%[m|e]|
+|film%[m|ons]|
+|film%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|film%[m|é]|
+|ayons|film%[m|é]|
+|ayez|film%[m|é]|
+|]
+

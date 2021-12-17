@@ -1,0 +1,190 @@
+# flauper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|flaup%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|flaup%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|flaup%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||flaup%[m|é]|
+|ayant|flaup%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en flaup%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|flaup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|flaup%[m|e]|
+|tu|flaup%[m|es]|
+|il|flaup%[m|e]|
+|nous|flaup%[m|ons]|
+|vous|flaup%[m|ez]|
+|ils|flaup%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|flaup%[m|é]|
+|tu|as |flaup%[m|é]|
+|il|a|flaup%[m|é]|
+|nous|avons|flaup%[m|é]|
+|vous|avez|flaup%[m|é]|
+|ils|ont|flaup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|flaup%[m|ais]|
+|tu|flaup%[m|ais]|
+|il|flaup%[m|ait]|
+|nous|flaup%[m|ions]|
+|vous|flaup%[m|iez]|
+|ils|flaup%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|flaup%[m|é]|
+|tu|avais|flaup%[m|é]|
+|il|avait|flaup%[m|é]|
+|nous|avions|flaup%[m|é]|
+|vous|aviez|flaup%[m|é]|
+|ils|avaient|flaup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|flaup%[m|ai]|
+|tu|flaup%[m|as]|
+|il|flaup%[m|a]|
+|nous|flaup%[m|âmes]|
+|vous|flaup%[m|âtes]|
+|ils|flaup%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|flaup%[m|é]|
+|tu|eus|flaup%[m|é]|
+|il|eut|flaup%[m|é]|
+|nous|e&ucirc;mes|flaup%[m|é]|
+|vous|e&ucirc;tes|flaup%[m|é]|
+|ils|eurent|flaup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|flaup%[m|erai]|
+|tu|flaup%[m|eras]|
+|il|flaup%[m|era]|
+|nous|flaup%[m|erons]|
+|vous|flaup%[m|erez]|
+|ils|flaup%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|flaup%[m|é]|
+|tu|auras|flaup%[m|é]|
+|il|aura|flaup%[m|é]|
+|nous|aurons|flaup%[m|é]|
+|vous|aurez|flaup%[m|é]|
+|ils|auront|flaup%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|flaup%[m|erais]|
+|tu|flaup%[m|erais]|
+|il|flaup%[m|erait]|
+|nous|flaup%[m|erions]|
+|vous|flaup%[m|eriez]|
+|ils|flaup%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|flaup%[m|é]|
+|tu|aurais|flaup%[m|é]|
+|il|aurait|flaup%[m|é]|
+|nous|aurions|flaup%[m|é]|
+|vous|auriez|flaup%[m|é]|
+|ils|auraient|flaup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|flaup%[m|e]|
+|que|tu|flaup%[m|es]|
+|qu'|il|flaup%[m|e]|
+|que|nous|flaup%[m|ions]|
+|que|vous|flaup%[m|iez]|
+|qu'|ils|flaup%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|flaup%[m|é]|
+|que|tu|aies|flaup%[m|é]|
+|qu'|il|ait|flaup%[m|é]|
+|que|nous|ayons|flaup%[m|é]|
+|que|vous|ayez|flaup%[m|é]|
+|qu'|ils|aient|flaup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|flaup%[m|asse]|
+|que|tu|flaup%[m|asses]|
+|qu'|il|flaup%[m|ât]|
+|que|nous|flaup%[m|assions]|
+|que|vous|flaup%[m|assiez]|
+|qu'|ils|flaup%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|flaup%[m|é]|
+|que|tu|eusses|flaup%[m|é]|
+|qu'|il|eût|flaup%[m|é]|
+|que|nous|eussions|flaup%[m|é]|
+|que|vous|eussiez|flaup%[m|é]|
+|qu'|ils|eussent|flaup%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|flaup%[m|e]|
+|flaup%[m|ons]|
+|flaup%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|flaup%[m|é]|
+|ayons|flaup%[m|é]|
+|ayez|flaup%[m|é]|
+|]
+

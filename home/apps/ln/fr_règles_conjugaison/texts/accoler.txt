@@ -1,0 +1,191 @@
+# accoler %[clVerbGroup|1]
+[-
+joindre, mettre ensemble, réunir. 
+grouper par une accolade. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|accol%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|accol%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|accol%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||accol%[m|é]|
+|ayant|accol%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en accol%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|accol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|accol%[m|e]|
+|tu|accol%[m|es]|
+|il|accol%[m|e]|
+|nous|accol%[m|ons]|
+|vous|accol%[m|ez]|
+|ils|accol%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|accol%[m|é]|
+|tu|as |accol%[m|é]|
+|il|a|accol%[m|é]|
+|nous|avons|accol%[m|é]|
+|vous|avez|accol%[m|é]|
+|ils|ont|accol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|accol%[m|ais]|
+|tu|accol%[m|ais]|
+|il|accol%[m|ait]|
+|nous|accol%[m|ions]|
+|vous|accol%[m|iez]|
+|ils|accol%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|accol%[m|é]|
+|tu|avais|accol%[m|é]|
+|il|avait|accol%[m|é]|
+|nous|avions|accol%[m|é]|
+|vous|aviez|accol%[m|é]|
+|ils|avaient|accol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|accol%[m|ai]|
+|tu|accol%[m|as]|
+|il|accol%[m|a]|
+|nous|accol%[m|âmes]|
+|vous|accol%[m|âtes]|
+|ils|accol%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|accol%[m|é]|
+|tu|eus|accol%[m|é]|
+|il|eut|accol%[m|é]|
+|nous|e&ucirc;mes|accol%[m|é]|
+|vous|e&ucirc;tes|accol%[m|é]|
+|ils|eurent|accol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|accol%[m|erai]|
+|tu|accol%[m|eras]|
+|il|accol%[m|era]|
+|nous|accol%[m|erons]|
+|vous|accol%[m|erez]|
+|ils|accol%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|accol%[m|é]|
+|tu|auras|accol%[m|é]|
+|il|aura|accol%[m|é]|
+|nous|aurons|accol%[m|é]|
+|vous|aurez|accol%[m|é]|
+|ils|auront|accol%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|accol%[m|erais]|
+|tu|accol%[m|erais]|
+|il|accol%[m|erait]|
+|nous|accol%[m|erions]|
+|vous|accol%[m|eriez]|
+|ils|accol%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|accol%[m|é]|
+|tu|aurais|accol%[m|é]|
+|il|aurait|accol%[m|é]|
+|nous|aurions|accol%[m|é]|
+|vous|auriez|accol%[m|é]|
+|ils|auraient|accol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|accol%[m|e]|
+|que|tu|accol%[m|es]|
+|qu'|il|accol%[m|e]|
+|que|nous|accol%[m|ions]|
+|que|vous|accol%[m|iez]|
+|qu'|ils|accol%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|accol%[m|é]|
+|que|tu|aies|accol%[m|é]|
+|qu'|il|ait|accol%[m|é]|
+|que|nous|ayons|accol%[m|é]|
+|que|vous|ayez|accol%[m|é]|
+|qu'|ils|aient|accol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|accol%[m|asse]|
+|que|tu|accol%[m|asses]|
+|qu'|il|accol%[m|ât]|
+|que|nous|accol%[m|assions]|
+|que|vous|accol%[m|assiez]|
+|qu'|ils|accol%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|accol%[m|é]|
+|que|tu|eusses|accol%[m|é]|
+|qu'|il|eût|accol%[m|é]|
+|que|nous|eussions|accol%[m|é]|
+|que|vous|eussiez|accol%[m|é]|
+|qu'|ils|eussent|accol%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|accol%[m|e]|
+|accol%[m|ons]|
+|accol%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|accol%[m|é]|
+|ayons|accol%[m|é]|
+|ayez|accol%[m|é]|
+|]
+

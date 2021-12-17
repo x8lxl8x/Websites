@@ -1,0 +1,190 @@
+# graticuler %[clVerbGroup|1]
+[-
+diviser (un dessin) en carrés égaux pour le reproduire. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|graticul%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|graticul%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|graticul%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||graticul%[m|é]|
+|ayant|graticul%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en graticul%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|graticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|graticul%[m|e]|
+|tu|graticul%[m|es]|
+|il|graticul%[m|e]|
+|nous|graticul%[m|ons]|
+|vous|graticul%[m|ez]|
+|ils|graticul%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|graticul%[m|é]|
+|tu|as |graticul%[m|é]|
+|il|a|graticul%[m|é]|
+|nous|avons|graticul%[m|é]|
+|vous|avez|graticul%[m|é]|
+|ils|ont|graticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|graticul%[m|ais]|
+|tu|graticul%[m|ais]|
+|il|graticul%[m|ait]|
+|nous|graticul%[m|ions]|
+|vous|graticul%[m|iez]|
+|ils|graticul%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|graticul%[m|é]|
+|tu|avais|graticul%[m|é]|
+|il|avait|graticul%[m|é]|
+|nous|avions|graticul%[m|é]|
+|vous|aviez|graticul%[m|é]|
+|ils|avaient|graticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|graticul%[m|ai]|
+|tu|graticul%[m|as]|
+|il|graticul%[m|a]|
+|nous|graticul%[m|âmes]|
+|vous|graticul%[m|âtes]|
+|ils|graticul%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|graticul%[m|é]|
+|tu|eus|graticul%[m|é]|
+|il|eut|graticul%[m|é]|
+|nous|e&ucirc;mes|graticul%[m|é]|
+|vous|e&ucirc;tes|graticul%[m|é]|
+|ils|eurent|graticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|graticul%[m|erai]|
+|tu|graticul%[m|eras]|
+|il|graticul%[m|era]|
+|nous|graticul%[m|erons]|
+|vous|graticul%[m|erez]|
+|ils|graticul%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|graticul%[m|é]|
+|tu|auras|graticul%[m|é]|
+|il|aura|graticul%[m|é]|
+|nous|aurons|graticul%[m|é]|
+|vous|aurez|graticul%[m|é]|
+|ils|auront|graticul%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|graticul%[m|erais]|
+|tu|graticul%[m|erais]|
+|il|graticul%[m|erait]|
+|nous|graticul%[m|erions]|
+|vous|graticul%[m|eriez]|
+|ils|graticul%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|graticul%[m|é]|
+|tu|aurais|graticul%[m|é]|
+|il|aurait|graticul%[m|é]|
+|nous|aurions|graticul%[m|é]|
+|vous|auriez|graticul%[m|é]|
+|ils|auraient|graticul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|graticul%[m|e]|
+|que|tu|graticul%[m|es]|
+|qu'|il|graticul%[m|e]|
+|que|nous|graticul%[m|ions]|
+|que|vous|graticul%[m|iez]|
+|qu'|ils|graticul%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|graticul%[m|é]|
+|que|tu|aies|graticul%[m|é]|
+|qu'|il|ait|graticul%[m|é]|
+|que|nous|ayons|graticul%[m|é]|
+|que|vous|ayez|graticul%[m|é]|
+|qu'|ils|aient|graticul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|graticul%[m|asse]|
+|que|tu|graticul%[m|asses]|
+|qu'|il|graticul%[m|ât]|
+|que|nous|graticul%[m|assions]|
+|que|vous|graticul%[m|assiez]|
+|qu'|ils|graticul%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|graticul%[m|é]|
+|que|tu|eusses|graticul%[m|é]|
+|qu'|il|eût|graticul%[m|é]|
+|que|nous|eussions|graticul%[m|é]|
+|que|vous|eussiez|graticul%[m|é]|
+|qu'|ils|eussent|graticul%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|graticul%[m|e]|
+|graticul%[m|ons]|
+|graticul%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|graticul%[m|é]|
+|ayons|graticul%[m|é]|
+|ayez|graticul%[m|é]|
+|]
+

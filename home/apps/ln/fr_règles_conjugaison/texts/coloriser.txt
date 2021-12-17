@@ -1,0 +1,190 @@
+# coloriser %[clVerbGroup|1]
+[-
+colorier un film noir et blanc. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coloris%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coloris%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coloris%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coloris%[m|é]|
+|ayant|coloris%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coloris%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coloris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coloris%[m|e]|
+|tu|coloris%[m|es]|
+|il|coloris%[m|e]|
+|nous|coloris%[m|ons]|
+|vous|coloris%[m|ez]|
+|ils|coloris%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coloris%[m|é]|
+|tu|as |coloris%[m|é]|
+|il|a|coloris%[m|é]|
+|nous|avons|coloris%[m|é]|
+|vous|avez|coloris%[m|é]|
+|ils|ont|coloris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coloris%[m|ais]|
+|tu|coloris%[m|ais]|
+|il|coloris%[m|ait]|
+|nous|coloris%[m|ions]|
+|vous|coloris%[m|iez]|
+|ils|coloris%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coloris%[m|é]|
+|tu|avais|coloris%[m|é]|
+|il|avait|coloris%[m|é]|
+|nous|avions|coloris%[m|é]|
+|vous|aviez|coloris%[m|é]|
+|ils|avaient|coloris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coloris%[m|ai]|
+|tu|coloris%[m|as]|
+|il|coloris%[m|a]|
+|nous|coloris%[m|âmes]|
+|vous|coloris%[m|âtes]|
+|ils|coloris%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coloris%[m|é]|
+|tu|eus|coloris%[m|é]|
+|il|eut|coloris%[m|é]|
+|nous|e&ucirc;mes|coloris%[m|é]|
+|vous|e&ucirc;tes|coloris%[m|é]|
+|ils|eurent|coloris%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coloris%[m|erai]|
+|tu|coloris%[m|eras]|
+|il|coloris%[m|era]|
+|nous|coloris%[m|erons]|
+|vous|coloris%[m|erez]|
+|ils|coloris%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coloris%[m|é]|
+|tu|auras|coloris%[m|é]|
+|il|aura|coloris%[m|é]|
+|nous|aurons|coloris%[m|é]|
+|vous|aurez|coloris%[m|é]|
+|ils|auront|coloris%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coloris%[m|erais]|
+|tu|coloris%[m|erais]|
+|il|coloris%[m|erait]|
+|nous|coloris%[m|erions]|
+|vous|coloris%[m|eriez]|
+|ils|coloris%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coloris%[m|é]|
+|tu|aurais|coloris%[m|é]|
+|il|aurait|coloris%[m|é]|
+|nous|aurions|coloris%[m|é]|
+|vous|auriez|coloris%[m|é]|
+|ils|auraient|coloris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coloris%[m|e]|
+|que|tu|coloris%[m|es]|
+|qu'|il|coloris%[m|e]|
+|que|nous|coloris%[m|ions]|
+|que|vous|coloris%[m|iez]|
+|qu'|ils|coloris%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coloris%[m|é]|
+|que|tu|aies|coloris%[m|é]|
+|qu'|il|ait|coloris%[m|é]|
+|que|nous|ayons|coloris%[m|é]|
+|que|vous|ayez|coloris%[m|é]|
+|qu'|ils|aient|coloris%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coloris%[m|asse]|
+|que|tu|coloris%[m|asses]|
+|qu'|il|coloris%[m|ât]|
+|que|nous|coloris%[m|assions]|
+|que|vous|coloris%[m|assiez]|
+|qu'|ils|coloris%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coloris%[m|é]|
+|que|tu|eusses|coloris%[m|é]|
+|qu'|il|eût|coloris%[m|é]|
+|que|nous|eussions|coloris%[m|é]|
+|que|vous|eussiez|coloris%[m|é]|
+|qu'|ils|eussent|coloris%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coloris%[m|e]|
+|coloris%[m|ons]|
+|coloris%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coloris%[m|é]|
+|ayons|coloris%[m|é]|
+|ayez|coloris%[m|é]|
+|]
+

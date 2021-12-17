@@ -1,0 +1,31 @@
+<h3 id='idHeader3'>Kабинет консультанта - $strClientNameFirst $strClientNameLast</h3>
+
+<h4 id='idHeader4'>Рекомендации - Мудры</h4>
+
+<form id='idMain' name='varMain' method='post' action='./admin-recommendation-proc.php?varIdKey=$strIdKey&amp;varClientIdKey=$strClientIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<table>
+<tr><td><input id='id11001' name='var11001' type='checkbox' placeholder='$arrValues[1]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 001&nbsp;&nbsp;&nbsp;Доши                     </td></tr>
+<tr><td><input id='id11002' name='var11002' type='checkbox' placeholder='$arrValues[2]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 002&nbsp;&nbsp;&nbsp;Прана апана              </td></tr>
+<tr><td><input id='id11003' name='var11003' type='checkbox' placeholder='$arrValues[3]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 003&nbsp;&nbsp;&nbsp;Энергия                  </td></tr>
+<tr><td><input id='id11004' name='var11004' type='checkbox' placeholder='$arrValues[4]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 004&nbsp;&nbsp;&nbsp;Проблемы дыхания         </td></tr>
+<tr><td><input id='id11005' name='var11005' type='checkbox' placeholder='$arrValues[5]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 005&nbsp;&nbsp;&nbsp;Простуда                 </td></tr>
+<tr><td><input id='id11006' name='var11006' type='checkbox' placeholder='$arrValues[6]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 006&nbsp;&nbsp;&nbsp;Бессоница                </td></tr>
+<tr><td><input id='id11007' name='var11007' type='checkbox' placeholder='$arrValues[7]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 007&nbsp;&nbsp;&nbsp;Головная боль            </td></tr>
+<tr><td><input id='id11008' name='var11008' type='checkbox' placeholder='$arrValues[8]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 008&nbsp;&nbsp;&nbsp;Запор                    </td></tr>
+<tr><td><input id='id11009' name='var11009' type='checkbox' placeholder='$arrValues[9]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'> 009&nbsp;&nbsp;&nbsp;Медитация                </td></tr>
+<tr><td><input id='id11010' name='var11010' type='checkbox' placeholder='$arrValues[10]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>010&nbsp;&nbsp;&nbsp;Депрессия                </td></tr>
+<tr><td><input id='id11011' name='var11011' type='checkbox' placeholder='$arrValues[11]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>011&nbsp;&nbsp;&nbsp;Сердце                   </td></tr>
+<tr><td><input id='id11012' name='var11012' type='checkbox' placeholder='$arrValues[12]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>012&nbsp;&nbsp;&nbsp;Суставы                  </td></tr>
+<tr><td><input id='id11013' name='var11013' type='checkbox' placeholder='$arrValues[13]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>013&nbsp;&nbsp;&nbsp;Женские проблемы         </td></tr>
+<tr><td><input id='id11014' name='var11014' type='checkbox' placeholder='$arrValues[14]' onBlur='fncOnBlur( this )' /></td><td class='clInputName02'>014&nbsp;&nbsp;&nbsp;Снижение аппетита        </td></tr>
+</table>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitRecommendationAdmin( $intForm, $intFields );' />
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='javascript:history.back()'>Вернуться на страницу клиента</a>
+</div>

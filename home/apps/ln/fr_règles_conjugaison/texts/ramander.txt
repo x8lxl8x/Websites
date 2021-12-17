@@ -1,0 +1,190 @@
+# ramander %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ramand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ramand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ramand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ramand%[m|é]|
+|ayant|ramand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ramand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ramand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|ramand%[m|e]|
+|tu|ramand%[m|es]|
+|il|ramand%[m|e]|
+|nous|ramand%[m|ons]|
+|vous|ramand%[m|ez]|
+|ils|ramand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ramand%[m|é]|
+|tu|as |ramand%[m|é]|
+|il|a|ramand%[m|é]|
+|nous|avons|ramand%[m|é]|
+|vous|avez|ramand%[m|é]|
+|ils|ont|ramand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|ramand%[m|ais]|
+|tu|ramand%[m|ais]|
+|il|ramand%[m|ait]|
+|nous|ramand%[m|ions]|
+|vous|ramand%[m|iez]|
+|ils|ramand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ramand%[m|é]|
+|tu|avais|ramand%[m|é]|
+|il|avait|ramand%[m|é]|
+|nous|avions|ramand%[m|é]|
+|vous|aviez|ramand%[m|é]|
+|ils|avaient|ramand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|ramand%[m|ai]|
+|tu|ramand%[m|as]|
+|il|ramand%[m|a]|
+|nous|ramand%[m|âmes]|
+|vous|ramand%[m|âtes]|
+|ils|ramand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ramand%[m|é]|
+|tu|eus|ramand%[m|é]|
+|il|eut|ramand%[m|é]|
+|nous|e&ucirc;mes|ramand%[m|é]|
+|vous|e&ucirc;tes|ramand%[m|é]|
+|ils|eurent|ramand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|ramand%[m|erai]|
+|tu|ramand%[m|eras]|
+|il|ramand%[m|era]|
+|nous|ramand%[m|erons]|
+|vous|ramand%[m|erez]|
+|ils|ramand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ramand%[m|é]|
+|tu|auras|ramand%[m|é]|
+|il|aura|ramand%[m|é]|
+|nous|aurons|ramand%[m|é]|
+|vous|aurez|ramand%[m|é]|
+|ils|auront|ramand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|ramand%[m|erais]|
+|tu|ramand%[m|erais]|
+|il|ramand%[m|erait]|
+|nous|ramand%[m|erions]|
+|vous|ramand%[m|eriez]|
+|ils|ramand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ramand%[m|é]|
+|tu|aurais|ramand%[m|é]|
+|il|aurait|ramand%[m|é]|
+|nous|aurions|ramand%[m|é]|
+|vous|auriez|ramand%[m|é]|
+|ils|auraient|ramand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|ramand%[m|e]|
+|que|tu|ramand%[m|es]|
+|qu'|il|ramand%[m|e]|
+|que|nous|ramand%[m|ions]|
+|que|vous|ramand%[m|iez]|
+|qu'|ils|ramand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ramand%[m|é]|
+|que|tu|aies|ramand%[m|é]|
+|qu'|il|ait|ramand%[m|é]|
+|que|nous|ayons|ramand%[m|é]|
+|que|vous|ayez|ramand%[m|é]|
+|qu'|ils|aient|ramand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|ramand%[m|asse]|
+|que|tu|ramand%[m|asses]|
+|qu'|il|ramand%[m|ât]|
+|que|nous|ramand%[m|assions]|
+|que|vous|ramand%[m|assiez]|
+|qu'|ils|ramand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ramand%[m|é]|
+|que|tu|eusses|ramand%[m|é]|
+|qu'|il|eût|ramand%[m|é]|
+|que|nous|eussions|ramand%[m|é]|
+|que|vous|eussiez|ramand%[m|é]|
+|qu'|ils|eussent|ramand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ramand%[m|e]|
+|ramand%[m|ons]|
+|ramand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ramand%[m|é]|
+|ayons|ramand%[m|é]|
+|ayez|ramand%[m|é]|
+|]
+

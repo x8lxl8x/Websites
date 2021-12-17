@@ -1,0 +1,190 @@
+# farguer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fargu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fargu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fargu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fargu%[m|é]|
+|ayant|fargu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fargu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fargu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fargu%[m|e]|
+|tu|fargu%[m|es]|
+|il|fargu%[m|e]|
+|nous|fargu%[m|ons]|
+|vous|fargu%[m|ez]|
+|ils|fargu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fargu%[m|é]|
+|tu|as |fargu%[m|é]|
+|il|a|fargu%[m|é]|
+|nous|avons|fargu%[m|é]|
+|vous|avez|fargu%[m|é]|
+|ils|ont|fargu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fargu%[m|ais]|
+|tu|fargu%[m|ais]|
+|il|fargu%[m|ait]|
+|nous|fargu%[m|ions]|
+|vous|fargu%[m|iez]|
+|ils|fargu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fargu%[m|é]|
+|tu|avais|fargu%[m|é]|
+|il|avait|fargu%[m|é]|
+|nous|avions|fargu%[m|é]|
+|vous|aviez|fargu%[m|é]|
+|ils|avaient|fargu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fargu%[m|ai]|
+|tu|fargu%[m|as]|
+|il|fargu%[m|a]|
+|nous|fargu%[m|âmes]|
+|vous|fargu%[m|âtes]|
+|ils|fargu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fargu%[m|é]|
+|tu|eus|fargu%[m|é]|
+|il|eut|fargu%[m|é]|
+|nous|e&ucirc;mes|fargu%[m|é]|
+|vous|e&ucirc;tes|fargu%[m|é]|
+|ils|eurent|fargu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fargu%[m|erai]|
+|tu|fargu%[m|eras]|
+|il|fargu%[m|era]|
+|nous|fargu%[m|erons]|
+|vous|fargu%[m|erez]|
+|ils|fargu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fargu%[m|é]|
+|tu|auras|fargu%[m|é]|
+|il|aura|fargu%[m|é]|
+|nous|aurons|fargu%[m|é]|
+|vous|aurez|fargu%[m|é]|
+|ils|auront|fargu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fargu%[m|erais]|
+|tu|fargu%[m|erais]|
+|il|fargu%[m|erait]|
+|nous|fargu%[m|erions]|
+|vous|fargu%[m|eriez]|
+|ils|fargu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fargu%[m|é]|
+|tu|aurais|fargu%[m|é]|
+|il|aurait|fargu%[m|é]|
+|nous|aurions|fargu%[m|é]|
+|vous|auriez|fargu%[m|é]|
+|ils|auraient|fargu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fargu%[m|e]|
+|que|tu|fargu%[m|es]|
+|qu'|il|fargu%[m|e]|
+|que|nous|fargu%[m|ions]|
+|que|vous|fargu%[m|iez]|
+|qu'|ils|fargu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fargu%[m|é]|
+|que|tu|aies|fargu%[m|é]|
+|qu'|il|ait|fargu%[m|é]|
+|que|nous|ayons|fargu%[m|é]|
+|que|vous|ayez|fargu%[m|é]|
+|qu'|ils|aient|fargu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fargu%[m|asse]|
+|que|tu|fargu%[m|asses]|
+|qu'|il|fargu%[m|ât]|
+|que|nous|fargu%[m|assions]|
+|que|vous|fargu%[m|assiez]|
+|qu'|ils|fargu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fargu%[m|é]|
+|que|tu|eusses|fargu%[m|é]|
+|qu'|il|eût|fargu%[m|é]|
+|que|nous|eussions|fargu%[m|é]|
+|que|vous|eussiez|fargu%[m|é]|
+|qu'|ils|eussent|fargu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fargu%[m|e]|
+|fargu%[m|ons]|
+|fargu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fargu%[m|é]|
+|ayons|fargu%[m|é]|
+|ayez|fargu%[m|é]|
+|]
+

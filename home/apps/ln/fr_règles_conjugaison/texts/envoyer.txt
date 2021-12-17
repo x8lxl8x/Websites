@@ -1,0 +1,193 @@
+# envoyer %[clVerbGroup|1]
+[-
+rendre institutionnel. 
+faire aller quelqu'un quelque part. 
+expédier un courrier, une lettre. 
+lancer quelque chose. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|env%[m|oyer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|env%[m|oyé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|env%[m|oyant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||env%[m|oyé]|
+|ayant|env%[m|oyé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en env%[m|oyant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|env%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|env%[m|oie]|
+|tu|env%[m|oies]|
+|il|env%[m|oie]|
+|nous|env%[m|oyons]|
+|vous|env%[m|oyez]|
+|ils|env%[m|oient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|env%[m|oyé]|
+|tu|as |env%[m|oyé]|
+|il|a|env%[m|oyé]|
+|nous|avons|env%[m|oyé]|
+|vous|avez|env%[m|oyé]|
+|ils|ont|env%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|env%[m|oyais]|
+|tu|env%[m|oyais]|
+|il|env%[m|oyait]|
+|nous|env%[m|oyions]|
+|vous|env%[m|oyiez]|
+|ils|env%[m|oyaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|env%[m|oyé]|
+|tu|avais|env%[m|oyé]|
+|il|avait|env%[m|oyé]|
+|nous|avions|env%[m|oyé]|
+|vous|aviez|env%[m|oyé]|
+|ils|avaient|env%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|env%[m|oyai]|
+|tu|env%[m|oyas]|
+|il|env%[m|oya]|
+|nous|env%[m|oyâmes]|
+|vous|env%[m|oyâtes]|
+|ils|env%[m|oyèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|env%[m|oyé]|
+|tu|eus|env%[m|oyé]|
+|il|eut|env%[m|oyé]|
+|nous|e&ucirc;mes|env%[m|oyé]|
+|vous|e&ucirc;tes|env%[m|oyé]|
+|ils|eurent|env%[m|oyé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|env%[m|errai]|
+|tu|env%[m|erras]|
+|il|env%[m|erra]|
+|nous|env%[m|errons]|
+|vous|env%[m|errez]|
+|ils|env%[m|erront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|env%[m|oyé]|
+|tu|auras|env%[m|oyé]|
+|il|aura|env%[m|oyé]|
+|nous|aurons|env%[m|oyé]|
+|vous|aurez|env%[m|oyé]|
+|ils|auront|env%[m|oyé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|env%[m|errais]|
+|tu|env%[m|errais]|
+|il|env%[m|errait]|
+|nous|env%[m|errions]|
+|vous|env%[m|erriez]|
+|ils|env%[m|erraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|env%[m|oyé]|
+|tu|aurais|env%[m|oyé]|
+|il|aurait|env%[m|oyé]|
+|nous|aurions|env%[m|oyé]|
+|vous|auriez|env%[m|oyé]|
+|ils|auraient|env%[m|oyé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|env%[m|oie]|
+|que|tu|env%[m|oies]|
+|qu'|il|env%[m|oie]|
+|que|nous|env%[m|oyions]|
+|que|vous|env%[m|oyiez]|
+|qu'|ils|env%[m|oient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|env%[m|oyé]|
+|que|tu|aies|env%[m|oyé]|
+|qu'|il|ait|env%[m|oyé]|
+|que|nous|ayons|env%[m|oyé]|
+|que|vous|ayez|env%[m|oyé]|
+|qu'|ils|aient|env%[m|oyé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|env%[m|oyasse]|
+|que|tu|env%[m|oyasses]|
+|qu'|il|env%[m|oyât]|
+|que|nous|env%[m|oyassions]|
+|que|vous|env%[m|oyassiez]|
+|qu'|ils|env%[m|oyassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|env%[m|oyé]|
+|que|tu|eusses|env%[m|oyé]|
+|qu'|il|eût|env%[m|oyé]|
+|que|nous|eussions|env%[m|oyé]|
+|que|vous|eussiez|env%[m|oyé]|
+|qu'|ils|eussent|env%[m|oyé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|env%[m|oie]|
+|env%[m|oyons]|
+|env%[m|oyez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|env%[m|oyé]|
+|ayons|env%[m|oyé]|
+|ayez|env%[m|oyé]|
+|]
+

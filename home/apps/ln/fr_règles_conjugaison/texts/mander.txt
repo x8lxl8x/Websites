@@ -1,0 +1,190 @@
+# mander %[clVerbGroup|1]
+[-
+faire venir sur ordre. Faire tenir un ordre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|mand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|mand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|mand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||mand%[m|é]|
+|ayant|mand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en mand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|mand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|mand%[m|e]|
+|tu|mand%[m|es]|
+|il|mand%[m|e]|
+|nous|mand%[m|ons]|
+|vous|mand%[m|ez]|
+|ils|mand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|mand%[m|é]|
+|tu|as |mand%[m|é]|
+|il|a|mand%[m|é]|
+|nous|avons|mand%[m|é]|
+|vous|avez|mand%[m|é]|
+|ils|ont|mand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|mand%[m|ais]|
+|tu|mand%[m|ais]|
+|il|mand%[m|ait]|
+|nous|mand%[m|ions]|
+|vous|mand%[m|iez]|
+|ils|mand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|mand%[m|é]|
+|tu|avais|mand%[m|é]|
+|il|avait|mand%[m|é]|
+|nous|avions|mand%[m|é]|
+|vous|aviez|mand%[m|é]|
+|ils|avaient|mand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|mand%[m|ai]|
+|tu|mand%[m|as]|
+|il|mand%[m|a]|
+|nous|mand%[m|âmes]|
+|vous|mand%[m|âtes]|
+|ils|mand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|mand%[m|é]|
+|tu|eus|mand%[m|é]|
+|il|eut|mand%[m|é]|
+|nous|e&ucirc;mes|mand%[m|é]|
+|vous|e&ucirc;tes|mand%[m|é]|
+|ils|eurent|mand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|mand%[m|erai]|
+|tu|mand%[m|eras]|
+|il|mand%[m|era]|
+|nous|mand%[m|erons]|
+|vous|mand%[m|erez]|
+|ils|mand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|mand%[m|é]|
+|tu|auras|mand%[m|é]|
+|il|aura|mand%[m|é]|
+|nous|aurons|mand%[m|é]|
+|vous|aurez|mand%[m|é]|
+|ils|auront|mand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|mand%[m|erais]|
+|tu|mand%[m|erais]|
+|il|mand%[m|erait]|
+|nous|mand%[m|erions]|
+|vous|mand%[m|eriez]|
+|ils|mand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|mand%[m|é]|
+|tu|aurais|mand%[m|é]|
+|il|aurait|mand%[m|é]|
+|nous|aurions|mand%[m|é]|
+|vous|auriez|mand%[m|é]|
+|ils|auraient|mand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|mand%[m|e]|
+|que|tu|mand%[m|es]|
+|qu'|il|mand%[m|e]|
+|que|nous|mand%[m|ions]|
+|que|vous|mand%[m|iez]|
+|qu'|ils|mand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|mand%[m|é]|
+|que|tu|aies|mand%[m|é]|
+|qu'|il|ait|mand%[m|é]|
+|que|nous|ayons|mand%[m|é]|
+|que|vous|ayez|mand%[m|é]|
+|qu'|ils|aient|mand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|mand%[m|asse]|
+|que|tu|mand%[m|asses]|
+|qu'|il|mand%[m|ât]|
+|que|nous|mand%[m|assions]|
+|que|vous|mand%[m|assiez]|
+|qu'|ils|mand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|mand%[m|é]|
+|que|tu|eusses|mand%[m|é]|
+|qu'|il|eût|mand%[m|é]|
+|que|nous|eussions|mand%[m|é]|
+|que|vous|eussiez|mand%[m|é]|
+|qu'|ils|eussent|mand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|mand%[m|e]|
+|mand%[m|ons]|
+|mand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|mand%[m|é]|
+|ayons|mand%[m|é]|
+|ayez|mand%[m|é]|
+|]
+

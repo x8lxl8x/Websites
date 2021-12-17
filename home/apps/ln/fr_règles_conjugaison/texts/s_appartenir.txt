@@ -1,0 +1,196 @@
+# s'appartenir %[clVerbGroup|3]
+[-
+être la possession de quelqu'un en vertu d'un droit ou d'un titre. 
+ne dépendre que de soi-même. 
+être propre à quelqu'un, de son rôle. 
+faire partie de quelque chose. 
+il appartient à l'espèce de s'occuper de son environnement ~ c'est de son devoir. 
+être classé dans (dans une taxonomie ou une ontologie) 
+dépendre de soi-même. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'appart%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|appart%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'appart%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|appart%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'appart%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|appart%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|appart%[m|iens]|
+|tu|t'|appart%[m|iens]|
+|il|s'|appart%[m|ient]|
+|nous|nous|appart%[m|enons]|
+|vous|vous|appart%[m|enez]|
+|ils|s'|appart%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|appart%[m|enu]|
+|tu|t'|es|appart%[m|enu]|
+|il|s'|est|appart%[m|enu]|
+|nous|nous|sommes|appart%[m|enus]|
+|vous|vous|êtes|appart%[m|enus]|
+|ils|se|sont|appart%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|appart%[m|enais]|
+|tu|t'|appart%[m|enais]|
+|il|s'|appart%[m|enait]|
+|nous|nous|appart%[m|enions]|
+|vous|vous|appart%[m|eniez]|
+|ils|s'|appart%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|appart%[m|enu]|
+|tu|t'|étais|appart%[m|enu]|
+|il|s'|était|appart%[m|enu]|
+|nous|nous|étions|appart%[m|enus]|
+|vous|vous|étiez|appart%[m|enus]|
+|ils|s'|étaient|appart%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|appart%[m|ins]|
+|tu|t'|appart%[m|ins]|
+|il|s'|appart%[m|int]|
+|nous|nous|appart%[m|înmes]|
+|vous|vous|appart%[m|întes]|
+|ils|s'|appart%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|appart%[m|enu]|
+|tu|te|fus|appart%[m|enu]|
+|il|se|fut|appart%[m|enu]|
+|nous|nous|fûmes|appart%[m|enus]|
+|vous|vous|fûtes|appart%[m|enus]|
+|ils|se|furent|appart%[m|enus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|appart%[m|iendrai]|
+|tu|t'|appart%[m|iendras]|
+|il|s'|appart%[m|iendra]|
+|nous|nous|appart%[m|iendrons]|
+|vous|vous|appart%[m|iendrez]|
+|ils|s'|appart%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|appart%[m|enu]|
+|tu|te|seras|appart%[m|enu]|
+|il|se|sera|appart%[m|enu]|
+|nous|nous|serons|appart%[m|enus]|
+|vous|vous|serez|appart%[m|enus]|
+|ils|se|seront|appart%[m|enus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|appart%[m|iendrais]|
+|tu|t'|appart%[m|iendrais]|
+|il|s'|appart%[m|iendrait]|
+|nous|nous|appart%[m|iendrions]|
+|vous|vous|appart%[m|iendriez]|
+|ils|s'|appart%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|appart%[m|enu]|
+|tu|te|serais|appart%[m|enu]|
+|il|se|serait|appart%[m|enu]|
+|nous|nous|serions|appart%[m|enus]|
+|vous|vous|seriez|appart%[m|enus]|
+|ils|se|seraient|appart%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|appart%[m|ienne]|
+|que|tu|t'|appart%[m|iennes]|
+|qu'|il|s'|appart%[m|ienne]|
+|que|nous|nous|appart%[m|enions]|
+|que|vous|vous|appart%[m|eniez]|
+|qu'|ils|s'|appart%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|appart%[m|enu]|
+|que|tu|te|sois|appart%[m|enu]|
+|qu'|il|se|soit|appart%[m|enu]|
+|que|nous|nous|soyons|appart%[m|enus]|
+|que|vous|vous|soyez|appart%[m|enus]|
+|qu'|ils|se|soient|appart%[m|enus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|appart%[m|insse]|
+|que|tu|t'|appart%[m|insses]|
+|qu'|il|s'|appart%[m|înt]|
+|que|nous|nous|appart%[m|inssions]|
+|que|vous|vous|appart%[m|inssiez]|
+|qu'|ils|s'|appart%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|appart%[m|enu]|
+|que|tu|te|fusses|appart%[m|enu]|
+|qu'|il|se|fût|appart%[m|enu]|
+|que|nous|nous|fussions|appart%[m|enus]|
+|que|vous|vous|fussiez|appart%[m|enus]|
+|qu'|ils|se|fussent|appart%[m|enus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|appart%[m|iens]-toi|
+|appart%[m|enons]-nous|
+|appart%[m|enez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

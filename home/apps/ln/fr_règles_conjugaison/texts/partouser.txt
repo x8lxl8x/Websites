@@ -1,0 +1,190 @@
+# partouser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|partous%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|partous%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|partous%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||partous%[m|é]|
+|ayant|partous%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en partous%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|partous%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|partous%[m|e]|
+|tu|partous%[m|es]|
+|il|partous%[m|e]|
+|nous|partous%[m|ons]|
+|vous|partous%[m|ez]|
+|ils|partous%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|partous%[m|é]|
+|tu|as |partous%[m|é]|
+|il|a|partous%[m|é]|
+|nous|avons|partous%[m|é]|
+|vous|avez|partous%[m|é]|
+|ils|ont|partous%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|partous%[m|ais]|
+|tu|partous%[m|ais]|
+|il|partous%[m|ait]|
+|nous|partous%[m|ions]|
+|vous|partous%[m|iez]|
+|ils|partous%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|partous%[m|é]|
+|tu|avais|partous%[m|é]|
+|il|avait|partous%[m|é]|
+|nous|avions|partous%[m|é]|
+|vous|aviez|partous%[m|é]|
+|ils|avaient|partous%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|partous%[m|ai]|
+|tu|partous%[m|as]|
+|il|partous%[m|a]|
+|nous|partous%[m|âmes]|
+|vous|partous%[m|âtes]|
+|ils|partous%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|partous%[m|é]|
+|tu|eus|partous%[m|é]|
+|il|eut|partous%[m|é]|
+|nous|e&ucirc;mes|partous%[m|é]|
+|vous|e&ucirc;tes|partous%[m|é]|
+|ils|eurent|partous%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|partous%[m|erai]|
+|tu|partous%[m|eras]|
+|il|partous%[m|era]|
+|nous|partous%[m|erons]|
+|vous|partous%[m|erez]|
+|ils|partous%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|partous%[m|é]|
+|tu|auras|partous%[m|é]|
+|il|aura|partous%[m|é]|
+|nous|aurons|partous%[m|é]|
+|vous|aurez|partous%[m|é]|
+|ils|auront|partous%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|partous%[m|erais]|
+|tu|partous%[m|erais]|
+|il|partous%[m|erait]|
+|nous|partous%[m|erions]|
+|vous|partous%[m|eriez]|
+|ils|partous%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|partous%[m|é]|
+|tu|aurais|partous%[m|é]|
+|il|aurait|partous%[m|é]|
+|nous|aurions|partous%[m|é]|
+|vous|auriez|partous%[m|é]|
+|ils|auraient|partous%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|partous%[m|e]|
+|que|tu|partous%[m|es]|
+|qu'|il|partous%[m|e]|
+|que|nous|partous%[m|ions]|
+|que|vous|partous%[m|iez]|
+|qu'|ils|partous%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|partous%[m|é]|
+|que|tu|aies|partous%[m|é]|
+|qu'|il|ait|partous%[m|é]|
+|que|nous|ayons|partous%[m|é]|
+|que|vous|ayez|partous%[m|é]|
+|qu'|ils|aient|partous%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|partous%[m|asse]|
+|que|tu|partous%[m|asses]|
+|qu'|il|partous%[m|ât]|
+|que|nous|partous%[m|assions]|
+|que|vous|partous%[m|assiez]|
+|qu'|ils|partous%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|partous%[m|é]|
+|que|tu|eusses|partous%[m|é]|
+|qu'|il|eût|partous%[m|é]|
+|que|nous|eussions|partous%[m|é]|
+|que|vous|eussiez|partous%[m|é]|
+|qu'|ils|eussent|partous%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|partous%[m|e]|
+|partous%[m|ons]|
+|partous%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|partous%[m|é]|
+|ayons|partous%[m|é]|
+|ayez|partous%[m|é]|
+|]
+

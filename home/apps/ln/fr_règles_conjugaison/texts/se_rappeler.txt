@@ -1,0 +1,190 @@
+# se rappeler %[clVerbGroup|1]
+[-
+se souvenir, se remémorer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rappel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rappel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rappel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rappel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rappel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rappel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rappel%[m|l]%[m|e]|
+|tu|te|rappel%[m|l]%[m|es]|
+|il|se|rappel%[m|l]%[m|e]|
+|nous|nous|rappel%[m|]%[m|ons]|
+|vous|vous|rappel%[m|]%[m|ez]|
+|ils|se|rappel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rappel%[m|é]|
+|tu|t'|es|rappel%[m|é]|
+|il|s'|est|rappel%[m|é]|
+|nous|nous|sommes|rappel%[m|és]|
+|vous|vous|êtes|rappel%[m|és]|
+|ils|se|sont|rappel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rappel%[m|]%[m|ais]|
+|tu|te|rappel%[m|]%[m|ais]|
+|il|se|rappel%[m|]%[m|ait]|
+|nous|nous|rappel%[m|]%[m|ions]|
+|vous|vous|rappel%[m|]%[m|iez]|
+|ils|se|rappel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rappel%[m|é]|
+|tu|t'|étais|rappel%[m|é]|
+|il|s'|était|rappel%[m|é]|
+|nous|nous|étions|rappel%[m|és]|
+|vous|vous|étiez|rappel%[m|és]|
+|ils|s'|étaient|rappel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rappel%[m|]%[m|ai]|
+|tu|te|rappel%[m|]%[m|as]|
+|il|se|rappel%[m|]%[m|a]|
+|nous|nous|rappel%[m|]%[m|âmes]|
+|vous|vous|rappel%[m|]%[m|âtes]|
+|ils|se|rappel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rappel%[m|é]|
+|tu|te|fus|rappel%[m|é]|
+|il|se|fut|rappel%[m|é]|
+|nous|nous|fûmes|rappel%[m|és]|
+|vous|vous|fûtes|rappel%[m|és]|
+|ils|se|furent|rappel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rappel%[m|l]%[m|erai]|
+|tu|te|rappel%[m|l]%[m|eras]|
+|il|se|rappel%[m|l]%[m|era]|
+|nous|nous|rappel%[m|l]%[m|erons]|
+|vous|vous|rappel%[m|l]%[m|erez]|
+|ils|se|rappel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rappel%[m|é]|
+|tu|te|seras|rappel%[m|é]|
+|il|se|sera|rappel%[m|é]|
+|nous|nous|serons|rappel%[m|és]|
+|vous|vous|serez|rappel%[m|és]|
+|ils|se|seront|rappel%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rappel%[m|l]%[m|erais]|
+|tu|te|rappel%[m|l]%[m|erais]|
+|il|se|rappel%[m|l]%[m|erait]|
+|nous|nous|rappel%[m|l]%[m|erions]|
+|vous|vous|rappel%[m|l]%[m|eriez]|
+|ils|se|rappel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rappel%[m|é]|
+|tu|te|serais|rappel%[m|é]|
+|il|se|serait|rappel%[m|é]|
+|nous|nous|serions|rappel%[m|és]|
+|vous|vous|seriez|rappel%[m|és]|
+|ils|se|seraient|rappel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rappel%[m|l]%[m|e]|
+|que|tu|te|rappel%[m|l]%[m|es]|
+|qu'|il|se|rappel%[m|l]%[m|e]|
+|que|nous|nous|rappel%[m|]%[m|ions]|
+|que|vous|vous|rappel%[m|]%[m|iez]|
+|qu'|ils|se|rappel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rappel%[m|é]|
+|que|tu|te|sois|rappel%[m|é]|
+|qu'|il|se|soit|rappel%[m|é]|
+|que|nous|nous|soyons|rappel%[m|és]|
+|que|vous|vous|soyez|rappel%[m|és]|
+|qu'|ils|se|soient|rappel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rappel%[m|]%[m|asse]|
+|que|tu|te|rappel%[m|]%[m|asses]|
+|qu'|il|se|rappel%[m|]%[m|ât]|
+|que|nous|nous|rappel%[m|]%[m|assions]|
+|que|vous|vous|rappel%[m|]%[m|assiez]|
+|qu'|ils|se|rappel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rappel%[m|é]|
+|que|tu|te|fusses|rappel%[m|é]|
+|qu'|il|se|fût|rappel%[m|é]|
+|que|nous|nous|fussions|rappel%[m|és]|
+|que|vous|vous|fussiez|rappel%[m|és]|
+|qu'|ils|se|fussent|rappel%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rappel%[m|l]%[m|e]-toi|
+|rappel%[m|]%[m|ons]-nous|
+|rappel%[m|]%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

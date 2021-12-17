@@ -1,0 +1,190 @@
+# anneler %[clVerbGroup|1]
+[-
+boucler, disposer en anneaux. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|annel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|annel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|annel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||annel%[m|é]|
+|ayant|annel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en annel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|annel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|annel%[m|l]%[m|e]|
+|tu|annel%[m|l]%[m|es]|
+|il|annel%[m|l]%[m|e]|
+|nous|annel%[m|]%[m|ons]|
+|vous|annel%[m|]%[m|ez]|
+|ils|annel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|annel%[m|é]|
+|tu|as |annel%[m|é]|
+|il|a|annel%[m|é]|
+|nous|avons|annel%[m|é]|
+|vous|avez|annel%[m|é]|
+|ils|ont|annel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|annel%[m|]%[m|ais]|
+|tu|annel%[m|]%[m|ais]|
+|il|annel%[m|]%[m|ait]|
+|nous|annel%[m|]%[m|ions]|
+|vous|annel%[m|]%[m|iez]|
+|ils|annel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|annel%[m|é]|
+|tu|avais|annel%[m|é]|
+|il|avait|annel%[m|é]|
+|nous|avions|annel%[m|é]|
+|vous|aviez|annel%[m|é]|
+|ils|avaient|annel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|annel%[m|]%[m|ai]|
+|tu|annel%[m|]%[m|as]|
+|il|annel%[m|]%[m|a]|
+|nous|annel%[m|]%[m|âmes]|
+|vous|annel%[m|]%[m|âtes]|
+|ils|annel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|annel%[m|é]|
+|tu|eus|annel%[m|é]|
+|il|eut|annel%[m|é]|
+|nous|e&ucirc;mes|annel%[m|é]|
+|vous|e&ucirc;tes|annel%[m|é]|
+|ils|eurent|annel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|annel%[m|l]%[m|erai]|
+|tu|annel%[m|l]%[m|eras]|
+|il|annel%[m|l]%[m|era]|
+|nous|annel%[m|l]%[m|erons]|
+|vous|annel%[m|l]%[m|erez]|
+|ils|annel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|annel%[m|é]|
+|tu|auras|annel%[m|é]|
+|il|aura|annel%[m|é]|
+|nous|aurons|annel%[m|é]|
+|vous|aurez|annel%[m|é]|
+|ils|auront|annel%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|annel%[m|l]%[m|erais]|
+|tu|annel%[m|l]%[m|erais]|
+|il|annel%[m|l]%[m|erait]|
+|nous|annel%[m|l]%[m|erions]|
+|vous|annel%[m|l]%[m|eriez]|
+|ils|annel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|annel%[m|é]|
+|tu|aurais|annel%[m|é]|
+|il|aurait|annel%[m|é]|
+|nous|aurions|annel%[m|é]|
+|vous|auriez|annel%[m|é]|
+|ils|auraient|annel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|annel%[m|l]%[m|e]|
+|que|tu|annel%[m|l]%[m|es]|
+|qu'|il|annel%[m|l]%[m|e]|
+|que|nous|annel%[m|]%[m|ions]|
+|que|vous|annel%[m|]%[m|iez]|
+|qu'|ils|annel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|annel%[m|é]|
+|que|tu|aies|annel%[m|é]|
+|qu'|il|ait|annel%[m|é]|
+|que|nous|ayons|annel%[m|é]|
+|que|vous|ayez|annel%[m|é]|
+|qu'|ils|aient|annel%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|annel%[m|]%[m|asse]|
+|que|tu|annel%[m|]%[m|asses]|
+|qu'|il|annel%[m|]%[m|ât]|
+|que|nous|annel%[m|]%[m|assions]|
+|que|vous|annel%[m|]%[m|assiez]|
+|qu'|ils|annel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|annel%[m|é]|
+|que|tu|eusses|annel%[m|é]|
+|qu'|il|eût|annel%[m|é]|
+|que|nous|eussions|annel%[m|é]|
+|que|vous|eussiez|annel%[m|é]|
+|qu'|ils|eussent|annel%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|annel%[m|l]%[m|e]|
+|annel%[m|]%[m|ons]|
+|annel%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|annel%[m|é]|
+|ayons|annel%[m|é]|
+|ayez|annel%[m|é]|
+|]
+

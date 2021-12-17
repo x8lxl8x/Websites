@@ -1,0 +1,192 @@
+# savoir %[clVerbGroup|3]
+[-
+avoir présent à l'esprit, être conscient de; connaître. 
+avoir l'expérience de, être en mesure de pratiquer. 
+avoir des connaissances, maîtriser. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s%[m|avoir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|s%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s%[m|achant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||s%[m|u]|
+|ayant|s%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s%[m|achant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|s%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|s%[m|ais]|
+|tu|s%[m|ais]|
+|il|s%[m|ait]|
+|nous|s%[m|avons]|
+|vous|s%[m|avez]|
+|ils|s%[m|avent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|s%[m|u]|
+|tu|as |s%[m|u]|
+|il|a|s%[m|u]|
+|nous|avons|s%[m|u]|
+|vous|avez|s%[m|u]|
+|ils|ont|s%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|s%[m|avais]|
+|tu|s%[m|avais]|
+|il|s%[m|avait]|
+|nous|s%[m|avions]|
+|vous|s%[m|aviez]|
+|ils|s%[m|avaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|s%[m|u]|
+|tu|avais|s%[m|u]|
+|il|avait|s%[m|u]|
+|nous|avions|s%[m|u]|
+|vous|aviez|s%[m|u]|
+|ils|avaient|s%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|s%[m|us]|
+|tu|s%[m|us]|
+|il|s%[m|ut]|
+|nous|s%[m|ûmes]|
+|vous|s%[m|ûtes]|
+|ils|s%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|s%[m|u]|
+|tu|eus|s%[m|u]|
+|il|eut|s%[m|u]|
+|nous|e&ucirc;mes|s%[m|u]|
+|vous|e&ucirc;tes|s%[m|u]|
+|ils|eurent|s%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|s%[m|aurai]|
+|tu|s%[m|auras]|
+|il|s%[m|aura]|
+|nous|s%[m|aurons]|
+|vous|s%[m|aurez]|
+|ils|s%[m|auront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|s%[m|u]|
+|tu|auras|s%[m|u]|
+|il|aura|s%[m|u]|
+|nous|aurons|s%[m|u]|
+|vous|aurez|s%[m|u]|
+|ils|auront|s%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|s%[m|aurais]|
+|tu|s%[m|aurais]|
+|il|s%[m|aurait]|
+|nous|s%[m|aurions]|
+|vous|s%[m|auriez]|
+|ils|s%[m|auraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|s%[m|u]|
+|tu|aurais|s%[m|u]|
+|il|aurait|s%[m|u]|
+|nous|aurions|s%[m|u]|
+|vous|auriez|s%[m|u]|
+|ils|auraient|s%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|s%[m|ache]|
+|que|tu|s%[m|aches]|
+|qu'|il|s%[m|ache]|
+|que|nous|s%[m|achions]|
+|que|vous|s%[m|achiez]|
+|qu'|ils|s%[m|achent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|s%[m|u]|
+|que|tu|aies|s%[m|u]|
+|qu'|il|ait|s%[m|u]|
+|que|nous|ayons|s%[m|u]|
+|que|vous|ayez|s%[m|u]|
+|qu'|ils|aient|s%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|s%[m|usse]|
+|que|tu|s%[m|usses]|
+|qu'|il|s%[m|ût]|
+|que|nous|s%[m|ussions]|
+|que|vous|s%[m|ussiez]|
+|qu'|ils|s%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|s%[m|u]|
+|que|tu|eusses|s%[m|u]|
+|qu'|il|eût|s%[m|u]|
+|que|nous|eussions|s%[m|u]|
+|que|vous|eussiez|s%[m|u]|
+|qu'|ils|eussent|s%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|s%[m|ache]|
+|s%[m|achons]|
+|s%[m|achez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|s%[m|u]|
+|ayons|s%[m|u]|
+|ayez|s%[m|u]|
+|]
+

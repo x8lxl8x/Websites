@@ -1,0 +1,190 @@
+# formaliser %[clVerbGroup|1]
+[-
+réduire un système à ses structures formelles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|formalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|formalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|formalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||formalis%[m|é]|
+|ayant|formalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en formalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|formalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|formalis%[m|e]|
+|tu|formalis%[m|es]|
+|il|formalis%[m|e]|
+|nous|formalis%[m|ons]|
+|vous|formalis%[m|ez]|
+|ils|formalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|formalis%[m|é]|
+|tu|as |formalis%[m|é]|
+|il|a|formalis%[m|é]|
+|nous|avons|formalis%[m|é]|
+|vous|avez|formalis%[m|é]|
+|ils|ont|formalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|formalis%[m|ais]|
+|tu|formalis%[m|ais]|
+|il|formalis%[m|ait]|
+|nous|formalis%[m|ions]|
+|vous|formalis%[m|iez]|
+|ils|formalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|formalis%[m|é]|
+|tu|avais|formalis%[m|é]|
+|il|avait|formalis%[m|é]|
+|nous|avions|formalis%[m|é]|
+|vous|aviez|formalis%[m|é]|
+|ils|avaient|formalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|formalis%[m|ai]|
+|tu|formalis%[m|as]|
+|il|formalis%[m|a]|
+|nous|formalis%[m|âmes]|
+|vous|formalis%[m|âtes]|
+|ils|formalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|formalis%[m|é]|
+|tu|eus|formalis%[m|é]|
+|il|eut|formalis%[m|é]|
+|nous|e&ucirc;mes|formalis%[m|é]|
+|vous|e&ucirc;tes|formalis%[m|é]|
+|ils|eurent|formalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|formalis%[m|erai]|
+|tu|formalis%[m|eras]|
+|il|formalis%[m|era]|
+|nous|formalis%[m|erons]|
+|vous|formalis%[m|erez]|
+|ils|formalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|formalis%[m|é]|
+|tu|auras|formalis%[m|é]|
+|il|aura|formalis%[m|é]|
+|nous|aurons|formalis%[m|é]|
+|vous|aurez|formalis%[m|é]|
+|ils|auront|formalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|formalis%[m|erais]|
+|tu|formalis%[m|erais]|
+|il|formalis%[m|erait]|
+|nous|formalis%[m|erions]|
+|vous|formalis%[m|eriez]|
+|ils|formalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|formalis%[m|é]|
+|tu|aurais|formalis%[m|é]|
+|il|aurait|formalis%[m|é]|
+|nous|aurions|formalis%[m|é]|
+|vous|auriez|formalis%[m|é]|
+|ils|auraient|formalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|formalis%[m|e]|
+|que|tu|formalis%[m|es]|
+|qu'|il|formalis%[m|e]|
+|que|nous|formalis%[m|ions]|
+|que|vous|formalis%[m|iez]|
+|qu'|ils|formalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|formalis%[m|é]|
+|que|tu|aies|formalis%[m|é]|
+|qu'|il|ait|formalis%[m|é]|
+|que|nous|ayons|formalis%[m|é]|
+|que|vous|ayez|formalis%[m|é]|
+|qu'|ils|aient|formalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|formalis%[m|asse]|
+|que|tu|formalis%[m|asses]|
+|qu'|il|formalis%[m|ât]|
+|que|nous|formalis%[m|assions]|
+|que|vous|formalis%[m|assiez]|
+|qu'|ils|formalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|formalis%[m|é]|
+|que|tu|eusses|formalis%[m|é]|
+|qu'|il|eût|formalis%[m|é]|
+|que|nous|eussions|formalis%[m|é]|
+|que|vous|eussiez|formalis%[m|é]|
+|qu'|ils|eussent|formalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|formalis%[m|e]|
+|formalis%[m|ons]|
+|formalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|formalis%[m|é]|
+|ayons|formalis%[m|é]|
+|ayez|formalis%[m|é]|
+|]
+

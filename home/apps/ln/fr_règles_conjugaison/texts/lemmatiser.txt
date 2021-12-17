@@ -1,0 +1,190 @@
+# lémmatiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|lémmatis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|lémmatis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||lémmatis%[m|é]|
+|ayant|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en lémmatis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|lémmatis%[m|e]|
+|tu|lémmatis%[m|es]|
+|il|lémmatis%[m|e]|
+|nous|lémmatis%[m|ons]|
+|vous|lémmatis%[m|ez]|
+|ils|lémmatis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|lémmatis%[m|é]|
+|tu|as |lémmatis%[m|é]|
+|il|a|lémmatis%[m|é]|
+|nous|avons|lémmatis%[m|é]|
+|vous|avez|lémmatis%[m|é]|
+|ils|ont|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|lémmatis%[m|ais]|
+|tu|lémmatis%[m|ais]|
+|il|lémmatis%[m|ait]|
+|nous|lémmatis%[m|ions]|
+|vous|lémmatis%[m|iez]|
+|ils|lémmatis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|lémmatis%[m|é]|
+|tu|avais|lémmatis%[m|é]|
+|il|avait|lémmatis%[m|é]|
+|nous|avions|lémmatis%[m|é]|
+|vous|aviez|lémmatis%[m|é]|
+|ils|avaient|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|lémmatis%[m|ai]|
+|tu|lémmatis%[m|as]|
+|il|lémmatis%[m|a]|
+|nous|lémmatis%[m|âmes]|
+|vous|lémmatis%[m|âtes]|
+|ils|lémmatis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|lémmatis%[m|é]|
+|tu|eus|lémmatis%[m|é]|
+|il|eut|lémmatis%[m|é]|
+|nous|e&ucirc;mes|lémmatis%[m|é]|
+|vous|e&ucirc;tes|lémmatis%[m|é]|
+|ils|eurent|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|lémmatis%[m|erai]|
+|tu|lémmatis%[m|eras]|
+|il|lémmatis%[m|era]|
+|nous|lémmatis%[m|erons]|
+|vous|lémmatis%[m|erez]|
+|ils|lémmatis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|lémmatis%[m|é]|
+|tu|auras|lémmatis%[m|é]|
+|il|aura|lémmatis%[m|é]|
+|nous|aurons|lémmatis%[m|é]|
+|vous|aurez|lémmatis%[m|é]|
+|ils|auront|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|lémmatis%[m|erais]|
+|tu|lémmatis%[m|erais]|
+|il|lémmatis%[m|erait]|
+|nous|lémmatis%[m|erions]|
+|vous|lémmatis%[m|eriez]|
+|ils|lémmatis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|lémmatis%[m|é]|
+|tu|aurais|lémmatis%[m|é]|
+|il|aurait|lémmatis%[m|é]|
+|nous|aurions|lémmatis%[m|é]|
+|vous|auriez|lémmatis%[m|é]|
+|ils|auraient|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|lémmatis%[m|e]|
+|que|tu|lémmatis%[m|es]|
+|qu'|il|lémmatis%[m|e]|
+|que|nous|lémmatis%[m|ions]|
+|que|vous|lémmatis%[m|iez]|
+|qu'|ils|lémmatis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|lémmatis%[m|é]|
+|que|tu|aies|lémmatis%[m|é]|
+|qu'|il|ait|lémmatis%[m|é]|
+|que|nous|ayons|lémmatis%[m|é]|
+|que|vous|ayez|lémmatis%[m|é]|
+|qu'|ils|aient|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|lémmatis%[m|asse]|
+|que|tu|lémmatis%[m|asses]|
+|qu'|il|lémmatis%[m|ât]|
+|que|nous|lémmatis%[m|assions]|
+|que|vous|lémmatis%[m|assiez]|
+|qu'|ils|lémmatis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|lémmatis%[m|é]|
+|que|tu|eusses|lémmatis%[m|é]|
+|qu'|il|eût|lémmatis%[m|é]|
+|que|nous|eussions|lémmatis%[m|é]|
+|que|vous|eussiez|lémmatis%[m|é]|
+|qu'|ils|eussent|lémmatis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|lémmatis%[m|e]|
+|lémmatis%[m|ons]|
+|lémmatis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|lémmatis%[m|é]|
+|ayons|lémmatis%[m|é]|
+|ayez|lémmatis%[m|é]|
+|]
+

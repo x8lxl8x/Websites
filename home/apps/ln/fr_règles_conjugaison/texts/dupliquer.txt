@@ -1,0 +1,190 @@
+# dupliquer %[clVerbGroup|1]
+[-
+faire un double d'un document. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dupliqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dupliqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dupliqu%[m|é]|
+|ayant|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dupliqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dupliqu%[m|e]|
+|tu|dupliqu%[m|es]|
+|il|dupliqu%[m|e]|
+|nous|dupliqu%[m|ons]|
+|vous|dupliqu%[m|ez]|
+|ils|dupliqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dupliqu%[m|é]|
+|tu|as |dupliqu%[m|é]|
+|il|a|dupliqu%[m|é]|
+|nous|avons|dupliqu%[m|é]|
+|vous|avez|dupliqu%[m|é]|
+|ils|ont|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dupliqu%[m|ais]|
+|tu|dupliqu%[m|ais]|
+|il|dupliqu%[m|ait]|
+|nous|dupliqu%[m|ions]|
+|vous|dupliqu%[m|iez]|
+|ils|dupliqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dupliqu%[m|é]|
+|tu|avais|dupliqu%[m|é]|
+|il|avait|dupliqu%[m|é]|
+|nous|avions|dupliqu%[m|é]|
+|vous|aviez|dupliqu%[m|é]|
+|ils|avaient|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dupliqu%[m|ai]|
+|tu|dupliqu%[m|as]|
+|il|dupliqu%[m|a]|
+|nous|dupliqu%[m|âmes]|
+|vous|dupliqu%[m|âtes]|
+|ils|dupliqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dupliqu%[m|é]|
+|tu|eus|dupliqu%[m|é]|
+|il|eut|dupliqu%[m|é]|
+|nous|e&ucirc;mes|dupliqu%[m|é]|
+|vous|e&ucirc;tes|dupliqu%[m|é]|
+|ils|eurent|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dupliqu%[m|erai]|
+|tu|dupliqu%[m|eras]|
+|il|dupliqu%[m|era]|
+|nous|dupliqu%[m|erons]|
+|vous|dupliqu%[m|erez]|
+|ils|dupliqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dupliqu%[m|é]|
+|tu|auras|dupliqu%[m|é]|
+|il|aura|dupliqu%[m|é]|
+|nous|aurons|dupliqu%[m|é]|
+|vous|aurez|dupliqu%[m|é]|
+|ils|auront|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dupliqu%[m|erais]|
+|tu|dupliqu%[m|erais]|
+|il|dupliqu%[m|erait]|
+|nous|dupliqu%[m|erions]|
+|vous|dupliqu%[m|eriez]|
+|ils|dupliqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dupliqu%[m|é]|
+|tu|aurais|dupliqu%[m|é]|
+|il|aurait|dupliqu%[m|é]|
+|nous|aurions|dupliqu%[m|é]|
+|vous|auriez|dupliqu%[m|é]|
+|ils|auraient|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dupliqu%[m|e]|
+|que|tu|dupliqu%[m|es]|
+|qu'|il|dupliqu%[m|e]|
+|que|nous|dupliqu%[m|ions]|
+|que|vous|dupliqu%[m|iez]|
+|qu'|ils|dupliqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dupliqu%[m|é]|
+|que|tu|aies|dupliqu%[m|é]|
+|qu'|il|ait|dupliqu%[m|é]|
+|que|nous|ayons|dupliqu%[m|é]|
+|que|vous|ayez|dupliqu%[m|é]|
+|qu'|ils|aient|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dupliqu%[m|asse]|
+|que|tu|dupliqu%[m|asses]|
+|qu'|il|dupliqu%[m|ât]|
+|que|nous|dupliqu%[m|assions]|
+|que|vous|dupliqu%[m|assiez]|
+|qu'|ils|dupliqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dupliqu%[m|é]|
+|que|tu|eusses|dupliqu%[m|é]|
+|qu'|il|eût|dupliqu%[m|é]|
+|que|nous|eussions|dupliqu%[m|é]|
+|que|vous|eussiez|dupliqu%[m|é]|
+|qu'|ils|eussent|dupliqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dupliqu%[m|e]|
+|dupliqu%[m|ons]|
+|dupliqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dupliqu%[m|é]|
+|ayons|dupliqu%[m|é]|
+|ayez|dupliqu%[m|é]|
+|]
+

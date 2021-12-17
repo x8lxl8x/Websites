@@ -1,0 +1,2568 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Statistics</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_13'>       13. Other Hypothesis Tests</a><br>
+<br>
+<a href='#section_60'>       13.1. The t-Test</a><br>
+<a href='#concept_288'>      13.1.1. The t-Test</a><br>
+<a href='#concept_289'>      13.1.2. The t-Distribution</a><br>
+<a href='#concept_290'>      13.1.3. Assumptions</a><br>
+<a href='#concept_291'>      13.1.4. t-Test for One Sample</a><br>
+<a href='#concept_292'>      13.1.5. t-Test for Two Samples: Independent and Overlapping</a><br>
+<a href='#concept_293'>      13.1.6. t-Test for Two Samples: Paired</a><br>
+<a href='#concept_294'>      13.1.7. Calculations for the t-Test: One Sample</a><br>
+<a href='#concept_295'>      13.1.8. Calculations for the t-Test: Two Samples</a><br>
+<a href='#concept_296'>      13.1.9. Multivariate Testing</a><br>
+<a href='#concept_297'>      13.1.10. Alternatives to the t-Test</a><br>
+<a href='#concept_298'>      13.1.11. Cohen's d</a><br>
+<br>
+<a href='#section_61'>       13.2. The Chi-Squared Test</a><br>
+<a href='#concept_299'>      13.2.1. Categorical Data and the Multinomial Experiment</a><br>
+<a href='#concept_300'>      13.2.2. Structure of the Chi-Squared Test</a><br>
+<a href='#concept_301'>      13.2.3. How Fisher Used the Chi-Squared Test</a><br>
+<a href='#concept_302'>      13.2.4. Goodness of Fit</a><br>
+<a href='#concept_303'>      13.2.5. Inferences of Correlation and Regression</a><br>
+<a href='#concept_304'>      13.2.6. Example: Test for Goodness of Fit</a><br>
+<a href='#concept_305'>      13.2.7. Example: Test for Independence</a><br>
+<br>
+<a href='#section_62'>       13.3. Tests for Ranked Data</a><br>
+<a href='#concept_306'>      13.3.1. When to Use These Tests</a><br>
+<a href='#concept_307'>      13.3.2. Mann-Whitney U-Test</a><br>
+<a href='#concept_308'>      13.3.3. Wilcoxon t-Test</a><br>
+<a href='#concept_309'>      13.3.4. Kruskal-Wallis H-Test</a><br>
+<br>
+<a href='#section_63'>       13.5. Nonparametric Statistics</a><br>
+<a href='#concept_310'>      13.5.1. Distribution-Free Tests</a><br>
+<a href='#concept_311'>      13.5.2. Sign Test</a><br>
+<a href='#concept_312'>      13.5.3. Single-Population Inferences</a><br>
+<a href='#concept_313'>      13.5.4. Comparing Two Populations: Independent Samples</a><br>
+<a href='#concept_314'>      13.5.5. Comparing Two Populations: Paired Difference Experiment</a><br>
+<a href='#concept_315'>      13.5.6. Comparing Three or More Populations: Randomized Block Design</a><br>
+<a href='#concept_316'>      13.5.7. Rank Correlation</a><br>
+</div>
+
+<h1 id='chapter_13'>13. Other Hypothesis Tests</h1>
+
+<h2 id='section_60'>13.1. The t-Test</h2>
+
+<h3 id='concept_288'>13.1.1. The t-Test</h3>
+
+<blockquote>A t-test is any statistical hypothesis test in which the test statistic follows a Student's t-distribution if the null hypothesis is supported.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Outline the appropriate uses of t-tests in Student's t-distribution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The t-statistic was introduced in 1908 by William Sealy Gosset, a chemist working for the Guinness brewery in Dublin, Ireland.</li>
+<li>The t-test can be used to determine if two sets of data are significantly different from each other.</li>
+<li>The t-test is most commonly applied when the test statistic would follow a normal distribution if the value of a scaling term in the test statistic were known.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>t-test</dt>
+<dd>Any statistical hypothesis test in which the test statistic follows a Student's t-distribution if the null hypothesis is supported.</dd>
+<dt>Student's t-distribution</dt>
+<dd>A family of continuous probability distributions that arises when estimating the mean of a normally distributed population in situations where the sample size is small and population standard deviation is unknown.</dd>
+</dl>
+
+<p>A t-test is any statistical hypothesis test in which the test statistic follows a Student's t-distribution if the null hypothesis is supported. It can be used to determine if two sets of data are significantly different from each other, and is most commonly applied when the test statistic would follow a normal distribution if the value of a scaling term in the test statistic were known. When the scaling term is unknown and is replaced by an estimate based on the data, the test statistic (under certain conditions) follows a Student's t-distribution.</p>
+
+<h3>History</h3>
+
+<p>The t-statistic was introduced in 1908 by William Sealy Gosset (shown in ), a chemist working for the Guinness brewery in Dublin, Ireland. Gosset had been hired due to Claude Guinness's policy of recruiting the best graduates from Oxford and Cambridge to apply biochemistry and statistics to Guinness's industrial processes. Gosset devised the t-test as a cheap way to monitor the quality of stout. The t-test work was submitted to and accepted in the journal Biometrika, the journal that Karl Pearson had co-founded and for which he served as the Editor-in-Chief. The company allowed Gosset to publish his mathematical work, but only if he used a pseudonym (he chose "Student"). Gosset left Guinness on study-leave during the first two terms of the 1906-1907 academic year to study in Professor Karl Pearson's Biometric Laboratory at University College London. Gosset's work on the t-test was published in Biometrika in 1908.</p>
+
+
+
+<a href='../images/18304.jpeg'><img class='clImageThumb' src='../images/18304.jpeg' alt='William Sealy Gosset'></a>
+
+<div><b><i>William Sealy Gosset</i></b></div>
+<p><i>Writing under the pseudonym "Student", Gosset published his work on the t-test in 1908.</i></p>
+
+<h3>Uses</h3>
+
+<p>Among the most frequently used t-tests are:</p>
+<ul>
+<li>A one-sample location test of whether the mean of a normally distributed population has a value specified in a null hypothesis.</li>
+<li>A two-sample location test of a null hypothesis that the means of two normally distributed populations are equal. All such tests are usually called Student's t-tests, though strictly speaking that name should only be used if the variances of the two populations are also assumed to be equal. The form of the test used when this assumption is dropped is sometimes called Welch's t-test. These tests are often referred to as "unpaired" or "independent samples" t-tests, as they are typically applied when the statistical units underlying the two samples being compared are non-overlapping.</li>
+<li>A test of a null hypothesis that the difference between two responses measured on the same statistical unit has a mean value of zero. For example, suppose we measure the size of a cancer patient's tumor before and after a treatment. If the treatment is effective, we expect the tumor size for many of the patients to be smaller following the treatment. This is often referred to as the "paired" or "repeated measures" t-test.</li>
+<li>A test of whether the slope of a regression line differs significantly from 0.</li>
+</ul><h3 id='concept_289'>13.1.2. The t-Distribution</h3>
+
+<blockquote>Student's <span class='clFormula'>$t$</span>
+-distribution arises in estimation problems where the goal is to estimate an unknown parameter when the data are observed with additive errors.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the Student's <equation>$t$</equation>-distribution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Student's <span class='clFormula'>$t$</span>
+-distribution (or simply the <span class='clFormula'>$t$</span>
+-distribution) is a family of continuous probability distributions that arises when estimating the mean of a normally distributed population in situations where the sample size is small and population standard deviation is unknown.</li>
+<li>The <span class='clFormula'>$t$</span>
+-distribution (for <span class='clFormula'>$k$</span>
+) can be defined as the distribution of the location of the true mean, relative to the sample mean and divided by the sample standard deviation, after multiplying by the normalizing term.</li>
+<li>The <span class='clFormula'>$t$</span>
+-distribution with <span class='clFormula'>$n-1$</span>
+degrees of freedom is the sampling distribution of the <span class='clFormula'>$t$</span>
+-value when the samples consist of independent identically distributed observations from a normally distributed population.</li>
+<li>As the number of degrees of freedom grows, the <span class='clFormula'>$t$</span>
+-distribution approaches the normal distribution with mean <span class='clFormula'>$0$</span>
+and variance <span class='clFormula'>$1$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>confidence interval</dt>
+<dd>A type of interval estimate of a population parameter used to indicate the reliability of an estimate.</dd>
+<dt>Student's t-distribution</dt>
+<dd>A family of continuous probability distributions that arises when estimating the mean of a normally distributed population in situations where the sample size is small and population standard deviation is unknown.</dd>
+<dt>chi-squared distribution</dt>
+<dd>A distribution with <equation>$k$</equation> degrees of freedom is the distribution of a sum of the squares of <equation>$k$</equation> independent standard normal random variables.</dd>
+</dl>
+
+<p>Student's <span class='clFormula'>$t$</span>
+-distribution (or simply the <span class='clFormula'>$t$</span>
+-distribution) is a family of continuous probability distributions that arises when estimating the mean of a normally distributed population in situations where the sample size is small and population standard deviation is unknown. It plays a role in a number of widely used statistical analyses, including the Student's <span class='clFormula'>$t$</span>
+-test for assessing the statistical significance of the difference between two sample means, the construction of confidence intervals for the difference between two population means, and in linear regression analysis.</p>
+<p>If we take <span class='clFormula'>$k$</span>
+samples from a normal distribution with fixed unknown mean and variance, and if we compute the sample mean and sample variance for these <span class='clFormula'>$k$</span>
+samples, then the <span class='clFormula'>$t$</span>
+-distribution (for <span class='clFormula'>$k$</span>
+) can be defined as the distribution of the location of the true mean, relative to the sample mean and divided by the sample standard deviation, after multiplying by the normalizing term <span class='clFormula'>$\sqrt { n }$</span>
+, where <span class='clFormula'>$n$</span>
+is the sample size. In this way, the <span class='clFormula'>$t$</span>
+-distribution can be used to estimate how likely it is that the true mean lies in any given range.</p>
+<p>The <span class='clFormula'>$t$</span>
+-distribution with <span class='clFormula'>$n - 1$</span>
+ degrees of freedom is the sampling distribution of the <span class='clFormula'>$t$</span>
+-value when the samples consist of independent identically distributed observations from a normally distributed population. Thus, for inference purposes, <span class='clFormula'>$t$</span>
+is a useful "pivotal quantity" in the case when the mean and variance (<span class='clFormula'>$\mu$</span>
+, <span class='clFormula'>$\sigma^2$</span>
+) are unknown population parameters, in the sense that the <span class='clFormula'>$t$</span>
+-value has then a probability distribution that depends on neither <span class='clFormula'>$\mu$</span>
+nor <span class='clFormula'>$\sigma^2$</span>
+.</p>
+
+<h3>History</h3>
+
+<p>The <span class='clFormula'>$t$</span>
+-distribution was first derived as a posterior distribution in 1876 by Helmert and Lüroth. In the English-language literature it takes its name from William Sealy Gosset's 1908 paper in Biometrika under the pseudonym "Student." Gosset worked at the Guinness Brewery in Dublin, Ireland, and was interested in the problems of small samples, for example of the chemical properties of barley where sample sizes might be as small as three participants. Gosset's paper refers to the distribution as the "frequency distribution of standard deviations of samples drawn from a normal population." It became well known through the work of Ronald A. Fisher, who called the distribution "Student's distribution" and referred to the value as <span class='clFormula'>$t$</span>
+.</p>
+
+<h3>Distribution of a Test Statistic</h3>
+
+<p>Student's <span class='clFormula'>$t$</span>
+-distribution with <span class='clFormula'>$\nu$</span>
+degrees of freedom can be defined as the distribution of the random variable <span class='clFormula'>$T$</span>
+:</p>
+
+<div class='clFormula'>$T=\dfrac{Z}{\sqrt{V/ \nu}} = Z \sqrt{\dfrac{\nu}{V}}$</div>
+
+<p>where:</p>
+<ul>
+<li> <span class='clFormula'>$Z$</span>
+ is normally distributed with expected value <span class='clFormula'>$0$</span>
+and variance <span class='clFormula'>$1$</span></li>
+<li>V has a chi-squared distribution with <span class='clFormula'>$\nu$</span>
+degrees of freedom</li>
+<li> <span class='clFormula'>$Z$</span>
+and <span class='clFormula'>$V$</span>
+are independent</li>
+</ul>
+<p>A different distribution is defined as that of the random variable defined, for a given constant <span class='clFormula'>$\mu$</span>
+, by:</p>
+
+<div class='clFormula'>$\left( Z+\mu \right) \sqrt { \dfrac { \nu }{ V } }$</div>
+
+<p>This random variable has a noncentral <span class='clFormula'>$t$</span>
+-distribution with noncentrality parameter <span class='clFormula'>$\mu$</span>
+. This distribution is important in studies of the power of Student's <span class='clFormula'>$t$</span>
+-test.</p>
+
+<h3>Shape</h3>
+
+<p>The probability density function is symmetric; its overall shape resembles the bell shape of a normally distributed variable with mean <span class='clFormula'>$0$</span>
+and variance <span class='clFormula'>$1$</span>
+, except that it is a bit lower and wider. In more technical terms, it has heavier tails, meaning that it is more prone to producing values that fall far from its mean. This makes it useful for understanding the statistical behavior of certain types of ratios of random quantities, in which variation in the denominator is amplified and may produce outlying values when the denominator of the ratio falls close to zero. As the number of degrees of freedom grows, the <span class='clFormula'>$t$</span>
+-distribution approaches the normal distribution with mean <span class='clFormula'>$0$</span>
+and variance <span class='clFormula'>$1$</span>
+.</p>
+
+
+
+<a href='../images/18313.jpeg'><img class='clImageThumb' src='../images/18313.jpeg' alt='Shape of the -Distribution'></a>
+
+<div><b><i>Shape of the <span class='clFormula'>$t$</span>
+-Distribution</i></b></div>
+<p><i>These images show the density of the <span class='clFormula'>$t$</span>
+-distribution (red) for increasing values of <span class='clFormula'>$\nu$</span>
+ (1, 2, 3, 5, 10, and 30 degrees of freedom). The normal distribution is shown as a blue line for comparison. Previous plots are shown in green. Note that the <span class='clFormula'>$t$</span>
+-distribution becomes closer to the normal distribution as <span class='clFormula'>$\nu$</span>
+ increases.</i></p>
+
+<h3>Uses</h3>
+
+<p>Student's <span class='clFormula'>$t$</span>
+-distribution arises in a variety of statistical estimation problems where the goal is to estimate an unknown parameter, such as a mean value, in a setting where the data are observed with additive errors. If (as in nearly all practical statistical work) the population standard deviation of these errors is unknown and has to be estimated from the data, the <span class='clFormula'>$t$</span>
+-distribution is often used to account for the extra uncertainty that results from this estimation. In most such problems, if the standard deviation of the errors were known, a normal distribution would be used instead of the <span class='clFormula'>$t$</span>
+-distribution.</p>
+<p>Confidence intervals and hypothesis tests are two statistical procedures in which the quantiles of the sampling distribution of a particular statistic (e.g., the standard score) are required. In any situation where this statistic is a linear function of the data, divided by the usual estimate of the standard deviation, the resulting quantity can be rescaled and centered to follow Student's <span class='clFormula'>$t$</span>
+-distribution. Statistical analyses involving means, weighted means, and regression coefficients all lead to statistics having this form.</p>
+<p>A number of statistics can be shown to have <span class='clFormula'>$t$</span>
+-distributions for samples of moderate size under null hypotheses that are of interest, so that the <span class='clFormula'>$t$</span>
+-distribution forms the basis for significance tests. For example, the distribution of Spearman's rank correlation coefficient <span class='clFormula'>$\rho$</span>
+, in the null case (zero correlation) is well approximated by the <span class='clFormula'>$t$</span>
+-distribution for sample sizes above about <span class='clFormula'>$20$</span>
+.</p>
+
+<h3 id='concept_290'>13.1.3. Assumptions</h3>
+
+<blockquote>Assumptions of a <span class='clFormula'>$t$</span>
+-test depend on the population being studied and on how the data are sampled.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the underlying assumptions of a <equation>$t$</equation>-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Most <span class='clFormula'>$t$</span>
+-test statistics have the form <span class='clFormula'>$t=\frac{Z}{s}$</span>
+, where <span class='clFormula'>$Z$</span>
+and <span class='clFormula'>$s$</span>
+are functions of the data.</li>
+<li>Typically, <span class='clFormula'>$Z$</span>
+ is designed to be sensitive to the alternative hypothesis (i.e., its magnitude tends to be larger when the alternative hypothesis is true), whereas <span class='clFormula'>$s$</span>
+is a scaling parameter that allows the distribution of <span class='clFormula'>$t$</span>
+to be determined.</li>
+<li>The assumptions underlying a <span class='clFormula'>$t$</span>
+-test are that: <span class='clFormula'>$Z$</span>
+follows a standard normal distribution under the null hypothesis, and <span class='clFormula'>$s^2$</span>
+ follows a <span class='clFormula'>$\chi^2$</span>
+ distribution with <span class='clFormula'>$p$</span>
+degrees of freedom under the null hypothesis, where <span class='clFormula'>$p$</span>
+is a positive constant.</li>
+<li> <span class='clFormula'>$Z$</span>
+ and <span class='clFormula'>$s$</span>
+are independent.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>scaling parameter</dt>
+<dd>A special kind of numerical parameter of a parametric family of probability distributions; the larger the scale parameter, the more spread out the distribution.</dd>
+<dt>alternative hypothesis</dt>
+<dd>a rival hypothesis to the null hypothesis, whose likelihoods are compared by a statistical hypothesis test</dd>
+<dt>t-test</dt>
+<dd>Any statistical hypothesis test in which the test statistic follows a Student's <equation>$t$</equation>-distribution if the null hypothesis is supported.</dd>
+</dl>
+
+<p>Most <span class='clFormula'>$t$</span>
+-test statistics have the form <span class='clFormula'>$t=\frac{Z}{s}$</span>
+, where <span class='clFormula'>$Z$</span>
+and <span class='clFormula'>$s$</span>
+are functions of the data. Typically, <span class='clFormula'>$Z$</span>
+ is designed to be sensitive to the alternative hypothesis (i.e., its magnitude tends to be larger when the alternative hypothesis is true), whereas <span class='clFormula'>$s$</span>
+ is a scaling parameter that allows the distribution of <span class='clFormula'>$t$</span>
+ to be determined.</p>
+<p>As an example, in the one-sample <span class='clFormula'>$t$</span>
+-test:</p>
+
+<div class='clFormula'>$Z=\dfrac{\bar{X}}{(\hat{\sigma}/\sqrt{n})}$</div>
+
+<p>where <span class='clFormula'>$\bar { X }$</span>
+is the sample mean of the data, <span class='clFormula'>$n$</span>
+is the sample size, and <span class='clFormula'>$\hat { \sigma }$</span>
+is the population standard deviation of the data; <span class='clFormula'>$s$</span>
+in the one-sample <span class='clFormula'>$t$</span>
+-test is <span class='clFormula'>$\hat { \sigma } /\sqrt { n }$</span>
+, where <span class='clFormula'>$\hat { \sigma }$</span>
+is the sample standard deviation.</p>
+<p>The assumptions underlying a <span class='clFormula'>$t$</span>
+-test are that:</p>
+<ul>
+<li>
+<span class='clFormula'>$Z$</span>
+ follows a standard normal distribution under the null hypothesis.</li>
+<li>
+<span class='clFormula'>$s^2$</span>
+ follows a <span class='clFormula'>$\chi^2$</span>
+ distribution with <span class='clFormula'>$p$</span>
+ degrees of freedom under the null hypothesis, where <span class='clFormula'>$p$</span>
+ is a positive constant.</li>
+<li>
+<span class='clFormula'>$Z$</span>
+ and <span class='clFormula'>$s$</span>
+ are independent.</li>
+</ul>
+<p>In a specific type of <span class='clFormula'>$t$</span>
+-test, these conditions are consequences of the population being studied, and of the way in which the data are sampled. For example, in the <span class='clFormula'>$t$</span>
+-test comparing the means of two independent samples, the following assumptions should be met:</p>
+<ul>
+<li>Each of the two populations being compared should follow a normal distribution. This can be tested using a normality test, or it can be assessed graphically using a normal quantile plot.</li>
+<li>If using Student's original definition of the <span class='clFormula'>$t$</span>
+-test, the two populations being compared should have the same variance (testable using the <span class='clFormula'>$F$</span>
+-test or assessable graphically using a Q-Q plot). If the sample sizes in the two groups being compared are equal, Student's original <span class='clFormula'>$t$</span>
+-test is highly robust to the presence of unequal variances. Welch's <span class='clFormula'>$t$</span>
+-test is insensitive to equality of the variances regardless of whether the sample sizes are similar.</li>
+<li>The data used to carry out the test should be sampled independently from the two populations being compared. This is, in general, not testable from the data, but if the data are known to be dependently sampled (i.e., if they were sampled in clusters), then the classical <span class='clFormula'>$t$</span>
+-tests discussed here may give misleading results.</li>
+</ul><h3 id='concept_291'>13.1.4. t-Test for One Sample</h3>
+
+<blockquote>The <span class='clFormula'>$t$</span>
+-test is the most powerful parametric test for calculating the significance of a small sample mean.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Derive the degrees of freedom for a t-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A one sample <span class='clFormula'>$t$</span>
+-test has the null hypothesis, or<span class='clFormula'>$H_0$</span>
+, of <span class='clFormula'>$\mu = c$</span>
+.</li>
+<li>The <span class='clFormula'>$t$</span>
+-test is the small-sample analog of the <span class='clFormula'>$z$</span>
+test, which is suitable for large samples.</li>
+<li>For a <span class='clFormula'>$t$</span>
+-test the degrees of freedom of the single mean is <span class='clFormula'>$n-1$</span>
+because only one population parameter (the population mean) is being estimated by a sample statistic (the sample mean).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>t-test</dt>
+<dd>Any statistical hypothesis test in which the test statistic follows a Student's <equation>$t$</equation>-distribution if the null hypothesis is supported.</dd>
+<dt>degrees of freedom</dt>
+<dd>any unrestricted variable in a frequency distribution</dd>
+</dl>
+
+<p>The <span class='clFormula'>$t$</span>
+-test is the most powerful parametric test for calculating the significance of a small sample mean. A one sample <span class='clFormula'>$t$</span>
+-test has the null hypothesis, or <span class='clFormula'>$H_0$</span>
+, that the population mean equals the hypothesized value. Expressed formally:</p>
+
+<div class='clFormula'>$H_0: \, \mu = c$</div>
+
+<p>where the Greek letter <span class='clFormula'>$\mu$</span>
+represents the population mean and <span class='clFormula'>$c$</span>
+represents its assumed (hypothesized) value. The <span class='clFormula'>$t$</span>
+-test is the small sample analog of the  <span class='clFormula'>$z$</span>
+-test, which is suitable for large samples. A small sample is generally regarded as one of size <span class='clFormula'>$n &lt; 30$</span>
+.</p>
+<p>In order to perform a <span class='clFormula'>$t$</span>
+-test, one first has to calculate the <em>degrees of freedom</em>. This quantity takes into account the sample size and the number of parameters that are being estimated. Here, the population parameter <span class='clFormula'>$\mu$</span>
+is being estimated by the sample statistic <span class='clFormula'>$\bar { X }$</span>
+, the mean of the sample data. For a <span class='clFormula'>$t$</span>
+-test the degrees of freedom of the single mean is <span class='clFormula'>$n-1$</span>
+. This is because only one population parameter (the population mean) is being estimated by a sample statistic (the sample mean).</p>
+
+<h3>Example</h3>
+
+<p>A college professor wants to compare her students' scores with the national average. She chooses a simple random sample of <span class='clFormula'>$20$</span>
+students who score an average of <span class='clFormula'>$50.2$</span>
+on a standardized test. Their scores have a standard deviation of  <span class='clFormula'>$2.5$</span>
+. The national average on the test is a  <span class='clFormula'>$60$</span>
+. She wants to know if her students scored significantly lower than the national average.</p>
+<p>1. First, state the problem in terms of a distribution and identify the parameters of interest. Mention the sample. We will assume that the scores ( <span class='clFormula'>$\bar{X}$</span>
+) of the students in the professor's class are approximately normally distributed with unknown parameters  <span class='clFormula'>$\mu$</span>
+and  <span class='clFormula'>$\sigma$</span>
+.</p>
+<p>2. State the hypotheses in symbols and words:</p>
+
+<div class='clFormula'>${ H }_{ 0 }:\, \mu =60$</div>
+
+<p>i.e.: The null hypothesis is that her students scored on par with the national average.</p>
+
+<div class='clFormula'>${ H }_{ A }:\, \mu &lt;60$</div>
+
+<p>i.e.: The alternative hypothesis is that her students scored lower than the national average.</p>
+<p>3. Identify the appropriate test to use. Since we have a simple random sample of small size and do not know the standard deviation of the population, we will use a one-sample  <span class='clFormula'>$t$</span>
+-test. The formula for the  <span class='clFormula'>$t$</span>
+-statistic  <span class='clFormula'>$T$</span>
+for a one-sample test is as follows:</p>
+<p><span class='clFormula'>$T=\dfrac { \bar { X } -60 }{ S/\sqrt { 20 } }$</span>
+,</p>
+<p>where <span class='clFormula'>$\bar { X }$</span>
+is the sample mean and  <span class='clFormula'>$S$</span>
+is the sample standard deviation. The standard deviation of the sample divided by the square root of the sample size is known as the "standard error" of the sample.</p>
+<p>4. State the distribution of the test statistic under the null hypothesis. Under  <span class='clFormula'>$H_0$</span>
+the statistic  <span class='clFormula'>$T$</span>
+will follow a Student's distribution with  <span class='clFormula'>$19$</span>
+degrees of freedom: <span class='clFormula'>$T\sim \tau \cdot (20-1)$</span>
+.</p>
+<p>5. Compute the observed value <span class='clFormula'>$t$</span>
+of the test statistic <span class='clFormula'>$T$</span>
+, by entering the values, as follows:</p>
+
+<div class='clFormula'>$t=\dfrac { \bar { x } -60 }{ s/\sqrt { 20 } } =\dfrac { 50.2-60 }{ 2.5/\sqrt { 20 } } =\dfrac { -9.8 }{ 0.559 } =-17.5$</div>
+
+<p>6. Determine the so-called <span class='clFormula'>$p$</span>
+-value of the value <span class='clFormula'>$t$</span>
+of the test statistic <span class='clFormula'>$T$</span>
+. We will reject the null hypothesis for too-small values of <span class='clFormula'>$T$</span>
+, so we compute the left <span class='clFormula'>$p$</span>
+-value:</p>
+
+<div class='clFormula'>$p = P\left( T\le t;{ H }_{ 0 } \right) =P\left( T\left( 19 \right) \le -17.5 \right) \approx 0$</div>
+
+<p>The Student's distribution gives <span class='clFormula'>$T\left( 19 \right) =1.729$</span>
+at probabilities <span class='clFormula'>$0.95$</span>
+and degrees of freedom <span class='clFormula'>$19$</span>
+. The <span class='clFormula'>$p$</span>
+-value is approximated at <span class='clFormula'>$1.777$</span>
+.</p>
+<p>7. Lastly, interpret the results in the context of the problem. The  <span class='clFormula'>$p$</span>
+-value indicates that the results almost certainly did not happen by chance and we have sufficient evidence to reject the null hypothesis. This is to say, <em>the professor's students did score significantly lower than the national average</em>.</p>
+
+<h3 id='concept_292'>13.1.5. t-Test for Two Samples: Independent and Overlapping</h3>
+
+<blockquote>Two-sample t-tests for a difference in mean involve independent samples, paired samples, and overlapping samples.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast paired and unpaired samples in a two-sample t-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>For the null hypothesis, the observed t-statistic is equal to the difference between the two sample means divided by the standard error of the difference between the sample means.</li>
+<li>The independent samples t-test is used when two separate sets of independent and identically distributed samples are obtained—one from each of the two populations being compared.</li>
+<li>An overlapping samples t-test is used when there are paired samples with data missing in one or the other samples.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>blocking</dt>
+<dd>A schedule for conducting treatment combinations in an experimental study such that any effects on the experimental results due to a known change in raw materials, operators, machines, etc., become concentrated in the levels of the blocking variable.</dd>
+<dt>null hypothesis</dt>
+<dd>A hypothesis set up to be refuted in order to support an alternative hypothesis; presumed true until statistical evidence in the form of a hypothesis test indicates otherwise.</dd>
+</dl>
+
+<p>The two sample t-test is used to compare the means of two independent samples. For the null hypothesis, the observed t-statistic is equal to the difference between the two sample means divided by the standard error of the difference between the sample means. If the two population variances can be assumed equal, the standard error of the difference is estimated from the weighted variance about the means. If the variances cannot be assumed equal, then the standard error of the difference between means is taken as the square root of the sum of the individual variances divided by their sample size. In the latter case the estimated t-statistic must either be tested with modified degrees of freedom, or it can be tested against different critical values. A weighted t-test must be used if the unit of analysis comprises percentages or means based on different sample sizes.</p>
+<p>The two-sample t-test is probably the most widely used (and misused) statistical test. Comparing means based on convenience sampling or non-random allocation is meaningless. If, for any reason, one is forced to use haphazard rather than probability sampling, then every effort must be made to minimize selection bias.</p>
+
+<h3>Unpaired and Overlapping Two-Sample T-Tests</h3>
+
+<p>Two-sample t-tests for a difference in mean involve independent samples, paired samples and overlapping samples. Paired t-tests are a form of blocking, and have greater power than unpaired tests when the paired units are similar with respect to "noise factors" that are independent of membership in the two groups being compared. In a different context, paired t-tests can be used to reduce the effects of confounding factors in an observational study.</p>
+
+<h3>Independent Samples</h3>
+
+<p>The independent samples t-test is used when two separate sets of independent and identically distributed samples are obtained, one from each of the two populations being compared. For example, suppose we are evaluating the effect of a medical treatment, and we enroll 100 subjects into our study, then randomize 50 subjects to the treatment group and 50 subjects to the control group. In this case, we have two independent samples and would use the unpaired form of the t-test .</p>
+
+
+
+<a href='../images/18316.jpeg'><img class='clImageThumb' src='../images/18316.jpeg' alt='Medical Treatment Research'></a>
+
+<div><b><i>Medical Treatment Research</i></b></div>
+<p><i>Medical experimentation may utilize any two independent samples t-test.</i></p>
+
+<h3>Overlapping Samples</h3>
+
+<p>An overlapping samples t-test is used when there are paired samples with data missing in one or the other samples (e.g., due to selection of "I don't know" options in questionnaires, or because respondents are randomly assigned to a subset question). These tests are widely used in commercial survey research (e.g., by polling companies) and are available in many standard crosstab software packages.</p>
+
+<h3 id='concept_293'>13.1.6. t-Test for Two Samples: Paired</h3>
+
+<blockquote>Paired-samples <span class='clFormula'>$t$</span>
+-tests typically consist of a sample of matched pairs of similar units, or one group of units that has been tested twice.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Criticize the shortcomings of paired-samples  <equation>$t$</equation>-tests</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A paired-difference test uses additional information about the sample that is not present in an ordinary unpaired testing situation, either to increase the statistical power or to reduce the effects of confounders.</li>
+<li> <span class='clFormula'>$t$</span>
+-tests are carried out as paired difference tests for normally distributed differences where the population standard deviation of the differences is not known.</li>
+<li>A paired samples  <span class='clFormula'>$t$</span>
+-test based on a "matched-pairs sample" results from an unpaired sample that is subsequently used to form a paired sample, by using additional variables that were measured along with the variable of interest.</li>
+<li>Paired samples  <span class='clFormula'>$t$</span>
+-tests are often referred to as "dependent samples  <span class='clFormula'>$t$</span>
+-tests" (as are  <span class='clFormula'>$t$</span>
+-tests on overlapping samples).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>paired difference test</dt>
+<dd>A type of location test that is used when comparing two sets of measurements to assess whether their population means differ.</dd>
+<dt>confounding</dt>
+<dd>Describes a phenomenon in which an extraneous variable in a statistical model correlates (positively or negatively) with both the dependent variable and the independent variable; confounder = noun form.</dd>
+</dl>
+
+<h3>Paired Difference Test</h3>
+
+<p>In statistics, a paired difference test is a type of location test used when comparing two sets of measurements to assess whether their population means differ. A paired difference test uses additional information about the sample that is not present in an ordinary unpaired testing situation, either to increase the statistical power or to reduce the effects of confounders.  <span class='clFormula'>$t$</span>
+-tests are carried out as paired difference tests for normally distributed differences where the population standard deviation of the differences is not known.</p>
+
+<h3>Paired-Samples  <span class='clFormula'>$t$</span>
+-Test</h3>
+
+<p>Paired samples  <span class='clFormula'>$t$</span>
+-tests typically consist of a sample of matched pairs of similar units, or one group of units that has been tested twice (a "repeated measures"  <span class='clFormula'>$t$</span>
+-test).</p>
+<p>A typical example of the repeated measures t-test would be where subjects are tested prior to a treatment, say for high blood pressure, and the same subjects are tested again after treatment with a blood-pressure lowering medication . By comparing the same patient's numbers before and after treatment, we are effectively using each patient as their own control. That way the correct rejection of the null hypothesis (here: of no difference made by the treatment) can become much more likely, with statistical power increasing simply because the random between-patient variation has now been eliminated.</p>
+
+
+
+<a href='../images/18318.jpeg'><img class='clImageThumb' src='../images/18318.jpeg' alt='Blood Pressure Treatment'></a>
+
+<div><b><i>Blood Pressure Treatment</i></b></div>
+<p><i>A typical example of a repeated measures  <span class='clFormula'>$t$</span>
+-test is in the treatment of patients with high blood pressure to determine the effectiveness of a particular medication.</i></p>
+
+<p>Note, however, that an increase of statistical power comes at a price: more tests are required, each subject having to be tested twice. Because half of the sample now depends on the other half, the paired version of Student's  <span class='clFormula'>$t$</span>
+-test has only  <span class='clFormula'>$\frac{n}{2-1}$</span>
+degrees of freedom (with  <span class='clFormula'>$n$</span>
+being the total number of observations. Pairs become individual test units, and the sample has to be doubled to achieve the same number of degrees of freedom.</p>
+<p>A paired-samples  <span class='clFormula'>$t$</span>
+-test based on a "matched-pairs sample" results from an unpaired sample that is subsequently used to form a paired sample, by using additional variables that were measured along with the variable of interest. The matching is carried out by identifying pairs of values consisting of one observation from each of the two samples, where the pair is similar in terms of other measured variables. This approach is sometimes used in observational studies to reduce or eliminate the effects of confounding factors.</p>
+<p>Paired-samples  <span class='clFormula'>$t$</span>
+-tests are often referred to as "dependent samples  <span class='clFormula'>$t$</span>
+-tests" (as are  <span class='clFormula'>$t$</span>
+-tests on overlapping samples).</p>
+
+<h3 id='concept_294'>13.1.7. Calculations for the t-Test: One Sample</h3>
+
+<blockquote>The following is a discussion on explicit expressions that can be used to carry out various  <span class='clFormula'>$t$</span>
+-tests.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Assess a null hypothesis in a one-sample  <equation>$t$</equation>-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In each case, the formula for a test statistic that either exactly follows or closely approximates a  <span class='clFormula'>$t$</span>
+-distribution under the null hypothesis is given.</li>
+<li>Also, the appropriate degrees of freedom are given in each case.</li>
+<li>Once a  <span class='clFormula'>$t$</span>
+-value is determined, a  <span class='clFormula'>$p$</span>
+-value can be found using a table of values from Student's  <span class='clFormula'>$t$</span>
+-distribution.</li>
+<li>If the calculated  <span class='clFormula'>$p$</span>
+-value is below the threshold chosen for statistical significance (usually the  <span class='clFormula'>$0.10$</span>
+, the  <span class='clFormula'>$0.05$</span>
+, or  <span class='clFormula'>$0.01$</span>
+level), then the null hypothesis is rejected in favor of the alternative hypothesis.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>standard error</dt>
+<dd>A measure of how spread out data values are around the mean, defined as the square root of the variance.</dd>
+<dt>p-value</dt>
+<dd>The probability of obtaining a test statistic at least as extreme as the one that was actually observed, assuming that the null hypothesis is true.</dd>
+</dl>
+
+<p>The following is a discussion on explicit expressions that can be used to carry out various  <span class='clFormula'>$t$</span>
+-tests. In each case, the formula for a test statistic that either exactly follows or closely approximates a  <span class='clFormula'>$t$</span>
+-distribution under the null hypothesis is given. Also, the appropriate degrees of freedom are given in each case. Each of these statistics can be used to carry out either a one-tailed test or a two-tailed test.</p>
+<p>Once a  <span class='clFormula'>$t$</span>
+-value is determined, a  <span class='clFormula'>$p$</span>
+-value can be found using a table of values from Student's  <span class='clFormula'>$t$</span>
+-distribution. If the calculated  <span class='clFormula'>$p$</span>
+-value is below the threshold chosen for statistical significance (usually the <span class='clFormula'>$0.10$</span>
+, the  <span class='clFormula'>$0.05$</span>
+, or  <span class='clFormula'>$0.01$</span>
+ level), then the null hypothesis is rejected in favor of the alternative hypothesis.</p>
+
+<h3>One-Sample T-Test</h3>
+
+<p>In testing the null hypothesis that the population mean is equal to a specified value <span class='clFormula'>$\mu_0$</span>
+, one uses the statistic:</p>
+
+<div class='clFormula'>$t=\dfrac { \bar { x } -{ \mu }_{ 0 } }{ s/\sqrt { n } }$</div>
+
+<p>where  <span class='clFormula'>$\bar { x }$</span>
+ is the sample mean, <span class='clFormula'>$s$</span>
+ is the sample standard deviation of the sample and <span class='clFormula'>$n$</span>
+ is the sample size. The degrees of freedom used in this test is <span class='clFormula'>$n-1$</span>
+.</p>
+
+<h3>Slope of a Regression</h3>
+
+<p>Suppose one is fitting the model:</p>
+
+<div class='clFormula'>${ Y }_{ i }=\alpha +\beta { x }_{ i }+{ \varepsilon }_{ i }$</div>
+
+<p>where <span class='clFormula'>$x_i, i=1, \cdots, n$</span>
+are known, <span class='clFormula'>$\alpha$</span>
+and <span class='clFormula'>$\beta$</span>
+are unknown, and <span class='clFormula'>$\varepsilon_i$</span>
+are independent identically normally distributed random errors with expected value <span class='clFormula'>$0$</span>
+and unknown variance  <span class='clFormula'>$\sigma^2$</span>
+, and  <span class='clFormula'>$Y_i,i=1,\cdots,n$</span>
+are observed. It is desired to test the null hypothesis that the slope <span class='clFormula'>$\beta$</span>
+is equal to some specified value  <span class='clFormula'>$\beta_0$</span>
+ (often taken to be  <span class='clFormula'>$0$</span>
+, in which case the hypothesis is that  <span class='clFormula'>$x$</span>
+and  <span class='clFormula'>$y$</span>
+are unrelated). Let <span class='clFormula'>$\hat{\alpha}$</span>
+ and <span class='clFormula'>$\hat{\beta}$</span>
+ be least-squares estimators, and let <span class='clFormula'>$SE_\hat{\alpha}$</span>
+ and <span class='clFormula'>$SE_\hat{\beta}$</span>
+, respectively, be  the standard errors of those least-squares estimators. Then,</p>
+
+<div class='clFormula'>$t\text{-score} = \dfrac{\hat{\beta}-\beta_0}{SE_\hat{\beta}} \sim \tau_{n-2}$</div>
+
+<p>has a <span class='clFormula'>$t$</span>
+-distribution with <span class='clFormula'>$n - 2$</span>
+degrees of freedom if the null hypothesis is true. The standard error of the slope coefficient is:</p>
+
+<div class='clFormula'>$\displaystyle{SE_{\hat{\beta}}=\frac{\sqrt{\frac{1}{n-2} \sum_{i=1}^n \left(Y_i - \hat{y}_i \right) ^2}}{\sqrt{\sum_{i=1}^n \left( x_i - \bar{x} \right) ^2}}}$</div>
+
+<p>can be written in terms of the residuals <span class='clFormula'>$\hat{\varepsilon}_i$</span>
+:</p>
+
+<div class='clFormula'>$\hat{\varepsilon}_i = Y_i - \hat{y}_i - (\hat{\alpha} + \hat{\beta}x_i )$</div>
+
+<p>Therefore, the sum of the squares of residuals, or <span class='clFormula'>$SSR$</span>
+, is given by:</p>
+
+<div class='clFormula'>$\displaystyle{SSR = \sum_{i=1}^n \hat{\varepsilon}_i^2}$</div>
+
+<p>Then, the <span class='clFormula'>$t$</span>
+-score is given by:</p>
+
+<div class='clFormula'>$\displaystyle{t = \frac{ \left( \hat{\beta} - \beta_0\right) \sqrt{n-2}}{\sqrt{ \frac{\text{SSR}}{\sum_{i=1}^n\left( x_i - \bar{x}\right)^2}}}}$</div>
+
+
+<h3 id='concept_295'>13.1.8. Calculations for the t-Test: Two Samples</h3>
+
+<blockquote>The following is a discussion on explicit expressions that can be used to carry out various t-tests.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the <em>t</em> value for different types of sample sizes and variances in an independent two-sample t-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A two-sample t-test for equal sample sizes and equal variances is only used when both the two sample sizes are equal and it can be assumed that the two distributions have the same variance.</li>
+<li>A two-sample t-test for unequal sample sizes and equal variances is used only when it can be assumed that the two distributions have the same variance.</li>
+<li>A two-sample t-test for unequal (or equal) sample sizes and unequal variances (also known as Welch's t-test) is used only when the two population variances are assumed to be different and hence must be estimated separately.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>pooled variance</dt>
+<dd>A method for estimating variance given several different samples taken in different circumstances where the mean may vary between samples but the true variance is assumed to remain the same.</dd>
+<dt>degrees of freedom</dt>
+<dd>any unrestricted variable in a frequency distribution</dd>
+</dl>
+
+<p>The following is a discussion on explicit expressions that can be used to carry out various t-tests. In each case, the formula for a test statistic that either exactly follows or closely approximates a t-distribution under the null hypothesis is given. Also, the appropriate degrees of freedom are given in each case. Each of these statistics can be used to carry out either a one-tailed test or a two-tailed test.</p>
+<p>Once a t-value is determined, a p-value can be found using a table of values from Student's t-distribution. If the calculated p-value is below the threshold chosen for statistical significance (usually the 0.10, the 0.05, or 0.01 level), then the null hypothesis is rejected in favor of the alternative hypothesis.</p>
+
+<h3>Independent Two-Sample T-Test</h3>
+
+<h3>Equal Sample Sizes, Equal Variance</h3>
+
+<p>This test is only used when both:</p>
+<ul>
+<li>the two sample sizes (that is, the number, <em>n</em>, of participants of each group) are equal; and</li>
+<li>it can be assumed that the two distributions have the same variance.</li>
+</ul>
+<p>Violations of these assumptions are discussed below. The t-statistic to test whether the means are different can be calculated as follows:</p>
+<p><span class='clFormula'>$t=\frac { { \bar { X } }_{ 1 }-{ \bar { X } }_{ 2 } }{ { S }{ x }_{ 1 }{ x }_{ 2 }\cdot \sqrt { \frac { 2 }{ n } } }$</span>
+,</p>
+<p>where</p>
+<p><span class='clFormula'>${ S }{ x }_{ 1 }{ x }_{ 2 }=\sqrt { \frac { 1 }{ 2 } \left( { S }^{ 2 }{ x }_{ 1 }+{ S }^{ 2 }{ x }_{ 2 } \right) }$</span>
+.</p>
+<p>Here, <span class='clFormula'>${ S }{ x }_{ 1 }{ x }_{ 2 }$</span>
+is the grand standard deviation (or pooled standard deviation), 1 = group one, 2 = group two. The denominator of <em>t</em> is the standard error of the difference between two means.</p>
+<p>For significance testing, the degrees of freedom for this test is 2n − 2 where <em>n</em> is the number of participants in each group.</p>
+
+<h3>Unequal Sample Sizes, Equal Variance</h3>
+
+<p>This test is used only when it can be assumed that the two distributions have the same variance. The t-statistic to test whether the means are different can be calculated as follows:</p>
+<p><span class='clFormula'>$t=\frac { { \bar { X } }_{ 1 }-{ \bar { X } }_{ 2 } }{ { S }{ x }_{ 1 }{ x }_{ 2 }\cdot \sqrt { \frac { 1 }{ { n }_{ 1 } } +\frac { 1 }{ { n }_{ 2 } } } }$</span>
+,</p>
+<p>where .</p>
+
+
+
+<a href='../images/18326.png'><img class='clImageThumb' src='../images/18326.png' alt='Pooled Variance'></a>
+
+<div><b><i>Pooled Variance</i></b></div>
+<p><i>This is the formula for a pooled variance in a two-sample t-test with unequal sample size but equal variances.</i></p>
+
+<p><span class='clFormula'>${ S }{ x }_{ 1 }{ x }_{ 2 }$</span>
+is an estimator of the common standard deviation of the two samples: it is defined in this way so that its square is an unbiased estimator of the common variance whether or not the population means are the same. In these formulae, n = number of participants, 1 = group one, 2 = group two. n − 1 is the number of degrees of freedom for either group, and the total sample size minus two (that is, n<sub>1</sub> + n<sub>2</sub> − 2) is the total number of degrees of freedom, which is used in significance testing.</p>
+
+<h3>Unequal (or Equal) Sample Sizes, Unequal Variances</h3>
+
+<p>This test, also known as Welch's t-test, is used only when the two population variances are assumed to be different (the two sample sizes may or may not be equal) and hence must be estimated separately. The t-statistic to test whether the population means are different is calculated as:</p>
+
+<div class='clFormula'>$t=\frac { { \bar { X } }_{ 1 }-{ \bar { X } }_{ 2 } }{ { s }_{ { \bar { X } }_{ 1 }-{ \bar { X } }_{ 2 } } }$</div>
+
+<p>where .</p>
+
+
+
+<a href='../images/18327.png'><img class='clImageThumb' src='../images/18327.png' alt='Unpooled Variance'></a>
+
+<div><b><i>Unpooled Variance</i></b></div>
+<p><i>This is the formula for a pooled variance in a two-sample t-test with unequal or equal sample sizes but unequal variances.</i></p>
+
+<p>Here s<sup>2</sup> is the unbiased estimator of the variance of the two samples, n<sub>i</sub> = number of participants in group i, i=1 or 2. Note that in this case <span class='clFormula'>${ { s }_{ { \bar { X } }_{ 1 }-{ \bar { X } }_{ 2 } } }^{ 2 }$</span>
+is not a pooled variance. For use in significance testing, the distribution of the test statistic is approximated as an ordinary Student's t-distribution with the degrees of freedom calculated using:</p>
+<p>.</p>
+
+
+
+<a href='../images/18328.png'><img class='clImageThumb' src='../images/18328.png' alt='Welch–Satterthwaite Equation'></a>
+
+<div><b><i>Welch–Satterthwaite Equation</i></b></div>
+<p><i>This is the formula for calculating the degrees of freedom in Welsh's t-test.</i></p>
+
+<p>This is known as the Welch–Satterthwaite equation. The true distribution of the test statistic actually depends (slightly) on the two unknown population variances.</p>
+
+<h3 id='concept_296'>13.1.9. Multivariate Testing</h3>
+
+<blockquote>Hotelling's <span class='clFormula'>$T$</span>
+-square statistic allows for the testing of hypotheses on multiple (often correlated) measures within the same sample.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Summarize Hotelling's <equation>$T$</equation>-squared statistics for one- and two-sample multivariate tests</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Hotelling's <span class='clFormula'>$T$</span>
+-squared distribution is important because it arises as the distribution of a set of statistics which are natural generalizations of the statistics underlying Student's <span class='clFormula'>$t$</span>
+-distribution.</li>
+<li>In particular, the distribution arises in multivariate statistics in undertaking tests of the differences between the (multivariate) means of different populations, where tests for univariate problems would make use of a <span class='clFormula'>$t$</span>
+-test.</li>
+<li>For a one-sample multivariate test, the hypothesis is that the mean vector (<span class='clFormula'>$\mu$</span>
+) is equal to a given vector (<span class='clFormula'>${ \mu }_{ 0 }$</span>
+).</li>
+<li>For a two-sample multivariate test, the hypothesis is that the mean vectors (<span class='clFormula'>${ \mu }_{ 1 }$</span>
+ and <span class='clFormula'>${ \mu }_{ 2 }$</span>
+) of two samples are equal.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Hotelling's T-square statistic</dt>
+<dd>A generalization of Student's <equation>$t$</equation>-statistic that is used in multivariate hypothesis testing.</dd>
+<dt>Type I error</dt>
+<dd>An error occurring when the null hypothesis (<equation>$H_0$</equation>) is true, but is rejected.</dd>
+</dl>
+
+<p>A generalization of Student's <span class='clFormula'>$t$</span>
+-statistic, called Hotelling's <span class='clFormula'>$T$</span>
+-square statistic, allows for the testing of hypotheses on multiple (often correlated) measures within the same sample. For instance, a researcher might submit a number of subjects to a personality test consisting of multiple personality scales (e.g., the Minnesota Multiphasic Personality Inventory). Because measures of this type are usually highly correlated, it is not advisable to conduct separate univariate <span class='clFormula'>$t$</span>
+-tests to test hypotheses, as these would neglect the covariance among measures and inflate the chance of falsely rejecting at least one hypothesis (type I error). In this case a single multivariate test is preferable for hypothesis testing. Hotelling's  <span class='clFormula'>$T^2$</span>
+ statistic follows a <span class='clFormula'>$T^2$</span>
+ distribution.</p>
+<p>Hotelling's <span class='clFormula'>$T$</span>
+-squared distribution is important because it arises as the distribution of a set of statistics which are natural generalizations of the statistics underlying Student's <span class='clFormula'>$t$</span>
+-distribution. In particular, the distribution arises in multivariate statistics in undertaking tests of the differences between the (multivariate) means of different populations, where tests for univariate problems would make use of a <span class='clFormula'>$t$</span>
+-test. It is proportional to the <span class='clFormula'>$F$</span>
+-distribution.</p>
+
+<h3>One-sample <span class='clFormula'>$T^2$</span>
+Test</h3>
+
+<p>For a one-sample multivariate test, the hypothesis is that the mean vector (<span class='clFormula'>$\mu$</span>
+) is equal to a given vector (<span class='clFormula'>${ \mu }_{ 0 }$</span>
+). The test statistic is defined as follows:</p>
+
+<div class='clFormula'>$T^2 = n (\bar{\mathbf{x}}-\mu_0)' \mathbf{S}^{-1} (\bar{\mathbf{x}}-\mu_0)$</div>
+
+<p>where <span class='clFormula'>$n$</span>
+is the sample size, <span class='clFormula'>$\bar { x }$</span>
+is the vector of column means and  <span class='clFormula'>$S$</span>
+is a <span class='clFormula'>$m \times m$</span>
+ sample covariance matrix.</p>
+
+<h3>Two-Sample T<sup>2</sup> Test</h3>
+
+<p>For a two-sample multivariate test, the hypothesis is that the mean vectors (<span class='clFormula'>${ \mu }_{ 1 },{ \mu }_{ 2 }$</span>
+) of two samples are equal. The test statistic is defined as:</p>
+
+<div class='clFormula'>$T^2 = \dfrac{n_1n_2}{n_1 + n_2}(\bar{\mathbf{x}}_1 - \bar{\mathbf{x}}_2)' {\mathbf{S}_{\text{pooled}}}^{-1} (\bar{\mathbf{x}}_1 - \bar{\mathbf{x}}_2)$</div>
+
+
+<h3 id='concept_297'>13.1.10. Alternatives to the t-Test</h3>
+
+<blockquote>When the normality assumption does not hold, a nonparametric alternative to the <span class='clFormula'>$t$</span>
+-test can often have better statistical power.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how Wilcoxon Rank Sum tests are applied to data distributions</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The <span class='clFormula'>$t$</span>
+-test provides an exact test for the equality of the means of two normal populations with unknown, but equal, variances.</li>
+<li>The Welch's <span class='clFormula'>$t$</span>
+-test is a nearly exact test for the case where the data are normal but the variances may differ.</li>
+<li>For moderately large samples and a one-tailed test, the <span class='clFormula'>$t$</span>
+is relatively robust to moderate violations of the normality assumption.</li>
+<li>If the sample size is large, Slutsky's theorem implies that the distribution of the sample variance has little effect on the distribution of the test statistic.</li>
+<li>For two independent samples when the data distributions are asymmetric (that is, the distributions are skewed) or the distributions have large tails, then the Wilcoxon Rank Sum test can have three to four times higher power than the <span class='clFormula'>$t$</span>
+-test.</li>
+<li>The nonparametric counterpart to the paired-samples <span class='clFormula'>$t$</span>
+-test is the Wilcoxon signed-rank test for paired samples.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>central limit theorem</dt>
+<dd>The theorem that states: If the sum of independent identically distributed random variables has a finite variance, then it will be (approximately) normally distributed.</dd>
+<dt>Wilcoxon Rank Sum test</dt>
+<dd>A non-parametric test of the null hypothesis that two populations are the same against an alternative hypothesis, especially that a particular population tends to have larger values than the other.</dd>
+<dt>Wilcoxon signed-rank test</dt>
+<dd>A nonparametric statistical hypothesis test used when comparing two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ (i.e., it is a paired difference test).</dd>
+</dl>
+
+<p>The <span class='clFormula'>$t$</span>
+-test provides an exact test for the equality of the means of two normal populations with unknown, but equal, variances. The Welch's <span class='clFormula'>$t$</span>
+-test is a nearly exact test for the case where the data are normal but the variances may differ. For moderately large samples and a one-tailed test, the <span class='clFormula'>$t$</span>
+is relatively robust to moderate violations of the normality assumption.</p>
+<p>For exactness, the <span class='clFormula'>$t$</span>
+-test and <span class='clFormula'>$Z$</span>
+-test require normality of the sample means, and the <span class='clFormula'>$t$</span>
+-test additionally requires that the sample variance follows a scaled  <span class='clFormula'>$\chi^2$</span>
+distribution, and that the sample mean and sample variance be statistically independent. Normality of the individual data values is not required if these conditions are met. By the central limit theorem, sample means of moderately large samples are often well-approximated by a normal distribution even if the data are not normally distributed. For non-normal data, the distribution of the sample variance may deviate substantially from a  <span class='clFormula'>$\chi^2$</span>
+ distribution. If the data are substantially non-normal and the sample size is small, the <span class='clFormula'>$t$</span>
+-test can give misleading results. However, if the sample size is large, Slutsky's theorem implies that the distribution of the sample variance has little effect on the distribution of the test statistic.</p>
+<p>Slutsky's theorem extends some properties of algebraic operations on convergent sequences of real numbers to sequences of random variables. The theorem was named after Eugen Slutsky. The statement is as follows:</p>
+<p>Let  <span class='clFormula'>$\{X_n\}$</span>
+,  <span class='clFormula'>$\{Y_n\}$</span>
+ be sequences of scalar/vector/matrix random elements. If  <span class='clFormula'>$X_n$</span>
+converges in distribution to a random element  <span class='clFormula'>$X$</span>
+, and <span class='clFormula'>$Y$</span>
+converges in probability to a constant  <span class='clFormula'>$c$</span>
+, then:</p>
+
+<div class='clFormula'>$\displaystyle{&#10;X_n + Y_n \overset{a}{\rightarrow} X + c\\&#10;Y_nX_n \overset{d}{\rightarrow} cX\\&#10;Y_n^{-1}X_n \overset{d}{\rightarrow} c^{-1} X&#10;}$</div>
+
+<p>where <span class='clFormula'>$\overset{d}{\rightarrow}$</span>
+denotes convergence in distribution.</p>
+<p>When the normality assumption does not hold, a nonparametric alternative to the <span class='clFormula'>$t$</span>
+-test can often have better statistical power. For example, for two independent samples when the data distributions are asymmetric (that is, the distributions are skewed) or the distributions have large tails, then the Wilcoxon Rank Sum test (also known as the Mann-Whitney <span class='clFormula'>$U$</span>
+test) can have three to four times higher power than the <span class='clFormula'>$t$</span>
+-test. The nonparametric counterpart to the paired samples <span class='clFormula'>$t$</span>
+-test is the Wilcoxon signed-rank test for paired samples.</p>
+<p>One-way analysis of variance generalizes the two-sample <span class='clFormula'>$t$</span>
+-test when the data belong to more than two groups.</p>
+
+<h3 id='concept_298'>13.1.11. Cohen's d</h3>
+
+<blockquote>Cohen's <span class='clFormula'>$d$</span>
+is a method of estimating effect size in a  <span class='clFormula'>$t$</span>
+-test based on means or distances between/among means.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Justify Cohen's  <equation>$d$</equation> as a method for estimating effect size in a  <equation>$t$</equation>-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>An effect size is a measure of the strength of a phenomenon (for example, the relationship between two variables in a statistical population) or a sample-based estimate of that quantity.</li>
+<li>An effect size calculated from data is a descriptive statistic that conveys the estimated magnitude of a relationship without making any statement about whether the apparent relationship in the data reflects a true relationship in the population.</li>
+<li>Cohen's <span class='clFormula'>$d$</span>
+is an example of a standardized measure of effect, which are used when the metrics of variables do not have intrinsic meaning, results from multiple studies are being combined, the studies use different scales, or when effect size is conveyed relative to the variability in the population.</li>
+<li>As in any statistical setting, effect sizes are estimated with error, and may be biased unless the effect size estimator that is used is appropriate for the manner in which the data were sampled and the manner in which the measurements were made.</li>
+<li>Cohen's <span class='clFormula'>$d$</span>
+is defined as the difference between two means divided by a standard deviation for the data: <span class='clFormula'>$D=\frac { { \bar { x } }_{ 1 }-{ \bar { x } }_{ 2 } }{ \sigma }$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Cohen's d</dt>
+<dd>A measure of effect size indicating the amount of different between two groups on a construct of interest in standard deviation units.</dd>
+<dt>p-value</dt>
+<dd>The probability of obtaining a test statistic at least as extreme as the one that was actually observed, assuming that the null hypothesis is true.</dd>
+</dl>
+
+<p>Cohen's  <span class='clFormula'>$d$</span>
+is a method of estimating effect size in a <span class='clFormula'>$t$</span>
+-test based on means or distances between/among means . An effect size is a measure of the strength of a phenomenon—for example, the relationship between two variables in a statistical population (or a sample-based estimate of that quantity). An effect size calculated from data is a descriptive statistic that conveys the estimated magnitude of a relationship without making any statement about whether the apparent relationship in the data reflects a true relationship in the population. In that way, effect sizes complement inferential statistics such as <span class='clFormula'>$p$</span>
+-values. Among other uses, effect size measures play an important role in meta-analysis studies that summarize findings from a specific area of research, and in statistical power analyses.</p>
+
+
+
+<a href='../images/18315.svg'><img class='clImageThumb' src='../images/18315.svg' alt='Cohen's '></a>
+
+<div><b><i>Cohen's <span class='clFormula'>$d$</span></i></b></div>
+<p><i>Plots of the densities of Gaussian distributions showing different Cohen's effect sizes.</i></p>
+
+<p>The concept of effect size already appears in everyday language. For example, a weight loss program may boast that it leads to an average weight loss of 30 pounds. In this case, 30 pounds is an indicator of the claimed effect size. Another example is that a tutoring program may claim that it raises school performance by one letter grade. This grade increase is the claimed effect size of the program. These are both examples of "absolute effect sizes," meaning that they convey the average difference between two groups without any discussion of the variability within the groups.</p>
+<p>Reporting effect sizes is considered good practice when presenting empirical research findings in many fields. The reporting of effect sizes facilitates the interpretation of the substantive, as opposed to the statistical, significance of a research result. Effect sizes are particularly prominent in social and medical research.</p>
+<p>Cohen's <span class='clFormula'>$d$</span>
+is an example of a standardized measure of effect. Standardized effect size measures are typically used when the metrics of variables being studied do not have intrinsic meaning (e.g., a score on a personality test on an arbitrary scale), when results from multiple studies are being combined, when some or all of the studies use different scales, or when it is desired to convey the size of an effect relative to the variability in the population. In meta-analysis, standardized effect sizes are used as a common measure that can be calculated for different studies and then combined into an overall summary.</p>
+<p>As in any statistical setting, effect sizes are estimated with error, and may be biased unless the effect size estimator that is used is appropriate for the manner in which the data were sampled and the manner in which the measurements were made. An example of this is publication bias, which occurs when scientists only report results when the estimated effect sizes are large or are statistically significant. As a result, if many researchers are carrying out studies under low statistical power, the reported results are biased to be stronger than true effects, if any.</p>
+
+<h3>Relationship to Test Statistics</h3>
+
+<p>Sample-based effect sizes are distinguished from test statistics used in hypothesis testing in that they estimate the strength of an apparent relationship, rather than assigning a significance level reflecting whether the relationship could be due to chance. The effect size does not determine the significance level, or vice-versa. Given a sufficiently large sample size, a statistical comparison will always show a significant difference unless the population effect size is exactly zero. For example, a sample Pearson correlation coefficient of  <span class='clFormula'>$0.1$</span>
+is strongly statistically significant if the sample size is  <span class='clFormula'>$1000$</span>
+. Reporting only the significant <span class='clFormula'>$p$</span>
+-value from this analysis could be misleading if a correlation of <span class='clFormula'>$0.1$</span>
+is too small to be of interest in a particular application.</p>
+
+<h3>Cohen's D</h3>
+
+<p>Cohen's <span class='clFormula'>$d$</span>
+is defined as the difference between two means divided by a standard deviation for the data:</p>
+
+<div class='clFormula'>$D=\dfrac { { \bar { x } }_{ 1 }-{ \bar { x } }_{ 2 } }{ \sigma }$</div>
+
+<p>Cohen's <span class='clFormula'>$d$</span>
+is frequently used in estimating sample sizes. A lower Cohen's <span class='clFormula'>$d$</span>
+indicates a necessity of larger sample sizes, and vice versa, as can subsequently be determined together with the additional parameters of desired significance level and statistical power.</p>
+<p>The precise definition of the standard deviation <em>s</em> was not originally made explicit by Jacob Cohen; he defined it (using the symbol <span class='clFormula'>$\sigma$</span>
+) as "the standard deviation of either population" (since they are assumed equal). Other authors make the computation of the standard deviation more explicit with the following definition for a pooled standard deviation with two independent samples.</p>
+
+<div class='clFormula'>$\displaystyle{s=\sqrt{\frac{(n_1 - 1)s_1^2 + (n_2 -1) s_2^2}{n_1 + n_2 - 2}}}$</div>
+
+<h2 id='section_61'>13.2. The Chi-Squared Test</h2>
+
+<h3 id='concept_299'>13.2.1. Categorical Data and the Multinomial Experiment</h3>
+
+<blockquote>The multinomial experiment is the test of the null hypothesis that the parameters of a multinomial distribution equal specified values.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the multinomial experiment for testing a null hypothesis</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The multinomial experiment is really an extension of the binomial experiment, in which there were only two categories: success or failure.</li>
+<li>The multinomial experiment consists of <span class='clFormula'>$n$</span>
+identical and independent trials with <span class='clFormula'>$k$</span>
+possible outcomes for each trial.</li>
+<li>For n independent trials each of which leads to a success for exactly one of <span class='clFormula'>$k$</span>
+categories, with each category having a given fixed success probability, the multinomial distribution gives the probability of any particular combination of numbers of successes for the various categories.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial distribution</dt>
+<dd>the discrete probability distribution of the number of successes in a sequence of <equation>$n$</equation> independent yes/no experiments, each of which yields success with probability <equation>$p$</equation></dd>
+<dt>multinomial distribution</dt>
+<dd>A generalization of the binomial distribution; gives the probability of any particular combination of numbers of successes for the various categories.</dd>
+</dl>
+
+<h3>The Multinomial Distribution</h3>
+
+<p>In probability theory, the multinomial distribution is a generalization of the binomial distribution. For <span class='clFormula'>$n$</span>
+independent trials, each of which leads to a success for exactly one of <span class='clFormula'>$k$</span>
+categories and with each category having a given fixed success probability, the multinomial distribution gives the probability of any particular combination of numbers of successes for the various categories.</p>
+<p>The binomial distribution is the probability distribution of the number of successes for one of just two categories in <span class='clFormula'>$n$</span>
+independent Bernoulli trials, with the same probability of success on each trial. In a multinomial distribution, the analog of the Bernoulli distribution is the categorical distribution, where each trial results in exactly one of some fixed finite number <span class='clFormula'>$k$</span>
+of possible outcomes, with probabilities  <span class='clFormula'>$p_1, \cdots , p_k$</span>
+ (so that <span class='clFormula'>$p_i \geq 0$</span>
+for <span class='clFormula'>$i = 1, \cdots, k$</span>
+ and the sum is <span class='clFormula'>$1$</span>
+), and there are <span class='clFormula'>$n$</span>
+independent trials. Then if the random variables X<sub>i</sub> indicate the number of times outcome number <span class='clFormula'>$i$</span>
+is observed over the <span class='clFormula'>$n$</span>
+trials, the vector <span class='clFormula'>$X = (X_1, \cdots , X_k)$</span>
+follows a multinomial distribution with parameters <span class='clFormula'>$n$</span>
+and <span class='clFormula'>$p$</span>
+, where <span class='clFormula'>$p = (p_1, \cdots , p_k)$</span>
+.</p>
+
+<h3>The Multinomial Experiment</h3>
+
+<p>In statistics, the multinomial experiment is the test of the null hypothesis that the parameters of a multinomial distribution equal specified values. It is used for categorical data. It is really an extension of the binomial experiment, where there were only two categories: success or failure. One example of a multinomial experiment is asking which of six candidates a voter preferred in an election.</p>
+
+<h3>Properties for the Multinomial Experiment</h3>
+
+<ul>
+<li>The experiment consists of <span class='clFormula'>$n$</span>
+identical trials.</li>
+<li>There are <span class='clFormula'>$k$</span>
+possible outcomes for each trial. These outcomes are sometimes called classes, categories, or cells.</li>
+<li>The probabilities of the <span class='clFormula'>$k$</span>
+outcomes, denoted by  <span class='clFormula'>$p_1$</span>
+, <span class='clFormula'>$p_2$</span>
+, <span class='clFormula'>$\cdots$</span>
+, <span class='clFormula'>$p_k$</span>
+, remain the same from trial to trial, and they sum to one.</li>
+<li>The trials are independent.</li>
+<li>The random variables of interest are the cell counts  <span class='clFormula'>$n_1$</span>
+, <span class='clFormula'>$n_2$</span>
+, <span class='clFormula'>$\cdots$</span>
+, <span class='clFormula'>$n_k$</span>
+, which refer to the number of observations that fall into each of the <span class='clFormula'>$k$</span>
+categories.</li>
+</ul><h3 id='concept_300'>13.2.2. Structure of the Chi-Squared Test</h3>
+
+<blockquote>The chi-square test is used to determine if a distribution of observed frequencies differs from the theoretical expected frequencies.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Apply the chi-square test to approximate the probability of an event, distinguishing the different sample conditions in which it can be applied</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A chi-square test statistic is a measure of how different the data we observe are to what we would expect to observe if the variables were truly independent.</li>
+<li>The higher the test-statistic, the more likely that the data we observe did not come from independent variables.</li>
+<li>The chi-square distribution shows us how likely it is that the test statistic value was due to chance.</li>
+<li>If the difference between what we observe and what we expect from independent variables is large (and not just by chance), then we reject the null hypothesis that the two variables are independent and conclude that there is a relationship between the variables.</li>
+<li>Two types of chi-square tests include the test for goodness of fit and the test for independence.</li>
+<li>Certain assumptions must be made when conducting a goodness of fit test, including a simple random sample, a large enough sample size, independence, and adequate expected cell count.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>degrees of freedom</dt>
+<dd>any unrestricted variable in a frequency distribution</dd>
+<dt>Fisher's exact test</dt>
+<dd>a statistical significance test used in the analysis of contingency tables, in which the significance of the deviation from a null hypothesis can be calculated exactly, rather than relying on an approximation that becomes exact in the limit as the sample size grows to infinity</dd>
+</dl>
+
+<p>The chi-square (<span class='clFormula'>$\chi^2$</span>
+) test is a nonparametric statistical technique used to determine if a distribution of observed frequencies differs from the theoretical expected frequencies. Chi-square statistics use nominal (categorical) or ordinal level data. Thus, instead of using means and variances, this test uses frequencies.</p>
+<p>Generally, the chi-squared statistic summarizes the discrepancies between the expected number of times each outcome occurs (assuming that the model is true) and the observed number of times each outcome occurs, by summing the squares of the discrepancies, normalized by the expected numbers, over all the categories.</p>
+<p>Data used in a chi-square analysis has to satisfy the following conditions:</p>
+<ul>
+<li>
+<em>Simple random sample</em> – The sample data is a random sampling from a fixed distribution or population where each member of the population has an equal probability of selection. Variants of the test have been developed for complex samples, such as where the data is weighted.</li>
+<li>
+<em>Sample size (whole table)</em> – A sample with a sufficiently large size is assumed. If a chi squared test is conducted on a sample with a smaller size, then the chi squared test will yield an inaccurate inference. The researcher, by using chi squared test on small samples, might end up committing a Type II error.</li>
+<li>
+<em>Expected cell count</em> – Adequate expected cell counts. Some require 5 or more, and others require 10 or more. A common rule is 5 or more in all cells of a 2-by-2 table, and 5 or more in 80% of cells in larger tables, but no cells with zero expected count.</li>
+<li>
+<em>Independence</em> – The observations are always assumed to be independent of each other. This means chi-squared cannot be used to test correlated data (like matched pairs or panel data).</li>
+</ul>
+<p>There are two types of chi-square test:</p>
+<ul>
+<li>The Chi-square test for goodness of fit, which compares the expected and observed values to determine how well an experimenter's predictions fit the data.</li>
+<li>The Chi-square test for independence, which compares two sets of categories to determine whether the two groups are distributed differently among the categories.</li>
+</ul>
+
+<h3>How Do We Perform a Chi-Square Test?</h3>
+
+<p>First, we calculate a chi-square test statistic. The higher the test-statistic, the more likely that the data we observe did not come from independent variables.</p>
+<p>Second, we use the chi-square distribution. We may observe data that give us a high test-statistic just by chance, but the chi-square distribution shows us how likely it is. The chi-square distribution takes slightly different shapes depending on how many categories (degrees of freedom) our variables have. Interestingly, when the degrees of freedom get very large, the shape begins to look like the bell curve we know and love. This is a property shared by the <span class='clFormula'>$T$</span>
+-distribution.</p>
+<p>If the difference between what we observe and what we expect from independent variables is large (that is, the chi-square distribution tells us it is unlikely to be that large just by chance) then we reject the null hypothesis that the two variables are independent. Instead, we favor the alternative that there is a relationship between the variables. Therefore, chi-square can help us discover that there is a relationship but cannot look too deeply into what that relationship is.</p>
+
+<h3>Problems</h3>
+
+<p>The approximation to the chi-squared distribution breaks down if expected frequencies are too low. It will normally be acceptable so long as no more than 20% of the events have expected frequencies below 5. Where there is only 1 degree of freedom, the approximation is not reliable if expected frequencies are below 10. In this case, a better approximation can be obtained by reducing the absolute value of each difference between observed and expected frequencies by 0.5 before squaring. This is called Yates's correction for continuity.</p>
+<p>In cases where the expected value, <span class='clFormula'>$E$</span>
+, is found to be small (indicating a small underlying population probability, and/or a small number of observations), the normal approximation of the multinomial distribution can fail. In such cases it is found to be more appropriate to use the <span class='clFormula'>$G$</span>
+-test, a likelihood ratio-based test statistic. Where the total sample size is small, it is necessary to use an appropriate exact test, typically either the binomial test or (for contingency tables) Fisher's exact test. However, note that this test assumes fixed and known totals in all margins, an assumption which is typically false.</p>
+
+<h3 id='concept_301'>13.2.3. How Fisher Used the Chi-Squared Test</h3>
+
+<blockquote>Fisher's exact test is preferable to a chi-square test when sample sizes are small, or the data are very unequally distributed.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate statistical significance by employing Fisher's exact test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Fisher's exact test is a statistical significance test used in the analysis of contingency tables.</li>
+<li>Fisher's exact test is useful for categorical data that result from classifying objects in two different ways.</li>
+<li>It is used to examine the significance of the association (contingency) between the two kinds of classification.</li>
+<li>The usual rule of thumb for deciding whether the chi-squared approximation is good enough is that the chi-squared test is not suitable when the expected values in any of the cells of a contingency table are below 5, or below 10 when there is only one degree of freedom.</li>
+<li>Fisher's exact test becomes difficult to calculate with large samples or well-balanced tables, but fortunately these are exactly the conditions where the chi-squared test is appropriate.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>p-value</dt>
+<dd>The probability of obtaining a test statistic at least as extreme as the one that was actually observed, assuming that the null hypothesis is true.</dd>
+<dt>hypergeometric distribution</dt>
+<dd>a discrete probability distribution that describes the number of successes in a sequence of <equation>$n$</equation> draws from a finite population without replacement</dd>
+<dt>contingency table</dt>
+<dd>a table presenting the joint distribution of two categorical variables</dd>
+</dl>
+
+<p>Fisher's exact test is a statistical significance test used in the analysis of contingency tables. Although in practice it is employed when sample sizes are small, it is valid for all sample sizes. It is named after its inventor, R. A. Fisher. Fisher's exact test is one of a class of exact tests, so called because the significance of the deviation from a null hypothesis can be calculated exactly, rather than relying on an approximation that becomes exact in the limit as the sample size grows to infinity. Fisher is said to have devised the test following a comment from Dr. Muriel Bristol, who claimed to be able to detect whether the tea or the milk was added first to her cup.</p>
+
+
+
+<a href='../images/18386.jpeg'><img class='clImageThumb' src='../images/18386.jpeg' alt='Sir Ronald Fisher'></a>
+
+<div><b><i>Sir Ronald Fisher</i></b></div>
+<p><i>Sir Ronald Fisher is the namesake for Fisher's exact test.</i></p>
+
+<h3>Purpose and Scope</h3>
+
+<p>The test is useful for categorical data that result from classifying objects in two different ways. It is used to examine the significance of the association (contingency) between the two kinds of classification. In Fisher's original example, one criterion of classification could be whether milk or tea was put in the cup first, and the other could be whether Dr. Bristol thinks that the milk or tea was put in first. We want to know whether these two classifications are associated—that is, whether Dr. Bristol really can tell whether milk or tea was poured in first. Most uses of the Fisher test involve, like this example, a <span class='clFormula'>$2 \times 2$</span>
+contingency table. The <span class='clFormula'>$p$</span>
+-value from the test is computed as if the margins of the table are fixed (i.e., as if, in the tea-tasting example, Dr. Bristol knows the number of cups with each treatment [milk or tea first] and will, therefore, provide guesses with the correct number in each category). As pointed out by Fisher, under a null hypothesis of independence, this leads to a hypergeometric distribution of the numbers in the cells of the table.</p>
+<p>With large samples, a chi-squared test can be used in this situation. However, the significance value it provides is only an approximation, because the sampling distribution of the test statistic that is calculated is only approximately equal to the theoretical chi-squared distribution. The approximation is inadequate when sample sizes are small, or the data are very unequally distributed among the cells of the table, resulting in the cell counts predicted on the null hypothesis (the "expected values") being low. The usual rule of thumb for deciding whether the chi-squared approximation is good enough is that the chi-squared test is not suitable when the expected values in any of the cells of a contingency table are below 5, or below 10 when there is only one degree of freedom. In fact, for small, sparse, or unbalanced data, the exact and asymptotic <span class='clFormula'>$p$</span>
+-values can be quite different and may lead to opposite conclusions concerning the hypothesis of interest. In contrast, the Fisher test is, as its name states, exact as long as the experimental procedure keeps the row and column totals fixed. Therefore, it can be used regardless of the sample characteristics. It becomes difficult to calculate with large samples or well-balanced tables, but fortunately these are exactly the conditions where the chi-squared test is appropriate.</p>
+<p>For hand calculations, the test is only feasible in the case of a <span class='clFormula'>$2 \times 2$</span>
+contingency table. However, the principle of the test can be extended to the general case of an <span class='clFormula'>$m \times n$</span>
+table, and some statistical packages provide a calculation for the more general case.</p>
+
+<h3 id='concept_302'>13.2.4. Goodness of Fit</h3>
+
+<blockquote>The goodness of fit test determines whether the data "fit" a particular distribution or not.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Outline the procedure for the goodness of fit test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The test statistic for a goodness-of-fit test is: <span class='clFormula'>$\chi ^{2}=\sum_{i=1}^{k}\frac{(O-E)^{2}}{E}$</span>
+, where <span class='clFormula'>$O$</span>
+ is the observed values (data), <span class='clFormula'>$E$</span>
+ is the expected values (from theory), and <span class='clFormula'>$k$</span>
+ is the number of different data cells or categories.</li>
+<li>The goodness-of-fit test is almost always right tailed. If the observed values and the corresponding expected values are not close to each other, then the test statistic can get very large and will be way out in the right tail of the chi-square curve.</li>
+<li>If the observed values and the corresponding expected values are not close to each other, then the test statistic can get very large and will be way out in the right tail of the chi-square curve.</li>
+<li>The null hypothesis for a chi-square test is that the observed values are close to the predicted values.</li>
+<li>The alternative hypothesis is that they are not close to the predicted values.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial distribution</dt>
+<dd>the discrete probability distribution of the number of successes in a sequence of n independent yes/no experiments, each of which yields success with probability <equation>$p$</equation></dd>
+<dt>goodness of fit</dt>
+<dd>how well a statistical model fits a set of observations</dd>
+</dl>
+
+<h3>Procedure for the Goodness of Fit Test</h3>
+
+<p>Goodness of fit means how well a statistical model fits a set of observations. A measure of goodness of fit typically summarize the discrepancy between observed values and the values expected under the model in question. Such measures can be used in statistical hypothesis testing, e.g., to test for normality of residuals or to test whether two samples are drawn from identical distributions.</p>
+<p>In this type of hypothesis test, we determine whether the data "fit" a particular distribution or not. For example, we may suspect that our unknown data fits a binomial distribution. We use a chi-square test (meaning the distribution for the hypothesis test is chi-square) to determine if there is a fit or not. The null and the alternate hypotheses for this test may be written in sentences or may be stated as equations or inequalities.</p>
+<p>The test statistic for a goodness-of-fit test is: </p>
+
+<div class='clFormula'>$\displaystyle{\chi ^{2}=\sum_{i=1}^{k}\dfrac{(O-E)^{2}}{E}}$</div>
+
+<p>where <span class='clFormula'>$O$</span>
+ is the observed values (data), <span class='clFormula'>$E$</span>
+ is the expected values (from theory), and <span class='clFormula'>$k$</span>
+ is the number of different data cells or categories.</p>
+<p>The observed values are the data values and the expected values are the values we would expect to get if the null hypothesis was true. The degrees of freedom are found as follows:</p>
+<p><span class='clFormula'>$df = n-1$</span>
+ </p>
+<p>where <span class='clFormula'>$n$</span>
+ is the number of categories.The goodness-of-fit test is almost always right tailed. If the observed values and the corresponding expected values are not close to each other, then the test statistic can get very large and will be way out in the right tail of the chi-square curve.</p>
+<p>As an example, suppose a coin is tossed 100 times. The outcomes would be expected to be 50 heads and 50 tails. If 47 heads and 53 tails are observed instead, does this deviation occur because the coin is biased, or is it by chance?</p>
+<p>The null hypothesis for the above experiment is that the observed values are close to the predicted values. The alternative hypothesis is that they are not close to the predicted values. These hypotheses hold for all chi-square goodness of fit tests. Thus in this case the null and alternative hypotheses corresponds to:</p>
+<p>Null hypothesis: The coin is fair.</p>
+<p>Alternative hypothesis: The coin is biased.</p>
+<p>We calculate chi-square by substituting values for <span class='clFormula'>$O$</span>
+ and <span class='clFormula'>$E$</span>
+.</p>
+<p>For heads: </p>
+
+<div class='clFormula'>$\dfrac{(47-50)^2}{50}=.18$</div>
+
+<p>For tails: </p>
+
+<div class='clFormula'>$\dfrac{(53-50)^2}{50}=.18$</div>
+
+<p>The sum of these categories is:</p>
+
+<div class='clFormula'>$0.18 + 0.18 = 0.36$</div>
+
+<p>Significance of the chi-square test for goodness of fit value is established by calculating the degree of freedom <span class='clFormula'>$\nu$</span>
+(the Greek letter <em>nu</em>) and by using the chi-square distribution table. The <span class='clFormula'>$\nu$</span>
+in a chi-square goodness of fit test is equal to the number of categories,  <span class='clFormula'>$c$</span>
+, minus one (<span class='clFormula'>$\nu=c-1$</span>
+). This is done in order to check if the null hypothesis is valid or not, by looking at the critical chi-square value from the table that corresponds to the calculated  <span class='clFormula'>$\nu$</span>
+. If the calculated chi-square is greater than the value in the table, then the null hypothesis is rejected, and it is concluded that the predictions made were incorrect. In the above experiment,  <span class='clFormula'>$\nu = 2-1 = 1$</span>
+. The critical value for a chi-square for this example at  <span class='clFormula'>$a = 0.05$</span>
+and  <span class='clFormula'>$\nu=1$</span>
+is  <span class='clFormula'>$3.84$</span>
+, which is greater than <span class='clFormula'>$\chi ^ 2 = 0.36$</span>
+. Therefore the null hypothesis is not rejected, and the coin toss was fair.</p>
+
+
+
+<a href='../images/18290.svg'><img class='clImageThumb' src='../images/18290.svg' alt='Chi-Square Distribution'></a>
+
+<div><b><i>Chi-Square Distribution</i></b></div>
+<p><i>Plot of the chi-square distribution for values of  <span class='clFormula'>$k = \{ 1,2,3,4,6,9\}$</span>
+.</i></p>
+
+<h3 id='concept_303'>13.2.5. Inferences of Correlation and Regression</h3>
+
+<blockquote>The chi-square test of association allows us to evaluate associations (or correlations) between categorical data.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Calculate the adjusted standardized residuals for a chi-square test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The chi-square test indicates whether there is an association between two categorical variables, but unlike the correlation coefficient between two quantitative variables, it does not in itself give an indication of the strength of the association.</li>
+<li>In order to describe the association more fully, it is necessary to identify the cells that have large differences between the observed and expected frequencies. These differences are referred to as residuals, and they can be standardized and adjusted to follow a Normal distribution.</li>
+<li>The larger the absolute value of the residual, the larger the difference between the observed and expected frequencies, and therefore the more significant the association between the two variables.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>correlation coefficient</dt>
+<dd>Any of the several measures indicating the strength and direction of a linear relationship between two random variables.</dd>
+<dt>residuals</dt>
+<dd>The difference between the observed value and the estimated function value.</dd>
+</dl>
+
+<p>The chi-square test of association allows us to evaluate associations (or correlations) between categorical data. It indicates whether there is an association between two categorical variables, but unlike the correlation coefficient between two quantitative variables, it does not in itself give an indication of the strength of the association.</p>
+<p>In order to describe the association more fully, it is necessary to identify the cells that have large differences between the observed and expected frequencies. These differences are referred to as residuals, and they can be standardized and adjusted to follow a normal distribution with mean <span class='clFormula'>$0$</span>
+and standard deviation <span class='clFormula'>$1$</span>
+. The adjusted standardized residuals, <span class='clFormula'>$d_{ij}$</span>
+, are given by:</p>
+
+<div class='clFormula'>$\displaystyle{d_{ij}=\dfrac{O_{ij}-E_{ij}}{\sqrt{E_{ij\left ( 1-\dfrac{n_{i}}{N} \right )\left(1-\dfrac{n_{j}}{N}\right)}}}}$</div>
+
+<p>where <span class='clFormula'>$n_i$</span>
+ is the total frequency for row  <span class='clFormula'>$i$</span>
+,  <span class='clFormula'>$n_j$</span>
+is the total frequency for column  <span class='clFormula'>$j$</span>
+, and  <span class='clFormula'>$N$</span>
+is the overall total frequency. The larger the absolute value of the residual, the larger the difference between the observed and expected frequencies, and therefore the more significant the association between the two variables.</p>
+
+
+
+<a href='../images/18298.png'><img class='clImageThumb' src='../images/18298.png' alt='Table 1'></a>
+
+<div><b><i>Table 1</i></b></div>
+<p><i>Numbers of patients classified by site of central venous cannula and infectious complication. This table shows the proportions of patients in the sample with cannulae sited at the internal jugular, subclavian and femoral veins. Using the above formula to find the adjusted standardized residual for those with cannulae sited at the internal jugular and no infectious complications yields: <span class='clFormula'>$\frac{686-714.5}{\sqrt{714.5\left ( 1-\frac{934}{1706} \right )(1-\frac{1305}{1706})}}=-3.3$</span>
+. Subclavian site/no infectious complication has the largest residual at 6.2. Because it is positive, there are more individuals than expected with no infectious complications where the subclavian central line site was used. As these residuals follow a Normal distribution with mean 0 and standard deviation 1, all absolute values over 2 are significant. The association between femoral site/no infectious complication is also significant, but because the residual is negative, there are fewer individuals than expected in this cell. When the subclavian central line site was used, infectious complications appear to be less likely than when the other two sites were used.</p>
+
+
+
+<a href='../images/18299.png'><img class='clImageThumb' src='../images/18299.png' alt='Table 2'></a>
+
+<div><b><i>Table 2</i></b></div>
+<p>The adjusted standardized residuals from Table 1.</p>
+
+<h3 id='concept_304'>13.2.6. Example: Test for Goodness of Fit</h3>
+
+<blockquote>The Chi-square test for goodness of fit compares the expected and observed values to determine how well an experimenter's predictions fit the data.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Support the use of Pearson's chi-squared test to measure goodness of fit</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Pearson's chi-squared test uses a measure of goodness of fit, which is the sum of differences between observed and expected outcome frequencies, each squared and divided by the expectation.</li>
+<li>If the value of the chi-square test statistic is greater than the value in the chi-square table, then the null hypothesis is rejected.</li>
+<li>In this text, we examine a goodness of fit test as follows: for a population of employees, do the days for the highest number of absences occur with equal frequencies during a five day work week?</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>null hypothesis</dt>
+<dd>A hypothesis set up to be refuted in order to support an alternative hypothesis; presumed true until statistical evidence in the form of a hypothesis test indicates otherwise.</dd>
+</dl>
+
+<p>Pearson's chi-squared test uses a measure of goodness of fit, which is the sum of differences between observed and expected outcome frequencies (that is, counts of observations), each squared and divided by the expectation:</p>
+
+<div class='clFormula'>$\displaystyle{{ \chi }^{ 2 }=\sum _{ i=1 }^{ n }{ \dfrac { { \left( { O }_{ i }-{ E }_{ i } \right) }^{ 2 } }{ { E }_{ i } } }}$</div>
+
+<p>where <span class='clFormula'>$O_i$</span>
+ is an observed frequency (i.e. count) for bin <span class='clFormula'>$i$</span>
+ and <span class='clFormula'>$E_i$</span>
+ = an expected (theoretical) frequency for bin <span class='clFormula'>$i$</span>
+, asserted by the null hypothesis.</p>
+<p>The expected frequency is calculated by:</p>
+
+<div class='clFormula'>$E_i = [F(Y_u)-F(Y_l)] \cdot N$</div>
+
+<p>where <span class='clFormula'>$F$</span>
+ is the cumulative distribution function for the distribution being tested, <span class='clFormula'>$Y_u$</span>
+is the upper limit for class <span class='clFormula'>$i$</span>
+,  <span class='clFormula'>$Y_l$</span>
+is the lower limit for class <span class='clFormula'>$i$</span>
+, and <span class='clFormula'>$N$</span>
+is the sample size.</p>
+
+<h3>Example</h3>
+
+<p>Employers want to know which days of the week employees are absent in a five day work week. Most employers would like to believe that employees are absent equally during the week. Suppose a random sample of 60 managers were asked on which day of the week did they have the highest number of employee absences. The results were distributed as follows: </p>
+<ul>
+<li>Monday: 15</li>
+<li>Tuesday: 12</li>
+<li>Wednesday: 9</li>
+<li>Thursday: 9</li>
+<li>Friday: 15</li>
+</ul>
+
+<h3>Solution</h3>
+
+<p>The null and alternate hypotheses are:</p>
+<p><span class='clFormula'>$H_0$</span>
+: The absent days occur with equal frequencies—that is, they fit a uniform distribution.</p>
+<p><span class='clFormula'>$H_a$</span>
+: The absent days occur with unequal frequencies—that is, they do not fit a uniform distribution.</p>
+<p>If the absent days occur with equal frequencies then, out of <span class='clFormula'>$60$</span>
+absent days (the total in the sample: <span class='clFormula'>$15 + 12 + 9 + 9 + 15 = 60$</span>
+), there would be <span class='clFormula'>$12$</span>
+absences on Monday, <span class='clFormula'>$12$</span>
+on Tuesday, <span class='clFormula'>$12$</span>
+on Wednesday, <span class='clFormula'>$12$</span>
+on Thursday, and <span class='clFormula'>$12$</span>
+on Friday. These numbers are the expected (<span class='clFormula'>$E$</span>
+) values. The values in the table are the observed (<span class='clFormula'>$O$</span>
+) values or data.</p>
+<p>Calculate the <span class='clFormula'>$\chi^2$</span>
+ test statistic. Make a chart with the following column headings and fill in the cells:</p>
+<ul>
+<li>Expected (<span class='clFormula'>$E$</span>
+) values (<span class='clFormula'>$12$</span>
+,  <span class='clFormula'>$12$</span>
+,  <span class='clFormula'>$12$</span>
+,  <span class='clFormula'>$12$</span>
+,  <span class='clFormula'>$12$</span>
+)</li>
+<li>Observed (<span class='clFormula'>$O$</span>
+) values (<span class='clFormula'>$15$</span>
+,  <span class='clFormula'>$12$</span>
+,  <span class='clFormula'>$9$</span>
+,  <span class='clFormula'>$9$</span>
+,  <span class='clFormula'>$15$</span>
+)</li>
+<li>
+<span class='clFormula'>$\left( O-E \right)$</span></li>
+<li>
+<span class='clFormula'>${ \left( O-E \right) }^{ 2 }$</span></li>
+<li>
+<span class='clFormula'>$\dfrac { { \left( O-E \right) }^{ 2 } }{ E }$</span></li>
+</ul>
+<p>Now add (sum) the values of the last column. Verify that this sum is <span class='clFormula'>$3$</span>
+. This is the <span class='clFormula'>$\chi^2$</span>
+ test statistic.</p>
+<p>To find the <span class='clFormula'>$p$</span>
+-value, calculate <span class='clFormula'>$P$</span>
+(<span class='clFormula'>$\chi^2&gt;3$</span>
+). This test is right-tailed. (<span class='clFormula'>$p=0.5578$</span>
+)</p>
+<p>The degrees of freedom are one fewer than the number of cells: <span class='clFormula'>$df = 5-1 = 4$</span>
+.</p>
+
+<h3>Conclusion</h3>
+
+<p>The decision is to not reject the null hypothesis. At a <span class='clFormula'>$5\%$</span>
+level of significance, from the sample data, there is not sufficient evidence to conclude that the absent days do not occur with equal frequencies.</p>
+
+<h3 id='concept_305'>13.2.7. Example: Test for Independence</h3>
+
+<blockquote>The chi-square test for independence is used to determine the relationship between two variables of a sample.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain how to calculate chi-square test for independence</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>As with the goodness of fit example in the previous section, the key idea of the chi-square test for independence is a comparison of observed and expected values.</li>
+<li>It is important to keep in mind that the chi-square test for independence only tests whether two variables are independent or not, it cannot address questions of which is greater or less.</li>
+<li>In the example presented in this text, we examine whether boys or girls get into trouble more often in school.</li>
+<li>The null hypothesis is that the likelihood of getting in trouble is the same for boys and girls.</li>
+<li>We calculate a chi-square statistic of <span class='clFormula'>$1.87$</span>
+and find a <span class='clFormula'>$p$</span>
+-value of <span class='clFormula'>$0.20$</span>
+. Therefore, we fail to reject the null hypothesis.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>null hypothesis</dt>
+<dd>A hypothesis set up to be refuted in order to support an alternative hypothesis; presumed true until statistical evidence in the form of a hypothesis test indicates otherwise.</dd>
+<dt>alternative hypothesis</dt>
+<dd>a rival hypothesis to the null hypothesis, whose likelihoods are compared by a statistical hypothesis test</dd>
+</dl>
+
+<p>The chi-square test for independence is used to determine the relationship between two variables of a sample. In this context, independence means that the two factors are not related. Typically in social science research, researchers are interested in finding factors which are related (e.g., education and income, occupation and prestige, age and voting behavior).</p>
+<p>Suppose we want to know whether boys or girls get into trouble more often in school. Below is the table documenting the frequency of boys and girls who got into trouble in school.</p>
+
+
+
+<a href='../images/18294.png'><img class='clImageThumb' src='../images/18294.png' alt='Test for Independence'></a>
+
+<div><b><i>Test for Independence</i></b></div>
+<p>For our example, this table shows the tabulated results of the observed and expected frequencies.</i></p>
+
+<p>To examine statistically whether boys got in trouble more often in school, we need to establish hypotheses for the question. The null hypothesis is that the two variables are independent. In this particular case, it is that the likelihood of getting in trouble is the same for boys and girls. The alternative hypothesis to be tested is that the likelihood of getting in trouble is not the same for boys and girls.</p>
+<p>It is important to keep in mind that the chi-square test for independence only tests whether two variables are independent or not. It cannot address questions of which is greater or less. Using the chi-square test for independence, who gets into more trouble between boys and girls cannot be evaluated directly from the hypothesis.</p>
+<p>As with the goodness of fit example seen previously, the key idea of the chi-square test for independence is a comparison of observed and expected values. In the case of tabular data, however, we usually do not know what the distribution should look like (as we did with tossing the coin). Rather, expected values are calculated based on the row and column totals from the table using the following equation:</p>
+<p>expected value = (row total x column total) / total for table.</p>
+
+<div class='clFormula'>$E=\dfrac{\sigma_r \cdot \sigma_c}{\sigma_t}$</div>
+
+<p>where <span class='clFormula'>$\sigma_r$</span>
+is the sum over that row, <span class='clFormula'>$\sigma_c$</span>
+is the sum over that column, and <span class='clFormula'>$\sigma_t$</span>
+ is the sum over the entire table. The expected values (in parentheses, italics and bold) for each cell are also presented in the table above.</p>
+<p>With the values in the table, the chi-square statistic can be calculated as follows:</p>
+
+<div class='clFormula'>$\begin{align}\chi^2 &amp;= \dfrac{(46-40.97)^2}{40.97} + \dfrac{(37-42.03)^ d}{42.03} + d\frac{(71-76.03)^2}{76.03} +\dfrac{(83-77.97)^2}{77.97} \\&#10;&amp;= 1.87\end{align}$</div>
+
+<p>In the chi-square test for independence, the degrees of freedom are found as follows:</p>
+
+<div class='clFormula'>$df=(r-1)(c-1)$</div>
+
+<p>where <span class='clFormula'>$r$</span>
+is  the number of rows in the table and <span class='clFormula'>$c$</span>
+is the number of columns in the table. Substituting in the proper values yields:</p>
+
+<div class='clFormula'>$df=(2-1)(2-1)=1$</div>
+
+<p>Finally, the value calculated from the formula above is compared with values in the chi-square distribution table. The value returned from the table is <span class='clFormula'>$p&lt;0.2$</span>
+(<span class='clFormula'>$20\%$</span>
+). Therefore, the null hypothesis is not rejected. Hence, boys are not significantly more likely to get in trouble in school than girls.</p>
+<h2 id='section_62'>13.3. Tests for Ranked Data</h2>
+
+<h3 id='concept_306'>13.3.1. When to Use These Tests</h3>
+
+<blockquote>"Ranking" refers to the data transformation in which numerical or ordinal values are replaced by their rank when the data are sorted.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Indicate why and how data transformation is performed and how this relates to ranked data.</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Data transforms are usually applied so that the data appear to more closely meet the assumptions of a statistical inference procedure that is to be applied, or to improve the interpretability or appearance of graphs.</li>
+<li>Guidance for how data should be transformed, or whether a transform should be applied at all, should come from the particular statistical analysis to be performed.</li>
+<li>When there is evidence of substantial skew in the data, it is common to transform the data to a symmetric distribution before constructing a confidence interval.</li>
+<li>Data can also be transformed to make it easier to visualize them.</li>
+<li>A final reason that data can be transformed is to improve interpretability, even if no formal statistical analysis or visualization is to be performed.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>central limit theorem</dt>
+<dd>The theorem that states: If the sum of independent identically distributed random variables has a finite variance, then it will be (approximately) normally distributed.</dd>
+<dt>confidence interval</dt>
+<dd>A type of interval estimate of a population parameter used to indicate the reliability of an estimate.</dd>
+<dt>data transformation</dt>
+<dd>The application of a deterministic mathematical function to each point in a data set.</dd>
+</dl>
+
+<p>In statistics, "ranking" refers to the data transformation in which numerical or ordinal values are replaced by their rank when the data are sorted. If, for example, the numerical data 3.4, 5.1, 2.6, 7.3 are observed, the ranks of these data items would be 2, 3, 1 and 4 respectively. In another example, the ordinal data hot, cold, warm would be replaced by 3, 1, 2. In these examples, the ranks are assigned to values in ascending order. (In some other cases, descending ranks are used. ) Ranks are related to the indexed list of order statistics, which consists of the original dataset rearranged into ascending order.</p>
+<p>Some kinds of statistical tests employ calculations based on ranks. Examples include:</p>
+<ul>
+<li>Friedman test</li>
+<li>Kruskal-Wallis test</li>
+<li>Rank products</li>
+<li>Spearman's rank correlation coefficient</li>
+<li>Wilcoxon rank-sum test</li>
+<li>
+Wilcoxon signed-rank test
+</li>
+</ul>
+<p>Some ranks can have non-integer values for tied data values. For example, when there is an even number of copies of the same data value, the above described fractional statistical rank of the tied data ends in <span class='clFormula'>$\frac{1}{2}$</span>
+.</p>
+
+<h3>Data Transformation</h3>
+
+<p>Data transformation refers to the application of a deterministic mathematical function to each point in a data set—that is, each data point <span class='clFormula'>$z_i$</span>
+ is replaced with the transformed value <span class='clFormula'>$y_i = f(z_i)$</span>
+, where <span class='clFormula'>$f$</span>
+is a function. Transforms are usually applied so that the data appear to more closely meet the assumptions of a statistical inference procedure that is to be applied, or to improve the interpretability or appearance of graphs.</p>
+<p>Nearly always, the function that is used to transform the data is invertible and, generally, is continuous. The transformation is usually applied to a collection of comparable measurements. For example, if we are working with data on peoples' incomes in some currency unit, it would be common to transform each person's income value by the logarithm function.</p>
+
+<h3>Reasons for Transforming Data</h3>
+
+<p>Guidance for how data should be transformed, or whether a transform should be applied at all, should come from the particular statistical analysis to be performed. For example, a simple way to construct an approximate 95% confidence interval for the population mean is to take the sample mean plus or minus two standard error units. However, the constant factor 2 used here is particular to the normal distribution and is only applicable if the sample mean varies approximately normally. The central limit theorem states that in many situations, the sample mean does vary normally if the sample size is reasonably large.</p>
+<p>However, if the population is substantially skewed and the sample size is at most moderate, the approximation provided by the central limit theorem can be poor, and the resulting confidence interval will likely have the wrong coverage probability. Thus, when there is evidence of substantial skew in the data, it is common to transform the data to a symmetric distribution before constructing a confidence interval. If desired, the confidence interval can then be transformed back to the original scale using the inverse of the transformation that was applied to the data.</p>
+<p>Data can also be transformed to make it easier to visualize them. For example, suppose we have a scatterplot in which the points are the countries of the world, and the data values being plotted are the land area and population of each country. If the plot is made using untransformed data (e.g., square kilometers for area and the number of people for population), most of the countries would be plotted in tight cluster of points in the lower left corner of the graph. The few countries with very large areas and/or populations would be spread thinly around most of the graph's area. Simply rescaling units (e.g., to thousand square kilometers, or to millions of people) will not change this. However, following logarithmic transformations of both area and population, the points will be spread more uniformly in the graph .</p>
+
+
+
+<a href='../images/18332.svg'><img class='clImageThumb' src='../images/18332.svg' alt='Population Versus Area Scatterplots'></a>
+
+<div><b><i>Population Versus Area Scatterplots</i></b></div>
+<p><i>A scatterplot in which the areas of the sovereign states and dependent territories in the world are plotted on the vertical axis against their populations on the horizontal axis. The upper plot uses raw data. In the lower plot, both the area and population data have been transformed using the logarithm function.</i></p>
+
+<p>A final reason that data can be transformed is to improve interpretability, even if no formal statistical analysis or visualization is to be performed. For example, suppose we are comparing cars in terms of their fuel economy. These data are usually presented as "kilometers per liter" or "miles per gallon. " However, if the goal is to assess how much additional fuel a person would use in one year when driving one car compared to another, it is more natural to work with the data transformed by the reciprocal function, yielding liters per kilometer, or gallons per mile.</p>
+
+<h3 id='concept_307'>13.3.2. Mann-Whitney U-Test</h3>
+
+<blockquote>The Mann–Whitney <span class='clFormula'>$U$</span>
+-test is a non-parametric test of the null hypothesis that two populations are the same against an alternative hypothesis.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Compare the Mann-Whitney <equation>$U$</equation>-test to Student's <equation>$t$</equation>-test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Mann-Whitney has greater efficiency than the <span class='clFormula'>$t$</span>
+-test on non-normal distributions, such as a mixture of normal distributions, and it is nearly as efficient as the <span class='clFormula'>$t$</span>
+-test on normal distributions.</li>
+<li>The test involves the calculation of a statistic, usually called <span class='clFormula'>$U$</span>
+, whose distribution under the null hypothesis is known.</li>
+<li>The first method to calculate <span class='clFormula'>$U$</span>
+involves choosing the sample which has the smaller ranks, then counting the number of ranks in the other sample that are smaller than the ranks in the first, then summing these counts.</li>
+<li>The second method involves adding up the ranks for the observations which came from sample 1. The sum of ranks in sample 2 is now determinate, since the sum of all the ranks equals <span class='clFormula'>$\frac{N(N+1)}{2}$</span>
+, where <span class='clFormula'>$N$</span>
+is the total number of observations.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>ordinal data</dt>
+<dd>A statistical data type consisting of numerical scores that exist on an ordinal scale, i.e. an arbitrary numerical scale where the exact numerical quantity of a particular value has no significance beyond its ability to establish a ranking over a set of data points.</dd>
+<dt>tie</dt>
+<dd>One or more equal values or sets of equal values in the data set.</dd>
+</dl>
+
+<p>The Mann–Whitney <span class='clFormula'>$U$</span>
+-test is a non-parametric test of the null hypothesis that two populations are the same against an alternative hypothesis, especially that a particular population tends to have larger values than the other. It has greater efficiency than the <span class='clFormula'>$t$</span>
+-test on non-normal distributions, such as a mixture of normal distributions, and it is nearly as efficient as the <span class='clFormula'>$t$</span>
+-test on normal distributions.</p>
+
+<h3>Assumptions and Formal Statement of Hypotheses</h3>
+
+<p>Although Mann and Whitney developed the test under the assumption of continuous responses with the alternative hypothesis being that one distribution is stochastically greater than the other, there are many other ways to formulate the null and alternative hypotheses such that the test will give a valid test. A very general formulation is to assume that:</p>
+
+<ol>
+<li>All the observations from both groups are independent of each other.</li>
+<li>The responses are ordinal (i.e., one can at least say of any two observations which is the greater).</li>
+<li>The distributions of both groups are equal under the null hypothesis, so that the probability of an observation from one population (<span class='clFormula'>$X$</span>
+) exceeding an observation from the second population (<span class='clFormula'>$Y$</span>
+) equals the probability of an observation from  <span class='clFormula'>$Y$</span>
+exceeding an observation from <span class='clFormula'>$X$</span>
+. That is, there is a symmetry between populations with respect to probability of random drawing of a larger observation.</li>
+<li>Under the alternative hypothesis, the probability of an observation from one population (<span class='clFormula'>$X$</span>
+) exceeding an observation from the second population (<span class='clFormula'>$Y$</span>
+) (after exclusion of ties) is not equal to <span class='clFormula'>$0.5$</span>
+. The alternative may also be stated in terms of a one-sided test, for example: <span class='clFormula'>$P(X &gt; Y) + 0.5 \cdot P(X = Y) &gt; 0.5$</span>
+.</li>
+</ol>
+
+<h3>Calculations</h3>
+
+<p>The test involves the calculation of a statistic, usually called <span class='clFormula'>$U$</span>
+, whose distribution under the null hypothesis is known. In the case of small samples, the distribution is tabulated, but for sample sizes above about 20, approximation using the normal distribution is fairly good.</p>
+<p>There are two ways of calculating  <span class='clFormula'>$U$</span>
+by hand. For either method, we must first arrange all the observations into a single ranked series. That is, rank all the observations without regard to which sample they are in.</p>
+
+<h3>Method One</h3>
+
+<p>For small samples a direct method is recommended. It is very quick, and gives an insight into the meaning of the  <span class='clFormula'>$U$</span>
+statistic.</p>
+
+<ol>
+<li>Choose the sample for which the ranks seem to be smaller (the only reason to do this is to make computation easier). Call this "sample 1," and call the other sample "sample 2. "</li>
+<li>For each observation in sample 1, count the number of observations in sample 2 that have a smaller rank (count a half for any that are equal to it). The sum of these counts is <span class='clFormula'>$U$</span>
+.</li>
+</ol>
+
+<h3>Method Two</h3>
+
+<p>For larger samples, a formula can be used.</p>
+<p>First, add up the ranks for the observations that came from sample 1. The sum of ranks in sample 2 is now determinate, since the sum of all the ranks equals:</p>
+
+<div class='clFormula'>$\dfrac{N(N + 1)}{2}$</div>
+
+<p>where <span class='clFormula'>$N$</span>
+is the total number of observations.  <span class='clFormula'>$U$</span>
+is then given by:</p>
+
+<div class='clFormula'>$U_1=R_1 - \dfrac{n_1(n_1+1)}{2}$</div>
+
+<p>where <span class='clFormula'>$n_1$</span>
+ is the sample size for sample 1, and <span class='clFormula'>$R_1$</span>
+ is the sum of the ranks in sample 1. Note that it doesn't matter which of the two samples is considered sample 1. The smaller value of <span class='clFormula'>$U_1$</span>
+ and <span class='clFormula'>$U_2$</span>
+is the one used when consulting significance tables.</p>
+
+<h3>Example of Statement Results</h3>
+
+<p>In reporting the results of a Mann–Whitney test, it is important to state:</p>
+<ul>
+<li>a measure of the central tendencies of the two groups (means or medians; since the Mann–Whitney is an ordinal test, medians are usually recommended)</li>
+<li>the value of <span class='clFormula'>$U$</span></li>
+<li>the sample sizes</li>
+<li>the significance level</li>
+</ul>
+<p>In practice some of this information may already have been supplied and common sense should be used in deciding whether to repeat it. A typical report might run:</p>
+<p>"Median latencies in groups  <span class='clFormula'>$E$</span>
+and  <span class='clFormula'>$C$</span>
+were  <span class='clFormula'>$153$</span>
+and  <span class='clFormula'>$247$</span>
+ms; the distributions in the two groups differed significantly (Mann–Whitney  <span class='clFormula'>$U=10.5$</span>
+, <span class='clFormula'>$n_1=n_2=8$</span>
+, <span class='clFormula'>$P &lt; 0.05\text{, two-tailed}$</span>
+)."</p>
+
+<h3>Comparison to Student's <span class='clFormula'>$t$</span>
+-Test</h3>
+
+<p>The <span class='clFormula'>$U$</span>
+-test is more widely applicable than independent samples Student's <span class='clFormula'>$t$</span>
+-test, and the question arises of which should be preferred.</p>
+
+<h3>Ordinal Data</h3>
+
+<p> <span class='clFormula'>$U$</span>
+remains the logical choice when the data are ordinal but not interval scaled, so that the spacing between adjacent values cannot be assumed to be constant.</p>
+
+<h3>Robustness</h3>
+
+<p>As it compares the sums of ranks, the Mann–Whitney test is less likely than the <span class='clFormula'>$t$</span>
+-test to spuriously indicate significance because of the presence of outliers (i.e., Mann–Whitney is more robust).</p>
+
+<h3>Efficiency</h3>
+
+<p>For distributions sufficiently far from normal and for sufficiently large sample sizes, the Mann-Whitney Test is considerably more efficient than the  <span class='clFormula'>$t$</span>
+. Overall, the robustness makes Mann-Whitney more widely applicable than the <span class='clFormula'>$t$</span>
+-test. For large samples from the normal distribution, the efficiency loss compared to the <span class='clFormula'>$t$</span>
+-test is only 5%, so one can recommend Mann-Whitney as the default test for comparing interval or ordinal measurements with similar distributions.</p>
+
+<h3 id='concept_308'>13.3.3. Wilcoxon t-Test</h3>
+
+<blockquote>The Wilcoxon <span class='clFormula'>$t$</span>
+-test assesses whether population mean ranks differ for two related samples, matched samples, or repeated measurements on a single sample.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Break down the procedure for the Wilcoxon signed-rank t-test.</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The Wilcoxon <span class='clFormula'>$t$</span>
+-test can be used as an alternative to the paired Student's <span class='clFormula'>$t$</span>
+-test, <span class='clFormula'>$t$</span>
+-test for matched pairs, or the <span class='clFormula'>$t$</span>
+-test for dependent samples when the population cannot be assumed to be normally distributed.</li>
+<li>The test is named for Frank Wilcoxon who (in a single paper) proposed both the rank <span class='clFormula'>$t$</span>
+-test and the rank-sum test for two independent samples.</li>
+<li>The test assumes that data are paired and come from the same population, each pair is chosen randomly and independent and the data are measured at least on an ordinal scale, but need not be normal.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Wilcoxon t-test</dt>
+<dd>A non-parametric statistical hypothesis test used when comparing two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ (i.e., it is a paired-difference test).</dd>
+<dt>tie</dt>
+<dd>One or more equal values or sets of equal values in the data set.</dd>
+</dl>
+
+<p>The Wilcoxon signed-rank t-test is a non-parametric statistical hypothesis test used when comparing two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ (i.e., it is a paired difference test). It can be used as an alternative to the paired Student's <span class='clFormula'>$t$</span>
+-test, <span class='clFormula'>$t$</span>
+-test for matched pairs, or the <span class='clFormula'>$t$</span>
+-test for dependent samples when the population cannot be assumed to be normally distributed.</p>
+<p>The test is named for Frank Wilcoxon who (in a single paper) proposed both the rank <span class='clFormula'>$t$</span>
+-test and the rank-sum test for two independent samples. The test was popularized by Siegel in his influential text book on non-parametric statistics. Siegel used the symbol  <span class='clFormula'>$T$</span>
+for the value defined below as  <span class='clFormula'>$W$</span>
+. In consequence, the test is sometimes referred to as the Wilcoxon  <span class='clFormula'>$T$</span>
+-test, and the test statistic is reported as a value of  <span class='clFormula'>$T$</span>
+. Other names may include the "<span class='clFormula'>$t$</span>
+-test for matched pairs" or the "<span class='clFormula'>$t$</span>
+-test for dependent samples."</p>
+
+<h3>Assumptions</h3>
+
+
+<ol>
+<li>Data are paired and come from the same population.</li>
+<li>Each pair is chosen randomly and independent.</li>
+<li>The data are measured at least on an ordinal scale, but need not be normal.</li>
+</ol>
+
+<h3>Test Procedure</h3>
+
+<p>Let  <span class='clFormula'>$N$</span>
+be the sample size, the number of pairs. Thus, there are a total of  <span class='clFormula'>$2N$</span>
+ data points. For <span class='clFormula'>$i=1,\cdots,N$</span>
+, let <span class='clFormula'>$x_{1,i}$</span>
+ and  <span class='clFormula'>$x_{2,i}$</span>
+denote the measurements.</p>
+<p><span class='clFormula'>$H_0$</span>
+: The median difference between the pairs is zero.</p>
+<p><span class='clFormula'>$H_1$</span>
+: The median difference is not zero.</p>
+<p>1. For <span class='clFormula'>$i=1,\cdots,N$</span>
+,  calculate <span class='clFormula'>$\left| { x }_{ 2,i }-{ x }_{ 1,i } \right|$</span>
+and <span class='clFormula'>$\text{sgn}\left( { x }_{ 2,i }-{ x }_{ 1,i } \right)$</span>
+, where <span class='clFormula'>$\text{sgn}$</span>
+is the sign function.</p>
+<p>2. Exclude pairs with <span class='clFormula'>$\left|{ x }_{ 2,i }-{ x }_{ 1,i } \right|=0$</span>
+. Let <span class='clFormula'>$N_r$</span>
+ be the reduced sample size.</p>
+<p>3. Order the remaining  pairs from smallest absolute difference to largest absolute difference, <span class='clFormula'>$\left| { x }_{ 2,i }-{ x }_{ 1,i } \right|$</span>
+.</p>
+<p>4. Rank the pairs, starting with the smallest as 1. Ties receive a rank equal to the average of the ranks they span. Let <span class='clFormula'>$R_i$</span>
+denote the rank.</p>
+<p>5. Calculate the test statistic <span class='clFormula'>$W$</span>
+, the absolute value of the sum of the signed ranks:</p>
+
+<div class='clFormula'>$W= \left| \sum \left(\text{sgn}(x_{2,i}-x_{1,i}) \cdot R_i \right) \right|$</div>
+
+<p>6. As <span class='clFormula'>$N_r$</span>
+increases, the sampling distribution of <span class='clFormula'>$W$</span>
+converges to a normal distribution. Thus, for <span class='clFormula'>$N_r \geq 10$</span>
+, a <span class='clFormula'>$z$</span>
+-score can be calculated as follows: </p>
+
+<div class='clFormula'>$z=\dfrac{W-0.5}{\sigma_W}$</div>
+
+<p>where</p>
+
+<div class='clFormula'>$\displaystyle{\sigma_W = \sqrt{\frac{N_r(N_r+1)(2N_r+1)}{6}}}$</div>
+
+<p>If <span class='clFormula'>$z &gt; z_{\text{critical}}$</span>
+then reject <span class='clFormula'>$H_0$</span>
+.</p>
+<p>For <span class='clFormula'>$N_r &lt; 10$</span>
+, <span class='clFormula'>$W$</span>
+is compared to a critical value from a reference table. If <span class='clFormula'>$W\ge { W }_{ \text{critical,}{ N }_{ r } }$</span>
+then reject <span class='clFormula'>$H_0$</span>
+.</p>
+<p>Alternatively, a <span class='clFormula'>$p$</span>
+-value can be calculated from enumeration of all possible combinations of <span class='clFormula'>$W$</span>
+given  <span class='clFormula'>$N_r$</span>
+.</p>
+
+<h3 id='concept_309'>13.3.4. Kruskal-Wallis H-Test</h3>
+
+<blockquote>The Kruskal–Wallis one-way analysis of variance by ranks is a non-parametric method for testing whether samples originate from the same distribution.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Summarize the Kruskal-Wallis one-way analysis of variance and outline its methodology</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The Kruskal-Wallis test is used for comparing more than two samples that are independent, or not related.</li>
+<li>When the Kruskal-Wallis test leads to significant results, then at least one of the samples is different from the other samples.</li>
+<li>The test does not identify where the differences occur or how many differences actually occur.</li>
+<li>Since it is a non-parametric method, the Kruskal–Wallis test does not assume a normal distribution, unlike the analogous one-way analysis of variance.</li>
+<li>The test does assume an identically shaped and scaled distribution for each group, except for any difference in medians.</li>
+<li>Kruskal–Wallis is also used when the examined groups are of unequal size (different number of participants).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Kruskal-Wallis test</dt>
+<dd>A non-parametric method for testing whether samples originate from the same distribution.</dd>
+<dt>Type I error</dt>
+<dd>An error occurring when the null hypothesis (<equation>$H_0$</equation>) is true, but is rejected.</dd>
+<dt>chi-squared distribution</dt>
+<dd>A distribution with <equation>$k$</equation> degrees of freedom is the distribution of a sum of the squares of <equation>$k$</equation> independent standard normal random variables.</dd>
+</dl>
+
+<p>The Kruskal–Wallis one-way analysis of variance by ranks (named after William Kruskal and W. Allen Wallis) is a non-parametric method for testing whether samples originate from the same distribution. It is used for comparing more than two samples that are independent, or not related. The parametric equivalent of the Kruskal-Wallis test is the one-way analysis of variance (ANOVA). When the Kruskal-Wallis test leads to significant results, then at least one of the samples is different from the other samples. The test does not identify where the differences occur, nor how many differences actually occur. It is an extension of the Mann–Whitney  <span class='clFormula'>$U$</span>
+test to 3 or more groups. The Mann-Whitney would help analyze the specific sample pairs for significant differences.</p>
+<p>Since it is a non-parametric method, the Kruskal–Wallis test does not assume a normal distribution, unlike the analogous one-way analysis of variance. However, the test does assume an identically shaped and scaled distribution for each group, except for any difference in medians.</p>
+<p>Kruskal–Wallis is also used when the examined groups are of unequal size (different number of participants).</p>
+
+<h3>Method</h3>
+
+<p>1. Rank all data from all groups together; i.e., rank the data from <span class='clFormula'>$1$</span>
+to  <span class='clFormula'>$N$</span>
+ignoring group membership. Assign any tied values the average of the ranks would have received had they not been tied.</p>
+<p>2. The test statistic is given by:</p>
+<p><span class='clFormula'>$\displaystyle{K=(N-1) \frac{\displaystyle{\sum_{i=1}^gn_i(\bar{r}_{i\cdot} - \bar{r})^2}}{\displaystyle{\sum_{i=1}^g \sum_{j=1}^{n_i} (r_{ij}-\bar{r})^2}}}$</span>
+where</p>
+
+<div class='clFormula'>$\displaystyle{\bar{r}_{i\cdot}= \frac{\sum_{j=1}^{n_i}r_{ij}}{n_i}}$</div>
+
+<p>and where <span class='clFormula'>$\bar{r} = \frac{1}{2} (N+1)$</span>
+ and is the average of all values of <span class='clFormula'>$r_{ij}$</span>
+, <span class='clFormula'>$n_i$</span>
+is the number of observations in group <span class='clFormula'>$i$</span>
+, <span class='clFormula'>$r_{ij}$</span>
+is the rank (among all observations) of observation <span class='clFormula'>$j$</span>
+from group <span class='clFormula'>$i$</span>
+, and <span class='clFormula'>$N$</span>
+is the total number of observations across all groups.</p>
+<p>3. If the data contain no ties, the denominator of the expression for <span class='clFormula'>$K$</span>
+ is exactly</p>
+
+<div class='clFormula'>$\dfrac{(N-1)N(N+1)}{12}$</div>
+
+<p> and </p>
+
+<div class='clFormula'>$\bar{r}=\dfrac{N+1}{2}$</div>
+
+<p>Therefore:</p>
+
+<div class='clFormula'>$\begin{align}&#10;K &amp;= \frac{12}{N(N+1)} \cdot \sum_{i=1}^g n_i \left( \bar{r}_{i \cdot} - \dfrac{N+1}{2}\right)^2 \\&#10;&amp;= \frac{12}{N(N+1)} \cdot \sum_{i=1}^g n_i \bar{r}_{i\cdot}^2 - 3 (N+1)&#10;\end{align}$</div>
+
+<p>Note that the second line contains only the squares of the average ranks.</p>
+<p>4. A correction for ties if using the shortcut formula described in the previous point can be made by dividing <span class='clFormula'>$K$</span>
+ by the following:</p>
+
+<div class='clFormula'>$1-\frac{\displaystyle{\sum_{i=1}^G (t_i^3 - t_i)}}{\displaystyle{N^3-N}}$</div>
+
+<p>where <span class='clFormula'>$G$</span>
+is the number of groupings of different tied ranks, and <span class='clFormula'>$t_i$</span>
+ is the number of tied values within group <span class='clFormula'>$i$</span>
+ that are tied at a particular value. This correction usually makes little difference in the value of <span class='clFormula'>$K$</span>
+unless there are a large number of ties.</p>
+<p>5. Finally, the p-value is approximated by:</p>
+
+<div class='clFormula'>$Pr\left( { \chi }_{ g-1 }^{ 2 }\ge K \right)$</div>
+
+<p> If some <span class='clFormula'>$n_i$</span>
+ values are small (i.e., less than 5) the probability distribution of  <span class='clFormula'>$K$</span>
+ can be quite different from this chi-squared distribution. If a table of the chi-squared probability distribution is available, the critical value of chi-squared, <span class='clFormula'>${ \chi }_{ \alpha ,g-1' }^{ 2 }$</span>
+, can be found by entering the table at <span class='clFormula'>$g - 1$</span>
+ degrees of freedom and looking under the desired significance or alpha level. The null hypothesis of equal population medians would then be rejected if <span class='clFormula'>$K\ge { \chi }_{ \alpha ,g-1 }^{ 2 }$</span>
+. Appropriate multiple comparisons would then be performed on the group medians.</p>
+<p>6. If the statistic is not significant, then there is no evidence of differences between the samples. However, if the test is significant then a difference exists between at least two of the samples. Therefore, a researcher might use sample contrasts between individual sample pairs, or post hoc tests, to determine which of the sample pairs are significantly different. When performing multiple sample contrasts, the type I error rate tends to become inflated.</p>
+<h2 id='section_63'>13.4. Nonparametric Statistics</h2>
+
+<h3 id='concept_310'>13.4.1. Distribution-Free Tests</h3>
+
+<blockquote>Distribution-free tests are hypothesis tests that make no assumptions about the probability distributions of the variables being assessed.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Distinguish distribution-free tests for testing statistical hypotheses</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The first meaning of <em>non-</em>parametric covers techniques that do not rely on data belonging to any particular distribution.</li>
+<li>The second meaning of <em>non-parametric</em> covers techniques that do not assume that the structure of a model is fixed.</li>
+<li>Non-parametric methods are widely used for studying populations that take on a ranked order (such as movie reviews receiving one to four stars).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>parametric</dt>
+<dd>of, relating to, or defined using parameters</dd>
+<dt>ordinal</dt>
+<dd>Of a number, indicating position in a sequence.</dd>
+</dl>
+
+<h3>Non-Parametric Statistics</h3>
+
+<p>The term "non-parametric statistics" has, at least, two different meanings.</p>
+<p>1. The first meaning of <em>non-parametric</em> covers techniques that do not rely on data belonging to any particular distribution. These include, among others:</p>
+<ul>
+<li>distribution free methods, which do not rely on assumptions that the data are drawn from a given probability distribution. ( As such, it is the opposite of parametric statistics. It includes non-parametric descriptive statistics, statistical models, inference, and statistical tests).</li>
+<li>non-parametric statistics (in the sense of a statistic over data, which is defined to be a function on a sample that has no dependency on a parameter), whose interpretation does not depend on the population fitting any parameterized distributions. Order statistics, which are based on the ranks of observations, are one example of such statistics. These play a central role in many non-parametric approaches.</li>
+</ul>
+<p>2. The second meaning of <em>non-parametric</em> covers techniques that do not assume that the structure of a model is fixed. Typically, the model grows in size to accommodate the complexity of the data. In these techniques, individual variables are typically assumed to belong to parametric distributions. Assumptions are also made about the types of connections among variables.</p>
+<p>Non-parametric methods are widely used for studying populations that take on a ranked order (such as movie reviews receiving one to four stars). The use of non-parametric methods may be necessary when data have a ranking but no clear numerical interpretation, such as assessing preferences. In terms of levels of measurement, non-parametric methods result in "ordinal" data.</p>
+
+<h3>Distribution-Free Tests</h3>
+
+<p>Distribution-free statistical methods are mathematical procedures for testing statistical hypotheses which, unlike parametric statistics, make no assumptions about the probability distributions of the variables being assessed. The most frequently used tests include the following:</p>
+<p>Anderson–Darling test: tests whether a sample is drawn from a given distribution.</p>
+<p>Statistical Bootstrap Methods: estimates the accuracy/sampling distribution of a statistic.</p>
+<p>Cochran's <span class='clFormula'>$Q$</span>
+: tests whether <span class='clFormula'>$k$</span>
+treatments in randomized block designs with <span class='clFormula'>$0/1$</span>
+ outcomes have identical effects.</p>
+<p>Cohen's kappa: measures inter-rater agreement for categorical items.</p>
+<p>Friedman two-way analysis of variance by ranks: tests whether <span class='clFormula'>$k$</span>
+treatments in randomized block designs have identical effects.</p>
+<p>Kaplan–Meier: estimates the survival function from lifetime data, modeling censoring.</p>
+<p>Kendall's tau: measures statistical dependence between two variables.</p>
+<p>Kendall's W: a measure between <span class='clFormula'>$0$</span>
+and <span class='clFormula'>$1$</span>
+of inter-rater agreement.</p>
+<p>Kolmogorov–Smirnov test: tests whether a sample is drawn from a given distribution, or whether two samples are drawn from the same distribution.</p>
+<p>Kruskal-Wallis one-way analysis of variance by ranks: tests whether more than 2 independent samples are drawn from the same distribution.</p>
+<p>Kuiper's test: tests whether a sample is drawn from a given distribution that is sensitive to cyclic variations such as day of the week.</p>
+<p>Logrank Test: compares survival distributions of two right-skewed, censored samples.</p>
+<p>Mann–Whitney <span class='clFormula'>$U$</span>
+or Wilcoxon rank sum test: tests whether two samples are drawn from the same distribution, as compared to a given alternative hypothesis.</p>
+<p>McNemar's test: tests whether, in <span class='clFormula'>$2 \times 2$</span>
+ contingency tables with a dichotomous trait and matched pairs of subjects, row and column marginal frequencies are equal.</p>
+<p>Median test: tests whether two samples are drawn from distributions with equal medians.</p>
+<p>Pitman's permutation test: a statistical significance test that yields exact <span class='clFormula'>$p$</span>
+ values by examining all possible rearrangements of labels.</p>
+<p>Rank products: differentially detects expressed genes in replicated microarray experiments.</p>
+<p>Siegel–Tukey test: tests for differences in scale between two groups.</p>
+<p>Sign test: tests whether matched pair samples are drawn from distributions with equal medians.</p>
+<p>Spearman's rank correlation coefficient: measures statistical dependence between two variables using a monotonic function.</p>
+<p>Squared ranks test: tests equality of variances in two or more samples.</p>
+<p>Wald–Wolfowitz runs test: tests whether the elements of a sequence are mutually independent/random.</p>
+<p>Wilcoxon signed-rank test: tests whether matched pair samples are drawn from populations with different mean ranks.</p>
+
+
+
+<a href='../images/18354.gif'><img class='clImageThumb' src='../images/18354.gif' alt='Best Cars of 2010'></a>
+
+<div><b><i>Best Cars of 2010</i></b></div>
+<p><i>This image shows a graphical representation of a ranked list of the highest rated cars in 2010. Non-parametric statistics is widely used for studying populations that take on a ranked order.</i></p>
+
+<h3 id='concept_311'>13.4.2. Sign Test</h3>
+
+<blockquote>The sign test can be used to test the hypothesis that there is "no difference in medians" between the continuous distributions of two random variables.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Discover the nonparametric statistical sign test and outline its method.</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Non-parametric statistical tests tend to be more general, and easier to explain and apply, due to the lack of assumptions about the distribution of the population or population parameters.</li>
+<li>In order to perform the sign test, we must be able to draw paired samples from the distributions of two random variables, <span class='clFormula'>$X$</span>
+and <span class='clFormula'>$Y$</span>
+.</li>
+<li>The sign test has very general applicability but may lack the statistical power of other tests.</li>
+<li>When performing a sign test, we count the number of values in the sample that are above the median and denote them by the sign <span class='clFormula'>$+$</span>
+ and the ones falling below the median by the symbol <span class='clFormula'>$-$</span>
+.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>sign test</dt>
+<dd>a statistical test concerning the median of a continuous population with the idea that the probability of getting a value below the median or a value above the median is <equation>$\frac{1}{2}$</equation></dd>
+</dl>
+
+<p>Non-parametric statistical tests tend to be more general, and easier to explain and apply, due to the lack of assumptions about the distribution of the population or population parameters. One such statistical method is known as the sign test.</p>
+<p>The sign test can be used to test the hypothesis that there is "no difference in medians" between the continuous distributions of two random variables <span class='clFormula'>$X$</span>
+ and <span class='clFormula'>$Y$</span>
+, in the situation when we can draw paired samples from <span class='clFormula'>$X$</span>
+ and <span class='clFormula'>$Y$</span>
+. As outlined above, the sign test is a non-parametric test which makes very few assumptions about the nature of the distributions under examination. Because of this fact, it has very general applicability but may lack the statistical power of other tests.</p>
+
+<h3>The One-Sample Sign Test</h3>
+
+<p>This test concerns the median <span class='clFormula'>$\tilde { \mu }$</span>
+of a continuous population. The idea is that the probability of getting a value below the median or a value above the median is <span class='clFormula'>$\frac{1}{2}$</span>
+. We test the null hypothesis:</p>
+
+<div class='clFormula'>${ H }_{ 0 }:\tilde { \mu } ={ \tilde { \mu } }_{ 0 }$</div>
+
+<p>against an appropriate alternative hypothesis:</p>
+
+<div class='clFormula'>${ H }_{ 1 }:\tilde { \mu } \neq ,&gt;,&lt;{ \tilde { \mu } }_{ 0 }$</div>
+
+<p>We count the number of values in the sample that are above <span class='clFormula'>${ \tilde { \mu } }_{ 0 }$</span>
+and represent them with the <span class='clFormula'>$+$</span>
+ sign and the ones falling below <span class='clFormula'>${ \tilde { \mu } }_{ 0 }$</span>
+with the <span class='clFormula'>$-$</span>
+.</p>
+<p>For example, suppose that in a sample of students from a class the ages of the students are:</p>
+
+<div class='clFormula'>$\{ 23.5, 24.2, 19.2, 21, 34.5, 23.5, 27.7, 22, 38, 21.8, 25, 23 \}$</div>
+
+<p> Test the claim that the median is less than <span class='clFormula'>$24$</span>
+years of age with a significance level of <span class='clFormula'>$\alpha = 0.05$</span>
+. The hypothesis is then written as:</p>
+
+<div class='clFormula'>${ H }_{ 0 }:{ \tilde { \mu } }_{ 0 }=24$</div>
+
+
+<div class='clFormula'>${ H }_{ 1 }:{ \tilde { \mu } }_{ 0 }&lt;24$</div>
+
+<p>The test statistic <span class='clFormula'>$x$</span>
+is then the number of plus signs. In this case we get:</p>
+
+<div class='clFormula'>$\{ -,+,-,-,+,-,+,-,+,-,+,- \}$</div>
+
+<p>Therefore,  <span class='clFormula'>$x=5$</span>
+.</p>
+<p>The variable  <span class='clFormula'>$X$</span>
+follows a binomial distribution with <span class='clFormula'>$n=12$</span>
+ (number of values) and <span class='clFormula'>$p=\frac{1}{2}$</span>
+. Therefore:</p>
+
+<div class='clFormula'>$\begin{align}P\left\{ X\le 5 \right\} &amp;=0.0002+0.0029+0.0161+0.0537+0.1208+0.1934\\&#10;&amp;=0.3872\end{align}$</div>
+
+<p>Since the <span class='clFormula'>$p$</span>
+-value of <span class='clFormula'>$0.3872$</span>
+ is larger than the significance level <span class='clFormula'>$\alpha = 0.05$</span>
+, the null-hypothesis cannot be rejected. Therefore, we conclude that the median age of the population is not less than <span class='clFormula'>$24$</span>
+years of age. Actually in this particular class, the median age was <span class='clFormula'>$24$</span>
+, so we arrive at the correct conclusion.</p>
+
+
+
+<a href='../images/18455.svg'><img class='clImageThumb' src='../images/18455.svg' alt='The Sign Test'></a>
+
+<div><b><i>The Sign Test</i></b></div>
+<p><i>The sign test involves denoting values above the median of a continuous population with a plus sign and the ones falling below the median with a minus sign in order to test the hypothesis that there is no difference in medians.</i></p>
+
+<h3 id='concept_312'>13.4.3. Single-Population Inferences</h3>
+
+<blockquote>Two notable nonparametric methods of making inferences about single populations are bootstrapping and the Anderson–Darling test.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast bootstrapping and the Anderson–Darling test for making inferences about single populations</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Bootstrapping is a method for assigning measures of accuracy to sample estimates.</li>
+<li>More specifically, bootstrapping is the practice of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution.</li>
+<li>The bootstrap works by treating inference of the true probability distribution <span class='clFormula'>$J$</span>
+, given the original data, as being analogous to inference of the empirical distribution of <span class='clFormula'>$\hat{J}$</span>
+, given the resampled data.</li>
+<li>The Anderson–Darling test is a statistical test of whether a given sample of data is drawn from a given probability distribution.</li>
+<li>In its basic form, the test assumes that there are no parameters to be estimated in the distribution being tested, in which case the test and its set of critical values is distribution-free.</li>
+<li>
+<span class='clFormula'>$K$</span>
+-sample Anderson–Darling tests are available for testing whether several collections of observations can be modeled as coming from a single population.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>bootstrap</dt>
+<dd>any method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution</dd>
+<dt>uniform distribution</dt>
+<dd>a family of symmetric probability distributions such that, for each member of the family, all intervals of the same length on the distribution's support are equally probable</dd>
+</dl>
+
+<p>Two notable nonparametric methods of making inferences about single populations are bootstrapping and the Anderson–Darling test.</p>
+
+<h3>Bootstrapping</h3>
+
+<p>Bootstrapping is a method for assigning measures of accuracy to sample estimates. This technique allows estimation of the sampling distribution of almost any statistic using only very simple methods.</p>
+<p>More specifically, bootstrapping is the practice of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution. One standard choice for an approximating distribution is the empirical distribution of the observed data. In the case where a set of observations can be assumed to be from an independent and identically distributed population, this can be implemented by constructing a number of resamples of the observed dataset (and of equal size to the observed dataset), each of which is obtained by random sampling with replacement from the original dataset.</p>
+<p>Bootstrapping may also be used for constructing hypothesis tests. It is often used as an alternative to inference based on parametric assumptions when those assumptions are in doubt, or where parametric inference is impossible or requires very complicated formulas for the calculation of standard errors.</p>
+
+<h3>Approach</h3>
+
+<p>The bootstrap works by treating inference of the true probability distribution <span class='clFormula'>$J$</span>
+, given the original data, as being analogous to inference of the empirical distribution of <span class='clFormula'>$\hat{J}$</span>
+, given the resampled data. The accuracy of inferences regarding <span class='clFormula'>$\hat{J}$</span>
+using the resampled data can be assessed because we know <span class='clFormula'>$\hat{J}$</span>
+. If <span class='clFormula'>$\hat{J}$</span>
+is a reasonable approximation to <span class='clFormula'>$J$</span>
+, then the quality of inference on <span class='clFormula'>$J$</span>
+can, in turn, be inferred.</p>
+<p>As an example, assume we are interested in the average (or mean) height of people worldwide. We cannot measure all the people in the global population, so instead we sample only a tiny part of it, and measure that. Assume the sample is of size <span class='clFormula'>$N$</span>
+; that is, we measure the heights of <span class='clFormula'>$N$</span>
+individuals. From that single sample, only one value of the mean can be obtained. In order to reason about the population, we need some sense of the variability of the mean that we have computed.</p>
+<p>The simplest bootstrap method involves taking the original data set of <span class='clFormula'>$N$</span>
+heights, and, using a computer, sampling from it to form a new sample (called a 'resample' or bootstrap sample) that is also of size <span class='clFormula'>$N$</span>
+. The bootstrap sample is taken from the original using sampling with replacement so it is not identical with the original "real" sample. This process is repeated a large number of times, and for each of these bootstrap samples we compute its mean. We now have a histogram of bootstrap means. This provides an estimate of the shape of the distribution of the mean, from which we can answer questions about how much the mean varies.</p>
+<p>Situations where bootstrapping is useful include:</p>
+<ul>
+<li>When the theoretical distribution of a statistic of interest is complicated or unknown.</li>
+<li>When the sample size is insufficient for straightforward statistical inference.</li>
+<li>When power calculations have to be performed, and a small pilot sample is available.</li>
+</ul>
+<p>A great advantage of bootstrap is its simplicity. It is a straightforward way to derive estimates of standard errors and confidence intervals for complex estimators of complex parameters of the distribution, such as percentile points, proportions, odds ratio, and correlation coefficients. Moreover, it is an appropriate way to control and check the stability of the results.</p>
+<p>However, although bootstrapping is (under some conditions) asymptotically consistent, it does not provide general finite-sample guarantees. The apparent simplicity may conceal the fact that important assumptions are being made when undertaking the bootstrap analysis (e.g. independence of samples) where these would be more formally stated in other approaches.</p>
+
+<h3>The Anderson–Darling Test</h3>
+
+<p>The Anderson–Darling test is a statistical test of whether a given sample of data is drawn from a given probability distribution. In its basic form, the test assumes that there are no parameters to be estimated in the distribution being tested, in which case the test and its set of critical values is distribution-free. <span class='clFormula'>$K$</span>
+-sample Anderson–Darling tests are available for testing whether several collections of observations can be modeled as coming from a <em>single population</em>, where the distribution function does not have to be specified.</p>
+<p>The Anderson–Darling test assesses whether a sample comes from a specified distribution. It makes use of the fact that, when given a hypothesized underlying distribution and assuming the data does arise from this distribution, the data can be transformed to a uniform distribution. The transformed sample data can be then tested for uniformity with a distance test. The formula for the test statistic <span class='clFormula'>$A$</span>
+to assess if data <span class='clFormula'>$\{ Y_1 &lt; \dots, n \}$</span>
+comes from a distribution with cumulative distribution function (CDF) <span class='clFormula'>$F$</span>
+ is:</p>
+
+<div class='clFormula'>$A^2 = -n - S$</div>
+
+<p>where</p>
+
+<div class='clFormula'>$\displaystyle{S= \sum_{k=1}^n \frac{2k-1}{n} \left[ \ln (F (Y_k) ) + \ln ( 1- F ( Y_{n+1-k})) \right]}$</div>
+
+<p>The test statistic can then be compared against the critical values of the theoretical distribution. Note that in this case no parameters are estimated in relation to the distribution function <span class='clFormula'>$F$</span>
+.</p>
+
+<h3 id='concept_313'>13.4.4. Comparing Two Populations: Independent Samples</h3>
+
+<blockquote>Nonparametric independent samples tests include Spearman's and the Kendall tau rank correlation coefficients, the Kruskal–Wallis ANOVA, and the runs test.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Contrast Spearman, Kendall, Kruskal–Wallis, and Walk–Wolfowitz methods for examining the independence of samples</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Spearman's rank correlation coefficient assesses how well the relationship between two variables can be described using a monotonic function.</li>
+<li>Kendall's tau (<span class='clFormula'>$\tau$</span>
+) coefficient is a statistic used to measure the association between two measured quantities.</li>
+<li>The Kruskal–Wallis one-way ANOVA by ranks is a nonparametric method for testing whether samples originate from the same distribution.</li>
+<li>The Walk–Wolfowitz runs test is a non-parametric statistical test for the hypothesis that the elements of a sequence are mutually independent.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>monotonic function</dt>
+<dd>a function that either never decreases or never increases as its independent variable increases</dd>
+</dl>
+
+<p>Nonparametric methods for testing the independence of samples include Spearman's rank correlation coefficient, the Kendall tau rank correlation coefficient, the Kruskal–Wallis one-way analysis of variance, and the Walk–Wolfowitz runs test.</p>
+
+<h3>Spearman's Rank Correlation Coefficient</h3>
+
+<p>Spearman's rank correlation coefficient, often denoted by the Greek letter <span class='clFormula'>$\rho$</span>
+ (rho), is a nonparametric measure of statistical dependence between two variables. It assesses how well the relationship between two variables can be described using a monotonic function. If there are no repeated data values, a perfect Spearman correlation of <span class='clFormula'>$1$</span>
+ or <span class='clFormula'>$-1$</span>
+occurs when each of the variables is a perfect monotone function of the other.</p>
+<p>For a sample of size <span class='clFormula'>$n$</span>
+, the  <span class='clFormula'>$n$</span>
+raw scores  <span class='clFormula'>$X_i$</span>
+,  <span class='clFormula'>$Y_i$</span>
+ are converted to ranks  <span class='clFormula'>$x_i$</span>
+,  <span class='clFormula'>$y_i$</span>
+, and  <span class='clFormula'>$\rho$</span>
+is computed from these:</p>
+
+<div class='clFormula'>$\displaystyle{\rho = \frac{\sum_i (x_i - \bar{x}) (y_i - \bar{y})}{\sqrt{\sum_i(x_i - \bar{x})^2 \sum_i(y_i - \bar{y})^2}}}$</div>
+
+<p>The sign of the Spearman correlation indicates the direction of association between  <span class='clFormula'>$X$</span>
+(the independent variable) and  <span class='clFormula'>$Y$</span>
+(the dependent variable). If  <span class='clFormula'>$Y$</span>
+tends to increase when <span class='clFormula'>$X$</span>
+increases, the Spearman correlation coefficient is positive. If <span class='clFormula'>$Y$</span>
+tends to decrease when <span class='clFormula'>$X$</span>
+increases, the Spearman correlation coefficient is negative. A Spearman correlation of zero indicates that there is no tendency for <span class='clFormula'>$Y$</span>
+to either increase or decrease when <span class='clFormula'>$X$</span>
+increases.</p>
+
+<h3>The Kendall Tau Rank Correlation Coefficient</h3>
+
+<p>Kendall's tau (<span class='clFormula'>$\tau$</span>
+) coefficient is a statistic used to measure the association between two measured quantities. A tau test is a non-parametric hypothesis test for statistical dependence based on the tau coefficient.</p>
+<p>Let <span class='clFormula'>$(x_1, y_1), (x_2, y_2), \cdots, (x_n, y_n)$</span>
+be a set of observations of the joint random variables <span class='clFormula'>$X$</span>
+and  <span class='clFormula'>$Y$</span>
+respectively, such that all the values of (<span class='clFormula'>$x_i$</span>
+) and (<span class='clFormula'>$y_i$</span>
+) are unique. Any pair of observations are said to be concordant if the ranks for both elements agree. The Kendall  <span class='clFormula'>$\tau$</span>
+coefficient is defined as:</p>
+
+<div class='clFormula'>$\displaystyle{\tau = \frac{(\text{number of concordant pairs}) - (\text{number of discordant pairs})}{\frac{1}{2} n (n-1)}}$</div>
+
+<p>The denominator is the total number pair combinations, so the coefficient must be in the range  <span class='clFormula'>$-1 \leq \tau \leq 1$</span>
+. If the agreement between the two rankings is perfect (i.e., the two rankings are the same) the coefficient has value  <span class='clFormula'>$1$</span>
+. If the disagreement between the two rankings is perfect (i.e., one ranking is the reverse of the other) the coefficient has value  <span class='clFormula'>$-1$</span>
+. If <span class='clFormula'>$X$</span>
+and <span class='clFormula'>$Y$</span>
+are independent, then we would expect the coefficient to be approximately zero.</p>
+
+<h3>The Kruskal–Wallis One-Way Analysis of Variance</h3>
+
+<p>The Kruskal–Wallis one-way ANOVA by ranks is a nonparametric method for testing whether samples originate from the same distribution. It is used for comparing more than two samples that are independent, or not related. When the Kruskal–Wallis test leads to significant results, then at least one of the samples is different from the other samples. The test does not identify where the differences occur or how many differences actually occur.</p>
+<p>Since it is a non-parametric method, the Kruskal–Wallis test does not assume a normal distribution, unlike the analogous one-way analysis of variance. However, the test does assume an identically shaped and scaled distribution for each group, except for any difference in medians.</p>
+
+<h3>The Walk–Wolfowitz Runs Test</h3>
+
+<p>The Walk–Wolfowitz runs test is a non-parametric statistical test that checks a randomness hypothesis for a two-valued data sequence. More precisely, it can be used to test the hypothesis that the elements of the sequence are mutually independent.</p>
+<p>A "run" of a sequence is a maximal non-empty segment of the sequence consisting of adjacent equal elements. For example, the 22-element-long sequence</p>
+
+<div class='clFormula'>$++++-+++-++++++-$</div>
+
+<p>consists of 6 runs, 3 of which consist of <span class='clFormula'>$+$</span>
+and the others of  <span class='clFormula'>$-$</span>
+. The run test is based on the null hypothesis that the two elements <span class='clFormula'>$+$</span>
+and <span class='clFormula'>$-$</span>
+are independently drawn from the same distribution.</p>
+<p>The mean and variance parameters of the run do not assume that the positive and negative elements have equal probabilities of occurring, but only assume that the elements are independent and identically distributed. If the number of runs is significantly higher or lower than expected, the hypothesis of statistical independence of the elements may be rejected.</p>
+
+<h3 id='concept_314'>13.4.5. Comparing Two Populations: Paired Difference Experiment</h3>
+
+<blockquote>McNemar's test is applied to <span class='clFormula'>$2 \times 2$</span>
+ contingency tables with <em>matched pairs</em> of subjects to determine whether the row and column marginal frequencies are equal.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Model the normal approximation of nominal data using McNemar's test</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A contingency table used in McNemar's test tabulates the outcomes of two tests on a sample of <span class='clFormula'>$n$</span>
+subjects.</li>
+<li>The null hypothesis of marginal homogeneity states that the two marginal probabilities for each outcome are the same.</li>
+<li>The McNemar test statistic is: <span class='clFormula'>${ \chi }^{ 2 }=\frac { { \left( b-c \right) }^{ 2 } }{ b+c }$</span>
+.</li>
+<li>If the <span class='clFormula'>${ \chi }^{ 2 }$</span>
+ result is significant, this provides sufficient evidence to reject the null hypothesis in favor of the alternative hypothesis that <span class='clFormula'>$p_b \neq p_c$</span>
+, which would mean that the marginal proportions are significantly different from each other.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>binomial distribution</dt>
+<dd>the discrete probability distribution of the number of successes in a sequence of n independent yes/no experiments, each of which yields success with probability <equation>$p$</equation></dd>
+<dt>chi-squared distribution</dt>
+<dd>A distribution with <equation>$k$</equation> degrees of freedom is the distribution of a sum of the squares of  <equation>$k$</equation> independent standard normal random variables.</dd>
+</dl>
+
+<p>McNemar's test is a normal approximation used on nominal data. It is applied to  <span class='clFormula'>$2 \times 2$</span>
+ contingency tables with a dichotomous trait, with matched pairs of subjects, to determine whether the row and column marginal frequencies are equal ("marginal homogeneity").</p>
+<p>A contingency table used in McNemar's test tabulates the outcomes of two tests on a sample of  <span class='clFormula'>$n$</span>
+subjects, as follows:</p>
+
+
+
+<a href='../images/18382.jpeg'><img class='clImageThumb' src='../images/18382.jpeg' alt='  Contingency Table'></a>
+
+<div><b><i> <span class='clFormula'>$2 \times 2$</span>
+Contingency Table</i></b></div>
+<p><i>A contingency table used in McNemar's test tabulates the outcomes of two tests on a sample of  <span class='clFormula'>$n$</span>
+subjects.</i></p>
+
+<p>The null hypothesis of marginal homogeneity states that the two marginal probabilities for each outcome are the same, i.e.  <span class='clFormula'>$p_a + p_b = p_a + p_c$</span>
+and <span class='clFormula'>$p_c + p_d = p_b + p_d$</span>
+. Thus, the null and alternative hypotheses are:</p>
+
+<div class='clFormula'>${ H }_{ 0 }:{ p }_{ b }={ p }_{ c }$</div>
+
+
+<div class='clFormula'>${ H }_{ 1 }:{ p }_{ b }\neq { p }_{ c }$</div>
+
+<p>Here  <span class='clFormula'>$p_a$</span>
+, etc., denote the theoretical probability of occurrences in cells with the corresponding label. The McNemar test statistic is:</p>
+
+<div class='clFormula'>$\displaystyle{{ \chi }^{ 2 }=\frac { { \left( b-c \right) }^{ 2 } }{ b+c }}$</div>
+
+<p>Under the null hypothesis, with a sufficiently large number of discordants, <span class='clFormula'>${ \chi }^{ 2 }$</span>
+ has a chi-squared distribution with <span class='clFormula'>$1$</span>
+degree of freedom. If either <span class='clFormula'>$b$</span>
+or  <span class='clFormula'>$c$</span>
+is small (<span class='clFormula'>$b+c&lt;25$</span>
+) then <span class='clFormula'>${ \chi }^{ 2 }$</span>
+ is not well-approximated by the chi-squared distribution. The binomial distribution can be used to obtain the exact distribution for an equivalent to the uncorrected form of McNemar's test statistic. In this formulation,  <span class='clFormula'>$b$</span>
+is compared to a binomial distribution with size parameter equal to  <span class='clFormula'>$b+c$</span>
+and "probability of success" of <span class='clFormula'>$\frac{1}{2}$</span>
+, which is essentially the same as the binomial sign test. For  <span class='clFormula'>$b+c&lt;25$</span>
+, the binomial calculation should be performed. Indeed, most software packages simply perform the binomial calculation in all cases, since the result then is an exact test in all cases. When comparing the resulting <span class='clFormula'>${ \chi }^{ 2 }$</span>
+ statistic to the right tail of the chi-squared distribution, the  <span class='clFormula'>$p$</span>
+-value that is found is two-sided, whereas to achieve a two-sided  <span class='clFormula'>$p$</span>
+-value in the case of the exact binomial test, the  <span class='clFormula'>$p$</span>
+-value of the extreme tail should be multiplied by  <span class='clFormula'>$2$</span>
+.</p>
+<p>If the <span class='clFormula'>${ \chi }^{ 2 }$</span>
+ result is significant, this provides sufficient evidence to reject the null hypothesis in favor of the alternative hypothesis that <span class='clFormula'>$p_b \neq p_c$</span>
+, which would mean that the marginal proportions are significantly different from each other.</p>
+
+<h3 id='concept_315'>13.4.6. Comparing Three or More Populations: Randomized Block Design</h3>
+
+<blockquote>Nonparametric methods using randomized block design include Cochran's <span class='clFormula'>$Q$</span>
+test and Friedman's test.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use the Friedman test to detect differences in treatments across multiple test attempts; use the Cochran's Q test to verify if k treatments have identical effects</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In the analysis of two-way randomized block designs, where the response variable can take only two possible outcomes (coded as  <span class='clFormula'>$0$</span>
+and  <span class='clFormula'>$1$</span>
+), Cochran's  <span class='clFormula'>$Q$</span>
+test is a non-parametric statistical test to verify if  <span class='clFormula'>$k$</span>
+treatments have identical effects.</li>
+<li>If the Cochran test rejects the null hypothesis of equally effective treatments, pairwise multiple comparisons can be made by applying Cochran's  <span class='clFormula'>$Q$</span>
+test on the two treatments of interest.</li>
+<li>Similar to the parametric repeated measures ANOVA, Friedman's test is used to detect differences in treatments across multiple test attempts.</li>
+<li>The procedure involves ranking each row (or block) together, then considering the values of ranks by columns.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>block</dt>
+<dd>experimental units in groups that are similar to one another</dd>
+</dl>
+
+<h3>Cochran's  <span class='clFormula'>$Q$</span>
+Test</h3>
+
+<p>In the analysis of two-way randomized block designs, where the response variable can take only two possible outcomes (coded as  <span class='clFormula'>$0$</span>
+and  <span class='clFormula'>$1$</span>
+), Cochran's  <span class='clFormula'>$Q$</span>
+test is a non-parametric statistical test to verify if  <span class='clFormula'>$k$</span>
+treatments have identical effects. Cochran's  <span class='clFormula'>$Q$</span>
+test assumes that there are  <span class='clFormula'>$k &gt; 2$</span>
+ experimental treatments and that the observations are arranged in  <span class='clFormula'>$b$</span>
+blocks; that is:</p>
+
+
+
+<a href='../images/18383.jpeg'><img class='clImageThumb' src='../images/18383.jpeg' alt='Cochran's '></a>
+
+<div><b><i>Cochran's <span class='clFormula'>$Q$</span></i></b></div>
+<p><i>Cochran's  <span class='clFormula'>$Q$</span>
+ test assumes that there are  <span class='clFormula'>$k &gt; 2$</span>
+experimental treatments and that the observations are arranged in  <span class='clFormula'>$b$</span>
+blocks.</i></p>
+
+<p>Cochran's  <span class='clFormula'>$Q$</span>
+test is:</p>
+<p> <span class='clFormula'>$H_0$</span>
+: The treatments are equally effective.</p>
+<p> <span class='clFormula'>$H_a$</span>
+: There is a difference in effectiveness among treatments.</p>
+<p>The Cochran's  <span class='clFormula'>$Q$</span>
+test statistic is:</p>
+
+
+
+<a href='../images/18384.png'><img class='clImageThumb' src='../images/18384.png' alt='Cochran's   Test Statistic'></a>
+
+<div><b><i>Cochran's  <span class='clFormula'>$Q$</span>
+Test Statistic</i></b></div>
+<p><i>This is the equation for Cochran's  <span class='clFormula'>$Q$</span>
+test statistic, where</i></p>
+
+<p>where</p>
+<ul>
+<li> <span class='clFormula'>$k$</span>
+is the number of treatments</li>
+<li>X• j is the column total for the j<sup>th</sup> treatment</li>
+<li>b is the number of blocks</li>
+<li>X<sub>i</sub> • is the row total for the i<sup>th</sup> block</li>
+<li>N is the grand total</li>
+</ul>
+<p>For significance level  <span class='clFormula'>$\alpha$</span>
+, the critical region is:</p>
+
+<div class='clFormula'>$T&gt;{ X }_{ 1-\alpha ,k-1 }^{ 2 }$</div>
+
+<p>where <span class='clFormula'>${ X }_{ 1-\alpha ,k-1 }$</span>
+ is the <span class='clFormula'>$(1-\alpha)$</span>
+-quantile of the chi-squared distribution with <span class='clFormula'>$k-1$</span>
+ degrees of freedom. The null hypothesis is rejected if the test statistic is in the critical region. If the Cochran test rejects the null hypothesis of equally effective treatments, pairwise multiple comparisons can be made by applying Cochran's <span class='clFormula'>$Q$</span>
+ test on the two treatments of interest.</p>
+<p>Cochran's  <span class='clFormula'>$Q$</span>
+test is based on the following assumptions:</p>
+
+<ol>
+<li>A large sample approximation; in particular, it assumes that <span class='clFormula'>$b$</span>
+is "large."</li>
+<li>The blocks were randomly selected from the population of all possible blocks.</li>
+<li>The outcomes of the treatments can be coded as binary responses (i.e., a <span class='clFormula'>$0$</span>
+or <span class='clFormula'>$1$</span>
+) in a way that is common to all treatments within each block.</li>
+</ol>
+
+<h3>The Friedman Test</h3>
+
+<p>The Friedman test is a non-parametric statistical test developed by the U.S. economist Milton Friedman. Similar to the parametric repeated measures ANOVA, it is used to detect differences in treatments across multiple test attempts. The procedure involves ranking each row (or block) together, then considering the values of ranks by columns.</p>
+<p>Examples of use could include:</p>
+<ul>
+<li> <span class='clFormula'>$n$</span>
+ wine judges each rate  <span class='clFormula'>$k$</span>
+different wines. Are any wines ranked consistently higher or lower than the others?</li>
+<li>    <span class='clFormula'>$n$</span>
+ welders each use  <span class='clFormula'>$k$</span>
+welding torches, and the ensuing welds were rated on quality. Do any of the torches produce consistently better or worse welds?</li>
+</ul>
+
+<h3>Method</h3>
+
+<p>1. Given data <span class='clFormula'>$\{ x_{ij} \} _{nxk}$</span>
+, that is, a matrix with <span class='clFormula'>$n$</span>
+rows (the blocks),  <span class='clFormula'>$k$</span>
+columns (the treatments) and a single observation at the intersection of each block and treatment, calculate the ranks within each block. If there are tied values, assign to each tied value the average of the ranks that would have been assigned without ties. Replace the data with a new matrix  <span class='clFormula'>$\{ r_{ij} \} _{nxk}$</span>
+ where the entry <span class='clFormula'>$r_{ij}$</span>
+is the rank of  <span class='clFormula'>$x_{ij}$</span>
+ within block<span class='clFormula'>$r_{ij}$</span><sub>i</sub>.</p>
+<p>2. Find the values:</p>
+
+<div class='clFormula'>$\displaystyle{\bar{r}_{\cdot j} = \frac{1}{n} \sum_{i=1}^n r_{ij}\\&#10;\bar{r} = \frac{1}{nk} \sum_{i=1}^n \sum_{j=1}^k r_{ij}\\&#10;SS_t=n\sum_{j=1}^k(\bar{r}_{\cdot j}-\bar{r})^2\\&#10;SS_e = \frac{1}{n(k-1)} \sum_{i=1}^n \sum_{j=1}^k (r_{ij} - \bar{r})^2}$</div>
+
+<p>3. The test statistic is given by <span class='clFormula'>$Q=\frac { { SS }_{ t } }{ { SS }_{ e } }$</span>
+. Note that the value of  <span class='clFormula'>$Q$</span>
+as computed above does not need to be adjusted for tied values in the data.</p>
+<p>4. Finally, when  <span class='clFormula'>$n$</span>
+or  <span class='clFormula'>$k$</span>
+ is large (i.e.  <span class='clFormula'>$n&gt;15$</span>
+or  <span class='clFormula'>$k &gt; 4$</span>
+), the probability distribution of  <span class='clFormula'>$Q$</span>
+can be approximated by that of a chi-squared distribution. In this case the  <span class='clFormula'>$p$</span>
+-value is given by <span class='clFormula'>$P\left( { \chi }_{ k-1 }^{ 2 }\ge Q \right)$</span>
+. If  <span class='clFormula'>$n$</span>
+or  <span class='clFormula'>$k$</span>
+is small, the approximation to chi-square becomes poor and the  <span class='clFormula'>$p$</span>
+-value should be obtained from tables of <span class='clFormula'>$Q$</span>
+specially prepared for the Friedman test. If the  <span class='clFormula'>$p$</span>
+-value is significant, appropriate post-hoc multiple comparisons tests would be performed.</p>
+
+<h3 id='concept_316'>13.4.7. Rank Correlation</h3>
+
+<blockquote>A rank correlation is any of several statistics that measure the relationship between rankings.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Evaluate the relationship between rankings of different ordinal variables using rank correlation</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A rank correlation coefficient measures the degree of similarity between two rankings, and can be used to assess the significance of the relation between them.</li>
+<li>Kendall's tau (<span class='clFormula'>$\tau$</span>
+) and Spearman's rho (<span class='clFormula'>$\rho$</span>
+) are particular (and frequently used) cases of a general correlation coefficient.</li>
+<li>The measure of significance of the rank correlation coefficient can show whether the measured relationship is small enough to be likely to be a coincidence.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>concordant</dt>
+<dd>Agreeing; correspondent; in keeping with; agreeable with.</dd>
+<dt>rank correlation</dt>
+<dd>Any of several statistics that measure the relationship between rankings of different ordinal variables or different rankings of the same variable.</dd>
+</dl>
+
+<h3>Rank Correlation</h3>
+
+<p>In statistics, a rank correlation is any of several statistics that measure the relationship between rankings of different ordinal variables or different rankings of the same variable, where a "ranking" is the assignment of the labels (e.g., first, second, third, etc.) to different observations of a particular variable. A rank correlation coefficient measures the degree of similarity between two rankings, and can be used to assess the significance of the relation between them.</p>
+<p>If, for example, one variable is the identity of a college basketball program and another variable is the identity of a college football program, one could test for a relationship between the poll rankings of the two types of program: do colleges with a higher-ranked basketball program tend to have a higher-ranked football program? A rank correlation coefficient can measure that relationship, and the measure of significance of the rank correlation coefficient can show whether the measured relationship is small enough to be likely to be a coincidence.</p>
+<p>If there is only one variable, the identity of a college football program, but it is subject to two different poll rankings (say, one by coaches and one by sportswriters), then the similarity of the two different polls' rankings can be measured with a rank correlation coefficient.</p>
+<p>Some of the more popular rank correlation statistics include Spearman's rho (<span class='clFormula'>$\rho$</span>
+) and Kendall's tau (<span class='clFormula'>$\tau$</span>
+)<em>.</em></p>
+
+<h3>Spearman's <span class='clFormula'>$\rho$</span></h3>
+
+<p>Spearman developed a method of measuring rank correlation known as Spearman's rank correlation coefficient. It is generally denoted by <span class='clFormula'>$r_s$</span>
+. There are three cases when calculating Spearman's rank correlation coefficient:</p>
+
+<ol>
+<li>When ranks are given</li>
+<li>When ranks are not given</li>
+<li>Repeated ranks</li>
+</ol>
+<p>The formula for calculating Spearman's rank correlation coefficient is:</p>
+
+<div class='clFormula'>$\displaystyle{r_s = 1- \frac{6 \sum d^2}{n(n^2-1)}}$</div>
+
+<p>where <span class='clFormula'>$n$</span>
+ is the number of items or individuals being ranked and <span class='clFormula'>$d$</span>
+ is <span class='clFormula'>$R_1 - R_2$</span>
+ (where <span class='clFormula'>$R_1$</span>
+ is the rank of items with respect to the first variable and <span class='clFormula'>$R_2$</span>
+ is the rank of items with respect to the second variable).</p>
+
+<h3>Kendall's <em>τ</em>
+</h3>
+
+<p>The definition of the Kendall coefficient is as follows:</p>
+<p>Let <span class='clFormula'>$(x_1, y_1), (x_2, y_2), \cdots, (x_n, y_n)$</span>
+be a set of observations of the joint random variables <span class='clFormula'>$X$</span>
+ and  <span class='clFormula'>$Y$</span><em>,</em> respectively, such that all the values of <span class='clFormula'>$x_i$</span>
+and <span class='clFormula'>$y_i$</span>
+are unique. Any pair of observations <span class='clFormula'>$(x_i,y_i)$</span>
+ and <span class='clFormula'>$(x_j,y_j)$</span>
+ follows these rules:</p>
+<ul>
+<li>The observations are sadi to be concordant if the ranks for both elements agree—that is, if both <span class='clFormula'>$x_i &gt; x_j$</span>
+ and <span class='clFormula'>$y_i &gt; y_j$</span>
+, or if both <span class='clFormula'>$x_i &lt; x_j$</span>
+ and <span class='clFormula'>$y_i &lt; y_j$</span>
+.</li>
+<li>The observations are said to be discordant if <span class='clFormula'>$x_i &gt; x_j$</span>
+ and <span class='clFormula'>$y_i &lt; y_j$</span>
+, or if <span class='clFormula'>$x_i &lt; x_j$</span>
+ and <span class='clFormula'>$y_i &gt; y_j$</span>
+. </li>
+<li>The observations are neither concordant nor discordant if <span class='clFormula'>$x_i = x_j$</span>
+ or <span class='clFormula'>$y_i = y_j$</span>
+.</li>
+</ul>
+<p>The Kendall  <span class='clFormula'>$\tau$</span>
+coefficient is defined as follows:</p>
+<p> <span class='clFormula'>$\displaystyle{\tau = \frac{(\text{number of concordant pairs}) - (\text{number of discordant pairs})}{\frac{1}{2} n (n-1)}}$</span></p>
+<p>and has the following properties:</p>
+<ul>
+<li>The denominator is the total number pair combinations, so the coefficient must be in the range  <span class='clFormula'>$-1 \leq \tau \leq 1$</span><em>.</em>
+</li>
+<li>If the agreement between the two rankings is perfect (i.e., the two rankings are the same) the coefficient has value <span class='clFormula'>$1$</span>
+.</li>
+<li>If the disagreement between the two rankings is perfect (i.e., one ranking is the reverse of the other) the coefficient has value  <span class='clFormula'>$-1$</span>
+.</li>
+<li>If  <span class='clFormula'>$X$</span>
+and  <span class='clFormula'>$Y$</span>
+are independent, then we would expect the coefficient to be approximately zero.</li>
+</ul>
+<p>Kendall's  <span class='clFormula'>$\tau$</span>
+and Spearman's  <span class='clFormula'>$\rho$</span>
+are particular cases of a general correlation coefficient.</p>
+
+</div>
+</div>
+</body>
+</html>

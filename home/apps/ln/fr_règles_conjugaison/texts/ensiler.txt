@@ -1,0 +1,190 @@
+# ensiler %[clVerbGroup|1]
+[-
+mettre en silo. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ensil%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ensil%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ensil%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ensil%[m|é]|
+|ayant|ensil%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ensil%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ensil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ensil%[m|e]|
+|tu|ensil%[m|es]|
+|il|ensil%[m|e]|
+|nous|ensil%[m|ons]|
+|vous|ensil%[m|ez]|
+|ils|ensil%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ensil%[m|é]|
+|tu|as |ensil%[m|é]|
+|il|a|ensil%[m|é]|
+|nous|avons|ensil%[m|é]|
+|vous|avez|ensil%[m|é]|
+|ils|ont|ensil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ensil%[m|ais]|
+|tu|ensil%[m|ais]|
+|il|ensil%[m|ait]|
+|nous|ensil%[m|ions]|
+|vous|ensil%[m|iez]|
+|ils|ensil%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ensil%[m|é]|
+|tu|avais|ensil%[m|é]|
+|il|avait|ensil%[m|é]|
+|nous|avions|ensil%[m|é]|
+|vous|aviez|ensil%[m|é]|
+|ils|avaient|ensil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ensil%[m|ai]|
+|tu|ensil%[m|as]|
+|il|ensil%[m|a]|
+|nous|ensil%[m|âmes]|
+|vous|ensil%[m|âtes]|
+|ils|ensil%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ensil%[m|é]|
+|tu|eus|ensil%[m|é]|
+|il|eut|ensil%[m|é]|
+|nous|e&ucirc;mes|ensil%[m|é]|
+|vous|e&ucirc;tes|ensil%[m|é]|
+|ils|eurent|ensil%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ensil%[m|erai]|
+|tu|ensil%[m|eras]|
+|il|ensil%[m|era]|
+|nous|ensil%[m|erons]|
+|vous|ensil%[m|erez]|
+|ils|ensil%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ensil%[m|é]|
+|tu|auras|ensil%[m|é]|
+|il|aura|ensil%[m|é]|
+|nous|aurons|ensil%[m|é]|
+|vous|aurez|ensil%[m|é]|
+|ils|auront|ensil%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ensil%[m|erais]|
+|tu|ensil%[m|erais]|
+|il|ensil%[m|erait]|
+|nous|ensil%[m|erions]|
+|vous|ensil%[m|eriez]|
+|ils|ensil%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ensil%[m|é]|
+|tu|aurais|ensil%[m|é]|
+|il|aurait|ensil%[m|é]|
+|nous|aurions|ensil%[m|é]|
+|vous|auriez|ensil%[m|é]|
+|ils|auraient|ensil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ensil%[m|e]|
+|que|tu|ensil%[m|es]|
+|qu'|il|ensil%[m|e]|
+|que|nous|ensil%[m|ions]|
+|que|vous|ensil%[m|iez]|
+|qu'|ils|ensil%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ensil%[m|é]|
+|que|tu|aies|ensil%[m|é]|
+|qu'|il|ait|ensil%[m|é]|
+|que|nous|ayons|ensil%[m|é]|
+|que|vous|ayez|ensil%[m|é]|
+|qu'|ils|aient|ensil%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ensil%[m|asse]|
+|que|tu|ensil%[m|asses]|
+|qu'|il|ensil%[m|ât]|
+|que|nous|ensil%[m|assions]|
+|que|vous|ensil%[m|assiez]|
+|qu'|ils|ensil%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ensil%[m|é]|
+|que|tu|eusses|ensil%[m|é]|
+|qu'|il|eût|ensil%[m|é]|
+|que|nous|eussions|ensil%[m|é]|
+|que|vous|eussiez|ensil%[m|é]|
+|qu'|ils|eussent|ensil%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ensil%[m|e]|
+|ensil%[m|ons]|
+|ensil%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ensil%[m|é]|
+|ayons|ensil%[m|é]|
+|ayez|ensil%[m|é]|
+|]
+

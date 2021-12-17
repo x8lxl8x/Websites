@@ -1,0 +1,190 @@
+# détaller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|détall%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|détall%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|détall%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||détall%[m|é]|
+|ayant|détall%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en détall%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|détall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|détall%[m|e]|
+|tu|détall%[m|es]|
+|il|détall%[m|e]|
+|nous|détall%[m|ons]|
+|vous|détall%[m|ez]|
+|ils|détall%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|détall%[m|é]|
+|tu|as |détall%[m|é]|
+|il|a|détall%[m|é]|
+|nous|avons|détall%[m|é]|
+|vous|avez|détall%[m|é]|
+|ils|ont|détall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|détall%[m|ais]|
+|tu|détall%[m|ais]|
+|il|détall%[m|ait]|
+|nous|détall%[m|ions]|
+|vous|détall%[m|iez]|
+|ils|détall%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|détall%[m|é]|
+|tu|avais|détall%[m|é]|
+|il|avait|détall%[m|é]|
+|nous|avions|détall%[m|é]|
+|vous|aviez|détall%[m|é]|
+|ils|avaient|détall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|détall%[m|ai]|
+|tu|détall%[m|as]|
+|il|détall%[m|a]|
+|nous|détall%[m|âmes]|
+|vous|détall%[m|âtes]|
+|ils|détall%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|détall%[m|é]|
+|tu|eus|détall%[m|é]|
+|il|eut|détall%[m|é]|
+|nous|e&ucirc;mes|détall%[m|é]|
+|vous|e&ucirc;tes|détall%[m|é]|
+|ils|eurent|détall%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|détall%[m|erai]|
+|tu|détall%[m|eras]|
+|il|détall%[m|era]|
+|nous|détall%[m|erons]|
+|vous|détall%[m|erez]|
+|ils|détall%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|détall%[m|é]|
+|tu|auras|détall%[m|é]|
+|il|aura|détall%[m|é]|
+|nous|aurons|détall%[m|é]|
+|vous|aurez|détall%[m|é]|
+|ils|auront|détall%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|détall%[m|erais]|
+|tu|détall%[m|erais]|
+|il|détall%[m|erait]|
+|nous|détall%[m|erions]|
+|vous|détall%[m|eriez]|
+|ils|détall%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|détall%[m|é]|
+|tu|aurais|détall%[m|é]|
+|il|aurait|détall%[m|é]|
+|nous|aurions|détall%[m|é]|
+|vous|auriez|détall%[m|é]|
+|ils|auraient|détall%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|détall%[m|e]|
+|que|tu|détall%[m|es]|
+|qu'|il|détall%[m|e]|
+|que|nous|détall%[m|ions]|
+|que|vous|détall%[m|iez]|
+|qu'|ils|détall%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|détall%[m|é]|
+|que|tu|aies|détall%[m|é]|
+|qu'|il|ait|détall%[m|é]|
+|que|nous|ayons|détall%[m|é]|
+|que|vous|ayez|détall%[m|é]|
+|qu'|ils|aient|détall%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|détall%[m|asse]|
+|que|tu|détall%[m|asses]|
+|qu'|il|détall%[m|ât]|
+|que|nous|détall%[m|assions]|
+|que|vous|détall%[m|assiez]|
+|qu'|ils|détall%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|détall%[m|é]|
+|que|tu|eusses|détall%[m|é]|
+|qu'|il|eût|détall%[m|é]|
+|que|nous|eussions|détall%[m|é]|
+|que|vous|eussiez|détall%[m|é]|
+|qu'|ils|eussent|détall%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|détall%[m|e]|
+|détall%[m|ons]|
+|détall%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|détall%[m|é]|
+|ayons|détall%[m|é]|
+|ayez|détall%[m|é]|
+|]
+

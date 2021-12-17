@@ -1,0 +1,190 @@
+# pessigner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pessign%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pessign%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pessign%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pessign%[m|é]|
+|ayant|pessign%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pessign%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pessign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pessign%[m|e]|
+|tu|pessign%[m|es]|
+|il|pessign%[m|e]|
+|nous|pessign%[m|ons]|
+|vous|pessign%[m|ez]|
+|ils|pessign%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pessign%[m|é]|
+|tu|as |pessign%[m|é]|
+|il|a|pessign%[m|é]|
+|nous|avons|pessign%[m|é]|
+|vous|avez|pessign%[m|é]|
+|ils|ont|pessign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pessign%[m|ais]|
+|tu|pessign%[m|ais]|
+|il|pessign%[m|ait]|
+|nous|pessign%[m|ions]|
+|vous|pessign%[m|iez]|
+|ils|pessign%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pessign%[m|é]|
+|tu|avais|pessign%[m|é]|
+|il|avait|pessign%[m|é]|
+|nous|avions|pessign%[m|é]|
+|vous|aviez|pessign%[m|é]|
+|ils|avaient|pessign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pessign%[m|ai]|
+|tu|pessign%[m|as]|
+|il|pessign%[m|a]|
+|nous|pessign%[m|âmes]|
+|vous|pessign%[m|âtes]|
+|ils|pessign%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pessign%[m|é]|
+|tu|eus|pessign%[m|é]|
+|il|eut|pessign%[m|é]|
+|nous|e&ucirc;mes|pessign%[m|é]|
+|vous|e&ucirc;tes|pessign%[m|é]|
+|ils|eurent|pessign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pessign%[m|erai]|
+|tu|pessign%[m|eras]|
+|il|pessign%[m|era]|
+|nous|pessign%[m|erons]|
+|vous|pessign%[m|erez]|
+|ils|pessign%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pessign%[m|é]|
+|tu|auras|pessign%[m|é]|
+|il|aura|pessign%[m|é]|
+|nous|aurons|pessign%[m|é]|
+|vous|aurez|pessign%[m|é]|
+|ils|auront|pessign%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pessign%[m|erais]|
+|tu|pessign%[m|erais]|
+|il|pessign%[m|erait]|
+|nous|pessign%[m|erions]|
+|vous|pessign%[m|eriez]|
+|ils|pessign%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pessign%[m|é]|
+|tu|aurais|pessign%[m|é]|
+|il|aurait|pessign%[m|é]|
+|nous|aurions|pessign%[m|é]|
+|vous|auriez|pessign%[m|é]|
+|ils|auraient|pessign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pessign%[m|e]|
+|que|tu|pessign%[m|es]|
+|qu'|il|pessign%[m|e]|
+|que|nous|pessign%[m|ions]|
+|que|vous|pessign%[m|iez]|
+|qu'|ils|pessign%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pessign%[m|é]|
+|que|tu|aies|pessign%[m|é]|
+|qu'|il|ait|pessign%[m|é]|
+|que|nous|ayons|pessign%[m|é]|
+|que|vous|ayez|pessign%[m|é]|
+|qu'|ils|aient|pessign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pessign%[m|asse]|
+|que|tu|pessign%[m|asses]|
+|qu'|il|pessign%[m|ât]|
+|que|nous|pessign%[m|assions]|
+|que|vous|pessign%[m|assiez]|
+|qu'|ils|pessign%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pessign%[m|é]|
+|que|tu|eusses|pessign%[m|é]|
+|qu'|il|eût|pessign%[m|é]|
+|que|nous|eussions|pessign%[m|é]|
+|que|vous|eussiez|pessign%[m|é]|
+|qu'|ils|eussent|pessign%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pessign%[m|e]|
+|pessign%[m|ons]|
+|pessign%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pessign%[m|é]|
+|ayons|pessign%[m|é]|
+|ayez|pessign%[m|é]|
+|]
+

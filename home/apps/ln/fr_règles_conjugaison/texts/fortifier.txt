@@ -1,0 +1,193 @@
+# fortifier %[clVerbGroup|1]
+[-
+action de munir un lieu d'ouvrages fortifiés. 
+protéger par des ouvrages de défensifs. 
+donner de la force physique. 
+donner de l'assurance morale. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fortifi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fortifi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fortifi%[m|é]|
+|ayant|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fortifi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fortifi%[m|e]|
+|tu|fortifi%[m|es]|
+|il|fortifi%[m|e]|
+|nous|fortifi%[m|ons]|
+|vous|fortifi%[m|ez]|
+|ils|fortifi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fortifi%[m|é]|
+|tu|as |fortifi%[m|é]|
+|il|a|fortifi%[m|é]|
+|nous|avons|fortifi%[m|é]|
+|vous|avez|fortifi%[m|é]|
+|ils|ont|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fortifi%[m|ais]|
+|tu|fortifi%[m|ais]|
+|il|fortifi%[m|ait]|
+|nous|fortifi%[m|ions]|
+|vous|fortifi%[m|iez]|
+|ils|fortifi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fortifi%[m|é]|
+|tu|avais|fortifi%[m|é]|
+|il|avait|fortifi%[m|é]|
+|nous|avions|fortifi%[m|é]|
+|vous|aviez|fortifi%[m|é]|
+|ils|avaient|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fortifi%[m|ai]|
+|tu|fortifi%[m|as]|
+|il|fortifi%[m|a]|
+|nous|fortifi%[m|âmes]|
+|vous|fortifi%[m|âtes]|
+|ils|fortifi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fortifi%[m|é]|
+|tu|eus|fortifi%[m|é]|
+|il|eut|fortifi%[m|é]|
+|nous|e&ucirc;mes|fortifi%[m|é]|
+|vous|e&ucirc;tes|fortifi%[m|é]|
+|ils|eurent|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fortifi%[m|erai]|
+|tu|fortifi%[m|eras]|
+|il|fortifi%[m|era]|
+|nous|fortifi%[m|erons]|
+|vous|fortifi%[m|erez]|
+|ils|fortifi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fortifi%[m|é]|
+|tu|auras|fortifi%[m|é]|
+|il|aura|fortifi%[m|é]|
+|nous|aurons|fortifi%[m|é]|
+|vous|aurez|fortifi%[m|é]|
+|ils|auront|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fortifi%[m|erais]|
+|tu|fortifi%[m|erais]|
+|il|fortifi%[m|erait]|
+|nous|fortifi%[m|erions]|
+|vous|fortifi%[m|eriez]|
+|ils|fortifi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fortifi%[m|é]|
+|tu|aurais|fortifi%[m|é]|
+|il|aurait|fortifi%[m|é]|
+|nous|aurions|fortifi%[m|é]|
+|vous|auriez|fortifi%[m|é]|
+|ils|auraient|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fortifi%[m|e]|
+|que|tu|fortifi%[m|es]|
+|qu'|il|fortifi%[m|e]|
+|que|nous|fortifi%[m|ions]|
+|que|vous|fortifi%[m|iez]|
+|qu'|ils|fortifi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fortifi%[m|é]|
+|que|tu|aies|fortifi%[m|é]|
+|qu'|il|ait|fortifi%[m|é]|
+|que|nous|ayons|fortifi%[m|é]|
+|que|vous|ayez|fortifi%[m|é]|
+|qu'|ils|aient|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fortifi%[m|asse]|
+|que|tu|fortifi%[m|asses]|
+|qu'|il|fortifi%[m|ât]|
+|que|nous|fortifi%[m|assions]|
+|que|vous|fortifi%[m|assiez]|
+|qu'|ils|fortifi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fortifi%[m|é]|
+|que|tu|eusses|fortifi%[m|é]|
+|qu'|il|eût|fortifi%[m|é]|
+|que|nous|eussions|fortifi%[m|é]|
+|que|vous|eussiez|fortifi%[m|é]|
+|qu'|ils|eussent|fortifi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fortifi%[m|e]|
+|fortifi%[m|ons]|
+|fortifi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fortifi%[m|é]|
+|ayons|fortifi%[m|é]|
+|ayez|fortifi%[m|é]|
+|]
+

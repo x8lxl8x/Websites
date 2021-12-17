@@ -1,0 +1,190 @@
+# expurger %[clVerbGroup|1]
+[-
+retirer d'un texte ce qui n'est pas conforme à la morale. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|expurg%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|expurg%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|expurg%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||expurg%[m|é]|
+|ayant|expurg%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en expurg%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|expurg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|expurg%[m|e]|
+|tu|expurg%[m|es]|
+|il|expurg%[m|e]|
+|nous|expurg%[m|eons]|
+|vous|expurg%[m|ez]|
+|ils|expurg%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|expurg%[m|é]|
+|tu|as |expurg%[m|é]|
+|il|a|expurg%[m|é]|
+|nous|avons|expurg%[m|é]|
+|vous|avez|expurg%[m|é]|
+|ils|ont|expurg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|expurg%[m|eais]|
+|tu|expurg%[m|eais]|
+|il|expurg%[m|eait]|
+|nous|expurg%[m|ions]|
+|vous|expurg%[m|iez]|
+|ils|expurg%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|expurg%[m|é]|
+|tu|avais|expurg%[m|é]|
+|il|avait|expurg%[m|é]|
+|nous|avions|expurg%[m|é]|
+|vous|aviez|expurg%[m|é]|
+|ils|avaient|expurg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|expurg%[m|eai]|
+|tu|expurg%[m|eas]|
+|il|expurg%[m|ea]|
+|nous|expurg%[m|eâmes]|
+|vous|expurg%[m|eâtes]|
+|ils|expurg%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|expurg%[m|é]|
+|tu|eus|expurg%[m|é]|
+|il|eut|expurg%[m|é]|
+|nous|e&ucirc;mes|expurg%[m|é]|
+|vous|e&ucirc;tes|expurg%[m|é]|
+|ils|eurent|expurg%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|expurg%[m|erai]|
+|tu|expurg%[m|eras]|
+|il|expurg%[m|era]|
+|nous|expurg%[m|erons]|
+|vous|expurg%[m|erez]|
+|ils|expurg%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|expurg%[m|é]|
+|tu|auras|expurg%[m|é]|
+|il|aura|expurg%[m|é]|
+|nous|aurons|expurg%[m|é]|
+|vous|aurez|expurg%[m|é]|
+|ils|auront|expurg%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|expurg%[m|erais]|
+|tu|expurg%[m|erais]|
+|il|expurg%[m|erait]|
+|nous|expurg%[m|erions]|
+|vous|expurg%[m|eriez]|
+|ils|expurg%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|expurg%[m|é]|
+|tu|aurais|expurg%[m|é]|
+|il|aurait|expurg%[m|é]|
+|nous|aurions|expurg%[m|é]|
+|vous|auriez|expurg%[m|é]|
+|ils|auraient|expurg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|expurg%[m|e]|
+|que|tu|expurg%[m|es]|
+|qu'|il|expurg%[m|e]|
+|que|nous|expurg%[m|ions]|
+|que|vous|expurg%[m|iez]|
+|qu'|ils|expurg%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|expurg%[m|é]|
+|que|tu|aies|expurg%[m|é]|
+|qu'|il|ait|expurg%[m|é]|
+|que|nous|ayons|expurg%[m|é]|
+|que|vous|ayez|expurg%[m|é]|
+|qu'|ils|aient|expurg%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|expurg%[m|easse]|
+|que|tu|expurg%[m|easses]|
+|qu'|il|expurg%[m|eât]|
+|que|nous|expurg%[m|eassions]|
+|que|vous|expurg%[m|eassiez]|
+|qu'|ils|expurg%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|expurg%[m|é]|
+|que|tu|eusses|expurg%[m|é]|
+|qu'|il|eût|expurg%[m|é]|
+|que|nous|eussions|expurg%[m|é]|
+|que|vous|eussiez|expurg%[m|é]|
+|qu'|ils|eussent|expurg%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|expurg%[m|e]|
+|expurg%[m|eons]|
+|expurg%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|expurg%[m|é]|
+|ayons|expurg%[m|é]|
+|ayez|expurg%[m|é]|
+|]
+

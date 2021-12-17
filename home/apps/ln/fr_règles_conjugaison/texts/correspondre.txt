@@ -1,0 +1,190 @@
+# correspondre %[clVerbGroup|3]
+[-
+entretenir des relations avec quelqu'un, par écrit (ou à l'aide d'autres moyens de communication) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|correspond%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|correspond%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|correspond%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||correspond%[m|u]|
+|ayant|correspond%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en correspond%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|correspond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|correspond%[m|s]|
+|tu|correspond%[m|s]|
+|il|correspond%[m|]|
+|nous|correspond%[m|ons]|
+|vous|correspond%[m|ez]|
+|ils|correspond%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|correspond%[m|u]|
+|tu|as |correspond%[m|u]|
+|il|a|correspond%[m|u]|
+|nous|avons|correspond%[m|u]|
+|vous|avez|correspond%[m|u]|
+|ils|ont|correspond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|correspond%[m|ais]|
+|tu|correspond%[m|ais]|
+|il|correspond%[m|ait]|
+|nous|correspond%[m|ions]|
+|vous|correspond%[m|iez]|
+|ils|correspond%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|correspond%[m|u]|
+|tu|avais|correspond%[m|u]|
+|il|avait|correspond%[m|u]|
+|nous|avions|correspond%[m|u]|
+|vous|aviez|correspond%[m|u]|
+|ils|avaient|correspond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|correspond%[m|is]|
+|tu|correspond%[m|is]|
+|il|correspond%[m|it]|
+|nous|correspond%[m|îmes]|
+|vous|correspond%[m|îtes]|
+|ils|correspond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|correspond%[m|u]|
+|tu|eus|correspond%[m|u]|
+|il|eut|correspond%[m|u]|
+|nous|e&ucirc;mes|correspond%[m|u]|
+|vous|e&ucirc;tes|correspond%[m|u]|
+|ils|eurent|correspond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|correspond%[m|rai]|
+|tu|correspond%[m|ras]|
+|il|correspond%[m|ra]|
+|nous|correspond%[m|rons]|
+|vous|correspond%[m|rez]|
+|ils|correspond%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|correspond%[m|u]|
+|tu|auras|correspond%[m|u]|
+|il|aura|correspond%[m|u]|
+|nous|aurons|correspond%[m|u]|
+|vous|aurez|correspond%[m|u]|
+|ils|auront|correspond%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|correspond%[m|rais]|
+|tu|correspond%[m|rais]|
+|il|correspond%[m|rait]|
+|nous|correspond%[m|rions]|
+|vous|correspond%[m|riez]|
+|ils|correspond%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|correspond%[m|u]|
+|tu|aurais|correspond%[m|u]|
+|il|aurait|correspond%[m|u]|
+|nous|aurions|correspond%[m|u]|
+|vous|auriez|correspond%[m|u]|
+|ils|auraient|correspond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|correspond%[m|e]|
+|que|tu|correspond%[m|es]|
+|qu'|il|correspond%[m|e]|
+|que|nous|correspond%[m|ions]|
+|que|vous|correspond%[m|iez]|
+|qu'|ils|correspond%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|correspond%[m|u]|
+|que|tu|aies|correspond%[m|u]|
+|qu'|il|ait|correspond%[m|u]|
+|que|nous|ayons|correspond%[m|u]|
+|que|vous|ayez|correspond%[m|u]|
+|qu'|ils|aient|correspond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|correspond%[m|isse]|
+|que|tu|correspond%[m|isses]|
+|qu'|il|correspond%[m|ît]|
+|que|nous|correspond%[m|issions]|
+|que|vous|correspond%[m|issiez]|
+|qu'|ils|correspond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|correspond%[m|u]|
+|que|tu|eusses|correspond%[m|u]|
+|qu'|il|eût|correspond%[m|u]|
+|que|nous|eussions|correspond%[m|u]|
+|que|vous|eussiez|correspond%[m|u]|
+|qu'|ils|eussent|correspond%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|correspond%[m|s]|
+|correspond%[m|ons]|
+|correspond%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|correspond%[m|u]|
+|ayons|correspond%[m|u]|
+|ayez|correspond%[m|u]|
+|]
+

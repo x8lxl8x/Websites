@@ -1,0 +1,190 @@
+# picoler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|picol%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|picol%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|picol%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||picol%[m|é]|
+|ayant|picol%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en picol%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|picol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|picol%[m|e]|
+|tu|picol%[m|es]|
+|il|picol%[m|e]|
+|nous|picol%[m|ons]|
+|vous|picol%[m|ez]|
+|ils|picol%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|picol%[m|é]|
+|tu|as |picol%[m|é]|
+|il|a|picol%[m|é]|
+|nous|avons|picol%[m|é]|
+|vous|avez|picol%[m|é]|
+|ils|ont|picol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|picol%[m|ais]|
+|tu|picol%[m|ais]|
+|il|picol%[m|ait]|
+|nous|picol%[m|ions]|
+|vous|picol%[m|iez]|
+|ils|picol%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|picol%[m|é]|
+|tu|avais|picol%[m|é]|
+|il|avait|picol%[m|é]|
+|nous|avions|picol%[m|é]|
+|vous|aviez|picol%[m|é]|
+|ils|avaient|picol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|picol%[m|ai]|
+|tu|picol%[m|as]|
+|il|picol%[m|a]|
+|nous|picol%[m|âmes]|
+|vous|picol%[m|âtes]|
+|ils|picol%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|picol%[m|é]|
+|tu|eus|picol%[m|é]|
+|il|eut|picol%[m|é]|
+|nous|e&ucirc;mes|picol%[m|é]|
+|vous|e&ucirc;tes|picol%[m|é]|
+|ils|eurent|picol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|picol%[m|erai]|
+|tu|picol%[m|eras]|
+|il|picol%[m|era]|
+|nous|picol%[m|erons]|
+|vous|picol%[m|erez]|
+|ils|picol%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|picol%[m|é]|
+|tu|auras|picol%[m|é]|
+|il|aura|picol%[m|é]|
+|nous|aurons|picol%[m|é]|
+|vous|aurez|picol%[m|é]|
+|ils|auront|picol%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|picol%[m|erais]|
+|tu|picol%[m|erais]|
+|il|picol%[m|erait]|
+|nous|picol%[m|erions]|
+|vous|picol%[m|eriez]|
+|ils|picol%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|picol%[m|é]|
+|tu|aurais|picol%[m|é]|
+|il|aurait|picol%[m|é]|
+|nous|aurions|picol%[m|é]|
+|vous|auriez|picol%[m|é]|
+|ils|auraient|picol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|picol%[m|e]|
+|que|tu|picol%[m|es]|
+|qu'|il|picol%[m|e]|
+|que|nous|picol%[m|ions]|
+|que|vous|picol%[m|iez]|
+|qu'|ils|picol%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|picol%[m|é]|
+|que|tu|aies|picol%[m|é]|
+|qu'|il|ait|picol%[m|é]|
+|que|nous|ayons|picol%[m|é]|
+|que|vous|ayez|picol%[m|é]|
+|qu'|ils|aient|picol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|picol%[m|asse]|
+|que|tu|picol%[m|asses]|
+|qu'|il|picol%[m|ât]|
+|que|nous|picol%[m|assions]|
+|que|vous|picol%[m|assiez]|
+|qu'|ils|picol%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|picol%[m|é]|
+|que|tu|eusses|picol%[m|é]|
+|qu'|il|eût|picol%[m|é]|
+|que|nous|eussions|picol%[m|é]|
+|que|vous|eussiez|picol%[m|é]|
+|qu'|ils|eussent|picol%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|picol%[m|e]|
+|picol%[m|ons]|
+|picol%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|picol%[m|é]|
+|ayons|picol%[m|é]|
+|ayez|picol%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# philosopher %[clVerbGroup|1]
+[-
+penser sur des thèmes philosophiques, ou encore raisonner et discuter sur sujet quelconque. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|philosoph%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|philosoph%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||philosoph%[m|é]|
+|ayant|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en philosoph%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|philosoph%[m|e]|
+|tu|philosoph%[m|es]|
+|il|philosoph%[m|e]|
+|nous|philosoph%[m|ons]|
+|vous|philosoph%[m|ez]|
+|ils|philosoph%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|philosoph%[m|é]|
+|tu|as |philosoph%[m|é]|
+|il|a|philosoph%[m|é]|
+|nous|avons|philosoph%[m|é]|
+|vous|avez|philosoph%[m|é]|
+|ils|ont|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|philosoph%[m|ais]|
+|tu|philosoph%[m|ais]|
+|il|philosoph%[m|ait]|
+|nous|philosoph%[m|ions]|
+|vous|philosoph%[m|iez]|
+|ils|philosoph%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|philosoph%[m|é]|
+|tu|avais|philosoph%[m|é]|
+|il|avait|philosoph%[m|é]|
+|nous|avions|philosoph%[m|é]|
+|vous|aviez|philosoph%[m|é]|
+|ils|avaient|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|philosoph%[m|ai]|
+|tu|philosoph%[m|as]|
+|il|philosoph%[m|a]|
+|nous|philosoph%[m|âmes]|
+|vous|philosoph%[m|âtes]|
+|ils|philosoph%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|philosoph%[m|é]|
+|tu|eus|philosoph%[m|é]|
+|il|eut|philosoph%[m|é]|
+|nous|e&ucirc;mes|philosoph%[m|é]|
+|vous|e&ucirc;tes|philosoph%[m|é]|
+|ils|eurent|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|philosoph%[m|erai]|
+|tu|philosoph%[m|eras]|
+|il|philosoph%[m|era]|
+|nous|philosoph%[m|erons]|
+|vous|philosoph%[m|erez]|
+|ils|philosoph%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|philosoph%[m|é]|
+|tu|auras|philosoph%[m|é]|
+|il|aura|philosoph%[m|é]|
+|nous|aurons|philosoph%[m|é]|
+|vous|aurez|philosoph%[m|é]|
+|ils|auront|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|philosoph%[m|erais]|
+|tu|philosoph%[m|erais]|
+|il|philosoph%[m|erait]|
+|nous|philosoph%[m|erions]|
+|vous|philosoph%[m|eriez]|
+|ils|philosoph%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|philosoph%[m|é]|
+|tu|aurais|philosoph%[m|é]|
+|il|aurait|philosoph%[m|é]|
+|nous|aurions|philosoph%[m|é]|
+|vous|auriez|philosoph%[m|é]|
+|ils|auraient|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|philosoph%[m|e]|
+|que|tu|philosoph%[m|es]|
+|qu'|il|philosoph%[m|e]|
+|que|nous|philosoph%[m|ions]|
+|que|vous|philosoph%[m|iez]|
+|qu'|ils|philosoph%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|philosoph%[m|é]|
+|que|tu|aies|philosoph%[m|é]|
+|qu'|il|ait|philosoph%[m|é]|
+|que|nous|ayons|philosoph%[m|é]|
+|que|vous|ayez|philosoph%[m|é]|
+|qu'|ils|aient|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|philosoph%[m|asse]|
+|que|tu|philosoph%[m|asses]|
+|qu'|il|philosoph%[m|ât]|
+|que|nous|philosoph%[m|assions]|
+|que|vous|philosoph%[m|assiez]|
+|qu'|ils|philosoph%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|philosoph%[m|é]|
+|que|tu|eusses|philosoph%[m|é]|
+|qu'|il|eût|philosoph%[m|é]|
+|que|nous|eussions|philosoph%[m|é]|
+|que|vous|eussiez|philosoph%[m|é]|
+|qu'|ils|eussent|philosoph%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|philosoph%[m|e]|
+|philosoph%[m|ons]|
+|philosoph%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|philosoph%[m|é]|
+|ayons|philosoph%[m|é]|
+|ayez|philosoph%[m|é]|
+|]
+

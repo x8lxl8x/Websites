@@ -1,0 +1,190 @@
+# agencer %[clVerbGroup|1]
+[-
+combiner, organiser des éléments dans un certain ordre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|agen%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|agen%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|agen%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||agen%[m|cé]|
+|ayant|agen%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en agen%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|agen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|agen%[m|ce]|
+|tu|agen%[m|ces]|
+|il|agen%[m|ce]|
+|nous|agen%[m|çons]|
+|vous|agen%[m|cez]|
+|ils|agen%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|agen%[m|cé]|
+|tu|as |agen%[m|cé]|
+|il|a|agen%[m|cé]|
+|nous|avons|agen%[m|cé]|
+|vous|avez|agen%[m|cé]|
+|ils|ont|agen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|agen%[m|çais]|
+|tu|agen%[m|çais]|
+|il|agen%[m|çait]|
+|nous|agen%[m|cions]|
+|vous|agen%[m|ciez]|
+|ils|agen%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|agen%[m|cé]|
+|tu|avais|agen%[m|cé]|
+|il|avait|agen%[m|cé]|
+|nous|avions|agen%[m|cé]|
+|vous|aviez|agen%[m|cé]|
+|ils|avaient|agen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|agen%[m|çai]|
+|tu|agen%[m|ças]|
+|il|agen%[m|ça]|
+|nous|agen%[m|çâmes]|
+|vous|agen%[m|çâtes]|
+|ils|agen%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|agen%[m|cé]|
+|tu|eus|agen%[m|cé]|
+|il|eut|agen%[m|cé]|
+|nous|e&ucirc;mes|agen%[m|cé]|
+|vous|e&ucirc;tes|agen%[m|cé]|
+|ils|eurent|agen%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|agen%[m|cerai]|
+|tu|agen%[m|ceras]|
+|il|agen%[m|cera]|
+|nous|agen%[m|cerons]|
+|vous|agen%[m|cerez]|
+|ils|agen%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|agen%[m|cé]|
+|tu|auras|agen%[m|cé]|
+|il|aura|agen%[m|cé]|
+|nous|aurons|agen%[m|cé]|
+|vous|aurez|agen%[m|cé]|
+|ils|auront|agen%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|agen%[m|cerais]|
+|tu|agen%[m|cerais]|
+|il|agen%[m|cerait]|
+|nous|agen%[m|cerions]|
+|vous|agen%[m|ceriez]|
+|ils|agen%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|agen%[m|cé]|
+|tu|aurais|agen%[m|cé]|
+|il|aurait|agen%[m|cé]|
+|nous|aurions|agen%[m|cé]|
+|vous|auriez|agen%[m|cé]|
+|ils|auraient|agen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|agen%[m|ce]|
+|que|tu|agen%[m|ces]|
+|qu'|il|agen%[m|ce]|
+|que|nous|agen%[m|cions]|
+|que|vous|agen%[m|ciez]|
+|qu'|ils|agen%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|agen%[m|cé]|
+|que|tu|aies|agen%[m|cé]|
+|qu'|il|ait|agen%[m|cé]|
+|que|nous|ayons|agen%[m|cé]|
+|que|vous|ayez|agen%[m|cé]|
+|qu'|ils|aient|agen%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|agen%[m|çasse]|
+|que|tu|agen%[m|çasses]|
+|qu'|il|agen%[m|çât]|
+|que|nous|agen%[m|çassions]|
+|que|vous|agen%[m|çassiez]|
+|qu'|ils|agen%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|agen%[m|cé]|
+|que|tu|eusses|agen%[m|cé]|
+|qu'|il|eût|agen%[m|cé]|
+|que|nous|eussions|agen%[m|cé]|
+|que|vous|eussiez|agen%[m|cé]|
+|qu'|ils|eussent|agen%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|agen%[m|ce]|
+|agen%[m|çons]|
+|agen%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|agen%[m|cé]|
+|ayons|agen%[m|cé]|
+|ayez|agen%[m|cé]|
+|]
+

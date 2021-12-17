@@ -1,0 +1,190 @@
+# quimper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|quimp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|quimp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|quimp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||quimp%[m|é]|
+|ayant|quimp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en quimp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|quimp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|quimp%[m|e]|
+|tu|quimp%[m|es]|
+|il|quimp%[m|e]|
+|nous|quimp%[m|ons]|
+|vous|quimp%[m|ez]|
+|ils|quimp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|quimp%[m|é]|
+|tu|as |quimp%[m|é]|
+|il|a|quimp%[m|é]|
+|nous|avons|quimp%[m|é]|
+|vous|avez|quimp%[m|é]|
+|ils|ont|quimp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|quimp%[m|ais]|
+|tu|quimp%[m|ais]|
+|il|quimp%[m|ait]|
+|nous|quimp%[m|ions]|
+|vous|quimp%[m|iez]|
+|ils|quimp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|quimp%[m|é]|
+|tu|avais|quimp%[m|é]|
+|il|avait|quimp%[m|é]|
+|nous|avions|quimp%[m|é]|
+|vous|aviez|quimp%[m|é]|
+|ils|avaient|quimp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|quimp%[m|ai]|
+|tu|quimp%[m|as]|
+|il|quimp%[m|a]|
+|nous|quimp%[m|âmes]|
+|vous|quimp%[m|âtes]|
+|ils|quimp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|quimp%[m|é]|
+|tu|eus|quimp%[m|é]|
+|il|eut|quimp%[m|é]|
+|nous|e&ucirc;mes|quimp%[m|é]|
+|vous|e&ucirc;tes|quimp%[m|é]|
+|ils|eurent|quimp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|quimp%[m|erai]|
+|tu|quimp%[m|eras]|
+|il|quimp%[m|era]|
+|nous|quimp%[m|erons]|
+|vous|quimp%[m|erez]|
+|ils|quimp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|quimp%[m|é]|
+|tu|auras|quimp%[m|é]|
+|il|aura|quimp%[m|é]|
+|nous|aurons|quimp%[m|é]|
+|vous|aurez|quimp%[m|é]|
+|ils|auront|quimp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|quimp%[m|erais]|
+|tu|quimp%[m|erais]|
+|il|quimp%[m|erait]|
+|nous|quimp%[m|erions]|
+|vous|quimp%[m|eriez]|
+|ils|quimp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|quimp%[m|é]|
+|tu|aurais|quimp%[m|é]|
+|il|aurait|quimp%[m|é]|
+|nous|aurions|quimp%[m|é]|
+|vous|auriez|quimp%[m|é]|
+|ils|auraient|quimp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|quimp%[m|e]|
+|que|tu|quimp%[m|es]|
+|qu'|il|quimp%[m|e]|
+|que|nous|quimp%[m|ions]|
+|que|vous|quimp%[m|iez]|
+|qu'|ils|quimp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|quimp%[m|é]|
+|que|tu|aies|quimp%[m|é]|
+|qu'|il|ait|quimp%[m|é]|
+|que|nous|ayons|quimp%[m|é]|
+|que|vous|ayez|quimp%[m|é]|
+|qu'|ils|aient|quimp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|quimp%[m|asse]|
+|que|tu|quimp%[m|asses]|
+|qu'|il|quimp%[m|ât]|
+|que|nous|quimp%[m|assions]|
+|que|vous|quimp%[m|assiez]|
+|qu'|ils|quimp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|quimp%[m|é]|
+|que|tu|eusses|quimp%[m|é]|
+|qu'|il|eût|quimp%[m|é]|
+|que|nous|eussions|quimp%[m|é]|
+|que|vous|eussiez|quimp%[m|é]|
+|qu'|ils|eussent|quimp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|quimp%[m|e]|
+|quimp%[m|ons]|
+|quimp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|quimp%[m|é]|
+|ayons|quimp%[m|é]|
+|ayez|quimp%[m|é]|
+|]
+

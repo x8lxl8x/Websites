@@ -1,0 +1,190 @@
+# rempoter %[clVerbGroup|1]
+[-
+changer des plantes de pot. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rempot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rempot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rempot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rempot%[m|é]|
+|ayant|rempot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rempot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rempot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rempot%[m|e]|
+|tu|rempot%[m|es]|
+|il|rempot%[m|e]|
+|nous|rempot%[m|ons]|
+|vous|rempot%[m|ez]|
+|ils|rempot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rempot%[m|é]|
+|tu|as |rempot%[m|é]|
+|il|a|rempot%[m|é]|
+|nous|avons|rempot%[m|é]|
+|vous|avez|rempot%[m|é]|
+|ils|ont|rempot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rempot%[m|ais]|
+|tu|rempot%[m|ais]|
+|il|rempot%[m|ait]|
+|nous|rempot%[m|ions]|
+|vous|rempot%[m|iez]|
+|ils|rempot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rempot%[m|é]|
+|tu|avais|rempot%[m|é]|
+|il|avait|rempot%[m|é]|
+|nous|avions|rempot%[m|é]|
+|vous|aviez|rempot%[m|é]|
+|ils|avaient|rempot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rempot%[m|ai]|
+|tu|rempot%[m|as]|
+|il|rempot%[m|a]|
+|nous|rempot%[m|âmes]|
+|vous|rempot%[m|âtes]|
+|ils|rempot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rempot%[m|é]|
+|tu|eus|rempot%[m|é]|
+|il|eut|rempot%[m|é]|
+|nous|e&ucirc;mes|rempot%[m|é]|
+|vous|e&ucirc;tes|rempot%[m|é]|
+|ils|eurent|rempot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rempot%[m|erai]|
+|tu|rempot%[m|eras]|
+|il|rempot%[m|era]|
+|nous|rempot%[m|erons]|
+|vous|rempot%[m|erez]|
+|ils|rempot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rempot%[m|é]|
+|tu|auras|rempot%[m|é]|
+|il|aura|rempot%[m|é]|
+|nous|aurons|rempot%[m|é]|
+|vous|aurez|rempot%[m|é]|
+|ils|auront|rempot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rempot%[m|erais]|
+|tu|rempot%[m|erais]|
+|il|rempot%[m|erait]|
+|nous|rempot%[m|erions]|
+|vous|rempot%[m|eriez]|
+|ils|rempot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rempot%[m|é]|
+|tu|aurais|rempot%[m|é]|
+|il|aurait|rempot%[m|é]|
+|nous|aurions|rempot%[m|é]|
+|vous|auriez|rempot%[m|é]|
+|ils|auraient|rempot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rempot%[m|e]|
+|que|tu|rempot%[m|es]|
+|qu'|il|rempot%[m|e]|
+|que|nous|rempot%[m|ions]|
+|que|vous|rempot%[m|iez]|
+|qu'|ils|rempot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rempot%[m|é]|
+|que|tu|aies|rempot%[m|é]|
+|qu'|il|ait|rempot%[m|é]|
+|que|nous|ayons|rempot%[m|é]|
+|que|vous|ayez|rempot%[m|é]|
+|qu'|ils|aient|rempot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rempot%[m|asse]|
+|que|tu|rempot%[m|asses]|
+|qu'|il|rempot%[m|ât]|
+|que|nous|rempot%[m|assions]|
+|que|vous|rempot%[m|assiez]|
+|qu'|ils|rempot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rempot%[m|é]|
+|que|tu|eusses|rempot%[m|é]|
+|qu'|il|eût|rempot%[m|é]|
+|que|nous|eussions|rempot%[m|é]|
+|que|vous|eussiez|rempot%[m|é]|
+|qu'|ils|eussent|rempot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rempot%[m|e]|
+|rempot%[m|ons]|
+|rempot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rempot%[m|é]|
+|ayons|rempot%[m|é]|
+|ayez|rempot%[m|é]|
+|]
+

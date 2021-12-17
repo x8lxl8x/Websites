@@ -1,0 +1,190 @@
+# cocotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cocott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cocott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cocott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cocott%[m|é]|
+|ayant|cocott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cocott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cocott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cocott%[m|e]|
+|tu|cocott%[m|es]|
+|il|cocott%[m|e]|
+|nous|cocott%[m|ons]|
+|vous|cocott%[m|ez]|
+|ils|cocott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cocott%[m|é]|
+|tu|as |cocott%[m|é]|
+|il|a|cocott%[m|é]|
+|nous|avons|cocott%[m|é]|
+|vous|avez|cocott%[m|é]|
+|ils|ont|cocott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cocott%[m|ais]|
+|tu|cocott%[m|ais]|
+|il|cocott%[m|ait]|
+|nous|cocott%[m|ions]|
+|vous|cocott%[m|iez]|
+|ils|cocott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cocott%[m|é]|
+|tu|avais|cocott%[m|é]|
+|il|avait|cocott%[m|é]|
+|nous|avions|cocott%[m|é]|
+|vous|aviez|cocott%[m|é]|
+|ils|avaient|cocott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cocott%[m|ai]|
+|tu|cocott%[m|as]|
+|il|cocott%[m|a]|
+|nous|cocott%[m|âmes]|
+|vous|cocott%[m|âtes]|
+|ils|cocott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cocott%[m|é]|
+|tu|eus|cocott%[m|é]|
+|il|eut|cocott%[m|é]|
+|nous|e&ucirc;mes|cocott%[m|é]|
+|vous|e&ucirc;tes|cocott%[m|é]|
+|ils|eurent|cocott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cocott%[m|erai]|
+|tu|cocott%[m|eras]|
+|il|cocott%[m|era]|
+|nous|cocott%[m|erons]|
+|vous|cocott%[m|erez]|
+|ils|cocott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cocott%[m|é]|
+|tu|auras|cocott%[m|é]|
+|il|aura|cocott%[m|é]|
+|nous|aurons|cocott%[m|é]|
+|vous|aurez|cocott%[m|é]|
+|ils|auront|cocott%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cocott%[m|erais]|
+|tu|cocott%[m|erais]|
+|il|cocott%[m|erait]|
+|nous|cocott%[m|erions]|
+|vous|cocott%[m|eriez]|
+|ils|cocott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cocott%[m|é]|
+|tu|aurais|cocott%[m|é]|
+|il|aurait|cocott%[m|é]|
+|nous|aurions|cocott%[m|é]|
+|vous|auriez|cocott%[m|é]|
+|ils|auraient|cocott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cocott%[m|e]|
+|que|tu|cocott%[m|es]|
+|qu'|il|cocott%[m|e]|
+|que|nous|cocott%[m|ions]|
+|que|vous|cocott%[m|iez]|
+|qu'|ils|cocott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cocott%[m|é]|
+|que|tu|aies|cocott%[m|é]|
+|qu'|il|ait|cocott%[m|é]|
+|que|nous|ayons|cocott%[m|é]|
+|que|vous|ayez|cocott%[m|é]|
+|qu'|ils|aient|cocott%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cocott%[m|asse]|
+|que|tu|cocott%[m|asses]|
+|qu'|il|cocott%[m|ât]|
+|que|nous|cocott%[m|assions]|
+|que|vous|cocott%[m|assiez]|
+|qu'|ils|cocott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cocott%[m|é]|
+|que|tu|eusses|cocott%[m|é]|
+|qu'|il|eût|cocott%[m|é]|
+|que|nous|eussions|cocott%[m|é]|
+|que|vous|eussiez|cocott%[m|é]|
+|qu'|ils|eussent|cocott%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cocott%[m|e]|
+|cocott%[m|ons]|
+|cocott%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cocott%[m|é]|
+|ayons|cocott%[m|é]|
+|ayez|cocott%[m|é]|
+|]
+

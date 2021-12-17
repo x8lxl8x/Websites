@@ -1,0 +1,191 @@
+# ablater %[clVerbGroup|1]
+[-
+produire l'ablation, l'érosion de quelque chose. 
+perdre quelque chose par ablation. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|ablat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|ablat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|ablat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||ablat%[m|é]|
+|ayant|ablat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en ablat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|ablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|ablat%[m|e]|
+|tu|ablat%[m|es]|
+|il|ablat%[m|e]|
+|nous|ablat%[m|ons]|
+|vous|ablat%[m|ez]|
+|ils|ablat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|ablat%[m|é]|
+|tu|as |ablat%[m|é]|
+|il|a|ablat%[m|é]|
+|nous|avons|ablat%[m|é]|
+|vous|avez|ablat%[m|é]|
+|ils|ont|ablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|ablat%[m|ais]|
+|tu|ablat%[m|ais]|
+|il|ablat%[m|ait]|
+|nous|ablat%[m|ions]|
+|vous|ablat%[m|iez]|
+|ils|ablat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|ablat%[m|é]|
+|tu|avais|ablat%[m|é]|
+|il|avait|ablat%[m|é]|
+|nous|avions|ablat%[m|é]|
+|vous|aviez|ablat%[m|é]|
+|ils|avaient|ablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|ablat%[m|ai]|
+|tu|ablat%[m|as]|
+|il|ablat%[m|a]|
+|nous|ablat%[m|âmes]|
+|vous|ablat%[m|âtes]|
+|ils|ablat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|ablat%[m|é]|
+|tu|eus|ablat%[m|é]|
+|il|eut|ablat%[m|é]|
+|nous|e&ucirc;mes|ablat%[m|é]|
+|vous|e&ucirc;tes|ablat%[m|é]|
+|ils|eurent|ablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|ablat%[m|erai]|
+|tu|ablat%[m|eras]|
+|il|ablat%[m|era]|
+|nous|ablat%[m|erons]|
+|vous|ablat%[m|erez]|
+|ils|ablat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|ablat%[m|é]|
+|tu|auras|ablat%[m|é]|
+|il|aura|ablat%[m|é]|
+|nous|aurons|ablat%[m|é]|
+|vous|aurez|ablat%[m|é]|
+|ils|auront|ablat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|ablat%[m|erais]|
+|tu|ablat%[m|erais]|
+|il|ablat%[m|erait]|
+|nous|ablat%[m|erions]|
+|vous|ablat%[m|eriez]|
+|ils|ablat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|ablat%[m|é]|
+|tu|aurais|ablat%[m|é]|
+|il|aurait|ablat%[m|é]|
+|nous|aurions|ablat%[m|é]|
+|vous|auriez|ablat%[m|é]|
+|ils|auraient|ablat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|ablat%[m|e]|
+|que|tu|ablat%[m|es]|
+|qu'|il|ablat%[m|e]|
+|que|nous|ablat%[m|ions]|
+|que|vous|ablat%[m|iez]|
+|qu'|ils|ablat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|ablat%[m|é]|
+|que|tu|aies|ablat%[m|é]|
+|qu'|il|ait|ablat%[m|é]|
+|que|nous|ayons|ablat%[m|é]|
+|que|vous|ayez|ablat%[m|é]|
+|qu'|ils|aient|ablat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|ablat%[m|asse]|
+|que|tu|ablat%[m|asses]|
+|qu'|il|ablat%[m|ât]|
+|que|nous|ablat%[m|assions]|
+|que|vous|ablat%[m|assiez]|
+|qu'|ils|ablat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|ablat%[m|é]|
+|que|tu|eusses|ablat%[m|é]|
+|qu'|il|eût|ablat%[m|é]|
+|que|nous|eussions|ablat%[m|é]|
+|que|vous|eussiez|ablat%[m|é]|
+|qu'|ils|eussent|ablat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|ablat%[m|e]|
+|ablat%[m|ons]|
+|ablat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|ablat%[m|é]|
+|ayons|ablat%[m|é]|
+|ayez|ablat%[m|é]|
+|]
+

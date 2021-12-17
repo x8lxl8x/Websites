@@ -1,0 +1,190 @@
+# typographier %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|typographi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|typographi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|typographi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||typographi%[m|é]|
+|ayant|typographi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en typographi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|typographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|typographi%[m|e]|
+|tu|typographi%[m|es]|
+|il|typographi%[m|e]|
+|nous|typographi%[m|ons]|
+|vous|typographi%[m|ez]|
+|ils|typographi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|typographi%[m|é]|
+|tu|as |typographi%[m|é]|
+|il|a|typographi%[m|é]|
+|nous|avons|typographi%[m|é]|
+|vous|avez|typographi%[m|é]|
+|ils|ont|typographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|typographi%[m|ais]|
+|tu|typographi%[m|ais]|
+|il|typographi%[m|ait]|
+|nous|typographi%[m|ions]|
+|vous|typographi%[m|iez]|
+|ils|typographi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|typographi%[m|é]|
+|tu|avais|typographi%[m|é]|
+|il|avait|typographi%[m|é]|
+|nous|avions|typographi%[m|é]|
+|vous|aviez|typographi%[m|é]|
+|ils|avaient|typographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|typographi%[m|ai]|
+|tu|typographi%[m|as]|
+|il|typographi%[m|a]|
+|nous|typographi%[m|âmes]|
+|vous|typographi%[m|âtes]|
+|ils|typographi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|typographi%[m|é]|
+|tu|eus|typographi%[m|é]|
+|il|eut|typographi%[m|é]|
+|nous|e&ucirc;mes|typographi%[m|é]|
+|vous|e&ucirc;tes|typographi%[m|é]|
+|ils|eurent|typographi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|typographi%[m|erai]|
+|tu|typographi%[m|eras]|
+|il|typographi%[m|era]|
+|nous|typographi%[m|erons]|
+|vous|typographi%[m|erez]|
+|ils|typographi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|typographi%[m|é]|
+|tu|auras|typographi%[m|é]|
+|il|aura|typographi%[m|é]|
+|nous|aurons|typographi%[m|é]|
+|vous|aurez|typographi%[m|é]|
+|ils|auront|typographi%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|typographi%[m|erais]|
+|tu|typographi%[m|erais]|
+|il|typographi%[m|erait]|
+|nous|typographi%[m|erions]|
+|vous|typographi%[m|eriez]|
+|ils|typographi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|typographi%[m|é]|
+|tu|aurais|typographi%[m|é]|
+|il|aurait|typographi%[m|é]|
+|nous|aurions|typographi%[m|é]|
+|vous|auriez|typographi%[m|é]|
+|ils|auraient|typographi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|typographi%[m|e]|
+|que|tu|typographi%[m|es]|
+|qu'|il|typographi%[m|e]|
+|que|nous|typographi%[m|ions]|
+|que|vous|typographi%[m|iez]|
+|qu'|ils|typographi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|typographi%[m|é]|
+|que|tu|aies|typographi%[m|é]|
+|qu'|il|ait|typographi%[m|é]|
+|que|nous|ayons|typographi%[m|é]|
+|que|vous|ayez|typographi%[m|é]|
+|qu'|ils|aient|typographi%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|typographi%[m|asse]|
+|que|tu|typographi%[m|asses]|
+|qu'|il|typographi%[m|ât]|
+|que|nous|typographi%[m|assions]|
+|que|vous|typographi%[m|assiez]|
+|qu'|ils|typographi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|typographi%[m|é]|
+|que|tu|eusses|typographi%[m|é]|
+|qu'|il|eût|typographi%[m|é]|
+|que|nous|eussions|typographi%[m|é]|
+|que|vous|eussiez|typographi%[m|é]|
+|qu'|ils|eussent|typographi%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|typographi%[m|e]|
+|typographi%[m|ons]|
+|typographi%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|typographi%[m|é]|
+|ayons|typographi%[m|é]|
+|ayez|typographi%[m|é]|
+|]
+

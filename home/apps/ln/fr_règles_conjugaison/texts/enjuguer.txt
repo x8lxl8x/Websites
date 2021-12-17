@@ -1,0 +1,190 @@
+# enjuguer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|enjugu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|enjugu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||enjugu%[m|é]|
+|ayant|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en enjugu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|enjugu%[m|e]|
+|tu|enjugu%[m|es]|
+|il|enjugu%[m|e]|
+|nous|enjugu%[m|ons]|
+|vous|enjugu%[m|ez]|
+|ils|enjugu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|enjugu%[m|é]|
+|tu|as |enjugu%[m|é]|
+|il|a|enjugu%[m|é]|
+|nous|avons|enjugu%[m|é]|
+|vous|avez|enjugu%[m|é]|
+|ils|ont|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|enjugu%[m|ais]|
+|tu|enjugu%[m|ais]|
+|il|enjugu%[m|ait]|
+|nous|enjugu%[m|ions]|
+|vous|enjugu%[m|iez]|
+|ils|enjugu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|enjugu%[m|é]|
+|tu|avais|enjugu%[m|é]|
+|il|avait|enjugu%[m|é]|
+|nous|avions|enjugu%[m|é]|
+|vous|aviez|enjugu%[m|é]|
+|ils|avaient|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|enjugu%[m|ai]|
+|tu|enjugu%[m|as]|
+|il|enjugu%[m|a]|
+|nous|enjugu%[m|âmes]|
+|vous|enjugu%[m|âtes]|
+|ils|enjugu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|enjugu%[m|é]|
+|tu|eus|enjugu%[m|é]|
+|il|eut|enjugu%[m|é]|
+|nous|e&ucirc;mes|enjugu%[m|é]|
+|vous|e&ucirc;tes|enjugu%[m|é]|
+|ils|eurent|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|enjugu%[m|erai]|
+|tu|enjugu%[m|eras]|
+|il|enjugu%[m|era]|
+|nous|enjugu%[m|erons]|
+|vous|enjugu%[m|erez]|
+|ils|enjugu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|enjugu%[m|é]|
+|tu|auras|enjugu%[m|é]|
+|il|aura|enjugu%[m|é]|
+|nous|aurons|enjugu%[m|é]|
+|vous|aurez|enjugu%[m|é]|
+|ils|auront|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|enjugu%[m|erais]|
+|tu|enjugu%[m|erais]|
+|il|enjugu%[m|erait]|
+|nous|enjugu%[m|erions]|
+|vous|enjugu%[m|eriez]|
+|ils|enjugu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|enjugu%[m|é]|
+|tu|aurais|enjugu%[m|é]|
+|il|aurait|enjugu%[m|é]|
+|nous|aurions|enjugu%[m|é]|
+|vous|auriez|enjugu%[m|é]|
+|ils|auraient|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|enjugu%[m|e]|
+|que|tu|enjugu%[m|es]|
+|qu'|il|enjugu%[m|e]|
+|que|nous|enjugu%[m|ions]|
+|que|vous|enjugu%[m|iez]|
+|qu'|ils|enjugu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|enjugu%[m|é]|
+|que|tu|aies|enjugu%[m|é]|
+|qu'|il|ait|enjugu%[m|é]|
+|que|nous|ayons|enjugu%[m|é]|
+|que|vous|ayez|enjugu%[m|é]|
+|qu'|ils|aient|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|enjugu%[m|asse]|
+|que|tu|enjugu%[m|asses]|
+|qu'|il|enjugu%[m|ât]|
+|que|nous|enjugu%[m|assions]|
+|que|vous|enjugu%[m|assiez]|
+|qu'|ils|enjugu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|enjugu%[m|é]|
+|que|tu|eusses|enjugu%[m|é]|
+|qu'|il|eût|enjugu%[m|é]|
+|que|nous|eussions|enjugu%[m|é]|
+|que|vous|eussiez|enjugu%[m|é]|
+|qu'|ils|eussent|enjugu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|enjugu%[m|e]|
+|enjugu%[m|ons]|
+|enjugu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|enjugu%[m|é]|
+|ayons|enjugu%[m|é]|
+|ayez|enjugu%[m|é]|
+|]
+

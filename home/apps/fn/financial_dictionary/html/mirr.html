@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Financial Dictionary</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='javascript:history.back()'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<h1>Modified Internal Rate Of Return - MIRR</h1>
+
+<p>While the internal rate of return (IRR) assumes the cash flows from a project are reinvested at the IRR, the modified IRR assumes that positive cash flows are reinvested at the firm's cost of capital, and the initial outlays are financed at the firm's financing cost. Therefore, MIRR more accurately reflects the cost and profitability of a project.</p>
+
+<p>The formula for MIRR is:</p>
+
+<a href='../images/MIRRFormula.gif'><img class='clImageThumb' src='../images/MIRRFormula.gif'></a>
+
+<p>For example, say a two-year project with an initial outlay of $195 and a cost of capital of 12%, will return $121 in the first year and $131 in the second year. To find the IRR of the project so that the net present value (NPV) = 0:</p>
+
+<p>NPV = 0 = -195 + 121/(1+ IRR) + 131/(1 + IRR)<SUP>2        </SUP>NPV = 0 when IRR = 18.66%</p>
+
+<p>To calculate the MIRR of the project,  we have to assume that the positive cash flows will be reinvested at the 12% cost of capital. So the future value of the positive cash flows is computed as:</p>
+
+<p>$121(1.12) + $131 = $266.52 = Future Value of positive cash flows at t = 2</p>
+
+<p>Now you divide the future value of the cash flows by the present value of the initial outlay, which was $195, and find the geometric return for 2 periods.</p>
+
+<p>=sqrt($266.52/195) -1 = 16.91% MIRR</p>
+
+<p>You can see here that the 16.91% MIRR is materially lower than the IRR of 18.66%. In this case, the IRR gives a too optimistic picture of the potential of the project, while the MIRR gives a more realistic evaluation of the project.</p>
+
+
+</div>
+</div>
+</body>
+</html>

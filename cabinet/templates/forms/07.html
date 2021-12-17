@@ -1,0 +1,160 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Диагностика по моче</h4>
+
+<div class='clComments'>
+<b>Инструкция</b>
+<ul>
+<li>Накануне не употреблять того,  что может изменить цвет мочи:  спиртное, крепкий чай, свёкла, бобовые.</li>
+<li>Не заниматься сексом.</li>
+<li>Не брать образец мочи раньше пяти часов утра (чтобы не повлияла пища, съеденная накануне).</li>
+<li>Посуда не должна искажать цвет мочи.</li>
+<li>Пока моча горячая, смотрят цвет, пар, определяют запах, пену на поверхности мочи.</li>
+<li>После исчезновения пара наблюдают осадок и хилус (пленку).</li>
+<li>При остывании смотрят, как, откуда и как долго меняется моча.</li>
+</ul>
+</div>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<div class='clLabel'>Цвет горячей мочи</div>
+<select id='id0701' name='var0701' title='$arrValues[1]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='бело-жёлтая, прозрачная'>бело-жёлтая, прозрачная</option>
+  <option value='бело-жёлтая, мутная'>бело-жёлтая, мутная</option>
+  <option value='жидкая, голубоватая, сильно пенится'>жидкая, голубоватая, сильно пенится</option>
+  <option value='белёсая, с затхлым запахом и белым осадком'>белёсая, с затхлым запахом и белым осадком</option>
+  <option value='желто-красная, сильный пар, запах гари'>желто-красная, сильный пар, запах гари</option>
+  <option value='оранжевая, густая и имеет резкий запах'>оранжевая, густая и имеет резкий запах</option>
+  <option value='желтая, похожа на растительное масло'>желтая, похожа на растительное масло</option>
+  <option value='красная'>красная</option>
+  <option value='красно-серая моча'>красно-серая моча</option>
+  <option value='цвета ржавчины'>цвета ржавчины</option>
+  <option value='коричневатая'>коричневатая</option>
+  <option value='коричневая, мутная'>коричневая, мутная</option>
+</select>
+
+<div class='clLabel'>Испарение горячей мочи</div>
+<select id='id0702' name='var0702' title='$arrValues[2]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='пар начинает исчезать с краев посуды'>пар начинает исчезать с краев посуды</option>
+  <option value='сильное, долгое'>сильное, долгое</option>
+  <option value='слабое, долгое'>слабое, долгое</option>
+  <option value='слабое, кратковременное'>слабое, кратковременное</option>
+  <option value='пар то усиливается, то ослабевает'>пар то усиливается, то ослабевает</option>
+</select>
+
+<div class='clLabel'>Запах горячей мочи</div>
+<select id='id0703' name='var0703' title='$arrValues[3]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='запах сливок, топленого молока'>запах сливок, топленого молока</option>
+  <option value='густой и неприятный'>густой и неприятный</option>
+  <option value='совсем слабый запах'>совсем слабый запах</option>
+  <option value='кислый запах'>кислый запах</option>
+  <option value='пахнет какой-либо пищей'>пахнет какой-либо пищей</option>
+  <option value='запах горелого мяса'>запах горелого мяса</option>
+  <option value='запах крови'>запах крови
+  <option value='запах прелых яблок'>запах прелых яблок
+  <option value='запах свиного жира'>запах свиного жира
+</select>
+
+<div class='clLabel'>Пена горячей мочи (при перемешивании мочи с помощью палочки)</div>
+<select id='id0704' name='var0704' title='$arrValues[4]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='умеренная пена одинаковых пузырьков'>умеренная пена одинаковых пузырьков</option>
+  <option value='обильная пена голубоватого цвета'>обильная пена голубоватого цвета</option>
+  <option value='мелкие жёлтые пузырьки, быстро исчезающие'>мелкие жёлтые пузырьки, быстро исчезающие</option>
+  <option value='похожая на слюну, держится на поверхности'>похожая на слюну, держится на поверхности</option>
+  <option value='крепко соединённые пузыри, долго держится'>крепко соединённые пузыри, долго держится</option>
+</select>
+
+<div class='clLabel'>Мутность остывающей мочи (при наличии)</div>
+<select id='id0705' name='var0705' title='$arrValues[5]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='распределена равномерно по всей толще'>распределена равномерно по всей толще</option>
+  <option value='видна на поверхности'>видна на поверхности</option>
+  <option value='находится в середине'>находится в середине</option>
+  <option value='видна на дне посуды с мочой'>видна на дне посуды с мочой</option>
+  <option value='распределяется равномерно во всей толще мочи'>распределяется равномерно во всей толще мочи</option>
+</select>
+
+<div class='clLabel'>Густота мути остывающей мочи (при наличии)</div>
+<select id='id0706' name='var0706' title='$arrValues[6]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='плотная'>плотная</option>
+  <option value='тонкая'>тонкая</option>
+  <option value='сгущаются на поверхности в виде песчинок'>сгущаются на поверхности в виде песчинок</option>
+</select>
+
+<div class='clLabel'>Осадок после исчезновения пара (при наличии)</div>
+<select id='id0707' name='var0707' title='$arrValues[7]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='похож на волосы'>похож на волосы</option>
+  <option value='похож на кончики волос'>похож на кончики волос</option>
+  <option value='похож на клок шерсти в воде'>похож на клок шерсти в воде</option>
+  <option value='похож на песок'>похож на песок</option>
+  <option value='похож на простоквашу, плавающую на поверхности мочи'>похож на простоквашу, плавающую на поверхности мочи</option>
+</select>
+
+<div class='clLabel'>Хилус (пленка на поверхности мочи)</div>
+<select id='id0708' name='var0708' title='$arrValues[8]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='немного'>немного</option>
+  <option value='толстая пленка'>толстая пленка</option>
+  <option value='тонкая плёнка'>тонкая плёнка</option>
+</select>
+
+<div class='clLabel'>Изменение цвета мочи</div>
+<select id='id0709' name='var0709' title='$arrValues[9]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='изменяется ещё до того, как она остыла'>изменяется ещё до того, как она остыла</option>
+  <option value='изменяется после того, как она остыла'>изменяется после того, как она остыла</option>
+  <option value='исчезновение пара совпадает с началом изменений'>исчезновение пара совпадает с началом изменений</option>
+  <option value='моча никак не поменялась'>моча никак не поменялась</option>
+  <option value='более тёмный цвет собирается в центре чашки'>более тёмный цвет собирается в центре чашки</option>
+  <option value='изменяется, начиная с глубины'>изменяется, начиная с глубины</option>
+  <option value='цвет осадка изменяется прежде, чем изменится цвет мочи'>цвет осадка изменяется прежде, чем изменится цвет мочи</option>
+</select>
+
+<div class='clLabel'>Цвет после остывания мочи</div>
+<select id='id0710' name='var0710' title='$arrValues[10]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='светлый, чистый, желтоватый, моча прозрачна'>светлый, чистый, желтоватый, моча прозрачна</option>
+  <option value='насыщенный'>насыщенный</option>
+  <option value='слабый'>слабый</option>
+  <option value='бледный-голубоватй оттенок, слой мути – густой'>бледный-голубоватй оттенок, слой мути – густой</option>
+  <option value='оранжеватый, пленка тонкая, нет скоплений мути'>оранжеватый, пленка тонкая, нет скоплений мути</option>
+</select>
+
+<div class='clLabel'>Вкус холодной мочи</div>
+<select id='id0711' name='var0711' title='$arrValues[11]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='сладкий'>сладкий</option>
+  <option value='горький'>горький</option>
+  <option value='кислый'>кислый</option>
+  <option value='солёный'>солёный</option>
+</select>
+
+<div class='clLabel'>Капля кунжутного масла в моче</div>
+<select id='id0712' name='var0712' title='$arrValues[12]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='расходится волнообразными движениями'>расходится волнообразными движениями</option>
+  <option value='остается в виде масляной пленки'>остается в виде масляной пленки</option>
+  <option value='рассыпается на много капелек, как жемчуг'>рассыпается на много капелек, как жемчуг</option>
+</select>
+
+<div class='clLabel'>Количество мочи за сутки в сравнении с выпитой водой</div>
+<select id='id0713' name='var0713' title='$arrValues[13]' onBlur='fncOnBlur( this )'>
+  <option value=''></option>
+  <option value='очень много'>очень много</option>
+  <option value='мало'>мало</option>
+</select>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

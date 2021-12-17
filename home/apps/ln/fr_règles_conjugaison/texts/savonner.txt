@@ -1,0 +1,190 @@
+# savonner %[clVerbGroup|1]
+[-
+laver avec du savon. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|savonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|savonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|savonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||savonn%[m|é]|
+|ayant|savonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en savonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|savonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|savonn%[m|e]|
+|tu|savonn%[m|es]|
+|il|savonn%[m|e]|
+|nous|savonn%[m|ons]|
+|vous|savonn%[m|ez]|
+|ils|savonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|savonn%[m|é]|
+|tu|as |savonn%[m|é]|
+|il|a|savonn%[m|é]|
+|nous|avons|savonn%[m|é]|
+|vous|avez|savonn%[m|é]|
+|ils|ont|savonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|savonn%[m|ais]|
+|tu|savonn%[m|ais]|
+|il|savonn%[m|ait]|
+|nous|savonn%[m|ions]|
+|vous|savonn%[m|iez]|
+|ils|savonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|savonn%[m|é]|
+|tu|avais|savonn%[m|é]|
+|il|avait|savonn%[m|é]|
+|nous|avions|savonn%[m|é]|
+|vous|aviez|savonn%[m|é]|
+|ils|avaient|savonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|savonn%[m|ai]|
+|tu|savonn%[m|as]|
+|il|savonn%[m|a]|
+|nous|savonn%[m|âmes]|
+|vous|savonn%[m|âtes]|
+|ils|savonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|savonn%[m|é]|
+|tu|eus|savonn%[m|é]|
+|il|eut|savonn%[m|é]|
+|nous|e&ucirc;mes|savonn%[m|é]|
+|vous|e&ucirc;tes|savonn%[m|é]|
+|ils|eurent|savonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|savonn%[m|erai]|
+|tu|savonn%[m|eras]|
+|il|savonn%[m|era]|
+|nous|savonn%[m|erons]|
+|vous|savonn%[m|erez]|
+|ils|savonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|savonn%[m|é]|
+|tu|auras|savonn%[m|é]|
+|il|aura|savonn%[m|é]|
+|nous|aurons|savonn%[m|é]|
+|vous|aurez|savonn%[m|é]|
+|ils|auront|savonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|savonn%[m|erais]|
+|tu|savonn%[m|erais]|
+|il|savonn%[m|erait]|
+|nous|savonn%[m|erions]|
+|vous|savonn%[m|eriez]|
+|ils|savonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|savonn%[m|é]|
+|tu|aurais|savonn%[m|é]|
+|il|aurait|savonn%[m|é]|
+|nous|aurions|savonn%[m|é]|
+|vous|auriez|savonn%[m|é]|
+|ils|auraient|savonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|savonn%[m|e]|
+|que|tu|savonn%[m|es]|
+|qu'|il|savonn%[m|e]|
+|que|nous|savonn%[m|ions]|
+|que|vous|savonn%[m|iez]|
+|qu'|ils|savonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|savonn%[m|é]|
+|que|tu|aies|savonn%[m|é]|
+|qu'|il|ait|savonn%[m|é]|
+|que|nous|ayons|savonn%[m|é]|
+|que|vous|ayez|savonn%[m|é]|
+|qu'|ils|aient|savonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|savonn%[m|asse]|
+|que|tu|savonn%[m|asses]|
+|qu'|il|savonn%[m|ât]|
+|que|nous|savonn%[m|assions]|
+|que|vous|savonn%[m|assiez]|
+|qu'|ils|savonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|savonn%[m|é]|
+|que|tu|eusses|savonn%[m|é]|
+|qu'|il|eût|savonn%[m|é]|
+|que|nous|eussions|savonn%[m|é]|
+|que|vous|eussiez|savonn%[m|é]|
+|qu'|ils|eussent|savonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|savonn%[m|e]|
+|savonn%[m|ons]|
+|savonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|savonn%[m|é]|
+|ayons|savonn%[m|é]|
+|ayez|savonn%[m|é]|
+|]
+

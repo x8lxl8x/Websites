@@ -1,0 +1,190 @@
+# nordir %[clVerbGroup|2]
+[-
+tourner au nord (pour un vent) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|nord%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|nord%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|nord%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||nord%[m|i]|
+|ayant|nord%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en nord%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|nord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|nord%[m|is]|
+|tu|nord%[m|is]|
+|il|nord%[m|it]|
+|nous|nord%[m|issons]|
+|vous|nord%[m|issez]|
+|ils|nord%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|nord%[m|i]|
+|tu|as |nord%[m|i]|
+|il|a|nord%[m|i]|
+|nous|avons|nord%[m|i]|
+|vous|avez|nord%[m|i]|
+|ils|ont|nord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|nord%[m|issais]|
+|tu|nord%[m|issais]|
+|il|nord%[m|issait]|
+|nous|nord%[m|issions]|
+|vous|nord%[m|issiez]|
+|ils|nord%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|nord%[m|i]|
+|tu|avais|nord%[m|i]|
+|il|avait|nord%[m|i]|
+|nous|avions|nord%[m|i]|
+|vous|aviez|nord%[m|i]|
+|ils|avaient|nord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|nord%[m|is]|
+|tu|nord%[m|is]|
+|il|nord%[m|it]|
+|nous|nord%[m|îmes]|
+|vous|nord%[m|îtes]|
+|ils|nord%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|nord%[m|i]|
+|tu|eus|nord%[m|i]|
+|il|eut|nord%[m|i]|
+|nous|e&ucirc;mes|nord%[m|i]|
+|vous|e&ucirc;tes|nord%[m|i]|
+|ils|eurent|nord%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|nord%[m|irai]|
+|tu|nord%[m|iras]|
+|il|nord%[m|ira]|
+|nous|nord%[m|irons]|
+|vous|nord%[m|irez]|
+|ils|nord%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|nord%[m|i]|
+|tu|auras|nord%[m|i]|
+|il|aura|nord%[m|i]|
+|nous|aurons|nord%[m|i]|
+|vous|aurez|nord%[m|i]|
+|ils|auront|nord%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|nord%[m|irais]|
+|tu|nord%[m|irais]|
+|il|nord%[m|irait]|
+|nous|nord%[m|irions]|
+|vous|nord%[m|iriez]|
+|ils|nord%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|nord%[m|i]|
+|tu|aurais|nord%[m|i]|
+|il|aurait|nord%[m|i]|
+|nous|aurions|nord%[m|i]|
+|vous|auriez|nord%[m|i]|
+|ils|auraient|nord%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|nord%[m|isse]|
+|que|tu|nord%[m|isses]|
+|qu'|il|nord%[m|isse]|
+|que|nous|nord%[m|issions]|
+|que|vous|nord%[m|issiez]|
+|qu'|ils|nord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|nord%[m|i]|
+|que|tu|aies|nord%[m|i]|
+|qu'|il|ait|nord%[m|i]|
+|que|nous|ayons|nord%[m|i]|
+|que|vous|ayez|nord%[m|i]|
+|qu'|ils|aient|nord%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|nord%[m|isse]|
+|que|tu|nord%[m|isses]|
+|qu'|il|nord%[m|ît]|
+|que|nous|nord%[m|issions]|
+|que|vous|nord%[m|issiez]|
+|qu'|ils|nord%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|nord%[m|i]|
+|que|tu|eusses|nord%[m|i]|
+|qu'|il|eût|nord%[m|i]|
+|que|nous|eussions|nord%[m|i]|
+|que|vous|eussiez|nord%[m|i]|
+|qu'|ils|eussent|nord%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nord%[m|is]|
+|nord%[m|issons]|
+|nord%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|nord%[m|i]|
+|ayons|nord%[m|i]|
+|ayez|nord%[m|i]|
+|]
+

@@ -1,0 +1,190 @@
+# se relancer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se relan%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|relan%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se relan%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|relan%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se relan%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|relan%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|relan%[m|ce]|
+|tu|te|relan%[m|ces]|
+|il|se|relan%[m|ce]|
+|nous|nous|relan%[m|çons]|
+|vous|vous|relan%[m|cez]|
+|ils|se|relan%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|relan%[m|cé]|
+|tu|t'|es|relan%[m|cé]|
+|il|s'|est|relan%[m|cé]|
+|nous|nous|sommes|relan%[m|cés]|
+|vous|vous|êtes|relan%[m|cés]|
+|ils|se|sont|relan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|relan%[m|çais]|
+|tu|te|relan%[m|çais]|
+|il|se|relan%[m|çait]|
+|nous|nous|relan%[m|cions]|
+|vous|vous|relan%[m|ciez]|
+|ils|se|relan%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|relan%[m|cé]|
+|tu|t'|étais|relan%[m|cé]|
+|il|s'|était|relan%[m|cé]|
+|nous|nous|étions|relan%[m|cés]|
+|vous|vous|étiez|relan%[m|cés]|
+|ils|s'|étaient|relan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|relan%[m|çai]|
+|tu|te|relan%[m|ças]|
+|il|se|relan%[m|ça]|
+|nous|nous|relan%[m|çâmes]|
+|vous|vous|relan%[m|çâtes]|
+|ils|se|relan%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|relan%[m|cé]|
+|tu|te|fus|relan%[m|cé]|
+|il|se|fut|relan%[m|cé]|
+|nous|nous|fûmes|relan%[m|cés]|
+|vous|vous|fûtes|relan%[m|cés]|
+|ils|se|furent|relan%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|relan%[m|cerai]|
+|tu|te|relan%[m|ceras]|
+|il|se|relan%[m|cera]|
+|nous|nous|relan%[m|cerons]|
+|vous|vous|relan%[m|cerez]|
+|ils|se|relan%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|relan%[m|cé]|
+|tu|te|seras|relan%[m|cé]|
+|il|se|sera|relan%[m|cé]|
+|nous|nous|serons|relan%[m|cés]|
+|vous|vous|serez|relan%[m|cés]|
+|ils|se|seront|relan%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|relan%[m|cerais]|
+|tu|te|relan%[m|cerais]|
+|il|se|relan%[m|cerait]|
+|nous|nous|relan%[m|cerions]|
+|vous|vous|relan%[m|ceriez]|
+|ils|se|relan%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|relan%[m|cé]|
+|tu|te|serais|relan%[m|cé]|
+|il|se|serait|relan%[m|cé]|
+|nous|nous|serions|relan%[m|cés]|
+|vous|vous|seriez|relan%[m|cés]|
+|ils|se|seraient|relan%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|relan%[m|ce]|
+|que|tu|te|relan%[m|ces]|
+|qu'|il|se|relan%[m|ce]|
+|que|nous|nous|relan%[m|cions]|
+|que|vous|vous|relan%[m|ciez]|
+|qu'|ils|se|relan%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|relan%[m|cé]|
+|que|tu|te|sois|relan%[m|cé]|
+|qu'|il|se|soit|relan%[m|cé]|
+|que|nous|nous|soyons|relan%[m|cés]|
+|que|vous|vous|soyez|relan%[m|cés]|
+|qu'|ils|se|soient|relan%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|relan%[m|çasse]|
+|que|tu|te|relan%[m|çasses]|
+|qu'|il|se|relan%[m|çât]|
+|que|nous|nous|relan%[m|çassions]|
+|que|vous|vous|relan%[m|çassiez]|
+|qu'|ils|se|relan%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|relan%[m|cé]|
+|que|tu|te|fusses|relan%[m|cé]|
+|qu'|il|se|fût|relan%[m|cé]|
+|que|nous|nous|fussions|relan%[m|cés]|
+|que|vous|vous|fussiez|relan%[m|cés]|
+|qu'|ils|se|fussent|relan%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|relan%[m|ce]-toi|
+|relan%[m|çons]-nous|
+|relan%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

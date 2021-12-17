@@ -1,0 +1,190 @@
+# souper %[clVerbGroup|1]
+[-
+faire un souper. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|soup%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|soup%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|soup%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||soup%[m|é]|
+|ayant|soup%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en soup%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|soup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|soup%[m|e]|
+|tu|soup%[m|es]|
+|il|soup%[m|e]|
+|nous|soup%[m|ons]|
+|vous|soup%[m|ez]|
+|ils|soup%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|soup%[m|é]|
+|tu|as |soup%[m|é]|
+|il|a|soup%[m|é]|
+|nous|avons|soup%[m|é]|
+|vous|avez|soup%[m|é]|
+|ils|ont|soup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|soup%[m|ais]|
+|tu|soup%[m|ais]|
+|il|soup%[m|ait]|
+|nous|soup%[m|ions]|
+|vous|soup%[m|iez]|
+|ils|soup%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|soup%[m|é]|
+|tu|avais|soup%[m|é]|
+|il|avait|soup%[m|é]|
+|nous|avions|soup%[m|é]|
+|vous|aviez|soup%[m|é]|
+|ils|avaient|soup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|soup%[m|ai]|
+|tu|soup%[m|as]|
+|il|soup%[m|a]|
+|nous|soup%[m|âmes]|
+|vous|soup%[m|âtes]|
+|ils|soup%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|soup%[m|é]|
+|tu|eus|soup%[m|é]|
+|il|eut|soup%[m|é]|
+|nous|e&ucirc;mes|soup%[m|é]|
+|vous|e&ucirc;tes|soup%[m|é]|
+|ils|eurent|soup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|soup%[m|erai]|
+|tu|soup%[m|eras]|
+|il|soup%[m|era]|
+|nous|soup%[m|erons]|
+|vous|soup%[m|erez]|
+|ils|soup%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|soup%[m|é]|
+|tu|auras|soup%[m|é]|
+|il|aura|soup%[m|é]|
+|nous|aurons|soup%[m|é]|
+|vous|aurez|soup%[m|é]|
+|ils|auront|soup%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|soup%[m|erais]|
+|tu|soup%[m|erais]|
+|il|soup%[m|erait]|
+|nous|soup%[m|erions]|
+|vous|soup%[m|eriez]|
+|ils|soup%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|soup%[m|é]|
+|tu|aurais|soup%[m|é]|
+|il|aurait|soup%[m|é]|
+|nous|aurions|soup%[m|é]|
+|vous|auriez|soup%[m|é]|
+|ils|auraient|soup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|soup%[m|e]|
+|que|tu|soup%[m|es]|
+|qu'|il|soup%[m|e]|
+|que|nous|soup%[m|ions]|
+|que|vous|soup%[m|iez]|
+|qu'|ils|soup%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|soup%[m|é]|
+|que|tu|aies|soup%[m|é]|
+|qu'|il|ait|soup%[m|é]|
+|que|nous|ayons|soup%[m|é]|
+|que|vous|ayez|soup%[m|é]|
+|qu'|ils|aient|soup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|soup%[m|asse]|
+|que|tu|soup%[m|asses]|
+|qu'|il|soup%[m|ât]|
+|que|nous|soup%[m|assions]|
+|que|vous|soup%[m|assiez]|
+|qu'|ils|soup%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|soup%[m|é]|
+|que|tu|eusses|soup%[m|é]|
+|qu'|il|eût|soup%[m|é]|
+|que|nous|eussions|soup%[m|é]|
+|que|vous|eussiez|soup%[m|é]|
+|qu'|ils|eussent|soup%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|soup%[m|e]|
+|soup%[m|ons]|
+|soup%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|soup%[m|é]|
+|ayons|soup%[m|é]|
+|ayez|soup%[m|é]|
+|]
+

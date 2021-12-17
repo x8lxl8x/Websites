@@ -1,0 +1,190 @@
+# se recouvrir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se recouv%[m|rir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|recouv%[m|ert]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se recouv%[m|rant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|recouv%[m|ert]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se recouv%[m|rant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|recouv%[m|ert]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|recouv%[m|re]|
+|tu|te|recouv%[m|res]|
+|il|se|recouv%[m|re]|
+|nous|nous|recouv%[m|rons]|
+|vous|vous|recouv%[m|rez]|
+|ils|se|recouv%[m|rent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|recouv%[m|ert]|
+|tu|t'|es|recouv%[m|ert]|
+|il|s'|est|recouv%[m|ert]|
+|nous|nous|sommes|recouv%[m|erts]|
+|vous|vous|êtes|recouv%[m|erts]|
+|ils|se|sont|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|recouv%[m|rais]|
+|tu|te|recouv%[m|rais]|
+|il|se|recouv%[m|rait]|
+|nous|nous|recouv%[m|rions]|
+|vous|vous|recouv%[m|riez]|
+|ils|se|recouv%[m|raient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|recouv%[m|ert]|
+|tu|t'|étais|recouv%[m|ert]|
+|il|s'|était|recouv%[m|ert]|
+|nous|nous|étions|recouv%[m|erts]|
+|vous|vous|étiez|recouv%[m|erts]|
+|ils|s'|étaient|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|recouv%[m|ris]|
+|tu|te|recouv%[m|ris]|
+|il|se|recouv%[m|rit]|
+|nous|nous|recouv%[m|rîmes]|
+|vous|vous|recouv%[m|rîtes]|
+|ils|se|recouv%[m|rirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|recouv%[m|ert]|
+|tu|te|fus|recouv%[m|ert]|
+|il|se|fut|recouv%[m|ert]|
+|nous|nous|fûmes|recouv%[m|erts]|
+|vous|vous|fûtes|recouv%[m|erts]|
+|ils|se|furent|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|recouv%[m|rirai]|
+|tu|te|recouv%[m|riras]|
+|il|se|recouv%[m|rira]|
+|nous|nous|recouv%[m|rirons]|
+|vous|vous|recouv%[m|rirez]|
+|ils|se|recouv%[m|riront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|recouv%[m|ert]|
+|tu|te|seras|recouv%[m|ert]|
+|il|se|sera|recouv%[m|ert]|
+|nous|nous|serons|recouv%[m|erts]|
+|vous|vous|serez|recouv%[m|erts]|
+|ils|se|seront|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|recouv%[m|rirais]|
+|tu|te|recouv%[m|rirais]|
+|il|se|recouv%[m|rirait]|
+|nous|nous|recouv%[m|ririons]|
+|vous|vous|recouv%[m|ririez]|
+|ils|se|recouv%[m|riraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|recouv%[m|ert]|
+|tu|te|serais|recouv%[m|ert]|
+|il|se|serait|recouv%[m|ert]|
+|nous|nous|serions|recouv%[m|erts]|
+|vous|vous|seriez|recouv%[m|erts]|
+|ils|se|seraient|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|recouv%[m|re]|
+|que|tu|te|recouv%[m|res]|
+|qu'|il|se|recouv%[m|re]|
+|que|nous|nous|recouv%[m|rions]|
+|que|vous|vous|recouv%[m|riez]|
+|qu'|ils|se|recouv%[m|rent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|recouv%[m|ert]|
+|que|tu|te|sois|recouv%[m|ert]|
+|qu'|il|se|soit|recouv%[m|ert]|
+|que|nous|nous|soyons|recouv%[m|erts]|
+|que|vous|vous|soyez|recouv%[m|erts]|
+|qu'|ils|se|soient|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|recouv%[m|risse]|
+|que|tu|te|recouv%[m|risses]|
+|qu'|il|se|recouv%[m|rît]|
+|que|nous|nous|recouv%[m|rissions]|
+|que|vous|vous|recouv%[m|rissiez]|
+|qu'|ils|se|recouv%[m|rissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|recouv%[m|ert]|
+|que|tu|te|fusses|recouv%[m|ert]|
+|qu'|il|se|fût|recouv%[m|ert]|
+|que|nous|nous|fussions|recouv%[m|erts]|
+|que|vous|vous|fussiez|recouv%[m|erts]|
+|qu'|ils|se|fussent|recouv%[m|erts]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|recouv%[m|re]-toi|
+|recouv%[m|rons]-nous|
+|recouv%[m|rez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

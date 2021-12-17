@@ -1,0 +1,192 @@
+# s'attendre %[clVerbGroup|3]
+[-
+rester dans un lieu, un état, jusqu'à ce que survienne un événement précis. 
+escompter quelque chose. 
+être prêt. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'attend%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|attend%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'attend%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|attend%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'attend%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|attend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|attend%[m|s]|
+|tu|t'|attend%[m|s]|
+|il|s'|attend%[m|]|
+|nous|nous|attend%[m|ons]|
+|vous|vous|attend%[m|ez]|
+|ils|s'|attend%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|attend%[m|u]|
+|tu|t'|es|attend%[m|u]|
+|il|s'|est|attend%[m|u]|
+|nous|nous|sommes|attend%[m|us]|
+|vous|vous|êtes|attend%[m|us]|
+|ils|se|sont|attend%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|attend%[m|ais]|
+|tu|t'|attend%[m|ais]|
+|il|s'|attend%[m|ait]|
+|nous|nous|attend%[m|ions]|
+|vous|vous|attend%[m|iez]|
+|ils|s'|attend%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|attend%[m|u]|
+|tu|t'|étais|attend%[m|u]|
+|il|s'|était|attend%[m|u]|
+|nous|nous|étions|attend%[m|us]|
+|vous|vous|étiez|attend%[m|us]|
+|ils|s'|étaient|attend%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|attend%[m|is]|
+|tu|t'|attend%[m|is]|
+|il|s'|attend%[m|it]|
+|nous|nous|attend%[m|îmes]|
+|vous|vous|attend%[m|îtes]|
+|ils|s'|attend%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|attend%[m|u]|
+|tu|te|fus|attend%[m|u]|
+|il|se|fut|attend%[m|u]|
+|nous|nous|fûmes|attend%[m|us]|
+|vous|vous|fûtes|attend%[m|us]|
+|ils|se|furent|attend%[m|us]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|attend%[m|rai]|
+|tu|t'|attend%[m|ras]|
+|il|s'|attend%[m|ra]|
+|nous|nous|attend%[m|rons]|
+|vous|vous|attend%[m|rez]|
+|ils|s'|attend%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|attend%[m|u]|
+|tu|te|seras|attend%[m|u]|
+|il|se|sera|attend%[m|u]|
+|nous|nous|serons|attend%[m|us]|
+|vous|vous|serez|attend%[m|us]|
+|ils|se|seront|attend%[m|us]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|attend%[m|rais]|
+|tu|t'|attend%[m|rais]|
+|il|s'|attend%[m|rait]|
+|nous|nous|attend%[m|rions]|
+|vous|vous|attend%[m|riez]|
+|ils|s'|attend%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|attend%[m|u]|
+|tu|te|serais|attend%[m|u]|
+|il|se|serait|attend%[m|u]|
+|nous|nous|serions|attend%[m|us]|
+|vous|vous|seriez|attend%[m|us]|
+|ils|se|seraient|attend%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|attend%[m|e]|
+|que|tu|t'|attend%[m|es]|
+|qu'|il|s'|attend%[m|e]|
+|que|nous|nous|attend%[m|ions]|
+|que|vous|vous|attend%[m|iez]|
+|qu'|ils|s'|attend%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|attend%[m|u]|
+|que|tu|te|sois|attend%[m|u]|
+|qu'|il|se|soit|attend%[m|u]|
+|que|nous|nous|soyons|attend%[m|us]|
+|que|vous|vous|soyez|attend%[m|us]|
+|qu'|ils|se|soient|attend%[m|us]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|attend%[m|isse]|
+|que|tu|t'|attend%[m|isses]|
+|qu'|il|s'|attend%[m|ît]|
+|que|nous|nous|attend%[m|issions]|
+|que|vous|vous|attend%[m|issiez]|
+|qu'|ils|s'|attend%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|attend%[m|u]|
+|que|tu|te|fusses|attend%[m|u]|
+|qu'|il|se|fût|attend%[m|u]|
+|que|nous|nous|fussions|attend%[m|us]|
+|que|vous|vous|fussiez|attend%[m|us]|
+|qu'|ils|se|fussent|attend%[m|us]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attend%[m|s]-toi|
+|attend%[m|ons]-nous|
+|attend%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

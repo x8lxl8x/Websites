@@ -1,0 +1,190 @@
+# piter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pit%[m|é]|
+|ayant|pit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pit%[m|e]|
+|tu|pit%[m|es]|
+|il|pit%[m|e]|
+|nous|pit%[m|ons]|
+|vous|pit%[m|ez]|
+|ils|pit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pit%[m|é]|
+|tu|as |pit%[m|é]|
+|il|a|pit%[m|é]|
+|nous|avons|pit%[m|é]|
+|vous|avez|pit%[m|é]|
+|ils|ont|pit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pit%[m|ais]|
+|tu|pit%[m|ais]|
+|il|pit%[m|ait]|
+|nous|pit%[m|ions]|
+|vous|pit%[m|iez]|
+|ils|pit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pit%[m|é]|
+|tu|avais|pit%[m|é]|
+|il|avait|pit%[m|é]|
+|nous|avions|pit%[m|é]|
+|vous|aviez|pit%[m|é]|
+|ils|avaient|pit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pit%[m|ai]|
+|tu|pit%[m|as]|
+|il|pit%[m|a]|
+|nous|pit%[m|âmes]|
+|vous|pit%[m|âtes]|
+|ils|pit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pit%[m|é]|
+|tu|eus|pit%[m|é]|
+|il|eut|pit%[m|é]|
+|nous|e&ucirc;mes|pit%[m|é]|
+|vous|e&ucirc;tes|pit%[m|é]|
+|ils|eurent|pit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pit%[m|erai]|
+|tu|pit%[m|eras]|
+|il|pit%[m|era]|
+|nous|pit%[m|erons]|
+|vous|pit%[m|erez]|
+|ils|pit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pit%[m|é]|
+|tu|auras|pit%[m|é]|
+|il|aura|pit%[m|é]|
+|nous|aurons|pit%[m|é]|
+|vous|aurez|pit%[m|é]|
+|ils|auront|pit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pit%[m|erais]|
+|tu|pit%[m|erais]|
+|il|pit%[m|erait]|
+|nous|pit%[m|erions]|
+|vous|pit%[m|eriez]|
+|ils|pit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pit%[m|é]|
+|tu|aurais|pit%[m|é]|
+|il|aurait|pit%[m|é]|
+|nous|aurions|pit%[m|é]|
+|vous|auriez|pit%[m|é]|
+|ils|auraient|pit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pit%[m|e]|
+|que|tu|pit%[m|es]|
+|qu'|il|pit%[m|e]|
+|que|nous|pit%[m|ions]|
+|que|vous|pit%[m|iez]|
+|qu'|ils|pit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pit%[m|é]|
+|que|tu|aies|pit%[m|é]|
+|qu'|il|ait|pit%[m|é]|
+|que|nous|ayons|pit%[m|é]|
+|que|vous|ayez|pit%[m|é]|
+|qu'|ils|aient|pit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pit%[m|asse]|
+|que|tu|pit%[m|asses]|
+|qu'|il|pit%[m|ât]|
+|que|nous|pit%[m|assions]|
+|que|vous|pit%[m|assiez]|
+|qu'|ils|pit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pit%[m|é]|
+|que|tu|eusses|pit%[m|é]|
+|qu'|il|eût|pit%[m|é]|
+|que|nous|eussions|pit%[m|é]|
+|que|vous|eussiez|pit%[m|é]|
+|qu'|ils|eussent|pit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pit%[m|e]|
+|pit%[m|ons]|
+|pit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pit%[m|é]|
+|ayons|pit%[m|é]|
+|ayez|pit%[m|é]|
+|]
+

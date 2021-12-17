@@ -1,0 +1,190 @@
+# roquer %[clVerbGroup|1]
+[-
+aux échecs, placer l'une des tours sur la case à côté du roi, et faire passer le roi de l'autre côté de la tour. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|roqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|roqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|roqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||roqu%[m|é]|
+|ayant|roqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en roqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|roqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|roqu%[m|e]|
+|tu|roqu%[m|es]|
+|il|roqu%[m|e]|
+|nous|roqu%[m|ons]|
+|vous|roqu%[m|ez]|
+|ils|roqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|roqu%[m|é]|
+|tu|as |roqu%[m|é]|
+|il|a|roqu%[m|é]|
+|nous|avons|roqu%[m|é]|
+|vous|avez|roqu%[m|é]|
+|ils|ont|roqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|roqu%[m|ais]|
+|tu|roqu%[m|ais]|
+|il|roqu%[m|ait]|
+|nous|roqu%[m|ions]|
+|vous|roqu%[m|iez]|
+|ils|roqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|roqu%[m|é]|
+|tu|avais|roqu%[m|é]|
+|il|avait|roqu%[m|é]|
+|nous|avions|roqu%[m|é]|
+|vous|aviez|roqu%[m|é]|
+|ils|avaient|roqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|roqu%[m|ai]|
+|tu|roqu%[m|as]|
+|il|roqu%[m|a]|
+|nous|roqu%[m|âmes]|
+|vous|roqu%[m|âtes]|
+|ils|roqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|roqu%[m|é]|
+|tu|eus|roqu%[m|é]|
+|il|eut|roqu%[m|é]|
+|nous|e&ucirc;mes|roqu%[m|é]|
+|vous|e&ucirc;tes|roqu%[m|é]|
+|ils|eurent|roqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|roqu%[m|erai]|
+|tu|roqu%[m|eras]|
+|il|roqu%[m|era]|
+|nous|roqu%[m|erons]|
+|vous|roqu%[m|erez]|
+|ils|roqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|roqu%[m|é]|
+|tu|auras|roqu%[m|é]|
+|il|aura|roqu%[m|é]|
+|nous|aurons|roqu%[m|é]|
+|vous|aurez|roqu%[m|é]|
+|ils|auront|roqu%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|roqu%[m|erais]|
+|tu|roqu%[m|erais]|
+|il|roqu%[m|erait]|
+|nous|roqu%[m|erions]|
+|vous|roqu%[m|eriez]|
+|ils|roqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|roqu%[m|é]|
+|tu|aurais|roqu%[m|é]|
+|il|aurait|roqu%[m|é]|
+|nous|aurions|roqu%[m|é]|
+|vous|auriez|roqu%[m|é]|
+|ils|auraient|roqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|roqu%[m|e]|
+|que|tu|roqu%[m|es]|
+|qu'|il|roqu%[m|e]|
+|que|nous|roqu%[m|ions]|
+|que|vous|roqu%[m|iez]|
+|qu'|ils|roqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|roqu%[m|é]|
+|que|tu|aies|roqu%[m|é]|
+|qu'|il|ait|roqu%[m|é]|
+|que|nous|ayons|roqu%[m|é]|
+|que|vous|ayez|roqu%[m|é]|
+|qu'|ils|aient|roqu%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|roqu%[m|asse]|
+|que|tu|roqu%[m|asses]|
+|qu'|il|roqu%[m|ât]|
+|que|nous|roqu%[m|assions]|
+|que|vous|roqu%[m|assiez]|
+|qu'|ils|roqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|roqu%[m|é]|
+|que|tu|eusses|roqu%[m|é]|
+|qu'|il|eût|roqu%[m|é]|
+|que|nous|eussions|roqu%[m|é]|
+|que|vous|eussiez|roqu%[m|é]|
+|qu'|ils|eussent|roqu%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|roqu%[m|e]|
+|roqu%[m|ons]|
+|roqu%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|roqu%[m|é]|
+|ayons|roqu%[m|é]|
+|ayez|roqu%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# rempocher %[clVerbGroup|1]
+[-
+remettre dans sa poche. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rempoch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rempoch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rempoch%[m|é]|
+|ayant|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rempoch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rempoch%[m|e]|
+|tu|rempoch%[m|es]|
+|il|rempoch%[m|e]|
+|nous|rempoch%[m|ons]|
+|vous|rempoch%[m|ez]|
+|ils|rempoch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rempoch%[m|é]|
+|tu|as |rempoch%[m|é]|
+|il|a|rempoch%[m|é]|
+|nous|avons|rempoch%[m|é]|
+|vous|avez|rempoch%[m|é]|
+|ils|ont|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rempoch%[m|ais]|
+|tu|rempoch%[m|ais]|
+|il|rempoch%[m|ait]|
+|nous|rempoch%[m|ions]|
+|vous|rempoch%[m|iez]|
+|ils|rempoch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rempoch%[m|é]|
+|tu|avais|rempoch%[m|é]|
+|il|avait|rempoch%[m|é]|
+|nous|avions|rempoch%[m|é]|
+|vous|aviez|rempoch%[m|é]|
+|ils|avaient|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rempoch%[m|ai]|
+|tu|rempoch%[m|as]|
+|il|rempoch%[m|a]|
+|nous|rempoch%[m|âmes]|
+|vous|rempoch%[m|âtes]|
+|ils|rempoch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rempoch%[m|é]|
+|tu|eus|rempoch%[m|é]|
+|il|eut|rempoch%[m|é]|
+|nous|e&ucirc;mes|rempoch%[m|é]|
+|vous|e&ucirc;tes|rempoch%[m|é]|
+|ils|eurent|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rempoch%[m|erai]|
+|tu|rempoch%[m|eras]|
+|il|rempoch%[m|era]|
+|nous|rempoch%[m|erons]|
+|vous|rempoch%[m|erez]|
+|ils|rempoch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rempoch%[m|é]|
+|tu|auras|rempoch%[m|é]|
+|il|aura|rempoch%[m|é]|
+|nous|aurons|rempoch%[m|é]|
+|vous|aurez|rempoch%[m|é]|
+|ils|auront|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rempoch%[m|erais]|
+|tu|rempoch%[m|erais]|
+|il|rempoch%[m|erait]|
+|nous|rempoch%[m|erions]|
+|vous|rempoch%[m|eriez]|
+|ils|rempoch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rempoch%[m|é]|
+|tu|aurais|rempoch%[m|é]|
+|il|aurait|rempoch%[m|é]|
+|nous|aurions|rempoch%[m|é]|
+|vous|auriez|rempoch%[m|é]|
+|ils|auraient|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rempoch%[m|e]|
+|que|tu|rempoch%[m|es]|
+|qu'|il|rempoch%[m|e]|
+|que|nous|rempoch%[m|ions]|
+|que|vous|rempoch%[m|iez]|
+|qu'|ils|rempoch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rempoch%[m|é]|
+|que|tu|aies|rempoch%[m|é]|
+|qu'|il|ait|rempoch%[m|é]|
+|que|nous|ayons|rempoch%[m|é]|
+|que|vous|ayez|rempoch%[m|é]|
+|qu'|ils|aient|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rempoch%[m|asse]|
+|que|tu|rempoch%[m|asses]|
+|qu'|il|rempoch%[m|ât]|
+|que|nous|rempoch%[m|assions]|
+|que|vous|rempoch%[m|assiez]|
+|qu'|ils|rempoch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rempoch%[m|é]|
+|que|tu|eusses|rempoch%[m|é]|
+|qu'|il|eût|rempoch%[m|é]|
+|que|nous|eussions|rempoch%[m|é]|
+|que|vous|eussiez|rempoch%[m|é]|
+|qu'|ils|eussent|rempoch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rempoch%[m|e]|
+|rempoch%[m|ons]|
+|rempoch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rempoch%[m|é]|
+|ayons|rempoch%[m|é]|
+|ayez|rempoch%[m|é]|
+|]
+

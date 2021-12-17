@@ -1,0 +1,76 @@
+## Phonétique et orthographe ##
+
+## Phonétique et orthographe
+
+# Alphabet
+
+[|
+|%[m|A]|%[m|a]|%[r|a]lbena|
+|%[m|Б]|%[m|б]|%[r|b]ourgas|
+|%[m|В]|%[m|в]|%[r|v]arna|
+|%[m|Г]|%[m|г]|%[r|g]abrovo|
+|%[m|Д]|%[m|д]|%[r|d]obritch|
+|%[m|Е]|%[m|е]|%[r|e]lena|
+|%[m|Ж]|%[m|ж]|%[r|j]ytomyr|
+|%[m|З]|%[m|з]|%[r|z]agora|
+|%[m|И]|%[m|и]|sl%[r|i]ven|
+|%[m|Й]|%[m|й]|ma%[r|iy]|
+|%[m|К]|%[m|к]|%[r|k]ranevo|
+|%[m|Л]|%[m|л]|a%[r|l]bena|
+|%[m|М]|%[m|м]|%[r|m]angaliya|
+|%[m|Н]|%[m|н]|var%[r|n]a|
+|%[m|О]|%[m|о]|s%[r|o]fiya|
+|%[m|П]|%[m|п]|%[r|p]lovdiv|
+|%[m|Р]|%[m|р]|va%[r|r]na|
+|%[m|С]|%[m|с]|%[r|s]ofiya|
+|%[m|Т]|%[m|т]|dobro%[r|t]itsa|
+|%[m|У]|%[m|у]|b%[r|ou]rgas|
+|%[m|Ф]|%[m|ф]|so%[r|f]iya|
+|%[m|Х]|%[m|х]|%[r|kh]askovo|
+|%[m|Ц]|%[m|ц]|vinni%[r|ts]a|
+|%[m|Ч]|%[m|ч]|%[r|tch]ernivtsi|
+|%[m|Ш]|%[m|ш]|%[r|ch]oumen|
+|%[m|Щ]|%[m|щ]|%[r|cht]outgart|
+|%[m|Ъ]|%[m|ъ]|l%[r|o]ndon &sup1;|
+|%[m|Ь]|%[m|ь]|%[r|li]ège &sup2;|
+|%[m|Ю]|%[m|ю]|%[r|you]jen|
+|%[m|Я]|%[m|я]|sofi%[r|ya]|
+|]
+
+[!
+&sup1; - indique son réduit a comment l'anglais: London, but, love
+&sup2; - indique la palatalisation de la consonne qui la précède
+!]
+
+<!--
+%[l|a  ]   |
+%[l|b  ]   |
+%[l|v  ]   |
+%[l|g  ]   |
+%[l|d  ]   |
+%[l|è  ]   |
+%[l|j  ]   |
+%[l|z  ]   |
+%[l|i  ]   |
+%[l|iy ]   |
+%[l|k  ]   |
+%[l|l  ]   |
+%[l|m  ]   |
+%[l|n  ]   |
+%[l|o  ]   |
+%[l|p  ]   |
+%[l|r  ]   |
+%[l|s  ]   |
+%[l|t  ]   |
+%[l|ou ]   |
+%[l|f  ]   |
+%[l|kh ]   |
+%[l|ts ]   |
+%[l|tch]   |
+%[l|ch ]   |
+%[l|cht]   |
+%[l|&sup1;]|
+%[l|&sup2;]|
+%[l|you]   |
+%[l|ya ]   |
+-->

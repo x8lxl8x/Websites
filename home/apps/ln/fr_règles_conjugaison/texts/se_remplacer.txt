@@ -1,0 +1,190 @@
+# se remplacer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se rempla%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|rempla%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se rempla%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|rempla%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se rempla%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|rempla%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|rempla%[m|ce]|
+|tu|te|rempla%[m|ces]|
+|il|se|rempla%[m|ce]|
+|nous|nous|rempla%[m|çons]|
+|vous|vous|rempla%[m|cez]|
+|ils|se|rempla%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|rempla%[m|cé]|
+|tu|t'|es|rempla%[m|cé]|
+|il|s'|est|rempla%[m|cé]|
+|nous|nous|sommes|rempla%[m|cés]|
+|vous|vous|êtes|rempla%[m|cés]|
+|ils|se|sont|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|rempla%[m|çais]|
+|tu|te|rempla%[m|çais]|
+|il|se|rempla%[m|çait]|
+|nous|nous|rempla%[m|cions]|
+|vous|vous|rempla%[m|ciez]|
+|ils|se|rempla%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|rempla%[m|cé]|
+|tu|t'|étais|rempla%[m|cé]|
+|il|s'|était|rempla%[m|cé]|
+|nous|nous|étions|rempla%[m|cés]|
+|vous|vous|étiez|rempla%[m|cés]|
+|ils|s'|étaient|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|rempla%[m|çai]|
+|tu|te|rempla%[m|ças]|
+|il|se|rempla%[m|ça]|
+|nous|nous|rempla%[m|çâmes]|
+|vous|vous|rempla%[m|çâtes]|
+|ils|se|rempla%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|rempla%[m|cé]|
+|tu|te|fus|rempla%[m|cé]|
+|il|se|fut|rempla%[m|cé]|
+|nous|nous|fûmes|rempla%[m|cés]|
+|vous|vous|fûtes|rempla%[m|cés]|
+|ils|se|furent|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|rempla%[m|cerai]|
+|tu|te|rempla%[m|ceras]|
+|il|se|rempla%[m|cera]|
+|nous|nous|rempla%[m|cerons]|
+|vous|vous|rempla%[m|cerez]|
+|ils|se|rempla%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|rempla%[m|cé]|
+|tu|te|seras|rempla%[m|cé]|
+|il|se|sera|rempla%[m|cé]|
+|nous|nous|serons|rempla%[m|cés]|
+|vous|vous|serez|rempla%[m|cés]|
+|ils|se|seront|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|rempla%[m|cerais]|
+|tu|te|rempla%[m|cerais]|
+|il|se|rempla%[m|cerait]|
+|nous|nous|rempla%[m|cerions]|
+|vous|vous|rempla%[m|ceriez]|
+|ils|se|rempla%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|rempla%[m|cé]|
+|tu|te|serais|rempla%[m|cé]|
+|il|se|serait|rempla%[m|cé]|
+|nous|nous|serions|rempla%[m|cés]|
+|vous|vous|seriez|rempla%[m|cés]|
+|ils|se|seraient|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|rempla%[m|ce]|
+|que|tu|te|rempla%[m|ces]|
+|qu'|il|se|rempla%[m|ce]|
+|que|nous|nous|rempla%[m|cions]|
+|que|vous|vous|rempla%[m|ciez]|
+|qu'|ils|se|rempla%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|rempla%[m|cé]|
+|que|tu|te|sois|rempla%[m|cé]|
+|qu'|il|se|soit|rempla%[m|cé]|
+|que|nous|nous|soyons|rempla%[m|cés]|
+|que|vous|vous|soyez|rempla%[m|cés]|
+|qu'|ils|se|soient|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|rempla%[m|çasse]|
+|que|tu|te|rempla%[m|çasses]|
+|qu'|il|se|rempla%[m|çât]|
+|que|nous|nous|rempla%[m|çassions]|
+|que|vous|vous|rempla%[m|çassiez]|
+|qu'|ils|se|rempla%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|rempla%[m|cé]|
+|que|tu|te|fusses|rempla%[m|cé]|
+|qu'|il|se|fût|rempla%[m|cé]|
+|que|nous|nous|fussions|rempla%[m|cés]|
+|que|vous|vous|fussiez|rempla%[m|cés]|
+|qu'|ils|se|fussent|rempla%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rempla%[m|ce]-toi|
+|rempla%[m|çons]-nous|
+|rempla%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

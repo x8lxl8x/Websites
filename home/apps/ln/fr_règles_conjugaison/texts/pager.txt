@@ -1,0 +1,190 @@
+# pager %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pag%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pag%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pag%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pag%[m|é]|
+|ayant|pag%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pag%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pag%[m|e]|
+|tu|pag%[m|es]|
+|il|pag%[m|e]|
+|nous|pag%[m|eons]|
+|vous|pag%[m|ez]|
+|ils|pag%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pag%[m|é]|
+|tu|as |pag%[m|é]|
+|il|a|pag%[m|é]|
+|nous|avons|pag%[m|é]|
+|vous|avez|pag%[m|é]|
+|ils|ont|pag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pag%[m|eais]|
+|tu|pag%[m|eais]|
+|il|pag%[m|eait]|
+|nous|pag%[m|ions]|
+|vous|pag%[m|iez]|
+|ils|pag%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pag%[m|é]|
+|tu|avais|pag%[m|é]|
+|il|avait|pag%[m|é]|
+|nous|avions|pag%[m|é]|
+|vous|aviez|pag%[m|é]|
+|ils|avaient|pag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pag%[m|eai]|
+|tu|pag%[m|eas]|
+|il|pag%[m|ea]|
+|nous|pag%[m|eâmes]|
+|vous|pag%[m|eâtes]|
+|ils|pag%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pag%[m|é]|
+|tu|eus|pag%[m|é]|
+|il|eut|pag%[m|é]|
+|nous|e&ucirc;mes|pag%[m|é]|
+|vous|e&ucirc;tes|pag%[m|é]|
+|ils|eurent|pag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pag%[m|erai]|
+|tu|pag%[m|eras]|
+|il|pag%[m|era]|
+|nous|pag%[m|erons]|
+|vous|pag%[m|erez]|
+|ils|pag%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pag%[m|é]|
+|tu|auras|pag%[m|é]|
+|il|aura|pag%[m|é]|
+|nous|aurons|pag%[m|é]|
+|vous|aurez|pag%[m|é]|
+|ils|auront|pag%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pag%[m|erais]|
+|tu|pag%[m|erais]|
+|il|pag%[m|erait]|
+|nous|pag%[m|erions]|
+|vous|pag%[m|eriez]|
+|ils|pag%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pag%[m|é]|
+|tu|aurais|pag%[m|é]|
+|il|aurait|pag%[m|é]|
+|nous|aurions|pag%[m|é]|
+|vous|auriez|pag%[m|é]|
+|ils|auraient|pag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pag%[m|e]|
+|que|tu|pag%[m|es]|
+|qu'|il|pag%[m|e]|
+|que|nous|pag%[m|ions]|
+|que|vous|pag%[m|iez]|
+|qu'|ils|pag%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pag%[m|é]|
+|que|tu|aies|pag%[m|é]|
+|qu'|il|ait|pag%[m|é]|
+|que|nous|ayons|pag%[m|é]|
+|que|vous|ayez|pag%[m|é]|
+|qu'|ils|aient|pag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pag%[m|easse]|
+|que|tu|pag%[m|easses]|
+|qu'|il|pag%[m|eât]|
+|que|nous|pag%[m|eassions]|
+|que|vous|pag%[m|eassiez]|
+|qu'|ils|pag%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pag%[m|é]|
+|que|tu|eusses|pag%[m|é]|
+|qu'|il|eût|pag%[m|é]|
+|que|nous|eussions|pag%[m|é]|
+|que|vous|eussiez|pag%[m|é]|
+|qu'|ils|eussent|pag%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pag%[m|e]|
+|pag%[m|eons]|
+|pag%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pag%[m|é]|
+|ayons|pag%[m|é]|
+|ayez|pag%[m|é]|
+|]
+

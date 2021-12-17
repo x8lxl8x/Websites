@@ -1,0 +1,190 @@
+# nocer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|no%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|no%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|no%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||no%[m|cé]|
+|ayant|no%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en no%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|no%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|no%[m|ce]|
+|tu|no%[m|ces]|
+|il|no%[m|ce]|
+|nous|no%[m|çons]|
+|vous|no%[m|cez]|
+|ils|no%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|no%[m|cé]|
+|tu|as |no%[m|cé]|
+|il|a|no%[m|cé]|
+|nous|avons|no%[m|cé]|
+|vous|avez|no%[m|cé]|
+|ils|ont|no%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|no%[m|çais]|
+|tu|no%[m|çais]|
+|il|no%[m|çait]|
+|nous|no%[m|cions]|
+|vous|no%[m|ciez]|
+|ils|no%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|no%[m|cé]|
+|tu|avais|no%[m|cé]|
+|il|avait|no%[m|cé]|
+|nous|avions|no%[m|cé]|
+|vous|aviez|no%[m|cé]|
+|ils|avaient|no%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|no%[m|çai]|
+|tu|no%[m|ças]|
+|il|no%[m|ça]|
+|nous|no%[m|çâmes]|
+|vous|no%[m|çâtes]|
+|ils|no%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|no%[m|cé]|
+|tu|eus|no%[m|cé]|
+|il|eut|no%[m|cé]|
+|nous|e&ucirc;mes|no%[m|cé]|
+|vous|e&ucirc;tes|no%[m|cé]|
+|ils|eurent|no%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|no%[m|cerai]|
+|tu|no%[m|ceras]|
+|il|no%[m|cera]|
+|nous|no%[m|cerons]|
+|vous|no%[m|cerez]|
+|ils|no%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|no%[m|cé]|
+|tu|auras|no%[m|cé]|
+|il|aura|no%[m|cé]|
+|nous|aurons|no%[m|cé]|
+|vous|aurez|no%[m|cé]|
+|ils|auront|no%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|no%[m|cerais]|
+|tu|no%[m|cerais]|
+|il|no%[m|cerait]|
+|nous|no%[m|cerions]|
+|vous|no%[m|ceriez]|
+|ils|no%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|no%[m|cé]|
+|tu|aurais|no%[m|cé]|
+|il|aurait|no%[m|cé]|
+|nous|aurions|no%[m|cé]|
+|vous|auriez|no%[m|cé]|
+|ils|auraient|no%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|no%[m|ce]|
+|que|tu|no%[m|ces]|
+|qu'|il|no%[m|ce]|
+|que|nous|no%[m|cions]|
+|que|vous|no%[m|ciez]|
+|qu'|ils|no%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|no%[m|cé]|
+|que|tu|aies|no%[m|cé]|
+|qu'|il|ait|no%[m|cé]|
+|que|nous|ayons|no%[m|cé]|
+|que|vous|ayez|no%[m|cé]|
+|qu'|ils|aient|no%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|no%[m|çasse]|
+|que|tu|no%[m|çasses]|
+|qu'|il|no%[m|çât]|
+|que|nous|no%[m|çassions]|
+|que|vous|no%[m|çassiez]|
+|qu'|ils|no%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|no%[m|cé]|
+|que|tu|eusses|no%[m|cé]|
+|qu'|il|eût|no%[m|cé]|
+|que|nous|eussions|no%[m|cé]|
+|que|vous|eussiez|no%[m|cé]|
+|qu'|ils|eussent|no%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|no%[m|ce]|
+|no%[m|çons]|
+|no%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|no%[m|cé]|
+|ayons|no%[m|cé]|
+|ayez|no%[m|cé]|
+|]
+

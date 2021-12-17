@@ -1,0 +1,190 @@
+# coquiller %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coquill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coquill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coquill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coquill%[m|é]|
+|ayant|coquill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coquill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coquill%[m|e]|
+|tu|coquill%[m|es]|
+|il|coquill%[m|e]|
+|nous|coquill%[m|ons]|
+|vous|coquill%[m|ez]|
+|ils|coquill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coquill%[m|é]|
+|tu|as |coquill%[m|é]|
+|il|a|coquill%[m|é]|
+|nous|avons|coquill%[m|é]|
+|vous|avez|coquill%[m|é]|
+|ils|ont|coquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coquill%[m|ais]|
+|tu|coquill%[m|ais]|
+|il|coquill%[m|ait]|
+|nous|coquill%[m|ions]|
+|vous|coquill%[m|iez]|
+|ils|coquill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coquill%[m|é]|
+|tu|avais|coquill%[m|é]|
+|il|avait|coquill%[m|é]|
+|nous|avions|coquill%[m|é]|
+|vous|aviez|coquill%[m|é]|
+|ils|avaient|coquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coquill%[m|ai]|
+|tu|coquill%[m|as]|
+|il|coquill%[m|a]|
+|nous|coquill%[m|âmes]|
+|vous|coquill%[m|âtes]|
+|ils|coquill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coquill%[m|é]|
+|tu|eus|coquill%[m|é]|
+|il|eut|coquill%[m|é]|
+|nous|e&ucirc;mes|coquill%[m|é]|
+|vous|e&ucirc;tes|coquill%[m|é]|
+|ils|eurent|coquill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coquill%[m|erai]|
+|tu|coquill%[m|eras]|
+|il|coquill%[m|era]|
+|nous|coquill%[m|erons]|
+|vous|coquill%[m|erez]|
+|ils|coquill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coquill%[m|é]|
+|tu|auras|coquill%[m|é]|
+|il|aura|coquill%[m|é]|
+|nous|aurons|coquill%[m|é]|
+|vous|aurez|coquill%[m|é]|
+|ils|auront|coquill%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coquill%[m|erais]|
+|tu|coquill%[m|erais]|
+|il|coquill%[m|erait]|
+|nous|coquill%[m|erions]|
+|vous|coquill%[m|eriez]|
+|ils|coquill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coquill%[m|é]|
+|tu|aurais|coquill%[m|é]|
+|il|aurait|coquill%[m|é]|
+|nous|aurions|coquill%[m|é]|
+|vous|auriez|coquill%[m|é]|
+|ils|auraient|coquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coquill%[m|e]|
+|que|tu|coquill%[m|es]|
+|qu'|il|coquill%[m|e]|
+|que|nous|coquill%[m|ions]|
+|que|vous|coquill%[m|iez]|
+|qu'|ils|coquill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coquill%[m|é]|
+|que|tu|aies|coquill%[m|é]|
+|qu'|il|ait|coquill%[m|é]|
+|que|nous|ayons|coquill%[m|é]|
+|que|vous|ayez|coquill%[m|é]|
+|qu'|ils|aient|coquill%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coquill%[m|asse]|
+|que|tu|coquill%[m|asses]|
+|qu'|il|coquill%[m|ât]|
+|que|nous|coquill%[m|assions]|
+|que|vous|coquill%[m|assiez]|
+|qu'|ils|coquill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coquill%[m|é]|
+|que|tu|eusses|coquill%[m|é]|
+|qu'|il|eût|coquill%[m|é]|
+|que|nous|eussions|coquill%[m|é]|
+|que|vous|eussiez|coquill%[m|é]|
+|qu'|ils|eussent|coquill%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coquill%[m|e]|
+|coquill%[m|ons]|
+|coquill%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coquill%[m|é]|
+|ayons|coquill%[m|é]|
+|ayez|coquill%[m|é]|
+|]
+

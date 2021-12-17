@@ -1,0 +1,190 @@
+# se placer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se pla%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|pla%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se pla%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|pla%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se pla%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|pla%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|pla%[m|ce]|
+|tu|te|pla%[m|ces]|
+|il|se|pla%[m|ce]|
+|nous|nous|pla%[m|çons]|
+|vous|vous|pla%[m|cez]|
+|ils|se|pla%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|pla%[m|cé]|
+|tu|t'|es|pla%[m|cé]|
+|il|s'|est|pla%[m|cé]|
+|nous|nous|sommes|pla%[m|cés]|
+|vous|vous|êtes|pla%[m|cés]|
+|ils|se|sont|pla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|pla%[m|çais]|
+|tu|te|pla%[m|çais]|
+|il|se|pla%[m|çait]|
+|nous|nous|pla%[m|cions]|
+|vous|vous|pla%[m|ciez]|
+|ils|se|pla%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|pla%[m|cé]|
+|tu|t'|étais|pla%[m|cé]|
+|il|s'|était|pla%[m|cé]|
+|nous|nous|étions|pla%[m|cés]|
+|vous|vous|étiez|pla%[m|cés]|
+|ils|s'|étaient|pla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|pla%[m|çai]|
+|tu|te|pla%[m|ças]|
+|il|se|pla%[m|ça]|
+|nous|nous|pla%[m|çâmes]|
+|vous|vous|pla%[m|çâtes]|
+|ils|se|pla%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|pla%[m|cé]|
+|tu|te|fus|pla%[m|cé]|
+|il|se|fut|pla%[m|cé]|
+|nous|nous|fûmes|pla%[m|cés]|
+|vous|vous|fûtes|pla%[m|cés]|
+|ils|se|furent|pla%[m|cés]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|pla%[m|cerai]|
+|tu|te|pla%[m|ceras]|
+|il|se|pla%[m|cera]|
+|nous|nous|pla%[m|cerons]|
+|vous|vous|pla%[m|cerez]|
+|ils|se|pla%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|pla%[m|cé]|
+|tu|te|seras|pla%[m|cé]|
+|il|se|sera|pla%[m|cé]|
+|nous|nous|serons|pla%[m|cés]|
+|vous|vous|serez|pla%[m|cés]|
+|ils|se|seront|pla%[m|cés]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|pla%[m|cerais]|
+|tu|te|pla%[m|cerais]|
+|il|se|pla%[m|cerait]|
+|nous|nous|pla%[m|cerions]|
+|vous|vous|pla%[m|ceriez]|
+|ils|se|pla%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|pla%[m|cé]|
+|tu|te|serais|pla%[m|cé]|
+|il|se|serait|pla%[m|cé]|
+|nous|nous|serions|pla%[m|cés]|
+|vous|vous|seriez|pla%[m|cés]|
+|ils|se|seraient|pla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|pla%[m|ce]|
+|que|tu|te|pla%[m|ces]|
+|qu'|il|se|pla%[m|ce]|
+|que|nous|nous|pla%[m|cions]|
+|que|vous|vous|pla%[m|ciez]|
+|qu'|ils|se|pla%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|pla%[m|cé]|
+|que|tu|te|sois|pla%[m|cé]|
+|qu'|il|se|soit|pla%[m|cé]|
+|que|nous|nous|soyons|pla%[m|cés]|
+|que|vous|vous|soyez|pla%[m|cés]|
+|qu'|ils|se|soient|pla%[m|cés]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|pla%[m|çasse]|
+|que|tu|te|pla%[m|çasses]|
+|qu'|il|se|pla%[m|çât]|
+|que|nous|nous|pla%[m|çassions]|
+|que|vous|vous|pla%[m|çassiez]|
+|qu'|ils|se|pla%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|pla%[m|cé]|
+|que|tu|te|fusses|pla%[m|cé]|
+|qu'|il|se|fût|pla%[m|cé]|
+|que|nous|nous|fussions|pla%[m|cés]|
+|que|vous|vous|fussiez|pla%[m|cés]|
+|qu'|ils|se|fussent|pla%[m|cés]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pla%[m|ce]-toi|
+|pla%[m|çons]-nous|
+|pla%[m|cez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

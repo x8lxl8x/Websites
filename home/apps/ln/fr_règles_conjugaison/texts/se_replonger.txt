@@ -1,0 +1,190 @@
+# se replonger %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se replong%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|replong%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se replong%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|replong%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se replong%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|replong%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|replong%[m|e]|
+|tu|te|replong%[m|es]|
+|il|se|replong%[m|e]|
+|nous|nous|replong%[m|eons]|
+|vous|vous|replong%[m|ez]|
+|ils|se|replong%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|replong%[m|é]|
+|tu|t'|es|replong%[m|é]|
+|il|s'|est|replong%[m|é]|
+|nous|nous|sommes|replong%[m|és]|
+|vous|vous|êtes|replong%[m|és]|
+|ils|se|sont|replong%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|replong%[m|eais]|
+|tu|te|replong%[m|eais]|
+|il|se|replong%[m|eait]|
+|nous|nous|replong%[m|ions]|
+|vous|vous|replong%[m|iez]|
+|ils|se|replong%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|replong%[m|é]|
+|tu|t'|étais|replong%[m|é]|
+|il|s'|était|replong%[m|é]|
+|nous|nous|étions|replong%[m|és]|
+|vous|vous|étiez|replong%[m|és]|
+|ils|s'|étaient|replong%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|replong%[m|eai]|
+|tu|te|replong%[m|eas]|
+|il|se|replong%[m|ea]|
+|nous|nous|replong%[m|eâmes]|
+|vous|vous|replong%[m|eâtes]|
+|ils|se|replong%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|replong%[m|é]|
+|tu|te|fus|replong%[m|é]|
+|il|se|fut|replong%[m|é]|
+|nous|nous|fûmes|replong%[m|és]|
+|vous|vous|fûtes|replong%[m|és]|
+|ils|se|furent|replong%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|replong%[m|erai]|
+|tu|te|replong%[m|eras]|
+|il|se|replong%[m|era]|
+|nous|nous|replong%[m|erons]|
+|vous|vous|replong%[m|erez]|
+|ils|se|replong%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|replong%[m|é]|
+|tu|te|seras|replong%[m|é]|
+|il|se|sera|replong%[m|é]|
+|nous|nous|serons|replong%[m|és]|
+|vous|vous|serez|replong%[m|és]|
+|ils|se|seront|replong%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|replong%[m|erais]|
+|tu|te|replong%[m|erais]|
+|il|se|replong%[m|erait]|
+|nous|nous|replong%[m|erions]|
+|vous|vous|replong%[m|eriez]|
+|ils|se|replong%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|replong%[m|é]|
+|tu|te|serais|replong%[m|é]|
+|il|se|serait|replong%[m|é]|
+|nous|nous|serions|replong%[m|és]|
+|vous|vous|seriez|replong%[m|és]|
+|ils|se|seraient|replong%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|replong%[m|e]|
+|que|tu|te|replong%[m|es]|
+|qu'|il|se|replong%[m|e]|
+|que|nous|nous|replong%[m|ions]|
+|que|vous|vous|replong%[m|iez]|
+|qu'|ils|se|replong%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|replong%[m|é]|
+|que|tu|te|sois|replong%[m|é]|
+|qu'|il|se|soit|replong%[m|é]|
+|que|nous|nous|soyons|replong%[m|és]|
+|que|vous|vous|soyez|replong%[m|és]|
+|qu'|ils|se|soient|replong%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|replong%[m|easse]|
+|que|tu|te|replong%[m|easses]|
+|qu'|il|se|replong%[m|eât]|
+|que|nous|nous|replong%[m|eassions]|
+|que|vous|vous|replong%[m|eassiez]|
+|qu'|ils|se|replong%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|replong%[m|é]|
+|que|tu|te|fusses|replong%[m|é]|
+|qu'|il|se|fût|replong%[m|é]|
+|que|nous|nous|fussions|replong%[m|és]|
+|que|vous|vous|fussiez|replong%[m|és]|
+|qu'|ils|se|fussent|replong%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|replong%[m|e]-toi|
+|replong%[m|eons]-nous|
+|replong%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

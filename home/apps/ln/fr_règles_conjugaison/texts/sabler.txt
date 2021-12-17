@@ -1,0 +1,190 @@
+# sabler %[clVerbGroup|1]
+[-
+couvrir de sable. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sabl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sabl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sabl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sabl%[m|é]|
+|ayant|sabl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sabl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sabl%[m|e]|
+|tu|sabl%[m|es]|
+|il|sabl%[m|e]|
+|nous|sabl%[m|ons]|
+|vous|sabl%[m|ez]|
+|ils|sabl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sabl%[m|é]|
+|tu|as |sabl%[m|é]|
+|il|a|sabl%[m|é]|
+|nous|avons|sabl%[m|é]|
+|vous|avez|sabl%[m|é]|
+|ils|ont|sabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sabl%[m|ais]|
+|tu|sabl%[m|ais]|
+|il|sabl%[m|ait]|
+|nous|sabl%[m|ions]|
+|vous|sabl%[m|iez]|
+|ils|sabl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sabl%[m|é]|
+|tu|avais|sabl%[m|é]|
+|il|avait|sabl%[m|é]|
+|nous|avions|sabl%[m|é]|
+|vous|aviez|sabl%[m|é]|
+|ils|avaient|sabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sabl%[m|ai]|
+|tu|sabl%[m|as]|
+|il|sabl%[m|a]|
+|nous|sabl%[m|âmes]|
+|vous|sabl%[m|âtes]|
+|ils|sabl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sabl%[m|é]|
+|tu|eus|sabl%[m|é]|
+|il|eut|sabl%[m|é]|
+|nous|e&ucirc;mes|sabl%[m|é]|
+|vous|e&ucirc;tes|sabl%[m|é]|
+|ils|eurent|sabl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sabl%[m|erai]|
+|tu|sabl%[m|eras]|
+|il|sabl%[m|era]|
+|nous|sabl%[m|erons]|
+|vous|sabl%[m|erez]|
+|ils|sabl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sabl%[m|é]|
+|tu|auras|sabl%[m|é]|
+|il|aura|sabl%[m|é]|
+|nous|aurons|sabl%[m|é]|
+|vous|aurez|sabl%[m|é]|
+|ils|auront|sabl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sabl%[m|erais]|
+|tu|sabl%[m|erais]|
+|il|sabl%[m|erait]|
+|nous|sabl%[m|erions]|
+|vous|sabl%[m|eriez]|
+|ils|sabl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sabl%[m|é]|
+|tu|aurais|sabl%[m|é]|
+|il|aurait|sabl%[m|é]|
+|nous|aurions|sabl%[m|é]|
+|vous|auriez|sabl%[m|é]|
+|ils|auraient|sabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sabl%[m|e]|
+|que|tu|sabl%[m|es]|
+|qu'|il|sabl%[m|e]|
+|que|nous|sabl%[m|ions]|
+|que|vous|sabl%[m|iez]|
+|qu'|ils|sabl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sabl%[m|é]|
+|que|tu|aies|sabl%[m|é]|
+|qu'|il|ait|sabl%[m|é]|
+|que|nous|ayons|sabl%[m|é]|
+|que|vous|ayez|sabl%[m|é]|
+|qu'|ils|aient|sabl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sabl%[m|asse]|
+|que|tu|sabl%[m|asses]|
+|qu'|il|sabl%[m|ât]|
+|que|nous|sabl%[m|assions]|
+|que|vous|sabl%[m|assiez]|
+|qu'|ils|sabl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sabl%[m|é]|
+|que|tu|eusses|sabl%[m|é]|
+|qu'|il|eût|sabl%[m|é]|
+|que|nous|eussions|sabl%[m|é]|
+|que|vous|eussiez|sabl%[m|é]|
+|qu'|ils|eussent|sabl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sabl%[m|e]|
+|sabl%[m|ons]|
+|sabl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sabl%[m|é]|
+|ayons|sabl%[m|é]|
+|ayez|sabl%[m|é]|
+|]
+

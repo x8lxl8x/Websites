@@ -1,0 +1,190 @@
+# dégainer %[clVerbGroup|1]
+[-
+tirer une arme de sa gaine. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dégain%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dégain%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dégain%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dégain%[m|é]|
+|ayant|dégain%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dégain%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dégain%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dégain%[m|e]|
+|tu|dégain%[m|es]|
+|il|dégain%[m|e]|
+|nous|dégain%[m|ons]|
+|vous|dégain%[m|ez]|
+|ils|dégain%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dégain%[m|é]|
+|tu|as |dégain%[m|é]|
+|il|a|dégain%[m|é]|
+|nous|avons|dégain%[m|é]|
+|vous|avez|dégain%[m|é]|
+|ils|ont|dégain%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dégain%[m|ais]|
+|tu|dégain%[m|ais]|
+|il|dégain%[m|ait]|
+|nous|dégain%[m|ions]|
+|vous|dégain%[m|iez]|
+|ils|dégain%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dégain%[m|é]|
+|tu|avais|dégain%[m|é]|
+|il|avait|dégain%[m|é]|
+|nous|avions|dégain%[m|é]|
+|vous|aviez|dégain%[m|é]|
+|ils|avaient|dégain%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dégain%[m|ai]|
+|tu|dégain%[m|as]|
+|il|dégain%[m|a]|
+|nous|dégain%[m|âmes]|
+|vous|dégain%[m|âtes]|
+|ils|dégain%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dégain%[m|é]|
+|tu|eus|dégain%[m|é]|
+|il|eut|dégain%[m|é]|
+|nous|e&ucirc;mes|dégain%[m|é]|
+|vous|e&ucirc;tes|dégain%[m|é]|
+|ils|eurent|dégain%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dégain%[m|erai]|
+|tu|dégain%[m|eras]|
+|il|dégain%[m|era]|
+|nous|dégain%[m|erons]|
+|vous|dégain%[m|erez]|
+|ils|dégain%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dégain%[m|é]|
+|tu|auras|dégain%[m|é]|
+|il|aura|dégain%[m|é]|
+|nous|aurons|dégain%[m|é]|
+|vous|aurez|dégain%[m|é]|
+|ils|auront|dégain%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dégain%[m|erais]|
+|tu|dégain%[m|erais]|
+|il|dégain%[m|erait]|
+|nous|dégain%[m|erions]|
+|vous|dégain%[m|eriez]|
+|ils|dégain%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dégain%[m|é]|
+|tu|aurais|dégain%[m|é]|
+|il|aurait|dégain%[m|é]|
+|nous|aurions|dégain%[m|é]|
+|vous|auriez|dégain%[m|é]|
+|ils|auraient|dégain%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dégain%[m|e]|
+|que|tu|dégain%[m|es]|
+|qu'|il|dégain%[m|e]|
+|que|nous|dégain%[m|ions]|
+|que|vous|dégain%[m|iez]|
+|qu'|ils|dégain%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dégain%[m|é]|
+|que|tu|aies|dégain%[m|é]|
+|qu'|il|ait|dégain%[m|é]|
+|que|nous|ayons|dégain%[m|é]|
+|que|vous|ayez|dégain%[m|é]|
+|qu'|ils|aient|dégain%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dégain%[m|asse]|
+|que|tu|dégain%[m|asses]|
+|qu'|il|dégain%[m|ât]|
+|que|nous|dégain%[m|assions]|
+|que|vous|dégain%[m|assiez]|
+|qu'|ils|dégain%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dégain%[m|é]|
+|que|tu|eusses|dégain%[m|é]|
+|qu'|il|eût|dégain%[m|é]|
+|que|nous|eussions|dégain%[m|é]|
+|que|vous|eussiez|dégain%[m|é]|
+|qu'|ils|eussent|dégain%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dégain%[m|e]|
+|dégain%[m|ons]|
+|dégain%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dégain%[m|é]|
+|ayons|dégain%[m|é]|
+|ayez|dégain%[m|é]|
+|]
+

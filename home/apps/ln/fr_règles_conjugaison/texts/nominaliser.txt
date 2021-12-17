@@ -1,0 +1,190 @@
+# nominaliser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|nominalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|nominalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||nominalis%[m|é]|
+|ayant|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en nominalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|nominalis%[m|e]|
+|tu|nominalis%[m|es]|
+|il|nominalis%[m|e]|
+|nous|nominalis%[m|ons]|
+|vous|nominalis%[m|ez]|
+|ils|nominalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|nominalis%[m|é]|
+|tu|as |nominalis%[m|é]|
+|il|a|nominalis%[m|é]|
+|nous|avons|nominalis%[m|é]|
+|vous|avez|nominalis%[m|é]|
+|ils|ont|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|nominalis%[m|ais]|
+|tu|nominalis%[m|ais]|
+|il|nominalis%[m|ait]|
+|nous|nominalis%[m|ions]|
+|vous|nominalis%[m|iez]|
+|ils|nominalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|nominalis%[m|é]|
+|tu|avais|nominalis%[m|é]|
+|il|avait|nominalis%[m|é]|
+|nous|avions|nominalis%[m|é]|
+|vous|aviez|nominalis%[m|é]|
+|ils|avaient|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|nominalis%[m|ai]|
+|tu|nominalis%[m|as]|
+|il|nominalis%[m|a]|
+|nous|nominalis%[m|âmes]|
+|vous|nominalis%[m|âtes]|
+|ils|nominalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|nominalis%[m|é]|
+|tu|eus|nominalis%[m|é]|
+|il|eut|nominalis%[m|é]|
+|nous|e&ucirc;mes|nominalis%[m|é]|
+|vous|e&ucirc;tes|nominalis%[m|é]|
+|ils|eurent|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|nominalis%[m|erai]|
+|tu|nominalis%[m|eras]|
+|il|nominalis%[m|era]|
+|nous|nominalis%[m|erons]|
+|vous|nominalis%[m|erez]|
+|ils|nominalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|nominalis%[m|é]|
+|tu|auras|nominalis%[m|é]|
+|il|aura|nominalis%[m|é]|
+|nous|aurons|nominalis%[m|é]|
+|vous|aurez|nominalis%[m|é]|
+|ils|auront|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|nominalis%[m|erais]|
+|tu|nominalis%[m|erais]|
+|il|nominalis%[m|erait]|
+|nous|nominalis%[m|erions]|
+|vous|nominalis%[m|eriez]|
+|ils|nominalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|nominalis%[m|é]|
+|tu|aurais|nominalis%[m|é]|
+|il|aurait|nominalis%[m|é]|
+|nous|aurions|nominalis%[m|é]|
+|vous|auriez|nominalis%[m|é]|
+|ils|auraient|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|nominalis%[m|e]|
+|que|tu|nominalis%[m|es]|
+|qu'|il|nominalis%[m|e]|
+|que|nous|nominalis%[m|ions]|
+|que|vous|nominalis%[m|iez]|
+|qu'|ils|nominalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|nominalis%[m|é]|
+|que|tu|aies|nominalis%[m|é]|
+|qu'|il|ait|nominalis%[m|é]|
+|que|nous|ayons|nominalis%[m|é]|
+|que|vous|ayez|nominalis%[m|é]|
+|qu'|ils|aient|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|nominalis%[m|asse]|
+|que|tu|nominalis%[m|asses]|
+|qu'|il|nominalis%[m|ât]|
+|que|nous|nominalis%[m|assions]|
+|que|vous|nominalis%[m|assiez]|
+|qu'|ils|nominalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|nominalis%[m|é]|
+|que|tu|eusses|nominalis%[m|é]|
+|qu'|il|eût|nominalis%[m|é]|
+|que|nous|eussions|nominalis%[m|é]|
+|que|vous|eussiez|nominalis%[m|é]|
+|qu'|ils|eussent|nominalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|nominalis%[m|e]|
+|nominalis%[m|ons]|
+|nominalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|nominalis%[m|é]|
+|ayons|nominalis%[m|é]|
+|ayez|nominalis%[m|é]|
+|]
+

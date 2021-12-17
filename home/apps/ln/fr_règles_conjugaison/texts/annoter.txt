@@ -1,0 +1,190 @@
+# annoter %[clVerbGroup|1]
+[-
+apposer des notes sur un texte. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|annot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|annot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|annot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||annot%[m|é]|
+|ayant|annot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en annot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|annot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|annot%[m|e]|
+|tu|annot%[m|es]|
+|il|annot%[m|e]|
+|nous|annot%[m|ons]|
+|vous|annot%[m|ez]|
+|ils|annot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|annot%[m|é]|
+|tu|as |annot%[m|é]|
+|il|a|annot%[m|é]|
+|nous|avons|annot%[m|é]|
+|vous|avez|annot%[m|é]|
+|ils|ont|annot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|annot%[m|ais]|
+|tu|annot%[m|ais]|
+|il|annot%[m|ait]|
+|nous|annot%[m|ions]|
+|vous|annot%[m|iez]|
+|ils|annot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|annot%[m|é]|
+|tu|avais|annot%[m|é]|
+|il|avait|annot%[m|é]|
+|nous|avions|annot%[m|é]|
+|vous|aviez|annot%[m|é]|
+|ils|avaient|annot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|annot%[m|ai]|
+|tu|annot%[m|as]|
+|il|annot%[m|a]|
+|nous|annot%[m|âmes]|
+|vous|annot%[m|âtes]|
+|ils|annot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|annot%[m|é]|
+|tu|eus|annot%[m|é]|
+|il|eut|annot%[m|é]|
+|nous|e&ucirc;mes|annot%[m|é]|
+|vous|e&ucirc;tes|annot%[m|é]|
+|ils|eurent|annot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|annot%[m|erai]|
+|tu|annot%[m|eras]|
+|il|annot%[m|era]|
+|nous|annot%[m|erons]|
+|vous|annot%[m|erez]|
+|ils|annot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|annot%[m|é]|
+|tu|auras|annot%[m|é]|
+|il|aura|annot%[m|é]|
+|nous|aurons|annot%[m|é]|
+|vous|aurez|annot%[m|é]|
+|ils|auront|annot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|annot%[m|erais]|
+|tu|annot%[m|erais]|
+|il|annot%[m|erait]|
+|nous|annot%[m|erions]|
+|vous|annot%[m|eriez]|
+|ils|annot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|annot%[m|é]|
+|tu|aurais|annot%[m|é]|
+|il|aurait|annot%[m|é]|
+|nous|aurions|annot%[m|é]|
+|vous|auriez|annot%[m|é]|
+|ils|auraient|annot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|annot%[m|e]|
+|que|tu|annot%[m|es]|
+|qu'|il|annot%[m|e]|
+|que|nous|annot%[m|ions]|
+|que|vous|annot%[m|iez]|
+|qu'|ils|annot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|annot%[m|é]|
+|que|tu|aies|annot%[m|é]|
+|qu'|il|ait|annot%[m|é]|
+|que|nous|ayons|annot%[m|é]|
+|que|vous|ayez|annot%[m|é]|
+|qu'|ils|aient|annot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|annot%[m|asse]|
+|que|tu|annot%[m|asses]|
+|qu'|il|annot%[m|ât]|
+|que|nous|annot%[m|assions]|
+|que|vous|annot%[m|assiez]|
+|qu'|ils|annot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|annot%[m|é]|
+|que|tu|eusses|annot%[m|é]|
+|qu'|il|eût|annot%[m|é]|
+|que|nous|eussions|annot%[m|é]|
+|que|vous|eussiez|annot%[m|é]|
+|qu'|ils|eussent|annot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|annot%[m|e]|
+|annot%[m|ons]|
+|annot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|annot%[m|é]|
+|ayons|annot%[m|é]|
+|ayez|annot%[m|é]|
+|]
+

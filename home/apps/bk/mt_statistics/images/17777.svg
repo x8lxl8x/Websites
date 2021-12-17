@@ -1,0 +1,110 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="410" height="300" viewBox="0 0 410 300" id="svg2">
+  <desc id="desc6">Sample Scientific Graph (speed vs time)</desc>
+  <metadata id="metadata193"></metadata>
+  <style id="style4"></style>
+  <defs id="defs8">
+    <line id="hgrid" x1="0" y1="0" x2="70" y2="0" stroke-width="0.1" style="stroke-width:0.1"></line>
+    <line id="vgrid" x1="0" y1="0" x2="0" y2="50" stroke-width="0.1" style="stroke-width:0.1"></line>
+    <circle cx="0" cy="0" r="0.75" id="point" style="stroke-width:0.2"></circle>
+  </defs>
+  <g transform="translate(50,0)" id="g13">
+    <g transform="matrix(5,0,0,-5,0,250)" id="g15">
+      <g id="g17" style="stroke:#cccccc">
+        <use id="use19" x="0" y="2" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use21" x="0" y="4" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use23" x="0" y="6" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use25" x="0" y="8" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use27" x="0" y="12" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use29" x="0" y="14" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use31" x="0" y="16" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use33" x="0" y="18" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use35" x="0" y="22" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use37" x="0" y="24" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use39" x="0" y="26" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use41" x="0" y="28" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use43" x="0" y="32" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use45" x="0" y="34" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use47" x="0" y="36" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use49" x="0" y="38" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use51" x="0" y="42" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use53" x="0" y="44" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use55" x="0" y="46" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use57" x="0" y="48" width="1" height="1" xlink:href="#hgrid"></use>
+      </g>
+      <g id="g59" style="stroke:#cccccc">
+        <use id="use61" x="2" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use63" x="4" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use65" x="6" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use67" x="8" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use69" x="12" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use71" x="14" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use73" x="16" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use75" x="18" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use77" x="22" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use79" x="24" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use81" x="26" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use83" x="28" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use85" x="32" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use87" x="34" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use89" x="36" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use91" x="38" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use93" x="42" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use95" x="44" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use97" x="46" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use99" x="48" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use101" x="52" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use103" x="54" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use105" x="56" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use107" x="58" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use109" x="62" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use111" x="64" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use113" x="66" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use115" x="68" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+      </g>
+      <g id="g117" style="stroke:#777777">
+        <use id="use119" x="0" y="0" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use121" x="0" y="10" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use123" x="0" y="20" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use125" x="0" y="30" width="1" height="1" xlink:href="#hgrid"></use>
+        <use id="use127" x="0" y="40" width="1" height="1" xlink:href="#hgrid"></use>
+      </g>
+      <g id="g129" style="stroke:#777777">
+        <use id="use131" x="0" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use133" x="10" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use135" x="20" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use137" x="30" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use139" x="40" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use141" x="50" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+        <use id="use143" x="60" y="0" width="1" height="1" xlink:href="#vgrid"></use>
+      </g>
+      <path d="m 0,0 10,3 10,4 10,5 10,6 10,12 10,15" id="path145" style="fill:none;stroke:#0000ff;stroke-width:0.2"></path>
+      <g id="g147" style="fill:#ffffff;stroke:#0000ff">
+        <use id="use149" x="0" y="0" width="1" height="1" xlink:href="#point"></use>
+        <use id="use151" x="10" y="3" width="1" height="1" xlink:href="#point"></use>
+        <use id="use153" x="20" y="7" width="1" height="1" xlink:href="#point"></use>
+        <use id="use155" x="30" y="12" width="1" height="1" xlink:href="#point"></use>
+        <use id="use157" x="40" y="18" width="1" height="1" xlink:href="#point"></use>
+        <use id="use159" x="50" y="30" width="1" height="1" xlink:href="#point"></use>
+        <use id="use161" x="60" y="45" width="1" height="1" xlink:href="#point"></use>
+      </g>
+    </g>
+    <g transform="translate(-5,0)" id="speed_numbers" style="text-anchor:end">
+      <text x="0" y="55" id="text164" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">40</text>
+      <text x="0" y="105" id="text166" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">30</text>
+      <text x="0" y="155" id="text168" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">20</text>
+      <text x="0" y="205" id="text170" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">10</text>
+      <text x="0" y="265" id="text172" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">0</text>
+      <text x="-128" y="-30" transform="matrix(0,-1,1,0,0,0)" id="text174" style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">Speed (m/s)</text>
+    </g>
+    <g transform="translate(0,10)" id="time_numbers" style="text-anchor:middle">
+      <text x="50" y="260" id="text177" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">1.0</text>
+      <text x="100" y="260" id="text179" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">2.0</text>
+      <text x="150" y="260" id="text181" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">3.0</text>
+      <text x="200" y="260" id="text183" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">4.0</text>
+      <text x="250" y="260" id="text185" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">5.0</text>
+      <text x="300" y="260" id="text187" style="font-size:11px;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">6.0</text>
+      <text x="175" y="285" id="text189" style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">Time (s)</text>
+    </g>
+  </g>
+</svg>

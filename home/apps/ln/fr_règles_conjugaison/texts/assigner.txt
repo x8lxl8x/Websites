@@ -1,0 +1,191 @@
+# assigner %[clVerbGroup|1]
+[-
+attribuer. 
+appeler quelqu'un à comparaître en justice. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|assign%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|assign%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|assign%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||assign%[m|é]|
+|ayant|assign%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en assign%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|assign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|assign%[m|e]|
+|tu|assign%[m|es]|
+|il|assign%[m|e]|
+|nous|assign%[m|ons]|
+|vous|assign%[m|ez]|
+|ils|assign%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|assign%[m|é]|
+|tu|as |assign%[m|é]|
+|il|a|assign%[m|é]|
+|nous|avons|assign%[m|é]|
+|vous|avez|assign%[m|é]|
+|ils|ont|assign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|assign%[m|ais]|
+|tu|assign%[m|ais]|
+|il|assign%[m|ait]|
+|nous|assign%[m|ions]|
+|vous|assign%[m|iez]|
+|ils|assign%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|assign%[m|é]|
+|tu|avais|assign%[m|é]|
+|il|avait|assign%[m|é]|
+|nous|avions|assign%[m|é]|
+|vous|aviez|assign%[m|é]|
+|ils|avaient|assign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|assign%[m|ai]|
+|tu|assign%[m|as]|
+|il|assign%[m|a]|
+|nous|assign%[m|âmes]|
+|vous|assign%[m|âtes]|
+|ils|assign%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|assign%[m|é]|
+|tu|eus|assign%[m|é]|
+|il|eut|assign%[m|é]|
+|nous|e&ucirc;mes|assign%[m|é]|
+|vous|e&ucirc;tes|assign%[m|é]|
+|ils|eurent|assign%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|assign%[m|erai]|
+|tu|assign%[m|eras]|
+|il|assign%[m|era]|
+|nous|assign%[m|erons]|
+|vous|assign%[m|erez]|
+|ils|assign%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|assign%[m|é]|
+|tu|auras|assign%[m|é]|
+|il|aura|assign%[m|é]|
+|nous|aurons|assign%[m|é]|
+|vous|aurez|assign%[m|é]|
+|ils|auront|assign%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|assign%[m|erais]|
+|tu|assign%[m|erais]|
+|il|assign%[m|erait]|
+|nous|assign%[m|erions]|
+|vous|assign%[m|eriez]|
+|ils|assign%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|assign%[m|é]|
+|tu|aurais|assign%[m|é]|
+|il|aurait|assign%[m|é]|
+|nous|aurions|assign%[m|é]|
+|vous|auriez|assign%[m|é]|
+|ils|auraient|assign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|assign%[m|e]|
+|que|tu|assign%[m|es]|
+|qu'|il|assign%[m|e]|
+|que|nous|assign%[m|ions]|
+|que|vous|assign%[m|iez]|
+|qu'|ils|assign%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|assign%[m|é]|
+|que|tu|aies|assign%[m|é]|
+|qu'|il|ait|assign%[m|é]|
+|que|nous|ayons|assign%[m|é]|
+|que|vous|ayez|assign%[m|é]|
+|qu'|ils|aient|assign%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|assign%[m|asse]|
+|que|tu|assign%[m|asses]|
+|qu'|il|assign%[m|ât]|
+|que|nous|assign%[m|assions]|
+|que|vous|assign%[m|assiez]|
+|qu'|ils|assign%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|assign%[m|é]|
+|que|tu|eusses|assign%[m|é]|
+|qu'|il|eût|assign%[m|é]|
+|que|nous|eussions|assign%[m|é]|
+|que|vous|eussiez|assign%[m|é]|
+|qu'|ils|eussent|assign%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|assign%[m|e]|
+|assign%[m|ons]|
+|assign%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|assign%[m|é]|
+|ayons|assign%[m|é]|
+|ayez|assign%[m|é]|
+|]
+

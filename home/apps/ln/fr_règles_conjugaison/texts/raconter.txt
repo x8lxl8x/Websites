@@ -1,0 +1,191 @@
+# raconter %[clVerbGroup|1]
+[-
+raconter, exposer des faits. 
+faire le récit de. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|racont%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|racont%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|racont%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||racont%[m|é]|
+|ayant|racont%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en racont%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|racont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|racont%[m|e]|
+|tu|racont%[m|es]|
+|il|racont%[m|e]|
+|nous|racont%[m|ons]|
+|vous|racont%[m|ez]|
+|ils|racont%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|racont%[m|é]|
+|tu|as |racont%[m|é]|
+|il|a|racont%[m|é]|
+|nous|avons|racont%[m|é]|
+|vous|avez|racont%[m|é]|
+|ils|ont|racont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|racont%[m|ais]|
+|tu|racont%[m|ais]|
+|il|racont%[m|ait]|
+|nous|racont%[m|ions]|
+|vous|racont%[m|iez]|
+|ils|racont%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|racont%[m|é]|
+|tu|avais|racont%[m|é]|
+|il|avait|racont%[m|é]|
+|nous|avions|racont%[m|é]|
+|vous|aviez|racont%[m|é]|
+|ils|avaient|racont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|racont%[m|ai]|
+|tu|racont%[m|as]|
+|il|racont%[m|a]|
+|nous|racont%[m|âmes]|
+|vous|racont%[m|âtes]|
+|ils|racont%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|racont%[m|é]|
+|tu|eus|racont%[m|é]|
+|il|eut|racont%[m|é]|
+|nous|e&ucirc;mes|racont%[m|é]|
+|vous|e&ucirc;tes|racont%[m|é]|
+|ils|eurent|racont%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|racont%[m|erai]|
+|tu|racont%[m|eras]|
+|il|racont%[m|era]|
+|nous|racont%[m|erons]|
+|vous|racont%[m|erez]|
+|ils|racont%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|racont%[m|é]|
+|tu|auras|racont%[m|é]|
+|il|aura|racont%[m|é]|
+|nous|aurons|racont%[m|é]|
+|vous|aurez|racont%[m|é]|
+|ils|auront|racont%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|racont%[m|erais]|
+|tu|racont%[m|erais]|
+|il|racont%[m|erait]|
+|nous|racont%[m|erions]|
+|vous|racont%[m|eriez]|
+|ils|racont%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|racont%[m|é]|
+|tu|aurais|racont%[m|é]|
+|il|aurait|racont%[m|é]|
+|nous|aurions|racont%[m|é]|
+|vous|auriez|racont%[m|é]|
+|ils|auraient|racont%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|racont%[m|e]|
+|que|tu|racont%[m|es]|
+|qu'|il|racont%[m|e]|
+|que|nous|racont%[m|ions]|
+|que|vous|racont%[m|iez]|
+|qu'|ils|racont%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|racont%[m|é]|
+|que|tu|aies|racont%[m|é]|
+|qu'|il|ait|racont%[m|é]|
+|que|nous|ayons|racont%[m|é]|
+|que|vous|ayez|racont%[m|é]|
+|qu'|ils|aient|racont%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|racont%[m|asse]|
+|que|tu|racont%[m|asses]|
+|qu'|il|racont%[m|ât]|
+|que|nous|racont%[m|assions]|
+|que|vous|racont%[m|assiez]|
+|qu'|ils|racont%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|racont%[m|é]|
+|que|tu|eusses|racont%[m|é]|
+|qu'|il|eût|racont%[m|é]|
+|que|nous|eussions|racont%[m|é]|
+|que|vous|eussiez|racont%[m|é]|
+|qu'|ils|eussent|racont%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|racont%[m|e]|
+|racont%[m|ons]|
+|racont%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|racont%[m|é]|
+|ayons|racont%[m|é]|
+|ayez|racont%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# grisoler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|grisol%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|grisol%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|grisol%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||grisol%[m|é]|
+|ayant|grisol%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en grisol%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|grisol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|grisol%[m|e]|
+|tu|grisol%[m|es]|
+|il|grisol%[m|e]|
+|nous|grisol%[m|ons]|
+|vous|grisol%[m|ez]|
+|ils|grisol%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|grisol%[m|é]|
+|tu|as |grisol%[m|é]|
+|il|a|grisol%[m|é]|
+|nous|avons|grisol%[m|é]|
+|vous|avez|grisol%[m|é]|
+|ils|ont|grisol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|grisol%[m|ais]|
+|tu|grisol%[m|ais]|
+|il|grisol%[m|ait]|
+|nous|grisol%[m|ions]|
+|vous|grisol%[m|iez]|
+|ils|grisol%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|grisol%[m|é]|
+|tu|avais|grisol%[m|é]|
+|il|avait|grisol%[m|é]|
+|nous|avions|grisol%[m|é]|
+|vous|aviez|grisol%[m|é]|
+|ils|avaient|grisol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|grisol%[m|ai]|
+|tu|grisol%[m|as]|
+|il|grisol%[m|a]|
+|nous|grisol%[m|âmes]|
+|vous|grisol%[m|âtes]|
+|ils|grisol%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|grisol%[m|é]|
+|tu|eus|grisol%[m|é]|
+|il|eut|grisol%[m|é]|
+|nous|e&ucirc;mes|grisol%[m|é]|
+|vous|e&ucirc;tes|grisol%[m|é]|
+|ils|eurent|grisol%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|grisol%[m|erai]|
+|tu|grisol%[m|eras]|
+|il|grisol%[m|era]|
+|nous|grisol%[m|erons]|
+|vous|grisol%[m|erez]|
+|ils|grisol%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|grisol%[m|é]|
+|tu|auras|grisol%[m|é]|
+|il|aura|grisol%[m|é]|
+|nous|aurons|grisol%[m|é]|
+|vous|aurez|grisol%[m|é]|
+|ils|auront|grisol%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|grisol%[m|erais]|
+|tu|grisol%[m|erais]|
+|il|grisol%[m|erait]|
+|nous|grisol%[m|erions]|
+|vous|grisol%[m|eriez]|
+|ils|grisol%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|grisol%[m|é]|
+|tu|aurais|grisol%[m|é]|
+|il|aurait|grisol%[m|é]|
+|nous|aurions|grisol%[m|é]|
+|vous|auriez|grisol%[m|é]|
+|ils|auraient|grisol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|grisol%[m|e]|
+|que|tu|grisol%[m|es]|
+|qu'|il|grisol%[m|e]|
+|que|nous|grisol%[m|ions]|
+|que|vous|grisol%[m|iez]|
+|qu'|ils|grisol%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|grisol%[m|é]|
+|que|tu|aies|grisol%[m|é]|
+|qu'|il|ait|grisol%[m|é]|
+|que|nous|ayons|grisol%[m|é]|
+|que|vous|ayez|grisol%[m|é]|
+|qu'|ils|aient|grisol%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|grisol%[m|asse]|
+|que|tu|grisol%[m|asses]|
+|qu'|il|grisol%[m|ât]|
+|que|nous|grisol%[m|assions]|
+|que|vous|grisol%[m|assiez]|
+|qu'|ils|grisol%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|grisol%[m|é]|
+|que|tu|eusses|grisol%[m|é]|
+|qu'|il|eût|grisol%[m|é]|
+|que|nous|eussions|grisol%[m|é]|
+|que|vous|eussiez|grisol%[m|é]|
+|qu'|ils|eussent|grisol%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grisol%[m|e]|
+|grisol%[m|ons]|
+|grisol%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|grisol%[m|é]|
+|ayons|grisol%[m|é]|
+|ayez|grisol%[m|é]|
+|]
+

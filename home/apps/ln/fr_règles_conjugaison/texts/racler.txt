@@ -1,0 +1,190 @@
+# racler %[clVerbGroup|1]
+[-
+frotter une surface avec quelque chose de dur pour retirer ce qui y adhère. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|racl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|racl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|racl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||racl%[m|é]|
+|ayant|racl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en racl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|racl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|racl%[m|e]|
+|tu|racl%[m|es]|
+|il|racl%[m|e]|
+|nous|racl%[m|ons]|
+|vous|racl%[m|ez]|
+|ils|racl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|racl%[m|é]|
+|tu|as |racl%[m|é]|
+|il|a|racl%[m|é]|
+|nous|avons|racl%[m|é]|
+|vous|avez|racl%[m|é]|
+|ils|ont|racl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|racl%[m|ais]|
+|tu|racl%[m|ais]|
+|il|racl%[m|ait]|
+|nous|racl%[m|ions]|
+|vous|racl%[m|iez]|
+|ils|racl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|racl%[m|é]|
+|tu|avais|racl%[m|é]|
+|il|avait|racl%[m|é]|
+|nous|avions|racl%[m|é]|
+|vous|aviez|racl%[m|é]|
+|ils|avaient|racl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|racl%[m|ai]|
+|tu|racl%[m|as]|
+|il|racl%[m|a]|
+|nous|racl%[m|âmes]|
+|vous|racl%[m|âtes]|
+|ils|racl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|racl%[m|é]|
+|tu|eus|racl%[m|é]|
+|il|eut|racl%[m|é]|
+|nous|e&ucirc;mes|racl%[m|é]|
+|vous|e&ucirc;tes|racl%[m|é]|
+|ils|eurent|racl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|racl%[m|erai]|
+|tu|racl%[m|eras]|
+|il|racl%[m|era]|
+|nous|racl%[m|erons]|
+|vous|racl%[m|erez]|
+|ils|racl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|racl%[m|é]|
+|tu|auras|racl%[m|é]|
+|il|aura|racl%[m|é]|
+|nous|aurons|racl%[m|é]|
+|vous|aurez|racl%[m|é]|
+|ils|auront|racl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|racl%[m|erais]|
+|tu|racl%[m|erais]|
+|il|racl%[m|erait]|
+|nous|racl%[m|erions]|
+|vous|racl%[m|eriez]|
+|ils|racl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|racl%[m|é]|
+|tu|aurais|racl%[m|é]|
+|il|aurait|racl%[m|é]|
+|nous|aurions|racl%[m|é]|
+|vous|auriez|racl%[m|é]|
+|ils|auraient|racl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|racl%[m|e]|
+|que|tu|racl%[m|es]|
+|qu'|il|racl%[m|e]|
+|que|nous|racl%[m|ions]|
+|que|vous|racl%[m|iez]|
+|qu'|ils|racl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|racl%[m|é]|
+|que|tu|aies|racl%[m|é]|
+|qu'|il|ait|racl%[m|é]|
+|que|nous|ayons|racl%[m|é]|
+|que|vous|ayez|racl%[m|é]|
+|qu'|ils|aient|racl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|racl%[m|asse]|
+|que|tu|racl%[m|asses]|
+|qu'|il|racl%[m|ât]|
+|que|nous|racl%[m|assions]|
+|que|vous|racl%[m|assiez]|
+|qu'|ils|racl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|racl%[m|é]|
+|que|tu|eusses|racl%[m|é]|
+|qu'|il|eût|racl%[m|é]|
+|que|nous|eussions|racl%[m|é]|
+|que|vous|eussiez|racl%[m|é]|
+|qu'|ils|eussent|racl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|racl%[m|e]|
+|racl%[m|ons]|
+|racl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|racl%[m|é]|
+|ayons|racl%[m|é]|
+|ayez|racl%[m|é]|
+|]
+

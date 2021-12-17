@@ -1,0 +1,190 @@
+# s'abraser %[clVerbGroup|1]
+[-
+user par abrasion. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'abras%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|abras%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'abras%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|abras%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'abras%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|abras%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|abras%[m|e]|
+|tu|t'|abras%[m|es]|
+|il|s'|abras%[m|e]|
+|nous|nous|abras%[m|ons]|
+|vous|vous|abras%[m|ez]|
+|ils|s'|abras%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|abras%[m|é]|
+|tu|t'|es|abras%[m|é]|
+|il|s'|est|abras%[m|é]|
+|nous|nous|sommes|abras%[m|és]|
+|vous|vous|êtes|abras%[m|és]|
+|ils|se|sont|abras%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|abras%[m|ais]|
+|tu|t'|abras%[m|ais]|
+|il|s'|abras%[m|ait]|
+|nous|nous|abras%[m|ions]|
+|vous|vous|abras%[m|iez]|
+|ils|s'|abras%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|abras%[m|é]|
+|tu|t'|étais|abras%[m|é]|
+|il|s'|était|abras%[m|é]|
+|nous|nous|étions|abras%[m|és]|
+|vous|vous|étiez|abras%[m|és]|
+|ils|s'|étaient|abras%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|abras%[m|ai]|
+|tu|t'|abras%[m|as]|
+|il|s'|abras%[m|a]|
+|nous|nous|abras%[m|âmes]|
+|vous|vous|abras%[m|âtes]|
+|ils|s'|abras%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|abras%[m|é]|
+|tu|te|fus|abras%[m|é]|
+|il|se|fut|abras%[m|é]|
+|nous|nous|fûmes|abras%[m|és]|
+|vous|vous|fûtes|abras%[m|és]|
+|ils|se|furent|abras%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|abras%[m|erai]|
+|tu|t'|abras%[m|eras]|
+|il|s'|abras%[m|era]|
+|nous|nous|abras%[m|erons]|
+|vous|vous|abras%[m|erez]|
+|ils|s'|abras%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|abras%[m|é]|
+|tu|te|seras|abras%[m|é]|
+|il|se|sera|abras%[m|é]|
+|nous|nous|serons|abras%[m|és]|
+|vous|vous|serez|abras%[m|és]|
+|ils|se|seront|abras%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|abras%[m|erais]|
+|tu|t'|abras%[m|erais]|
+|il|s'|abras%[m|erait]|
+|nous|nous|abras%[m|erions]|
+|vous|vous|abras%[m|eriez]|
+|ils|s'|abras%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|abras%[m|é]|
+|tu|te|serais|abras%[m|é]|
+|il|se|serait|abras%[m|é]|
+|nous|nous|serions|abras%[m|és]|
+|vous|vous|seriez|abras%[m|és]|
+|ils|se|seraient|abras%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|abras%[m|e]|
+|que|tu|t'|abras%[m|es]|
+|qu'|il|s'|abras%[m|e]|
+|que|nous|nous|abras%[m|ions]|
+|que|vous|vous|abras%[m|iez]|
+|qu'|ils|s'|abras%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|abras%[m|é]|
+|que|tu|te|sois|abras%[m|é]|
+|qu'|il|se|soit|abras%[m|é]|
+|que|nous|nous|soyons|abras%[m|és]|
+|que|vous|vous|soyez|abras%[m|és]|
+|qu'|ils|se|soient|abras%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|abras%[m|asse]|
+|que|tu|t'|abras%[m|asses]|
+|qu'|il|s'|abras%[m|ât]|
+|que|nous|nous|abras%[m|assions]|
+|que|vous|vous|abras%[m|assiez]|
+|qu'|ils|s'|abras%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|abras%[m|é]|
+|que|tu|te|fusses|abras%[m|é]|
+|qu'|il|se|fût|abras%[m|é]|
+|que|nous|nous|fussions|abras%[m|és]|
+|que|vous|vous|fussiez|abras%[m|és]|
+|qu'|ils|se|fussent|abras%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|abras%[m|e]-toi|
+|abras%[m|ons]-nous|
+|abras%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

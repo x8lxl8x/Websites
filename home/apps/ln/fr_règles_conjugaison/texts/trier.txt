@@ -1,0 +1,191 @@
+# trier %[clVerbGroup|1]
+[-
+choisir, sélectionner parmi un grand nombre. 
+regrouper, répartir en ensembles homogènes. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tri%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tri%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tri%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tri%[m|é]|
+|ayant|tri%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tri%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tri%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tri%[m|e]|
+|tu|tri%[m|es]|
+|il|tri%[m|e]|
+|nous|tri%[m|ons]|
+|vous|tri%[m|ez]|
+|ils|tri%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tri%[m|é]|
+|tu|as |tri%[m|é]|
+|il|a|tri%[m|é]|
+|nous|avons|tri%[m|é]|
+|vous|avez|tri%[m|é]|
+|ils|ont|tri%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tri%[m|ais]|
+|tu|tri%[m|ais]|
+|il|tri%[m|ait]|
+|nous|tri%[m|ions]|
+|vous|tri%[m|iez]|
+|ils|tri%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tri%[m|é]|
+|tu|avais|tri%[m|é]|
+|il|avait|tri%[m|é]|
+|nous|avions|tri%[m|é]|
+|vous|aviez|tri%[m|é]|
+|ils|avaient|tri%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tri%[m|ai]|
+|tu|tri%[m|as]|
+|il|tri%[m|a]|
+|nous|tri%[m|âmes]|
+|vous|tri%[m|âtes]|
+|ils|tri%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tri%[m|é]|
+|tu|eus|tri%[m|é]|
+|il|eut|tri%[m|é]|
+|nous|e&ucirc;mes|tri%[m|é]|
+|vous|e&ucirc;tes|tri%[m|é]|
+|ils|eurent|tri%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tri%[m|erai]|
+|tu|tri%[m|eras]|
+|il|tri%[m|era]|
+|nous|tri%[m|erons]|
+|vous|tri%[m|erez]|
+|ils|tri%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tri%[m|é]|
+|tu|auras|tri%[m|é]|
+|il|aura|tri%[m|é]|
+|nous|aurons|tri%[m|é]|
+|vous|aurez|tri%[m|é]|
+|ils|auront|tri%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tri%[m|erais]|
+|tu|tri%[m|erais]|
+|il|tri%[m|erait]|
+|nous|tri%[m|erions]|
+|vous|tri%[m|eriez]|
+|ils|tri%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tri%[m|é]|
+|tu|aurais|tri%[m|é]|
+|il|aurait|tri%[m|é]|
+|nous|aurions|tri%[m|é]|
+|vous|auriez|tri%[m|é]|
+|ils|auraient|tri%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tri%[m|e]|
+|que|tu|tri%[m|es]|
+|qu'|il|tri%[m|e]|
+|que|nous|tri%[m|ions]|
+|que|vous|tri%[m|iez]|
+|qu'|ils|tri%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tri%[m|é]|
+|que|tu|aies|tri%[m|é]|
+|qu'|il|ait|tri%[m|é]|
+|que|nous|ayons|tri%[m|é]|
+|que|vous|ayez|tri%[m|é]|
+|qu'|ils|aient|tri%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tri%[m|asse]|
+|que|tu|tri%[m|asses]|
+|qu'|il|tri%[m|ât]|
+|que|nous|tri%[m|assions]|
+|que|vous|tri%[m|assiez]|
+|qu'|ils|tri%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tri%[m|é]|
+|que|tu|eusses|tri%[m|é]|
+|qu'|il|eût|tri%[m|é]|
+|que|nous|eussions|tri%[m|é]|
+|que|vous|eussiez|tri%[m|é]|
+|qu'|ils|eussent|tri%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tri%[m|e]|
+|tri%[m|ons]|
+|tri%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tri%[m|é]|
+|ayons|tri%[m|é]|
+|ayez|tri%[m|é]|
+|]
+

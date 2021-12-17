@@ -1,0 +1,191 @@
+# résonner %[clVerbGroup|1]
+[-
+renvoyer un son en l'amplifiant, en augmentant sa durée. 
+produire un son accompagné de résonances. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|résonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|résonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|résonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||résonn%[m|é]|
+|ayant|résonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en résonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|résonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|résonn%[m|e]|
+|tu|résonn%[m|es]|
+|il|résonn%[m|e]|
+|nous|résonn%[m|ons]|
+|vous|résonn%[m|ez]|
+|ils|résonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|résonn%[m|é]|
+|tu|as |résonn%[m|é]|
+|il|a|résonn%[m|é]|
+|nous|avons|résonn%[m|é]|
+|vous|avez|résonn%[m|é]|
+|ils|ont|résonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|résonn%[m|ais]|
+|tu|résonn%[m|ais]|
+|il|résonn%[m|ait]|
+|nous|résonn%[m|ions]|
+|vous|résonn%[m|iez]|
+|ils|résonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|résonn%[m|é]|
+|tu|avais|résonn%[m|é]|
+|il|avait|résonn%[m|é]|
+|nous|avions|résonn%[m|é]|
+|vous|aviez|résonn%[m|é]|
+|ils|avaient|résonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|résonn%[m|ai]|
+|tu|résonn%[m|as]|
+|il|résonn%[m|a]|
+|nous|résonn%[m|âmes]|
+|vous|résonn%[m|âtes]|
+|ils|résonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|résonn%[m|é]|
+|tu|eus|résonn%[m|é]|
+|il|eut|résonn%[m|é]|
+|nous|e&ucirc;mes|résonn%[m|é]|
+|vous|e&ucirc;tes|résonn%[m|é]|
+|ils|eurent|résonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|résonn%[m|erai]|
+|tu|résonn%[m|eras]|
+|il|résonn%[m|era]|
+|nous|résonn%[m|erons]|
+|vous|résonn%[m|erez]|
+|ils|résonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|résonn%[m|é]|
+|tu|auras|résonn%[m|é]|
+|il|aura|résonn%[m|é]|
+|nous|aurons|résonn%[m|é]|
+|vous|aurez|résonn%[m|é]|
+|ils|auront|résonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|résonn%[m|erais]|
+|tu|résonn%[m|erais]|
+|il|résonn%[m|erait]|
+|nous|résonn%[m|erions]|
+|vous|résonn%[m|eriez]|
+|ils|résonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|résonn%[m|é]|
+|tu|aurais|résonn%[m|é]|
+|il|aurait|résonn%[m|é]|
+|nous|aurions|résonn%[m|é]|
+|vous|auriez|résonn%[m|é]|
+|ils|auraient|résonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|résonn%[m|e]|
+|que|tu|résonn%[m|es]|
+|qu'|il|résonn%[m|e]|
+|que|nous|résonn%[m|ions]|
+|que|vous|résonn%[m|iez]|
+|qu'|ils|résonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|résonn%[m|é]|
+|que|tu|aies|résonn%[m|é]|
+|qu'|il|ait|résonn%[m|é]|
+|que|nous|ayons|résonn%[m|é]|
+|que|vous|ayez|résonn%[m|é]|
+|qu'|ils|aient|résonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|résonn%[m|asse]|
+|que|tu|résonn%[m|asses]|
+|qu'|il|résonn%[m|ât]|
+|que|nous|résonn%[m|assions]|
+|que|vous|résonn%[m|assiez]|
+|qu'|ils|résonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|résonn%[m|é]|
+|que|tu|eusses|résonn%[m|é]|
+|qu'|il|eût|résonn%[m|é]|
+|que|nous|eussions|résonn%[m|é]|
+|que|vous|eussiez|résonn%[m|é]|
+|qu'|ils|eussent|résonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|résonn%[m|e]|
+|résonn%[m|ons]|
+|résonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|résonn%[m|é]|
+|ayons|résonn%[m|é]|
+|ayez|résonn%[m|é]|
+|]
+

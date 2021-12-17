@@ -1,0 +1,191 @@
+# se grouiller %[clVerbGroup|1]
+[-
+se presser, se hâter. 
+se dépêcher, faire vite. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se grouill%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|grouill%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se grouill%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|grouill%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se grouill%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|grouill%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|grouill%[m|e]|
+|tu|te|grouill%[m|es]|
+|il|se|grouill%[m|e]|
+|nous|nous|grouill%[m|ons]|
+|vous|vous|grouill%[m|ez]|
+|ils|se|grouill%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|grouill%[m|é]|
+|tu|t'|es|grouill%[m|é]|
+|il|s'|est|grouill%[m|é]|
+|nous|nous|sommes|grouill%[m|és]|
+|vous|vous|êtes|grouill%[m|és]|
+|ils|se|sont|grouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|grouill%[m|ais]|
+|tu|te|grouill%[m|ais]|
+|il|se|grouill%[m|ait]|
+|nous|nous|grouill%[m|ions]|
+|vous|vous|grouill%[m|iez]|
+|ils|se|grouill%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|grouill%[m|é]|
+|tu|t'|étais|grouill%[m|é]|
+|il|s'|était|grouill%[m|é]|
+|nous|nous|étions|grouill%[m|és]|
+|vous|vous|étiez|grouill%[m|és]|
+|ils|s'|étaient|grouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|grouill%[m|ai]|
+|tu|te|grouill%[m|as]|
+|il|se|grouill%[m|a]|
+|nous|nous|grouill%[m|âmes]|
+|vous|vous|grouill%[m|âtes]|
+|ils|se|grouill%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|grouill%[m|é]|
+|tu|te|fus|grouill%[m|é]|
+|il|se|fut|grouill%[m|é]|
+|nous|nous|fûmes|grouill%[m|és]|
+|vous|vous|fûtes|grouill%[m|és]|
+|ils|se|furent|grouill%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|grouill%[m|erai]|
+|tu|te|grouill%[m|eras]|
+|il|se|grouill%[m|era]|
+|nous|nous|grouill%[m|erons]|
+|vous|vous|grouill%[m|erez]|
+|ils|se|grouill%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|grouill%[m|é]|
+|tu|te|seras|grouill%[m|é]|
+|il|se|sera|grouill%[m|é]|
+|nous|nous|serons|grouill%[m|és]|
+|vous|vous|serez|grouill%[m|és]|
+|ils|se|seront|grouill%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|grouill%[m|erais]|
+|tu|te|grouill%[m|erais]|
+|il|se|grouill%[m|erait]|
+|nous|nous|grouill%[m|erions]|
+|vous|vous|grouill%[m|eriez]|
+|ils|se|grouill%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|grouill%[m|é]|
+|tu|te|serais|grouill%[m|é]|
+|il|se|serait|grouill%[m|é]|
+|nous|nous|serions|grouill%[m|és]|
+|vous|vous|seriez|grouill%[m|és]|
+|ils|se|seraient|grouill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|grouill%[m|e]|
+|que|tu|te|grouill%[m|es]|
+|qu'|il|se|grouill%[m|e]|
+|que|nous|nous|grouill%[m|ions]|
+|que|vous|vous|grouill%[m|iez]|
+|qu'|ils|se|grouill%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|grouill%[m|é]|
+|que|tu|te|sois|grouill%[m|é]|
+|qu'|il|se|soit|grouill%[m|é]|
+|que|nous|nous|soyons|grouill%[m|és]|
+|que|vous|vous|soyez|grouill%[m|és]|
+|qu'|ils|se|soient|grouill%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|grouill%[m|asse]|
+|que|tu|te|grouill%[m|asses]|
+|qu'|il|se|grouill%[m|ât]|
+|que|nous|nous|grouill%[m|assions]|
+|que|vous|vous|grouill%[m|assiez]|
+|qu'|ils|se|grouill%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|grouill%[m|é]|
+|que|tu|te|fusses|grouill%[m|é]|
+|qu'|il|se|fût|grouill%[m|é]|
+|que|nous|nous|fussions|grouill%[m|és]|
+|que|vous|vous|fussiez|grouill%[m|és]|
+|qu'|ils|se|fussent|grouill%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|grouill%[m|e]-toi|
+|grouill%[m|ons]-nous|
+|grouill%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

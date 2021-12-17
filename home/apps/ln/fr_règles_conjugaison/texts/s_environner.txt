@@ -1,0 +1,190 @@
+# s'environner %[clVerbGroup|1]
+[-
+être situé autour. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'environn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|environn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'environn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|environn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'environn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|environn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|environn%[m|e]|
+|tu|t'|environn%[m|es]|
+|il|s'|environn%[m|e]|
+|nous|nous|environn%[m|ons]|
+|vous|vous|environn%[m|ez]|
+|ils|s'|environn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|environn%[m|é]|
+|tu|t'|es|environn%[m|é]|
+|il|s'|est|environn%[m|é]|
+|nous|nous|sommes|environn%[m|és]|
+|vous|vous|êtes|environn%[m|és]|
+|ils|se|sont|environn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|environn%[m|ais]|
+|tu|t'|environn%[m|ais]|
+|il|s'|environn%[m|ait]|
+|nous|nous|environn%[m|ions]|
+|vous|vous|environn%[m|iez]|
+|ils|s'|environn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|environn%[m|é]|
+|tu|t'|étais|environn%[m|é]|
+|il|s'|était|environn%[m|é]|
+|nous|nous|étions|environn%[m|és]|
+|vous|vous|étiez|environn%[m|és]|
+|ils|s'|étaient|environn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|environn%[m|ai]|
+|tu|t'|environn%[m|as]|
+|il|s'|environn%[m|a]|
+|nous|nous|environn%[m|âmes]|
+|vous|vous|environn%[m|âtes]|
+|ils|s'|environn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|environn%[m|é]|
+|tu|te|fus|environn%[m|é]|
+|il|se|fut|environn%[m|é]|
+|nous|nous|fûmes|environn%[m|és]|
+|vous|vous|fûtes|environn%[m|és]|
+|ils|se|furent|environn%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|environn%[m|erai]|
+|tu|t'|environn%[m|eras]|
+|il|s'|environn%[m|era]|
+|nous|nous|environn%[m|erons]|
+|vous|vous|environn%[m|erez]|
+|ils|s'|environn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|environn%[m|é]|
+|tu|te|seras|environn%[m|é]|
+|il|se|sera|environn%[m|é]|
+|nous|nous|serons|environn%[m|és]|
+|vous|vous|serez|environn%[m|és]|
+|ils|se|seront|environn%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|environn%[m|erais]|
+|tu|t'|environn%[m|erais]|
+|il|s'|environn%[m|erait]|
+|nous|nous|environn%[m|erions]|
+|vous|vous|environn%[m|eriez]|
+|ils|s'|environn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|environn%[m|é]|
+|tu|te|serais|environn%[m|é]|
+|il|se|serait|environn%[m|é]|
+|nous|nous|serions|environn%[m|és]|
+|vous|vous|seriez|environn%[m|és]|
+|ils|se|seraient|environn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|environn%[m|e]|
+|que|tu|t'|environn%[m|es]|
+|qu'|il|s'|environn%[m|e]|
+|que|nous|nous|environn%[m|ions]|
+|que|vous|vous|environn%[m|iez]|
+|qu'|ils|s'|environn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|environn%[m|é]|
+|que|tu|te|sois|environn%[m|é]|
+|qu'|il|se|soit|environn%[m|é]|
+|que|nous|nous|soyons|environn%[m|és]|
+|que|vous|vous|soyez|environn%[m|és]|
+|qu'|ils|se|soient|environn%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|environn%[m|asse]|
+|que|tu|t'|environn%[m|asses]|
+|qu'|il|s'|environn%[m|ât]|
+|que|nous|nous|environn%[m|assions]|
+|que|vous|vous|environn%[m|assiez]|
+|qu'|ils|s'|environn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|environn%[m|é]|
+|que|tu|te|fusses|environn%[m|é]|
+|qu'|il|se|fût|environn%[m|é]|
+|que|nous|nous|fussions|environn%[m|és]|
+|que|vous|vous|fussiez|environn%[m|és]|
+|qu'|ils|se|fussent|environn%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|environn%[m|e]-toi|
+|environn%[m|ons]-nous|
+|environn%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

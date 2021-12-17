@@ -1,0 +1,190 @@
+# bourdonner %[clVerbGroup|1]
+[-
+émettre un bourdonnement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bourdonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bourdonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bourdonn%[m|é]|
+|ayant|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bourdonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bourdonn%[m|e]|
+|tu|bourdonn%[m|es]|
+|il|bourdonn%[m|e]|
+|nous|bourdonn%[m|ons]|
+|vous|bourdonn%[m|ez]|
+|ils|bourdonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bourdonn%[m|é]|
+|tu|as |bourdonn%[m|é]|
+|il|a|bourdonn%[m|é]|
+|nous|avons|bourdonn%[m|é]|
+|vous|avez|bourdonn%[m|é]|
+|ils|ont|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bourdonn%[m|ais]|
+|tu|bourdonn%[m|ais]|
+|il|bourdonn%[m|ait]|
+|nous|bourdonn%[m|ions]|
+|vous|bourdonn%[m|iez]|
+|ils|bourdonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bourdonn%[m|é]|
+|tu|avais|bourdonn%[m|é]|
+|il|avait|bourdonn%[m|é]|
+|nous|avions|bourdonn%[m|é]|
+|vous|aviez|bourdonn%[m|é]|
+|ils|avaient|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bourdonn%[m|ai]|
+|tu|bourdonn%[m|as]|
+|il|bourdonn%[m|a]|
+|nous|bourdonn%[m|âmes]|
+|vous|bourdonn%[m|âtes]|
+|ils|bourdonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bourdonn%[m|é]|
+|tu|eus|bourdonn%[m|é]|
+|il|eut|bourdonn%[m|é]|
+|nous|e&ucirc;mes|bourdonn%[m|é]|
+|vous|e&ucirc;tes|bourdonn%[m|é]|
+|ils|eurent|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bourdonn%[m|erai]|
+|tu|bourdonn%[m|eras]|
+|il|bourdonn%[m|era]|
+|nous|bourdonn%[m|erons]|
+|vous|bourdonn%[m|erez]|
+|ils|bourdonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bourdonn%[m|é]|
+|tu|auras|bourdonn%[m|é]|
+|il|aura|bourdonn%[m|é]|
+|nous|aurons|bourdonn%[m|é]|
+|vous|aurez|bourdonn%[m|é]|
+|ils|auront|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bourdonn%[m|erais]|
+|tu|bourdonn%[m|erais]|
+|il|bourdonn%[m|erait]|
+|nous|bourdonn%[m|erions]|
+|vous|bourdonn%[m|eriez]|
+|ils|bourdonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bourdonn%[m|é]|
+|tu|aurais|bourdonn%[m|é]|
+|il|aurait|bourdonn%[m|é]|
+|nous|aurions|bourdonn%[m|é]|
+|vous|auriez|bourdonn%[m|é]|
+|ils|auraient|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bourdonn%[m|e]|
+|que|tu|bourdonn%[m|es]|
+|qu'|il|bourdonn%[m|e]|
+|que|nous|bourdonn%[m|ions]|
+|que|vous|bourdonn%[m|iez]|
+|qu'|ils|bourdonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bourdonn%[m|é]|
+|que|tu|aies|bourdonn%[m|é]|
+|qu'|il|ait|bourdonn%[m|é]|
+|que|nous|ayons|bourdonn%[m|é]|
+|que|vous|ayez|bourdonn%[m|é]|
+|qu'|ils|aient|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bourdonn%[m|asse]|
+|que|tu|bourdonn%[m|asses]|
+|qu'|il|bourdonn%[m|ât]|
+|que|nous|bourdonn%[m|assions]|
+|que|vous|bourdonn%[m|assiez]|
+|qu'|ils|bourdonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bourdonn%[m|é]|
+|que|tu|eusses|bourdonn%[m|é]|
+|qu'|il|eût|bourdonn%[m|é]|
+|que|nous|eussions|bourdonn%[m|é]|
+|que|vous|eussiez|bourdonn%[m|é]|
+|qu'|ils|eussent|bourdonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bourdonn%[m|e]|
+|bourdonn%[m|ons]|
+|bourdonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bourdonn%[m|é]|
+|ayons|bourdonn%[m|é]|
+|ayez|bourdonn%[m|é]|
+|]
+

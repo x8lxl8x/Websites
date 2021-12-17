@@ -1,0 +1,190 @@
+# tarer %[clVerbGroup|1]
+[-
+peser un emballage afin de déduire ultérieurement le poids net. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tar%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tar%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tar%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tar%[m|é]|
+|ayant|tar%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tar%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tar%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tar%[m|e]|
+|tu|tar%[m|es]|
+|il|tar%[m|e]|
+|nous|tar%[m|ons]|
+|vous|tar%[m|ez]|
+|ils|tar%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tar%[m|é]|
+|tu|as |tar%[m|é]|
+|il|a|tar%[m|é]|
+|nous|avons|tar%[m|é]|
+|vous|avez|tar%[m|é]|
+|ils|ont|tar%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tar%[m|ais]|
+|tu|tar%[m|ais]|
+|il|tar%[m|ait]|
+|nous|tar%[m|ions]|
+|vous|tar%[m|iez]|
+|ils|tar%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tar%[m|é]|
+|tu|avais|tar%[m|é]|
+|il|avait|tar%[m|é]|
+|nous|avions|tar%[m|é]|
+|vous|aviez|tar%[m|é]|
+|ils|avaient|tar%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tar%[m|ai]|
+|tu|tar%[m|as]|
+|il|tar%[m|a]|
+|nous|tar%[m|âmes]|
+|vous|tar%[m|âtes]|
+|ils|tar%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tar%[m|é]|
+|tu|eus|tar%[m|é]|
+|il|eut|tar%[m|é]|
+|nous|e&ucirc;mes|tar%[m|é]|
+|vous|e&ucirc;tes|tar%[m|é]|
+|ils|eurent|tar%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tar%[m|erai]|
+|tu|tar%[m|eras]|
+|il|tar%[m|era]|
+|nous|tar%[m|erons]|
+|vous|tar%[m|erez]|
+|ils|tar%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tar%[m|é]|
+|tu|auras|tar%[m|é]|
+|il|aura|tar%[m|é]|
+|nous|aurons|tar%[m|é]|
+|vous|aurez|tar%[m|é]|
+|ils|auront|tar%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tar%[m|erais]|
+|tu|tar%[m|erais]|
+|il|tar%[m|erait]|
+|nous|tar%[m|erions]|
+|vous|tar%[m|eriez]|
+|ils|tar%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tar%[m|é]|
+|tu|aurais|tar%[m|é]|
+|il|aurait|tar%[m|é]|
+|nous|aurions|tar%[m|é]|
+|vous|auriez|tar%[m|é]|
+|ils|auraient|tar%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tar%[m|e]|
+|que|tu|tar%[m|es]|
+|qu'|il|tar%[m|e]|
+|que|nous|tar%[m|ions]|
+|que|vous|tar%[m|iez]|
+|qu'|ils|tar%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tar%[m|é]|
+|que|tu|aies|tar%[m|é]|
+|qu'|il|ait|tar%[m|é]|
+|que|nous|ayons|tar%[m|é]|
+|que|vous|ayez|tar%[m|é]|
+|qu'|ils|aient|tar%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tar%[m|asse]|
+|que|tu|tar%[m|asses]|
+|qu'|il|tar%[m|ât]|
+|que|nous|tar%[m|assions]|
+|que|vous|tar%[m|assiez]|
+|qu'|ils|tar%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tar%[m|é]|
+|que|tu|eusses|tar%[m|é]|
+|qu'|il|eût|tar%[m|é]|
+|que|nous|eussions|tar%[m|é]|
+|que|vous|eussiez|tar%[m|é]|
+|qu'|ils|eussent|tar%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tar%[m|e]|
+|tar%[m|ons]|
+|tar%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tar%[m|é]|
+|ayons|tar%[m|é]|
+|ayez|tar%[m|é]|
+|]
+

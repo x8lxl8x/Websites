@@ -1,0 +1,190 @@
+# assermenter %[clVerbGroup|1]
+[-
+faire prêter serment à. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|asserment%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|asserment%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|asserment%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||asserment%[m|é]|
+|ayant|asserment%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en asserment%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|asserment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|asserment%[m|e]|
+|tu|asserment%[m|es]|
+|il|asserment%[m|e]|
+|nous|asserment%[m|ons]|
+|vous|asserment%[m|ez]|
+|ils|asserment%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|asserment%[m|é]|
+|tu|as |asserment%[m|é]|
+|il|a|asserment%[m|é]|
+|nous|avons|asserment%[m|é]|
+|vous|avez|asserment%[m|é]|
+|ils|ont|asserment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|asserment%[m|ais]|
+|tu|asserment%[m|ais]|
+|il|asserment%[m|ait]|
+|nous|asserment%[m|ions]|
+|vous|asserment%[m|iez]|
+|ils|asserment%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|asserment%[m|é]|
+|tu|avais|asserment%[m|é]|
+|il|avait|asserment%[m|é]|
+|nous|avions|asserment%[m|é]|
+|vous|aviez|asserment%[m|é]|
+|ils|avaient|asserment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|asserment%[m|ai]|
+|tu|asserment%[m|as]|
+|il|asserment%[m|a]|
+|nous|asserment%[m|âmes]|
+|vous|asserment%[m|âtes]|
+|ils|asserment%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|asserment%[m|é]|
+|tu|eus|asserment%[m|é]|
+|il|eut|asserment%[m|é]|
+|nous|e&ucirc;mes|asserment%[m|é]|
+|vous|e&ucirc;tes|asserment%[m|é]|
+|ils|eurent|asserment%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|asserment%[m|erai]|
+|tu|asserment%[m|eras]|
+|il|asserment%[m|era]|
+|nous|asserment%[m|erons]|
+|vous|asserment%[m|erez]|
+|ils|asserment%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|asserment%[m|é]|
+|tu|auras|asserment%[m|é]|
+|il|aura|asserment%[m|é]|
+|nous|aurons|asserment%[m|é]|
+|vous|aurez|asserment%[m|é]|
+|ils|auront|asserment%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|asserment%[m|erais]|
+|tu|asserment%[m|erais]|
+|il|asserment%[m|erait]|
+|nous|asserment%[m|erions]|
+|vous|asserment%[m|eriez]|
+|ils|asserment%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|asserment%[m|é]|
+|tu|aurais|asserment%[m|é]|
+|il|aurait|asserment%[m|é]|
+|nous|aurions|asserment%[m|é]|
+|vous|auriez|asserment%[m|é]|
+|ils|auraient|asserment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|asserment%[m|e]|
+|que|tu|asserment%[m|es]|
+|qu'|il|asserment%[m|e]|
+|que|nous|asserment%[m|ions]|
+|que|vous|asserment%[m|iez]|
+|qu'|ils|asserment%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|asserment%[m|é]|
+|que|tu|aies|asserment%[m|é]|
+|qu'|il|ait|asserment%[m|é]|
+|que|nous|ayons|asserment%[m|é]|
+|que|vous|ayez|asserment%[m|é]|
+|qu'|ils|aient|asserment%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|asserment%[m|asse]|
+|que|tu|asserment%[m|asses]|
+|qu'|il|asserment%[m|ât]|
+|que|nous|asserment%[m|assions]|
+|que|vous|asserment%[m|assiez]|
+|qu'|ils|asserment%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|asserment%[m|é]|
+|que|tu|eusses|asserment%[m|é]|
+|qu'|il|eût|asserment%[m|é]|
+|que|nous|eussions|asserment%[m|é]|
+|que|vous|eussiez|asserment%[m|é]|
+|qu'|ils|eussent|asserment%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|asserment%[m|e]|
+|asserment%[m|ons]|
+|asserment%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|asserment%[m|é]|
+|ayons|asserment%[m|é]|
+|ayez|asserment%[m|é]|
+|]
+

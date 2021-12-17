@@ -1,0 +1,1180 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Algebra</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+  <script>MathJax={tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true}};</script>
+  <script id='MathJax-script' async src='../../../../scripts/MathJax/tex-chtml.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='#top'><span class='clNavContent'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+
+<a name='top'></a><br>
+
+<a href='javascript:fncShowHide("idDiv00")'>Table of Contents</a>
+<div id='idDiv00'>
+<br>
+<a href='#chapter_3'>        3. Systems of Equations</a><br>
+<br>
+<a href='#section_40'>       3.1. Systems of Equations in Two Variables</a><br>
+<a href='#concept_377'>      3.1.1. Introduction to Systems of Equations</a><br>
+<a href='#concept_190'>      3.1.2. Solving Systems Graphically</a><br>
+<a href='#concept_191'>      3.1.3. The Substitution Method</a><br>
+<a href='#concept_192'>      3.1.4. The Elimination Method</a><br>
+<a href='#concept_378'>      3.1.5. Inconsistent and Dependent Systems in Two Variables</a><br>
+<a href='#concept_193'>      3.1.6. Applications of Systems of Equations</a><br>
+<br>
+<a href='#section_41'>       3.2. Systems of Equations in Three Variables</a><br>
+<a href='#concept_194'>      3.2.1. Solving Systems of Equations in Three Variables</a><br>
+<a href='#concept_379'>      3.2.2. Inconsistent and Dependent Systems in Three Variables</a><br>
+<br>
+<a href='#section_47'>       3.3. Systems of Inequalities and Linear Programming</a><br>
+<a href='#concept_209'>      3.3.1. Graphs of Linear Inequalities</a><br>
+<a href='#concept_210'>      3.3.2. Solving Systems of Linear Inequalities</a><br>
+<a href='#concept_211'>      3.3.3. Application of Systems of Inequalities: Linear Programming</a><br>
+</div>
+
+<h1 id='chapter_3'>3. Systems of Equations</h1>
+
+<h2 id='section_40'>3.1. Systems of Equations in Two Variables</h2>
+
+<h3 id='concept_377'>3.1.1. Introduction to Systems of Equations</h3>
+
+<blockquote>A system of equations consists of two or more equations with two or more variables, where any solution must satisfy all of the equations in the system at the same time. </blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain what systems of equations can represent</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A system of linear equations
+consists of two or more linear equations made up of two or more
+variables, such that all equations in the system are considered
+simultaneously. </li>
+<li>To find the unique solution to a system of linear
+equations, we must find a numerical value for each variable in the
+system that will satisfy all equations in the system at the same time. </li>
+<li>In order for a linear system to have a
+unique solution, there must be at least as many equations as there are
+variables. </li>
+<li>The solution to a system of linear
+equations in two variables is any ordered pair <span class='clFormula'>$(x, y)$</span>
+that satisfies each
+equation independently. Graphically, solutions are points at which the lines intersect.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>system of linear equations</dt>
+<dd>A set of two or more equations made up of two or more variables that are considered simultaneously.</dd>
+<dt>dependent system</dt>
+<dd>A system of linear equations in which the two equations represent the
+same line; there are an infinite number of solutions to a dependent
+system.</dd>
+<dt>inconsistent system</dt>
+<dd>A system of linear equations with no common solution because they
+represent parallel lines, which have no point or line in common.</dd>
+<dt>independent system</dt>
+<dd>A system of linear equations with exactly one solution pair <equation>$(x, y)$</equation>.</dd>
+</dl>
+
+<p>A system of linear equations
+consists of two or more linear equations made up of two or more
+variables, such that all equations in the system are considered
+simultaneously. To find the unique solution to a system of linear
+equations, we must find a numerical value for each variable in the
+system that will satisfy all of the system's equations at the same time.
+Some linear systems may not have a solution, while others may have an
+infinite number of solutions. In order for a linear system to have a
+unique solution, there must be at least as many equations as there are
+variables. Even so, this does not guarantee a unique solution.</p>
+
+
+<p>In this section, we will focus primarily on systems of
+linear equations which consist of two equations that
+contain two different variables. For example, consider the following
+system of linear equations in two variables:</p>
+
+<div class='clFormula'>$2x + y = 15 \\&#10;3x - y = 5$</div>
+
+<p>The <em>solution</em> to a system of linear
+equations in two variables is any ordered pair that satisfies each
+equation independently. In this example, the ordered pair (4, 7) is the
+solution to the system of linear equations. We can verify the solution
+by substituting the values into each equation to see if the ordered pair
+satisfies both equations. </p>
+
+<div class='clFormula'>$2(4) + 7 = 15 \\&#10;3(4) - 7 = 5$</div>
+
+<p>Both of these statements are true, so <span class='clFormula'>$(4, 7)$</span>
+is indeed a solution to the system of equations.</p>
+<p>Note that a system of linear equations may contain more than two equations, and more than two variables. For example,</p>
+
+
+<p>
+
+    <span class='clFormula'>$3x + 2y - z = 12 \\&#10;x - 2y + 4z = -2 \\&#10;-x + 12y -z = 0 $</span></p>
+
+
+<p>is a system of three equations in the three variables <span class='clFormula'>$x, y, z$</span>
+.  A solution to the system above is given by</p>
+
+<div class='clFormula'>$x = 1 \\ y = -2 \\ z = - 2$</div>
+
+
+
+<p>
+
+since it makes all three equations valid. </p>
+
+
+
+
+
+<h3>Types of Linear Systems and Their Solutions</h3>
+
+<p>In general, a linear system may behave in any one of three possible ways:</p>
+
+
+
+
+
+<ol>
+<li>The system has a single <em>unique solution.</em>
+</li>
+<li>The system has <em>no solution</em>.</li>
+<li>The system has <em>infinitely many solutions</em>.
+</li>
+</ol>
+<p>Each of these possibilities represents a certain type of system of linear equations in two variables. Each of these can be displayed graphically, as below.  Note that a solution to a system of linear equations is any point at which the lines intersect.</p>
+
+
+
+<a href='../images/0301.png'><img class='clImageThumb' src='../images/0301.png' alt='Systems of Linear Equations'></a>
+
+<div><b><i>Systems of Linear Equations</i></b></div>
+<p>Graphical representations of the three types of systems.</p>
+
+<p>
+An independent system has exactly one solution pair <span class='clFormula'>$(x, y)$</span>
+. The point where the two lines intersect is the only solution.</p>
+
+
+<p>An inconsistent system has no solution. Notice that the two lines are parallel and will never intersect.</p>
+
+
+<p>A dependent system
+has infinitely many solutions. The lines are exactly the
+same, so every coordinate pair on the line is a solution to both
+equations.</p>
+
+<h3 id='concept_190'>3.1.2. Solving Systems Graphically</h3>
+
+<blockquote>A simple way to solve a system of equations is to look for the intersecting point or points of the equations. This is the graphical method.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve a system of equations in two variables graphically</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To solve a system of equations graphically, graph the equations and identify the points of intersection as the solutions. There can be more than one solution to a system of equations.</li>
+<li>A system of linear equations will have one point of intersection, or one solution.</li>
+<li>To graph a system of equations that are written in standard form, you must rewrite the equations in slope-intercept form.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>system of equations</dt>
+<dd>A set of equations with multiple variables which can be solved using a specific set of values.</dd>
+<dt>The graphical method</dt>
+<dd>A way of visually finding a set of values that solves a system of equations.</dd>
+</dl>
+
+<p>A <em>system of equations</em> (also known as simultaneous equations) is a set of equations with multiple variables, solved when the values of all variables  simultaneously satisfy all of the equations. The most common ways to solve a system of equations are:</p>
+<ul>
+<li>
+The graphical method
+</li>
+<li>The substitution method</li>
+<li>The elimination method</li>
+</ul>
+<p>Here, we will address the graphical method.</p>
+
+<h3>Solving Systems Graphically</h3>
+
+<p>Some systems have only one set of correct answers, while others have multiple sets that will satisfy all equations. Shown graphically, a set of equations solved with only one set of answers will have only have one point of intersection, as shown below. This point is considered to be the solution of the system of equations. In a set of linear equations (such as in the image below), there is only one solution.</p>
+
+
+
+<a href='../images/0302.png'><img class='clImageThumb' src='../images/0302.png' alt='System of linear equations with two variables'></a>
+
+<div><b><i>System of linear equations with two variables</i></b></div>
+<p>This graph shows a system of equations with two variables and only one set of answers that satisfies both equations.</p>
+
+<p>
+A system with two sets of answers that will satisfy both equations  has two points of intersection (thus, two solutions of the system), as shown in the image below.
+</p>
+
+
+
+<a href='../images/0303.png'><img class='clImageThumb' src='../images/0303.png' alt='System of equations with multiple answers'></a>
+
+<div><b><i>System of equations with multiple answers</i></b></div>
+<p>This is an example of a system of equations shown graphically that has two sets of answers that will satisfy both equations in the system.</p>
+
+<h3>Converting to Slope-Intercept Form</h3>
+
+<p>Before successfully solving a system graphically, one must understand how to graph equations written in standard form, or <span class='clFormula'>$Ax+By=C$</span>
+.
+You can always use a graphing calculator to represent the equations graphically, but it is useful to know how to represent such equations formulaically on your own.
+</p>
+<p>To do this, you need to convert the equations  to slope-intercept form, or  <span class='clFormula'>$y=mx+b$</span>
+, where <em>m</em> = slope and <em>b</em> = y-intercept. </p>
+<p>The best way to convert an equation to slope-intercept form is to first isolate the <em>y</em> variable and then divide the right side by <em>B</em>, as shown below.</p>
+<p>  <span class='clFormula'>$\begin{align}&#10;\displaystyle Ax+By&amp;=C&#10;\\By&amp;=-Ax+C&#10;\\y&amp;=\frac{-Ax+C}{B}&#10;\\y&amp;=-\frac{A}{B}x+\frac{C}{B}&#10;\end{align}$</span></p>
+<p>Now <span class='clFormula'>$\displaystyle -\frac{A}{B}$</span>
+ is the slope <em>m, </em>and <span class='clFormula'>$\displaystyle \frac{C}{B}$</span>
+ is the y-intercept <em>b</em>. </p>
+
+<h3>Identifying Solutions on a Graph</h3>
+
+<p>Once you have converted the equations into slope-intercept form, you can graph the equations. To determine the solutions of the set of equations, identify the points of intersection between the graphed equations. The ordered pair that represents the intersection(s) represents the solution(s) to the system of equations.</p>
+
+<h3 id='concept_191'>3.1.3. The Substitution Method</h3>
+
+<blockquote>The substitution method is a way of solving a system of equations by expressing the equations in terms of only one variable.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve systems of equations in two variables using substitution</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>A system of equations is a set of equations that can be solved using a particular set of values.</li>
+<li>The substitution method works by expressing one of the variables in terms of another, then substituting it back into the original equation and simplifying it.</li>
+<li>It is very important to check your work once you have found a set of values for the variables. Do this by substituting the values you found back into the original equations.</li>
+<li>The solution to the system of equations can be written as an ordered pair (<em>x</em>,<em>y</em>).</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>system of equations</dt>
+<dd>A set of equations with multiple variables which can be solved using a specific set of values.</dd>
+<dt>substitution method</dt>
+<dd>Method of solving a system of equations by putting the equation in terms of only one variable</dd>
+</dl>
+
+<p>The <em>substitution method</em> for solving systems of equations is a way to simplify the system of equations by expressing one variable in terms of another, thus removing one variable from an equation. When the resulting simplified equation has only one variable to work with, the equation becomes solvable. </p>
+<p>The substitution method consists of the following steps:</p>
+
+<ol>
+<li>In the first equation, solve for one of the variables in terms of the others.</li>
+<li>Substitute this expression into the remaining equations.</li>
+<li>Continue until you have reduced the system to a single linear equation.</li>
+<li>Solve this equation, and then back-substitute until the solution is found.</li>
+</ol>
+
+<h3>Solving with the Substitution Method</h3>
+
+<p>Let's practice this by solving the following system of equations:</p>
+
+<div class='clFormula'>$x-y=-1$</div>
+
+
+<div class='clFormula'>$x+2y=-4$</div>
+
+<p>We begin by solving the first equation so we can express <em>x</em> in terms of <em>y</em>. </p>
+
+<div class='clFormula'>$\begin{align}&#10;\displaystyle x-y&amp;=-1&#10;\\x&amp;=y-1&#10;\end{align}$</div>
+
+<p>Next, we will substitute our new definition of <em>x</em>  into the second equation:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} x+2y&amp;=-4&#10;\\(y-1)+2y&amp;=-4&#10;\end{align}$</div>
+
+<p>Note that now this equation only has one variable (y). We can then simplify this equation and solve for <em>y</em>:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} (y-1)+2y&amp;=-4&#10;\\3y-1&amp;=-4&#10;\\3y&amp;=-3&#10;\\y&amp;=-1&#10;\end{align}$</div>
+
+<p>Now that we know the value of <em>y</em>, we can use it to find the value of the other variable, <em>x.</em> To do this, substitute the value of <em>y</em> into the first equation and solve for <em>x</em>.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} x-y&amp;=-1&#10;\\x-(-1)&amp;=-1&#10;\\x+1&amp;=-1&#10;\\x&amp;=-1-1&#10;\\x&amp;=-2&#10;\end{align}$</div>
+
+<p>Thus, the solution to the system is: <span class='clFormula'>$(-2, -1)$</span>
+, which is the point where the two functions graphically intersect. Check the solution by substituting the values into one of the equations.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} x-y&amp;=-1&#10;\\(-2)-(-1)&amp;=-1&#10;\\-2+1&amp;=-1&#10;\\-1&amp;=-1&#10;\end{align}&#10;$</div>
+
+
+<h3 id='concept_192'>3.1.4. The Elimination Method</h3>
+
+<blockquote>The elimination method is used to eliminate a variable in order to more simply solve for the remaining variable(s) in a system of equations.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve systems of equations in two variables using elimination</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The steps of the elimination method are: (1) set the equations up so the variables line up, (2) modify one equation so both equations share a consistent variable that can be eliminated, (3) add the equations together to eliminate the variable, (4) solve, and (5) back-substitute to solve for the other variable.</li>
+<li>Always check the answer. This is done by plugging both values into one or both of the original equations.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>elimination method</dt>
+<dd>Process of solving a system of equations by eliminating one variable in order to more simply solve for the remaining variable.</dd>
+<dt>system of equations</dt>
+<dd>A set of equations with multiple variables which can be solved using a specific set of values.</dd>
+</dl>
+
+<p>The <em>elimination method </em>for solving systems of equations, also known as <em>elimination by addition</em>, is a way to eliminate one of the variables in the system in order to more simply evaluate the remaining variable. Once the values for the remaining variables have been found successfully, they are substituted into the original equation in order to find the correct value for the other variable.</p>
+<p>The elimination method follows these steps:</p>
+
+<ol>
+<li>Rewrite the equations so the variables line up.</li>
+<li>Modify one equation so both equations have a  variable that will cancel itself out when the equations are added together.</li>
+<li>Add the equations and eliminate the variable.</li>
+<li> Solve for the remaining variable.</li>
+<li>Back-substitute and solve for the other variable.</li>
+</ol>
+
+<h3>Solving with the Elimination Method</h3>
+
+<p>The elimination method can be demonstrated by using a simple example:</p>
+
+<div class='clFormula'>$\displaystyle&#10;4x+y=8&#10;\\&#10;2y+x=9$</div>
+
+<p>First, line up the variables so that the equations can be easily added together in a later step:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} 4x+y&amp;=8&#10;\\x+2y&amp;=9&#10;\end{align}$</div>
+
+<p>Next, look to see if any of the variables are already set up in such a way that adding them together will cancel them out of the system. If not, multiply one equation by a number that allow the variables to cancel out. In this example, the variable <em>y</em> can be eliminated if we multiply the top equation by <span class='clFormula'>$-2$</span>
+ and then add the equations together.</p>
+<p>Multiplication step:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} -2(4x+y&amp;=8)&#10;\\x+2y&amp;=9&#10;\end{align}$</div>
+
+<p>Result:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} -8x-2y&amp;=-16&#10;\\x+2y&amp;=9&#10;\end{align}$</div>
+
+<p>Now add the equations to eliminate the variable <em>y</em>.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} -8x+x-2y+2y&amp;=-16+9&#10;\\-7x&amp;=-7&#10;\end{align}$</div>
+
+<p>Finally, solve for the variable <em>x</em>.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} -7x&amp;=-7&#10;\\x&amp;=\frac{-7}{-7}&#10;\\x&amp;=1&#10;\end{align}$</div>
+
+<p>Then go back to one of the original equations and substitute the value we found for <em>x</em>. It is easiest to pick the simplest equation, but either equation will work.</p>
+<p><span class='clFormula'>$\displaystyle&#10;\begin{align} 4x+y&amp;=8&#10;\\4(1)+y&amp;=8&#10;\\4+y&amp;=8&#10;\\y&amp;=4&#10;\end{align}$</span>
+ </p>
+<p>Therefore, the solution of the equation is (1,4). It is always important to check the answer by substituting both of these values in for their respective variables into one of the equations.</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} 4x+y&amp;=8&#10;\\4(1)+4&amp;=8&#10;\\4+4&amp;=8&#10;\\8&amp;=8&#10;\end{align}&#10;$</div>
+
+
+<h3 id='concept_378'>3.1.5. Inconsistent and Dependent Systems in Two Variables</h3>
+
+<blockquote>For linear equations in two variables, inconsistent systems have no solution, while dependent systems have infinitely many solutions.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain when systems of equations in two variables are inconsistent or dependent both graphically and algebraically.</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Graphically, the equations in a dependent system represent the same line. The equations in an inconsistent system represent parallel lines that never intersect.</li>
+<li>We can use methods for solving systems of equations to identify dependent and inconsistent systems: Dependent systems have an infinite number of solutions. Applying methods of solving systems of equations will result in a true identity, such as <span class='clFormula'>$0 = 0$</span>
+. Inconsistent systems have no solutions. Applying methods of solving systems of equations will result in a contradiction, such as the statement <span class='clFormula'>$0 = 1$</span>
+.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>inconsistent system</dt>
+<dd>A system of linear equations with no common solution because they
+represent parallel lines, which have no point or line in common.</dd>
+<dt>independent system</dt>
+<dd>A system of linear equations with exactly one solution pair .</dd>
+<dt>dependent system</dt>
+<dd>A system of linear equations in which the two equations represent the
+same line; there are an infinite number of solutions to a dependent
+system.</dd>
+</dl>
+
+<p>Recall that a linear system may behave in any one of three possible ways:</p>
+
+<ol>
+<li>The system has a single unique solution.</li>
+<li>The system has no solution.</li>
+<li>The system has infinitely many solutions.</li>
+</ol>
+<p>Also recall that each of these possibilities corresponds to a type of system of linear equations in two variables. An independent system of equations has exactly one solution <span class='clFormula'>$(x,y)$</span>
+. An inconsistent system has no solution, and a dependent system has an infinite number of solutions. </p>
+<p>The previous modules have discussed how to find the solution for an independent system of equations. We will now focus on identifying dependent and inconsistent systems of linear equations.</p>
+
+<h3>Dependent Systems</h3>
+
+<p>The
+equations of a linear system are <em>independent</em> if none of the equations
+can be derived algebraically from the others. When the equations are
+independent, each equation contains new information about the variables,
+and removing any of the equations increases the size of the solution
+set. Systems that are not independent are by definition
+<em>dependent</em>. Equations in a dependent system can be derived from one another; they describe the same line. They do not add new information about the variables, and the loss of an equation from a dependent system does not change the size of the solution set.</p>
+<p>We can  apply the substitution or elimination methods for solving systems of equations to identify dependent systems. Dependent systems have an infinite number of solutions because all of
+the points on one line are also on the other line. After using
+substitution or addition, the resulting equation will be an identity,
+such as <span class='clFormula'>$0 = 0$</span>
+.</p>
+<p>For example, consider the two equations</p>
+
+<div class='clFormula'>$3x+2y = 6 \\ 6x+4y = 12$</div>
+
+<p>We can apply the elimination method to evaluate these. If we were to multiply the first equation by a factor of <span class='clFormula'>$-2$</span>
+, we would have: </p>
+<p><span class='clFormula'>$\displaystyle&#10;\begin{align} -2(3x+2y&amp;=6)&#10;\\-6x-4y&amp;=-12&#10;\end{align}$</span>
+ </p>
+<p>Adding this to the second equation would yield <span class='clFormula'>$0=0$</span>
+. Thus, the two lines are dependent. Also note that they are the same equation  scaled by a factor of
+two; in other words, the second equation can be derived from the first. </p>
+<p>When graphed, the two equations produce identical lines, as demonstrated below.</p>
+
+
+
+<a href='../images/0304.png'><img class='clImageThumb' src='../images/0304.png' alt='Dependent system'></a>
+
+<div><b><i>Dependent system</i></b></div>
+<p>The equations <span class='clFormula'>$3x + 2y = 6$</span>
+and <span class='clFormula'>$6x + 4y = 12$</span>
+are dependent, and when graphed produce the same line.</p>
+
+<p>Note that there are an infinite number of solutions to a dependent system, and these solutions fall on the shared line.</p>
+
+<h3>Inconsistent Systems</h3>
+
+<p>A
+linear system is consistent if it has a solution, and inconsistent
+otherwise. Recall that the graphical representation of an inconsistent system consists of parallel lines that have the same slope but different <span class='clFormula'>$y$</span>
+-intercepts. They will never intersect. </p>
+<p>We can also apply methods for solving systems of equations to identify inconsistent systems. When the system is inconsistent, it is possible to derive a
+contradiction from the equations,  such as
+the statement <span class='clFormula'>$0 = 1$</span>
+. </p>
+<p>Consider the following two equations:</p>
+
+<div class='clFormula'>$3x+2y = 6 \\ 3x+2y = 12$</div>
+
+<p>We can apply the elimination method to attempt to solve this system. Subtracting the first equation from the
+second one, both variables are eliminated and we get <span class='clFormula'>$0 = 6$</span>
+. This is a contradiction, and we are able to identify that this is an inconsistent system. The graphs of these equations on the <span class='clFormula'>$xy$</span>
+-plane are a pair of parallel
+lines.</p>
+
+
+
+<a href='../images/0305.png'><img class='clImageThumb' src='../images/0305.png' alt='Inconsistent system'></a>
+
+<div><b><i>Inconsistent system</i></b></div>
+<p>The equations <span class='clFormula'>$3x + 2y = 6$</span>
+and <span class='clFormula'>$3x + 2y = 12$</span> are inconsistent.</p>
+
+
+<p>In general, inconsistencies occur if the left-hand sides of the
+equations in a system are linearly dependent, and the constant terms do
+not satisfy the dependence relation. A system of equations whose
+left-hand sides are linearly independent is always consistent.</p>
+
+<h3 id='concept_193'>3.1.6. Applications of Systems of Equations</h3>
+
+<blockquote>Systems of equations can be used to solve many real-life problems in which multiple constraints are used on the same variables.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Apply systems of equations in two variables to real world examples</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>If you have a problem that includes multiple variables, you can solve it by creating a system of equations.</li>
+<li>Once variables are defined, determine the relationships between them and write them as equations.</li>
+</ul>
+
+<h4>Key Term</h4>
+
+<dl>
+<dt>system of equations</dt>
+<dd>A set of equations with multiple variables which can be solved using a specific set of values.</dd>
+</dl>
+
+<h3>Systems of Equations in the Real World</h3>
+
+<p>A system of equations, also known as simultaneous equations, is a set of equations that have multiple variables. The answer to a system of equations is a set of values that satisfies all equations in the system, and there can be many such answers for any given system. Answers are generally written in the form of an ordered pair: <span class='clFormula'>$\left( x,y \right)$</span>
+. Approaches to solving a system of equations include substitution and elimination as well as graphical techniques.</p>
+<p>There are several practical applications of systems of equations. These are shown in detail below.</p>
+
+<h3>Planning an Event</h3>
+
+<p>A system of equations can be used to solve a planning problem where there are multiple constraints to be taken into account:</p>
+<p>Emily is hosting a major after-school party. The principal has imposed two restrictions. First, the total number of people attending (teachers and students combined) must be <span class='clFormula'>$56$</span>
+. Second, there must be one teacher for every seven students. So, how many students and how many teachers are invited to the party?</p>
+<p>First, we need to identify and name our variables. In this case, our variables are teachers and students. The number of teachers will be <span class='clFormula'>$T$</span>
+, and the number of students will be <span class='clFormula'>$S$</span>
+.</p>
+<p>Now we need to set up our equations. There is a constraint limiting the total number of people in attendance to <span class='clFormula'>$56$</span>
+, so:</p>
+
+<div class='clFormula'>$T+S=56$</div>
+
+<p>For every seven students, there must be one teacher, so:</p>
+
+<div class='clFormula'>$\frac{S}{7}=T$</div>
+
+<p>Now we have a system of equations that can be solved by substitution, elimination, or graphically. The solution to the system is <span class='clFormula'>$S=49$</span>
+and <span class='clFormula'>$T=7$</span>
+.</p>
+
+<h3>Finding Unknown Quantities</h3>
+
+<p>This next example illustrates how systems of equations are used to find quantities.</p>
+<p>A group of <span class='clFormula'>$75$</span>
+students and teachers are in a field, picking sweet potatoes for the needy. Kasey picks three times as many sweet potatoes as Davis—and then, on the way back to the car, she picks up five more! Looking at her newly increased pile, Davis remarks, "Wow, you've got <span class='clFormula'>$29$</span>
+more potatoes than I do!" How many sweet potatoes did Kasey and Davis each pick?</p>
+<p>To solve, we first define our variables. The number of sweet potatoes that Kasey picks is <span class='clFormula'>$K$</span>
+, and the number of sweet potatoes that Davis picks is <span class='clFormula'>$D$</span>
+.</p>
+<p>Now we can write equations based on the situation:</p>
+
+<div class='clFormula'>$K-5 = 3D$</div>
+
+
+<div class='clFormula'>$D+29 = K$</div>
+
+<p>From here, substitution, elimination, or graphing will reveal that <span class='clFormula'>$K=41$</span>
+ and <span class='clFormula'>$D=12$</span>
+. </p>
+<p>It is important that you always check your answers. A good way to check solutions to a system of equations is to look at the functions graphically and then see where the graphs intersect. Or, you can substitute your answers into every equation and check that they result in accurate solutions.</p>
+
+<h3>Other Applications</h3>
+
+<p>There are a multitude of other applications for systems of equations, such as figuring out which landscaper provides the best deal, how much different cell phone providers charge per minute, or comparing nutritional information in recipes.</p>
+<h2 id='section_41'>3.2. Systems of Equations in Three Variables</h2>
+
+<h3 id='concept_194'>3.2.1. Solving Systems of Equations in Three Variables</h3>
+
+<blockquote>A system of equations in three variables involves two or more equations, each of which contains between one and three variables.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve a system of equations in three variables graphically, using substitution, or using elimination</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>In a system of equations<em> in three </em>variables, you can have one or more equations, each of which may contain one or more of the three variables, usually <em>x</em>, <em>y</em>, and <em>z</em>. The introduction of the variable <em>z</em> means that the graphed functions now represent planes, rather than lines.</li>
+<li>The substitution method involves solving for one of the variables in one of the equations, and plugging that into the rest of the equations to reduce the system. Repeat until there is a single equation left, and then using this equation, go backwards to solve the previous equations.</li>
+<li>The graphical method involves graphing the system and finding the single point where the planes intersect.</li>
+<li>The elimination method involves adding or subtracting multiples of one equation from the other equations, eliminating variables from each of the equations until one variable is left in each equation.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>system of equations in three variables</dt>
+<dd>A set of one or more equations, each of which may contain one ore more of the three variables usually <em>x</em>, <em>y</em>, and <em>z</em>.</dd>
+<dt>system of equations</dt>
+<dd>A set of equations with multiple variables which can be solved using a specific set of values.</dd>
+</dl>
+
+<h3>Systems of Equations in Three Variables</h3>
+
+<p>In mathematics, simultaneous equations are a set of equations containing multiple variables. This set is often referred to as a <em>system of equations</em>. A solution to a system of equations is a particular specification of the values of all variables that simultaneously satisfies all of the equations. Graphically, the solution is where the functions intersect.</p>
+<p>In a <em>system of equations in three variables</em>, you can have one or more equations, each of which may contain one or more of the three variables, usually <em>x</em>, <em>y</em>, and <em>z</em>. The introduction of the variable <em>z</em> means that the graphed functions now represent planes, rather than lines. </p>
+
+<h3>A Simple Example</h3>
+
+<p>This is a set of linear equations, also known as a linear system of equations, in three variables:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} 3x+2y-z=6\\ -2x+2y+z=3\\ x+y+z=4\\ \end{matrix}\right.$</div>
+
+<p>The solution to this system of equations is:</p>
+<p> <span class='clFormula'>$\left\{\begin{matrix} x=1\\ y=2\\ z=1\\ \end{matrix}\right.$</span></p>
+<p>Plug in these values to each of the equations to see that the solution satisfies all three of the equations.</p>
+
+<h3>Solving Systems of Equations in Three Variables</h3>
+
+<h3>Graphical Method</h3>
+
+<p>The graphical method of solving a system of equations in three variables involves plotting the planes that are formed when graphing each equation in the system and then finding the intersection point of all three planes. The single point where all three planes intersect is the unique solution to the system.</p>
+
+
+
+<a href='../images/0306.png'><img class='clImageThumb' src='../images/0306.png' alt='System of linear equations'></a>
+
+<div><b><i>System of linear equations</i></b></div>
+<p>This images shows a system of three equations in three variables. The intersecting point (white dot) is the unique solution to this system.</p>
+
+<h3>Substitution Method</h3>
+
+<p>The substitution method of solving a system of equations in three variables involves identifying an equation that can be easily by written with a single variable as the subject (by solving the equation for that variable). Next, substitute that expression where that variable appears in the other two equations, thereby obtaining a smaller system with fewer variables. After that smaller system has been solved, whether by further application of the substitution method or by other methods, substitute the solutions found for the variables back into the first right-hand side expression.</p>
+<p>For example, consider this system of equations:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} 3x+2y-z=6\\ -2x+2y+z=3\\ x+y+z=4\\ \end{matrix}\right.$</div>
+
+<p>
+Since the coefficient of <em>z</em> is already 1 in the first equation, solve for <em>z</em> to get:</p>
+
+<div class='clFormula'>$z=3x+2y-6$</div>
+
+<p>Substitute this expression for <em>z</em> into the other two equations:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} -2x+2y+(3x+2y-6)=3\\ x+y+(3x+2y-6)=4\\ \end{matrix}\right.$</div>
+
+<p>This new system simplifies to:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x+4y=9\\ 4x+3y=10\\ \end{matrix}\right.$</div>
+
+<p>Now solving for <em>x</em> in the first equation, one gets: </p>
+<p><span class='clFormula'>$x=9-4y$</span>
+. </p>
+<p>Substitute this expression for <em>x</em> into the last equation in the system and solve for <em>y</em>:</p>
+
+<div class='clFormula'>$\displaystyle&#10;\begin{align} 4(9-4y)+3y &amp;=10&#10;\\36-16y+3y&amp;=10&#10;\\13y&amp;=26&#10;\\y&amp;=2&#10;\end{align}&#10;&#10;$</div>
+
+<p>Now that you have the value of <em>y</em>, work back up the equation. Plug <span class='clFormula'>$y=2$</span>
+ into the equation <span class='clFormula'>$x=9-4y$</span>
+to get <span class='clFormula'>$x=1$</span>
+. </p>
+<p>Working up again, plug <span class='clFormula'>$(1,2)$</span>
+into the first substituted equation and solve for <em>z</em>: </p>
+
+<div class='clFormula'>$\begin {align}z&amp;=3x+2y-6&#10;\\z&amp;=(3 \cdot 1)+(2 \cdot 2) -6&#10;\\z&amp;=1&#10;\end{align}$</div>
+
+<p>Therefore, the solution to the system of equations is <span class='clFormula'>$(1,2,1)$</span>
+.</p>
+
+<h3>Elimination Method</h3>
+
+<p>Elimination by judicious multiplication is the other commonly-used method to solve simultaneous linear equations. It uses the general principles that each side of an equation still equals the other when both sides are multiplied (or divided) by the same quantity, or when the same quantity is added (or subtracted) from both sides. </p>
+<p>As the equations grow simpler through the elimination of some variables, a variable will eventually appear in fully solvable form, and this value can then be "back-substituted" into previously derived equations by plugging this value in for the variable. Typically, each "back-substitution" can then allow another variable in the system to be solved.</p>
+<p>Let's look at the following system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x+y+z=2\\ x-y+3z=4\\ 2x+2y+z=3\\ \end{matrix}\right.$</div>
+
+<p>Using the elimination method, begin by subtracting the first equation from the second and simplifying:</p>
+<p> <span class='clFormula'>$\displaystyle&#10;\begin{align} x-y+3z-(x+y+z)&amp;=4-2&#10;\\-2y+2z&amp;=2&#10;\end{align}$</span>
+ </p>
+<p>We now have  the following system of equations:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x+y+z=2\\ -2y+2z=2\\ 2x+2y+z=3\\ \end{matrix}\right.$</div>
+
+<p>Now subtract two times the first equation from the third equation to get</p>
+<p> <span class='clFormula'>$\begin {align}2x+2y+z-2(x+y+z)&amp;=3-2(2)&#10;\\2x+2y+z-2x-2y-2z&amp;=-1&#10;\\z&amp;=1&#10;\end {align}$</span></p>
+<p>Doing this shows the new system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x+y+z=2\\ -2y+2z=2\\ z=1\\ \end{matrix}\right.$</div>
+
+<p>Next, subtract two times the third equation from the second equation and simplify:</p>
+
+<div class='clFormula'>$\begin {align} -2y+2z-2z&amp;=2-2&#10;\\y&amp;=0&#10;&#10;\end {align}$</div>
+
+<p>Doing this shows the new system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x+y+z=2\\ y=0\\ z=1\\ \end{matrix}\right.$</div>
+
+<p>Finally, subtract the third and second equation from the first equation to get </p>
+
+<div class='clFormula'>$\begin {align} x+y+z-y-z&amp;=2-0-1&#10;\\x&amp;=1&#10;\end {align}$</div>
+
+<p>The final, solved system, therefore, is:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} x=1\\ y=0\\ z=1\\ \end{matrix}\right.$</div>
+
+
+<h3 id='concept_379'>3.2.2. Inconsistent and Dependent Systems in Three Variables</h3>
+
+<blockquote>Systems of equations in three variables are either independent, dependent, or inconsistent; each case can be established algebraically and represented graphically.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain what it means, graphically, for systems of equations in three variables to be inconsistent or dependent, as well as how to recognize algebraically when this is the case</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>Dependent
+systems have an infinite number of solutions. Graphically, the infinite number of solutions are on a line or plane
+that serves as the intersection of three planes in space.
+</li>
+<li>Solving a dependent system by
+elimination results in an expression that is always true, such as <span class='clFormula'>$0 = 0$</span>
+. </li>
+<li>Inconsistent systems have no solution. Graphically, a system with no solution is represented by three planes with no point in common.</li>
+<li>Solving an inconsistent system by elimination results in a statement that is a contradiction, such as <span class='clFormula'>$3 = 0$</span>
+. </li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>Dependent system</dt>
+<dd>A system of equations with an infinite number of solutions. For systems of equations in three variables, there are an infinite number of solutions on a line or plane
+that is the intersection of three planes in space.
+</dd>
+<dt>Independent system</dt>
+<dd>A system of equations with a single solution. For systems of equations in three variables, this solution is an  ordered triple <equation>$(x, y, z)$</equation> that represents the single point of intersection of the three planes.</dd>
+<dt>Inconsistent system</dt>
+<dd>A system of equations with no solution. A system of equations in three variables with no solutions is represented by three planes with no point in common.</dd>
+</dl>
+
+<h3>Identifying Dependent and Inconsistent Systems</h3>
+
+<p>Recall that a solution to a linear
+system is an assignment of numbers to the variables such that all the
+equations are simultaneously satisfied. A solution of a system of equations in three variables is an ordered triple <span class='clFormula'>$(x, y, z)$</span>
+, and describes a point where three planes intersect in space. </p>
+<p>There are three possible solution scenarios for systems of three equations in three variables:</p>
+<ul>
+<li>Independent systems have a single solution. Solving the system by elimination results in a single  ordered triple <span class='clFormula'>$(x, y, z)$</span>
+. Graphically, the ordered triple defines a point that is the intersection of three planes in space.</li>
+<li> <em>Dependent</em> systems have an infinite number of solutions. Graphically, the solutions fall on a line or plane
+that is the intersection of three planes in space.
+</li>
+<li>
+<em>Inconsistent </em>systems have no solution. Graphically, a system with no solution is represented by three planes with no point in common.</li>
+</ul>
+
+<h3>Dependent Systems of Equations with Three Variables</h3>
+
+<p>We know from working with systems of equations in two variables that a dependent system
+of equations has an infinite number of solutions. The same is true for
+dependent systems of equations in three variables. An infinite number of
+solutions can result from several situations. The three planes could be
+the same, so that a solution to one equation will be the solution to
+the other two equations. All three equations could be different but they
+intersect on a line, which has infinite solutions (see below for a graphical representation). Or two of the
+equations could be the same and intersect the third on a line (see the example problem for a graphical representation).</p>
+
+
+
+<a href='../images/0307.png'><img class='clImageThumb' src='../images/0307.png' alt='Dependent systems'></a>
+
+<div><b><i>Dependent systems</i></b></div>
+<p>An example of three different equations that intersect on a line. Three planes that intersect in one line. Any two planes intersect in a line, and in this scenario the third plane goes through the line formed by the intersection of the first two.</p>
+
+<p>For example, consider this system of equations:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} &#10;\begin {align} 2x + y - 3z &amp;= 0 \\&#10;4x + 2y - 6z &amp;= 0 \\&#10;x - y + z &amp;= 0&#10;\end {align}&#10;\end{matrix} \right.$</div>
+
+<p>First, multiply the first equation by <span class='clFormula'>$-2$</span>
+and add it to the second equation:</p>
+
+<div class='clFormula'>$\begin {align} -2(2x + y - 3z) + (4x + 2y - 6z) &amp;= 0 + 0 \\&#10;(-4x + 4x) + (-2y + 2y) + (6z - 6z) &amp;= 0 \\&#10;0 &amp;= 0&#10;\end {align}$</div>
+
+<p>We do not need to proceed any further. The result we get is an identity, <span class='clFormula'>$0 = 0$</span>
+, which
+tells us that this system has an infinite number of solutions. There
+are other ways to begin to solve this system, such as multiplying the third
+equation by <span class='clFormula'>$-2$</span>
+, and adding it to the first equation. We would then perform the same steps as above and find the same result, <span class='clFormula'>$0 = 0$</span>
+.</p>
+<p>If we were to graph each of the three equations, we would have the three planes pictured below. Notice that
+two of the planes are the same, and they intersect the third plane on a
+line. The solution set is infinite, as all points along the intersection
+line will satisfy all three equations.</p>
+
+
+
+<a href='../images/0308.png'><img class='clImageThumb' src='../images/0308.png' alt='Dependent system'></a>
+
+<div><b><i>Dependent system</i></b></div>
+<p>Two equations represent the same plane, and these intersect the third plane on a line. The dependent equations -4x - 2y + 6z = 0 and 4x + 2y - 6z = 0 are the same plane, and cross the third plane x - y + z = 0 in a line. </p>
+
+<h3>Inconsistent Systems of Equations with Three Variables</h3>
+
+<p>Just as with systems of equations in two variables, we may come across an inconsistent system
+of equations in three variables, which means that it does not have a
+solution that satisfies all three equations. The equations could
+represent three parallel planes, two parallel planes and one
+intersecting plane, or three planes that intersect the other two but not
+at the same location. The process of elimination will result in a false
+statement, such as <span class='clFormula'>$3 = 7$</span>
+, or some other contradiction.</p>
+
+
+
+<a href='../images/0309.png'><img class='clImageThumb' src='../images/0309.png' alt='Inconsistent systems'></a>
+
+<div><b><i>Inconsistent systems</i></b></div>
+<p>All three figures represent three-by-three systems with no solution. (a)
+The three planes intersect with each other in three different parallel lines, which do not intersect at a common point.
+(b) Two of the planes are parallel and intersect with the third plane,
+but not with each other. (c) All three planes are parallel, so there is
+no point of intersection.</p>
+
+<p>For example, consider the system of equations</p>
+
+<div class='clFormula'>$\left\{\begin{matrix}&#10;\begin {align} x - 3y + z &amp;= 4\\&#10;-x + 2y - 5z &amp;= 3 \\&#10;5x - 13y + 13z &amp;= 8&#10;\end {align}&#10;\end{matrix} \right.$</div>
+
+<p>Using the elimination method for solving a system of equation in three variables, notice that we can add the first and second equations to cancel <span class='clFormula'>$x$</span>
+:</p>
+
+<div class='clFormula'>$\begin {align}(x - 3y + z) + (-x + 2y - 5z) &amp;= 4+3 \\&#10;(x - x) + (-3y + 2y) + (z-5z) &amp;= 7 \\&#10;-y - 4z &amp;= 7&#10;\end {align}$</div>
+
+<p>Next, multiply the first equation by <span class='clFormula'>$-5$</span>
+,  and add it to the third equation: </p>
+
+<div class='clFormula'>$\begin {align} -5(x - 3y + z) + (5x - 13y + 13z) &amp;= -5(4) + 8 \\&#10;(-5x + 5x) + (15y - 13y) + (-5z + 13z) &amp;= -20 + 8 \\&#10;2y + 8z &amp;= -12&#10;\end {align}$</div>
+
+<p>Now, notice that we have a system of equations in two variables:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix}&#10;\begin {align} -y - 4z &amp;= 7 \\&#10;2y + 8z &amp;= -12&#10;\end {align}&#10;\end {matrix} \right.$</div>
+
+<p>We can solve this by multiplying the top equation by 2, and adding it to the bottom equation:</p>
+
+<div class='clFormula'>$\begin {align} 2(-y-4z) + (2y + 8z) &amp;= 2(7) -12 \\&#10;(-2y + 2y) + (-8z + 8z) &amp;= 14 - 12 \\&#10;0 &amp;= 2&#10;\end {align}$</div>
+
+<p>The final equation <span class='clFormula'>$0 = 2$</span>
+is a contradiction, so we conclude that the system of equations in inconsistent, and therefore, has no solution.</p>
+<h2 id='section_47'>3.3. Systems of Inequalities and Linear Programming</h2>
+
+<h3 id='concept_209'>3.3.1. Graphs of Linear Inequalities</h3>
+
+<blockquote>Graphing linear inequalities involves graphing the original line, and then shading in the area connected to the inequality.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Use graphs to find the solutions of linear inequalities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To graph a single linear inequality, first graph the inequality as if it were an equation. If the sign is ≤ or ≥, graph a normal line. If it is &gt; or &lt;, then use a dotted or dashed line. Then, shade either above or below the line, depending on if <span class='clFormula'>$y$</span>
+is greater or less than <span class='clFormula'>$mx+b$</span>
+.</li>
+<li>If there are multiple linear inequalities, then where the shaded areas of each inequality overlap are the solutions to the system.</li>
+<li>If the shaded areas of all inequalities in a system do not overlap, then the system has no solution.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>inequality</dt>
+<dd>A statement that of two quantities one is specifically less than or greater than another. Symbols: <equation>$&lt;$</equation> or <equation>$\leq$</equation> or <equation>$&gt;$</equation> or <equation>$\geq$</equation>, as appropriate.</dd>
+<dt>linear</dt>
+<dd>Of or relating to a class of polynomial of the form <equation>$y=ax+b$</equation>.</dd>
+</dl>
+
+<h3>Single Inequalities in Two Variables</h3>
+
+<p>The simplest inequality to graph is a single inequality in two variables, usually of the form: <span class='clFormula'>$y\leq mx+b$</span>
+, where the inequality can be of any type, less than, less than or equal to, greater than, greater than or equal to, or not equal to. </p>
+<p> Graphing an inequality is easy. First, graph the inequality as if it were an equation. Remember that the solutions to an equation in slope-intercept form are all ordered pairs that satisfy the equation, or make the statement true.  Therefore, if an inequality in two variables has an <span class='clFormula'>$=$</span>
+symbol, then its line too would be solid.   If the sign is <span class='clFormula'>$\leq$</span>
+or <span class='clFormula'>$\geq$</span>
+, graph a normal solid line.  If it is <span class='clFormula'>$&gt;$</span>
+or <span class='clFormula'>$&lt;$</span>
+, then use a dotted or dashed line, since ordered pairs found on the line would result in a false statement.  </p>
+<p>Second, shade either above or below the line, depending on if <span class='clFormula'>$y$</span>
+is greater or less than <span class='clFormula'>$mx+b$</span>
+.  Shading indicates all the ordered pairs in the region that satisfy the inequality.  For example, if the ordered pair is in the shaded region, then that ordered pair makes the inequality a true statement.</p>
+
+<h3>Graph a Single Linear Inequality in Two Variables</h3>
+
+<h3>Example: Sketch the graph of <span class='clFormula'>$y\leq x+2$</span></h3>
+
+<p> Since the equation is less than or equal to, start off by drawing the line <span class='clFormula'>$y=x+2$</span>
+, using a solid line.  Next, note that <span class='clFormula'>$y$</span>
+is less than or equal to <span class='clFormula'>$x+2$</span>
+, which means that <span class='clFormula'>$y$</span>
+can take on the values along the line ("or equal to"), or any values below the line ("less than"), and so we shade in all the values under the line to get the following graph below.</p>
+
+
+
+<a href='../images/0310.png'><img class='clImageThumb' src='../images/0310.png' alt='Inequality graph'></a>
+
+<div><b><i>Inequality graph</i></b></div>
+<p>Graph of <span class='clFormula'>$y\leq x+2$</span>
+.  All possible solutions (any points below the line) are shaded, including the ordered pairs on the line. Since the inequality is <span class='clFormula'>$\leq$</span>
+ the line is solid.  There are no solutions above the line. The line y = x + 2 has positive slope and passes through the points (-2, 0) and (0, 2). It is solid and the area below the line is shaded.</p>
+
+
+<h3>How to Graph Multiple Linear Inequalities in Two Variables</h3>
+
+<p>Now if there is more than one inequality, start off by graphing them one at a time, just as was done with a single inequality. To find solutions for the group of inequalities, observe where the area of all of the inequalities overlap. These overlaps of the shaded regions indicate all solutions (ordered pairs) to the system. This also means that if there are inequalities that don't overlap, then there is no solution to the system.</p>
+
+<h3>Example: Sketch the graph of <span class='clFormula'>$y&lt;-\frac{1}{2}x+1$</span>
+ and <span class='clFormula'>$y\geq x-2$</span></h3>
+
+
+
+
+<a href='../images/0311.png'><img class='clImageThumb' src='../images/0311.png' alt='Graph of two inequalities'></a>
+
+<div><b><i>Graph of two inequalities</i></b></div>
+<p>The overlapping shaded area is the final solution to the system of linear inequalities because it is comprised of all possible solutions to <span class='clFormula'>$y&lt;-\frac{1}{2}x+1$</span>
+ (the dotted red line and red area below the line) and <span class='clFormula'>$y\geq x-2$</span>
+ (the solid green line and the green area above the line).  The origin is a solution to the system, but the point <span class='clFormula'>$(3,0)$</span>
+ is not. The line y = x - 2 has positive slope and x-intercept 2 and y-intercept -2. The area above this line is shaded. The line y = -1/2x + 1 has negative slope and also has x-intercept 2 and has y-intercept 1. The area below this line is shaded. The area shaded from both lines is the infinite triangular area to the left of x=2, above the first line, and below the second line.</p>
+
+<h3 id='concept_210'>3.3.2. Solving Systems of Linear Inequalities</h3>
+
+<blockquote>Solving for a system of linear inequalities requires finding values for each of the variables such that all equations are satisfied.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Solve systems of linear inequalities using graphical and non-graphical methods</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>To solve a system graphically, draw and shade in each of the inequalities on the graph, and then look for an area in which all of the inequalities overlap. This area is the solution. If there is no area in which all of the inequalities overlap, then the system has no solution.</li>
+<li>To solve a system non-graphically, find the intersection points, and then find out, relative to those points, which values still hold for the inequality. Narrow down these values until mutually exclusive ranges (no solutions) are found, or not, in which case, the solution is within your final range.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>mutually exclusive</dt>
+<dd>Describing multiple events or states of being, such that the occurrence of any one implies the non-occurrence of all the others.</dd>
+<dt>system of inequalities</dt>
+<dd>A set of inequalities with multiple variables, often solved with a particular specification of the values of all variables that simultaneously satisfies all of the inequalities.</dd>
+<dt>subset</dt>
+<dd>With respect to another set, a set such that each of its elements is also an element of the other set.</dd>
+</dl>
+
+<p>A system of inequalities is a set of inequalities with multiple variables, often solved with a particular specification of of the values of all variables that simultaneously satisfies all of the inequalities. A system of inequalities can be solved graphically and non-graphically. </p>
+
+<h3>Graphical Method</h3>
+
+<p>Often the easiest way to solve a system of linear inequalities is by graphing. However, graphing is only possible if there are two or three variables in the system. </p>
+<p>When using the graphical method for two variables, first plot all of the lines representing the inequalities, drawing a dotted line if it is either &lt; or &gt;, and a solid line if it is either <span class='clFormula'>$\leq$</span>
+or <span class='clFormula'>$\geq$</span>
+. Shade, or indicate with hash marks, the area that corresponds to the inequality. For instance, if it is &lt; or <span class='clFormula'>$\leq$</span>
+, shade in the area below the line. If it is &gt; or <span class='clFormula'>$\geq$</span>
+shade in the area above the line.</p>
+<p>Once all of the inequalities have been drawn and shaded in, the solution to the system is the area in which all of the inequalities overlap each other. For example, given the system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} &#10;\begin {align} &#10;y &amp;\geq -2x-1&#10;\\ y &amp;\geq 2x+1&#10;\\ y &amp;\leq x+2 &#10;\end {align}&#10;\end{matrix}\right.$</div>
+
+<p>Draw each of the lines and shade in, or indicate, their corresponding inequalities, and then look to see what parts overlap. The shaded part in the middle is where all three inequalities overlap.</p>
+
+
+
+<a href='../images/0312.png'><img class='clImageThumb' src='../images/0312.png' alt='System of inequalities'></a>
+
+<div><b><i>System of inequalities</i></b></div>
+<p>Three lines are graphed, with the area that satisfies all three inequalities shaded.</p>
+
+<p>If all of the inequalities of a system fail to overlap over the same area, then there is no solution to that system. For instance, given the following system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix} &#10;\begin {align} &#10;y &amp;\geq 1&#10;\\ y &amp;\geq 2x+2&#10;\\ y &amp;\leq x+1  &#10;\end {align}&#10;\end{matrix}\right.$</div>
+
+<p>Again, draw all the inequalities and shade in the area that each inequality covers. </p>
+
+
+
+<a href='../images/0313.png'><img class='clImageThumb' src='../images/0313.png' alt='System of inequalities with no solution'></a>
+
+<div><b><i>System of inequalities with no solution</i></b></div>
+<p>Three inequalities are graphed. There is no area which is shaded by all three inequalities, so the system of inequalities has no solution.</p>
+
+<p>Notice that in this graph, there is no part of the graph where all three inequalities overlap. There are plenty of areas where two of the three overlap at a time, but  all three must overlap for those points to be a solution to the system.</p>
+
+<h3>Non-Graphical Method</h3>
+
+<p>Sometimes one may not wish to graph the equations, or simply cannot, due to the number of variables. In this situation, find intervals in which certain variables satisfy the system by looking at two equations at a time. This is referred to as the non-graphical method.</p>
+<p>First, find the intersection point(s) of two of the equations. If there is no intersection, then the two inequalities are either mutually exclusive, or one of the inequalities is a subset of the other. For a simple example, <span class='clFormula'>$x&gt;2$</span>
+and <span class='clFormula'>$x&lt;1$</span>
+ are mutually exclusive, whereas <span class='clFormula'>$x&gt;2$</span>
+and <span class='clFormula'>$x&gt;1$</span>
+ has <span class='clFormula'>$x&gt;2$</span>
+as a subset of <span class='clFormula'>$x&gt;1$</span>
+. If they are mutually exclusive, then there is no solution.</p>
+<p>To find the intersection point of this system:</p>
+
+<div class='clFormula'>$\left\{\begin{matrix}&#10;\begin {align}&#10;y &amp;\geq -2x&#10;\\ y &amp;\leq x+1&#10;\end {align}&#10;\end{matrix} \right.$</div>
+
+<p>first, substitute for <span class='clFormula'>$y$</span>
+ and solve for <span class='clFormula'>$ x$</span>
+:</p>
+
+<div class='clFormula'>$\begin {align} x+1 &amp;\geq -2x&#10;\\ 3x &amp;\geq -1&#10;\\ x &amp;\geq -\frac {1}{3}&#10;\end {align}$</div>
+
+<p>Then, substitute a value for <span class='clFormula'>$x$</span>
+ into each inequality to see that it is true. For example, with <span class='clFormula'>$x=0$</span>
+,  the first equation yields <span class='clFormula'>$y \geq 0$</span>
+, and the second yields <span class='clFormula'>$y \leq 1$</span>
+ . Since these two equations are not mutually exclusive, these two equations are satisfied for any  <span class='clFormula'>$x \geq -\frac{1}{3}$</span>
+. </p>
+<p>The non-graphical method is much more complicated, and is perhaps much harder to visualize all the possible solutions for a system of inequalities. However, when you have several equations or several variables, graphing may be the only feasible method.</p>
+
+<h3 id='concept_211'>3.3.3. Application of Systems of Inequalities: Linear Programming</h3>
+
+<blockquote>Linear programming involves finding an optimal solution for a linear equation, given a number of constraints.</blockquote>
+
+<h4>Learning Objective</h4>
+
+<p>Explain the steps of the Simplex Method to solve applications of systems of linear inequalities</p>
+
+<h4>Key Points</h4>
+
+<ul>
+<li>The standard form for a linear program is: minimize <span class='clFormula'>$c\cdot x$</span>
+, subject to <span class='clFormula'>$Ax=b, x_{i}\geq0$</span>
+. <em>c</em> is the coefficients of the objective function, <em>x</em> is the variables, <em>A</em> is the left-side of the constraints and <em>b</em> is the right side.</li>
+<li>The Simplex Method involves choosing an entering variable from the nonbasic variables in the objective function, finding the corresponding leaving variable that maintains feasibility, and pivoting to get a new feasible solution, repeating until you find a solution.</li>
+<li>In the Simplex Method, if there are no positive coefficients corresponding to the nonbasic variables in the objective function, then you are at an optimal solution.</li>
+<li>In the Simplex Method, if there are no choices for the leaving variable, then the solution is unbounded.</li>
+</ul>
+
+<h4>Key Terms</h4>
+
+<dl>
+<dt>pivot</dt>
+<dd>
+Moving from one basic feasible solution to an adjacent basic feasible solution.
+</dd>
+<dt>canonical form</dt>
+<dd>The format in which a linear program in standard form can be represented, if the columns of <em>A</em> are rearranged so that it contains the the number of rows in <em>A.</em></dd>
+<dt>objective function</dt>
+<dd>A function to be maximized or minimized in optimization theory.</dd>
+<dt>the simplex method</dt>
+<dd>An algorithm that optimizes a system of linear inequalities.</dd>
+<dt>constraint</dt>
+<dd>A condition that a solution to a problem must satisfy.</dd>
+</dl>
+
+<p>A common application of systems of inequalities is linear programming. Linear programming is a mathematical method for determining a way to achieve the best outcome for a list of requirements represented as linear relationships. </p>
+<p>An example where linear programming would be helpful to optimize a system of inequalities is as follows:</p>
+<p>A factory makes three types of chairs, A, B, and C. The factory makes a profit of \$2 on chair A, \$3 on chair B, and \$4 on chair C. Chair A requires 30 man-hours, chair B requires 20, and chair C requires 10. Chair A needs 2m<sup>2</sup> of wood, chair B needs 5m<sup>2</sup>, and chair C needs 3m<sup>2</sup>. Given 100 man-hours and 15m<sup>2</sup> of wood per week, how many chairs of each type should be made each week to maximize profit?</p>
+
+<h3>The Simplex Method</h3>
+
+<p>The most common method in linear programming is the S<em>implex Method,</em> or the Simplex Algorithm. To use the Simplex Method, we need to represent the problem using linear equations. Let <em>a</em> be the number of A chairs, <em>b</em> the B chairs, and <em>c</em> the C chairs. Then, we can write two linear inequalities where three variables must be non-negative, and all constraints must be satisfied. One linear inequality will show a relationship between the man-hours required for the project, and the other will show the amount of wood needed in the project:</p>
+<p>First,  an inequality for for man-hours, simplified:</p>
+
+<div class='clFormula'>$30a+20b+10c\leq100&#10;\\3a+2b+c\leq10$</div>
+
+<p>Then, an inequality for materials:</p>
+
+<div class='clFormula'>$2a+5b+3c\leq15$</div>
+
+<p>The function to be maximized (the <em>objective function, </em>and in this case, the profit on the chairs) is: </p>
+
+<div class='clFormula'>$P=2a+3b+4c$</div>
+
+
+<h3>Standard Form</h3>
+
+<p>The standard form for the Simplex Method is:</p>
+<p>Minimize <span class='clFormula'>$c\cdot x$</span></p>
+<p>Subject to: <span class='clFormula'>$Ax=b, x_{i}\geq0$</span></p>
+<p>Where <span class='clFormula'>$x=[x_{1}, x_{2},..., x_{n}]^{T}$</span>
+are the variables, <span class='clFormula'>$c=[c_{1}, c_{2},..., c_{n}]$</span>
+are the coefficients of the objective function, <em>A</em> is the left-side of the constraints, and <span class='clFormula'>$b=[b_{1}, b_{2},..., b_{p}]^{T}$</span>
+the right.</p>
+<p>The solution of a linear program is accomplished in two steps. In the first step, Phase I, a starting extreme point is found. Phase I either gives a basic feasible solution or no solution. If there is no solution, the linear program is considered infeasible. </p>
+<p>In the second step, Phase II, the Simplex Algorithm is applied using the solution found in Phase I as a starting point. The possible results from Phase II are either an optimal solution or an unbounded solution.</p>
+
+<h3>Achieving Standard Form</h3>
+
+<p>You may have noticed that we had been given inequalities, such as <span class='clFormula'>$3a+2b+c \leq 10$</span>
+, but standard form calls for equalities, or equations. We therefore introduce a slack variable that represents the difference between the two sides of the inequality and is non-negative. </p>
+<p>This gives us the new equality: </p>
+
+<div class='clFormula'>$3a+2b+c+s=10$</div>
+
+<p>The other inequality, <span class='clFormula'>$2a+5b+3c \leq 15$</span>
+, becomes: </p>
+
+<div class='clFormula'>$2a+5b+3c+t=15$</div>
+
+<p>Standard form also requires the objective function to be a minimization. If the problem calls for maximization, multiply the objective function by <span class='clFormula'>$-1$</span>
+.</p>
+<p>Here are the pieces for standard form:</p>
+
+<div class='clFormula'>$x=[a, b, c, s, t]^{T}$</div>
+
+
+<div class='clFormula'>$c=[-2, -3, -4, 0, 0]$</div>
+
+
+<div class='clFormula'>$A=\begin{bmatrix} 3 &amp; 2&amp;1&amp;1&amp; 0\\ 2&amp; 5&amp;3&amp;0&amp;1 \end{bmatrix}$</div>
+
+
+<div class='clFormula'>$b=\begin{bmatrix} 10 \\ 15 \end{bmatrix}$</div>
+
+
+<h3>Canonical Tableaux</h3>
+
+<p>A linear program in standard form can be represented as a tableau of the form</p>
+
+<div class='clFormula'>$\begin{bmatrix} 1 &amp; -c&amp;0 \\ 0&amp;A&amp;b \end{bmatrix}$</div>
+
+<p>where the first row defines the objective function and the remaining rows specify the constraints. If the columns of <em>A</em> can be rearranged so that it contains the p-by-p identity matrix (the number of rows in <em>A</em>), then the tableau is said to be in canonical form. The variables corresponding to the columns of the identity matrix are called <em>basic</em> variables, while the remaining variables are called <em>nonbasic</em> or free variables. If the nonbasic variables are assumed to be <span class='clFormula'>$0$</span>
+, then the values of the basic variables are easily obtained as entries in <em>b,</em> and this solution is a basic feasible solution.</p>
+
+<h3>
+Pivots
+</h3>
+
+<p>Moving from one basic feasible solution to an adjacent basic feasible solution is called a <em>pivot</em>. First, a nonzero pivot element is selected in a nonbasic column. The row containing this element is multiplied by its reciprocal to change this element to 1, and then multiples of the row are added to the others to change the other entries in the column to <span class='clFormula'>$0$</span>
+. The result is that if the pivot is in row <span class='clFormula'>$r$</span>
+, then the column becomes the <span class='clFormula'>$r$</span>
+-th column of the identity matrix. The variable for this column is now basic, replacing the variable which corresponded to the  <span class='clFormula'>$r$</span>
+-th column of the identity matrix. The variable corresponding to the pivot column enters the set of basic variables, and the variable being replaced leaves the set of basic variables.</p>
+<p>Now, the Simplex Method proceeds by performing successive pivot operations which each improve the basic feasible solution; the choice of pivot element at each step is largely determined by the requirement that this pivot improves the solution.</p>
+<p>For the entering variable, choose any column in which the entry in the objective row is positive. If all the entries in the objective row are less than or equal to <span class='clFormula'>$0$</span>
+, then no choice of entering variable can be made and the solution is optimal.</p>
+<p>For the choice of pivot row, only positive entries in the pivot column are considered. This guarantees that the value of the entering variable will be non-negative. If there are none in the pivot column, then the entering variable can take any non-negative value with the solution remaining feasible. Therefore, the objective function is unbounded.</p>
+<p>Next, the pivot row must be selected so that all the other basic variables remain positive. This occurs when the resulting value of the entering variable is at a minimum. If the pivot column is c, then the pivot row r is chosen so that <span class='clFormula'>$b_{r}/a_{cr}$</span>
+is at a minimum.</p>
+<p>Using our example, the canonical tableau is:</p>
+
+<div class='clFormula'>$\begin{bmatrix} 1&amp;2&amp;3&amp;4&amp;0&amp;0&amp;0 \\ 0&amp;3&amp;2&amp;1&amp;1&amp;0&amp;10\\ 0&amp;2&amp;5&amp;3&amp;0&amp;1&amp;15 \end{bmatrix}$</div>
+
+<p>Columns 5 and 6 are the basic variables <em>s</em> and <em>t</em>, and the basic feasible solution is <span class='clFormula'>$a=b=c=0, s=10, t=15$</span>
+.</p>
+<p>Columns 2, 3, and 4 can be selected as pivot columns; for this example column 4 is selected. The values of <em>x</em> resulting from the choice of rows 2 and 3 as pivot rows are  <span class='clFormula'>$\frac{10}{1}=10$</span>
+ and <span class='clFormula'>$\frac{15}{3}=5$</span>
+ respectively. Of these, the minimum is 5, so row 3 must be the pivot row. Performing the pivot produces:</p>
+
+<div class='clFormula'>$\begin{bmatrix} 1&amp;\frac{-2}{3}&amp;\frac{-11}{3}&amp;0&amp;0&amp;\frac{-4}{3}&amp;-20 \\ 0&amp;\frac{7}{3}&amp;\frac{1}{3}&amp;0&amp;1&amp;\frac{-1}{3}&amp;5\\ 0&amp;\frac{2}{3}&amp;\frac{5}{3}&amp;1&amp;0&amp;\frac{1}{3}&amp;5 \end{bmatrix}$</div>
+
+<p>Now columns 4 and 5 represent the basic variables <em>c</em> and <em>s</em> and the corresponding basic feasible solution is:</p>
+
+<div class='clFormula'>$a=b=t=0, s=5, c=5$</div>
+
+<p>For the next step, there are no positive entries in the objective row, and in fact:<span class='clFormula'>$-P=-20+\frac{2}{3}a+\frac{11}{3}b+\frac{4}{3}t$</span></p>
+<p>So, we should make 5 chairs of type C to maximize our profits with 20 dollars.</p>
+
+</div>
+</div>
+</body>
+</html>

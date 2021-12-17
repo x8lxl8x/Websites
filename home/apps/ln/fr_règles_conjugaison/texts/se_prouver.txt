@@ -1,0 +1,190 @@
+# se prouver %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se prouv%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|prouv%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se prouv%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|prouv%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se prouv%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|prouv%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|prouv%[m|e]|
+|tu|te|prouv%[m|es]|
+|il|se|prouv%[m|e]|
+|nous|nous|prouv%[m|ons]|
+|vous|vous|prouv%[m|ez]|
+|ils|se|prouv%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|prouv%[m|é]|
+|tu|t'|es|prouv%[m|é]|
+|il|s'|est|prouv%[m|é]|
+|nous|nous|sommes|prouv%[m|és]|
+|vous|vous|êtes|prouv%[m|és]|
+|ils|se|sont|prouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|prouv%[m|ais]|
+|tu|te|prouv%[m|ais]|
+|il|se|prouv%[m|ait]|
+|nous|nous|prouv%[m|ions]|
+|vous|vous|prouv%[m|iez]|
+|ils|se|prouv%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|prouv%[m|é]|
+|tu|t'|étais|prouv%[m|é]|
+|il|s'|était|prouv%[m|é]|
+|nous|nous|étions|prouv%[m|és]|
+|vous|vous|étiez|prouv%[m|és]|
+|ils|s'|étaient|prouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|prouv%[m|ai]|
+|tu|te|prouv%[m|as]|
+|il|se|prouv%[m|a]|
+|nous|nous|prouv%[m|âmes]|
+|vous|vous|prouv%[m|âtes]|
+|ils|se|prouv%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|prouv%[m|é]|
+|tu|te|fus|prouv%[m|é]|
+|il|se|fut|prouv%[m|é]|
+|nous|nous|fûmes|prouv%[m|és]|
+|vous|vous|fûtes|prouv%[m|és]|
+|ils|se|furent|prouv%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|prouv%[m|erai]|
+|tu|te|prouv%[m|eras]|
+|il|se|prouv%[m|era]|
+|nous|nous|prouv%[m|erons]|
+|vous|vous|prouv%[m|erez]|
+|ils|se|prouv%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|prouv%[m|é]|
+|tu|te|seras|prouv%[m|é]|
+|il|se|sera|prouv%[m|é]|
+|nous|nous|serons|prouv%[m|és]|
+|vous|vous|serez|prouv%[m|és]|
+|ils|se|seront|prouv%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|prouv%[m|erais]|
+|tu|te|prouv%[m|erais]|
+|il|se|prouv%[m|erait]|
+|nous|nous|prouv%[m|erions]|
+|vous|vous|prouv%[m|eriez]|
+|ils|se|prouv%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|prouv%[m|é]|
+|tu|te|serais|prouv%[m|é]|
+|il|se|serait|prouv%[m|é]|
+|nous|nous|serions|prouv%[m|és]|
+|vous|vous|seriez|prouv%[m|és]|
+|ils|se|seraient|prouv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|prouv%[m|e]|
+|que|tu|te|prouv%[m|es]|
+|qu'|il|se|prouv%[m|e]|
+|que|nous|nous|prouv%[m|ions]|
+|que|vous|vous|prouv%[m|iez]|
+|qu'|ils|se|prouv%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|prouv%[m|é]|
+|que|tu|te|sois|prouv%[m|é]|
+|qu'|il|se|soit|prouv%[m|é]|
+|que|nous|nous|soyons|prouv%[m|és]|
+|que|vous|vous|soyez|prouv%[m|és]|
+|qu'|ils|se|soient|prouv%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|prouv%[m|asse]|
+|que|tu|te|prouv%[m|asses]|
+|qu'|il|se|prouv%[m|ât]|
+|que|nous|nous|prouv%[m|assions]|
+|que|vous|vous|prouv%[m|assiez]|
+|qu'|ils|se|prouv%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|prouv%[m|é]|
+|que|tu|te|fusses|prouv%[m|é]|
+|qu'|il|se|fût|prouv%[m|é]|
+|que|nous|nous|fussions|prouv%[m|és]|
+|que|vous|vous|fussiez|prouv%[m|és]|
+|qu'|ils|se|fussent|prouv%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prouv%[m|e]-toi|
+|prouv%[m|ons]-nous|
+|prouv%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

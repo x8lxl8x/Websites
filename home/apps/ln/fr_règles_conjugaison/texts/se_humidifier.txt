@@ -1,0 +1,190 @@
+# s'humidifier %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'humidifi%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|humidifi%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'humidifi%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|humidifi%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'humidifi%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|humidifi%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|humidifi%[m|e]|
+|tu|t'|humidifi%[m|es]|
+|il|s'|humidifi%[m|e]|
+|nous|nous|humidifi%[m|ons]|
+|vous|vous|humidifi%[m|ez]|
+|ils|s'|humidifi%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|humidifi%[m|é]|
+|tu|t'|es|humidifi%[m|é]|
+|il|s'|est|humidifi%[m|é]|
+|nous|nous|sommes|humidifi%[m|és]|
+|vous|vous|êtes|humidifi%[m|és]|
+|ils|se|sont|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|humidifi%[m|ais]|
+|tu|t'|humidifi%[m|ais]|
+|il|s'|humidifi%[m|ait]|
+|nous|nous|humidifi%[m|ions]|
+|vous|vous|humidifi%[m|iez]|
+|ils|s'|humidifi%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|humidifi%[m|é]|
+|tu|t'|étais|humidifi%[m|é]|
+|il|s'|était|humidifi%[m|é]|
+|nous|nous|étions|humidifi%[m|és]|
+|vous|vous|étiez|humidifi%[m|és]|
+|ils|s'|étaient|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|humidifi%[m|ai]|
+|tu|t'|humidifi%[m|as]|
+|il|s'|humidifi%[m|a]|
+|nous|nous|humidifi%[m|âmes]|
+|vous|vous|humidifi%[m|âtes]|
+|ils|s'|humidifi%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|humidifi%[m|é]|
+|tu|te|fus|humidifi%[m|é]|
+|il|se|fut|humidifi%[m|é]|
+|nous|nous|fûmes|humidifi%[m|és]|
+|vous|vous|fûtes|humidifi%[m|és]|
+|ils|se|furent|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|humidifi%[m|erai]|
+|tu|t'|humidifi%[m|eras]|
+|il|s'|humidifi%[m|era]|
+|nous|nous|humidifi%[m|erons]|
+|vous|vous|humidifi%[m|erez]|
+|ils|s'|humidifi%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|humidifi%[m|é]|
+|tu|te|seras|humidifi%[m|é]|
+|il|se|sera|humidifi%[m|é]|
+|nous|nous|serons|humidifi%[m|és]|
+|vous|vous|serez|humidifi%[m|és]|
+|ils|se|seront|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|humidifi%[m|erais]|
+|tu|t'|humidifi%[m|erais]|
+|il|s'|humidifi%[m|erait]|
+|nous|nous|humidifi%[m|erions]|
+|vous|vous|humidifi%[m|eriez]|
+|ils|s'|humidifi%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|humidifi%[m|é]|
+|tu|te|serais|humidifi%[m|é]|
+|il|se|serait|humidifi%[m|é]|
+|nous|nous|serions|humidifi%[m|és]|
+|vous|vous|seriez|humidifi%[m|és]|
+|ils|se|seraient|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|humidifi%[m|e]|
+|que|tu|t'|humidifi%[m|es]|
+|qu'|il|s'|humidifi%[m|e]|
+|que|nous|nous|humidifi%[m|ions]|
+|que|vous|vous|humidifi%[m|iez]|
+|qu'|ils|s'|humidifi%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|humidifi%[m|é]|
+|que|tu|te|sois|humidifi%[m|é]|
+|qu'|il|se|soit|humidifi%[m|é]|
+|que|nous|nous|soyons|humidifi%[m|és]|
+|que|vous|vous|soyez|humidifi%[m|és]|
+|qu'|ils|se|soient|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|humidifi%[m|asse]|
+|que|tu|t'|humidifi%[m|asses]|
+|qu'|il|s'|humidifi%[m|ât]|
+|que|nous|nous|humidifi%[m|assions]|
+|que|vous|vous|humidifi%[m|assiez]|
+|qu'|ils|s'|humidifi%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|humidifi%[m|é]|
+|que|tu|te|fusses|humidifi%[m|é]|
+|qu'|il|se|fût|humidifi%[m|é]|
+|que|nous|nous|fussions|humidifi%[m|és]|
+|que|vous|vous|fussiez|humidifi%[m|és]|
+|qu'|ils|se|fussent|humidifi%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|humidifi%[m|e]-toi|
+|humidifi%[m|ons]-nous|
+|humidifi%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

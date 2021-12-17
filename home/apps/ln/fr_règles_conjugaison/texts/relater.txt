@@ -1,0 +1,190 @@
+# relater %[clVerbGroup|1]
+[-
+rapporter, raconter, précisément. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|relat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|relat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|relat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||relat%[m|é]|
+|ayant|relat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en relat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|relat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|relat%[m|e]|
+|tu|relat%[m|es]|
+|il|relat%[m|e]|
+|nous|relat%[m|ons]|
+|vous|relat%[m|ez]|
+|ils|relat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|relat%[m|é]|
+|tu|as |relat%[m|é]|
+|il|a|relat%[m|é]|
+|nous|avons|relat%[m|é]|
+|vous|avez|relat%[m|é]|
+|ils|ont|relat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|relat%[m|ais]|
+|tu|relat%[m|ais]|
+|il|relat%[m|ait]|
+|nous|relat%[m|ions]|
+|vous|relat%[m|iez]|
+|ils|relat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|relat%[m|é]|
+|tu|avais|relat%[m|é]|
+|il|avait|relat%[m|é]|
+|nous|avions|relat%[m|é]|
+|vous|aviez|relat%[m|é]|
+|ils|avaient|relat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|relat%[m|ai]|
+|tu|relat%[m|as]|
+|il|relat%[m|a]|
+|nous|relat%[m|âmes]|
+|vous|relat%[m|âtes]|
+|ils|relat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|relat%[m|é]|
+|tu|eus|relat%[m|é]|
+|il|eut|relat%[m|é]|
+|nous|e&ucirc;mes|relat%[m|é]|
+|vous|e&ucirc;tes|relat%[m|é]|
+|ils|eurent|relat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|relat%[m|erai]|
+|tu|relat%[m|eras]|
+|il|relat%[m|era]|
+|nous|relat%[m|erons]|
+|vous|relat%[m|erez]|
+|ils|relat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|relat%[m|é]|
+|tu|auras|relat%[m|é]|
+|il|aura|relat%[m|é]|
+|nous|aurons|relat%[m|é]|
+|vous|aurez|relat%[m|é]|
+|ils|auront|relat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|relat%[m|erais]|
+|tu|relat%[m|erais]|
+|il|relat%[m|erait]|
+|nous|relat%[m|erions]|
+|vous|relat%[m|eriez]|
+|ils|relat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|relat%[m|é]|
+|tu|aurais|relat%[m|é]|
+|il|aurait|relat%[m|é]|
+|nous|aurions|relat%[m|é]|
+|vous|auriez|relat%[m|é]|
+|ils|auraient|relat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|relat%[m|e]|
+|que|tu|relat%[m|es]|
+|qu'|il|relat%[m|e]|
+|que|nous|relat%[m|ions]|
+|que|vous|relat%[m|iez]|
+|qu'|ils|relat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|relat%[m|é]|
+|que|tu|aies|relat%[m|é]|
+|qu'|il|ait|relat%[m|é]|
+|que|nous|ayons|relat%[m|é]|
+|que|vous|ayez|relat%[m|é]|
+|qu'|ils|aient|relat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|relat%[m|asse]|
+|que|tu|relat%[m|asses]|
+|qu'|il|relat%[m|ât]|
+|que|nous|relat%[m|assions]|
+|que|vous|relat%[m|assiez]|
+|qu'|ils|relat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|relat%[m|é]|
+|que|tu|eusses|relat%[m|é]|
+|qu'|il|eût|relat%[m|é]|
+|que|nous|eussions|relat%[m|é]|
+|que|vous|eussiez|relat%[m|é]|
+|qu'|ils|eussent|relat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|relat%[m|e]|
+|relat%[m|ons]|
+|relat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|relat%[m|é]|
+|ayons|relat%[m|é]|
+|ayez|relat%[m|é]|
+|]
+

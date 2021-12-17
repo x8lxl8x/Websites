@@ -1,0 +1,190 @@
+# cogner %[clVerbGroup|1]
+[-
+donner des coups. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cogn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cogn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cogn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cogn%[m|é]|
+|ayant|cogn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cogn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cogn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cogn%[m|e]|
+|tu|cogn%[m|es]|
+|il|cogn%[m|e]|
+|nous|cogn%[m|ons]|
+|vous|cogn%[m|ez]|
+|ils|cogn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cogn%[m|é]|
+|tu|as |cogn%[m|é]|
+|il|a|cogn%[m|é]|
+|nous|avons|cogn%[m|é]|
+|vous|avez|cogn%[m|é]|
+|ils|ont|cogn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cogn%[m|ais]|
+|tu|cogn%[m|ais]|
+|il|cogn%[m|ait]|
+|nous|cogn%[m|ions]|
+|vous|cogn%[m|iez]|
+|ils|cogn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cogn%[m|é]|
+|tu|avais|cogn%[m|é]|
+|il|avait|cogn%[m|é]|
+|nous|avions|cogn%[m|é]|
+|vous|aviez|cogn%[m|é]|
+|ils|avaient|cogn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cogn%[m|ai]|
+|tu|cogn%[m|as]|
+|il|cogn%[m|a]|
+|nous|cogn%[m|âmes]|
+|vous|cogn%[m|âtes]|
+|ils|cogn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cogn%[m|é]|
+|tu|eus|cogn%[m|é]|
+|il|eut|cogn%[m|é]|
+|nous|e&ucirc;mes|cogn%[m|é]|
+|vous|e&ucirc;tes|cogn%[m|é]|
+|ils|eurent|cogn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cogn%[m|erai]|
+|tu|cogn%[m|eras]|
+|il|cogn%[m|era]|
+|nous|cogn%[m|erons]|
+|vous|cogn%[m|erez]|
+|ils|cogn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cogn%[m|é]|
+|tu|auras|cogn%[m|é]|
+|il|aura|cogn%[m|é]|
+|nous|aurons|cogn%[m|é]|
+|vous|aurez|cogn%[m|é]|
+|ils|auront|cogn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cogn%[m|erais]|
+|tu|cogn%[m|erais]|
+|il|cogn%[m|erait]|
+|nous|cogn%[m|erions]|
+|vous|cogn%[m|eriez]|
+|ils|cogn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cogn%[m|é]|
+|tu|aurais|cogn%[m|é]|
+|il|aurait|cogn%[m|é]|
+|nous|aurions|cogn%[m|é]|
+|vous|auriez|cogn%[m|é]|
+|ils|auraient|cogn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cogn%[m|e]|
+|que|tu|cogn%[m|es]|
+|qu'|il|cogn%[m|e]|
+|que|nous|cogn%[m|ions]|
+|que|vous|cogn%[m|iez]|
+|qu'|ils|cogn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cogn%[m|é]|
+|que|tu|aies|cogn%[m|é]|
+|qu'|il|ait|cogn%[m|é]|
+|que|nous|ayons|cogn%[m|é]|
+|que|vous|ayez|cogn%[m|é]|
+|qu'|ils|aient|cogn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cogn%[m|asse]|
+|que|tu|cogn%[m|asses]|
+|qu'|il|cogn%[m|ât]|
+|que|nous|cogn%[m|assions]|
+|que|vous|cogn%[m|assiez]|
+|qu'|ils|cogn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cogn%[m|é]|
+|que|tu|eusses|cogn%[m|é]|
+|qu'|il|eût|cogn%[m|é]|
+|que|nous|eussions|cogn%[m|é]|
+|que|vous|eussiez|cogn%[m|é]|
+|qu'|ils|eussent|cogn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cogn%[m|e]|
+|cogn%[m|ons]|
+|cogn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cogn%[m|é]|
+|ayons|cogn%[m|é]|
+|ayez|cogn%[m|é]|
+|]
+

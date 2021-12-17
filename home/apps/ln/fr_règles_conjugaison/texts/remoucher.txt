@@ -1,0 +1,190 @@
+# remoucher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|remouch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|remouch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|remouch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||remouch%[m|é]|
+|ayant|remouch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en remouch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|remouch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|remouch%[m|e]|
+|tu|remouch%[m|es]|
+|il|remouch%[m|e]|
+|nous|remouch%[m|ons]|
+|vous|remouch%[m|ez]|
+|ils|remouch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|remouch%[m|é]|
+|tu|as |remouch%[m|é]|
+|il|a|remouch%[m|é]|
+|nous|avons|remouch%[m|é]|
+|vous|avez|remouch%[m|é]|
+|ils|ont|remouch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|remouch%[m|ais]|
+|tu|remouch%[m|ais]|
+|il|remouch%[m|ait]|
+|nous|remouch%[m|ions]|
+|vous|remouch%[m|iez]|
+|ils|remouch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|remouch%[m|é]|
+|tu|avais|remouch%[m|é]|
+|il|avait|remouch%[m|é]|
+|nous|avions|remouch%[m|é]|
+|vous|aviez|remouch%[m|é]|
+|ils|avaient|remouch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|remouch%[m|ai]|
+|tu|remouch%[m|as]|
+|il|remouch%[m|a]|
+|nous|remouch%[m|âmes]|
+|vous|remouch%[m|âtes]|
+|ils|remouch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|remouch%[m|é]|
+|tu|eus|remouch%[m|é]|
+|il|eut|remouch%[m|é]|
+|nous|e&ucirc;mes|remouch%[m|é]|
+|vous|e&ucirc;tes|remouch%[m|é]|
+|ils|eurent|remouch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|remouch%[m|erai]|
+|tu|remouch%[m|eras]|
+|il|remouch%[m|era]|
+|nous|remouch%[m|erons]|
+|vous|remouch%[m|erez]|
+|ils|remouch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|remouch%[m|é]|
+|tu|auras|remouch%[m|é]|
+|il|aura|remouch%[m|é]|
+|nous|aurons|remouch%[m|é]|
+|vous|aurez|remouch%[m|é]|
+|ils|auront|remouch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|remouch%[m|erais]|
+|tu|remouch%[m|erais]|
+|il|remouch%[m|erait]|
+|nous|remouch%[m|erions]|
+|vous|remouch%[m|eriez]|
+|ils|remouch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|remouch%[m|é]|
+|tu|aurais|remouch%[m|é]|
+|il|aurait|remouch%[m|é]|
+|nous|aurions|remouch%[m|é]|
+|vous|auriez|remouch%[m|é]|
+|ils|auraient|remouch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|remouch%[m|e]|
+|que|tu|remouch%[m|es]|
+|qu'|il|remouch%[m|e]|
+|que|nous|remouch%[m|ions]|
+|que|vous|remouch%[m|iez]|
+|qu'|ils|remouch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|remouch%[m|é]|
+|que|tu|aies|remouch%[m|é]|
+|qu'|il|ait|remouch%[m|é]|
+|que|nous|ayons|remouch%[m|é]|
+|que|vous|ayez|remouch%[m|é]|
+|qu'|ils|aient|remouch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|remouch%[m|asse]|
+|que|tu|remouch%[m|asses]|
+|qu'|il|remouch%[m|ât]|
+|que|nous|remouch%[m|assions]|
+|que|vous|remouch%[m|assiez]|
+|qu'|ils|remouch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|remouch%[m|é]|
+|que|tu|eusses|remouch%[m|é]|
+|qu'|il|eût|remouch%[m|é]|
+|que|nous|eussions|remouch%[m|é]|
+|que|vous|eussiez|remouch%[m|é]|
+|qu'|ils|eussent|remouch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|remouch%[m|e]|
+|remouch%[m|ons]|
+|remouch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|remouch%[m|é]|
+|ayons|remouch%[m|é]|
+|ayez|remouch%[m|é]|
+|]
+

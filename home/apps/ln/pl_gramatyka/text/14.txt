@@ -1,0 +1,26 @@
+
+=== Гласные звуки
+
+<h1>Гласные звуки</h1>
+<p>Большинство гласных звуков польского языка ([i], [y], [u], [e], [o], [a]) практически не отличаются от соответствующих русских звуков. Единственное отличие можно усмотреть в том, что они не изменяются в безударной позиции, как это наблюдается в русском языке. В таком положении польские гласные звуки только незначительно ослабляются и укорачиваются.</p>
+<p>Особенностью польской системы гласных является наличие носовых звуков [ǫ] и [ę], например, в словах <span class='clSrc'>gęsty</span> [gęsty] «густой», <span class='clSrc'>wąski</span> [vǫski] «узкий».</p>
+<p>При их образовании воздушная струя попадает и в полость рта, и в полость носа. В полости рта язык как бы готовится к произнесению согласного [n], но не заканчивает произнесение согласного звука, т.е. не смыкается с зубами. Поэтому при произнесении этих звуков следует внимательно следить за тем, чтобы язык не прижимался к верхним зубам. Если смыкание произойдет, прозвучит сочетание гласного и согласного [on] или [en], a не носовые гласные [ǫ], [ę].</p>
+<p>Не во всех случаях гласные, обозначенные буквами <span class='clSrc'>ą, ę</span> произносятся одинаково. Существует несколько правил их произнесения:</p>
+<ul>
+<li>как настоящие носовые гласные [ǫ] и [ę] эти звуки произносятся только перед согласными [z], [s], [ž], [š], [ž'], [š'], [x] (<span class='clSrc'>z, s, ż, sz, rz, ź, ś</span>): <span class='clSrc'>wąsy</span> [vǫsy] «усы», <span class='clSrc'>mężny</span> [męžny] «мужественный», <span class='clSrc'>wiązać</span> [v'ǫzač'] «связывать», <span class='clSrc'>węch</span> [vęx] «нюх». Такой же гласный [ǫ] может существовать на конце слова: <span class='clSrc'>wodą</span> [vodǫ] «водой»;</li>
+<li>как сочетания [om], [em] эти звуки произносятся перед губными согласными [b], [p] (<span class='clSrc'>b, p</span>): <span class='clSrc'>dąb</span> [domp] «дуб», <span class='clSrc'>dębу</span> [demby] «дубы»;</li>
+<li>как сочетания [on], [en] эти звуки произносятся перед звуками [d], [t], [dz], [c], [dž], [č] (<span class='clSrc'>d, t, dz, c, dż, cz</span>): <span class='clSrc'>kąt</span> [kont] «угол», <span class='clSrc'>ręcznik</span> [renčn'ik] «полотенце», <span class='clSrc'>łączyć</span> [wončyč'] «объединять». В случае, если следующий звук мягкий ([č'], [dž']), носовой согласный смягчается, и все сочетание произносится как [on'] и [en']: <span class='clSrc'>bądź</span> [bon'dž'] «будь», <span class='clSrc'>będzie</span> [ben'dž'e] «будет»;</li>
+<li>как сочетания [oŋ], [eŋ] эти звуки произносятся перед звуками [g], [k] (<span class='clSrc'>g, k</span>): <span class='clSrc'>pociąg</span> [poč'oŋk] «поезд», <span class='clSrc'>ręka</span> [reŋka] «рука». Знак [ŋ] обозначает звук, который отличается от звука [n] тем, что смычка возникает не между кончиком языка и передними зубами, а между задней частью спинки языка и мягким небом;</li>
+<li>как неносовые гласные [o], [e] эти звуки произносятся перед звуками [w], обозначенным буквой <span class='clSrc'>ł</span>, и [l'], обозначенным буквой <span class='clSrc'>l</span>: <span class='clSrc'>minął</span> [m'inow] «прошел», <span class='clSrc'>minęli</span> [m'inel'i] «прошли». В современном польском языке также принято произносить конечное <span class='clSrc'>ę</span> как неносовое: <span class='clSrc'>będę</span> [bende] «буду», <span class='clSrc'>wodę</span> [vode] «воду».</li>
+</ul>
+<blockquote>
+<p>Носовые гласные могут появляться в словах иноязычного происхождения на месте сочетания гласного и носового согласного <span class='clSrc'>n</span> перед согласными [z], [s], [ž], [š], [ž'], [š'], [x] (<span class='clSrc'>z, s, ż, sz, rz, ź, ś</span>). Вот примеры таких гласных:</p>
+<ul>
+<li>[a<sup>n</sup>]: <span class='clSrc'>awans</span> «аванс, повышение по службе», <span class='clSrc'>szansa</span> «шанс», <span class='clSrc'>branża</span> «отрасль», <span class='clSrc'>oranżeria</span> «оранжерея»;</li>
+<li>[e<sup>n</sup>]: <span class='clSrc'>sens</span> «смысл», <span class='clSrc'>pensja</span> «зарплата», <span class='clSrc'>benzyna</span> «бензин»;</li>
+<li>[i<sup>n</sup>]: <span class='clSrc'>inspektor</span> «инспектор», <span class='clSrc'>instalacja</span> «оборудование», <span class='clSrc'>inżynier</span> «инженер»;</li>
+<li>[o<sup>n</sup>]: <span class='clSrc'>nonsens</span> «нонсенс», <span class='clSrc'>konszachty</span> «интриги», <span class='clSrc'>bonza</span> «бонза»;</li>
+<li>[y<sup>n</sup>]: <span class='clSrc'>rynsztok</span> «сточная канава», <span class='clSrc'>czynsz</span> «арендная плата»;</li>
+<li>[u<sup>n</sup>]: <span class='clSrc'>kunszt</span> «мастерство», <span class='clSrc'>munsztuk</span> «мундштук».</li>
+</ul>
+</blockquote>

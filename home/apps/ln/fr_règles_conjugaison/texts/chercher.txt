@@ -1,0 +1,191 @@
+# chercher %[clVerbGroup|1]
+[-
+s'efforcer de trouver quelqu'un ou quelque chose. 
+essayer de découvrir (la solution à quelque chose, une idée) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cherch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cherch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cherch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cherch%[m|é]|
+|ayant|cherch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cherch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cherch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cherch%[m|e]|
+|tu|cherch%[m|es]|
+|il|cherch%[m|e]|
+|nous|cherch%[m|ons]|
+|vous|cherch%[m|ez]|
+|ils|cherch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cherch%[m|é]|
+|tu|as |cherch%[m|é]|
+|il|a|cherch%[m|é]|
+|nous|avons|cherch%[m|é]|
+|vous|avez|cherch%[m|é]|
+|ils|ont|cherch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cherch%[m|ais]|
+|tu|cherch%[m|ais]|
+|il|cherch%[m|ait]|
+|nous|cherch%[m|ions]|
+|vous|cherch%[m|iez]|
+|ils|cherch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cherch%[m|é]|
+|tu|avais|cherch%[m|é]|
+|il|avait|cherch%[m|é]|
+|nous|avions|cherch%[m|é]|
+|vous|aviez|cherch%[m|é]|
+|ils|avaient|cherch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cherch%[m|ai]|
+|tu|cherch%[m|as]|
+|il|cherch%[m|a]|
+|nous|cherch%[m|âmes]|
+|vous|cherch%[m|âtes]|
+|ils|cherch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cherch%[m|é]|
+|tu|eus|cherch%[m|é]|
+|il|eut|cherch%[m|é]|
+|nous|e&ucirc;mes|cherch%[m|é]|
+|vous|e&ucirc;tes|cherch%[m|é]|
+|ils|eurent|cherch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cherch%[m|erai]|
+|tu|cherch%[m|eras]|
+|il|cherch%[m|era]|
+|nous|cherch%[m|erons]|
+|vous|cherch%[m|erez]|
+|ils|cherch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cherch%[m|é]|
+|tu|auras|cherch%[m|é]|
+|il|aura|cherch%[m|é]|
+|nous|aurons|cherch%[m|é]|
+|vous|aurez|cherch%[m|é]|
+|ils|auront|cherch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cherch%[m|erais]|
+|tu|cherch%[m|erais]|
+|il|cherch%[m|erait]|
+|nous|cherch%[m|erions]|
+|vous|cherch%[m|eriez]|
+|ils|cherch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cherch%[m|é]|
+|tu|aurais|cherch%[m|é]|
+|il|aurait|cherch%[m|é]|
+|nous|aurions|cherch%[m|é]|
+|vous|auriez|cherch%[m|é]|
+|ils|auraient|cherch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cherch%[m|e]|
+|que|tu|cherch%[m|es]|
+|qu'|il|cherch%[m|e]|
+|que|nous|cherch%[m|ions]|
+|que|vous|cherch%[m|iez]|
+|qu'|ils|cherch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cherch%[m|é]|
+|que|tu|aies|cherch%[m|é]|
+|qu'|il|ait|cherch%[m|é]|
+|que|nous|ayons|cherch%[m|é]|
+|que|vous|ayez|cherch%[m|é]|
+|qu'|ils|aient|cherch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cherch%[m|asse]|
+|que|tu|cherch%[m|asses]|
+|qu'|il|cherch%[m|ât]|
+|que|nous|cherch%[m|assions]|
+|que|vous|cherch%[m|assiez]|
+|qu'|ils|cherch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cherch%[m|é]|
+|que|tu|eusses|cherch%[m|é]|
+|qu'|il|eût|cherch%[m|é]|
+|que|nous|eussions|cherch%[m|é]|
+|que|vous|eussiez|cherch%[m|é]|
+|qu'|ils|eussent|cherch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cherch%[m|e]|
+|cherch%[m|ons]|
+|cherch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cherch%[m|é]|
+|ayons|cherch%[m|é]|
+|ayez|cherch%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se désaccorder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se désaccord%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|désaccord%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se désaccord%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|désaccord%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se désaccord%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|désaccord%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|désaccord%[m|e]|
+|tu|te|désaccord%[m|es]|
+|il|se|désaccord%[m|e]|
+|nous|nous|désaccord%[m|ons]|
+|vous|vous|désaccord%[m|ez]|
+|ils|se|désaccord%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|désaccord%[m|é]|
+|tu|t'|es|désaccord%[m|é]|
+|il|s'|est|désaccord%[m|é]|
+|nous|nous|sommes|désaccord%[m|és]|
+|vous|vous|êtes|désaccord%[m|és]|
+|ils|se|sont|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|désaccord%[m|ais]|
+|tu|te|désaccord%[m|ais]|
+|il|se|désaccord%[m|ait]|
+|nous|nous|désaccord%[m|ions]|
+|vous|vous|désaccord%[m|iez]|
+|ils|se|désaccord%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|désaccord%[m|é]|
+|tu|t'|étais|désaccord%[m|é]|
+|il|s'|était|désaccord%[m|é]|
+|nous|nous|étions|désaccord%[m|és]|
+|vous|vous|étiez|désaccord%[m|és]|
+|ils|s'|étaient|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|désaccord%[m|ai]|
+|tu|te|désaccord%[m|as]|
+|il|se|désaccord%[m|a]|
+|nous|nous|désaccord%[m|âmes]|
+|vous|vous|désaccord%[m|âtes]|
+|ils|se|désaccord%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|désaccord%[m|é]|
+|tu|te|fus|désaccord%[m|é]|
+|il|se|fut|désaccord%[m|é]|
+|nous|nous|fûmes|désaccord%[m|és]|
+|vous|vous|fûtes|désaccord%[m|és]|
+|ils|se|furent|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|désaccord%[m|erai]|
+|tu|te|désaccord%[m|eras]|
+|il|se|désaccord%[m|era]|
+|nous|nous|désaccord%[m|erons]|
+|vous|vous|désaccord%[m|erez]|
+|ils|se|désaccord%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|désaccord%[m|é]|
+|tu|te|seras|désaccord%[m|é]|
+|il|se|sera|désaccord%[m|é]|
+|nous|nous|serons|désaccord%[m|és]|
+|vous|vous|serez|désaccord%[m|és]|
+|ils|se|seront|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|désaccord%[m|erais]|
+|tu|te|désaccord%[m|erais]|
+|il|se|désaccord%[m|erait]|
+|nous|nous|désaccord%[m|erions]|
+|vous|vous|désaccord%[m|eriez]|
+|ils|se|désaccord%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|désaccord%[m|é]|
+|tu|te|serais|désaccord%[m|é]|
+|il|se|serait|désaccord%[m|é]|
+|nous|nous|serions|désaccord%[m|és]|
+|vous|vous|seriez|désaccord%[m|és]|
+|ils|se|seraient|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|désaccord%[m|e]|
+|que|tu|te|désaccord%[m|es]|
+|qu'|il|se|désaccord%[m|e]|
+|que|nous|nous|désaccord%[m|ions]|
+|que|vous|vous|désaccord%[m|iez]|
+|qu'|ils|se|désaccord%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|désaccord%[m|é]|
+|que|tu|te|sois|désaccord%[m|é]|
+|qu'|il|se|soit|désaccord%[m|é]|
+|que|nous|nous|soyons|désaccord%[m|és]|
+|que|vous|vous|soyez|désaccord%[m|és]|
+|qu'|ils|se|soient|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|désaccord%[m|asse]|
+|que|tu|te|désaccord%[m|asses]|
+|qu'|il|se|désaccord%[m|ât]|
+|que|nous|nous|désaccord%[m|assions]|
+|que|vous|vous|désaccord%[m|assiez]|
+|qu'|ils|se|désaccord%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|désaccord%[m|é]|
+|que|tu|te|fusses|désaccord%[m|é]|
+|qu'|il|se|fût|désaccord%[m|é]|
+|que|nous|nous|fussions|désaccord%[m|és]|
+|que|vous|vous|fussiez|désaccord%[m|és]|
+|qu'|ils|se|fussent|désaccord%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désaccord%[m|e]-toi|
+|désaccord%[m|ons]-nous|
+|désaccord%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

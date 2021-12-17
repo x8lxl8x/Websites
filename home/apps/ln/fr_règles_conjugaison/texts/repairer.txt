@@ -1,0 +1,190 @@
+# repairer %[clVerbGroup|1]
+[-
+être au repaire, au gîte. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|repair%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|repair%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|repair%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||repair%[m|é]|
+|ayant|repair%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en repair%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|repair%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|repair%[m|e]|
+|tu|repair%[m|es]|
+|il|repair%[m|e]|
+|nous|repair%[m|ons]|
+|vous|repair%[m|ez]|
+|ils|repair%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|repair%[m|é]|
+|tu|as |repair%[m|é]|
+|il|a|repair%[m|é]|
+|nous|avons|repair%[m|é]|
+|vous|avez|repair%[m|é]|
+|ils|ont|repair%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|repair%[m|ais]|
+|tu|repair%[m|ais]|
+|il|repair%[m|ait]|
+|nous|repair%[m|ions]|
+|vous|repair%[m|iez]|
+|ils|repair%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|repair%[m|é]|
+|tu|avais|repair%[m|é]|
+|il|avait|repair%[m|é]|
+|nous|avions|repair%[m|é]|
+|vous|aviez|repair%[m|é]|
+|ils|avaient|repair%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|repair%[m|ai]|
+|tu|repair%[m|as]|
+|il|repair%[m|a]|
+|nous|repair%[m|âmes]|
+|vous|repair%[m|âtes]|
+|ils|repair%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|repair%[m|é]|
+|tu|eus|repair%[m|é]|
+|il|eut|repair%[m|é]|
+|nous|e&ucirc;mes|repair%[m|é]|
+|vous|e&ucirc;tes|repair%[m|é]|
+|ils|eurent|repair%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|repair%[m|erai]|
+|tu|repair%[m|eras]|
+|il|repair%[m|era]|
+|nous|repair%[m|erons]|
+|vous|repair%[m|erez]|
+|ils|repair%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|repair%[m|é]|
+|tu|auras|repair%[m|é]|
+|il|aura|repair%[m|é]|
+|nous|aurons|repair%[m|é]|
+|vous|aurez|repair%[m|é]|
+|ils|auront|repair%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|repair%[m|erais]|
+|tu|repair%[m|erais]|
+|il|repair%[m|erait]|
+|nous|repair%[m|erions]|
+|vous|repair%[m|eriez]|
+|ils|repair%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|repair%[m|é]|
+|tu|aurais|repair%[m|é]|
+|il|aurait|repair%[m|é]|
+|nous|aurions|repair%[m|é]|
+|vous|auriez|repair%[m|é]|
+|ils|auraient|repair%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|repair%[m|e]|
+|que|tu|repair%[m|es]|
+|qu'|il|repair%[m|e]|
+|que|nous|repair%[m|ions]|
+|que|vous|repair%[m|iez]|
+|qu'|ils|repair%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|repair%[m|é]|
+|que|tu|aies|repair%[m|é]|
+|qu'|il|ait|repair%[m|é]|
+|que|nous|ayons|repair%[m|é]|
+|que|vous|ayez|repair%[m|é]|
+|qu'|ils|aient|repair%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|repair%[m|asse]|
+|que|tu|repair%[m|asses]|
+|qu'|il|repair%[m|ât]|
+|que|nous|repair%[m|assions]|
+|que|vous|repair%[m|assiez]|
+|qu'|ils|repair%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|repair%[m|é]|
+|que|tu|eusses|repair%[m|é]|
+|qu'|il|eût|repair%[m|é]|
+|que|nous|eussions|repair%[m|é]|
+|que|vous|eussiez|repair%[m|é]|
+|qu'|ils|eussent|repair%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|repair%[m|e]|
+|repair%[m|ons]|
+|repair%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|repair%[m|é]|
+|ayons|repair%[m|é]|
+|ayez|repair%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# extruder %[clVerbGroup|1]
+[-
+donner une forme (à un métal ou un plastique) en repoussant à chaud au moyen d'une presse ou d'une extrudeuse. 
+expulser de la lave (pour un volcan) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|extrud%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|extrud%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|extrud%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||extrud%[m|é]|
+|ayant|extrud%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en extrud%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|extrud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|extrud%[m|e]|
+|tu|extrud%[m|es]|
+|il|extrud%[m|e]|
+|nous|extrud%[m|ons]|
+|vous|extrud%[m|ez]|
+|ils|extrud%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|extrud%[m|é]|
+|tu|as |extrud%[m|é]|
+|il|a|extrud%[m|é]|
+|nous|avons|extrud%[m|é]|
+|vous|avez|extrud%[m|é]|
+|ils|ont|extrud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|extrud%[m|ais]|
+|tu|extrud%[m|ais]|
+|il|extrud%[m|ait]|
+|nous|extrud%[m|ions]|
+|vous|extrud%[m|iez]|
+|ils|extrud%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|extrud%[m|é]|
+|tu|avais|extrud%[m|é]|
+|il|avait|extrud%[m|é]|
+|nous|avions|extrud%[m|é]|
+|vous|aviez|extrud%[m|é]|
+|ils|avaient|extrud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|extrud%[m|ai]|
+|tu|extrud%[m|as]|
+|il|extrud%[m|a]|
+|nous|extrud%[m|âmes]|
+|vous|extrud%[m|âtes]|
+|ils|extrud%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|extrud%[m|é]|
+|tu|eus|extrud%[m|é]|
+|il|eut|extrud%[m|é]|
+|nous|e&ucirc;mes|extrud%[m|é]|
+|vous|e&ucirc;tes|extrud%[m|é]|
+|ils|eurent|extrud%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|extrud%[m|erai]|
+|tu|extrud%[m|eras]|
+|il|extrud%[m|era]|
+|nous|extrud%[m|erons]|
+|vous|extrud%[m|erez]|
+|ils|extrud%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|extrud%[m|é]|
+|tu|auras|extrud%[m|é]|
+|il|aura|extrud%[m|é]|
+|nous|aurons|extrud%[m|é]|
+|vous|aurez|extrud%[m|é]|
+|ils|auront|extrud%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|extrud%[m|erais]|
+|tu|extrud%[m|erais]|
+|il|extrud%[m|erait]|
+|nous|extrud%[m|erions]|
+|vous|extrud%[m|eriez]|
+|ils|extrud%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|extrud%[m|é]|
+|tu|aurais|extrud%[m|é]|
+|il|aurait|extrud%[m|é]|
+|nous|aurions|extrud%[m|é]|
+|vous|auriez|extrud%[m|é]|
+|ils|auraient|extrud%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|extrud%[m|e]|
+|que|tu|extrud%[m|es]|
+|qu'|il|extrud%[m|e]|
+|que|nous|extrud%[m|ions]|
+|que|vous|extrud%[m|iez]|
+|qu'|ils|extrud%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|extrud%[m|é]|
+|que|tu|aies|extrud%[m|é]|
+|qu'|il|ait|extrud%[m|é]|
+|que|nous|ayons|extrud%[m|é]|
+|que|vous|ayez|extrud%[m|é]|
+|qu'|ils|aient|extrud%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|extrud%[m|asse]|
+|que|tu|extrud%[m|asses]|
+|qu'|il|extrud%[m|ât]|
+|que|nous|extrud%[m|assions]|
+|que|vous|extrud%[m|assiez]|
+|qu'|ils|extrud%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|extrud%[m|é]|
+|que|tu|eusses|extrud%[m|é]|
+|qu'|il|eût|extrud%[m|é]|
+|que|nous|eussions|extrud%[m|é]|
+|que|vous|eussiez|extrud%[m|é]|
+|qu'|ils|eussent|extrud%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|extrud%[m|e]|
+|extrud%[m|ons]|
+|extrud%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|extrud%[m|é]|
+|ayons|extrud%[m|é]|
+|ayez|extrud%[m|é]|
+|]
+

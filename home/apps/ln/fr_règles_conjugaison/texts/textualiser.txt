@@ -1,0 +1,190 @@
+# textualiser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|textualis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|textualis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|textualis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||textualis%[m|é]|
+|ayant|textualis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en textualis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|textualis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|textualis%[m|e]|
+|tu|textualis%[m|es]|
+|il|textualis%[m|e]|
+|nous|textualis%[m|ons]|
+|vous|textualis%[m|ez]|
+|ils|textualis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|textualis%[m|é]|
+|tu|as |textualis%[m|é]|
+|il|a|textualis%[m|é]|
+|nous|avons|textualis%[m|é]|
+|vous|avez|textualis%[m|é]|
+|ils|ont|textualis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|textualis%[m|ais]|
+|tu|textualis%[m|ais]|
+|il|textualis%[m|ait]|
+|nous|textualis%[m|ions]|
+|vous|textualis%[m|iez]|
+|ils|textualis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|textualis%[m|é]|
+|tu|avais|textualis%[m|é]|
+|il|avait|textualis%[m|é]|
+|nous|avions|textualis%[m|é]|
+|vous|aviez|textualis%[m|é]|
+|ils|avaient|textualis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|textualis%[m|ai]|
+|tu|textualis%[m|as]|
+|il|textualis%[m|a]|
+|nous|textualis%[m|âmes]|
+|vous|textualis%[m|âtes]|
+|ils|textualis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|textualis%[m|é]|
+|tu|eus|textualis%[m|é]|
+|il|eut|textualis%[m|é]|
+|nous|e&ucirc;mes|textualis%[m|é]|
+|vous|e&ucirc;tes|textualis%[m|é]|
+|ils|eurent|textualis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|textualis%[m|erai]|
+|tu|textualis%[m|eras]|
+|il|textualis%[m|era]|
+|nous|textualis%[m|erons]|
+|vous|textualis%[m|erez]|
+|ils|textualis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|textualis%[m|é]|
+|tu|auras|textualis%[m|é]|
+|il|aura|textualis%[m|é]|
+|nous|aurons|textualis%[m|é]|
+|vous|aurez|textualis%[m|é]|
+|ils|auront|textualis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|textualis%[m|erais]|
+|tu|textualis%[m|erais]|
+|il|textualis%[m|erait]|
+|nous|textualis%[m|erions]|
+|vous|textualis%[m|eriez]|
+|ils|textualis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|textualis%[m|é]|
+|tu|aurais|textualis%[m|é]|
+|il|aurait|textualis%[m|é]|
+|nous|aurions|textualis%[m|é]|
+|vous|auriez|textualis%[m|é]|
+|ils|auraient|textualis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|textualis%[m|e]|
+|que|tu|textualis%[m|es]|
+|qu'|il|textualis%[m|e]|
+|que|nous|textualis%[m|ions]|
+|que|vous|textualis%[m|iez]|
+|qu'|ils|textualis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|textualis%[m|é]|
+|que|tu|aies|textualis%[m|é]|
+|qu'|il|ait|textualis%[m|é]|
+|que|nous|ayons|textualis%[m|é]|
+|que|vous|ayez|textualis%[m|é]|
+|qu'|ils|aient|textualis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|textualis%[m|asse]|
+|que|tu|textualis%[m|asses]|
+|qu'|il|textualis%[m|ât]|
+|que|nous|textualis%[m|assions]|
+|que|vous|textualis%[m|assiez]|
+|qu'|ils|textualis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|textualis%[m|é]|
+|que|tu|eusses|textualis%[m|é]|
+|qu'|il|eût|textualis%[m|é]|
+|que|nous|eussions|textualis%[m|é]|
+|que|vous|eussiez|textualis%[m|é]|
+|qu'|ils|eussent|textualis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|textualis%[m|e]|
+|textualis%[m|ons]|
+|textualis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|textualis%[m|é]|
+|ayons|textualis%[m|é]|
+|ayez|textualis%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# rondir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rond%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rond%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rond%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rond%[m|i]|
+|ayant|rond%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rond%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rond%[m|is]|
+|tu|rond%[m|is]|
+|il|rond%[m|it]|
+|nous|rond%[m|issons]|
+|vous|rond%[m|issez]|
+|ils|rond%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rond%[m|i]|
+|tu|as |rond%[m|i]|
+|il|a|rond%[m|i]|
+|nous|avons|rond%[m|i]|
+|vous|avez|rond%[m|i]|
+|ils|ont|rond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rond%[m|issais]|
+|tu|rond%[m|issais]|
+|il|rond%[m|issait]|
+|nous|rond%[m|issions]|
+|vous|rond%[m|issiez]|
+|ils|rond%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rond%[m|i]|
+|tu|avais|rond%[m|i]|
+|il|avait|rond%[m|i]|
+|nous|avions|rond%[m|i]|
+|vous|aviez|rond%[m|i]|
+|ils|avaient|rond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rond%[m|is]|
+|tu|rond%[m|is]|
+|il|rond%[m|it]|
+|nous|rond%[m|îmes]|
+|vous|rond%[m|îtes]|
+|ils|rond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rond%[m|i]|
+|tu|eus|rond%[m|i]|
+|il|eut|rond%[m|i]|
+|nous|e&ucirc;mes|rond%[m|i]|
+|vous|e&ucirc;tes|rond%[m|i]|
+|ils|eurent|rond%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rond%[m|irai]|
+|tu|rond%[m|iras]|
+|il|rond%[m|ira]|
+|nous|rond%[m|irons]|
+|vous|rond%[m|irez]|
+|ils|rond%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rond%[m|i]|
+|tu|auras|rond%[m|i]|
+|il|aura|rond%[m|i]|
+|nous|aurons|rond%[m|i]|
+|vous|aurez|rond%[m|i]|
+|ils|auront|rond%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rond%[m|irais]|
+|tu|rond%[m|irais]|
+|il|rond%[m|irait]|
+|nous|rond%[m|irions]|
+|vous|rond%[m|iriez]|
+|ils|rond%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rond%[m|i]|
+|tu|aurais|rond%[m|i]|
+|il|aurait|rond%[m|i]|
+|nous|aurions|rond%[m|i]|
+|vous|auriez|rond%[m|i]|
+|ils|auraient|rond%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rond%[m|isse]|
+|que|tu|rond%[m|isses]|
+|qu'|il|rond%[m|isse]|
+|que|nous|rond%[m|issions]|
+|que|vous|rond%[m|issiez]|
+|qu'|ils|rond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rond%[m|i]|
+|que|tu|aies|rond%[m|i]|
+|qu'|il|ait|rond%[m|i]|
+|que|nous|ayons|rond%[m|i]|
+|que|vous|ayez|rond%[m|i]|
+|qu'|ils|aient|rond%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rond%[m|isse]|
+|que|tu|rond%[m|isses]|
+|qu'|il|rond%[m|ît]|
+|que|nous|rond%[m|issions]|
+|que|vous|rond%[m|issiez]|
+|qu'|ils|rond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rond%[m|i]|
+|que|tu|eusses|rond%[m|i]|
+|qu'|il|eût|rond%[m|i]|
+|que|nous|eussions|rond%[m|i]|
+|que|vous|eussiez|rond%[m|i]|
+|qu'|ils|eussent|rond%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rond%[m|is]|
+|rond%[m|issons]|
+|rond%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rond%[m|i]|
+|ayons|rond%[m|i]|
+|ayez|rond%[m|i]|
+|]
+

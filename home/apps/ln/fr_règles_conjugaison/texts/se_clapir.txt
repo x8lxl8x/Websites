@@ -1,0 +1,190 @@
+# se clapir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se clap%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|clap%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se clap%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|clap%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se clap%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|clap%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|clap%[m|is]|
+|tu|te|clap%[m|is]|
+|il|se|clap%[m|it]|
+|nous|nous|clap%[m|issons]|
+|vous|vous|clap%[m|issez]|
+|ils|se|clap%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|clap%[m|i]|
+|tu|t'|es|clap%[m|i]|
+|il|s'|est|clap%[m|i]|
+|nous|nous|sommes|clap%[m|is]|
+|vous|vous|êtes|clap%[m|is]|
+|ils|se|sont|clap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|clap%[m|issais]|
+|tu|te|clap%[m|issais]|
+|il|se|clap%[m|issait]|
+|nous|nous|clap%[m|issions]|
+|vous|vous|clap%[m|issiez]|
+|ils|se|clap%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|clap%[m|i]|
+|tu|t'|étais|clap%[m|i]|
+|il|s'|était|clap%[m|i]|
+|nous|nous|étions|clap%[m|is]|
+|vous|vous|étiez|clap%[m|is]|
+|ils|s'|étaient|clap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|clap%[m|is]|
+|tu|te|clap%[m|is]|
+|il|se|clap%[m|it]|
+|nous|nous|clap%[m|îmes]|
+|vous|vous|clap%[m|îtes]|
+|ils|se|clap%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|clap%[m|i]|
+|tu|te|fus|clap%[m|i]|
+|il|se|fut|clap%[m|i]|
+|nous|nous|fûmes|clap%[m|is]|
+|vous|vous|fûtes|clap%[m|is]|
+|ils|se|furent|clap%[m|is]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|clap%[m|irai]|
+|tu|te|clap%[m|iras]|
+|il|se|clap%[m|ira]|
+|nous|nous|clap%[m|irons]|
+|vous|vous|clap%[m|irez]|
+|ils|se|clap%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|clap%[m|i]|
+|tu|te|seras|clap%[m|i]|
+|il|se|sera|clap%[m|i]|
+|nous|nous|serons|clap%[m|is]|
+|vous|vous|serez|clap%[m|is]|
+|ils|se|seront|clap%[m|is]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|clap%[m|irais]|
+|tu|te|clap%[m|irais]|
+|il|se|clap%[m|irait]|
+|nous|nous|clap%[m|irions]|
+|vous|vous|clap%[m|iriez]|
+|ils|se|clap%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|clap%[m|i]|
+|tu|te|serais|clap%[m|i]|
+|il|se|serait|clap%[m|i]|
+|nous|nous|serions|clap%[m|is]|
+|vous|vous|seriez|clap%[m|is]|
+|ils|se|seraient|clap%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|clap%[m|isse]|
+|que|tu|te|clap%[m|isses]|
+|qu'|il|se|clap%[m|isse]|
+|que|nous|nous|clap%[m|issions]|
+|que|vous|vous|clap%[m|issiez]|
+|qu'|ils|se|clap%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|clap%[m|i]|
+|que|tu|te|sois|clap%[m|i]|
+|qu'|il|se|soit|clap%[m|i]|
+|que|nous|nous|soyons|clap%[m|is]|
+|que|vous|vous|soyez|clap%[m|is]|
+|qu'|ils|se|soient|clap%[m|is]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|clap%[m|isse]|
+|que|tu|te|clap%[m|isses]|
+|qu'|il|se|clap%[m|ît]|
+|que|nous|nous|clap%[m|issions]|
+|que|vous|vous|clap%[m|issiez]|
+|qu'|ils|se|clap%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|clap%[m|i]|
+|que|tu|te|fusses|clap%[m|i]|
+|qu'|il|se|fût|clap%[m|i]|
+|que|nous|nous|fussions|clap%[m|is]|
+|que|vous|vous|fussiez|clap%[m|is]|
+|qu'|ils|se|fussent|clap%[m|is]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|clap%[m|is]-toi|
+|clap%[m|issons]-nous|
+|clap%[m|issez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,193 @@
+# plier %[clVerbGroup|1]
+[-
+se courber, fléchir. 
+rassembler les éléments d'un objet articulé en le pliant. Ranger. 
+rabattre une chose souple sur elle-même en double ou plusieurs fois. 
+céder, faiblir, mollir, reculer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pli%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pli%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pli%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pli%[m|é]|
+|ayant|pli%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pli%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pli%[m|e]|
+|tu|pli%[m|es]|
+|il|pli%[m|e]|
+|nous|pli%[m|ons]|
+|vous|pli%[m|ez]|
+|ils|pli%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pli%[m|é]|
+|tu|as |pli%[m|é]|
+|il|a|pli%[m|é]|
+|nous|avons|pli%[m|é]|
+|vous|avez|pli%[m|é]|
+|ils|ont|pli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pli%[m|ais]|
+|tu|pli%[m|ais]|
+|il|pli%[m|ait]|
+|nous|pli%[m|ions]|
+|vous|pli%[m|iez]|
+|ils|pli%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pli%[m|é]|
+|tu|avais|pli%[m|é]|
+|il|avait|pli%[m|é]|
+|nous|avions|pli%[m|é]|
+|vous|aviez|pli%[m|é]|
+|ils|avaient|pli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pli%[m|ai]|
+|tu|pli%[m|as]|
+|il|pli%[m|a]|
+|nous|pli%[m|âmes]|
+|vous|pli%[m|âtes]|
+|ils|pli%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pli%[m|é]|
+|tu|eus|pli%[m|é]|
+|il|eut|pli%[m|é]|
+|nous|e&ucirc;mes|pli%[m|é]|
+|vous|e&ucirc;tes|pli%[m|é]|
+|ils|eurent|pli%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pli%[m|erai]|
+|tu|pli%[m|eras]|
+|il|pli%[m|era]|
+|nous|pli%[m|erons]|
+|vous|pli%[m|erez]|
+|ils|pli%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pli%[m|é]|
+|tu|auras|pli%[m|é]|
+|il|aura|pli%[m|é]|
+|nous|aurons|pli%[m|é]|
+|vous|aurez|pli%[m|é]|
+|ils|auront|pli%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pli%[m|erais]|
+|tu|pli%[m|erais]|
+|il|pli%[m|erait]|
+|nous|pli%[m|erions]|
+|vous|pli%[m|eriez]|
+|ils|pli%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pli%[m|é]|
+|tu|aurais|pli%[m|é]|
+|il|aurait|pli%[m|é]|
+|nous|aurions|pli%[m|é]|
+|vous|auriez|pli%[m|é]|
+|ils|auraient|pli%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pli%[m|e]|
+|que|tu|pli%[m|es]|
+|qu'|il|pli%[m|e]|
+|que|nous|pli%[m|ions]|
+|que|vous|pli%[m|iez]|
+|qu'|ils|pli%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pli%[m|é]|
+|que|tu|aies|pli%[m|é]|
+|qu'|il|ait|pli%[m|é]|
+|que|nous|ayons|pli%[m|é]|
+|que|vous|ayez|pli%[m|é]|
+|qu'|ils|aient|pli%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pli%[m|asse]|
+|que|tu|pli%[m|asses]|
+|qu'|il|pli%[m|ât]|
+|que|nous|pli%[m|assions]|
+|que|vous|pli%[m|assiez]|
+|qu'|ils|pli%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pli%[m|é]|
+|que|tu|eusses|pli%[m|é]|
+|qu'|il|eût|pli%[m|é]|
+|que|nous|eussions|pli%[m|é]|
+|que|vous|eussiez|pli%[m|é]|
+|qu'|ils|eussent|pli%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pli%[m|e]|
+|pli%[m|ons]|
+|pli%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pli%[m|é]|
+|ayons|pli%[m|é]|
+|ayez|pli%[m|é]|
+|]
+

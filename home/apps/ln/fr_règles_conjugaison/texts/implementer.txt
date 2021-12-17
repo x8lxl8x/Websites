@@ -1,0 +1,191 @@
+# implémenter %[clVerbGroup|1]
+[-
+mettre en oeuvre une analyse informatique (programmer) ou un programme informatique (paramétrer) 
+Effectuer l?ensemble des opérations qui permettent de définir un projet et de le réaliser, de l?analyse du besoin à l?installation et la mise en service du système ou du produit.(date de la publication : 20/04/2007 - éd. commission de l'informatique et des composants électroniques) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|implément%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|implément%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|implément%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||implément%[m|é]|
+|ayant|implément%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en implément%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|implément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|implément%[m|e]|
+|tu|implément%[m|es]|
+|il|implément%[m|e]|
+|nous|implément%[m|ons]|
+|vous|implément%[m|ez]|
+|ils|implément%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|implément%[m|é]|
+|tu|as |implément%[m|é]|
+|il|a|implément%[m|é]|
+|nous|avons|implément%[m|é]|
+|vous|avez|implément%[m|é]|
+|ils|ont|implément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|implément%[m|ais]|
+|tu|implément%[m|ais]|
+|il|implément%[m|ait]|
+|nous|implément%[m|ions]|
+|vous|implément%[m|iez]|
+|ils|implément%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|implément%[m|é]|
+|tu|avais|implément%[m|é]|
+|il|avait|implément%[m|é]|
+|nous|avions|implément%[m|é]|
+|vous|aviez|implément%[m|é]|
+|ils|avaient|implément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|implément%[m|ai]|
+|tu|implément%[m|as]|
+|il|implément%[m|a]|
+|nous|implément%[m|âmes]|
+|vous|implément%[m|âtes]|
+|ils|implément%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|implément%[m|é]|
+|tu|eus|implément%[m|é]|
+|il|eut|implément%[m|é]|
+|nous|e&ucirc;mes|implément%[m|é]|
+|vous|e&ucirc;tes|implément%[m|é]|
+|ils|eurent|implément%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|implément%[m|erai]|
+|tu|implément%[m|eras]|
+|il|implément%[m|era]|
+|nous|implément%[m|erons]|
+|vous|implément%[m|erez]|
+|ils|implément%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|implément%[m|é]|
+|tu|auras|implément%[m|é]|
+|il|aura|implément%[m|é]|
+|nous|aurons|implément%[m|é]|
+|vous|aurez|implément%[m|é]|
+|ils|auront|implément%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|implément%[m|erais]|
+|tu|implément%[m|erais]|
+|il|implément%[m|erait]|
+|nous|implément%[m|erions]|
+|vous|implément%[m|eriez]|
+|ils|implément%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|implément%[m|é]|
+|tu|aurais|implément%[m|é]|
+|il|aurait|implément%[m|é]|
+|nous|aurions|implément%[m|é]|
+|vous|auriez|implément%[m|é]|
+|ils|auraient|implément%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|implément%[m|e]|
+|que|tu|implément%[m|es]|
+|qu'|il|implément%[m|e]|
+|que|nous|implément%[m|ions]|
+|que|vous|implément%[m|iez]|
+|qu'|ils|implément%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|implément%[m|é]|
+|que|tu|aies|implément%[m|é]|
+|qu'|il|ait|implément%[m|é]|
+|que|nous|ayons|implément%[m|é]|
+|que|vous|ayez|implément%[m|é]|
+|qu'|ils|aient|implément%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|implément%[m|asse]|
+|que|tu|implément%[m|asses]|
+|qu'|il|implément%[m|ât]|
+|que|nous|implément%[m|assions]|
+|que|vous|implément%[m|assiez]|
+|qu'|ils|implément%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|implément%[m|é]|
+|que|tu|eusses|implément%[m|é]|
+|qu'|il|eût|implément%[m|é]|
+|que|nous|eussions|implément%[m|é]|
+|que|vous|eussiez|implément%[m|é]|
+|qu'|ils|eussent|implément%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|implément%[m|e]|
+|implément%[m|ons]|
+|implément%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|implément%[m|é]|
+|ayons|implément%[m|é]|
+|ayez|implément%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# s'interroger %[clVerbGroup|1]
+[-
+poser des questions. 
+examiner, consulter (ex. interroger sa mémoire) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'interrog%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|interrog%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'interrog%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|interrog%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'interrog%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|interrog%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|interrog%[m|e]|
+|tu|t'|interrog%[m|es]|
+|il|s'|interrog%[m|e]|
+|nous|nous|interrog%[m|eons]|
+|vous|vous|interrog%[m|ez]|
+|ils|s'|interrog%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|interrog%[m|é]|
+|tu|t'|es|interrog%[m|é]|
+|il|s'|est|interrog%[m|é]|
+|nous|nous|sommes|interrog%[m|és]|
+|vous|vous|êtes|interrog%[m|és]|
+|ils|se|sont|interrog%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|interrog%[m|eais]|
+|tu|t'|interrog%[m|eais]|
+|il|s'|interrog%[m|eait]|
+|nous|nous|interrog%[m|ions]|
+|vous|vous|interrog%[m|iez]|
+|ils|s'|interrog%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|interrog%[m|é]|
+|tu|t'|étais|interrog%[m|é]|
+|il|s'|était|interrog%[m|é]|
+|nous|nous|étions|interrog%[m|és]|
+|vous|vous|étiez|interrog%[m|és]|
+|ils|s'|étaient|interrog%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|interrog%[m|eai]|
+|tu|t'|interrog%[m|eas]|
+|il|s'|interrog%[m|ea]|
+|nous|nous|interrog%[m|eâmes]|
+|vous|vous|interrog%[m|eâtes]|
+|ils|s'|interrog%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|interrog%[m|é]|
+|tu|te|fus|interrog%[m|é]|
+|il|se|fut|interrog%[m|é]|
+|nous|nous|fûmes|interrog%[m|és]|
+|vous|vous|fûtes|interrog%[m|és]|
+|ils|se|furent|interrog%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|interrog%[m|erai]|
+|tu|t'|interrog%[m|eras]|
+|il|s'|interrog%[m|era]|
+|nous|nous|interrog%[m|erons]|
+|vous|vous|interrog%[m|erez]|
+|ils|s'|interrog%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|interrog%[m|é]|
+|tu|te|seras|interrog%[m|é]|
+|il|se|sera|interrog%[m|é]|
+|nous|nous|serons|interrog%[m|és]|
+|vous|vous|serez|interrog%[m|és]|
+|ils|se|seront|interrog%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|interrog%[m|erais]|
+|tu|t'|interrog%[m|erais]|
+|il|s'|interrog%[m|erait]|
+|nous|nous|interrog%[m|erions]|
+|vous|vous|interrog%[m|eriez]|
+|ils|s'|interrog%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|interrog%[m|é]|
+|tu|te|serais|interrog%[m|é]|
+|il|se|serait|interrog%[m|é]|
+|nous|nous|serions|interrog%[m|és]|
+|vous|vous|seriez|interrog%[m|és]|
+|ils|se|seraient|interrog%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|interrog%[m|e]|
+|que|tu|t'|interrog%[m|es]|
+|qu'|il|s'|interrog%[m|e]|
+|que|nous|nous|interrog%[m|ions]|
+|que|vous|vous|interrog%[m|iez]|
+|qu'|ils|s'|interrog%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|interrog%[m|é]|
+|que|tu|te|sois|interrog%[m|é]|
+|qu'|il|se|soit|interrog%[m|é]|
+|que|nous|nous|soyons|interrog%[m|és]|
+|que|vous|vous|soyez|interrog%[m|és]|
+|qu'|ils|se|soient|interrog%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|interrog%[m|easse]|
+|que|tu|t'|interrog%[m|easses]|
+|qu'|il|s'|interrog%[m|eât]|
+|que|nous|nous|interrog%[m|eassions]|
+|que|vous|vous|interrog%[m|eassiez]|
+|qu'|ils|s'|interrog%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|interrog%[m|é]|
+|que|tu|te|fusses|interrog%[m|é]|
+|qu'|il|se|fût|interrog%[m|é]|
+|que|nous|nous|fussions|interrog%[m|és]|
+|que|vous|vous|fussiez|interrog%[m|és]|
+|qu'|ils|se|fussent|interrog%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|interrog%[m|e]-toi|
+|interrog%[m|eons]-nous|
+|interrog%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

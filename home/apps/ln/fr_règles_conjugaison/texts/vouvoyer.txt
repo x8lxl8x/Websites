@@ -1,0 +1,190 @@
+# vouvoyer %[clVerbGroup|1]
+[-
+utiliser la deuxième personne du pluriel lorsqu'on s'adresse à une seule personne. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|vouvo%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|vouvo%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||vouvo%[m|yé]|
+|ayant|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en vouvo%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|vouvo%[m|ie]|
+|tu|vouvo%[m|ies]|
+|il|vouvo%[m|ie]|
+|nous|vouvo%[m|yons]|
+|vous|vouvo%[m|yez]|
+|ils|vouvo%[m|ient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|vouvo%[m|yé]|
+|tu|as |vouvo%[m|yé]|
+|il|a|vouvo%[m|yé]|
+|nous|avons|vouvo%[m|yé]|
+|vous|avez|vouvo%[m|yé]|
+|ils|ont|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|vouvo%[m|yais]|
+|tu|vouvo%[m|yais]|
+|il|vouvo%[m|yait]|
+|nous|vouvo%[m|yions]|
+|vous|vouvo%[m|yiez]|
+|ils|vouvo%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|vouvo%[m|yé]|
+|tu|avais|vouvo%[m|yé]|
+|il|avait|vouvo%[m|yé]|
+|nous|avions|vouvo%[m|yé]|
+|vous|aviez|vouvo%[m|yé]|
+|ils|avaient|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|vouvo%[m|yai]|
+|tu|vouvo%[m|yas]|
+|il|vouvo%[m|ya]|
+|nous|vouvo%[m|yâmes]|
+|vous|vouvo%[m|yâtes]|
+|ils|vouvo%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|vouvo%[m|yé]|
+|tu|eus|vouvo%[m|yé]|
+|il|eut|vouvo%[m|yé]|
+|nous|e&ucirc;mes|vouvo%[m|yé]|
+|vous|e&ucirc;tes|vouvo%[m|yé]|
+|ils|eurent|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|vouvo%[m|ierai]|
+|tu|vouvo%[m|ieras]|
+|il|vouvo%[m|iera]|
+|nous|vouvo%[m|ierons]|
+|vous|vouvo%[m|ierez]|
+|ils|vouvo%[m|ieront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|vouvo%[m|yé]|
+|tu|auras|vouvo%[m|yé]|
+|il|aura|vouvo%[m|yé]|
+|nous|aurons|vouvo%[m|yé]|
+|vous|aurez|vouvo%[m|yé]|
+|ils|auront|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|vouvo%[m|ierais]|
+|tu|vouvo%[m|ierais]|
+|il|vouvo%[m|ierait]|
+|nous|vouvo%[m|ierions]|
+|vous|vouvo%[m|ieriez]|
+|ils|vouvo%[m|ieraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|vouvo%[m|yé]|
+|tu|aurais|vouvo%[m|yé]|
+|il|aurait|vouvo%[m|yé]|
+|nous|aurions|vouvo%[m|yé]|
+|vous|auriez|vouvo%[m|yé]|
+|ils|auraient|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|vouvo%[m|ie]|
+|que|tu|vouvo%[m|ies]|
+|qu'|il|vouvo%[m|ie]|
+|que|nous|vouvo%[m|yions]|
+|que|vous|vouvo%[m|yiez]|
+|qu'|ils|vouvo%[m|ient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|vouvo%[m|yé]|
+|que|tu|aies|vouvo%[m|yé]|
+|qu'|il|ait|vouvo%[m|yé]|
+|que|nous|ayons|vouvo%[m|yé]|
+|que|vous|ayez|vouvo%[m|yé]|
+|qu'|ils|aient|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|vouvo%[m|yasse]|
+|que|tu|vouvo%[m|yasses]|
+|qu'|il|vouvo%[m|yât]|
+|que|nous|vouvo%[m|yassions]|
+|que|vous|vouvo%[m|yassiez]|
+|qu'|ils|vouvo%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|vouvo%[m|yé]|
+|que|tu|eusses|vouvo%[m|yé]|
+|qu'|il|eût|vouvo%[m|yé]|
+|que|nous|eussions|vouvo%[m|yé]|
+|que|vous|eussiez|vouvo%[m|yé]|
+|qu'|ils|eussent|vouvo%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|vouvo%[m|ie]|
+|vouvo%[m|yons]|
+|vouvo%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|vouvo%[m|yé]|
+|ayons|vouvo%[m|yé]|
+|ayez|vouvo%[m|yé]|
+|]
+

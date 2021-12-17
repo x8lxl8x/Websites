@@ -1,0 +1,190 @@
+# singulariser %[clVerbGroup|1]
+[-
+distinguer par un trait de caractère différent des autres. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|singularis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|singularis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|singularis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||singularis%[m|é]|
+|ayant|singularis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en singularis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|singularis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|singularis%[m|e]|
+|tu|singularis%[m|es]|
+|il|singularis%[m|e]|
+|nous|singularis%[m|ons]|
+|vous|singularis%[m|ez]|
+|ils|singularis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|singularis%[m|é]|
+|tu|as |singularis%[m|é]|
+|il|a|singularis%[m|é]|
+|nous|avons|singularis%[m|é]|
+|vous|avez|singularis%[m|é]|
+|ils|ont|singularis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|singularis%[m|ais]|
+|tu|singularis%[m|ais]|
+|il|singularis%[m|ait]|
+|nous|singularis%[m|ions]|
+|vous|singularis%[m|iez]|
+|ils|singularis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|singularis%[m|é]|
+|tu|avais|singularis%[m|é]|
+|il|avait|singularis%[m|é]|
+|nous|avions|singularis%[m|é]|
+|vous|aviez|singularis%[m|é]|
+|ils|avaient|singularis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|singularis%[m|ai]|
+|tu|singularis%[m|as]|
+|il|singularis%[m|a]|
+|nous|singularis%[m|âmes]|
+|vous|singularis%[m|âtes]|
+|ils|singularis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|singularis%[m|é]|
+|tu|eus|singularis%[m|é]|
+|il|eut|singularis%[m|é]|
+|nous|e&ucirc;mes|singularis%[m|é]|
+|vous|e&ucirc;tes|singularis%[m|é]|
+|ils|eurent|singularis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|singularis%[m|erai]|
+|tu|singularis%[m|eras]|
+|il|singularis%[m|era]|
+|nous|singularis%[m|erons]|
+|vous|singularis%[m|erez]|
+|ils|singularis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|singularis%[m|é]|
+|tu|auras|singularis%[m|é]|
+|il|aura|singularis%[m|é]|
+|nous|aurons|singularis%[m|é]|
+|vous|aurez|singularis%[m|é]|
+|ils|auront|singularis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|singularis%[m|erais]|
+|tu|singularis%[m|erais]|
+|il|singularis%[m|erait]|
+|nous|singularis%[m|erions]|
+|vous|singularis%[m|eriez]|
+|ils|singularis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|singularis%[m|é]|
+|tu|aurais|singularis%[m|é]|
+|il|aurait|singularis%[m|é]|
+|nous|aurions|singularis%[m|é]|
+|vous|auriez|singularis%[m|é]|
+|ils|auraient|singularis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|singularis%[m|e]|
+|que|tu|singularis%[m|es]|
+|qu'|il|singularis%[m|e]|
+|que|nous|singularis%[m|ions]|
+|que|vous|singularis%[m|iez]|
+|qu'|ils|singularis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|singularis%[m|é]|
+|que|tu|aies|singularis%[m|é]|
+|qu'|il|ait|singularis%[m|é]|
+|que|nous|ayons|singularis%[m|é]|
+|que|vous|ayez|singularis%[m|é]|
+|qu'|ils|aient|singularis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|singularis%[m|asse]|
+|que|tu|singularis%[m|asses]|
+|qu'|il|singularis%[m|ât]|
+|que|nous|singularis%[m|assions]|
+|que|vous|singularis%[m|assiez]|
+|qu'|ils|singularis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|singularis%[m|é]|
+|que|tu|eusses|singularis%[m|é]|
+|qu'|il|eût|singularis%[m|é]|
+|que|nous|eussions|singularis%[m|é]|
+|que|vous|eussiez|singularis%[m|é]|
+|qu'|ils|eussent|singularis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|singularis%[m|e]|
+|singularis%[m|ons]|
+|singularis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|singularis%[m|é]|
+|ayons|singularis%[m|é]|
+|ayez|singularis%[m|é]|
+|]
+

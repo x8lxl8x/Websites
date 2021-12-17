@@ -1,0 +1,190 @@
+# exhorter %[clVerbGroup|1]
+[-
+inciter quelqu'un à faire quelque chose, en lui tenant des propos visant à le convaincre. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|exhort%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|exhort%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|exhort%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||exhort%[m|é]|
+|ayant|exhort%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en exhort%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|exhort%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|exhort%[m|e]|
+|tu|exhort%[m|es]|
+|il|exhort%[m|e]|
+|nous|exhort%[m|ons]|
+|vous|exhort%[m|ez]|
+|ils|exhort%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|exhort%[m|é]|
+|tu|as |exhort%[m|é]|
+|il|a|exhort%[m|é]|
+|nous|avons|exhort%[m|é]|
+|vous|avez|exhort%[m|é]|
+|ils|ont|exhort%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|exhort%[m|ais]|
+|tu|exhort%[m|ais]|
+|il|exhort%[m|ait]|
+|nous|exhort%[m|ions]|
+|vous|exhort%[m|iez]|
+|ils|exhort%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|exhort%[m|é]|
+|tu|avais|exhort%[m|é]|
+|il|avait|exhort%[m|é]|
+|nous|avions|exhort%[m|é]|
+|vous|aviez|exhort%[m|é]|
+|ils|avaient|exhort%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|exhort%[m|ai]|
+|tu|exhort%[m|as]|
+|il|exhort%[m|a]|
+|nous|exhort%[m|âmes]|
+|vous|exhort%[m|âtes]|
+|ils|exhort%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|exhort%[m|é]|
+|tu|eus|exhort%[m|é]|
+|il|eut|exhort%[m|é]|
+|nous|e&ucirc;mes|exhort%[m|é]|
+|vous|e&ucirc;tes|exhort%[m|é]|
+|ils|eurent|exhort%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|exhort%[m|erai]|
+|tu|exhort%[m|eras]|
+|il|exhort%[m|era]|
+|nous|exhort%[m|erons]|
+|vous|exhort%[m|erez]|
+|ils|exhort%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|exhort%[m|é]|
+|tu|auras|exhort%[m|é]|
+|il|aura|exhort%[m|é]|
+|nous|aurons|exhort%[m|é]|
+|vous|aurez|exhort%[m|é]|
+|ils|auront|exhort%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|exhort%[m|erais]|
+|tu|exhort%[m|erais]|
+|il|exhort%[m|erait]|
+|nous|exhort%[m|erions]|
+|vous|exhort%[m|eriez]|
+|ils|exhort%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|exhort%[m|é]|
+|tu|aurais|exhort%[m|é]|
+|il|aurait|exhort%[m|é]|
+|nous|aurions|exhort%[m|é]|
+|vous|auriez|exhort%[m|é]|
+|ils|auraient|exhort%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|exhort%[m|e]|
+|que|tu|exhort%[m|es]|
+|qu'|il|exhort%[m|e]|
+|que|nous|exhort%[m|ions]|
+|que|vous|exhort%[m|iez]|
+|qu'|ils|exhort%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|exhort%[m|é]|
+|que|tu|aies|exhort%[m|é]|
+|qu'|il|ait|exhort%[m|é]|
+|que|nous|ayons|exhort%[m|é]|
+|que|vous|ayez|exhort%[m|é]|
+|qu'|ils|aient|exhort%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|exhort%[m|asse]|
+|que|tu|exhort%[m|asses]|
+|qu'|il|exhort%[m|ât]|
+|que|nous|exhort%[m|assions]|
+|que|vous|exhort%[m|assiez]|
+|qu'|ils|exhort%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|exhort%[m|é]|
+|que|tu|eusses|exhort%[m|é]|
+|qu'|il|eût|exhort%[m|é]|
+|que|nous|eussions|exhort%[m|é]|
+|que|vous|eussiez|exhort%[m|é]|
+|qu'|ils|eussent|exhort%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|exhort%[m|e]|
+|exhort%[m|ons]|
+|exhort%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|exhort%[m|é]|
+|ayons|exhort%[m|é]|
+|ayez|exhort%[m|é]|
+|]
+

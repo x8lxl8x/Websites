@@ -1,0 +1,190 @@
+# coqueliner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|coquelin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|coquelin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||coquelin%[m|é]|
+|ayant|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en coquelin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|coquelin%[m|e]|
+|tu|coquelin%[m|es]|
+|il|coquelin%[m|e]|
+|nous|coquelin%[m|ons]|
+|vous|coquelin%[m|ez]|
+|ils|coquelin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|coquelin%[m|é]|
+|tu|as |coquelin%[m|é]|
+|il|a|coquelin%[m|é]|
+|nous|avons|coquelin%[m|é]|
+|vous|avez|coquelin%[m|é]|
+|ils|ont|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|coquelin%[m|ais]|
+|tu|coquelin%[m|ais]|
+|il|coquelin%[m|ait]|
+|nous|coquelin%[m|ions]|
+|vous|coquelin%[m|iez]|
+|ils|coquelin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|coquelin%[m|é]|
+|tu|avais|coquelin%[m|é]|
+|il|avait|coquelin%[m|é]|
+|nous|avions|coquelin%[m|é]|
+|vous|aviez|coquelin%[m|é]|
+|ils|avaient|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|coquelin%[m|ai]|
+|tu|coquelin%[m|as]|
+|il|coquelin%[m|a]|
+|nous|coquelin%[m|âmes]|
+|vous|coquelin%[m|âtes]|
+|ils|coquelin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|coquelin%[m|é]|
+|tu|eus|coquelin%[m|é]|
+|il|eut|coquelin%[m|é]|
+|nous|e&ucirc;mes|coquelin%[m|é]|
+|vous|e&ucirc;tes|coquelin%[m|é]|
+|ils|eurent|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|coquelin%[m|erai]|
+|tu|coquelin%[m|eras]|
+|il|coquelin%[m|era]|
+|nous|coquelin%[m|erons]|
+|vous|coquelin%[m|erez]|
+|ils|coquelin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|coquelin%[m|é]|
+|tu|auras|coquelin%[m|é]|
+|il|aura|coquelin%[m|é]|
+|nous|aurons|coquelin%[m|é]|
+|vous|aurez|coquelin%[m|é]|
+|ils|auront|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|coquelin%[m|erais]|
+|tu|coquelin%[m|erais]|
+|il|coquelin%[m|erait]|
+|nous|coquelin%[m|erions]|
+|vous|coquelin%[m|eriez]|
+|ils|coquelin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|coquelin%[m|é]|
+|tu|aurais|coquelin%[m|é]|
+|il|aurait|coquelin%[m|é]|
+|nous|aurions|coquelin%[m|é]|
+|vous|auriez|coquelin%[m|é]|
+|ils|auraient|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|coquelin%[m|e]|
+|que|tu|coquelin%[m|es]|
+|qu'|il|coquelin%[m|e]|
+|que|nous|coquelin%[m|ions]|
+|que|vous|coquelin%[m|iez]|
+|qu'|ils|coquelin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|coquelin%[m|é]|
+|que|tu|aies|coquelin%[m|é]|
+|qu'|il|ait|coquelin%[m|é]|
+|que|nous|ayons|coquelin%[m|é]|
+|que|vous|ayez|coquelin%[m|é]|
+|qu'|ils|aient|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|coquelin%[m|asse]|
+|que|tu|coquelin%[m|asses]|
+|qu'|il|coquelin%[m|ât]|
+|que|nous|coquelin%[m|assions]|
+|que|vous|coquelin%[m|assiez]|
+|qu'|ils|coquelin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|coquelin%[m|é]|
+|que|tu|eusses|coquelin%[m|é]|
+|qu'|il|eût|coquelin%[m|é]|
+|que|nous|eussions|coquelin%[m|é]|
+|que|vous|eussiez|coquelin%[m|é]|
+|qu'|ils|eussent|coquelin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|coquelin%[m|e]|
+|coquelin%[m|ons]|
+|coquelin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|coquelin%[m|é]|
+|ayons|coquelin%[m|é]|
+|ayez|coquelin%[m|é]|
+|]
+

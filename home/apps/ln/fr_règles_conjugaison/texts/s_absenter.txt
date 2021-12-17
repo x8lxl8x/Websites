@@ -1,0 +1,190 @@
+# s'absenter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'absent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|absent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'absent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|absent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'absent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|absent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|absent%[m|e]|
+|tu|t'|absent%[m|es]|
+|il|s'|absent%[m|e]|
+|nous|nous|absent%[m|ons]|
+|vous|vous|absent%[m|ez]|
+|ils|s'|absent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|absent%[m|é]|
+|tu|t'|es|absent%[m|é]|
+|il|s'|est|absent%[m|é]|
+|nous|nous|sommes|absent%[m|és]|
+|vous|vous|êtes|absent%[m|és]|
+|ils|se|sont|absent%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|absent%[m|ais]|
+|tu|t'|absent%[m|ais]|
+|il|s'|absent%[m|ait]|
+|nous|nous|absent%[m|ions]|
+|vous|vous|absent%[m|iez]|
+|ils|s'|absent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|absent%[m|é]|
+|tu|t'|étais|absent%[m|é]|
+|il|s'|était|absent%[m|é]|
+|nous|nous|étions|absent%[m|és]|
+|vous|vous|étiez|absent%[m|és]|
+|ils|s'|étaient|absent%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|absent%[m|ai]|
+|tu|t'|absent%[m|as]|
+|il|s'|absent%[m|a]|
+|nous|nous|absent%[m|âmes]|
+|vous|vous|absent%[m|âtes]|
+|ils|s'|absent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|absent%[m|é]|
+|tu|te|fus|absent%[m|é]|
+|il|se|fut|absent%[m|é]|
+|nous|nous|fûmes|absent%[m|és]|
+|vous|vous|fûtes|absent%[m|és]|
+|ils|se|furent|absent%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|absent%[m|erai]|
+|tu|t'|absent%[m|eras]|
+|il|s'|absent%[m|era]|
+|nous|nous|absent%[m|erons]|
+|vous|vous|absent%[m|erez]|
+|ils|s'|absent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|absent%[m|é]|
+|tu|te|seras|absent%[m|é]|
+|il|se|sera|absent%[m|é]|
+|nous|nous|serons|absent%[m|és]|
+|vous|vous|serez|absent%[m|és]|
+|ils|se|seront|absent%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|absent%[m|erais]|
+|tu|t'|absent%[m|erais]|
+|il|s'|absent%[m|erait]|
+|nous|nous|absent%[m|erions]|
+|vous|vous|absent%[m|eriez]|
+|ils|s'|absent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|absent%[m|é]|
+|tu|te|serais|absent%[m|é]|
+|il|se|serait|absent%[m|é]|
+|nous|nous|serions|absent%[m|és]|
+|vous|vous|seriez|absent%[m|és]|
+|ils|se|seraient|absent%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|absent%[m|e]|
+|que|tu|t'|absent%[m|es]|
+|qu'|il|s'|absent%[m|e]|
+|que|nous|nous|absent%[m|ions]|
+|que|vous|vous|absent%[m|iez]|
+|qu'|ils|s'|absent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|absent%[m|é]|
+|que|tu|te|sois|absent%[m|é]|
+|qu'|il|se|soit|absent%[m|é]|
+|que|nous|nous|soyons|absent%[m|és]|
+|que|vous|vous|soyez|absent%[m|és]|
+|qu'|ils|se|soient|absent%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|absent%[m|asse]|
+|que|tu|t'|absent%[m|asses]|
+|qu'|il|s'|absent%[m|ât]|
+|que|nous|nous|absent%[m|assions]|
+|que|vous|vous|absent%[m|assiez]|
+|qu'|ils|s'|absent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|absent%[m|é]|
+|que|tu|te|fusses|absent%[m|é]|
+|qu'|il|se|fût|absent%[m|é]|
+|que|nous|nous|fussions|absent%[m|és]|
+|que|vous|vous|fussiez|absent%[m|és]|
+|qu'|ils|se|fussent|absent%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|absent%[m|e]-toi|
+|absent%[m|ons]-nous|
+|absent%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

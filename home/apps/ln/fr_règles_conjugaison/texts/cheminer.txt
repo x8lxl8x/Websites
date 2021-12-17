@@ -1,0 +1,191 @@
+# cheminer %[clVerbGroup|1]
+[-
+faire du chemin; parcourir lentement un long chemin. 
+progresser lentement et régulièrement. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|chemin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|chemin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|chemin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||chemin%[m|é]|
+|ayant|chemin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en chemin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|chemin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|chemin%[m|e]|
+|tu|chemin%[m|es]|
+|il|chemin%[m|e]|
+|nous|chemin%[m|ons]|
+|vous|chemin%[m|ez]|
+|ils|chemin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|chemin%[m|é]|
+|tu|as |chemin%[m|é]|
+|il|a|chemin%[m|é]|
+|nous|avons|chemin%[m|é]|
+|vous|avez|chemin%[m|é]|
+|ils|ont|chemin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|chemin%[m|ais]|
+|tu|chemin%[m|ais]|
+|il|chemin%[m|ait]|
+|nous|chemin%[m|ions]|
+|vous|chemin%[m|iez]|
+|ils|chemin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|chemin%[m|é]|
+|tu|avais|chemin%[m|é]|
+|il|avait|chemin%[m|é]|
+|nous|avions|chemin%[m|é]|
+|vous|aviez|chemin%[m|é]|
+|ils|avaient|chemin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|chemin%[m|ai]|
+|tu|chemin%[m|as]|
+|il|chemin%[m|a]|
+|nous|chemin%[m|âmes]|
+|vous|chemin%[m|âtes]|
+|ils|chemin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|chemin%[m|é]|
+|tu|eus|chemin%[m|é]|
+|il|eut|chemin%[m|é]|
+|nous|e&ucirc;mes|chemin%[m|é]|
+|vous|e&ucirc;tes|chemin%[m|é]|
+|ils|eurent|chemin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|chemin%[m|erai]|
+|tu|chemin%[m|eras]|
+|il|chemin%[m|era]|
+|nous|chemin%[m|erons]|
+|vous|chemin%[m|erez]|
+|ils|chemin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|chemin%[m|é]|
+|tu|auras|chemin%[m|é]|
+|il|aura|chemin%[m|é]|
+|nous|aurons|chemin%[m|é]|
+|vous|aurez|chemin%[m|é]|
+|ils|auront|chemin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|chemin%[m|erais]|
+|tu|chemin%[m|erais]|
+|il|chemin%[m|erait]|
+|nous|chemin%[m|erions]|
+|vous|chemin%[m|eriez]|
+|ils|chemin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|chemin%[m|é]|
+|tu|aurais|chemin%[m|é]|
+|il|aurait|chemin%[m|é]|
+|nous|aurions|chemin%[m|é]|
+|vous|auriez|chemin%[m|é]|
+|ils|auraient|chemin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|chemin%[m|e]|
+|que|tu|chemin%[m|es]|
+|qu'|il|chemin%[m|e]|
+|que|nous|chemin%[m|ions]|
+|que|vous|chemin%[m|iez]|
+|qu'|ils|chemin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|chemin%[m|é]|
+|que|tu|aies|chemin%[m|é]|
+|qu'|il|ait|chemin%[m|é]|
+|que|nous|ayons|chemin%[m|é]|
+|que|vous|ayez|chemin%[m|é]|
+|qu'|ils|aient|chemin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|chemin%[m|asse]|
+|que|tu|chemin%[m|asses]|
+|qu'|il|chemin%[m|ât]|
+|que|nous|chemin%[m|assions]|
+|que|vous|chemin%[m|assiez]|
+|qu'|ils|chemin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|chemin%[m|é]|
+|que|tu|eusses|chemin%[m|é]|
+|qu'|il|eût|chemin%[m|é]|
+|que|nous|eussions|chemin%[m|é]|
+|que|vous|eussiez|chemin%[m|é]|
+|qu'|ils|eussent|chemin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|chemin%[m|e]|
+|chemin%[m|ons]|
+|chemin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|chemin%[m|é]|
+|ayons|chemin%[m|é]|
+|ayez|chemin%[m|é]|
+|]
+

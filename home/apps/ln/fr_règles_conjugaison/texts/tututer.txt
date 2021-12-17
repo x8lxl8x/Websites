@@ -1,0 +1,190 @@
+# tututer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tutut%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tutut%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tutut%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tutut%[m|é]|
+|ayant|tutut%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tutut%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tutut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tutut%[m|e]|
+|tu|tutut%[m|es]|
+|il|tutut%[m|e]|
+|nous|tutut%[m|ons]|
+|vous|tutut%[m|ez]|
+|ils|tutut%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tutut%[m|é]|
+|tu|as |tutut%[m|é]|
+|il|a|tutut%[m|é]|
+|nous|avons|tutut%[m|é]|
+|vous|avez|tutut%[m|é]|
+|ils|ont|tutut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tutut%[m|ais]|
+|tu|tutut%[m|ais]|
+|il|tutut%[m|ait]|
+|nous|tutut%[m|ions]|
+|vous|tutut%[m|iez]|
+|ils|tutut%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tutut%[m|é]|
+|tu|avais|tutut%[m|é]|
+|il|avait|tutut%[m|é]|
+|nous|avions|tutut%[m|é]|
+|vous|aviez|tutut%[m|é]|
+|ils|avaient|tutut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tutut%[m|ai]|
+|tu|tutut%[m|as]|
+|il|tutut%[m|a]|
+|nous|tutut%[m|âmes]|
+|vous|tutut%[m|âtes]|
+|ils|tutut%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tutut%[m|é]|
+|tu|eus|tutut%[m|é]|
+|il|eut|tutut%[m|é]|
+|nous|e&ucirc;mes|tutut%[m|é]|
+|vous|e&ucirc;tes|tutut%[m|é]|
+|ils|eurent|tutut%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tutut%[m|erai]|
+|tu|tutut%[m|eras]|
+|il|tutut%[m|era]|
+|nous|tutut%[m|erons]|
+|vous|tutut%[m|erez]|
+|ils|tutut%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tutut%[m|é]|
+|tu|auras|tutut%[m|é]|
+|il|aura|tutut%[m|é]|
+|nous|aurons|tutut%[m|é]|
+|vous|aurez|tutut%[m|é]|
+|ils|auront|tutut%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tutut%[m|erais]|
+|tu|tutut%[m|erais]|
+|il|tutut%[m|erait]|
+|nous|tutut%[m|erions]|
+|vous|tutut%[m|eriez]|
+|ils|tutut%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tutut%[m|é]|
+|tu|aurais|tutut%[m|é]|
+|il|aurait|tutut%[m|é]|
+|nous|aurions|tutut%[m|é]|
+|vous|auriez|tutut%[m|é]|
+|ils|auraient|tutut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tutut%[m|e]|
+|que|tu|tutut%[m|es]|
+|qu'|il|tutut%[m|e]|
+|que|nous|tutut%[m|ions]|
+|que|vous|tutut%[m|iez]|
+|qu'|ils|tutut%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tutut%[m|é]|
+|que|tu|aies|tutut%[m|é]|
+|qu'|il|ait|tutut%[m|é]|
+|que|nous|ayons|tutut%[m|é]|
+|que|vous|ayez|tutut%[m|é]|
+|qu'|ils|aient|tutut%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tutut%[m|asse]|
+|que|tu|tutut%[m|asses]|
+|qu'|il|tutut%[m|ât]|
+|que|nous|tutut%[m|assions]|
+|que|vous|tutut%[m|assiez]|
+|qu'|ils|tutut%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tutut%[m|é]|
+|que|tu|eusses|tutut%[m|é]|
+|qu'|il|eût|tutut%[m|é]|
+|que|nous|eussions|tutut%[m|é]|
+|que|vous|eussiez|tutut%[m|é]|
+|qu'|ils|eussent|tutut%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tutut%[m|e]|
+|tutut%[m|ons]|
+|tutut%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tutut%[m|é]|
+|ayons|tutut%[m|é]|
+|ayez|tutut%[m|é]|
+|]
+

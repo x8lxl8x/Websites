@@ -1,0 +1,190 @@
+# palettiser %[clVerbGroup|1]
+[-
+mettre sur une palette. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|palettis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|palettis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|palettis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||palettis%[m|é]|
+|ayant|palettis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en palettis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|palettis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|palettis%[m|e]|
+|tu|palettis%[m|es]|
+|il|palettis%[m|e]|
+|nous|palettis%[m|ons]|
+|vous|palettis%[m|ez]|
+|ils|palettis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|palettis%[m|é]|
+|tu|as |palettis%[m|é]|
+|il|a|palettis%[m|é]|
+|nous|avons|palettis%[m|é]|
+|vous|avez|palettis%[m|é]|
+|ils|ont|palettis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|palettis%[m|ais]|
+|tu|palettis%[m|ais]|
+|il|palettis%[m|ait]|
+|nous|palettis%[m|ions]|
+|vous|palettis%[m|iez]|
+|ils|palettis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|palettis%[m|é]|
+|tu|avais|palettis%[m|é]|
+|il|avait|palettis%[m|é]|
+|nous|avions|palettis%[m|é]|
+|vous|aviez|palettis%[m|é]|
+|ils|avaient|palettis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|palettis%[m|ai]|
+|tu|palettis%[m|as]|
+|il|palettis%[m|a]|
+|nous|palettis%[m|âmes]|
+|vous|palettis%[m|âtes]|
+|ils|palettis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|palettis%[m|é]|
+|tu|eus|palettis%[m|é]|
+|il|eut|palettis%[m|é]|
+|nous|e&ucirc;mes|palettis%[m|é]|
+|vous|e&ucirc;tes|palettis%[m|é]|
+|ils|eurent|palettis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|palettis%[m|erai]|
+|tu|palettis%[m|eras]|
+|il|palettis%[m|era]|
+|nous|palettis%[m|erons]|
+|vous|palettis%[m|erez]|
+|ils|palettis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|palettis%[m|é]|
+|tu|auras|palettis%[m|é]|
+|il|aura|palettis%[m|é]|
+|nous|aurons|palettis%[m|é]|
+|vous|aurez|palettis%[m|é]|
+|ils|auront|palettis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|palettis%[m|erais]|
+|tu|palettis%[m|erais]|
+|il|palettis%[m|erait]|
+|nous|palettis%[m|erions]|
+|vous|palettis%[m|eriez]|
+|ils|palettis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|palettis%[m|é]|
+|tu|aurais|palettis%[m|é]|
+|il|aurait|palettis%[m|é]|
+|nous|aurions|palettis%[m|é]|
+|vous|auriez|palettis%[m|é]|
+|ils|auraient|palettis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|palettis%[m|e]|
+|que|tu|palettis%[m|es]|
+|qu'|il|palettis%[m|e]|
+|que|nous|palettis%[m|ions]|
+|que|vous|palettis%[m|iez]|
+|qu'|ils|palettis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|palettis%[m|é]|
+|que|tu|aies|palettis%[m|é]|
+|qu'|il|ait|palettis%[m|é]|
+|que|nous|ayons|palettis%[m|é]|
+|que|vous|ayez|palettis%[m|é]|
+|qu'|ils|aient|palettis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|palettis%[m|asse]|
+|que|tu|palettis%[m|asses]|
+|qu'|il|palettis%[m|ât]|
+|que|nous|palettis%[m|assions]|
+|que|vous|palettis%[m|assiez]|
+|qu'|ils|palettis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|palettis%[m|é]|
+|que|tu|eusses|palettis%[m|é]|
+|qu'|il|eût|palettis%[m|é]|
+|que|nous|eussions|palettis%[m|é]|
+|que|vous|eussiez|palettis%[m|é]|
+|qu'|ils|eussent|palettis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|palettis%[m|e]|
+|palettis%[m|ons]|
+|palettis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|palettis%[m|é]|
+|ayons|palettis%[m|é]|
+|ayez|palettis%[m|é]|
+|]
+

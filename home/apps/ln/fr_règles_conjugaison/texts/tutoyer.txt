@@ -1,0 +1,190 @@
+# tutoyer %[clVerbGroup|1]
+[-
+fait de s'adresser à quelqu'un en usant de la deuxième personne du singulier (tu) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|tuto%[m|yer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|tuto%[m|yant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||tuto%[m|yé]|
+|ayant|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en tuto%[m|yant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|tuto%[m|ie]|
+|tu|tuto%[m|ies]|
+|il|tuto%[m|ie]|
+|nous|tuto%[m|yons]|
+|vous|tuto%[m|yez]|
+|ils|tuto%[m|ient]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|tuto%[m|yé]|
+|tu|as |tuto%[m|yé]|
+|il|a|tuto%[m|yé]|
+|nous|avons|tuto%[m|yé]|
+|vous|avez|tuto%[m|yé]|
+|ils|ont|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|tuto%[m|yais]|
+|tu|tuto%[m|yais]|
+|il|tuto%[m|yait]|
+|nous|tuto%[m|yions]|
+|vous|tuto%[m|yiez]|
+|ils|tuto%[m|yaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|tuto%[m|yé]|
+|tu|avais|tuto%[m|yé]|
+|il|avait|tuto%[m|yé]|
+|nous|avions|tuto%[m|yé]|
+|vous|aviez|tuto%[m|yé]|
+|ils|avaient|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|tuto%[m|yai]|
+|tu|tuto%[m|yas]|
+|il|tuto%[m|ya]|
+|nous|tuto%[m|yâmes]|
+|vous|tuto%[m|yâtes]|
+|ils|tuto%[m|yèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|tuto%[m|yé]|
+|tu|eus|tuto%[m|yé]|
+|il|eut|tuto%[m|yé]|
+|nous|e&ucirc;mes|tuto%[m|yé]|
+|vous|e&ucirc;tes|tuto%[m|yé]|
+|ils|eurent|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|tuto%[m|ierai]|
+|tu|tuto%[m|ieras]|
+|il|tuto%[m|iera]|
+|nous|tuto%[m|ierons]|
+|vous|tuto%[m|ierez]|
+|ils|tuto%[m|ieront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|tuto%[m|yé]|
+|tu|auras|tuto%[m|yé]|
+|il|aura|tuto%[m|yé]|
+|nous|aurons|tuto%[m|yé]|
+|vous|aurez|tuto%[m|yé]|
+|ils|auront|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|tuto%[m|ierais]|
+|tu|tuto%[m|ierais]|
+|il|tuto%[m|ierait]|
+|nous|tuto%[m|ierions]|
+|vous|tuto%[m|ieriez]|
+|ils|tuto%[m|ieraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|tuto%[m|yé]|
+|tu|aurais|tuto%[m|yé]|
+|il|aurait|tuto%[m|yé]|
+|nous|aurions|tuto%[m|yé]|
+|vous|auriez|tuto%[m|yé]|
+|ils|auraient|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|tuto%[m|ie]|
+|que|tu|tuto%[m|ies]|
+|qu'|il|tuto%[m|ie]|
+|que|nous|tuto%[m|yions]|
+|que|vous|tuto%[m|yiez]|
+|qu'|ils|tuto%[m|ient]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|tuto%[m|yé]|
+|que|tu|aies|tuto%[m|yé]|
+|qu'|il|ait|tuto%[m|yé]|
+|que|nous|ayons|tuto%[m|yé]|
+|que|vous|ayez|tuto%[m|yé]|
+|qu'|ils|aient|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|tuto%[m|yasse]|
+|que|tu|tuto%[m|yasses]|
+|qu'|il|tuto%[m|yât]|
+|que|nous|tuto%[m|yassions]|
+|que|vous|tuto%[m|yassiez]|
+|qu'|ils|tuto%[m|yassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|tuto%[m|yé]|
+|que|tu|eusses|tuto%[m|yé]|
+|qu'|il|eût|tuto%[m|yé]|
+|que|nous|eussions|tuto%[m|yé]|
+|que|vous|eussiez|tuto%[m|yé]|
+|qu'|ils|eussent|tuto%[m|yé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|tuto%[m|ie]|
+|tuto%[m|yons]|
+|tuto%[m|yez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|tuto%[m|yé]|
+|ayons|tuto%[m|yé]|
+|ayez|tuto%[m|yé]|
+|]
+

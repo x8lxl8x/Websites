@@ -1,0 +1,190 @@
+# surtaxer %[clVerbGroup|1]
+[-
+imposer d'une surtaxe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surtax%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surtax%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surtax%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surtax%[m|é]|
+|ayant|surtax%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surtax%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surtax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surtax%[m|e]|
+|tu|surtax%[m|es]|
+|il|surtax%[m|e]|
+|nous|surtax%[m|ons]|
+|vous|surtax%[m|ez]|
+|ils|surtax%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surtax%[m|é]|
+|tu|as |surtax%[m|é]|
+|il|a|surtax%[m|é]|
+|nous|avons|surtax%[m|é]|
+|vous|avez|surtax%[m|é]|
+|ils|ont|surtax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surtax%[m|ais]|
+|tu|surtax%[m|ais]|
+|il|surtax%[m|ait]|
+|nous|surtax%[m|ions]|
+|vous|surtax%[m|iez]|
+|ils|surtax%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surtax%[m|é]|
+|tu|avais|surtax%[m|é]|
+|il|avait|surtax%[m|é]|
+|nous|avions|surtax%[m|é]|
+|vous|aviez|surtax%[m|é]|
+|ils|avaient|surtax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surtax%[m|ai]|
+|tu|surtax%[m|as]|
+|il|surtax%[m|a]|
+|nous|surtax%[m|âmes]|
+|vous|surtax%[m|âtes]|
+|ils|surtax%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surtax%[m|é]|
+|tu|eus|surtax%[m|é]|
+|il|eut|surtax%[m|é]|
+|nous|e&ucirc;mes|surtax%[m|é]|
+|vous|e&ucirc;tes|surtax%[m|é]|
+|ils|eurent|surtax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surtax%[m|erai]|
+|tu|surtax%[m|eras]|
+|il|surtax%[m|era]|
+|nous|surtax%[m|erons]|
+|vous|surtax%[m|erez]|
+|ils|surtax%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surtax%[m|é]|
+|tu|auras|surtax%[m|é]|
+|il|aura|surtax%[m|é]|
+|nous|aurons|surtax%[m|é]|
+|vous|aurez|surtax%[m|é]|
+|ils|auront|surtax%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surtax%[m|erais]|
+|tu|surtax%[m|erais]|
+|il|surtax%[m|erait]|
+|nous|surtax%[m|erions]|
+|vous|surtax%[m|eriez]|
+|ils|surtax%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surtax%[m|é]|
+|tu|aurais|surtax%[m|é]|
+|il|aurait|surtax%[m|é]|
+|nous|aurions|surtax%[m|é]|
+|vous|auriez|surtax%[m|é]|
+|ils|auraient|surtax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surtax%[m|e]|
+|que|tu|surtax%[m|es]|
+|qu'|il|surtax%[m|e]|
+|que|nous|surtax%[m|ions]|
+|que|vous|surtax%[m|iez]|
+|qu'|ils|surtax%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surtax%[m|é]|
+|que|tu|aies|surtax%[m|é]|
+|qu'|il|ait|surtax%[m|é]|
+|que|nous|ayons|surtax%[m|é]|
+|que|vous|ayez|surtax%[m|é]|
+|qu'|ils|aient|surtax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surtax%[m|asse]|
+|que|tu|surtax%[m|asses]|
+|qu'|il|surtax%[m|ât]|
+|que|nous|surtax%[m|assions]|
+|que|vous|surtax%[m|assiez]|
+|qu'|ils|surtax%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surtax%[m|é]|
+|que|tu|eusses|surtax%[m|é]|
+|qu'|il|eût|surtax%[m|é]|
+|que|nous|eussions|surtax%[m|é]|
+|que|vous|eussiez|surtax%[m|é]|
+|qu'|ils|eussent|surtax%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surtax%[m|e]|
+|surtax%[m|ons]|
+|surtax%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surtax%[m|é]|
+|ayons|surtax%[m|é]|
+|ayez|surtax%[m|é]|
+|]
+

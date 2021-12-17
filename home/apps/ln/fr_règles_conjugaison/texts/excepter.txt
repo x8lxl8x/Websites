@@ -1,0 +1,190 @@
+# excepter %[clVerbGroup|1]
+[-
+exclure quelque chose d'un ensemble, d'un groupe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|except%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|except%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|except%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||except%[m|é]|
+|ayant|except%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en except%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|except%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|except%[m|e]|
+|tu|except%[m|es]|
+|il|except%[m|e]|
+|nous|except%[m|ons]|
+|vous|except%[m|ez]|
+|ils|except%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|except%[m|é]|
+|tu|as |except%[m|é]|
+|il|a|except%[m|é]|
+|nous|avons|except%[m|é]|
+|vous|avez|except%[m|é]|
+|ils|ont|except%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|except%[m|ais]|
+|tu|except%[m|ais]|
+|il|except%[m|ait]|
+|nous|except%[m|ions]|
+|vous|except%[m|iez]|
+|ils|except%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|except%[m|é]|
+|tu|avais|except%[m|é]|
+|il|avait|except%[m|é]|
+|nous|avions|except%[m|é]|
+|vous|aviez|except%[m|é]|
+|ils|avaient|except%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|except%[m|ai]|
+|tu|except%[m|as]|
+|il|except%[m|a]|
+|nous|except%[m|âmes]|
+|vous|except%[m|âtes]|
+|ils|except%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|except%[m|é]|
+|tu|eus|except%[m|é]|
+|il|eut|except%[m|é]|
+|nous|e&ucirc;mes|except%[m|é]|
+|vous|e&ucirc;tes|except%[m|é]|
+|ils|eurent|except%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|except%[m|erai]|
+|tu|except%[m|eras]|
+|il|except%[m|era]|
+|nous|except%[m|erons]|
+|vous|except%[m|erez]|
+|ils|except%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|except%[m|é]|
+|tu|auras|except%[m|é]|
+|il|aura|except%[m|é]|
+|nous|aurons|except%[m|é]|
+|vous|aurez|except%[m|é]|
+|ils|auront|except%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|except%[m|erais]|
+|tu|except%[m|erais]|
+|il|except%[m|erait]|
+|nous|except%[m|erions]|
+|vous|except%[m|eriez]|
+|ils|except%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|except%[m|é]|
+|tu|aurais|except%[m|é]|
+|il|aurait|except%[m|é]|
+|nous|aurions|except%[m|é]|
+|vous|auriez|except%[m|é]|
+|ils|auraient|except%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|except%[m|e]|
+|que|tu|except%[m|es]|
+|qu'|il|except%[m|e]|
+|que|nous|except%[m|ions]|
+|que|vous|except%[m|iez]|
+|qu'|ils|except%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|except%[m|é]|
+|que|tu|aies|except%[m|é]|
+|qu'|il|ait|except%[m|é]|
+|que|nous|ayons|except%[m|é]|
+|que|vous|ayez|except%[m|é]|
+|qu'|ils|aient|except%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|except%[m|asse]|
+|que|tu|except%[m|asses]|
+|qu'|il|except%[m|ât]|
+|que|nous|except%[m|assions]|
+|que|vous|except%[m|assiez]|
+|qu'|ils|except%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|except%[m|é]|
+|que|tu|eusses|except%[m|é]|
+|qu'|il|eût|except%[m|é]|
+|que|nous|eussions|except%[m|é]|
+|que|vous|eussiez|except%[m|é]|
+|qu'|ils|eussent|except%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|except%[m|e]|
+|except%[m|ons]|
+|except%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|except%[m|é]|
+|ayons|except%[m|é]|
+|ayez|except%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# truffer %[clVerbGroup|1]
+[-
+garnir un plat avec des truffes. 
+remplir abondamment. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|truff%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|truff%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|truff%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||truff%[m|é]|
+|ayant|truff%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en truff%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|truff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|truff%[m|e]|
+|tu|truff%[m|es]|
+|il|truff%[m|e]|
+|nous|truff%[m|ons]|
+|vous|truff%[m|ez]|
+|ils|truff%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|truff%[m|é]|
+|tu|as |truff%[m|é]|
+|il|a|truff%[m|é]|
+|nous|avons|truff%[m|é]|
+|vous|avez|truff%[m|é]|
+|ils|ont|truff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|truff%[m|ais]|
+|tu|truff%[m|ais]|
+|il|truff%[m|ait]|
+|nous|truff%[m|ions]|
+|vous|truff%[m|iez]|
+|ils|truff%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|truff%[m|é]|
+|tu|avais|truff%[m|é]|
+|il|avait|truff%[m|é]|
+|nous|avions|truff%[m|é]|
+|vous|aviez|truff%[m|é]|
+|ils|avaient|truff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|truff%[m|ai]|
+|tu|truff%[m|as]|
+|il|truff%[m|a]|
+|nous|truff%[m|âmes]|
+|vous|truff%[m|âtes]|
+|ils|truff%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|truff%[m|é]|
+|tu|eus|truff%[m|é]|
+|il|eut|truff%[m|é]|
+|nous|e&ucirc;mes|truff%[m|é]|
+|vous|e&ucirc;tes|truff%[m|é]|
+|ils|eurent|truff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|truff%[m|erai]|
+|tu|truff%[m|eras]|
+|il|truff%[m|era]|
+|nous|truff%[m|erons]|
+|vous|truff%[m|erez]|
+|ils|truff%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|truff%[m|é]|
+|tu|auras|truff%[m|é]|
+|il|aura|truff%[m|é]|
+|nous|aurons|truff%[m|é]|
+|vous|aurez|truff%[m|é]|
+|ils|auront|truff%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|truff%[m|erais]|
+|tu|truff%[m|erais]|
+|il|truff%[m|erait]|
+|nous|truff%[m|erions]|
+|vous|truff%[m|eriez]|
+|ils|truff%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|truff%[m|é]|
+|tu|aurais|truff%[m|é]|
+|il|aurait|truff%[m|é]|
+|nous|aurions|truff%[m|é]|
+|vous|auriez|truff%[m|é]|
+|ils|auraient|truff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|truff%[m|e]|
+|que|tu|truff%[m|es]|
+|qu'|il|truff%[m|e]|
+|que|nous|truff%[m|ions]|
+|que|vous|truff%[m|iez]|
+|qu'|ils|truff%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|truff%[m|é]|
+|que|tu|aies|truff%[m|é]|
+|qu'|il|ait|truff%[m|é]|
+|que|nous|ayons|truff%[m|é]|
+|que|vous|ayez|truff%[m|é]|
+|qu'|ils|aient|truff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|truff%[m|asse]|
+|que|tu|truff%[m|asses]|
+|qu'|il|truff%[m|ât]|
+|que|nous|truff%[m|assions]|
+|que|vous|truff%[m|assiez]|
+|qu'|ils|truff%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|truff%[m|é]|
+|que|tu|eusses|truff%[m|é]|
+|qu'|il|eût|truff%[m|é]|
+|que|nous|eussions|truff%[m|é]|
+|que|vous|eussiez|truff%[m|é]|
+|qu'|ils|eussent|truff%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|truff%[m|e]|
+|truff%[m|ons]|
+|truff%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|truff%[m|é]|
+|ayons|truff%[m|é]|
+|ayez|truff%[m|é]|
+|]
+

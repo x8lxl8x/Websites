@@ -1,0 +1,193 @@
+# fixer %[clVerbGroup|1]
+[-
+rendre fixe. 
+empêcher l'altération de. 
+garder immobile. 
+regarder en conservant les yeux immobiles. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fix%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fix%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fix%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fix%[m|é]|
+|ayant|fix%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fix%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fix%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fix%[m|e]|
+|tu|fix%[m|es]|
+|il|fix%[m|e]|
+|nous|fix%[m|ons]|
+|vous|fix%[m|ez]|
+|ils|fix%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fix%[m|é]|
+|tu|as |fix%[m|é]|
+|il|a|fix%[m|é]|
+|nous|avons|fix%[m|é]|
+|vous|avez|fix%[m|é]|
+|ils|ont|fix%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fix%[m|ais]|
+|tu|fix%[m|ais]|
+|il|fix%[m|ait]|
+|nous|fix%[m|ions]|
+|vous|fix%[m|iez]|
+|ils|fix%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fix%[m|é]|
+|tu|avais|fix%[m|é]|
+|il|avait|fix%[m|é]|
+|nous|avions|fix%[m|é]|
+|vous|aviez|fix%[m|é]|
+|ils|avaient|fix%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fix%[m|ai]|
+|tu|fix%[m|as]|
+|il|fix%[m|a]|
+|nous|fix%[m|âmes]|
+|vous|fix%[m|âtes]|
+|ils|fix%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fix%[m|é]|
+|tu|eus|fix%[m|é]|
+|il|eut|fix%[m|é]|
+|nous|e&ucirc;mes|fix%[m|é]|
+|vous|e&ucirc;tes|fix%[m|é]|
+|ils|eurent|fix%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fix%[m|erai]|
+|tu|fix%[m|eras]|
+|il|fix%[m|era]|
+|nous|fix%[m|erons]|
+|vous|fix%[m|erez]|
+|ils|fix%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fix%[m|é]|
+|tu|auras|fix%[m|é]|
+|il|aura|fix%[m|é]|
+|nous|aurons|fix%[m|é]|
+|vous|aurez|fix%[m|é]|
+|ils|auront|fix%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fix%[m|erais]|
+|tu|fix%[m|erais]|
+|il|fix%[m|erait]|
+|nous|fix%[m|erions]|
+|vous|fix%[m|eriez]|
+|ils|fix%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fix%[m|é]|
+|tu|aurais|fix%[m|é]|
+|il|aurait|fix%[m|é]|
+|nous|aurions|fix%[m|é]|
+|vous|auriez|fix%[m|é]|
+|ils|auraient|fix%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fix%[m|e]|
+|que|tu|fix%[m|es]|
+|qu'|il|fix%[m|e]|
+|que|nous|fix%[m|ions]|
+|que|vous|fix%[m|iez]|
+|qu'|ils|fix%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fix%[m|é]|
+|que|tu|aies|fix%[m|é]|
+|qu'|il|ait|fix%[m|é]|
+|que|nous|ayons|fix%[m|é]|
+|que|vous|ayez|fix%[m|é]|
+|qu'|ils|aient|fix%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fix%[m|asse]|
+|que|tu|fix%[m|asses]|
+|qu'|il|fix%[m|ât]|
+|que|nous|fix%[m|assions]|
+|que|vous|fix%[m|assiez]|
+|qu'|ils|fix%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fix%[m|é]|
+|que|tu|eusses|fix%[m|é]|
+|qu'|il|eût|fix%[m|é]|
+|que|nous|eussions|fix%[m|é]|
+|que|vous|eussiez|fix%[m|é]|
+|qu'|ils|eussent|fix%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fix%[m|e]|
+|fix%[m|ons]|
+|fix%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fix%[m|é]|
+|ayons|fix%[m|é]|
+|ayez|fix%[m|é]|
+|]
+

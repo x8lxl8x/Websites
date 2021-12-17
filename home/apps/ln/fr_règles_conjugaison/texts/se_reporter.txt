@@ -1,0 +1,190 @@
+# se reporter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se report%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|report%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se report%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|report%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se report%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|report%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|report%[m|e]|
+|tu|te|report%[m|es]|
+|il|se|report%[m|e]|
+|nous|nous|report%[m|ons]|
+|vous|vous|report%[m|ez]|
+|ils|se|report%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|report%[m|é]|
+|tu|t'|es|report%[m|é]|
+|il|s'|est|report%[m|é]|
+|nous|nous|sommes|report%[m|és]|
+|vous|vous|êtes|report%[m|és]|
+|ils|se|sont|report%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|report%[m|ais]|
+|tu|te|report%[m|ais]|
+|il|se|report%[m|ait]|
+|nous|nous|report%[m|ions]|
+|vous|vous|report%[m|iez]|
+|ils|se|report%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|report%[m|é]|
+|tu|t'|étais|report%[m|é]|
+|il|s'|était|report%[m|é]|
+|nous|nous|étions|report%[m|és]|
+|vous|vous|étiez|report%[m|és]|
+|ils|s'|étaient|report%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|report%[m|ai]|
+|tu|te|report%[m|as]|
+|il|se|report%[m|a]|
+|nous|nous|report%[m|âmes]|
+|vous|vous|report%[m|âtes]|
+|ils|se|report%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|report%[m|é]|
+|tu|te|fus|report%[m|é]|
+|il|se|fut|report%[m|é]|
+|nous|nous|fûmes|report%[m|és]|
+|vous|vous|fûtes|report%[m|és]|
+|ils|se|furent|report%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|report%[m|erai]|
+|tu|te|report%[m|eras]|
+|il|se|report%[m|era]|
+|nous|nous|report%[m|erons]|
+|vous|vous|report%[m|erez]|
+|ils|se|report%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|report%[m|é]|
+|tu|te|seras|report%[m|é]|
+|il|se|sera|report%[m|é]|
+|nous|nous|serons|report%[m|és]|
+|vous|vous|serez|report%[m|és]|
+|ils|se|seront|report%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|report%[m|erais]|
+|tu|te|report%[m|erais]|
+|il|se|report%[m|erait]|
+|nous|nous|report%[m|erions]|
+|vous|vous|report%[m|eriez]|
+|ils|se|report%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|report%[m|é]|
+|tu|te|serais|report%[m|é]|
+|il|se|serait|report%[m|é]|
+|nous|nous|serions|report%[m|és]|
+|vous|vous|seriez|report%[m|és]|
+|ils|se|seraient|report%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|report%[m|e]|
+|que|tu|te|report%[m|es]|
+|qu'|il|se|report%[m|e]|
+|que|nous|nous|report%[m|ions]|
+|que|vous|vous|report%[m|iez]|
+|qu'|ils|se|report%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|report%[m|é]|
+|que|tu|te|sois|report%[m|é]|
+|qu'|il|se|soit|report%[m|é]|
+|que|nous|nous|soyons|report%[m|és]|
+|que|vous|vous|soyez|report%[m|és]|
+|qu'|ils|se|soient|report%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|report%[m|asse]|
+|que|tu|te|report%[m|asses]|
+|qu'|il|se|report%[m|ât]|
+|que|nous|nous|report%[m|assions]|
+|que|vous|vous|report%[m|assiez]|
+|qu'|ils|se|report%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|report%[m|é]|
+|que|tu|te|fusses|report%[m|é]|
+|qu'|il|se|fût|report%[m|é]|
+|que|nous|nous|fussions|report%[m|és]|
+|que|vous|vous|fussiez|report%[m|és]|
+|qu'|ils|se|fussent|report%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|report%[m|e]-toi|
+|report%[m|ons]-nous|
+|report%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

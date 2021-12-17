@@ -1,0 +1,190 @@
+# baréter %[clVerbGroup|1]
+[-
+barrir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bar%[m|é]t%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|barét%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bar%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||barét%[m|é]|
+|ayant|barét%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bar%[m|é]t%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|barét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bar%[m|è]t%[m|e]|
+|tu|bar%[m|è]t%[m|es]|
+|il|bar%[m|è]t%[m|e]|
+|nous|bar%[m|é]t%[m|ons]|
+|vous|bar%[m|é]t%[m|ez]|
+|ils|bar%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|barét%[m|é]|
+|tu|as |barét%[m|é]|
+|il|a|barét%[m|é]|
+|nous|avons|barét%[m|é]|
+|vous|avez|barét%[m|é]|
+|ils|ont|barét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bar%[m|é]t%[m|ais]|
+|tu|bar%[m|é]t%[m|ais]|
+|il|bar%[m|é]t%[m|ait]|
+|nous|bar%[m|é]t%[m|ions]|
+|vous|bar%[m|é]t%[m|iez]|
+|ils|bar%[m|é]t%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|barét%[m|é]|
+|tu|avais|barét%[m|é]|
+|il|avait|barét%[m|é]|
+|nous|avions|barét%[m|é]|
+|vous|aviez|barét%[m|é]|
+|ils|avaient|barét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bar%[m|é]t%[m|ai]|
+|tu|bar%[m|é]t%[m|as]|
+|il|bar%[m|é]t%[m|a]|
+|nous|bar%[m|é]t%[m|âmes]|
+|vous|bar%[m|é]t%[m|âtes]|
+|ils|bar%[m|é]t%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|barét%[m|é]|
+|tu|eus|barét%[m|é]|
+|il|eut|barét%[m|é]|
+|nous|e&ucirc;mes|barét%[m|é]|
+|vous|e&ucirc;tes|barét%[m|é]|
+|ils|eurent|barét%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bar%[m|é]t%[m|erai]|
+|tu|bar%[m|é]t%[m|eras]|
+|il|bar%[m|é]t%[m|era]|
+|nous|bar%[m|é]t%[m|erons]|
+|vous|bar%[m|é]t%[m|erez]|
+|ils|bar%[m|é]t%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|barét%[m|é]|
+|tu|auras|barét%[m|é]|
+|il|aura|barét%[m|é]|
+|nous|aurons|barét%[m|é]|
+|vous|aurez|barét%[m|é]|
+|ils|auront|barét%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bar%[m|é]t%[m|erais]|
+|tu|bar%[m|é]t%[m|erais]|
+|il|bar%[m|é]t%[m|erait]|
+|nous|bar%[m|é]t%[m|erions]|
+|vous|bar%[m|é]t%[m|eriez]|
+|ils|bar%[m|é]t%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|barét%[m|é]|
+|tu|aurais|barét%[m|é]|
+|il|aurait|barét%[m|é]|
+|nous|aurions|barét%[m|é]|
+|vous|auriez|barét%[m|é]|
+|ils|auraient|barét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bar%[m|è]t%[m|e]|
+|que|tu|bar%[m|è]t%[m|es]|
+|qu'|il|bar%[m|è]t%[m|e]|
+|que|nous|bar%[m|é]t%[m|ions]|
+|que|vous|bar%[m|é]t%[m|iez]|
+|qu'|ils|bar%[m|è]t%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|barét%[m|é]|
+|que|tu|aies|barét%[m|é]|
+|qu'|il|ait|barét%[m|é]|
+|que|nous|ayons|barét%[m|é]|
+|que|vous|ayez|barét%[m|é]|
+|qu'|ils|aient|barét%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bar%[m|é]t%[m|asse]|
+|que|tu|bar%[m|é]t%[m|asses]|
+|qu'|il|bar%[m|é]t%[m|ât]|
+|que|nous|bar%[m|é]t%[m|assions]|
+|que|vous|bar%[m|é]t%[m|assiez]|
+|qu'|ils|bar%[m|é]t%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|barét%[m|é]|
+|que|tu|eusses|barét%[m|é]|
+|qu'|il|eût|barét%[m|é]|
+|que|nous|eussions|barét%[m|é]|
+|que|vous|eussiez|barét%[m|é]|
+|qu'|ils|eussent|barét%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bar%[m|è]t%[m|e]|
+|bar%[m|é]t%[m|ons]|
+|bar%[m|é]t%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|barét%[m|é]|
+|ayons|barét%[m|é]|
+|ayez|barét%[m|é]|
+|]
+

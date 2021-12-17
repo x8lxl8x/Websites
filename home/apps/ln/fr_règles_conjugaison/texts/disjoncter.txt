@@ -1,0 +1,190 @@
+# disjoncter %[clVerbGroup|1]
+[-
+causer une interruption de courant (disjoncteur) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|disjonct%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|disjonct%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||disjonct%[m|é]|
+|ayant|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en disjonct%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|disjonct%[m|e]|
+|tu|disjonct%[m|es]|
+|il|disjonct%[m|e]|
+|nous|disjonct%[m|ons]|
+|vous|disjonct%[m|ez]|
+|ils|disjonct%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|disjonct%[m|é]|
+|tu|as |disjonct%[m|é]|
+|il|a|disjonct%[m|é]|
+|nous|avons|disjonct%[m|é]|
+|vous|avez|disjonct%[m|é]|
+|ils|ont|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|disjonct%[m|ais]|
+|tu|disjonct%[m|ais]|
+|il|disjonct%[m|ait]|
+|nous|disjonct%[m|ions]|
+|vous|disjonct%[m|iez]|
+|ils|disjonct%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|disjonct%[m|é]|
+|tu|avais|disjonct%[m|é]|
+|il|avait|disjonct%[m|é]|
+|nous|avions|disjonct%[m|é]|
+|vous|aviez|disjonct%[m|é]|
+|ils|avaient|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|disjonct%[m|ai]|
+|tu|disjonct%[m|as]|
+|il|disjonct%[m|a]|
+|nous|disjonct%[m|âmes]|
+|vous|disjonct%[m|âtes]|
+|ils|disjonct%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|disjonct%[m|é]|
+|tu|eus|disjonct%[m|é]|
+|il|eut|disjonct%[m|é]|
+|nous|e&ucirc;mes|disjonct%[m|é]|
+|vous|e&ucirc;tes|disjonct%[m|é]|
+|ils|eurent|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|disjonct%[m|erai]|
+|tu|disjonct%[m|eras]|
+|il|disjonct%[m|era]|
+|nous|disjonct%[m|erons]|
+|vous|disjonct%[m|erez]|
+|ils|disjonct%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|disjonct%[m|é]|
+|tu|auras|disjonct%[m|é]|
+|il|aura|disjonct%[m|é]|
+|nous|aurons|disjonct%[m|é]|
+|vous|aurez|disjonct%[m|é]|
+|ils|auront|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|disjonct%[m|erais]|
+|tu|disjonct%[m|erais]|
+|il|disjonct%[m|erait]|
+|nous|disjonct%[m|erions]|
+|vous|disjonct%[m|eriez]|
+|ils|disjonct%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|disjonct%[m|é]|
+|tu|aurais|disjonct%[m|é]|
+|il|aurait|disjonct%[m|é]|
+|nous|aurions|disjonct%[m|é]|
+|vous|auriez|disjonct%[m|é]|
+|ils|auraient|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|disjonct%[m|e]|
+|que|tu|disjonct%[m|es]|
+|qu'|il|disjonct%[m|e]|
+|que|nous|disjonct%[m|ions]|
+|que|vous|disjonct%[m|iez]|
+|qu'|ils|disjonct%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|disjonct%[m|é]|
+|que|tu|aies|disjonct%[m|é]|
+|qu'|il|ait|disjonct%[m|é]|
+|que|nous|ayons|disjonct%[m|é]|
+|que|vous|ayez|disjonct%[m|é]|
+|qu'|ils|aient|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|disjonct%[m|asse]|
+|que|tu|disjonct%[m|asses]|
+|qu'|il|disjonct%[m|ât]|
+|que|nous|disjonct%[m|assions]|
+|que|vous|disjonct%[m|assiez]|
+|qu'|ils|disjonct%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|disjonct%[m|é]|
+|que|tu|eusses|disjonct%[m|é]|
+|qu'|il|eût|disjonct%[m|é]|
+|que|nous|eussions|disjonct%[m|é]|
+|que|vous|eussiez|disjonct%[m|é]|
+|qu'|ils|eussent|disjonct%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|disjonct%[m|e]|
+|disjonct%[m|ons]|
+|disjonct%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|disjonct%[m|é]|
+|ayons|disjonct%[m|é]|
+|ayez|disjonct%[m|é]|
+|]
+

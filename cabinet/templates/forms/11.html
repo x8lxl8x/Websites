@@ -1,0 +1,21 @@
+<h3 id='idHeader3'>Кабинет - $strClientNameFirst $strClientNameLast</h3>
+<h4 id='idHeader4'>Опроснaя формa - Дополнительные сведения</h4>
+
+<div class='clComments'>
+Наnишите все, что считаете нужным и что не было затронуто в других формах.
+</div>
+
+<form id='idMain' name='varMain' method='post' action='./client-form-proc.php?varIdKey=$strIdKey&amp;varForm=$intForm&amp;varFields=$intFields'>
+
+<p class='clQuestion'><span class='clCommentInline'></span></p>
+<textarea rows='15' cols='80' id='id1101' name='var1101' type='textarea' onBlur='fncOnBlur( this )'>$arrValues[1]</textarea>
+
+<div id='idSubmit'>
+  <input type='button' value='Отправить' onClick='fncSubmitForm( $intForm, $intFields );'>
+  <input id='idFormsCompleted' type='hidden' value='$strFormsCompleted'>
+</div>
+</form>
+
+<div id='idExitLink'>
+  <a href='./client-cabinet-page.php?varIdKey=$strIdKey'>На главную страницу кабинета</a>
+</div>

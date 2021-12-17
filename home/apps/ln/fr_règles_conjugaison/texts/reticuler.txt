@@ -1,0 +1,190 @@
+# réticuler %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|réticul%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|réticul%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|réticul%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||réticul%[m|é]|
+|ayant|réticul%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en réticul%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|réticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|réticul%[m|e]|
+|tu|réticul%[m|es]|
+|il|réticul%[m|e]|
+|nous|réticul%[m|ons]|
+|vous|réticul%[m|ez]|
+|ils|réticul%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|réticul%[m|é]|
+|tu|as |réticul%[m|é]|
+|il|a|réticul%[m|é]|
+|nous|avons|réticul%[m|é]|
+|vous|avez|réticul%[m|é]|
+|ils|ont|réticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|réticul%[m|ais]|
+|tu|réticul%[m|ais]|
+|il|réticul%[m|ait]|
+|nous|réticul%[m|ions]|
+|vous|réticul%[m|iez]|
+|ils|réticul%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|réticul%[m|é]|
+|tu|avais|réticul%[m|é]|
+|il|avait|réticul%[m|é]|
+|nous|avions|réticul%[m|é]|
+|vous|aviez|réticul%[m|é]|
+|ils|avaient|réticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|réticul%[m|ai]|
+|tu|réticul%[m|as]|
+|il|réticul%[m|a]|
+|nous|réticul%[m|âmes]|
+|vous|réticul%[m|âtes]|
+|ils|réticul%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|réticul%[m|é]|
+|tu|eus|réticul%[m|é]|
+|il|eut|réticul%[m|é]|
+|nous|e&ucirc;mes|réticul%[m|é]|
+|vous|e&ucirc;tes|réticul%[m|é]|
+|ils|eurent|réticul%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|réticul%[m|erai]|
+|tu|réticul%[m|eras]|
+|il|réticul%[m|era]|
+|nous|réticul%[m|erons]|
+|vous|réticul%[m|erez]|
+|ils|réticul%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|réticul%[m|é]|
+|tu|auras|réticul%[m|é]|
+|il|aura|réticul%[m|é]|
+|nous|aurons|réticul%[m|é]|
+|vous|aurez|réticul%[m|é]|
+|ils|auront|réticul%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|réticul%[m|erais]|
+|tu|réticul%[m|erais]|
+|il|réticul%[m|erait]|
+|nous|réticul%[m|erions]|
+|vous|réticul%[m|eriez]|
+|ils|réticul%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|réticul%[m|é]|
+|tu|aurais|réticul%[m|é]|
+|il|aurait|réticul%[m|é]|
+|nous|aurions|réticul%[m|é]|
+|vous|auriez|réticul%[m|é]|
+|ils|auraient|réticul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|réticul%[m|e]|
+|que|tu|réticul%[m|es]|
+|qu'|il|réticul%[m|e]|
+|que|nous|réticul%[m|ions]|
+|que|vous|réticul%[m|iez]|
+|qu'|ils|réticul%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|réticul%[m|é]|
+|que|tu|aies|réticul%[m|é]|
+|qu'|il|ait|réticul%[m|é]|
+|que|nous|ayons|réticul%[m|é]|
+|que|vous|ayez|réticul%[m|é]|
+|qu'|ils|aient|réticul%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|réticul%[m|asse]|
+|que|tu|réticul%[m|asses]|
+|qu'|il|réticul%[m|ât]|
+|que|nous|réticul%[m|assions]|
+|que|vous|réticul%[m|assiez]|
+|qu'|ils|réticul%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|réticul%[m|é]|
+|que|tu|eusses|réticul%[m|é]|
+|qu'|il|eût|réticul%[m|é]|
+|que|nous|eussions|réticul%[m|é]|
+|que|vous|eussiez|réticul%[m|é]|
+|qu'|ils|eussent|réticul%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|réticul%[m|e]|
+|réticul%[m|ons]|
+|réticul%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|réticul%[m|é]|
+|ayons|réticul%[m|é]|
+|ayez|réticul%[m|é]|
+|]
+

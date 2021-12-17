@@ -1,0 +1,190 @@
+# phrasicoter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|phrasicot%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|phrasicot%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||phrasicot%[m|é]|
+|ayant|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en phrasicot%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|phrasicot%[m|e]|
+|tu|phrasicot%[m|es]|
+|il|phrasicot%[m|e]|
+|nous|phrasicot%[m|ons]|
+|vous|phrasicot%[m|ez]|
+|ils|phrasicot%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|phrasicot%[m|é]|
+|tu|as |phrasicot%[m|é]|
+|il|a|phrasicot%[m|é]|
+|nous|avons|phrasicot%[m|é]|
+|vous|avez|phrasicot%[m|é]|
+|ils|ont|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|phrasicot%[m|ais]|
+|tu|phrasicot%[m|ais]|
+|il|phrasicot%[m|ait]|
+|nous|phrasicot%[m|ions]|
+|vous|phrasicot%[m|iez]|
+|ils|phrasicot%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|phrasicot%[m|é]|
+|tu|avais|phrasicot%[m|é]|
+|il|avait|phrasicot%[m|é]|
+|nous|avions|phrasicot%[m|é]|
+|vous|aviez|phrasicot%[m|é]|
+|ils|avaient|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|phrasicot%[m|ai]|
+|tu|phrasicot%[m|as]|
+|il|phrasicot%[m|a]|
+|nous|phrasicot%[m|âmes]|
+|vous|phrasicot%[m|âtes]|
+|ils|phrasicot%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|phrasicot%[m|é]|
+|tu|eus|phrasicot%[m|é]|
+|il|eut|phrasicot%[m|é]|
+|nous|e&ucirc;mes|phrasicot%[m|é]|
+|vous|e&ucirc;tes|phrasicot%[m|é]|
+|ils|eurent|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|phrasicot%[m|erai]|
+|tu|phrasicot%[m|eras]|
+|il|phrasicot%[m|era]|
+|nous|phrasicot%[m|erons]|
+|vous|phrasicot%[m|erez]|
+|ils|phrasicot%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|phrasicot%[m|é]|
+|tu|auras|phrasicot%[m|é]|
+|il|aura|phrasicot%[m|é]|
+|nous|aurons|phrasicot%[m|é]|
+|vous|aurez|phrasicot%[m|é]|
+|ils|auront|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|phrasicot%[m|erais]|
+|tu|phrasicot%[m|erais]|
+|il|phrasicot%[m|erait]|
+|nous|phrasicot%[m|erions]|
+|vous|phrasicot%[m|eriez]|
+|ils|phrasicot%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|phrasicot%[m|é]|
+|tu|aurais|phrasicot%[m|é]|
+|il|aurait|phrasicot%[m|é]|
+|nous|aurions|phrasicot%[m|é]|
+|vous|auriez|phrasicot%[m|é]|
+|ils|auraient|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|phrasicot%[m|e]|
+|que|tu|phrasicot%[m|es]|
+|qu'|il|phrasicot%[m|e]|
+|que|nous|phrasicot%[m|ions]|
+|que|vous|phrasicot%[m|iez]|
+|qu'|ils|phrasicot%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|phrasicot%[m|é]|
+|que|tu|aies|phrasicot%[m|é]|
+|qu'|il|ait|phrasicot%[m|é]|
+|que|nous|ayons|phrasicot%[m|é]|
+|que|vous|ayez|phrasicot%[m|é]|
+|qu'|ils|aient|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|phrasicot%[m|asse]|
+|que|tu|phrasicot%[m|asses]|
+|qu'|il|phrasicot%[m|ât]|
+|que|nous|phrasicot%[m|assions]|
+|que|vous|phrasicot%[m|assiez]|
+|qu'|ils|phrasicot%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|phrasicot%[m|é]|
+|que|tu|eusses|phrasicot%[m|é]|
+|qu'|il|eût|phrasicot%[m|é]|
+|que|nous|eussions|phrasicot%[m|é]|
+|que|vous|eussiez|phrasicot%[m|é]|
+|qu'|ils|eussent|phrasicot%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|phrasicot%[m|e]|
+|phrasicot%[m|ons]|
+|phrasicot%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|phrasicot%[m|é]|
+|ayons|phrasicot%[m|é]|
+|ayez|phrasicot%[m|é]|
+|]
+

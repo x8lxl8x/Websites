@@ -1,0 +1,190 @@
+# décompenser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|décompens%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|décompens%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|décompens%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||décompens%[m|é]|
+|ayant|décompens%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en décompens%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|décompens%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|décompens%[m|e]|
+|tu|décompens%[m|es]|
+|il|décompens%[m|e]|
+|nous|décompens%[m|ons]|
+|vous|décompens%[m|ez]|
+|ils|décompens%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|décompens%[m|é]|
+|tu|as |décompens%[m|é]|
+|il|a|décompens%[m|é]|
+|nous|avons|décompens%[m|é]|
+|vous|avez|décompens%[m|é]|
+|ils|ont|décompens%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|décompens%[m|ais]|
+|tu|décompens%[m|ais]|
+|il|décompens%[m|ait]|
+|nous|décompens%[m|ions]|
+|vous|décompens%[m|iez]|
+|ils|décompens%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|décompens%[m|é]|
+|tu|avais|décompens%[m|é]|
+|il|avait|décompens%[m|é]|
+|nous|avions|décompens%[m|é]|
+|vous|aviez|décompens%[m|é]|
+|ils|avaient|décompens%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|décompens%[m|ai]|
+|tu|décompens%[m|as]|
+|il|décompens%[m|a]|
+|nous|décompens%[m|âmes]|
+|vous|décompens%[m|âtes]|
+|ils|décompens%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|décompens%[m|é]|
+|tu|eus|décompens%[m|é]|
+|il|eut|décompens%[m|é]|
+|nous|e&ucirc;mes|décompens%[m|é]|
+|vous|e&ucirc;tes|décompens%[m|é]|
+|ils|eurent|décompens%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|décompens%[m|erai]|
+|tu|décompens%[m|eras]|
+|il|décompens%[m|era]|
+|nous|décompens%[m|erons]|
+|vous|décompens%[m|erez]|
+|ils|décompens%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|décompens%[m|é]|
+|tu|auras|décompens%[m|é]|
+|il|aura|décompens%[m|é]|
+|nous|aurons|décompens%[m|é]|
+|vous|aurez|décompens%[m|é]|
+|ils|auront|décompens%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|décompens%[m|erais]|
+|tu|décompens%[m|erais]|
+|il|décompens%[m|erait]|
+|nous|décompens%[m|erions]|
+|vous|décompens%[m|eriez]|
+|ils|décompens%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|décompens%[m|é]|
+|tu|aurais|décompens%[m|é]|
+|il|aurait|décompens%[m|é]|
+|nous|aurions|décompens%[m|é]|
+|vous|auriez|décompens%[m|é]|
+|ils|auraient|décompens%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|décompens%[m|e]|
+|que|tu|décompens%[m|es]|
+|qu'|il|décompens%[m|e]|
+|que|nous|décompens%[m|ions]|
+|que|vous|décompens%[m|iez]|
+|qu'|ils|décompens%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|décompens%[m|é]|
+|que|tu|aies|décompens%[m|é]|
+|qu'|il|ait|décompens%[m|é]|
+|que|nous|ayons|décompens%[m|é]|
+|que|vous|ayez|décompens%[m|é]|
+|qu'|ils|aient|décompens%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|décompens%[m|asse]|
+|que|tu|décompens%[m|asses]|
+|qu'|il|décompens%[m|ât]|
+|que|nous|décompens%[m|assions]|
+|que|vous|décompens%[m|assiez]|
+|qu'|ils|décompens%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|décompens%[m|é]|
+|que|tu|eusses|décompens%[m|é]|
+|qu'|il|eût|décompens%[m|é]|
+|que|nous|eussions|décompens%[m|é]|
+|que|vous|eussiez|décompens%[m|é]|
+|qu'|ils|eussent|décompens%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|décompens%[m|e]|
+|décompens%[m|ons]|
+|décompens%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|décompens%[m|é]|
+|ayons|décompens%[m|é]|
+|ayez|décompens%[m|é]|
+|]
+

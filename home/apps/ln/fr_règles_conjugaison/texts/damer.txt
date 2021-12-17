@@ -1,0 +1,191 @@
+# damer %[clVerbGroup|1]
+[-
+transformer en dame (ou en une autre pièce choisie) un pion qui atteint la dernière rangée du damier ou de l'échiquier. 
+tasser le sol (terre, pavés, neige, béton) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dam%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dam%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dam%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dam%[m|é]|
+|ayant|dam%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dam%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dam%[m|e]|
+|tu|dam%[m|es]|
+|il|dam%[m|e]|
+|nous|dam%[m|ons]|
+|vous|dam%[m|ez]|
+|ils|dam%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dam%[m|é]|
+|tu|as |dam%[m|é]|
+|il|a|dam%[m|é]|
+|nous|avons|dam%[m|é]|
+|vous|avez|dam%[m|é]|
+|ils|ont|dam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dam%[m|ais]|
+|tu|dam%[m|ais]|
+|il|dam%[m|ait]|
+|nous|dam%[m|ions]|
+|vous|dam%[m|iez]|
+|ils|dam%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dam%[m|é]|
+|tu|avais|dam%[m|é]|
+|il|avait|dam%[m|é]|
+|nous|avions|dam%[m|é]|
+|vous|aviez|dam%[m|é]|
+|ils|avaient|dam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dam%[m|ai]|
+|tu|dam%[m|as]|
+|il|dam%[m|a]|
+|nous|dam%[m|âmes]|
+|vous|dam%[m|âtes]|
+|ils|dam%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dam%[m|é]|
+|tu|eus|dam%[m|é]|
+|il|eut|dam%[m|é]|
+|nous|e&ucirc;mes|dam%[m|é]|
+|vous|e&ucirc;tes|dam%[m|é]|
+|ils|eurent|dam%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dam%[m|erai]|
+|tu|dam%[m|eras]|
+|il|dam%[m|era]|
+|nous|dam%[m|erons]|
+|vous|dam%[m|erez]|
+|ils|dam%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dam%[m|é]|
+|tu|auras|dam%[m|é]|
+|il|aura|dam%[m|é]|
+|nous|aurons|dam%[m|é]|
+|vous|aurez|dam%[m|é]|
+|ils|auront|dam%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dam%[m|erais]|
+|tu|dam%[m|erais]|
+|il|dam%[m|erait]|
+|nous|dam%[m|erions]|
+|vous|dam%[m|eriez]|
+|ils|dam%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dam%[m|é]|
+|tu|aurais|dam%[m|é]|
+|il|aurait|dam%[m|é]|
+|nous|aurions|dam%[m|é]|
+|vous|auriez|dam%[m|é]|
+|ils|auraient|dam%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dam%[m|e]|
+|que|tu|dam%[m|es]|
+|qu'|il|dam%[m|e]|
+|que|nous|dam%[m|ions]|
+|que|vous|dam%[m|iez]|
+|qu'|ils|dam%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dam%[m|é]|
+|que|tu|aies|dam%[m|é]|
+|qu'|il|ait|dam%[m|é]|
+|que|nous|ayons|dam%[m|é]|
+|que|vous|ayez|dam%[m|é]|
+|qu'|ils|aient|dam%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dam%[m|asse]|
+|que|tu|dam%[m|asses]|
+|qu'|il|dam%[m|ât]|
+|que|nous|dam%[m|assions]|
+|que|vous|dam%[m|assiez]|
+|qu'|ils|dam%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dam%[m|é]|
+|que|tu|eusses|dam%[m|é]|
+|qu'|il|eût|dam%[m|é]|
+|que|nous|eussions|dam%[m|é]|
+|que|vous|eussiez|dam%[m|é]|
+|qu'|ils|eussent|dam%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dam%[m|e]|
+|dam%[m|ons]|
+|dam%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dam%[m|é]|
+|ayons|dam%[m|é]|
+|ayez|dam%[m|é]|
+|]
+

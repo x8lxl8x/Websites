@@ -1,0 +1,190 @@
+# se provoquer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se provoqu%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|provoqu%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se provoqu%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|provoqu%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se provoqu%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|provoqu%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|provoqu%[m|e]|
+|tu|te|provoqu%[m|es]|
+|il|se|provoqu%[m|e]|
+|nous|nous|provoqu%[m|ons]|
+|vous|vous|provoqu%[m|ez]|
+|ils|se|provoqu%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|provoqu%[m|é]|
+|tu|t'|es|provoqu%[m|é]|
+|il|s'|est|provoqu%[m|é]|
+|nous|nous|sommes|provoqu%[m|és]|
+|vous|vous|êtes|provoqu%[m|és]|
+|ils|se|sont|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|provoqu%[m|ais]|
+|tu|te|provoqu%[m|ais]|
+|il|se|provoqu%[m|ait]|
+|nous|nous|provoqu%[m|ions]|
+|vous|vous|provoqu%[m|iez]|
+|ils|se|provoqu%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|provoqu%[m|é]|
+|tu|t'|étais|provoqu%[m|é]|
+|il|s'|était|provoqu%[m|é]|
+|nous|nous|étions|provoqu%[m|és]|
+|vous|vous|étiez|provoqu%[m|és]|
+|ils|s'|étaient|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|provoqu%[m|ai]|
+|tu|te|provoqu%[m|as]|
+|il|se|provoqu%[m|a]|
+|nous|nous|provoqu%[m|âmes]|
+|vous|vous|provoqu%[m|âtes]|
+|ils|se|provoqu%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|provoqu%[m|é]|
+|tu|te|fus|provoqu%[m|é]|
+|il|se|fut|provoqu%[m|é]|
+|nous|nous|fûmes|provoqu%[m|és]|
+|vous|vous|fûtes|provoqu%[m|és]|
+|ils|se|furent|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|provoqu%[m|erai]|
+|tu|te|provoqu%[m|eras]|
+|il|se|provoqu%[m|era]|
+|nous|nous|provoqu%[m|erons]|
+|vous|vous|provoqu%[m|erez]|
+|ils|se|provoqu%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|provoqu%[m|é]|
+|tu|te|seras|provoqu%[m|é]|
+|il|se|sera|provoqu%[m|é]|
+|nous|nous|serons|provoqu%[m|és]|
+|vous|vous|serez|provoqu%[m|és]|
+|ils|se|seront|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|provoqu%[m|erais]|
+|tu|te|provoqu%[m|erais]|
+|il|se|provoqu%[m|erait]|
+|nous|nous|provoqu%[m|erions]|
+|vous|vous|provoqu%[m|eriez]|
+|ils|se|provoqu%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|provoqu%[m|é]|
+|tu|te|serais|provoqu%[m|é]|
+|il|se|serait|provoqu%[m|é]|
+|nous|nous|serions|provoqu%[m|és]|
+|vous|vous|seriez|provoqu%[m|és]|
+|ils|se|seraient|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|provoqu%[m|e]|
+|que|tu|te|provoqu%[m|es]|
+|qu'|il|se|provoqu%[m|e]|
+|que|nous|nous|provoqu%[m|ions]|
+|que|vous|vous|provoqu%[m|iez]|
+|qu'|ils|se|provoqu%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|provoqu%[m|é]|
+|que|tu|te|sois|provoqu%[m|é]|
+|qu'|il|se|soit|provoqu%[m|é]|
+|que|nous|nous|soyons|provoqu%[m|és]|
+|que|vous|vous|soyez|provoqu%[m|és]|
+|qu'|ils|se|soient|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|provoqu%[m|asse]|
+|que|tu|te|provoqu%[m|asses]|
+|qu'|il|se|provoqu%[m|ât]|
+|que|nous|nous|provoqu%[m|assions]|
+|que|vous|vous|provoqu%[m|assiez]|
+|qu'|ils|se|provoqu%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|provoqu%[m|é]|
+|que|tu|te|fusses|provoqu%[m|é]|
+|qu'|il|se|fût|provoqu%[m|é]|
+|que|nous|nous|fussions|provoqu%[m|és]|
+|que|vous|vous|fussiez|provoqu%[m|és]|
+|qu'|ils|se|fussent|provoqu%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|provoqu%[m|e]-toi|
+|provoqu%[m|ons]-nous|
+|provoqu%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

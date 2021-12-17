@@ -1,0 +1,191 @@
+# s'embrancher %[clVerbGroup|1]
+[-
+joindre deux embranchements (d'une canalisation, d'une voie etc.) 
+se raccorder à (voie) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'embranch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|embranch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'embranch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|embranch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'embranch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|embranch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|embranch%[m|e]|
+|tu|t'|embranch%[m|es]|
+|il|s'|embranch%[m|e]|
+|nous|nous|embranch%[m|ons]|
+|vous|vous|embranch%[m|ez]|
+|ils|s'|embranch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|embranch%[m|é]|
+|tu|t'|es|embranch%[m|é]|
+|il|s'|est|embranch%[m|é]|
+|nous|nous|sommes|embranch%[m|és]|
+|vous|vous|êtes|embranch%[m|és]|
+|ils|se|sont|embranch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|embranch%[m|ais]|
+|tu|t'|embranch%[m|ais]|
+|il|s'|embranch%[m|ait]|
+|nous|nous|embranch%[m|ions]|
+|vous|vous|embranch%[m|iez]|
+|ils|s'|embranch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|embranch%[m|é]|
+|tu|t'|étais|embranch%[m|é]|
+|il|s'|était|embranch%[m|é]|
+|nous|nous|étions|embranch%[m|és]|
+|vous|vous|étiez|embranch%[m|és]|
+|ils|s'|étaient|embranch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|embranch%[m|ai]|
+|tu|t'|embranch%[m|as]|
+|il|s'|embranch%[m|a]|
+|nous|nous|embranch%[m|âmes]|
+|vous|vous|embranch%[m|âtes]|
+|ils|s'|embranch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|embranch%[m|é]|
+|tu|te|fus|embranch%[m|é]|
+|il|se|fut|embranch%[m|é]|
+|nous|nous|fûmes|embranch%[m|és]|
+|vous|vous|fûtes|embranch%[m|és]|
+|ils|se|furent|embranch%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|embranch%[m|erai]|
+|tu|t'|embranch%[m|eras]|
+|il|s'|embranch%[m|era]|
+|nous|nous|embranch%[m|erons]|
+|vous|vous|embranch%[m|erez]|
+|ils|s'|embranch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|embranch%[m|é]|
+|tu|te|seras|embranch%[m|é]|
+|il|se|sera|embranch%[m|é]|
+|nous|nous|serons|embranch%[m|és]|
+|vous|vous|serez|embranch%[m|és]|
+|ils|se|seront|embranch%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|embranch%[m|erais]|
+|tu|t'|embranch%[m|erais]|
+|il|s'|embranch%[m|erait]|
+|nous|nous|embranch%[m|erions]|
+|vous|vous|embranch%[m|eriez]|
+|ils|s'|embranch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|embranch%[m|é]|
+|tu|te|serais|embranch%[m|é]|
+|il|se|serait|embranch%[m|é]|
+|nous|nous|serions|embranch%[m|és]|
+|vous|vous|seriez|embranch%[m|és]|
+|ils|se|seraient|embranch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|embranch%[m|e]|
+|que|tu|t'|embranch%[m|es]|
+|qu'|il|s'|embranch%[m|e]|
+|que|nous|nous|embranch%[m|ions]|
+|que|vous|vous|embranch%[m|iez]|
+|qu'|ils|s'|embranch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|embranch%[m|é]|
+|que|tu|te|sois|embranch%[m|é]|
+|qu'|il|se|soit|embranch%[m|é]|
+|que|nous|nous|soyons|embranch%[m|és]|
+|que|vous|vous|soyez|embranch%[m|és]|
+|qu'|ils|se|soient|embranch%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|embranch%[m|asse]|
+|que|tu|t'|embranch%[m|asses]|
+|qu'|il|s'|embranch%[m|ât]|
+|que|nous|nous|embranch%[m|assions]|
+|que|vous|vous|embranch%[m|assiez]|
+|qu'|ils|s'|embranch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|embranch%[m|é]|
+|que|tu|te|fusses|embranch%[m|é]|
+|qu'|il|se|fût|embranch%[m|é]|
+|que|nous|nous|fussions|embranch%[m|és]|
+|que|vous|vous|fussiez|embranch%[m|és]|
+|qu'|ils|se|fussent|embranch%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|embranch%[m|e]-toi|
+|embranch%[m|ons]-nous|
+|embranch%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

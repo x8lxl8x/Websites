@@ -1,0 +1,190 @@
+# paillarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|paillard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|paillard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|paillard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||paillard%[m|é]|
+|ayant|paillard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en paillard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|paillard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|paillard%[m|e]|
+|tu|paillard%[m|es]|
+|il|paillard%[m|e]|
+|nous|paillard%[m|ons]|
+|vous|paillard%[m|ez]|
+|ils|paillard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|paillard%[m|é]|
+|tu|as |paillard%[m|é]|
+|il|a|paillard%[m|é]|
+|nous|avons|paillard%[m|é]|
+|vous|avez|paillard%[m|é]|
+|ils|ont|paillard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|paillard%[m|ais]|
+|tu|paillard%[m|ais]|
+|il|paillard%[m|ait]|
+|nous|paillard%[m|ions]|
+|vous|paillard%[m|iez]|
+|ils|paillard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|paillard%[m|é]|
+|tu|avais|paillard%[m|é]|
+|il|avait|paillard%[m|é]|
+|nous|avions|paillard%[m|é]|
+|vous|aviez|paillard%[m|é]|
+|ils|avaient|paillard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|paillard%[m|ai]|
+|tu|paillard%[m|as]|
+|il|paillard%[m|a]|
+|nous|paillard%[m|âmes]|
+|vous|paillard%[m|âtes]|
+|ils|paillard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|paillard%[m|é]|
+|tu|eus|paillard%[m|é]|
+|il|eut|paillard%[m|é]|
+|nous|e&ucirc;mes|paillard%[m|é]|
+|vous|e&ucirc;tes|paillard%[m|é]|
+|ils|eurent|paillard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|paillard%[m|erai]|
+|tu|paillard%[m|eras]|
+|il|paillard%[m|era]|
+|nous|paillard%[m|erons]|
+|vous|paillard%[m|erez]|
+|ils|paillard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|paillard%[m|é]|
+|tu|auras|paillard%[m|é]|
+|il|aura|paillard%[m|é]|
+|nous|aurons|paillard%[m|é]|
+|vous|aurez|paillard%[m|é]|
+|ils|auront|paillard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|paillard%[m|erais]|
+|tu|paillard%[m|erais]|
+|il|paillard%[m|erait]|
+|nous|paillard%[m|erions]|
+|vous|paillard%[m|eriez]|
+|ils|paillard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|paillard%[m|é]|
+|tu|aurais|paillard%[m|é]|
+|il|aurait|paillard%[m|é]|
+|nous|aurions|paillard%[m|é]|
+|vous|auriez|paillard%[m|é]|
+|ils|auraient|paillard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|paillard%[m|e]|
+|que|tu|paillard%[m|es]|
+|qu'|il|paillard%[m|e]|
+|que|nous|paillard%[m|ions]|
+|que|vous|paillard%[m|iez]|
+|qu'|ils|paillard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|paillard%[m|é]|
+|que|tu|aies|paillard%[m|é]|
+|qu'|il|ait|paillard%[m|é]|
+|que|nous|ayons|paillard%[m|é]|
+|que|vous|ayez|paillard%[m|é]|
+|qu'|ils|aient|paillard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|paillard%[m|asse]|
+|que|tu|paillard%[m|asses]|
+|qu'|il|paillard%[m|ât]|
+|que|nous|paillard%[m|assions]|
+|que|vous|paillard%[m|assiez]|
+|qu'|ils|paillard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|paillard%[m|é]|
+|que|tu|eusses|paillard%[m|é]|
+|qu'|il|eût|paillard%[m|é]|
+|que|nous|eussions|paillard%[m|é]|
+|que|vous|eussiez|paillard%[m|é]|
+|qu'|ils|eussent|paillard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|paillard%[m|e]|
+|paillard%[m|ons]|
+|paillard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|paillard%[m|é]|
+|ayons|paillard%[m|é]|
+|ayez|paillard%[m|é]|
+|]
+

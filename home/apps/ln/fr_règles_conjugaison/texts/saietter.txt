@@ -1,0 +1,190 @@
+# saietter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|saiett%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|saiett%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|saiett%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||saiett%[m|é]|
+|ayant|saiett%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en saiett%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|saiett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|saiett%[m|e]|
+|tu|saiett%[m|es]|
+|il|saiett%[m|e]|
+|nous|saiett%[m|ons]|
+|vous|saiett%[m|ez]|
+|ils|saiett%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|saiett%[m|é]|
+|tu|as |saiett%[m|é]|
+|il|a|saiett%[m|é]|
+|nous|avons|saiett%[m|é]|
+|vous|avez|saiett%[m|é]|
+|ils|ont|saiett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|saiett%[m|ais]|
+|tu|saiett%[m|ais]|
+|il|saiett%[m|ait]|
+|nous|saiett%[m|ions]|
+|vous|saiett%[m|iez]|
+|ils|saiett%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|saiett%[m|é]|
+|tu|avais|saiett%[m|é]|
+|il|avait|saiett%[m|é]|
+|nous|avions|saiett%[m|é]|
+|vous|aviez|saiett%[m|é]|
+|ils|avaient|saiett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|saiett%[m|ai]|
+|tu|saiett%[m|as]|
+|il|saiett%[m|a]|
+|nous|saiett%[m|âmes]|
+|vous|saiett%[m|âtes]|
+|ils|saiett%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|saiett%[m|é]|
+|tu|eus|saiett%[m|é]|
+|il|eut|saiett%[m|é]|
+|nous|e&ucirc;mes|saiett%[m|é]|
+|vous|e&ucirc;tes|saiett%[m|é]|
+|ils|eurent|saiett%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|saiett%[m|erai]|
+|tu|saiett%[m|eras]|
+|il|saiett%[m|era]|
+|nous|saiett%[m|erons]|
+|vous|saiett%[m|erez]|
+|ils|saiett%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|saiett%[m|é]|
+|tu|auras|saiett%[m|é]|
+|il|aura|saiett%[m|é]|
+|nous|aurons|saiett%[m|é]|
+|vous|aurez|saiett%[m|é]|
+|ils|auront|saiett%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|saiett%[m|erais]|
+|tu|saiett%[m|erais]|
+|il|saiett%[m|erait]|
+|nous|saiett%[m|erions]|
+|vous|saiett%[m|eriez]|
+|ils|saiett%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|saiett%[m|é]|
+|tu|aurais|saiett%[m|é]|
+|il|aurait|saiett%[m|é]|
+|nous|aurions|saiett%[m|é]|
+|vous|auriez|saiett%[m|é]|
+|ils|auraient|saiett%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|saiett%[m|e]|
+|que|tu|saiett%[m|es]|
+|qu'|il|saiett%[m|e]|
+|que|nous|saiett%[m|ions]|
+|que|vous|saiett%[m|iez]|
+|qu'|ils|saiett%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|saiett%[m|é]|
+|que|tu|aies|saiett%[m|é]|
+|qu'|il|ait|saiett%[m|é]|
+|que|nous|ayons|saiett%[m|é]|
+|que|vous|ayez|saiett%[m|é]|
+|qu'|ils|aient|saiett%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|saiett%[m|asse]|
+|que|tu|saiett%[m|asses]|
+|qu'|il|saiett%[m|ât]|
+|que|nous|saiett%[m|assions]|
+|que|vous|saiett%[m|assiez]|
+|qu'|ils|saiett%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|saiett%[m|é]|
+|que|tu|eusses|saiett%[m|é]|
+|qu'|il|eût|saiett%[m|é]|
+|que|nous|eussions|saiett%[m|é]|
+|que|vous|eussiez|saiett%[m|é]|
+|qu'|ils|eussent|saiett%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|saiett%[m|e]|
+|saiett%[m|ons]|
+|saiett%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|saiett%[m|é]|
+|ayons|saiett%[m|é]|
+|ayez|saiett%[m|é]|
+|]
+

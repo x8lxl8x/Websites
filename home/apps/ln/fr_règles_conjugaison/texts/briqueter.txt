@@ -1,0 +1,191 @@
+# briqueter %[clVerbGroup|1]
+[-
+garnir de briques. 
+appliquer un enduit en figurant des briques. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|briquet%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|briquet%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|briquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||briquet%[m|é]|
+|ayant|briquet%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en briquet%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|briquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|briquet%[m|t]%[m|e]|
+|tu|briquet%[m|t]%[m|es]|
+|il|briquet%[m|t]%[m|e]|
+|nous|briquet%[m|]%[m|ons]|
+|vous|briquet%[m|]%[m|ez]|
+|ils|briquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|briquet%[m|é]|
+|tu|as |briquet%[m|é]|
+|il|a|briquet%[m|é]|
+|nous|avons|briquet%[m|é]|
+|vous|avez|briquet%[m|é]|
+|ils|ont|briquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|briquet%[m|]%[m|ais]|
+|tu|briquet%[m|]%[m|ais]|
+|il|briquet%[m|]%[m|ait]|
+|nous|briquet%[m|]%[m|ions]|
+|vous|briquet%[m|]%[m|iez]|
+|ils|briquet%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|briquet%[m|é]|
+|tu|avais|briquet%[m|é]|
+|il|avait|briquet%[m|é]|
+|nous|avions|briquet%[m|é]|
+|vous|aviez|briquet%[m|é]|
+|ils|avaient|briquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|briquet%[m|]%[m|ai]|
+|tu|briquet%[m|]%[m|as]|
+|il|briquet%[m|]%[m|a]|
+|nous|briquet%[m|]%[m|âmes]|
+|vous|briquet%[m|]%[m|âtes]|
+|ils|briquet%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|briquet%[m|é]|
+|tu|eus|briquet%[m|é]|
+|il|eut|briquet%[m|é]|
+|nous|e&ucirc;mes|briquet%[m|é]|
+|vous|e&ucirc;tes|briquet%[m|é]|
+|ils|eurent|briquet%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|briquet%[m|t]%[m|erai]|
+|tu|briquet%[m|t]%[m|eras]|
+|il|briquet%[m|t]%[m|era]|
+|nous|briquet%[m|t]%[m|erons]|
+|vous|briquet%[m|t]%[m|erez]|
+|ils|briquet%[m|t]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|briquet%[m|é]|
+|tu|auras|briquet%[m|é]|
+|il|aura|briquet%[m|é]|
+|nous|aurons|briquet%[m|é]|
+|vous|aurez|briquet%[m|é]|
+|ils|auront|briquet%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|briquet%[m|t]%[m|erais]|
+|tu|briquet%[m|t]%[m|erais]|
+|il|briquet%[m|t]%[m|erait]|
+|nous|briquet%[m|t]%[m|erions]|
+|vous|briquet%[m|t]%[m|eriez]|
+|ils|briquet%[m|t]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|briquet%[m|é]|
+|tu|aurais|briquet%[m|é]|
+|il|aurait|briquet%[m|é]|
+|nous|aurions|briquet%[m|é]|
+|vous|auriez|briquet%[m|é]|
+|ils|auraient|briquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|briquet%[m|t]%[m|e]|
+|que|tu|briquet%[m|t]%[m|es]|
+|qu'|il|briquet%[m|t]%[m|e]|
+|que|nous|briquet%[m|]%[m|ions]|
+|que|vous|briquet%[m|]%[m|iez]|
+|qu'|ils|briquet%[m|t]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|briquet%[m|é]|
+|que|tu|aies|briquet%[m|é]|
+|qu'|il|ait|briquet%[m|é]|
+|que|nous|ayons|briquet%[m|é]|
+|que|vous|ayez|briquet%[m|é]|
+|qu'|ils|aient|briquet%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|briquet%[m|]%[m|asse]|
+|que|tu|briquet%[m|]%[m|asses]|
+|qu'|il|briquet%[m|]%[m|ât]|
+|que|nous|briquet%[m|]%[m|assions]|
+|que|vous|briquet%[m|]%[m|assiez]|
+|qu'|ils|briquet%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|briquet%[m|é]|
+|que|tu|eusses|briquet%[m|é]|
+|qu'|il|eût|briquet%[m|é]|
+|que|nous|eussions|briquet%[m|é]|
+|que|vous|eussiez|briquet%[m|é]|
+|qu'|ils|eussent|briquet%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|briquet%[m|t]%[m|e]|
+|briquet%[m|]%[m|ons]|
+|briquet%[m|]%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|briquet%[m|é]|
+|ayons|briquet%[m|é]|
+|ayez|briquet%[m|é]|
+|]
+

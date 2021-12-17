@@ -1,0 +1,190 @@
+# rocher %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|roch%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|roch%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|roch%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||roch%[m|é]|
+|ayant|roch%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en roch%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|roch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|roch%[m|e]|
+|tu|roch%[m|es]|
+|il|roch%[m|e]|
+|nous|roch%[m|ons]|
+|vous|roch%[m|ez]|
+|ils|roch%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|roch%[m|é]|
+|tu|as |roch%[m|é]|
+|il|a|roch%[m|é]|
+|nous|avons|roch%[m|é]|
+|vous|avez|roch%[m|é]|
+|ils|ont|roch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|roch%[m|ais]|
+|tu|roch%[m|ais]|
+|il|roch%[m|ait]|
+|nous|roch%[m|ions]|
+|vous|roch%[m|iez]|
+|ils|roch%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|roch%[m|é]|
+|tu|avais|roch%[m|é]|
+|il|avait|roch%[m|é]|
+|nous|avions|roch%[m|é]|
+|vous|aviez|roch%[m|é]|
+|ils|avaient|roch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|roch%[m|ai]|
+|tu|roch%[m|as]|
+|il|roch%[m|a]|
+|nous|roch%[m|âmes]|
+|vous|roch%[m|âtes]|
+|ils|roch%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|roch%[m|é]|
+|tu|eus|roch%[m|é]|
+|il|eut|roch%[m|é]|
+|nous|e&ucirc;mes|roch%[m|é]|
+|vous|e&ucirc;tes|roch%[m|é]|
+|ils|eurent|roch%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|roch%[m|erai]|
+|tu|roch%[m|eras]|
+|il|roch%[m|era]|
+|nous|roch%[m|erons]|
+|vous|roch%[m|erez]|
+|ils|roch%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|roch%[m|é]|
+|tu|auras|roch%[m|é]|
+|il|aura|roch%[m|é]|
+|nous|aurons|roch%[m|é]|
+|vous|aurez|roch%[m|é]|
+|ils|auront|roch%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|roch%[m|erais]|
+|tu|roch%[m|erais]|
+|il|roch%[m|erait]|
+|nous|roch%[m|erions]|
+|vous|roch%[m|eriez]|
+|ils|roch%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|roch%[m|é]|
+|tu|aurais|roch%[m|é]|
+|il|aurait|roch%[m|é]|
+|nous|aurions|roch%[m|é]|
+|vous|auriez|roch%[m|é]|
+|ils|auraient|roch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|roch%[m|e]|
+|que|tu|roch%[m|es]|
+|qu'|il|roch%[m|e]|
+|que|nous|roch%[m|ions]|
+|que|vous|roch%[m|iez]|
+|qu'|ils|roch%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|roch%[m|é]|
+|que|tu|aies|roch%[m|é]|
+|qu'|il|ait|roch%[m|é]|
+|que|nous|ayons|roch%[m|é]|
+|que|vous|ayez|roch%[m|é]|
+|qu'|ils|aient|roch%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|roch%[m|asse]|
+|que|tu|roch%[m|asses]|
+|qu'|il|roch%[m|ât]|
+|que|nous|roch%[m|assions]|
+|que|vous|roch%[m|assiez]|
+|qu'|ils|roch%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|roch%[m|é]|
+|que|tu|eusses|roch%[m|é]|
+|qu'|il|eût|roch%[m|é]|
+|que|nous|eussions|roch%[m|é]|
+|que|vous|eussiez|roch%[m|é]|
+|qu'|ils|eussent|roch%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|roch%[m|e]|
+|roch%[m|ons]|
+|roch%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|roch%[m|é]|
+|ayons|roch%[m|é]|
+|ayez|roch%[m|é]|
+|]
+

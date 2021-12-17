@@ -1,0 +1,192 @@
+# partir %[clVerbGroup|3]
+[-
+prendre le départ d'une course. 
+avoir son origine quelque part (ex. l'avion part d'Orly) 
+quitter un lieu, s'en aller, s'éloigner. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|par%[m|tir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|par%[m|ti]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|par%[m|tant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||par%[m|ti]|
+|étant|par%[m|ti]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en par%[m|tant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|par%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|par%[m|s]|
+|tu|par%[m|s]|
+|il|par%[m|t]|
+|nous|par%[m|tons]|
+|vous|par%[m|tez]|
+|ils|par%[m|tent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|par%[m|ti]|
+|tu|es|par%[m|ti]|
+|il|est|par%[m|ti]|
+|nous|sommes|par%[m|tis]|
+|vous|êtes|par%[m|tis]|
+|ils|sont|par%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|par%[m|tais]|
+|tu|par%[m|tais]|
+|il|par%[m|tait]|
+|nous|par%[m|tions]|
+|vous|par%[m|tiez]|
+|ils|par%[m|taient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|par%[m|ti]|
+|tu|étais|par%[m|ti]|
+|il|était|par%[m|ti]|
+|nous|étions|par%[m|tis]|
+|vous|étiez|par%[m|tis]|
+|ils|étaient|par%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|par%[m|tis]|
+|tu|par%[m|tis]|
+|il|par%[m|tit]|
+|nous|par%[m|tîmes]|
+|vous|par%[m|tîtes]|
+|ils|par%[m|tirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|par%[m|ti]|
+|tu|fus|par%[m|ti]|
+|il|fut|par%[m|ti]|
+|nous|fûmes|par%[m|tis]|
+|vous|fûtes|par%[m|tis]|
+|ils|furent|par%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|par%[m|tirai]|
+|tu|par%[m|tiras]|
+|il|par%[m|tira]|
+|nous|par%[m|tirons]|
+|vous|par%[m|tirez]|
+|ils|par%[m|tiront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|par%[m|ti]|
+|tu|seras|par%[m|ti]|
+|il|sera|par%[m|ti]|
+|nous|serons|par%[m|tis]|
+|vous|serez|par%[m|tis]|
+|ils|seront|par%[m|tis]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|par%[m|tirais]|
+|tu|par%[m|tirais]|
+|il|par%[m|tirait]|
+|nous|par%[m|tirions]|
+|vous|par%[m|tiriez]|
+|ils|par%[m|tiraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|par%[m|ti]|
+|tu|serais|par%[m|ti]|
+|il|serait|par%[m|ti]|
+|nous|serions|par%[m|tis]|
+|vous|seriez|par%[m|tis]|
+|ils|seraient|par%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|par%[m|te]|
+|que|tu|par%[m|tes]|
+|qu'|il|par%[m|te]|
+|que|nous|par%[m|tions]|
+|que|vous|par%[m|tiez]|
+|qu'|ils|par%[m|tent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|par%[m|ti]|
+|que|tu|sois|par%[m|ti]|
+|qu'|il|soit|par%[m|ti]|
+|que|nous|soyons|par%[m|tis]|
+|que|vous|soyez|par%[m|tis]|
+|qu'|ils|soient|par%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|par%[m|tisse]|
+|que|tu|par%[m|tisses]|
+|qu'|il|par%[m|tît]|
+|que|nous|par%[m|tissions]|
+|que|vous|par%[m|tissiez]|
+|qu'|ils|par%[m|tissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|par%[m|ti]|
+|que|tu|fusses|par%[m|ti]|
+|qu'|il|fût|par%[m|ti]|
+|que|nous|fussions|par%[m|tis]|
+|que|vous|fussiez|par%[m|tis]|
+|qu'|ils|fussent|par%[m|tis]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|par%[m|s]|
+|par%[m|tons]|
+|par%[m|tez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|par%[m|ti]|
+|soyons|par%[m|tis]|
+|soyez|par%[m|tis]|
+|]
+

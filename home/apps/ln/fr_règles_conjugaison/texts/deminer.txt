@@ -1,0 +1,190 @@
+# déminer %[clVerbGroup|1]
+[-
+enlever les mines explosives. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|démin%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|démin%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|démin%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||démin%[m|é]|
+|ayant|démin%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en démin%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|démin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|démin%[m|e]|
+|tu|démin%[m|es]|
+|il|démin%[m|e]|
+|nous|démin%[m|ons]|
+|vous|démin%[m|ez]|
+|ils|démin%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|démin%[m|é]|
+|tu|as |démin%[m|é]|
+|il|a|démin%[m|é]|
+|nous|avons|démin%[m|é]|
+|vous|avez|démin%[m|é]|
+|ils|ont|démin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|démin%[m|ais]|
+|tu|démin%[m|ais]|
+|il|démin%[m|ait]|
+|nous|démin%[m|ions]|
+|vous|démin%[m|iez]|
+|ils|démin%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|démin%[m|é]|
+|tu|avais|démin%[m|é]|
+|il|avait|démin%[m|é]|
+|nous|avions|démin%[m|é]|
+|vous|aviez|démin%[m|é]|
+|ils|avaient|démin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|démin%[m|ai]|
+|tu|démin%[m|as]|
+|il|démin%[m|a]|
+|nous|démin%[m|âmes]|
+|vous|démin%[m|âtes]|
+|ils|démin%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|démin%[m|é]|
+|tu|eus|démin%[m|é]|
+|il|eut|démin%[m|é]|
+|nous|e&ucirc;mes|démin%[m|é]|
+|vous|e&ucirc;tes|démin%[m|é]|
+|ils|eurent|démin%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|démin%[m|erai]|
+|tu|démin%[m|eras]|
+|il|démin%[m|era]|
+|nous|démin%[m|erons]|
+|vous|démin%[m|erez]|
+|ils|démin%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|démin%[m|é]|
+|tu|auras|démin%[m|é]|
+|il|aura|démin%[m|é]|
+|nous|aurons|démin%[m|é]|
+|vous|aurez|démin%[m|é]|
+|ils|auront|démin%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|démin%[m|erais]|
+|tu|démin%[m|erais]|
+|il|démin%[m|erait]|
+|nous|démin%[m|erions]|
+|vous|démin%[m|eriez]|
+|ils|démin%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|démin%[m|é]|
+|tu|aurais|démin%[m|é]|
+|il|aurait|démin%[m|é]|
+|nous|aurions|démin%[m|é]|
+|vous|auriez|démin%[m|é]|
+|ils|auraient|démin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|démin%[m|e]|
+|que|tu|démin%[m|es]|
+|qu'|il|démin%[m|e]|
+|que|nous|démin%[m|ions]|
+|que|vous|démin%[m|iez]|
+|qu'|ils|démin%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|démin%[m|é]|
+|que|tu|aies|démin%[m|é]|
+|qu'|il|ait|démin%[m|é]|
+|que|nous|ayons|démin%[m|é]|
+|que|vous|ayez|démin%[m|é]|
+|qu'|ils|aient|démin%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|démin%[m|asse]|
+|que|tu|démin%[m|asses]|
+|qu'|il|démin%[m|ât]|
+|que|nous|démin%[m|assions]|
+|que|vous|démin%[m|assiez]|
+|qu'|ils|démin%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|démin%[m|é]|
+|que|tu|eusses|démin%[m|é]|
+|qu'|il|eût|démin%[m|é]|
+|que|nous|eussions|démin%[m|é]|
+|que|vous|eussiez|démin%[m|é]|
+|qu'|ils|eussent|démin%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|démin%[m|e]|
+|démin%[m|ons]|
+|démin%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|démin%[m|é]|
+|ayons|démin%[m|é]|
+|ayez|démin%[m|é]|
+|]
+

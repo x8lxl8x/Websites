@@ -1,0 +1,191 @@
+# signaler %[clVerbGroup|1]
+[-
+annoncer par un signal; avertir. 
+faire remarquer, attirer l'attention sur. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|signal%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|signal%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|signal%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||signal%[m|é]|
+|ayant|signal%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en signal%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|signal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|signal%[m|e]|
+|tu|signal%[m|es]|
+|il|signal%[m|e]|
+|nous|signal%[m|ons]|
+|vous|signal%[m|ez]|
+|ils|signal%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|signal%[m|é]|
+|tu|as |signal%[m|é]|
+|il|a|signal%[m|é]|
+|nous|avons|signal%[m|é]|
+|vous|avez|signal%[m|é]|
+|ils|ont|signal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|signal%[m|ais]|
+|tu|signal%[m|ais]|
+|il|signal%[m|ait]|
+|nous|signal%[m|ions]|
+|vous|signal%[m|iez]|
+|ils|signal%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|signal%[m|é]|
+|tu|avais|signal%[m|é]|
+|il|avait|signal%[m|é]|
+|nous|avions|signal%[m|é]|
+|vous|aviez|signal%[m|é]|
+|ils|avaient|signal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|signal%[m|ai]|
+|tu|signal%[m|as]|
+|il|signal%[m|a]|
+|nous|signal%[m|âmes]|
+|vous|signal%[m|âtes]|
+|ils|signal%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|signal%[m|é]|
+|tu|eus|signal%[m|é]|
+|il|eut|signal%[m|é]|
+|nous|e&ucirc;mes|signal%[m|é]|
+|vous|e&ucirc;tes|signal%[m|é]|
+|ils|eurent|signal%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|signal%[m|erai]|
+|tu|signal%[m|eras]|
+|il|signal%[m|era]|
+|nous|signal%[m|erons]|
+|vous|signal%[m|erez]|
+|ils|signal%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|signal%[m|é]|
+|tu|auras|signal%[m|é]|
+|il|aura|signal%[m|é]|
+|nous|aurons|signal%[m|é]|
+|vous|aurez|signal%[m|é]|
+|ils|auront|signal%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|signal%[m|erais]|
+|tu|signal%[m|erais]|
+|il|signal%[m|erait]|
+|nous|signal%[m|erions]|
+|vous|signal%[m|eriez]|
+|ils|signal%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|signal%[m|é]|
+|tu|aurais|signal%[m|é]|
+|il|aurait|signal%[m|é]|
+|nous|aurions|signal%[m|é]|
+|vous|auriez|signal%[m|é]|
+|ils|auraient|signal%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|signal%[m|e]|
+|que|tu|signal%[m|es]|
+|qu'|il|signal%[m|e]|
+|que|nous|signal%[m|ions]|
+|que|vous|signal%[m|iez]|
+|qu'|ils|signal%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|signal%[m|é]|
+|que|tu|aies|signal%[m|é]|
+|qu'|il|ait|signal%[m|é]|
+|que|nous|ayons|signal%[m|é]|
+|que|vous|ayez|signal%[m|é]|
+|qu'|ils|aient|signal%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|signal%[m|asse]|
+|que|tu|signal%[m|asses]|
+|qu'|il|signal%[m|ât]|
+|que|nous|signal%[m|assions]|
+|que|vous|signal%[m|assiez]|
+|qu'|ils|signal%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|signal%[m|é]|
+|que|tu|eusses|signal%[m|é]|
+|qu'|il|eût|signal%[m|é]|
+|que|nous|eussions|signal%[m|é]|
+|que|vous|eussiez|signal%[m|é]|
+|qu'|ils|eussent|signal%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|signal%[m|e]|
+|signal%[m|ons]|
+|signal%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|signal%[m|é]|
+|ayons|signal%[m|é]|
+|ayez|signal%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se sortir %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se sor%[m|tir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|être|sor%[m|ti]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se sor%[m|tant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sor%[m|ti]|
+|étant|sor%[m|ti]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se sor%[m|tant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en étant|sor%[m|ti]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|sor%[m|s]|
+|tu|te|sor%[m|s]|
+|il|se|sor%[m|t]|
+|nous|nous|sor%[m|tons]|
+|vous|vous|sor%[m|tez]|
+|ils|se|sor%[m|tent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|suis|sor%[m|ti]|
+|tu|es|sor%[m|ti]|
+|il|est|sor%[m|ti]|
+|nous|sommes|sor%[m|tis]|
+|vous|êtes|sor%[m|tis]|
+|ils|sont|sor%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|sor%[m|tais]|
+|tu|te|sor%[m|tais]|
+|il|se|sor%[m|tait]|
+|nous|nous|sor%[m|tions]|
+|vous|vous|sor%[m|tiez]|
+|ils|se|sor%[m|taient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|étais|sor%[m|ti]|
+|tu|étais|sor%[m|ti]|
+|il|était|sor%[m|ti]|
+|nous|étions|sor%[m|tis]|
+|vous|étiez|sor%[m|tis]|
+|ils|étaient|sor%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|sor%[m|tis]|
+|tu|te|sor%[m|tis]|
+|il|se|sor%[m|tit]|
+|nous|nous|sor%[m|tîmes]|
+|vous|vous|sor%[m|tîtes]|
+|ils|se|sor%[m|tirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|fus|sor%[m|ti]|
+|tu|fus|sor%[m|ti]|
+|il|fut|sor%[m|ti]|
+|nous|fûmes|sor%[m|tis]|
+|vous|fûtes|sor%[m|tis]|
+|ils|furent|sor%[m|tis]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|sor%[m|tirai]|
+|tu|te|sor%[m|tiras]|
+|il|se|sor%[m|tira]|
+|nous|nous|sor%[m|tirons]|
+|vous|vous|sor%[m|tirez]|
+|ils|se|sor%[m|tiront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|serai|sor%[m|ti]|
+|tu|seras|sor%[m|ti]|
+|il|sera|sor%[m|ti]|
+|nous|serons|sor%[m|tis]|
+|vous|serez|sor%[m|tis]|
+|ils|seront|sor%[m|tis]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|sor%[m|tirais]|
+|tu|te|sor%[m|tirais]|
+|il|se|sor%[m|tirait]|
+|nous|nous|sor%[m|tirions]|
+|vous|vous|sor%[m|tiriez]|
+|ils|se|sor%[m|tiraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|serais|sor%[m|ti]|
+|tu|serais|sor%[m|ti]|
+|il|serait|sor%[m|ti]|
+|nous|serions|sor%[m|tis]|
+|vous|seriez|sor%[m|tis]|
+|ils|seraient|sor%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|sor%[m|te]|
+|que|tu|te|sor%[m|tes]|
+|qu'|il|se|sor%[m|te]|
+|que|nous|nous|sor%[m|tions]|
+|que|vous|vous|sor%[m|tiez]|
+|qu'|ils|se|sor%[m|tent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|sois|sor%[m|ti]|
+|que|tu|sois|sor%[m|ti]|
+|qu'|il|soit|sor%[m|ti]|
+|que|nous|soyons|sor%[m|tis]|
+|que|vous|soyez|sor%[m|tis]|
+|qu'|ils|soient|sor%[m|tis]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|sor%[m|tisse]|
+|que|tu|te|sor%[m|tisses]|
+|qu'|il|se|sor%[m|tît]|
+|que|nous|nous|sor%[m|tissions]|
+|que|vous|vous|sor%[m|tissiez]|
+|qu'|ils|se|sor%[m|tissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|fusse|sor%[m|ti]|
+|que|tu|fusses|sor%[m|ti]|
+|qu'|il|fût|sor%[m|ti]|
+|que|nous|fussions|sor%[m|tis]|
+|que|vous|fussiez|sor%[m|tis]|
+|qu'|ils|fussent|sor%[m|tis]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sor%[m|s]-toi|
+|sor%[m|tons]-nous|
+|sor%[m|tez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|sois|sor%[m|ti]|
+|soyons|sor%[m|tis]|
+|soyez|sor%[m|tis]|
+|]
+

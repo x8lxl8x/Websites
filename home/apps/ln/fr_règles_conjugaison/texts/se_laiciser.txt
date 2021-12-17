@@ -1,0 +1,190 @@
+# se laïciser %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se laïcis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|laïcis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se laïcis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|laïcis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se laïcis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|laïcis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|laïcis%[m|e]|
+|tu|te|laïcis%[m|es]|
+|il|se|laïcis%[m|e]|
+|nous|nous|laïcis%[m|ons]|
+|vous|vous|laïcis%[m|ez]|
+|ils|se|laïcis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|laïcis%[m|é]|
+|tu|t'|es|laïcis%[m|é]|
+|il|s'|est|laïcis%[m|é]|
+|nous|nous|sommes|laïcis%[m|és]|
+|vous|vous|êtes|laïcis%[m|és]|
+|ils|se|sont|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|laïcis%[m|ais]|
+|tu|te|laïcis%[m|ais]|
+|il|se|laïcis%[m|ait]|
+|nous|nous|laïcis%[m|ions]|
+|vous|vous|laïcis%[m|iez]|
+|ils|se|laïcis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|laïcis%[m|é]|
+|tu|t'|étais|laïcis%[m|é]|
+|il|s'|était|laïcis%[m|é]|
+|nous|nous|étions|laïcis%[m|és]|
+|vous|vous|étiez|laïcis%[m|és]|
+|ils|s'|étaient|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|laïcis%[m|ai]|
+|tu|te|laïcis%[m|as]|
+|il|se|laïcis%[m|a]|
+|nous|nous|laïcis%[m|âmes]|
+|vous|vous|laïcis%[m|âtes]|
+|ils|se|laïcis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|laïcis%[m|é]|
+|tu|te|fus|laïcis%[m|é]|
+|il|se|fut|laïcis%[m|é]|
+|nous|nous|fûmes|laïcis%[m|és]|
+|vous|vous|fûtes|laïcis%[m|és]|
+|ils|se|furent|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|laïcis%[m|erai]|
+|tu|te|laïcis%[m|eras]|
+|il|se|laïcis%[m|era]|
+|nous|nous|laïcis%[m|erons]|
+|vous|vous|laïcis%[m|erez]|
+|ils|se|laïcis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|laïcis%[m|é]|
+|tu|te|seras|laïcis%[m|é]|
+|il|se|sera|laïcis%[m|é]|
+|nous|nous|serons|laïcis%[m|és]|
+|vous|vous|serez|laïcis%[m|és]|
+|ils|se|seront|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|laïcis%[m|erais]|
+|tu|te|laïcis%[m|erais]|
+|il|se|laïcis%[m|erait]|
+|nous|nous|laïcis%[m|erions]|
+|vous|vous|laïcis%[m|eriez]|
+|ils|se|laïcis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|laïcis%[m|é]|
+|tu|te|serais|laïcis%[m|é]|
+|il|se|serait|laïcis%[m|é]|
+|nous|nous|serions|laïcis%[m|és]|
+|vous|vous|seriez|laïcis%[m|és]|
+|ils|se|seraient|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|laïcis%[m|e]|
+|que|tu|te|laïcis%[m|es]|
+|qu'|il|se|laïcis%[m|e]|
+|que|nous|nous|laïcis%[m|ions]|
+|que|vous|vous|laïcis%[m|iez]|
+|qu'|ils|se|laïcis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|laïcis%[m|é]|
+|que|tu|te|sois|laïcis%[m|é]|
+|qu'|il|se|soit|laïcis%[m|é]|
+|que|nous|nous|soyons|laïcis%[m|és]|
+|que|vous|vous|soyez|laïcis%[m|és]|
+|qu'|ils|se|soient|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|laïcis%[m|asse]|
+|que|tu|te|laïcis%[m|asses]|
+|qu'|il|se|laïcis%[m|ât]|
+|que|nous|nous|laïcis%[m|assions]|
+|que|vous|vous|laïcis%[m|assiez]|
+|qu'|ils|se|laïcis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|laïcis%[m|é]|
+|que|tu|te|fusses|laïcis%[m|é]|
+|qu'|il|se|fût|laïcis%[m|é]|
+|que|nous|nous|fussions|laïcis%[m|és]|
+|que|vous|vous|fussiez|laïcis%[m|és]|
+|qu'|ils|se|fussent|laïcis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|laïcis%[m|e]-toi|
+|laïcis%[m|ons]-nous|
+|laïcis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

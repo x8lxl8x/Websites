@@ -1,0 +1,190 @@
+# cloner %[clVerbGroup|1]
+[-
+effectuer un clonage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|clon%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|clon%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|clon%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||clon%[m|é]|
+|ayant|clon%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en clon%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|clon%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|clon%[m|e]|
+|tu|clon%[m|es]|
+|il|clon%[m|e]|
+|nous|clon%[m|ons]|
+|vous|clon%[m|ez]|
+|ils|clon%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|clon%[m|é]|
+|tu|as |clon%[m|é]|
+|il|a|clon%[m|é]|
+|nous|avons|clon%[m|é]|
+|vous|avez|clon%[m|é]|
+|ils|ont|clon%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|clon%[m|ais]|
+|tu|clon%[m|ais]|
+|il|clon%[m|ait]|
+|nous|clon%[m|ions]|
+|vous|clon%[m|iez]|
+|ils|clon%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|clon%[m|é]|
+|tu|avais|clon%[m|é]|
+|il|avait|clon%[m|é]|
+|nous|avions|clon%[m|é]|
+|vous|aviez|clon%[m|é]|
+|ils|avaient|clon%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|clon%[m|ai]|
+|tu|clon%[m|as]|
+|il|clon%[m|a]|
+|nous|clon%[m|âmes]|
+|vous|clon%[m|âtes]|
+|ils|clon%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|clon%[m|é]|
+|tu|eus|clon%[m|é]|
+|il|eut|clon%[m|é]|
+|nous|e&ucirc;mes|clon%[m|é]|
+|vous|e&ucirc;tes|clon%[m|é]|
+|ils|eurent|clon%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|clon%[m|erai]|
+|tu|clon%[m|eras]|
+|il|clon%[m|era]|
+|nous|clon%[m|erons]|
+|vous|clon%[m|erez]|
+|ils|clon%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|clon%[m|é]|
+|tu|auras|clon%[m|é]|
+|il|aura|clon%[m|é]|
+|nous|aurons|clon%[m|é]|
+|vous|aurez|clon%[m|é]|
+|ils|auront|clon%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|clon%[m|erais]|
+|tu|clon%[m|erais]|
+|il|clon%[m|erait]|
+|nous|clon%[m|erions]|
+|vous|clon%[m|eriez]|
+|ils|clon%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|clon%[m|é]|
+|tu|aurais|clon%[m|é]|
+|il|aurait|clon%[m|é]|
+|nous|aurions|clon%[m|é]|
+|vous|auriez|clon%[m|é]|
+|ils|auraient|clon%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|clon%[m|e]|
+|que|tu|clon%[m|es]|
+|qu'|il|clon%[m|e]|
+|que|nous|clon%[m|ions]|
+|que|vous|clon%[m|iez]|
+|qu'|ils|clon%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|clon%[m|é]|
+|que|tu|aies|clon%[m|é]|
+|qu'|il|ait|clon%[m|é]|
+|que|nous|ayons|clon%[m|é]|
+|que|vous|ayez|clon%[m|é]|
+|qu'|ils|aient|clon%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|clon%[m|asse]|
+|que|tu|clon%[m|asses]|
+|qu'|il|clon%[m|ât]|
+|que|nous|clon%[m|assions]|
+|que|vous|clon%[m|assiez]|
+|qu'|ils|clon%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|clon%[m|é]|
+|que|tu|eusses|clon%[m|é]|
+|qu'|il|eût|clon%[m|é]|
+|que|nous|eussions|clon%[m|é]|
+|que|vous|eussiez|clon%[m|é]|
+|qu'|ils|eussent|clon%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|clon%[m|e]|
+|clon%[m|ons]|
+|clon%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|clon%[m|é]|
+|ayons|clon%[m|é]|
+|ayez|clon%[m|é]|
+|]
+

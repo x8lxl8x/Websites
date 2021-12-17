@@ -1,0 +1,190 @@
+# déconstiper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|déconstip%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|déconstip%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||déconstip%[m|é]|
+|ayant|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en déconstip%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|déconstip%[m|e]|
+|tu|déconstip%[m|es]|
+|il|déconstip%[m|e]|
+|nous|déconstip%[m|ons]|
+|vous|déconstip%[m|ez]|
+|ils|déconstip%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|déconstip%[m|é]|
+|tu|as |déconstip%[m|é]|
+|il|a|déconstip%[m|é]|
+|nous|avons|déconstip%[m|é]|
+|vous|avez|déconstip%[m|é]|
+|ils|ont|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|déconstip%[m|ais]|
+|tu|déconstip%[m|ais]|
+|il|déconstip%[m|ait]|
+|nous|déconstip%[m|ions]|
+|vous|déconstip%[m|iez]|
+|ils|déconstip%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|déconstip%[m|é]|
+|tu|avais|déconstip%[m|é]|
+|il|avait|déconstip%[m|é]|
+|nous|avions|déconstip%[m|é]|
+|vous|aviez|déconstip%[m|é]|
+|ils|avaient|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|déconstip%[m|ai]|
+|tu|déconstip%[m|as]|
+|il|déconstip%[m|a]|
+|nous|déconstip%[m|âmes]|
+|vous|déconstip%[m|âtes]|
+|ils|déconstip%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|déconstip%[m|é]|
+|tu|eus|déconstip%[m|é]|
+|il|eut|déconstip%[m|é]|
+|nous|e&ucirc;mes|déconstip%[m|é]|
+|vous|e&ucirc;tes|déconstip%[m|é]|
+|ils|eurent|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|déconstip%[m|erai]|
+|tu|déconstip%[m|eras]|
+|il|déconstip%[m|era]|
+|nous|déconstip%[m|erons]|
+|vous|déconstip%[m|erez]|
+|ils|déconstip%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|déconstip%[m|é]|
+|tu|auras|déconstip%[m|é]|
+|il|aura|déconstip%[m|é]|
+|nous|aurons|déconstip%[m|é]|
+|vous|aurez|déconstip%[m|é]|
+|ils|auront|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|déconstip%[m|erais]|
+|tu|déconstip%[m|erais]|
+|il|déconstip%[m|erait]|
+|nous|déconstip%[m|erions]|
+|vous|déconstip%[m|eriez]|
+|ils|déconstip%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|déconstip%[m|é]|
+|tu|aurais|déconstip%[m|é]|
+|il|aurait|déconstip%[m|é]|
+|nous|aurions|déconstip%[m|é]|
+|vous|auriez|déconstip%[m|é]|
+|ils|auraient|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|déconstip%[m|e]|
+|que|tu|déconstip%[m|es]|
+|qu'|il|déconstip%[m|e]|
+|que|nous|déconstip%[m|ions]|
+|que|vous|déconstip%[m|iez]|
+|qu'|ils|déconstip%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|déconstip%[m|é]|
+|que|tu|aies|déconstip%[m|é]|
+|qu'|il|ait|déconstip%[m|é]|
+|que|nous|ayons|déconstip%[m|é]|
+|que|vous|ayez|déconstip%[m|é]|
+|qu'|ils|aient|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|déconstip%[m|asse]|
+|que|tu|déconstip%[m|asses]|
+|qu'|il|déconstip%[m|ât]|
+|que|nous|déconstip%[m|assions]|
+|que|vous|déconstip%[m|assiez]|
+|qu'|ils|déconstip%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|déconstip%[m|é]|
+|que|tu|eusses|déconstip%[m|é]|
+|qu'|il|eût|déconstip%[m|é]|
+|que|nous|eussions|déconstip%[m|é]|
+|que|vous|eussiez|déconstip%[m|é]|
+|qu'|ils|eussent|déconstip%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|déconstip%[m|e]|
+|déconstip%[m|ons]|
+|déconstip%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|déconstip%[m|é]|
+|ayons|déconstip%[m|é]|
+|ayez|déconstip%[m|é]|
+|]
+

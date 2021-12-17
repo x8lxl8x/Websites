@@ -1,0 +1,190 @@
+# s'alerter %[clVerbGroup|1]
+[-
+donner l'alerte. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'alert%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|alert%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'alert%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|alert%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'alert%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|alert%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|alert%[m|e]|
+|tu|t'|alert%[m|es]|
+|il|s'|alert%[m|e]|
+|nous|nous|alert%[m|ons]|
+|vous|vous|alert%[m|ez]|
+|ils|s'|alert%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|alert%[m|é]|
+|tu|t'|es|alert%[m|é]|
+|il|s'|est|alert%[m|é]|
+|nous|nous|sommes|alert%[m|és]|
+|vous|vous|êtes|alert%[m|és]|
+|ils|se|sont|alert%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|alert%[m|ais]|
+|tu|t'|alert%[m|ais]|
+|il|s'|alert%[m|ait]|
+|nous|nous|alert%[m|ions]|
+|vous|vous|alert%[m|iez]|
+|ils|s'|alert%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|alert%[m|é]|
+|tu|t'|étais|alert%[m|é]|
+|il|s'|était|alert%[m|é]|
+|nous|nous|étions|alert%[m|és]|
+|vous|vous|étiez|alert%[m|és]|
+|ils|s'|étaient|alert%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|alert%[m|ai]|
+|tu|t'|alert%[m|as]|
+|il|s'|alert%[m|a]|
+|nous|nous|alert%[m|âmes]|
+|vous|vous|alert%[m|âtes]|
+|ils|s'|alert%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|alert%[m|é]|
+|tu|te|fus|alert%[m|é]|
+|il|se|fut|alert%[m|é]|
+|nous|nous|fûmes|alert%[m|és]|
+|vous|vous|fûtes|alert%[m|és]|
+|ils|se|furent|alert%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|alert%[m|erai]|
+|tu|t'|alert%[m|eras]|
+|il|s'|alert%[m|era]|
+|nous|nous|alert%[m|erons]|
+|vous|vous|alert%[m|erez]|
+|ils|s'|alert%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|alert%[m|é]|
+|tu|te|seras|alert%[m|é]|
+|il|se|sera|alert%[m|é]|
+|nous|nous|serons|alert%[m|és]|
+|vous|vous|serez|alert%[m|és]|
+|ils|se|seront|alert%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|alert%[m|erais]|
+|tu|t'|alert%[m|erais]|
+|il|s'|alert%[m|erait]|
+|nous|nous|alert%[m|erions]|
+|vous|vous|alert%[m|eriez]|
+|ils|s'|alert%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|alert%[m|é]|
+|tu|te|serais|alert%[m|é]|
+|il|se|serait|alert%[m|é]|
+|nous|nous|serions|alert%[m|és]|
+|vous|vous|seriez|alert%[m|és]|
+|ils|se|seraient|alert%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|alert%[m|e]|
+|que|tu|t'|alert%[m|es]|
+|qu'|il|s'|alert%[m|e]|
+|que|nous|nous|alert%[m|ions]|
+|que|vous|vous|alert%[m|iez]|
+|qu'|ils|s'|alert%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|alert%[m|é]|
+|que|tu|te|sois|alert%[m|é]|
+|qu'|il|se|soit|alert%[m|é]|
+|que|nous|nous|soyons|alert%[m|és]|
+|que|vous|vous|soyez|alert%[m|és]|
+|qu'|ils|se|soient|alert%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|alert%[m|asse]|
+|que|tu|t'|alert%[m|asses]|
+|qu'|il|s'|alert%[m|ât]|
+|que|nous|nous|alert%[m|assions]|
+|que|vous|vous|alert%[m|assiez]|
+|qu'|ils|s'|alert%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|alert%[m|é]|
+|que|tu|te|fusses|alert%[m|é]|
+|qu'|il|se|fût|alert%[m|é]|
+|que|nous|nous|fussions|alert%[m|és]|
+|que|vous|vous|fussiez|alert%[m|és]|
+|qu'|ils|se|fussent|alert%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|alert%[m|e]-toi|
+|alert%[m|ons]-nous|
+|alert%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

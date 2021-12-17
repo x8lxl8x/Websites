@@ -1,0 +1,190 @@
+# réoccuper %[clVerbGroup|1]
+[-
+occuper de nouveau. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|réoccup%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|réoccup%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||réoccup%[m|é]|
+|ayant|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en réoccup%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|réoccup%[m|e]|
+|tu|réoccup%[m|es]|
+|il|réoccup%[m|e]|
+|nous|réoccup%[m|ons]|
+|vous|réoccup%[m|ez]|
+|ils|réoccup%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|réoccup%[m|é]|
+|tu|as |réoccup%[m|é]|
+|il|a|réoccup%[m|é]|
+|nous|avons|réoccup%[m|é]|
+|vous|avez|réoccup%[m|é]|
+|ils|ont|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|réoccup%[m|ais]|
+|tu|réoccup%[m|ais]|
+|il|réoccup%[m|ait]|
+|nous|réoccup%[m|ions]|
+|vous|réoccup%[m|iez]|
+|ils|réoccup%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|réoccup%[m|é]|
+|tu|avais|réoccup%[m|é]|
+|il|avait|réoccup%[m|é]|
+|nous|avions|réoccup%[m|é]|
+|vous|aviez|réoccup%[m|é]|
+|ils|avaient|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|réoccup%[m|ai]|
+|tu|réoccup%[m|as]|
+|il|réoccup%[m|a]|
+|nous|réoccup%[m|âmes]|
+|vous|réoccup%[m|âtes]|
+|ils|réoccup%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|réoccup%[m|é]|
+|tu|eus|réoccup%[m|é]|
+|il|eut|réoccup%[m|é]|
+|nous|e&ucirc;mes|réoccup%[m|é]|
+|vous|e&ucirc;tes|réoccup%[m|é]|
+|ils|eurent|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|réoccup%[m|erai]|
+|tu|réoccup%[m|eras]|
+|il|réoccup%[m|era]|
+|nous|réoccup%[m|erons]|
+|vous|réoccup%[m|erez]|
+|ils|réoccup%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|réoccup%[m|é]|
+|tu|auras|réoccup%[m|é]|
+|il|aura|réoccup%[m|é]|
+|nous|aurons|réoccup%[m|é]|
+|vous|aurez|réoccup%[m|é]|
+|ils|auront|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|réoccup%[m|erais]|
+|tu|réoccup%[m|erais]|
+|il|réoccup%[m|erait]|
+|nous|réoccup%[m|erions]|
+|vous|réoccup%[m|eriez]|
+|ils|réoccup%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|réoccup%[m|é]|
+|tu|aurais|réoccup%[m|é]|
+|il|aurait|réoccup%[m|é]|
+|nous|aurions|réoccup%[m|é]|
+|vous|auriez|réoccup%[m|é]|
+|ils|auraient|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|réoccup%[m|e]|
+|que|tu|réoccup%[m|es]|
+|qu'|il|réoccup%[m|e]|
+|que|nous|réoccup%[m|ions]|
+|que|vous|réoccup%[m|iez]|
+|qu'|ils|réoccup%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|réoccup%[m|é]|
+|que|tu|aies|réoccup%[m|é]|
+|qu'|il|ait|réoccup%[m|é]|
+|que|nous|ayons|réoccup%[m|é]|
+|que|vous|ayez|réoccup%[m|é]|
+|qu'|ils|aient|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|réoccup%[m|asse]|
+|que|tu|réoccup%[m|asses]|
+|qu'|il|réoccup%[m|ât]|
+|que|nous|réoccup%[m|assions]|
+|que|vous|réoccup%[m|assiez]|
+|qu'|ils|réoccup%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|réoccup%[m|é]|
+|que|tu|eusses|réoccup%[m|é]|
+|qu'|il|eût|réoccup%[m|é]|
+|que|nous|eussions|réoccup%[m|é]|
+|que|vous|eussiez|réoccup%[m|é]|
+|qu'|ils|eussent|réoccup%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|réoccup%[m|e]|
+|réoccup%[m|ons]|
+|réoccup%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|réoccup%[m|é]|
+|ayons|réoccup%[m|é]|
+|ayez|réoccup%[m|é]|
+|]
+

@@ -1,0 +1,192 @@
+# présager %[clVerbGroup|1]
+[-
+annoncer d'avance ce qui doit arriver ou se produire. 
+faire présumer, supposer, prévoir un événement à venir. 
+avoir les caractères d'une chose à venir. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|présag%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|présag%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|présag%[m|eant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||présag%[m|é]|
+|ayant|présag%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en présag%[m|eant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|présag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|présag%[m|e]|
+|tu|présag%[m|es]|
+|il|présag%[m|e]|
+|nous|présag%[m|eons]|
+|vous|présag%[m|ez]|
+|ils|présag%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|présag%[m|é]|
+|tu|as |présag%[m|é]|
+|il|a|présag%[m|é]|
+|nous|avons|présag%[m|é]|
+|vous|avez|présag%[m|é]|
+|ils|ont|présag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|présag%[m|eais]|
+|tu|présag%[m|eais]|
+|il|présag%[m|eait]|
+|nous|présag%[m|ions]|
+|vous|présag%[m|iez]|
+|ils|présag%[m|eaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|présag%[m|é]|
+|tu|avais|présag%[m|é]|
+|il|avait|présag%[m|é]|
+|nous|avions|présag%[m|é]|
+|vous|aviez|présag%[m|é]|
+|ils|avaient|présag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|présag%[m|eai]|
+|tu|présag%[m|eas]|
+|il|présag%[m|ea]|
+|nous|présag%[m|eâmes]|
+|vous|présag%[m|eâtes]|
+|ils|présag%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|présag%[m|é]|
+|tu|eus|présag%[m|é]|
+|il|eut|présag%[m|é]|
+|nous|e&ucirc;mes|présag%[m|é]|
+|vous|e&ucirc;tes|présag%[m|é]|
+|ils|eurent|présag%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|présag%[m|erai]|
+|tu|présag%[m|eras]|
+|il|présag%[m|era]|
+|nous|présag%[m|erons]|
+|vous|présag%[m|erez]|
+|ils|présag%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|présag%[m|é]|
+|tu|auras|présag%[m|é]|
+|il|aura|présag%[m|é]|
+|nous|aurons|présag%[m|é]|
+|vous|aurez|présag%[m|é]|
+|ils|auront|présag%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|présag%[m|erais]|
+|tu|présag%[m|erais]|
+|il|présag%[m|erait]|
+|nous|présag%[m|erions]|
+|vous|présag%[m|eriez]|
+|ils|présag%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|présag%[m|é]|
+|tu|aurais|présag%[m|é]|
+|il|aurait|présag%[m|é]|
+|nous|aurions|présag%[m|é]|
+|vous|auriez|présag%[m|é]|
+|ils|auraient|présag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|présag%[m|e]|
+|que|tu|présag%[m|es]|
+|qu'|il|présag%[m|e]|
+|que|nous|présag%[m|ions]|
+|que|vous|présag%[m|iez]|
+|qu'|ils|présag%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|présag%[m|é]|
+|que|tu|aies|présag%[m|é]|
+|qu'|il|ait|présag%[m|é]|
+|que|nous|ayons|présag%[m|é]|
+|que|vous|ayez|présag%[m|é]|
+|qu'|ils|aient|présag%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|présag%[m|easse]|
+|que|tu|présag%[m|easses]|
+|qu'|il|présag%[m|eât]|
+|que|nous|présag%[m|eassions]|
+|que|vous|présag%[m|eassiez]|
+|qu'|ils|présag%[m|eassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|présag%[m|é]|
+|que|tu|eusses|présag%[m|é]|
+|qu'|il|eût|présag%[m|é]|
+|que|nous|eussions|présag%[m|é]|
+|que|vous|eussiez|présag%[m|é]|
+|qu'|ils|eussent|présag%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|présag%[m|e]|
+|présag%[m|eons]|
+|présag%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|présag%[m|é]|
+|ayons|présag%[m|é]|
+|ayez|présag%[m|é]|
+|]
+

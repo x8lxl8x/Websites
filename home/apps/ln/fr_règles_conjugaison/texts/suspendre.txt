@@ -1,0 +1,193 @@
+# suspendre %[clVerbGroup|3]
+[-
+fixer en laissant pendre. 
+interrompre, arrêter momentanément. 
+interdire, priver de ses fonctions momentanément. 
+remettre à plus tard. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|suspend%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|suspend%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|suspend%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||suspend%[m|u]|
+|ayant|suspend%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en suspend%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|suspend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|suspend%[m|s]|
+|tu|suspend%[m|s]|
+|il|suspend%[m|]|
+|nous|suspend%[m|ons]|
+|vous|suspend%[m|ez]|
+|ils|suspend%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|suspend%[m|u]|
+|tu|as |suspend%[m|u]|
+|il|a|suspend%[m|u]|
+|nous|avons|suspend%[m|u]|
+|vous|avez|suspend%[m|u]|
+|ils|ont|suspend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|suspend%[m|ais]|
+|tu|suspend%[m|ais]|
+|il|suspend%[m|ait]|
+|nous|suspend%[m|ions]|
+|vous|suspend%[m|iez]|
+|ils|suspend%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|suspend%[m|u]|
+|tu|avais|suspend%[m|u]|
+|il|avait|suspend%[m|u]|
+|nous|avions|suspend%[m|u]|
+|vous|aviez|suspend%[m|u]|
+|ils|avaient|suspend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|suspend%[m|is]|
+|tu|suspend%[m|is]|
+|il|suspend%[m|it]|
+|nous|suspend%[m|îmes]|
+|vous|suspend%[m|îtes]|
+|ils|suspend%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|suspend%[m|u]|
+|tu|eus|suspend%[m|u]|
+|il|eut|suspend%[m|u]|
+|nous|e&ucirc;mes|suspend%[m|u]|
+|vous|e&ucirc;tes|suspend%[m|u]|
+|ils|eurent|suspend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|suspend%[m|rai]|
+|tu|suspend%[m|ras]|
+|il|suspend%[m|ra]|
+|nous|suspend%[m|rons]|
+|vous|suspend%[m|rez]|
+|ils|suspend%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|suspend%[m|u]|
+|tu|auras|suspend%[m|u]|
+|il|aura|suspend%[m|u]|
+|nous|aurons|suspend%[m|u]|
+|vous|aurez|suspend%[m|u]|
+|ils|auront|suspend%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|suspend%[m|rais]|
+|tu|suspend%[m|rais]|
+|il|suspend%[m|rait]|
+|nous|suspend%[m|rions]|
+|vous|suspend%[m|riez]|
+|ils|suspend%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|suspend%[m|u]|
+|tu|aurais|suspend%[m|u]|
+|il|aurait|suspend%[m|u]|
+|nous|aurions|suspend%[m|u]|
+|vous|auriez|suspend%[m|u]|
+|ils|auraient|suspend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|suspend%[m|e]|
+|que|tu|suspend%[m|es]|
+|qu'|il|suspend%[m|e]|
+|que|nous|suspend%[m|ions]|
+|que|vous|suspend%[m|iez]|
+|qu'|ils|suspend%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|suspend%[m|u]|
+|que|tu|aies|suspend%[m|u]|
+|qu'|il|ait|suspend%[m|u]|
+|que|nous|ayons|suspend%[m|u]|
+|que|vous|ayez|suspend%[m|u]|
+|qu'|ils|aient|suspend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|suspend%[m|isse]|
+|que|tu|suspend%[m|isses]|
+|qu'|il|suspend%[m|ît]|
+|que|nous|suspend%[m|issions]|
+|que|vous|suspend%[m|issiez]|
+|qu'|ils|suspend%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|suspend%[m|u]|
+|que|tu|eusses|suspend%[m|u]|
+|qu'|il|eût|suspend%[m|u]|
+|que|nous|eussions|suspend%[m|u]|
+|que|vous|eussiez|suspend%[m|u]|
+|qu'|ils|eussent|suspend%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|suspend%[m|s]|
+|suspend%[m|ons]|
+|suspend%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|suspend%[m|u]|
+|ayons|suspend%[m|u]|
+|ayez|suspend%[m|u]|
+|]
+

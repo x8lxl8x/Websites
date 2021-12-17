@@ -1,0 +1,190 @@
+# rapointir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|rapoint%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|rapoint%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||rapoint%[m|i]|
+|ayant|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en rapoint%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|rapoint%[m|is]|
+|tu|rapoint%[m|is]|
+|il|rapoint%[m|it]|
+|nous|rapoint%[m|issons]|
+|vous|rapoint%[m|issez]|
+|ils|rapoint%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|rapoint%[m|i]|
+|tu|as |rapoint%[m|i]|
+|il|a|rapoint%[m|i]|
+|nous|avons|rapoint%[m|i]|
+|vous|avez|rapoint%[m|i]|
+|ils|ont|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|rapoint%[m|issais]|
+|tu|rapoint%[m|issais]|
+|il|rapoint%[m|issait]|
+|nous|rapoint%[m|issions]|
+|vous|rapoint%[m|issiez]|
+|ils|rapoint%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|rapoint%[m|i]|
+|tu|avais|rapoint%[m|i]|
+|il|avait|rapoint%[m|i]|
+|nous|avions|rapoint%[m|i]|
+|vous|aviez|rapoint%[m|i]|
+|ils|avaient|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|rapoint%[m|is]|
+|tu|rapoint%[m|is]|
+|il|rapoint%[m|it]|
+|nous|rapoint%[m|îmes]|
+|vous|rapoint%[m|îtes]|
+|ils|rapoint%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|rapoint%[m|i]|
+|tu|eus|rapoint%[m|i]|
+|il|eut|rapoint%[m|i]|
+|nous|e&ucirc;mes|rapoint%[m|i]|
+|vous|e&ucirc;tes|rapoint%[m|i]|
+|ils|eurent|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|rapoint%[m|irai]|
+|tu|rapoint%[m|iras]|
+|il|rapoint%[m|ira]|
+|nous|rapoint%[m|irons]|
+|vous|rapoint%[m|irez]|
+|ils|rapoint%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|rapoint%[m|i]|
+|tu|auras|rapoint%[m|i]|
+|il|aura|rapoint%[m|i]|
+|nous|aurons|rapoint%[m|i]|
+|vous|aurez|rapoint%[m|i]|
+|ils|auront|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|rapoint%[m|irais]|
+|tu|rapoint%[m|irais]|
+|il|rapoint%[m|irait]|
+|nous|rapoint%[m|irions]|
+|vous|rapoint%[m|iriez]|
+|ils|rapoint%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|rapoint%[m|i]|
+|tu|aurais|rapoint%[m|i]|
+|il|aurait|rapoint%[m|i]|
+|nous|aurions|rapoint%[m|i]|
+|vous|auriez|rapoint%[m|i]|
+|ils|auraient|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|rapoint%[m|isse]|
+|que|tu|rapoint%[m|isses]|
+|qu'|il|rapoint%[m|isse]|
+|que|nous|rapoint%[m|issions]|
+|que|vous|rapoint%[m|issiez]|
+|qu'|ils|rapoint%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|rapoint%[m|i]|
+|que|tu|aies|rapoint%[m|i]|
+|qu'|il|ait|rapoint%[m|i]|
+|que|nous|ayons|rapoint%[m|i]|
+|que|vous|ayez|rapoint%[m|i]|
+|qu'|ils|aient|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|rapoint%[m|isse]|
+|que|tu|rapoint%[m|isses]|
+|qu'|il|rapoint%[m|ît]|
+|que|nous|rapoint%[m|issions]|
+|que|vous|rapoint%[m|issiez]|
+|qu'|ils|rapoint%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|rapoint%[m|i]|
+|que|tu|eusses|rapoint%[m|i]|
+|qu'|il|eût|rapoint%[m|i]|
+|que|nous|eussions|rapoint%[m|i]|
+|que|vous|eussiez|rapoint%[m|i]|
+|qu'|ils|eussent|rapoint%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|rapoint%[m|is]|
+|rapoint%[m|issons]|
+|rapoint%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|rapoint%[m|i]|
+|ayons|rapoint%[m|i]|
+|ayez|rapoint%[m|i]|
+|]
+

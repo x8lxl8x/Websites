@@ -1,0 +1,519 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Option Course</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='./12.html'><span class='clNavLeft'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+    <a href='./14.html'><span class='clNavRight'><span></a>
+  </div>
+</div>
+<div id='idContent'>
+<h1>Profit And Loss Diagrams</h1>
+
+<p>As the saying goes, a picture is worth a thousand
+words.&nbsp; This is so true when it comes to profit and loss
+diagrams on options.&nbsp; By looking at a picture, you can
+immediately see where your max profit and loss is, feel
+how the position will behave, and know where the danger
+zones are for any strategy.</p>
+<p>Unfortunately, there are basically two types of
+option investors.&nbsp; Those who can read profit and loss
+diagrams, and those who can't!&nbsp; </p>
+<p>Being able to read and understand the profit and loss
+diagram is critical for understanding options.</p>
+<p><b><i>Important Note:</i></b>&nbsp; Before we get started,
+there is one very important point that needs to be made
+here.&nbsp; When we speak of profit and loss diagrams, we are
+talking about the profit and losses <i><u>at expiration
+of the option.</u></i>&nbsp; Prior to expiration, it is very
+difficult to say what the profit/loss diagrams will look
+like because of the many factors that affect an option's
+price.&nbsp; </p>
+<p>So what exactly is a profit and loss diagram?&nbsp; Let's
+start with the simplest one -- a long stock position.</p>
+<p>If you are long stock (meaning you own it), you will
+make one point of profit for every point increase in the
+stock above your cost basis.&nbsp; Likewise, for every point
+drop below your cost, you will lose exactly one point.&nbsp;
+This is easy to show on a spreadsheet.&nbsp; Assume we buy 1
+share of stock at a price of $50:</p>
+<table cellSpacing='0' cellPadding='0' border='1' id='table4'>
+<tr>
+<td v>
+<p align='center'><b>If the stock price is:</b></td>
+<td v>
+<p align='center'><b>Your profit/loss will be</b></td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$45</td>
+<td v>
+<p align='center'>-$5</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$46</td>
+<td v>
+<p align='center'>-$4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$47</td>
+<td v>
+<p align='center'>-$3</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$48</td>
+<td v>
+<p align='center'>-$2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$49</td>
+<td v>
+<p align='center'>-$1</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$50</td>
+<td v>
+<p align='center'>&nbsp;$0 (the break-even point)</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$51</td>
+<td v>
+<p align='center'>+$1</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$52</td>
+<td v>
+<p align='center'>+$2</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$53</td>
+<td v>
+<p align='center'>+$3</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$54</td>
+<td v>
+<p align='center'>+$4</td>
+</tr>
+<tr>
+<td v>
+<p align='center'>$55</td>
+<td v>
+<p align='center'>+$5</td>
+</tr>
+</table>
+<p>Assuming you paid $50 for the stock, this table shows
+that you will have a loss of $5 if the stock is trading
+at $45.&nbsp; If the stock is trading for say, $53, you will
+have a profit of $3 per share.&nbsp; If the stock is trading
+for $50, you will have no profit and no loss -- you are
+just breaking even.</p>
+<p>You must admit, even though this is a relatively
+simple position, it's not readily apparent as to the
+behavior.&nbsp; So let's take the above numbers and put them
+in a picture -- a profit and loss diagram.&nbsp; All we have
+to do is plot the stock prices from the table above on
+the horizontal axis (the x-axis) and the profit/loss
+numbers on the vertical axis (the y-axis).&nbsp; Once we do,
+we get the following picture:</p>
+
+<img width='300px' src='../images/004.gif'>
+
+<p>How do you read the chart?&nbsp; Using the chart below,
+look at any stock price along the horizontal axis such
+as $53, for example.&nbsp; Now trace a line to the
+profit/loss line (blue) and see where that point lines
+up with the vertical axis to the left.&nbsp; It lines up with
+$3 profit, which is exactly what we calculated in the
+spreadsheet previously.&nbsp; At a stock price of $46, we see
+the profit/loss line shows a $4 loss.</p>
+
+<img width='300px' src='../images/005.gif'>
+
+<p>It should be evident that it is much easier to look
+at the picture rather than the spreadsheet to see how a
+long stock position, at $50, will behave.&nbsp; We know
+immediately that the break-even point is at $50 -- the
+point where the profit/loss line crosses zero on the
+horizontal axis.&nbsp; We can also immediately see that there
+is unlimited loss (at least all the way down to a stock
+price of zero since you can never lose more than what
+you paid) and an unlimited upside potential as the line
+continues up to the right without bounds.</p>
+<p>What if you are short the stock?&nbsp; Shorting stock
+involves borrowing the shares and selling them with the
+intent of buying them later at a cheaper price.&nbsp; You
+are, in essence, doing the reverse of the traditional
+&quot;buy low - sell high&quot; strategy.&nbsp; You are trying to &quot;sell
+high - buy low.&quot;&nbsp; The profit and loss diagram for short
+stock looks like this:</p>
+
+<img width='300px' src='../images/006.gif'>
+
+<p>A short position will always behave the opposite of
+the corresponding long position.&nbsp; In this case, we see
+that profit is made as the stock falls and unlimited
+losses occur as the stock rises.&nbsp; The unlimited loss
+part is what makes the short stock position so
+dangerous!</p>
+<p>Got the hang of it?&nbsp; Ok, let's try something a little
+more complicated and see what a long call position looks
+like.</p>
+<h2>Long call position</h2>
+<p>A long $50 call gives the owner the right, but not
+the obligation to buy stock at a price of $50 over a
+specified amount of time.&nbsp; The trader, in this case,
+paid $3 per share for that right and, consequently, that
+is all that can be lost.&nbsp; So, no matter how low the
+stock falls, this trader's maximum loss is just the
+premium of $3.&nbsp; </p>
+
+<img width='300px' src='../images/007.gif'>
+
+<p>Looking at the chart below, we see the call option
+trader has, in effect, limited the downside risk below
+$50, as compared to the long stock position, but still
+retained all of the upside potential.&nbsp; Of course, this
+does not come for free.&nbsp; If you notice, the break-even
+has been moved upward by $3, the price of the call
+option, to $53.&nbsp; This is the most powerful benefit of
+options; they allow you to custom-tailor the profit/loss
+profiles to exactly suit your needs.</p>
+
+<img width='300px' src='../images/008.gif'>
+
+<h2>Short Call</h2>
+<p>Let's see what a short call looks like.&nbsp; Remember, we
+said at the beginning that a short position would be
+exactly the opposite of the corresponding long position.</p>
+<table cellPadding='18' border='0' id='table10'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/009.gif'>
+
+<p>The profit/loss diagram for the short call (red line)
+is telling us that the maximum profit is $3, the amount
+of the premium.&nbsp; This will be made for any stock price
+(at expiration) below $50.&nbsp; Because the $50 call will be
+worthless to the owner (the long position) at
+expiration, the short position will profit by the entire
+premium of $3.&nbsp; </p>
+<p>Notice how this short call is the mirror image of the
+long call position (blue line).&nbsp; For the long call, $3
+is the maximum loss; this is the amount of the short
+call's maximum gain.&nbsp; The short call's break-even point
+is at $53, because at this point at expiration, the
+option will be trading for $3, (remember, this is the
+profit for the long position).&nbsp; The short's position
+will be worth -$3 and this is the amount for which the
+call was sold for a net profit/loss of zero.&nbsp; If the
+stock moves above $53, unlimited losses will occur for
+the short call beyond this point.&nbsp; Because of the high
+leveraged nature of options, the short call (also called
+a naked or uncovered call) position is the riskiest of
+all!&nbsp; Why?&nbsp; Because you can only make a limited gain on
+the position, but are assuming an unlimited risk to do
+so.&nbsp; </p>
+<p>An interesting point should be made here.&nbsp; Look again
+at the above chart with the long call and short call
+positions.&nbsp; Because they are mirror images of each
+other, this shows that no <i>net </i>flow of cash is
+created from the options markets.&nbsp; In other words, any
+option trader's gain is exactly somebody else's loss;
+the money merely changes hands.&nbsp; The financial press is
+often known for making the statement that the options
+markets should not exist for this very reason.&nbsp; This is
+a big misconception.&nbsp; The options markets were created
+as a way to hedge risk; it is a way for hedgers to meet
+speculators.&nbsp; So the next time you hear about a
+devastating loss due to derivatives, remember, the
+trader/traders on the other side of the trade made
+exactly that amount of a gain.&nbsp; </p>
+<p>Okay, let's work one backwards.&nbsp; I'll show you the
+profit/loss chart and see if you can identify it:</p>
+<table cellPadding='18' border='0' id='table11'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/010.gif'>
+
+<p>Look at the chart and try to read it:&nbsp; The trader in
+the diagram can only lose $5, no matter how high the
+stock goes.&nbsp; But, an unlimited amount (down to a zero
+stock price) can be made if the stock falls below $50.&nbsp;
+Which option position has these characteristics?</p>
+<p>If you said a long $50 strike put, you're right!&nbsp; A
+long put is a bearish position; you make money if the
+stock falls (assuming it falls far enough to offset the
+premium).&nbsp; A short stock position, as we saw earlier, is
+bearish too.&nbsp; But, the long put position is not exposed
+to the unlimited upside risk as the stock moves higher.&nbsp;
+Again, this does not come for free.&nbsp; The long put
+position, in this example, must have the stock fall
+below $45 before money is made.&nbsp; The short stock
+position will make money for <i>any</i> fall in the
+stock below $50.</p>
+<p>Okay, just to make sure you have it, let's look at a
+short put, which remember, should be the mirror image of
+the long put above.</p>
+<table cellPadding='18' border='0' id='table12'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/011.gif'>
+
+<p>And we see that it is.&nbsp; It is easy to see from the
+profit and loss diagram that a short put is bullish, as
+maximum profit is made when the stock is above $50.&nbsp; The
+trader is exposed to unlimited losses (down to a stock
+price of zero).&nbsp; This short put position will break-even
+at a stock price of $45, since the put will be worth -$5
+at expiration, which is exactly the amount of the
+premium collected.</p>
+<h2>Combination Strategies</h2>
+<p>The above strategies are relatively simple, but are
+intended to teach you the basics in reading a profit and
+loss diagram.&nbsp; Now we will get a little more complicated
+and really see their value when we look at combination
+strategies.&nbsp; These are strategies that combine two or
+more positions to really custom tailor those risk-reward
+profiles you may be seeking but were unable to do with
+stock alone.</p>
+<p>For starters, let's view the profit/loss diagram for
+a covered call position, which is one of the most
+popular strategies in options.&nbsp; The covered call is a
+strategy in which the investor buys the stock and sells
+(or writes) the call against that stock.&nbsp; The investor
+will take in some money for doing so, which in effect,
+provides a small downside hedge -- it lowers the
+break-even point.&nbsp; However, the investor also gives up
+some of the upside potential in the stock. </p>
+<p>Let's piece the two positions together.&nbsp; Remember
+that the profit/loss for long stock looks like this
+(assuming that $50 is paid per share):</p>
+<table cellPadding='18' border='0' id='table13'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/012.gif'>
+
+<p>Now let's add the covered call.&nbsp; Say the investor
+sells a $60 call against the stock for a premium of $5.&nbsp;
+This means the investor will receive $5 per share but
+may have to sell the stock at $60.&nbsp; On the surface, it
+doesn't seem like a bad deal as you are getting paid to
+sell your stock at a profit.&nbsp; As we will soon see, with
+the help of our profit/loss diagram, there is a price to
+pay.</p>
+<p>By selling the $60 call, the investor &quot;gives up&quot; any
+appreciation in the stock above $60; he has sold those
+rights to somebody else -- the person who bought the
+call.&nbsp; But the investor also reduces the downside risk,
+slightly, in exchange.&nbsp; The total covered call position
+now looks like the red line below:</p>
+<table cellPadding='18' border='0' id='table14'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/013.gif'>
+
+<p>The red line is our profit and loss diagram for the
+covered call position.&nbsp; We see that the break-even has
+now been reduced to $45 because of the $5 premium
+received from the call.&nbsp; However, for <u>any</u> stock
+price above $60, there is no more appreciation in the
+position as there is for the long stock position.&nbsp; The
+maximum that can be made, in this example, is $15.&nbsp;
+How?&nbsp; If the stock is $60, we make $10 on our stock
+because we paid $50, but also made $5 from the call for
+a total of $15.&nbsp; If the stock is higher than $60, it
+does not matter; we are under contract to sell it for
+$60, so our profit is still $15.&nbsp; </p>
+<p>Now here is the price you pay for entering into a
+covered call position.&nbsp; YOU are holding ALL of the
+downside risk!&nbsp; You cannot sell your stock until
+expiration of the call unless you are willing to buy the
+call back, which could be a loss.&nbsp; Otherwise, you must
+wait for expiration in order to fully profit by the $5
+premium.</p>
+<table cellPadding='18' border='1' id='table15'>
+<tr vAlign='top'>
+<td>
+<div align='left'>
+<h2>The Myth Of Covered Calls</h2>
+<p>There is a lot of bad information
+floating around out there about covered
+calls.&nbsp; If you ask most people, brokers
+included, you will hear that the &quot;risk&quot; of a
+covered call position is that you may have
+to sell your stock for a price below
+market.&nbsp; In other words, the stock may be
+trading at $100 but you have to sell it for
+$60.&nbsp; Look at all of the points on the above
+chart at $60 or above -- the points where
+you will likely be assigned on the option
+and must sell your stock.&nbsp; Is this the
+&quot;risky&quot; area of the chart?&nbsp; NO!&nbsp; It is our
+maximum profit zone, exactly the points
+where you want to be.&nbsp; There are a lot of
+professionals and academic journals that
+surprisingly make this mistake.&nbsp; It is a
+huge myth in the marketplace.&nbsp; The risk of
+any position is not missing out on some
+reward.&nbsp; </p>
+<p>If you are really sharp, you may have
+noticed that the covered call profit/loss
+diagram is exactly the same shape as that
+for the short put shown earlier.&nbsp; These are
+called &quot;synthetic equivalents&quot; (and will be
+discussed in detail at a later time).&nbsp;
+Covered calls are often considered among the
+&quot;safest&quot; strategies while naked puts are
+considered to be one of the riskiest.&nbsp;
+Covered calls and naked puts are,
+incorrectly, considered by many to be polar
+opposites in terms of risk.&nbsp; Even option
+approval levels with your broker will
+usually require the lowest level for covered
+calls and the highest level for naked puts.&nbsp;
+Yet, from a profit and loss standpoint, they
+are exactly the same strategies.</p>
+<p>Now you should understand the beauty of
+profit/loss diagrams.&nbsp; They can help uncover
+the myths.&nbsp; </p>
+<p>The risk with the covered call is the
+same as with the naked put.&nbsp; <b>The risk is
+that the stock goes down.</b></div>
+</td>
+</tr>
+</table>
+<p>So who should enter into a covered call position?&nbsp; If
+you write calls against stock you would hold regardless,
+then writing calls can be a great strategy because you
+were willing to assume the risk with or without the
+covered call.&nbsp; </p>
+<p>But if you are buying the stock <u>because</u> of the
+premium, then you should strongly reconsider your
+strategy.&nbsp; People who do this are known as <i>
+premium-seekers</i>, as they seek out the very high
+premiums on the options, then buy the stock just to gain
+the premium.&nbsp; I have witnessed, on more than one
+occasion, million dollar accounts becoming virtually
+worthless doing nothing but covered calls using this
+method. </p>
+<h2>Long straddles</h2>
+<p>The long straddle is a position where the trader buys
+a call and a put with same strikes and expiration.&nbsp; The
+idea behind the strategy is that a large move is
+expected but the trader is unsure about which
+direction.&nbsp; Usually, this strategy is used prior to an
+earnings report, FDA approval for a drug company or some
+other big announcement.&nbsp; If the report is favorable, the
+stock may run wild to the upside; if not, it may tank.&nbsp;
+So the strategy plays both sides.&nbsp; </p>
+<p>We will be discussing straddles in detail at a later
+time, but we do want to make the point that playing
+straddles solely for news announcements is usually not a
+good strategy, as the price of the calls and puts will
+already factor in the expected rise or fall of the
+stock.&nbsp; This means that it will usually be difficult to
+get out of the straddle for a profit.&nbsp; A bigger reason
+to play straddles is if you think the market has
+underestimated the volatility.</p>
+<p>Say a trader buys a $50 call for $5 and a $50 put for
+$3 for a total of $8.&nbsp; What does its profit/loss diagram
+look like:</p>
+<table cellPadding='18' border='0' id='table16'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/014.gif'>
+
+<p>It is easy to see now where your profit zones are.&nbsp;
+This trader will need to see the stock go above $58 (the
+strike plus both premiums) or below $42 (the strike
+minus both premiums).&nbsp; If the stock stays between these
+two points, at expiration, the trader will lose a
+maximum of $8.</p>
+<p>Be aware of seminars or books that announce, &quot;We'll
+show you how to make money regardless of where the stock
+moves&quot; as they are usually talking about straddles.&nbsp; </p>
+<p>The downside to the straddle is that you are
+basically buying a very expensive call <i>and</i> a very
+expensive put.&nbsp; In effect, you are buying the call for
+the price of a call and a put.&nbsp; You are also buying a
+put for the price of a call and a put.&nbsp; This is because
+you must buy both options to complete the straddle yet
+only one will be in-the-money at expiration (unless the
+stock closes exactly at $50 or under a rare partial
+tender offer where <i>both</i> options can expire
+in-the-money).&nbsp; This makes the straddle very tough to <i>
+profit</i> from unless you get a tremendous move in the
+stock.&nbsp; So, while you may &quot;make money&quot; on either leg of
+the spread, that's not necessarily the same as being
+profitable.</p>
+<p>Okay, ready for one more?</p>
+<h2>Ratio spread</h2>
+<p>Let's look at a more complicated position -- the
+ratio spread.&nbsp; I am only showing this to demonstrate the
+power of the profit and loss diagrams and why you should
+learn to use them.&nbsp; I will not even discuss the strategy
+(although it will be available in another section), but
+instead, I want to see if you can identify the critical
+points.</p>
+<p>First of all, let's say a trader buys 10 $50 strike
+calls for $5 and sells 35 $65 strike calls for $1-3/4.&nbsp;
+That's a ratio spread, or ratio-write with calls.</p>
+<p>Now, think about this for a minute.&nbsp; Just by looking
+at the above ratio spread, can you tell what the trader
+wants the stock to do?&nbsp; Where the maximum profit and
+loss is?&nbsp; Where the danger zones are?</p>
+<p>It's pretty tough, isn't it?</p>
+<p>Now let's use the profit and loss diagram for the
+ratio spread described and see if we can answer the
+questions a little easier:</p>
+<table cellPadding='18' border='0' id='table17'>
+<tr vAlign='top'>
+<td>
+<p align='center'>
+<img width='300px' src='../images/015.gif'>
+
+<p>Much easier, isn't it?&nbsp; We can now see that the
+trader will make money if the stock either collapses
+below $50 or rises up to $65, which is the point of
+maximum profit.&nbsp; After $65, the trader starts to lose
+some profits and will reach a break-even point around
+$73.&nbsp; Beyond $73, unlimited losses will occur.</p>
+<p>Would you have been able to analyze the trade in this
+way just knowing that the trader bought 10 $50 calls at
+$5 and sold 35 $65 strikes at $1-3/4?&nbsp; Don't feel bad,
+most people can't.&nbsp; But that's what profit and loss
+diagrams are for.</p>
+<p>Learn to use them, as they will greatly help your
+understanding of option strategies!</p>
+
+</div>
+</div>
+</body>
+</html>

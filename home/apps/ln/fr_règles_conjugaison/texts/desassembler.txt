@@ -1,0 +1,191 @@
+# désassembler %[clVerbGroup|1]
+[-
+défaire (ce qui est assemblé) 
+retrouver la logique d'un programme informatique compilé. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désassembl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désassembl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désassembl%[m|é]|
+|ayant|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désassembl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désassembl%[m|e]|
+|tu|désassembl%[m|es]|
+|il|désassembl%[m|e]|
+|nous|désassembl%[m|ons]|
+|vous|désassembl%[m|ez]|
+|ils|désassembl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désassembl%[m|é]|
+|tu|as |désassembl%[m|é]|
+|il|a|désassembl%[m|é]|
+|nous|avons|désassembl%[m|é]|
+|vous|avez|désassembl%[m|é]|
+|ils|ont|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désassembl%[m|ais]|
+|tu|désassembl%[m|ais]|
+|il|désassembl%[m|ait]|
+|nous|désassembl%[m|ions]|
+|vous|désassembl%[m|iez]|
+|ils|désassembl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désassembl%[m|é]|
+|tu|avais|désassembl%[m|é]|
+|il|avait|désassembl%[m|é]|
+|nous|avions|désassembl%[m|é]|
+|vous|aviez|désassembl%[m|é]|
+|ils|avaient|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désassembl%[m|ai]|
+|tu|désassembl%[m|as]|
+|il|désassembl%[m|a]|
+|nous|désassembl%[m|âmes]|
+|vous|désassembl%[m|âtes]|
+|ils|désassembl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désassembl%[m|é]|
+|tu|eus|désassembl%[m|é]|
+|il|eut|désassembl%[m|é]|
+|nous|e&ucirc;mes|désassembl%[m|é]|
+|vous|e&ucirc;tes|désassembl%[m|é]|
+|ils|eurent|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désassembl%[m|erai]|
+|tu|désassembl%[m|eras]|
+|il|désassembl%[m|era]|
+|nous|désassembl%[m|erons]|
+|vous|désassembl%[m|erez]|
+|ils|désassembl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désassembl%[m|é]|
+|tu|auras|désassembl%[m|é]|
+|il|aura|désassembl%[m|é]|
+|nous|aurons|désassembl%[m|é]|
+|vous|aurez|désassembl%[m|é]|
+|ils|auront|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désassembl%[m|erais]|
+|tu|désassembl%[m|erais]|
+|il|désassembl%[m|erait]|
+|nous|désassembl%[m|erions]|
+|vous|désassembl%[m|eriez]|
+|ils|désassembl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désassembl%[m|é]|
+|tu|aurais|désassembl%[m|é]|
+|il|aurait|désassembl%[m|é]|
+|nous|aurions|désassembl%[m|é]|
+|vous|auriez|désassembl%[m|é]|
+|ils|auraient|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désassembl%[m|e]|
+|que|tu|désassembl%[m|es]|
+|qu'|il|désassembl%[m|e]|
+|que|nous|désassembl%[m|ions]|
+|que|vous|désassembl%[m|iez]|
+|qu'|ils|désassembl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désassembl%[m|é]|
+|que|tu|aies|désassembl%[m|é]|
+|qu'|il|ait|désassembl%[m|é]|
+|que|nous|ayons|désassembl%[m|é]|
+|que|vous|ayez|désassembl%[m|é]|
+|qu'|ils|aient|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désassembl%[m|asse]|
+|que|tu|désassembl%[m|asses]|
+|qu'|il|désassembl%[m|ât]|
+|que|nous|désassembl%[m|assions]|
+|que|vous|désassembl%[m|assiez]|
+|qu'|ils|désassembl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désassembl%[m|é]|
+|que|tu|eusses|désassembl%[m|é]|
+|qu'|il|eût|désassembl%[m|é]|
+|que|nous|eussions|désassembl%[m|é]|
+|que|vous|eussiez|désassembl%[m|é]|
+|qu'|ils|eussent|désassembl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désassembl%[m|e]|
+|désassembl%[m|ons]|
+|désassembl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désassembl%[m|é]|
+|ayons|désassembl%[m|é]|
+|ayez|désassembl%[m|é]|
+|]
+

@@ -1,0 +1,191 @@
+# arpenter %[clVerbGroup|1]
+[-
+mesurer la superficie d'un terrain. 
+parcourir à grandes enjambées. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|arpent%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|arpent%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|arpent%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||arpent%[m|é]|
+|ayant|arpent%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en arpent%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|arpent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|arpent%[m|e]|
+|tu|arpent%[m|es]|
+|il|arpent%[m|e]|
+|nous|arpent%[m|ons]|
+|vous|arpent%[m|ez]|
+|ils|arpent%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|arpent%[m|é]|
+|tu|as |arpent%[m|é]|
+|il|a|arpent%[m|é]|
+|nous|avons|arpent%[m|é]|
+|vous|avez|arpent%[m|é]|
+|ils|ont|arpent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|arpent%[m|ais]|
+|tu|arpent%[m|ais]|
+|il|arpent%[m|ait]|
+|nous|arpent%[m|ions]|
+|vous|arpent%[m|iez]|
+|ils|arpent%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|arpent%[m|é]|
+|tu|avais|arpent%[m|é]|
+|il|avait|arpent%[m|é]|
+|nous|avions|arpent%[m|é]|
+|vous|aviez|arpent%[m|é]|
+|ils|avaient|arpent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|arpent%[m|ai]|
+|tu|arpent%[m|as]|
+|il|arpent%[m|a]|
+|nous|arpent%[m|âmes]|
+|vous|arpent%[m|âtes]|
+|ils|arpent%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|arpent%[m|é]|
+|tu|eus|arpent%[m|é]|
+|il|eut|arpent%[m|é]|
+|nous|e&ucirc;mes|arpent%[m|é]|
+|vous|e&ucirc;tes|arpent%[m|é]|
+|ils|eurent|arpent%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|arpent%[m|erai]|
+|tu|arpent%[m|eras]|
+|il|arpent%[m|era]|
+|nous|arpent%[m|erons]|
+|vous|arpent%[m|erez]|
+|ils|arpent%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|arpent%[m|é]|
+|tu|auras|arpent%[m|é]|
+|il|aura|arpent%[m|é]|
+|nous|aurons|arpent%[m|é]|
+|vous|aurez|arpent%[m|é]|
+|ils|auront|arpent%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|arpent%[m|erais]|
+|tu|arpent%[m|erais]|
+|il|arpent%[m|erait]|
+|nous|arpent%[m|erions]|
+|vous|arpent%[m|eriez]|
+|ils|arpent%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|arpent%[m|é]|
+|tu|aurais|arpent%[m|é]|
+|il|aurait|arpent%[m|é]|
+|nous|aurions|arpent%[m|é]|
+|vous|auriez|arpent%[m|é]|
+|ils|auraient|arpent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|arpent%[m|e]|
+|que|tu|arpent%[m|es]|
+|qu'|il|arpent%[m|e]|
+|que|nous|arpent%[m|ions]|
+|que|vous|arpent%[m|iez]|
+|qu'|ils|arpent%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|arpent%[m|é]|
+|que|tu|aies|arpent%[m|é]|
+|qu'|il|ait|arpent%[m|é]|
+|que|nous|ayons|arpent%[m|é]|
+|que|vous|ayez|arpent%[m|é]|
+|qu'|ils|aient|arpent%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|arpent%[m|asse]|
+|que|tu|arpent%[m|asses]|
+|qu'|il|arpent%[m|ât]|
+|que|nous|arpent%[m|assions]|
+|que|vous|arpent%[m|assiez]|
+|qu'|ils|arpent%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|arpent%[m|é]|
+|que|tu|eusses|arpent%[m|é]|
+|qu'|il|eût|arpent%[m|é]|
+|que|nous|eussions|arpent%[m|é]|
+|que|vous|eussiez|arpent%[m|é]|
+|qu'|ils|eussent|arpent%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|arpent%[m|e]|
+|arpent%[m|ons]|
+|arpent%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|arpent%[m|é]|
+|ayons|arpent%[m|é]|
+|ayez|arpent%[m|é]|
+|]
+

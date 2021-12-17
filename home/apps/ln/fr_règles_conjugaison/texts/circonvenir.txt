@@ -1,0 +1,190 @@
+# circonvenir %[clVerbGroup|3]
+[-
+agir sur quelqu'un de telle manière que l'on parvienne à ses fins. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|circonv%[m|enir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|circonv%[m|enant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||circonv%[m|enu]|
+|ayant|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en circonv%[m|enant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|circonv%[m|iens]|
+|tu|circonv%[m|iens]|
+|il|circonv%[m|ient]|
+|nous|circonv%[m|enons]|
+|vous|circonv%[m|enez]|
+|ils|circonv%[m|iennent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|circonv%[m|enu]|
+|tu|as |circonv%[m|enu]|
+|il|a|circonv%[m|enu]|
+|nous|avons|circonv%[m|enu]|
+|vous|avez|circonv%[m|enu]|
+|ils|ont|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|circonv%[m|enais]|
+|tu|circonv%[m|enais]|
+|il|circonv%[m|enait]|
+|nous|circonv%[m|enions]|
+|vous|circonv%[m|eniez]|
+|ils|circonv%[m|enaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|circonv%[m|enu]|
+|tu|avais|circonv%[m|enu]|
+|il|avait|circonv%[m|enu]|
+|nous|avions|circonv%[m|enu]|
+|vous|aviez|circonv%[m|enu]|
+|ils|avaient|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|circonv%[m|ins]|
+|tu|circonv%[m|ins]|
+|il|circonv%[m|int]|
+|nous|circonv%[m|înmes]|
+|vous|circonv%[m|întes]|
+|ils|circonv%[m|inrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|circonv%[m|enu]|
+|tu|eus|circonv%[m|enu]|
+|il|eut|circonv%[m|enu]|
+|nous|e&ucirc;mes|circonv%[m|enu]|
+|vous|e&ucirc;tes|circonv%[m|enu]|
+|ils|eurent|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|circonv%[m|iendrai]|
+|tu|circonv%[m|iendras]|
+|il|circonv%[m|iendra]|
+|nous|circonv%[m|iendrons]|
+|vous|circonv%[m|iendrez]|
+|ils|circonv%[m|iendront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|circonv%[m|enu]|
+|tu|auras|circonv%[m|enu]|
+|il|aura|circonv%[m|enu]|
+|nous|aurons|circonv%[m|enu]|
+|vous|aurez|circonv%[m|enu]|
+|ils|auront|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|circonv%[m|iendrais]|
+|tu|circonv%[m|iendrais]|
+|il|circonv%[m|iendrait]|
+|nous|circonv%[m|iendrions]|
+|vous|circonv%[m|iendriez]|
+|ils|circonv%[m|iendraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|circonv%[m|enu]|
+|tu|aurais|circonv%[m|enu]|
+|il|aurait|circonv%[m|enu]|
+|nous|aurions|circonv%[m|enu]|
+|vous|auriez|circonv%[m|enu]|
+|ils|auraient|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|circonv%[m|ienne]|
+|que|tu|circonv%[m|iennes]|
+|qu'|il|circonv%[m|ienne]|
+|que|nous|circonv%[m|enions]|
+|que|vous|circonv%[m|eniez]|
+|qu'|ils|circonv%[m|iennent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|circonv%[m|enu]|
+|que|tu|aies|circonv%[m|enu]|
+|qu'|il|ait|circonv%[m|enu]|
+|que|nous|ayons|circonv%[m|enu]|
+|que|vous|ayez|circonv%[m|enu]|
+|qu'|ils|aient|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|circonv%[m|insse]|
+|que|tu|circonv%[m|insses]|
+|qu'|il|circonv%[m|înt]|
+|que|nous|circonv%[m|inssions]|
+|que|vous|circonv%[m|inssiez]|
+|qu'|ils|circonv%[m|inssent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|circonv%[m|enu]|
+|que|tu|eusses|circonv%[m|enu]|
+|qu'|il|eût|circonv%[m|enu]|
+|que|nous|eussions|circonv%[m|enu]|
+|que|vous|eussiez|circonv%[m|enu]|
+|qu'|ils|eussent|circonv%[m|enu]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|circonv%[m|iens]|
+|circonv%[m|enons]|
+|circonv%[m|enez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|circonv%[m|enu]|
+|ayons|circonv%[m|enu]|
+|ayez|circonv%[m|enu]|
+|]
+

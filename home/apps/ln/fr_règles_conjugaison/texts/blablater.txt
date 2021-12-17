@@ -1,0 +1,190 @@
+# blablater %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|blablat%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|blablat%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|blablat%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||blablat%[m|é]|
+|ayant|blablat%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en blablat%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|blablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|blablat%[m|e]|
+|tu|blablat%[m|es]|
+|il|blablat%[m|e]|
+|nous|blablat%[m|ons]|
+|vous|blablat%[m|ez]|
+|ils|blablat%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|blablat%[m|é]|
+|tu|as |blablat%[m|é]|
+|il|a|blablat%[m|é]|
+|nous|avons|blablat%[m|é]|
+|vous|avez|blablat%[m|é]|
+|ils|ont|blablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|blablat%[m|ais]|
+|tu|blablat%[m|ais]|
+|il|blablat%[m|ait]|
+|nous|blablat%[m|ions]|
+|vous|blablat%[m|iez]|
+|ils|blablat%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|blablat%[m|é]|
+|tu|avais|blablat%[m|é]|
+|il|avait|blablat%[m|é]|
+|nous|avions|blablat%[m|é]|
+|vous|aviez|blablat%[m|é]|
+|ils|avaient|blablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|blablat%[m|ai]|
+|tu|blablat%[m|as]|
+|il|blablat%[m|a]|
+|nous|blablat%[m|âmes]|
+|vous|blablat%[m|âtes]|
+|ils|blablat%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|blablat%[m|é]|
+|tu|eus|blablat%[m|é]|
+|il|eut|blablat%[m|é]|
+|nous|e&ucirc;mes|blablat%[m|é]|
+|vous|e&ucirc;tes|blablat%[m|é]|
+|ils|eurent|blablat%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|blablat%[m|erai]|
+|tu|blablat%[m|eras]|
+|il|blablat%[m|era]|
+|nous|blablat%[m|erons]|
+|vous|blablat%[m|erez]|
+|ils|blablat%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|blablat%[m|é]|
+|tu|auras|blablat%[m|é]|
+|il|aura|blablat%[m|é]|
+|nous|aurons|blablat%[m|é]|
+|vous|aurez|blablat%[m|é]|
+|ils|auront|blablat%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|blablat%[m|erais]|
+|tu|blablat%[m|erais]|
+|il|blablat%[m|erait]|
+|nous|blablat%[m|erions]|
+|vous|blablat%[m|eriez]|
+|ils|blablat%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|blablat%[m|é]|
+|tu|aurais|blablat%[m|é]|
+|il|aurait|blablat%[m|é]|
+|nous|aurions|blablat%[m|é]|
+|vous|auriez|blablat%[m|é]|
+|ils|auraient|blablat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|blablat%[m|e]|
+|que|tu|blablat%[m|es]|
+|qu'|il|blablat%[m|e]|
+|que|nous|blablat%[m|ions]|
+|que|vous|blablat%[m|iez]|
+|qu'|ils|blablat%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|blablat%[m|é]|
+|que|tu|aies|blablat%[m|é]|
+|qu'|il|ait|blablat%[m|é]|
+|que|nous|ayons|blablat%[m|é]|
+|que|vous|ayez|blablat%[m|é]|
+|qu'|ils|aient|blablat%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|blablat%[m|asse]|
+|que|tu|blablat%[m|asses]|
+|qu'|il|blablat%[m|ât]|
+|que|nous|blablat%[m|assions]|
+|que|vous|blablat%[m|assiez]|
+|qu'|ils|blablat%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|blablat%[m|é]|
+|que|tu|eusses|blablat%[m|é]|
+|qu'|il|eût|blablat%[m|é]|
+|que|nous|eussions|blablat%[m|é]|
+|que|vous|eussiez|blablat%[m|é]|
+|qu'|ils|eussent|blablat%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|blablat%[m|e]|
+|blablat%[m|ons]|
+|blablat%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|blablat%[m|é]|
+|ayons|blablat%[m|é]|
+|ayez|blablat%[m|é]|
+|]
+

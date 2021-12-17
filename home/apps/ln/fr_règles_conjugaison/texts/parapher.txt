@@ -1,0 +1,190 @@
+# parapher %[clVerbGroup|1]
+[-
+signer d'un paraphe. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|paraph%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|paraph%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|paraph%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||paraph%[m|é]|
+|ayant|paraph%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en paraph%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|paraph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|paraph%[m|e]|
+|tu|paraph%[m|es]|
+|il|paraph%[m|e]|
+|nous|paraph%[m|ons]|
+|vous|paraph%[m|ez]|
+|ils|paraph%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|paraph%[m|é]|
+|tu|as |paraph%[m|é]|
+|il|a|paraph%[m|é]|
+|nous|avons|paraph%[m|é]|
+|vous|avez|paraph%[m|é]|
+|ils|ont|paraph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|paraph%[m|ais]|
+|tu|paraph%[m|ais]|
+|il|paraph%[m|ait]|
+|nous|paraph%[m|ions]|
+|vous|paraph%[m|iez]|
+|ils|paraph%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|paraph%[m|é]|
+|tu|avais|paraph%[m|é]|
+|il|avait|paraph%[m|é]|
+|nous|avions|paraph%[m|é]|
+|vous|aviez|paraph%[m|é]|
+|ils|avaient|paraph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|paraph%[m|ai]|
+|tu|paraph%[m|as]|
+|il|paraph%[m|a]|
+|nous|paraph%[m|âmes]|
+|vous|paraph%[m|âtes]|
+|ils|paraph%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|paraph%[m|é]|
+|tu|eus|paraph%[m|é]|
+|il|eut|paraph%[m|é]|
+|nous|e&ucirc;mes|paraph%[m|é]|
+|vous|e&ucirc;tes|paraph%[m|é]|
+|ils|eurent|paraph%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|paraph%[m|erai]|
+|tu|paraph%[m|eras]|
+|il|paraph%[m|era]|
+|nous|paraph%[m|erons]|
+|vous|paraph%[m|erez]|
+|ils|paraph%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|paraph%[m|é]|
+|tu|auras|paraph%[m|é]|
+|il|aura|paraph%[m|é]|
+|nous|aurons|paraph%[m|é]|
+|vous|aurez|paraph%[m|é]|
+|ils|auront|paraph%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|paraph%[m|erais]|
+|tu|paraph%[m|erais]|
+|il|paraph%[m|erait]|
+|nous|paraph%[m|erions]|
+|vous|paraph%[m|eriez]|
+|ils|paraph%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|paraph%[m|é]|
+|tu|aurais|paraph%[m|é]|
+|il|aurait|paraph%[m|é]|
+|nous|aurions|paraph%[m|é]|
+|vous|auriez|paraph%[m|é]|
+|ils|auraient|paraph%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|paraph%[m|e]|
+|que|tu|paraph%[m|es]|
+|qu'|il|paraph%[m|e]|
+|que|nous|paraph%[m|ions]|
+|que|vous|paraph%[m|iez]|
+|qu'|ils|paraph%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|paraph%[m|é]|
+|que|tu|aies|paraph%[m|é]|
+|qu'|il|ait|paraph%[m|é]|
+|que|nous|ayons|paraph%[m|é]|
+|que|vous|ayez|paraph%[m|é]|
+|qu'|ils|aient|paraph%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|paraph%[m|asse]|
+|que|tu|paraph%[m|asses]|
+|qu'|il|paraph%[m|ât]|
+|que|nous|paraph%[m|assions]|
+|que|vous|paraph%[m|assiez]|
+|qu'|ils|paraph%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|paraph%[m|é]|
+|que|tu|eusses|paraph%[m|é]|
+|qu'|il|eût|paraph%[m|é]|
+|que|nous|eussions|paraph%[m|é]|
+|que|vous|eussiez|paraph%[m|é]|
+|qu'|ils|eussent|paraph%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|paraph%[m|e]|
+|paraph%[m|ons]|
+|paraph%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|paraph%[m|é]|
+|ayons|paraph%[m|é]|
+|ayez|paraph%[m|é]|
+|]
+

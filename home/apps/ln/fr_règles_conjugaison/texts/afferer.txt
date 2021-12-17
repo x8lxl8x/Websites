@@ -1,0 +1,190 @@
+# afférer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|aff%[m|é]r%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|affér%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|aff%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||affér%[m|é]|
+|ayant|affér%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en aff%[m|é]r%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|affér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|aff%[m|è]r%[m|e]|
+|tu|aff%[m|è]r%[m|es]|
+|il|aff%[m|è]r%[m|e]|
+|nous|aff%[m|é]r%[m|ons]|
+|vous|aff%[m|é]r%[m|ez]|
+|ils|aff%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|affér%[m|é]|
+|tu|as |affér%[m|é]|
+|il|a|affér%[m|é]|
+|nous|avons|affér%[m|é]|
+|vous|avez|affér%[m|é]|
+|ils|ont|affér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|aff%[m|é]r%[m|ais]|
+|tu|aff%[m|é]r%[m|ais]|
+|il|aff%[m|é]r%[m|ait]|
+|nous|aff%[m|é]r%[m|ions]|
+|vous|aff%[m|é]r%[m|iez]|
+|ils|aff%[m|é]r%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|affér%[m|é]|
+|tu|avais|affér%[m|é]|
+|il|avait|affér%[m|é]|
+|nous|avions|affér%[m|é]|
+|vous|aviez|affér%[m|é]|
+|ils|avaient|affér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|aff%[m|é]r%[m|ai]|
+|tu|aff%[m|é]r%[m|as]|
+|il|aff%[m|é]r%[m|a]|
+|nous|aff%[m|é]r%[m|âmes]|
+|vous|aff%[m|é]r%[m|âtes]|
+|ils|aff%[m|é]r%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|affér%[m|é]|
+|tu|eus|affér%[m|é]|
+|il|eut|affér%[m|é]|
+|nous|e&ucirc;mes|affér%[m|é]|
+|vous|e&ucirc;tes|affér%[m|é]|
+|ils|eurent|affér%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|aff%[m|é]r%[m|erai]|
+|tu|aff%[m|é]r%[m|eras]|
+|il|aff%[m|é]r%[m|era]|
+|nous|aff%[m|é]r%[m|erons]|
+|vous|aff%[m|é]r%[m|erez]|
+|ils|aff%[m|é]r%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|affér%[m|é]|
+|tu|auras|affér%[m|é]|
+|il|aura|affér%[m|é]|
+|nous|aurons|affér%[m|é]|
+|vous|aurez|affér%[m|é]|
+|ils|auront|affér%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|aff%[m|é]r%[m|erais]|
+|tu|aff%[m|é]r%[m|erais]|
+|il|aff%[m|é]r%[m|erait]|
+|nous|aff%[m|é]r%[m|erions]|
+|vous|aff%[m|é]r%[m|eriez]|
+|ils|aff%[m|é]r%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|affér%[m|é]|
+|tu|aurais|affér%[m|é]|
+|il|aurait|affér%[m|é]|
+|nous|aurions|affér%[m|é]|
+|vous|auriez|affér%[m|é]|
+|ils|auraient|affér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|aff%[m|è]r%[m|e]|
+|que|tu|aff%[m|è]r%[m|es]|
+|qu'|il|aff%[m|è]r%[m|e]|
+|que|nous|aff%[m|é]r%[m|ions]|
+|que|vous|aff%[m|é]r%[m|iez]|
+|qu'|ils|aff%[m|è]r%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|affér%[m|é]|
+|que|tu|aies|affér%[m|é]|
+|qu'|il|ait|affér%[m|é]|
+|que|nous|ayons|affér%[m|é]|
+|que|vous|ayez|affér%[m|é]|
+|qu'|ils|aient|affér%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|aff%[m|é]r%[m|asse]|
+|que|tu|aff%[m|é]r%[m|asses]|
+|qu'|il|aff%[m|é]r%[m|ât]|
+|que|nous|aff%[m|é]r%[m|assions]|
+|que|vous|aff%[m|é]r%[m|assiez]|
+|qu'|ils|aff%[m|é]r%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|affér%[m|é]|
+|que|tu|eusses|affér%[m|é]|
+|qu'|il|eût|affér%[m|é]|
+|que|nous|eussions|affér%[m|é]|
+|que|vous|eussiez|affér%[m|é]|
+|qu'|ils|eussent|affér%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|aff%[m|è]r%[m|e]|
+|aff%[m|é]r%[m|ons]|
+|aff%[m|é]r%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|affér%[m|é]|
+|ayons|affér%[m|é]|
+|ayez|affér%[m|é]|
+|]
+

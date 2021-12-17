@@ -1,0 +1,190 @@
+# énoncer %[clVerbGroup|1]
+[-
+exprimer par la parole ou par écrit. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|énon%[m|cer]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|énon%[m|cé]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|énon%[m|çant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||énon%[m|cé]|
+|ayant|énon%[m|cé]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en énon%[m|çant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|énon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|énon%[m|ce]|
+|tu|énon%[m|ces]|
+|il|énon%[m|ce]|
+|nous|énon%[m|çons]|
+|vous|énon%[m|cez]|
+|ils|énon%[m|cent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|énon%[m|cé]|
+|tu|as |énon%[m|cé]|
+|il|a|énon%[m|cé]|
+|nous|avons|énon%[m|cé]|
+|vous|avez|énon%[m|cé]|
+|ils|ont|énon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|énon%[m|çais]|
+|tu|énon%[m|çais]|
+|il|énon%[m|çait]|
+|nous|énon%[m|cions]|
+|vous|énon%[m|ciez]|
+|ils|énon%[m|çaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|énon%[m|cé]|
+|tu|avais|énon%[m|cé]|
+|il|avait|énon%[m|cé]|
+|nous|avions|énon%[m|cé]|
+|vous|aviez|énon%[m|cé]|
+|ils|avaient|énon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|énon%[m|çai]|
+|tu|énon%[m|ças]|
+|il|énon%[m|ça]|
+|nous|énon%[m|çâmes]|
+|vous|énon%[m|çâtes]|
+|ils|énon%[m|cèrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|énon%[m|cé]|
+|tu|eus|énon%[m|cé]|
+|il|eut|énon%[m|cé]|
+|nous|e&ucirc;mes|énon%[m|cé]|
+|vous|e&ucirc;tes|énon%[m|cé]|
+|ils|eurent|énon%[m|cé]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|énon%[m|cerai]|
+|tu|énon%[m|ceras]|
+|il|énon%[m|cera]|
+|nous|énon%[m|cerons]|
+|vous|énon%[m|cerez]|
+|ils|énon%[m|ceront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|énon%[m|cé]|
+|tu|auras|énon%[m|cé]|
+|il|aura|énon%[m|cé]|
+|nous|aurons|énon%[m|cé]|
+|vous|aurez|énon%[m|cé]|
+|ils|auront|énon%[m|cé]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|énon%[m|cerais]|
+|tu|énon%[m|cerais]|
+|il|énon%[m|cerait]|
+|nous|énon%[m|cerions]|
+|vous|énon%[m|ceriez]|
+|ils|énon%[m|ceraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|énon%[m|cé]|
+|tu|aurais|énon%[m|cé]|
+|il|aurait|énon%[m|cé]|
+|nous|aurions|énon%[m|cé]|
+|vous|auriez|énon%[m|cé]|
+|ils|auraient|énon%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|énon%[m|ce]|
+|que|tu|énon%[m|ces]|
+|qu'|il|énon%[m|ce]|
+|que|nous|énon%[m|cions]|
+|que|vous|énon%[m|ciez]|
+|qu'|ils|énon%[m|cent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|énon%[m|cé]|
+|que|tu|aies|énon%[m|cé]|
+|qu'|il|ait|énon%[m|cé]|
+|que|nous|ayons|énon%[m|cé]|
+|que|vous|ayez|énon%[m|cé]|
+|qu'|ils|aient|énon%[m|cé]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|énon%[m|çasse]|
+|que|tu|énon%[m|çasses]|
+|qu'|il|énon%[m|çât]|
+|que|nous|énon%[m|çassions]|
+|que|vous|énon%[m|çassiez]|
+|qu'|ils|énon%[m|çassent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|énon%[m|cé]|
+|que|tu|eusses|énon%[m|cé]|
+|qu'|il|eût|énon%[m|cé]|
+|que|nous|eussions|énon%[m|cé]|
+|que|vous|eussiez|énon%[m|cé]|
+|qu'|ils|eussent|énon%[m|cé]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|énon%[m|ce]|
+|énon%[m|çons]|
+|énon%[m|cez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|énon%[m|cé]|
+|ayons|énon%[m|cé]|
+|ayez|énon%[m|cé]|
+|]
+

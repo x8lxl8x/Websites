@@ -1,0 +1,190 @@
+# carter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|cart%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|cart%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|cart%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||cart%[m|é]|
+|ayant|cart%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en cart%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|cart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|cart%[m|e]|
+|tu|cart%[m|es]|
+|il|cart%[m|e]|
+|nous|cart%[m|ons]|
+|vous|cart%[m|ez]|
+|ils|cart%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|cart%[m|é]|
+|tu|as |cart%[m|é]|
+|il|a|cart%[m|é]|
+|nous|avons|cart%[m|é]|
+|vous|avez|cart%[m|é]|
+|ils|ont|cart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|cart%[m|ais]|
+|tu|cart%[m|ais]|
+|il|cart%[m|ait]|
+|nous|cart%[m|ions]|
+|vous|cart%[m|iez]|
+|ils|cart%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|cart%[m|é]|
+|tu|avais|cart%[m|é]|
+|il|avait|cart%[m|é]|
+|nous|avions|cart%[m|é]|
+|vous|aviez|cart%[m|é]|
+|ils|avaient|cart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|cart%[m|ai]|
+|tu|cart%[m|as]|
+|il|cart%[m|a]|
+|nous|cart%[m|âmes]|
+|vous|cart%[m|âtes]|
+|ils|cart%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|cart%[m|é]|
+|tu|eus|cart%[m|é]|
+|il|eut|cart%[m|é]|
+|nous|e&ucirc;mes|cart%[m|é]|
+|vous|e&ucirc;tes|cart%[m|é]|
+|ils|eurent|cart%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|cart%[m|erai]|
+|tu|cart%[m|eras]|
+|il|cart%[m|era]|
+|nous|cart%[m|erons]|
+|vous|cart%[m|erez]|
+|ils|cart%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|cart%[m|é]|
+|tu|auras|cart%[m|é]|
+|il|aura|cart%[m|é]|
+|nous|aurons|cart%[m|é]|
+|vous|aurez|cart%[m|é]|
+|ils|auront|cart%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|cart%[m|erais]|
+|tu|cart%[m|erais]|
+|il|cart%[m|erait]|
+|nous|cart%[m|erions]|
+|vous|cart%[m|eriez]|
+|ils|cart%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|cart%[m|é]|
+|tu|aurais|cart%[m|é]|
+|il|aurait|cart%[m|é]|
+|nous|aurions|cart%[m|é]|
+|vous|auriez|cart%[m|é]|
+|ils|auraient|cart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|cart%[m|e]|
+|que|tu|cart%[m|es]|
+|qu'|il|cart%[m|e]|
+|que|nous|cart%[m|ions]|
+|que|vous|cart%[m|iez]|
+|qu'|ils|cart%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|cart%[m|é]|
+|que|tu|aies|cart%[m|é]|
+|qu'|il|ait|cart%[m|é]|
+|que|nous|ayons|cart%[m|é]|
+|que|vous|ayez|cart%[m|é]|
+|qu'|ils|aient|cart%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|cart%[m|asse]|
+|que|tu|cart%[m|asses]|
+|qu'|il|cart%[m|ât]|
+|que|nous|cart%[m|assions]|
+|que|vous|cart%[m|assiez]|
+|qu'|ils|cart%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|cart%[m|é]|
+|que|tu|eusses|cart%[m|é]|
+|qu'|il|eût|cart%[m|é]|
+|que|nous|eussions|cart%[m|é]|
+|que|vous|eussiez|cart%[m|é]|
+|qu'|ils|eussent|cart%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|cart%[m|e]|
+|cart%[m|ons]|
+|cart%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|cart%[m|é]|
+|ayons|cart%[m|é]|
+|ayez|cart%[m|é]|
+|]
+

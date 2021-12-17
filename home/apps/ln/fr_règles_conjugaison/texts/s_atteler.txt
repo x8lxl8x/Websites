@@ -1,0 +1,190 @@
+# s'atteler %[clVerbGroup|1]
+[-
+attacher des bêtes à un véhicule pour qu'elles le tirent. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'attel%[m|]%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|attel%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'attel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|attel%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'attel%[m|]%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|attel%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|attel%[m|l]%[m|e]|
+|tu|t'|attel%[m|l]%[m|es]|
+|il|s'|attel%[m|l]%[m|e]|
+|nous|nous|attel%[m|]%[m|ons]|
+|vous|vous|attel%[m|]%[m|ez]|
+|ils|s'|attel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|attel%[m|é]|
+|tu|t'|es|attel%[m|é]|
+|il|s'|est|attel%[m|é]|
+|nous|nous|sommes|attel%[m|és]|
+|vous|vous|êtes|attel%[m|és]|
+|ils|se|sont|attel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|attel%[m|]%[m|ais]|
+|tu|t'|attel%[m|]%[m|ais]|
+|il|s'|attel%[m|]%[m|ait]|
+|nous|nous|attel%[m|]%[m|ions]|
+|vous|vous|attel%[m|]%[m|iez]|
+|ils|s'|attel%[m|]%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|attel%[m|é]|
+|tu|t'|étais|attel%[m|é]|
+|il|s'|était|attel%[m|é]|
+|nous|nous|étions|attel%[m|és]|
+|vous|vous|étiez|attel%[m|és]|
+|ils|s'|étaient|attel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|attel%[m|]%[m|ai]|
+|tu|t'|attel%[m|]%[m|as]|
+|il|s'|attel%[m|]%[m|a]|
+|nous|nous|attel%[m|]%[m|âmes]|
+|vous|vous|attel%[m|]%[m|âtes]|
+|ils|s'|attel%[m|]%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|attel%[m|é]|
+|tu|te|fus|attel%[m|é]|
+|il|se|fut|attel%[m|é]|
+|nous|nous|fûmes|attel%[m|és]|
+|vous|vous|fûtes|attel%[m|és]|
+|ils|se|furent|attel%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|attel%[m|l]%[m|erai]|
+|tu|t'|attel%[m|l]%[m|eras]|
+|il|s'|attel%[m|l]%[m|era]|
+|nous|nous|attel%[m|l]%[m|erons]|
+|vous|vous|attel%[m|l]%[m|erez]|
+|ils|s'|attel%[m|l]%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|attel%[m|é]|
+|tu|te|seras|attel%[m|é]|
+|il|se|sera|attel%[m|é]|
+|nous|nous|serons|attel%[m|és]|
+|vous|vous|serez|attel%[m|és]|
+|ils|se|seront|attel%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|attel%[m|l]%[m|erais]|
+|tu|t'|attel%[m|l]%[m|erais]|
+|il|s'|attel%[m|l]%[m|erait]|
+|nous|nous|attel%[m|l]%[m|erions]|
+|vous|vous|attel%[m|l]%[m|eriez]|
+|ils|s'|attel%[m|l]%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|attel%[m|é]|
+|tu|te|serais|attel%[m|é]|
+|il|se|serait|attel%[m|é]|
+|nous|nous|serions|attel%[m|és]|
+|vous|vous|seriez|attel%[m|és]|
+|ils|se|seraient|attel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|attel%[m|l]%[m|e]|
+|que|tu|t'|attel%[m|l]%[m|es]|
+|qu'|il|s'|attel%[m|l]%[m|e]|
+|que|nous|nous|attel%[m|]%[m|ions]|
+|que|vous|vous|attel%[m|]%[m|iez]|
+|qu'|ils|s'|attel%[m|l]%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|attel%[m|é]|
+|que|tu|te|sois|attel%[m|é]|
+|qu'|il|se|soit|attel%[m|é]|
+|que|nous|nous|soyons|attel%[m|és]|
+|que|vous|vous|soyez|attel%[m|és]|
+|qu'|ils|se|soient|attel%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|attel%[m|]%[m|asse]|
+|que|tu|t'|attel%[m|]%[m|asses]|
+|qu'|il|s'|attel%[m|]%[m|ât]|
+|que|nous|nous|attel%[m|]%[m|assions]|
+|que|vous|vous|attel%[m|]%[m|assiez]|
+|qu'|ils|s'|attel%[m|]%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|attel%[m|é]|
+|que|tu|te|fusses|attel%[m|é]|
+|qu'|il|se|fût|attel%[m|é]|
+|que|nous|nous|fussions|attel%[m|és]|
+|que|vous|vous|fussiez|attel%[m|és]|
+|qu'|ils|se|fussent|attel%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|attel%[m|l]%[m|e]-toi|
+|attel%[m|]%[m|ons]-nous|
+|attel%[m|]%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

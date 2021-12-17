@@ -1,0 +1,191 @@
+# verbaliser %[clVerbGroup|1]
+[-
+dresser un procès-verbal. 
+exprimer par la parole. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|verbalis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|verbalis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||verbalis%[m|é]|
+|ayant|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en verbalis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|verbalis%[m|e]|
+|tu|verbalis%[m|es]|
+|il|verbalis%[m|e]|
+|nous|verbalis%[m|ons]|
+|vous|verbalis%[m|ez]|
+|ils|verbalis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|verbalis%[m|é]|
+|tu|as |verbalis%[m|é]|
+|il|a|verbalis%[m|é]|
+|nous|avons|verbalis%[m|é]|
+|vous|avez|verbalis%[m|é]|
+|ils|ont|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|verbalis%[m|ais]|
+|tu|verbalis%[m|ais]|
+|il|verbalis%[m|ait]|
+|nous|verbalis%[m|ions]|
+|vous|verbalis%[m|iez]|
+|ils|verbalis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|verbalis%[m|é]|
+|tu|avais|verbalis%[m|é]|
+|il|avait|verbalis%[m|é]|
+|nous|avions|verbalis%[m|é]|
+|vous|aviez|verbalis%[m|é]|
+|ils|avaient|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|verbalis%[m|ai]|
+|tu|verbalis%[m|as]|
+|il|verbalis%[m|a]|
+|nous|verbalis%[m|âmes]|
+|vous|verbalis%[m|âtes]|
+|ils|verbalis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|verbalis%[m|é]|
+|tu|eus|verbalis%[m|é]|
+|il|eut|verbalis%[m|é]|
+|nous|e&ucirc;mes|verbalis%[m|é]|
+|vous|e&ucirc;tes|verbalis%[m|é]|
+|ils|eurent|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|verbalis%[m|erai]|
+|tu|verbalis%[m|eras]|
+|il|verbalis%[m|era]|
+|nous|verbalis%[m|erons]|
+|vous|verbalis%[m|erez]|
+|ils|verbalis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|verbalis%[m|é]|
+|tu|auras|verbalis%[m|é]|
+|il|aura|verbalis%[m|é]|
+|nous|aurons|verbalis%[m|é]|
+|vous|aurez|verbalis%[m|é]|
+|ils|auront|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|verbalis%[m|erais]|
+|tu|verbalis%[m|erais]|
+|il|verbalis%[m|erait]|
+|nous|verbalis%[m|erions]|
+|vous|verbalis%[m|eriez]|
+|ils|verbalis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|verbalis%[m|é]|
+|tu|aurais|verbalis%[m|é]|
+|il|aurait|verbalis%[m|é]|
+|nous|aurions|verbalis%[m|é]|
+|vous|auriez|verbalis%[m|é]|
+|ils|auraient|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|verbalis%[m|e]|
+|que|tu|verbalis%[m|es]|
+|qu'|il|verbalis%[m|e]|
+|que|nous|verbalis%[m|ions]|
+|que|vous|verbalis%[m|iez]|
+|qu'|ils|verbalis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|verbalis%[m|é]|
+|que|tu|aies|verbalis%[m|é]|
+|qu'|il|ait|verbalis%[m|é]|
+|que|nous|ayons|verbalis%[m|é]|
+|que|vous|ayez|verbalis%[m|é]|
+|qu'|ils|aient|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|verbalis%[m|asse]|
+|que|tu|verbalis%[m|asses]|
+|qu'|il|verbalis%[m|ât]|
+|que|nous|verbalis%[m|assions]|
+|que|vous|verbalis%[m|assiez]|
+|qu'|ils|verbalis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|verbalis%[m|é]|
+|que|tu|eusses|verbalis%[m|é]|
+|qu'|il|eût|verbalis%[m|é]|
+|que|nous|eussions|verbalis%[m|é]|
+|que|vous|eussiez|verbalis%[m|é]|
+|qu'|ils|eussent|verbalis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|verbalis%[m|e]|
+|verbalis%[m|ons]|
+|verbalis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|verbalis%[m|é]|
+|ayons|verbalis%[m|é]|
+|ayez|verbalis%[m|é]|
+|]
+

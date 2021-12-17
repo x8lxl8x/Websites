@@ -1,0 +1,190 @@
+# écaffer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|écaff%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|écaff%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|écaff%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||écaff%[m|é]|
+|ayant|écaff%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en écaff%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|écaff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|écaff%[m|e]|
+|tu|écaff%[m|es]|
+|il|écaff%[m|e]|
+|nous|écaff%[m|ons]|
+|vous|écaff%[m|ez]|
+|ils|écaff%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|écaff%[m|é]|
+|tu|as |écaff%[m|é]|
+|il|a|écaff%[m|é]|
+|nous|avons|écaff%[m|é]|
+|vous|avez|écaff%[m|é]|
+|ils|ont|écaff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|écaff%[m|ais]|
+|tu|écaff%[m|ais]|
+|il|écaff%[m|ait]|
+|nous|écaff%[m|ions]|
+|vous|écaff%[m|iez]|
+|ils|écaff%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|écaff%[m|é]|
+|tu|avais|écaff%[m|é]|
+|il|avait|écaff%[m|é]|
+|nous|avions|écaff%[m|é]|
+|vous|aviez|écaff%[m|é]|
+|ils|avaient|écaff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|écaff%[m|ai]|
+|tu|écaff%[m|as]|
+|il|écaff%[m|a]|
+|nous|écaff%[m|âmes]|
+|vous|écaff%[m|âtes]|
+|ils|écaff%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|écaff%[m|é]|
+|tu|eus|écaff%[m|é]|
+|il|eut|écaff%[m|é]|
+|nous|e&ucirc;mes|écaff%[m|é]|
+|vous|e&ucirc;tes|écaff%[m|é]|
+|ils|eurent|écaff%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|écaff%[m|erai]|
+|tu|écaff%[m|eras]|
+|il|écaff%[m|era]|
+|nous|écaff%[m|erons]|
+|vous|écaff%[m|erez]|
+|ils|écaff%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|écaff%[m|é]|
+|tu|auras|écaff%[m|é]|
+|il|aura|écaff%[m|é]|
+|nous|aurons|écaff%[m|é]|
+|vous|aurez|écaff%[m|é]|
+|ils|auront|écaff%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|écaff%[m|erais]|
+|tu|écaff%[m|erais]|
+|il|écaff%[m|erait]|
+|nous|écaff%[m|erions]|
+|vous|écaff%[m|eriez]|
+|ils|écaff%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|écaff%[m|é]|
+|tu|aurais|écaff%[m|é]|
+|il|aurait|écaff%[m|é]|
+|nous|aurions|écaff%[m|é]|
+|vous|auriez|écaff%[m|é]|
+|ils|auraient|écaff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|écaff%[m|e]|
+|que|tu|écaff%[m|es]|
+|qu'|il|écaff%[m|e]|
+|que|nous|écaff%[m|ions]|
+|que|vous|écaff%[m|iez]|
+|qu'|ils|écaff%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|écaff%[m|é]|
+|que|tu|aies|écaff%[m|é]|
+|qu'|il|ait|écaff%[m|é]|
+|que|nous|ayons|écaff%[m|é]|
+|que|vous|ayez|écaff%[m|é]|
+|qu'|ils|aient|écaff%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|écaff%[m|asse]|
+|que|tu|écaff%[m|asses]|
+|qu'|il|écaff%[m|ât]|
+|que|nous|écaff%[m|assions]|
+|que|vous|écaff%[m|assiez]|
+|qu'|ils|écaff%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|écaff%[m|é]|
+|que|tu|eusses|écaff%[m|é]|
+|qu'|il|eût|écaff%[m|é]|
+|que|nous|eussions|écaff%[m|é]|
+|que|vous|eussiez|écaff%[m|é]|
+|qu'|ils|eussent|écaff%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|écaff%[m|e]|
+|écaff%[m|ons]|
+|écaff%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|écaff%[m|é]|
+|ayons|écaff%[m|é]|
+|ayez|écaff%[m|é]|
+|]
+

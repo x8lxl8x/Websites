@@ -1,0 +1,190 @@
+# analyser %[clVerbGroup|1]
+[-
+décomposer un tout un ses éléments constitutifs. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|analys%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|analys%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|analys%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||analys%[m|é]|
+|ayant|analys%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en analys%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|analys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|analys%[m|e]|
+|tu|analys%[m|es]|
+|il|analys%[m|e]|
+|nous|analys%[m|ons]|
+|vous|analys%[m|ez]|
+|ils|analys%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|analys%[m|é]|
+|tu|as |analys%[m|é]|
+|il|a|analys%[m|é]|
+|nous|avons|analys%[m|é]|
+|vous|avez|analys%[m|é]|
+|ils|ont|analys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|analys%[m|ais]|
+|tu|analys%[m|ais]|
+|il|analys%[m|ait]|
+|nous|analys%[m|ions]|
+|vous|analys%[m|iez]|
+|ils|analys%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|analys%[m|é]|
+|tu|avais|analys%[m|é]|
+|il|avait|analys%[m|é]|
+|nous|avions|analys%[m|é]|
+|vous|aviez|analys%[m|é]|
+|ils|avaient|analys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|analys%[m|ai]|
+|tu|analys%[m|as]|
+|il|analys%[m|a]|
+|nous|analys%[m|âmes]|
+|vous|analys%[m|âtes]|
+|ils|analys%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|analys%[m|é]|
+|tu|eus|analys%[m|é]|
+|il|eut|analys%[m|é]|
+|nous|e&ucirc;mes|analys%[m|é]|
+|vous|e&ucirc;tes|analys%[m|é]|
+|ils|eurent|analys%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|analys%[m|erai]|
+|tu|analys%[m|eras]|
+|il|analys%[m|era]|
+|nous|analys%[m|erons]|
+|vous|analys%[m|erez]|
+|ils|analys%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|analys%[m|é]|
+|tu|auras|analys%[m|é]|
+|il|aura|analys%[m|é]|
+|nous|aurons|analys%[m|é]|
+|vous|aurez|analys%[m|é]|
+|ils|auront|analys%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|analys%[m|erais]|
+|tu|analys%[m|erais]|
+|il|analys%[m|erait]|
+|nous|analys%[m|erions]|
+|vous|analys%[m|eriez]|
+|ils|analys%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|analys%[m|é]|
+|tu|aurais|analys%[m|é]|
+|il|aurait|analys%[m|é]|
+|nous|aurions|analys%[m|é]|
+|vous|auriez|analys%[m|é]|
+|ils|auraient|analys%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|analys%[m|e]|
+|que|tu|analys%[m|es]|
+|qu'|il|analys%[m|e]|
+|que|nous|analys%[m|ions]|
+|que|vous|analys%[m|iez]|
+|qu'|ils|analys%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|analys%[m|é]|
+|que|tu|aies|analys%[m|é]|
+|qu'|il|ait|analys%[m|é]|
+|que|nous|ayons|analys%[m|é]|
+|que|vous|ayez|analys%[m|é]|
+|qu'|ils|aient|analys%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|analys%[m|asse]|
+|que|tu|analys%[m|asses]|
+|qu'|il|analys%[m|ât]|
+|que|nous|analys%[m|assions]|
+|que|vous|analys%[m|assiez]|
+|qu'|ils|analys%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|analys%[m|é]|
+|que|tu|eusses|analys%[m|é]|
+|qu'|il|eût|analys%[m|é]|
+|que|nous|eussions|analys%[m|é]|
+|que|vous|eussiez|analys%[m|é]|
+|qu'|ils|eussent|analys%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|analys%[m|e]|
+|analys%[m|ons]|
+|analys%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|analys%[m|é]|
+|ayons|analys%[m|é]|
+|ayez|analys%[m|é]|
+|]
+

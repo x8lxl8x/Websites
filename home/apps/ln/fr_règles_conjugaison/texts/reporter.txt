@@ -1,0 +1,190 @@
+# reporter %[clVerbGroup|1]
+[-
+porter une chose là où elle se trouvait auparavant. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|report%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|report%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|report%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||report%[m|é]|
+|ayant|report%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en report%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|report%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|report%[m|e]|
+|tu|report%[m|es]|
+|il|report%[m|e]|
+|nous|report%[m|ons]|
+|vous|report%[m|ez]|
+|ils|report%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|report%[m|é]|
+|tu|as |report%[m|é]|
+|il|a|report%[m|é]|
+|nous|avons|report%[m|é]|
+|vous|avez|report%[m|é]|
+|ils|ont|report%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|report%[m|ais]|
+|tu|report%[m|ais]|
+|il|report%[m|ait]|
+|nous|report%[m|ions]|
+|vous|report%[m|iez]|
+|ils|report%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|report%[m|é]|
+|tu|avais|report%[m|é]|
+|il|avait|report%[m|é]|
+|nous|avions|report%[m|é]|
+|vous|aviez|report%[m|é]|
+|ils|avaient|report%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|report%[m|ai]|
+|tu|report%[m|as]|
+|il|report%[m|a]|
+|nous|report%[m|âmes]|
+|vous|report%[m|âtes]|
+|ils|report%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|report%[m|é]|
+|tu|eus|report%[m|é]|
+|il|eut|report%[m|é]|
+|nous|e&ucirc;mes|report%[m|é]|
+|vous|e&ucirc;tes|report%[m|é]|
+|ils|eurent|report%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|report%[m|erai]|
+|tu|report%[m|eras]|
+|il|report%[m|era]|
+|nous|report%[m|erons]|
+|vous|report%[m|erez]|
+|ils|report%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|report%[m|é]|
+|tu|auras|report%[m|é]|
+|il|aura|report%[m|é]|
+|nous|aurons|report%[m|é]|
+|vous|aurez|report%[m|é]|
+|ils|auront|report%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|report%[m|erais]|
+|tu|report%[m|erais]|
+|il|report%[m|erait]|
+|nous|report%[m|erions]|
+|vous|report%[m|eriez]|
+|ils|report%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|report%[m|é]|
+|tu|aurais|report%[m|é]|
+|il|aurait|report%[m|é]|
+|nous|aurions|report%[m|é]|
+|vous|auriez|report%[m|é]|
+|ils|auraient|report%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|report%[m|e]|
+|que|tu|report%[m|es]|
+|qu'|il|report%[m|e]|
+|que|nous|report%[m|ions]|
+|que|vous|report%[m|iez]|
+|qu'|ils|report%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|report%[m|é]|
+|que|tu|aies|report%[m|é]|
+|qu'|il|ait|report%[m|é]|
+|que|nous|ayons|report%[m|é]|
+|que|vous|ayez|report%[m|é]|
+|qu'|ils|aient|report%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|report%[m|asse]|
+|que|tu|report%[m|asses]|
+|qu'|il|report%[m|ât]|
+|que|nous|report%[m|assions]|
+|que|vous|report%[m|assiez]|
+|qu'|ils|report%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|report%[m|é]|
+|que|tu|eusses|report%[m|é]|
+|qu'|il|eût|report%[m|é]|
+|que|nous|eussions|report%[m|é]|
+|que|vous|eussiez|report%[m|é]|
+|qu'|ils|eussent|report%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|report%[m|e]|
+|report%[m|ons]|
+|report%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|report%[m|é]|
+|ayons|report%[m|é]|
+|ayez|report%[m|é]|
+|]
+

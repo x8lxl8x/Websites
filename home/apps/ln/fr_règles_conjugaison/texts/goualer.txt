@@ -1,0 +1,190 @@
+# goualer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|goual%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|goual%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|goual%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||goual%[m|é]|
+|ayant|goual%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en goual%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|goual%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|goual%[m|e]|
+|tu|goual%[m|es]|
+|il|goual%[m|e]|
+|nous|goual%[m|ons]|
+|vous|goual%[m|ez]|
+|ils|goual%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|goual%[m|é]|
+|tu|as |goual%[m|é]|
+|il|a|goual%[m|é]|
+|nous|avons|goual%[m|é]|
+|vous|avez|goual%[m|é]|
+|ils|ont|goual%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|goual%[m|ais]|
+|tu|goual%[m|ais]|
+|il|goual%[m|ait]|
+|nous|goual%[m|ions]|
+|vous|goual%[m|iez]|
+|ils|goual%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|goual%[m|é]|
+|tu|avais|goual%[m|é]|
+|il|avait|goual%[m|é]|
+|nous|avions|goual%[m|é]|
+|vous|aviez|goual%[m|é]|
+|ils|avaient|goual%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|goual%[m|ai]|
+|tu|goual%[m|as]|
+|il|goual%[m|a]|
+|nous|goual%[m|âmes]|
+|vous|goual%[m|âtes]|
+|ils|goual%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|goual%[m|é]|
+|tu|eus|goual%[m|é]|
+|il|eut|goual%[m|é]|
+|nous|e&ucirc;mes|goual%[m|é]|
+|vous|e&ucirc;tes|goual%[m|é]|
+|ils|eurent|goual%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|goual%[m|erai]|
+|tu|goual%[m|eras]|
+|il|goual%[m|era]|
+|nous|goual%[m|erons]|
+|vous|goual%[m|erez]|
+|ils|goual%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|goual%[m|é]|
+|tu|auras|goual%[m|é]|
+|il|aura|goual%[m|é]|
+|nous|aurons|goual%[m|é]|
+|vous|aurez|goual%[m|é]|
+|ils|auront|goual%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|goual%[m|erais]|
+|tu|goual%[m|erais]|
+|il|goual%[m|erait]|
+|nous|goual%[m|erions]|
+|vous|goual%[m|eriez]|
+|ils|goual%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|goual%[m|é]|
+|tu|aurais|goual%[m|é]|
+|il|aurait|goual%[m|é]|
+|nous|aurions|goual%[m|é]|
+|vous|auriez|goual%[m|é]|
+|ils|auraient|goual%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|goual%[m|e]|
+|que|tu|goual%[m|es]|
+|qu'|il|goual%[m|e]|
+|que|nous|goual%[m|ions]|
+|que|vous|goual%[m|iez]|
+|qu'|ils|goual%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|goual%[m|é]|
+|que|tu|aies|goual%[m|é]|
+|qu'|il|ait|goual%[m|é]|
+|que|nous|ayons|goual%[m|é]|
+|que|vous|ayez|goual%[m|é]|
+|qu'|ils|aient|goual%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|goual%[m|asse]|
+|que|tu|goual%[m|asses]|
+|qu'|il|goual%[m|ât]|
+|que|nous|goual%[m|assions]|
+|que|vous|goual%[m|assiez]|
+|qu'|ils|goual%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|goual%[m|é]|
+|que|tu|eusses|goual%[m|é]|
+|qu'|il|eût|goual%[m|é]|
+|que|nous|eussions|goual%[m|é]|
+|que|vous|eussiez|goual%[m|é]|
+|qu'|ils|eussent|goual%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|goual%[m|e]|
+|goual%[m|ons]|
+|goual%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|goual%[m|é]|
+|ayons|goual%[m|é]|
+|ayez|goual%[m|é]|
+|]
+

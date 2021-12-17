@@ -1,0 +1,190 @@
+# prester %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|prest%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|prest%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|prest%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||prest%[m|é]|
+|ayant|prest%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en prest%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|prest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|prest%[m|e]|
+|tu|prest%[m|es]|
+|il|prest%[m|e]|
+|nous|prest%[m|ons]|
+|vous|prest%[m|ez]|
+|ils|prest%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|prest%[m|é]|
+|tu|as |prest%[m|é]|
+|il|a|prest%[m|é]|
+|nous|avons|prest%[m|é]|
+|vous|avez|prest%[m|é]|
+|ils|ont|prest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|prest%[m|ais]|
+|tu|prest%[m|ais]|
+|il|prest%[m|ait]|
+|nous|prest%[m|ions]|
+|vous|prest%[m|iez]|
+|ils|prest%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|prest%[m|é]|
+|tu|avais|prest%[m|é]|
+|il|avait|prest%[m|é]|
+|nous|avions|prest%[m|é]|
+|vous|aviez|prest%[m|é]|
+|ils|avaient|prest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|prest%[m|ai]|
+|tu|prest%[m|as]|
+|il|prest%[m|a]|
+|nous|prest%[m|âmes]|
+|vous|prest%[m|âtes]|
+|ils|prest%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|prest%[m|é]|
+|tu|eus|prest%[m|é]|
+|il|eut|prest%[m|é]|
+|nous|e&ucirc;mes|prest%[m|é]|
+|vous|e&ucirc;tes|prest%[m|é]|
+|ils|eurent|prest%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|prest%[m|erai]|
+|tu|prest%[m|eras]|
+|il|prest%[m|era]|
+|nous|prest%[m|erons]|
+|vous|prest%[m|erez]|
+|ils|prest%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|prest%[m|é]|
+|tu|auras|prest%[m|é]|
+|il|aura|prest%[m|é]|
+|nous|aurons|prest%[m|é]|
+|vous|aurez|prest%[m|é]|
+|ils|auront|prest%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|prest%[m|erais]|
+|tu|prest%[m|erais]|
+|il|prest%[m|erait]|
+|nous|prest%[m|erions]|
+|vous|prest%[m|eriez]|
+|ils|prest%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|prest%[m|é]|
+|tu|aurais|prest%[m|é]|
+|il|aurait|prest%[m|é]|
+|nous|aurions|prest%[m|é]|
+|vous|auriez|prest%[m|é]|
+|ils|auraient|prest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|prest%[m|e]|
+|que|tu|prest%[m|es]|
+|qu'|il|prest%[m|e]|
+|que|nous|prest%[m|ions]|
+|que|vous|prest%[m|iez]|
+|qu'|ils|prest%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|prest%[m|é]|
+|que|tu|aies|prest%[m|é]|
+|qu'|il|ait|prest%[m|é]|
+|que|nous|ayons|prest%[m|é]|
+|que|vous|ayez|prest%[m|é]|
+|qu'|ils|aient|prest%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|prest%[m|asse]|
+|que|tu|prest%[m|asses]|
+|qu'|il|prest%[m|ât]|
+|que|nous|prest%[m|assions]|
+|que|vous|prest%[m|assiez]|
+|qu'|ils|prest%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|prest%[m|é]|
+|que|tu|eusses|prest%[m|é]|
+|qu'|il|eût|prest%[m|é]|
+|que|nous|eussions|prest%[m|é]|
+|que|vous|eussiez|prest%[m|é]|
+|qu'|ils|eussent|prest%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|prest%[m|e]|
+|prest%[m|ons]|
+|prest%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|prest%[m|é]|
+|ayons|prest%[m|é]|
+|ayez|prest%[m|é]|
+|]
+

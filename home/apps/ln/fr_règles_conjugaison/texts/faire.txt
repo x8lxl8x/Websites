@@ -1,0 +1,195 @@
+# faire %[clVerbGroup|3]
+[-
+se tourmenter, s'alarmer de quelque chose, se faire du souci pour quelqu'un
+provoquer, être à l'origine de, causer quelque chose
+présenter un aspect particulier
+produire un effet particulier
+être dans un certain état, pour l'atmosphère (ex. faire chaud, faire beau)
+créer, donner forme à
+rendre une femme enceinte
+-]
+
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|f%[m|aire]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|f%[m|ait]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|f%[m|aisant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||f%[m|ait]|
+|ayant|f%[m|ait]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en f%[m|aisant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|f%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|f%[m|ais]|
+|tu|f%[m|ais]|
+|il|f%[m|ait]|
+|nous|f%[m|aisons]|
+|vous|f%[m|aites]|
+|ils|f%[m|ont]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|f%[m|ait]|
+|tu|as |f%[m|ait]|
+|il|a|f%[m|ait]|
+|nous|avons|f%[m|ait]|
+|vous|avez|f%[m|ait]|
+|ils|ont|f%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|f%[m|aisais]|
+|tu|f%[m|aisais]|
+|il|f%[m|aisait]|
+|nous|f%[m|aisions]|
+|vous|f%[m|aisiez]|
+|ils|f%[m|aisaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|f%[m|ait]|
+|tu|avais|f%[m|ait]|
+|il|avait|f%[m|ait]|
+|nous|avions|f%[m|ait]|
+|vous|aviez|f%[m|ait]|
+|ils|avaient|f%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|f%[m|is]|
+|tu|f%[m|is]|
+|il|f%[m|it]|
+|nous|f%[m|îmes]|
+|vous|f%[m|îtes]|
+|ils|f%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|f%[m|ait]|
+|tu|eus|f%[m|ait]|
+|il|eut|f%[m|ait]|
+|nous|e&ucirc;mes|f%[m|ait]|
+|vous|e&ucirc;tes|f%[m|ait]|
+|ils|eurent|f%[m|ait]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|f%[m|erai]|
+|tu|f%[m|eras]|
+|il|f%[m|era]|
+|nous|f%[m|erons]|
+|vous|f%[m|erez]|
+|ils|f%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|f%[m|ait]|
+|tu|auras|f%[m|ait]|
+|il|aura|f%[m|ait]|
+|nous|aurons|f%[m|ait]|
+|vous|aurez|f%[m|ait]|
+|ils|auront|f%[m|ait]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|f%[m|erais]|
+|tu|f%[m|erais]|
+|il|f%[m|erait]|
+|nous|f%[m|erions]|
+|vous|f%[m|eriez]|
+|ils|f%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|f%[m|ait]|
+|tu|aurais|f%[m|ait]|
+|il|aurait|f%[m|ait]|
+|nous|aurions|f%[m|ait]|
+|vous|auriez|f%[m|ait]|
+|ils|auraient|f%[m|ait]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|f%[m|asse]|
+|que|tu|f%[m|asses]|
+|qu'|il|f%[m|asse]|
+|que|nous|f%[m|assions]|
+|que|vous|f%[m|assiez]|
+|qu'|ils|f%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|f%[m|ait]|
+|que|tu|aies|f%[m|ait]|
+|qu'|il|ait|f%[m|ait]|
+|que|nous|ayons|f%[m|ait]|
+|que|vous|ayez|f%[m|ait]|
+|qu'|ils|aient|f%[m|ait]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|f%[m|isse]|
+|que|tu|f%[m|isses]|
+|qu'|il|f%[m|ît]|
+|que|nous|f%[m|issions]|
+|que|vous|f%[m|issiez]|
+|qu'|ils|f%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|f%[m|ait]|
+|que|tu|eusses|f%[m|ait]|
+|qu'|il|eût|f%[m|ait]|
+|que|nous|eussions|f%[m|ait]|
+|que|vous|eussiez|f%[m|ait]|
+|qu'|ils|eussent|f%[m|ait]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|f%[m|ais]|
+|f%[m|aisons]|
+|f%[m|aites]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|f%[m|ait]|
+|ayons|f%[m|ait]|
+|ayez|f%[m|ait]|
+|]

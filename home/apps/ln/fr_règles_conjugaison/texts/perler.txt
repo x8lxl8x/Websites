@@ -1,0 +1,190 @@
+# perler %[clVerbGroup|1]
+[-
+se présente sous forme de petites gouttes liquides. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|perl%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|perl%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|perl%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||perl%[m|é]|
+|ayant|perl%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en perl%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|perl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|perl%[m|e]|
+|tu|perl%[m|es]|
+|il|perl%[m|e]|
+|nous|perl%[m|ons]|
+|vous|perl%[m|ez]|
+|ils|perl%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|perl%[m|é]|
+|tu|as |perl%[m|é]|
+|il|a|perl%[m|é]|
+|nous|avons|perl%[m|é]|
+|vous|avez|perl%[m|é]|
+|ils|ont|perl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|perl%[m|ais]|
+|tu|perl%[m|ais]|
+|il|perl%[m|ait]|
+|nous|perl%[m|ions]|
+|vous|perl%[m|iez]|
+|ils|perl%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|perl%[m|é]|
+|tu|avais|perl%[m|é]|
+|il|avait|perl%[m|é]|
+|nous|avions|perl%[m|é]|
+|vous|aviez|perl%[m|é]|
+|ils|avaient|perl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|perl%[m|ai]|
+|tu|perl%[m|as]|
+|il|perl%[m|a]|
+|nous|perl%[m|âmes]|
+|vous|perl%[m|âtes]|
+|ils|perl%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|perl%[m|é]|
+|tu|eus|perl%[m|é]|
+|il|eut|perl%[m|é]|
+|nous|e&ucirc;mes|perl%[m|é]|
+|vous|e&ucirc;tes|perl%[m|é]|
+|ils|eurent|perl%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|perl%[m|erai]|
+|tu|perl%[m|eras]|
+|il|perl%[m|era]|
+|nous|perl%[m|erons]|
+|vous|perl%[m|erez]|
+|ils|perl%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|perl%[m|é]|
+|tu|auras|perl%[m|é]|
+|il|aura|perl%[m|é]|
+|nous|aurons|perl%[m|é]|
+|vous|aurez|perl%[m|é]|
+|ils|auront|perl%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|perl%[m|erais]|
+|tu|perl%[m|erais]|
+|il|perl%[m|erait]|
+|nous|perl%[m|erions]|
+|vous|perl%[m|eriez]|
+|ils|perl%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|perl%[m|é]|
+|tu|aurais|perl%[m|é]|
+|il|aurait|perl%[m|é]|
+|nous|aurions|perl%[m|é]|
+|vous|auriez|perl%[m|é]|
+|ils|auraient|perl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|perl%[m|e]|
+|que|tu|perl%[m|es]|
+|qu'|il|perl%[m|e]|
+|que|nous|perl%[m|ions]|
+|que|vous|perl%[m|iez]|
+|qu'|ils|perl%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|perl%[m|é]|
+|que|tu|aies|perl%[m|é]|
+|qu'|il|ait|perl%[m|é]|
+|que|nous|ayons|perl%[m|é]|
+|que|vous|ayez|perl%[m|é]|
+|qu'|ils|aient|perl%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|perl%[m|asse]|
+|que|tu|perl%[m|asses]|
+|qu'|il|perl%[m|ât]|
+|que|nous|perl%[m|assions]|
+|que|vous|perl%[m|assiez]|
+|qu'|ils|perl%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|perl%[m|é]|
+|que|tu|eusses|perl%[m|é]|
+|qu'|il|eût|perl%[m|é]|
+|que|nous|eussions|perl%[m|é]|
+|que|vous|eussiez|perl%[m|é]|
+|qu'|ils|eussent|perl%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|perl%[m|e]|
+|perl%[m|ons]|
+|perl%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|perl%[m|é]|
+|ayons|perl%[m|é]|
+|ayez|perl%[m|é]|
+|]
+

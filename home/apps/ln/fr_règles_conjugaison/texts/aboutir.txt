@@ -1,0 +1,190 @@
+# aboutir %[clVerbGroup|2]
+[-
+avoir un résultat, généralement favorable (ex. les recherches ont enfin abouti) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|about%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|about%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|about%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||about%[m|i]|
+|ayant|about%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en about%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|about%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|about%[m|is]|
+|tu|about%[m|is]|
+|il|about%[m|it]|
+|nous|about%[m|issons]|
+|vous|about%[m|issez]|
+|ils|about%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|about%[m|i]|
+|tu|as |about%[m|i]|
+|il|a|about%[m|i]|
+|nous|avons|about%[m|i]|
+|vous|avez|about%[m|i]|
+|ils|ont|about%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|about%[m|issais]|
+|tu|about%[m|issais]|
+|il|about%[m|issait]|
+|nous|about%[m|issions]|
+|vous|about%[m|issiez]|
+|ils|about%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|about%[m|i]|
+|tu|avais|about%[m|i]|
+|il|avait|about%[m|i]|
+|nous|avions|about%[m|i]|
+|vous|aviez|about%[m|i]|
+|ils|avaient|about%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|about%[m|is]|
+|tu|about%[m|is]|
+|il|about%[m|it]|
+|nous|about%[m|îmes]|
+|vous|about%[m|îtes]|
+|ils|about%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|about%[m|i]|
+|tu|eus|about%[m|i]|
+|il|eut|about%[m|i]|
+|nous|e&ucirc;mes|about%[m|i]|
+|vous|e&ucirc;tes|about%[m|i]|
+|ils|eurent|about%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|about%[m|irai]|
+|tu|about%[m|iras]|
+|il|about%[m|ira]|
+|nous|about%[m|irons]|
+|vous|about%[m|irez]|
+|ils|about%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|about%[m|i]|
+|tu|auras|about%[m|i]|
+|il|aura|about%[m|i]|
+|nous|aurons|about%[m|i]|
+|vous|aurez|about%[m|i]|
+|ils|auront|about%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|about%[m|irais]|
+|tu|about%[m|irais]|
+|il|about%[m|irait]|
+|nous|about%[m|irions]|
+|vous|about%[m|iriez]|
+|ils|about%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|about%[m|i]|
+|tu|aurais|about%[m|i]|
+|il|aurait|about%[m|i]|
+|nous|aurions|about%[m|i]|
+|vous|auriez|about%[m|i]|
+|ils|auraient|about%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|about%[m|isse]|
+|que|tu|about%[m|isses]|
+|qu'|il|about%[m|isse]|
+|que|nous|about%[m|issions]|
+|que|vous|about%[m|issiez]|
+|qu'|ils|about%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|about%[m|i]|
+|que|tu|aies|about%[m|i]|
+|qu'|il|ait|about%[m|i]|
+|que|nous|ayons|about%[m|i]|
+|que|vous|ayez|about%[m|i]|
+|qu'|ils|aient|about%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|about%[m|isse]|
+|que|tu|about%[m|isses]|
+|qu'|il|about%[m|ît]|
+|que|nous|about%[m|issions]|
+|que|vous|about%[m|issiez]|
+|qu'|ils|about%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|about%[m|i]|
+|que|tu|eusses|about%[m|i]|
+|qu'|il|eût|about%[m|i]|
+|que|nous|eussions|about%[m|i]|
+|que|vous|eussiez|about%[m|i]|
+|qu'|ils|eussent|about%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|about%[m|is]|
+|about%[m|issons]|
+|about%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|about%[m|i]|
+|ayons|about%[m|i]|
+|ayez|about%[m|i]|
+|]
+

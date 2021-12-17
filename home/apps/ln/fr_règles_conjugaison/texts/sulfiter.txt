@@ -1,0 +1,190 @@
+# sulfiter %[clVerbGroup|1]
+[-
+procéder au sulfitage. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|sulfit%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|sulfit%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||sulfit%[m|é]|
+|ayant|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en sulfit%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|sulfit%[m|e]|
+|tu|sulfit%[m|es]|
+|il|sulfit%[m|e]|
+|nous|sulfit%[m|ons]|
+|vous|sulfit%[m|ez]|
+|ils|sulfit%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|sulfit%[m|é]|
+|tu|as |sulfit%[m|é]|
+|il|a|sulfit%[m|é]|
+|nous|avons|sulfit%[m|é]|
+|vous|avez|sulfit%[m|é]|
+|ils|ont|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|sulfit%[m|ais]|
+|tu|sulfit%[m|ais]|
+|il|sulfit%[m|ait]|
+|nous|sulfit%[m|ions]|
+|vous|sulfit%[m|iez]|
+|ils|sulfit%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|sulfit%[m|é]|
+|tu|avais|sulfit%[m|é]|
+|il|avait|sulfit%[m|é]|
+|nous|avions|sulfit%[m|é]|
+|vous|aviez|sulfit%[m|é]|
+|ils|avaient|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|sulfit%[m|ai]|
+|tu|sulfit%[m|as]|
+|il|sulfit%[m|a]|
+|nous|sulfit%[m|âmes]|
+|vous|sulfit%[m|âtes]|
+|ils|sulfit%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|sulfit%[m|é]|
+|tu|eus|sulfit%[m|é]|
+|il|eut|sulfit%[m|é]|
+|nous|e&ucirc;mes|sulfit%[m|é]|
+|vous|e&ucirc;tes|sulfit%[m|é]|
+|ils|eurent|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|sulfit%[m|erai]|
+|tu|sulfit%[m|eras]|
+|il|sulfit%[m|era]|
+|nous|sulfit%[m|erons]|
+|vous|sulfit%[m|erez]|
+|ils|sulfit%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|sulfit%[m|é]|
+|tu|auras|sulfit%[m|é]|
+|il|aura|sulfit%[m|é]|
+|nous|aurons|sulfit%[m|é]|
+|vous|aurez|sulfit%[m|é]|
+|ils|auront|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|sulfit%[m|erais]|
+|tu|sulfit%[m|erais]|
+|il|sulfit%[m|erait]|
+|nous|sulfit%[m|erions]|
+|vous|sulfit%[m|eriez]|
+|ils|sulfit%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|sulfit%[m|é]|
+|tu|aurais|sulfit%[m|é]|
+|il|aurait|sulfit%[m|é]|
+|nous|aurions|sulfit%[m|é]|
+|vous|auriez|sulfit%[m|é]|
+|ils|auraient|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|sulfit%[m|e]|
+|que|tu|sulfit%[m|es]|
+|qu'|il|sulfit%[m|e]|
+|que|nous|sulfit%[m|ions]|
+|que|vous|sulfit%[m|iez]|
+|qu'|ils|sulfit%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|sulfit%[m|é]|
+|que|tu|aies|sulfit%[m|é]|
+|qu'|il|ait|sulfit%[m|é]|
+|que|nous|ayons|sulfit%[m|é]|
+|que|vous|ayez|sulfit%[m|é]|
+|qu'|ils|aient|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|sulfit%[m|asse]|
+|que|tu|sulfit%[m|asses]|
+|qu'|il|sulfit%[m|ât]|
+|que|nous|sulfit%[m|assions]|
+|que|vous|sulfit%[m|assiez]|
+|qu'|ils|sulfit%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|sulfit%[m|é]|
+|que|tu|eusses|sulfit%[m|é]|
+|qu'|il|eût|sulfit%[m|é]|
+|que|nous|eussions|sulfit%[m|é]|
+|que|vous|eussiez|sulfit%[m|é]|
+|qu'|ils|eussent|sulfit%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|sulfit%[m|e]|
+|sulfit%[m|ons]|
+|sulfit%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|sulfit%[m|é]|
+|ayons|sulfit%[m|é]|
+|ayez|sulfit%[m|é]|
+|]
+

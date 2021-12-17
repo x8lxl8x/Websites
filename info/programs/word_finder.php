@@ -1,0 +1,1 @@
+../../home/programs/word_finder.php

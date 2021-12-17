@@ -1,0 +1,190 @@
+# conjecturer %[clVerbGroup|1]
+[-
+supposer, présumer. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|conjectur%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|conjectur%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||conjectur%[m|é]|
+|ayant|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en conjectur%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|conjectur%[m|e]|
+|tu|conjectur%[m|es]|
+|il|conjectur%[m|e]|
+|nous|conjectur%[m|ons]|
+|vous|conjectur%[m|ez]|
+|ils|conjectur%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|conjectur%[m|é]|
+|tu|as |conjectur%[m|é]|
+|il|a|conjectur%[m|é]|
+|nous|avons|conjectur%[m|é]|
+|vous|avez|conjectur%[m|é]|
+|ils|ont|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|conjectur%[m|ais]|
+|tu|conjectur%[m|ais]|
+|il|conjectur%[m|ait]|
+|nous|conjectur%[m|ions]|
+|vous|conjectur%[m|iez]|
+|ils|conjectur%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|conjectur%[m|é]|
+|tu|avais|conjectur%[m|é]|
+|il|avait|conjectur%[m|é]|
+|nous|avions|conjectur%[m|é]|
+|vous|aviez|conjectur%[m|é]|
+|ils|avaient|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|conjectur%[m|ai]|
+|tu|conjectur%[m|as]|
+|il|conjectur%[m|a]|
+|nous|conjectur%[m|âmes]|
+|vous|conjectur%[m|âtes]|
+|ils|conjectur%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|conjectur%[m|é]|
+|tu|eus|conjectur%[m|é]|
+|il|eut|conjectur%[m|é]|
+|nous|e&ucirc;mes|conjectur%[m|é]|
+|vous|e&ucirc;tes|conjectur%[m|é]|
+|ils|eurent|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|conjectur%[m|erai]|
+|tu|conjectur%[m|eras]|
+|il|conjectur%[m|era]|
+|nous|conjectur%[m|erons]|
+|vous|conjectur%[m|erez]|
+|ils|conjectur%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|conjectur%[m|é]|
+|tu|auras|conjectur%[m|é]|
+|il|aura|conjectur%[m|é]|
+|nous|aurons|conjectur%[m|é]|
+|vous|aurez|conjectur%[m|é]|
+|ils|auront|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|conjectur%[m|erais]|
+|tu|conjectur%[m|erais]|
+|il|conjectur%[m|erait]|
+|nous|conjectur%[m|erions]|
+|vous|conjectur%[m|eriez]|
+|ils|conjectur%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|conjectur%[m|é]|
+|tu|aurais|conjectur%[m|é]|
+|il|aurait|conjectur%[m|é]|
+|nous|aurions|conjectur%[m|é]|
+|vous|auriez|conjectur%[m|é]|
+|ils|auraient|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|conjectur%[m|e]|
+|que|tu|conjectur%[m|es]|
+|qu'|il|conjectur%[m|e]|
+|que|nous|conjectur%[m|ions]|
+|que|vous|conjectur%[m|iez]|
+|qu'|ils|conjectur%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|conjectur%[m|é]|
+|que|tu|aies|conjectur%[m|é]|
+|qu'|il|ait|conjectur%[m|é]|
+|que|nous|ayons|conjectur%[m|é]|
+|que|vous|ayez|conjectur%[m|é]|
+|qu'|ils|aient|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|conjectur%[m|asse]|
+|que|tu|conjectur%[m|asses]|
+|qu'|il|conjectur%[m|ât]|
+|que|nous|conjectur%[m|assions]|
+|que|vous|conjectur%[m|assiez]|
+|qu'|ils|conjectur%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|conjectur%[m|é]|
+|que|tu|eusses|conjectur%[m|é]|
+|qu'|il|eût|conjectur%[m|é]|
+|que|nous|eussions|conjectur%[m|é]|
+|que|vous|eussiez|conjectur%[m|é]|
+|qu'|ils|eussent|conjectur%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|conjectur%[m|e]|
+|conjectur%[m|ons]|
+|conjectur%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|conjectur%[m|é]|
+|ayons|conjectur%[m|é]|
+|ayez|conjectur%[m|é]|
+|]
+

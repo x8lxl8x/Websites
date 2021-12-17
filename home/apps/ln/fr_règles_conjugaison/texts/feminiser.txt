@@ -1,0 +1,191 @@
+# féminiser %[clVerbGroup|1]
+[-
+donner un caractère féminin, efféminé. 
+mettre un mot au genre féminin. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|féminis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|féminis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|féminis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||féminis%[m|é]|
+|ayant|féminis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en féminis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|féminis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|féminis%[m|e]|
+|tu|féminis%[m|es]|
+|il|féminis%[m|e]|
+|nous|féminis%[m|ons]|
+|vous|féminis%[m|ez]|
+|ils|féminis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|féminis%[m|é]|
+|tu|as |féminis%[m|é]|
+|il|a|féminis%[m|é]|
+|nous|avons|féminis%[m|é]|
+|vous|avez|féminis%[m|é]|
+|ils|ont|féminis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|féminis%[m|ais]|
+|tu|féminis%[m|ais]|
+|il|féminis%[m|ait]|
+|nous|féminis%[m|ions]|
+|vous|féminis%[m|iez]|
+|ils|féminis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|féminis%[m|é]|
+|tu|avais|féminis%[m|é]|
+|il|avait|féminis%[m|é]|
+|nous|avions|féminis%[m|é]|
+|vous|aviez|féminis%[m|é]|
+|ils|avaient|féminis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|féminis%[m|ai]|
+|tu|féminis%[m|as]|
+|il|féminis%[m|a]|
+|nous|féminis%[m|âmes]|
+|vous|féminis%[m|âtes]|
+|ils|féminis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|féminis%[m|é]|
+|tu|eus|féminis%[m|é]|
+|il|eut|féminis%[m|é]|
+|nous|e&ucirc;mes|féminis%[m|é]|
+|vous|e&ucirc;tes|féminis%[m|é]|
+|ils|eurent|féminis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|féminis%[m|erai]|
+|tu|féminis%[m|eras]|
+|il|féminis%[m|era]|
+|nous|féminis%[m|erons]|
+|vous|féminis%[m|erez]|
+|ils|féminis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|féminis%[m|é]|
+|tu|auras|féminis%[m|é]|
+|il|aura|féminis%[m|é]|
+|nous|aurons|féminis%[m|é]|
+|vous|aurez|féminis%[m|é]|
+|ils|auront|féminis%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|féminis%[m|erais]|
+|tu|féminis%[m|erais]|
+|il|féminis%[m|erait]|
+|nous|féminis%[m|erions]|
+|vous|féminis%[m|eriez]|
+|ils|féminis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|féminis%[m|é]|
+|tu|aurais|féminis%[m|é]|
+|il|aurait|féminis%[m|é]|
+|nous|aurions|féminis%[m|é]|
+|vous|auriez|féminis%[m|é]|
+|ils|auraient|féminis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|féminis%[m|e]|
+|que|tu|féminis%[m|es]|
+|qu'|il|féminis%[m|e]|
+|que|nous|féminis%[m|ions]|
+|que|vous|féminis%[m|iez]|
+|qu'|ils|féminis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|féminis%[m|é]|
+|que|tu|aies|féminis%[m|é]|
+|qu'|il|ait|féminis%[m|é]|
+|que|nous|ayons|féminis%[m|é]|
+|que|vous|ayez|féminis%[m|é]|
+|qu'|ils|aient|féminis%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|féminis%[m|asse]|
+|que|tu|féminis%[m|asses]|
+|qu'|il|féminis%[m|ât]|
+|que|nous|féminis%[m|assions]|
+|que|vous|féminis%[m|assiez]|
+|qu'|ils|féminis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|féminis%[m|é]|
+|que|tu|eusses|féminis%[m|é]|
+|qu'|il|eût|féminis%[m|é]|
+|que|nous|eussions|féminis%[m|é]|
+|que|vous|eussiez|féminis%[m|é]|
+|qu'|ils|eussent|féminis%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|féminis%[m|e]|
+|féminis%[m|ons]|
+|féminis%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|féminis%[m|é]|
+|ayons|féminis%[m|é]|
+|ayez|féminis%[m|é]|
+|]
+

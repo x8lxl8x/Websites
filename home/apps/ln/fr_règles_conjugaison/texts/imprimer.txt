@@ -1,0 +1,192 @@
+# imprimer %[clVerbGroup|1]
+[-
+reproduire sur un support des caractères, dessins par un procédé d'imprimerie. 
+par extension : éditer, publier. 
+transmettre, donner (ex. imprimer un élan à un projet) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|imprim%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|imprim%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|imprim%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||imprim%[m|é]|
+|ayant|imprim%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en imprim%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|imprim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|imprim%[m|e]|
+|tu|imprim%[m|es]|
+|il|imprim%[m|e]|
+|nous|imprim%[m|ons]|
+|vous|imprim%[m|ez]|
+|ils|imprim%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|imprim%[m|é]|
+|tu|as |imprim%[m|é]|
+|il|a|imprim%[m|é]|
+|nous|avons|imprim%[m|é]|
+|vous|avez|imprim%[m|é]|
+|ils|ont|imprim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|imprim%[m|ais]|
+|tu|imprim%[m|ais]|
+|il|imprim%[m|ait]|
+|nous|imprim%[m|ions]|
+|vous|imprim%[m|iez]|
+|ils|imprim%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|imprim%[m|é]|
+|tu|avais|imprim%[m|é]|
+|il|avait|imprim%[m|é]|
+|nous|avions|imprim%[m|é]|
+|vous|aviez|imprim%[m|é]|
+|ils|avaient|imprim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|imprim%[m|ai]|
+|tu|imprim%[m|as]|
+|il|imprim%[m|a]|
+|nous|imprim%[m|âmes]|
+|vous|imprim%[m|âtes]|
+|ils|imprim%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|imprim%[m|é]|
+|tu|eus|imprim%[m|é]|
+|il|eut|imprim%[m|é]|
+|nous|e&ucirc;mes|imprim%[m|é]|
+|vous|e&ucirc;tes|imprim%[m|é]|
+|ils|eurent|imprim%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|imprim%[m|erai]|
+|tu|imprim%[m|eras]|
+|il|imprim%[m|era]|
+|nous|imprim%[m|erons]|
+|vous|imprim%[m|erez]|
+|ils|imprim%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|imprim%[m|é]|
+|tu|auras|imprim%[m|é]|
+|il|aura|imprim%[m|é]|
+|nous|aurons|imprim%[m|é]|
+|vous|aurez|imprim%[m|é]|
+|ils|auront|imprim%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|imprim%[m|erais]|
+|tu|imprim%[m|erais]|
+|il|imprim%[m|erait]|
+|nous|imprim%[m|erions]|
+|vous|imprim%[m|eriez]|
+|ils|imprim%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|imprim%[m|é]|
+|tu|aurais|imprim%[m|é]|
+|il|aurait|imprim%[m|é]|
+|nous|aurions|imprim%[m|é]|
+|vous|auriez|imprim%[m|é]|
+|ils|auraient|imprim%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|imprim%[m|e]|
+|que|tu|imprim%[m|es]|
+|qu'|il|imprim%[m|e]|
+|que|nous|imprim%[m|ions]|
+|que|vous|imprim%[m|iez]|
+|qu'|ils|imprim%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|imprim%[m|é]|
+|que|tu|aies|imprim%[m|é]|
+|qu'|il|ait|imprim%[m|é]|
+|que|nous|ayons|imprim%[m|é]|
+|que|vous|ayez|imprim%[m|é]|
+|qu'|ils|aient|imprim%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|imprim%[m|asse]|
+|que|tu|imprim%[m|asses]|
+|qu'|il|imprim%[m|ât]|
+|que|nous|imprim%[m|assions]|
+|que|vous|imprim%[m|assiez]|
+|qu'|ils|imprim%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|imprim%[m|é]|
+|que|tu|eusses|imprim%[m|é]|
+|qu'|il|eût|imprim%[m|é]|
+|que|nous|eussions|imprim%[m|é]|
+|que|vous|eussiez|imprim%[m|é]|
+|qu'|ils|eussent|imprim%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|imprim%[m|e]|
+|imprim%[m|ons]|
+|imprim%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|imprim%[m|é]|
+|ayons|imprim%[m|é]|
+|ayez|imprim%[m|é]|
+|]
+

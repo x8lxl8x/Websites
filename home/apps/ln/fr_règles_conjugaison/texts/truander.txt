@@ -1,0 +1,190 @@
+# truander %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|truand%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|truand%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|truand%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||truand%[m|é]|
+|ayant|truand%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en truand%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|truand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|truand%[m|e]|
+|tu|truand%[m|es]|
+|il|truand%[m|e]|
+|nous|truand%[m|ons]|
+|vous|truand%[m|ez]|
+|ils|truand%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|truand%[m|é]|
+|tu|as |truand%[m|é]|
+|il|a|truand%[m|é]|
+|nous|avons|truand%[m|é]|
+|vous|avez|truand%[m|é]|
+|ils|ont|truand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|truand%[m|ais]|
+|tu|truand%[m|ais]|
+|il|truand%[m|ait]|
+|nous|truand%[m|ions]|
+|vous|truand%[m|iez]|
+|ils|truand%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|truand%[m|é]|
+|tu|avais|truand%[m|é]|
+|il|avait|truand%[m|é]|
+|nous|avions|truand%[m|é]|
+|vous|aviez|truand%[m|é]|
+|ils|avaient|truand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|truand%[m|ai]|
+|tu|truand%[m|as]|
+|il|truand%[m|a]|
+|nous|truand%[m|âmes]|
+|vous|truand%[m|âtes]|
+|ils|truand%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|truand%[m|é]|
+|tu|eus|truand%[m|é]|
+|il|eut|truand%[m|é]|
+|nous|e&ucirc;mes|truand%[m|é]|
+|vous|e&ucirc;tes|truand%[m|é]|
+|ils|eurent|truand%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|truand%[m|erai]|
+|tu|truand%[m|eras]|
+|il|truand%[m|era]|
+|nous|truand%[m|erons]|
+|vous|truand%[m|erez]|
+|ils|truand%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|truand%[m|é]|
+|tu|auras|truand%[m|é]|
+|il|aura|truand%[m|é]|
+|nous|aurons|truand%[m|é]|
+|vous|aurez|truand%[m|é]|
+|ils|auront|truand%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|truand%[m|erais]|
+|tu|truand%[m|erais]|
+|il|truand%[m|erait]|
+|nous|truand%[m|erions]|
+|vous|truand%[m|eriez]|
+|ils|truand%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|truand%[m|é]|
+|tu|aurais|truand%[m|é]|
+|il|aurait|truand%[m|é]|
+|nous|aurions|truand%[m|é]|
+|vous|auriez|truand%[m|é]|
+|ils|auraient|truand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|truand%[m|e]|
+|que|tu|truand%[m|es]|
+|qu'|il|truand%[m|e]|
+|que|nous|truand%[m|ions]|
+|que|vous|truand%[m|iez]|
+|qu'|ils|truand%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|truand%[m|é]|
+|que|tu|aies|truand%[m|é]|
+|qu'|il|ait|truand%[m|é]|
+|que|nous|ayons|truand%[m|é]|
+|que|vous|ayez|truand%[m|é]|
+|qu'|ils|aient|truand%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|truand%[m|asse]|
+|que|tu|truand%[m|asses]|
+|qu'|il|truand%[m|ât]|
+|que|nous|truand%[m|assions]|
+|que|vous|truand%[m|assiez]|
+|qu'|ils|truand%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|truand%[m|é]|
+|que|tu|eusses|truand%[m|é]|
+|qu'|il|eût|truand%[m|é]|
+|que|nous|eussions|truand%[m|é]|
+|que|vous|eussiez|truand%[m|é]|
+|qu'|ils|eussent|truand%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|truand%[m|e]|
+|truand%[m|ons]|
+|truand%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|truand%[m|é]|
+|ayons|truand%[m|é]|
+|ayez|truand%[m|é]|
+|]
+

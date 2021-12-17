@@ -1,0 +1,190 @@
+# pétarder %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pétard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pétard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pétard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pétard%[m|é]|
+|ayant|pétard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pétard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pétard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pétard%[m|e]|
+|tu|pétard%[m|es]|
+|il|pétard%[m|e]|
+|nous|pétard%[m|ons]|
+|vous|pétard%[m|ez]|
+|ils|pétard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pétard%[m|é]|
+|tu|as |pétard%[m|é]|
+|il|a|pétard%[m|é]|
+|nous|avons|pétard%[m|é]|
+|vous|avez|pétard%[m|é]|
+|ils|ont|pétard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pétard%[m|ais]|
+|tu|pétard%[m|ais]|
+|il|pétard%[m|ait]|
+|nous|pétard%[m|ions]|
+|vous|pétard%[m|iez]|
+|ils|pétard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pétard%[m|é]|
+|tu|avais|pétard%[m|é]|
+|il|avait|pétard%[m|é]|
+|nous|avions|pétard%[m|é]|
+|vous|aviez|pétard%[m|é]|
+|ils|avaient|pétard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pétard%[m|ai]|
+|tu|pétard%[m|as]|
+|il|pétard%[m|a]|
+|nous|pétard%[m|âmes]|
+|vous|pétard%[m|âtes]|
+|ils|pétard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pétard%[m|é]|
+|tu|eus|pétard%[m|é]|
+|il|eut|pétard%[m|é]|
+|nous|e&ucirc;mes|pétard%[m|é]|
+|vous|e&ucirc;tes|pétard%[m|é]|
+|ils|eurent|pétard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pétard%[m|erai]|
+|tu|pétard%[m|eras]|
+|il|pétard%[m|era]|
+|nous|pétard%[m|erons]|
+|vous|pétard%[m|erez]|
+|ils|pétard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pétard%[m|é]|
+|tu|auras|pétard%[m|é]|
+|il|aura|pétard%[m|é]|
+|nous|aurons|pétard%[m|é]|
+|vous|aurez|pétard%[m|é]|
+|ils|auront|pétard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pétard%[m|erais]|
+|tu|pétard%[m|erais]|
+|il|pétard%[m|erait]|
+|nous|pétard%[m|erions]|
+|vous|pétard%[m|eriez]|
+|ils|pétard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pétard%[m|é]|
+|tu|aurais|pétard%[m|é]|
+|il|aurait|pétard%[m|é]|
+|nous|aurions|pétard%[m|é]|
+|vous|auriez|pétard%[m|é]|
+|ils|auraient|pétard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pétard%[m|e]|
+|que|tu|pétard%[m|es]|
+|qu'|il|pétard%[m|e]|
+|que|nous|pétard%[m|ions]|
+|que|vous|pétard%[m|iez]|
+|qu'|ils|pétard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pétard%[m|é]|
+|que|tu|aies|pétard%[m|é]|
+|qu'|il|ait|pétard%[m|é]|
+|que|nous|ayons|pétard%[m|é]|
+|que|vous|ayez|pétard%[m|é]|
+|qu'|ils|aient|pétard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pétard%[m|asse]|
+|que|tu|pétard%[m|asses]|
+|qu'|il|pétard%[m|ât]|
+|que|nous|pétard%[m|assions]|
+|que|vous|pétard%[m|assiez]|
+|qu'|ils|pétard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pétard%[m|é]|
+|que|tu|eusses|pétard%[m|é]|
+|qu'|il|eût|pétard%[m|é]|
+|que|nous|eussions|pétard%[m|é]|
+|que|vous|eussiez|pétard%[m|é]|
+|qu'|ils|eussent|pétard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pétard%[m|e]|
+|pétard%[m|ons]|
+|pétard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pétard%[m|é]|
+|ayons|pétard%[m|é]|
+|ayez|pétard%[m|é]|
+|]
+

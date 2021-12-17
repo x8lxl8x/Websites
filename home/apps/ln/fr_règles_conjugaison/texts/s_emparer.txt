@@ -1,0 +1,190 @@
+# s'emparer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'empar%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|empar%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'empar%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|empar%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'empar%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|empar%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|empar%[m|e]|
+|tu|t'|empar%[m|es]|
+|il|s'|empar%[m|e]|
+|nous|nous|empar%[m|ons]|
+|vous|vous|empar%[m|ez]|
+|ils|s'|empar%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|empar%[m|é]|
+|tu|t'|es|empar%[m|é]|
+|il|s'|est|empar%[m|é]|
+|nous|nous|sommes|empar%[m|és]|
+|vous|vous|êtes|empar%[m|és]|
+|ils|se|sont|empar%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|empar%[m|ais]|
+|tu|t'|empar%[m|ais]|
+|il|s'|empar%[m|ait]|
+|nous|nous|empar%[m|ions]|
+|vous|vous|empar%[m|iez]|
+|ils|s'|empar%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|empar%[m|é]|
+|tu|t'|étais|empar%[m|é]|
+|il|s'|était|empar%[m|é]|
+|nous|nous|étions|empar%[m|és]|
+|vous|vous|étiez|empar%[m|és]|
+|ils|s'|étaient|empar%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|empar%[m|ai]|
+|tu|t'|empar%[m|as]|
+|il|s'|empar%[m|a]|
+|nous|nous|empar%[m|âmes]|
+|vous|vous|empar%[m|âtes]|
+|ils|s'|empar%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|empar%[m|é]|
+|tu|te|fus|empar%[m|é]|
+|il|se|fut|empar%[m|é]|
+|nous|nous|fûmes|empar%[m|és]|
+|vous|vous|fûtes|empar%[m|és]|
+|ils|se|furent|empar%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|empar%[m|erai]|
+|tu|t'|empar%[m|eras]|
+|il|s'|empar%[m|era]|
+|nous|nous|empar%[m|erons]|
+|vous|vous|empar%[m|erez]|
+|ils|s'|empar%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|empar%[m|é]|
+|tu|te|seras|empar%[m|é]|
+|il|se|sera|empar%[m|é]|
+|nous|nous|serons|empar%[m|és]|
+|vous|vous|serez|empar%[m|és]|
+|ils|se|seront|empar%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|empar%[m|erais]|
+|tu|t'|empar%[m|erais]|
+|il|s'|empar%[m|erait]|
+|nous|nous|empar%[m|erions]|
+|vous|vous|empar%[m|eriez]|
+|ils|s'|empar%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|empar%[m|é]|
+|tu|te|serais|empar%[m|é]|
+|il|se|serait|empar%[m|é]|
+|nous|nous|serions|empar%[m|és]|
+|vous|vous|seriez|empar%[m|és]|
+|ils|se|seraient|empar%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|empar%[m|e]|
+|que|tu|t'|empar%[m|es]|
+|qu'|il|s'|empar%[m|e]|
+|que|nous|nous|empar%[m|ions]|
+|que|vous|vous|empar%[m|iez]|
+|qu'|ils|s'|empar%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|empar%[m|é]|
+|que|tu|te|sois|empar%[m|é]|
+|qu'|il|se|soit|empar%[m|é]|
+|que|nous|nous|soyons|empar%[m|és]|
+|que|vous|vous|soyez|empar%[m|és]|
+|qu'|ils|se|soient|empar%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|empar%[m|asse]|
+|que|tu|t'|empar%[m|asses]|
+|qu'|il|s'|empar%[m|ât]|
+|que|nous|nous|empar%[m|assions]|
+|que|vous|vous|empar%[m|assiez]|
+|qu'|ils|s'|empar%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|empar%[m|é]|
+|que|tu|te|fusses|empar%[m|é]|
+|qu'|il|se|fût|empar%[m|é]|
+|que|nous|nous|fussions|empar%[m|és]|
+|que|vous|vous|fussiez|empar%[m|és]|
+|qu'|ils|se|fussent|empar%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|empar%[m|e]-toi|
+|empar%[m|ons]-nous|
+|empar%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

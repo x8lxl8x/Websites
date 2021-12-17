@@ -1,0 +1,190 @@
+# superfinir %[clVerbGroup|2]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|superfin%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|superfin%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|superfin%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||superfin%[m|i]|
+|ayant|superfin%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en superfin%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|superfin%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|superfin%[m|is]|
+|tu|superfin%[m|is]|
+|il|superfin%[m|it]|
+|nous|superfin%[m|issons]|
+|vous|superfin%[m|issez]|
+|ils|superfin%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|superfin%[m|i]|
+|tu|as |superfin%[m|i]|
+|il|a|superfin%[m|i]|
+|nous|avons|superfin%[m|i]|
+|vous|avez|superfin%[m|i]|
+|ils|ont|superfin%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|superfin%[m|issais]|
+|tu|superfin%[m|issais]|
+|il|superfin%[m|issait]|
+|nous|superfin%[m|issions]|
+|vous|superfin%[m|issiez]|
+|ils|superfin%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|superfin%[m|i]|
+|tu|avais|superfin%[m|i]|
+|il|avait|superfin%[m|i]|
+|nous|avions|superfin%[m|i]|
+|vous|aviez|superfin%[m|i]|
+|ils|avaient|superfin%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|superfin%[m|is]|
+|tu|superfin%[m|is]|
+|il|superfin%[m|it]|
+|nous|superfin%[m|îmes]|
+|vous|superfin%[m|îtes]|
+|ils|superfin%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|superfin%[m|i]|
+|tu|eus|superfin%[m|i]|
+|il|eut|superfin%[m|i]|
+|nous|e&ucirc;mes|superfin%[m|i]|
+|vous|e&ucirc;tes|superfin%[m|i]|
+|ils|eurent|superfin%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|superfin%[m|irai]|
+|tu|superfin%[m|iras]|
+|il|superfin%[m|ira]|
+|nous|superfin%[m|irons]|
+|vous|superfin%[m|irez]|
+|ils|superfin%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|superfin%[m|i]|
+|tu|auras|superfin%[m|i]|
+|il|aura|superfin%[m|i]|
+|nous|aurons|superfin%[m|i]|
+|vous|aurez|superfin%[m|i]|
+|ils|auront|superfin%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|superfin%[m|irais]|
+|tu|superfin%[m|irais]|
+|il|superfin%[m|irait]|
+|nous|superfin%[m|irions]|
+|vous|superfin%[m|iriez]|
+|ils|superfin%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|superfin%[m|i]|
+|tu|aurais|superfin%[m|i]|
+|il|aurait|superfin%[m|i]|
+|nous|aurions|superfin%[m|i]|
+|vous|auriez|superfin%[m|i]|
+|ils|auraient|superfin%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|superfin%[m|isse]|
+|que|tu|superfin%[m|isses]|
+|qu'|il|superfin%[m|isse]|
+|que|nous|superfin%[m|issions]|
+|que|vous|superfin%[m|issiez]|
+|qu'|ils|superfin%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|superfin%[m|i]|
+|que|tu|aies|superfin%[m|i]|
+|qu'|il|ait|superfin%[m|i]|
+|que|nous|ayons|superfin%[m|i]|
+|que|vous|ayez|superfin%[m|i]|
+|qu'|ils|aient|superfin%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|superfin%[m|isse]|
+|que|tu|superfin%[m|isses]|
+|qu'|il|superfin%[m|ît]|
+|que|nous|superfin%[m|issions]|
+|que|vous|superfin%[m|issiez]|
+|qu'|ils|superfin%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|superfin%[m|i]|
+|que|tu|eusses|superfin%[m|i]|
+|qu'|il|eût|superfin%[m|i]|
+|que|nous|eussions|superfin%[m|i]|
+|que|vous|eussiez|superfin%[m|i]|
+|qu'|ils|eussent|superfin%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|superfin%[m|is]|
+|superfin%[m|issons]|
+|superfin%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|superfin%[m|i]|
+|ayons|superfin%[m|i]|
+|ayez|superfin%[m|i]|
+|]
+

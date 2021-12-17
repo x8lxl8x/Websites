@@ -1,0 +1,192 @@
+# exclure %[clVerbGroup|3]
+[-
+rejeter d'un groupe. 
+retirer d'un ensemble. 
+éliminer, empêcher, rendre incompatible. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|excl%[m|ure]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|excl%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|excl%[m|uant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||excl%[m|u]|
+|ayant|excl%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en excl%[m|uant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|excl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|j'|excl%[m|us]|
+|tu|excl%[m|us]|
+|il|excl%[m|ut]|
+|nous|excl%[m|uons]|
+|vous|excl%[m|uez]|
+|ils|excl%[m|uent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|excl%[m|u]|
+|tu|as |excl%[m|u]|
+|il|a|excl%[m|u]|
+|nous|avons|excl%[m|u]|
+|vous|avez|excl%[m|u]|
+|ils|ont|excl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|j'|excl%[m|uais]|
+|tu|excl%[m|uais]|
+|il|excl%[m|uait]|
+|nous|excl%[m|uions]|
+|vous|excl%[m|uiez]|
+|ils|excl%[m|uaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|excl%[m|u]|
+|tu|avais|excl%[m|u]|
+|il|avait|excl%[m|u]|
+|nous|avions|excl%[m|u]|
+|vous|aviez|excl%[m|u]|
+|ils|avaient|excl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|j'|excl%[m|us]|
+|tu|excl%[m|us]|
+|il|excl%[m|ut]|
+|nous|excl%[m|ûmes]|
+|vous|excl%[m|ûtes]|
+|ils|excl%[m|urent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|excl%[m|u]|
+|tu|eus|excl%[m|u]|
+|il|eut|excl%[m|u]|
+|nous|e&ucirc;mes|excl%[m|u]|
+|vous|e&ucirc;tes|excl%[m|u]|
+|ils|eurent|excl%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|j'|excl%[m|urai]|
+|tu|excl%[m|uras]|
+|il|excl%[m|ura]|
+|nous|excl%[m|urons]|
+|vous|excl%[m|urez]|
+|ils|excl%[m|uront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|excl%[m|u]|
+|tu|auras|excl%[m|u]|
+|il|aura|excl%[m|u]|
+|nous|aurons|excl%[m|u]|
+|vous|aurez|excl%[m|u]|
+|ils|auront|excl%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|j'|excl%[m|urais]|
+|tu|excl%[m|urais]|
+|il|excl%[m|urait]|
+|nous|excl%[m|urions]|
+|vous|excl%[m|uriez]|
+|ils|excl%[m|uraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|excl%[m|u]|
+|tu|aurais|excl%[m|u]|
+|il|aurait|excl%[m|u]|
+|nous|aurions|excl%[m|u]|
+|vous|auriez|excl%[m|u]|
+|ils|auraient|excl%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|j'|excl%[m|ue]|
+|que|tu|excl%[m|ues]|
+|qu'|il|excl%[m|ue]|
+|que|nous|excl%[m|uions]|
+|que|vous|excl%[m|uiez]|
+|qu'|ils|excl%[m|uent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|excl%[m|u]|
+|que|tu|aies|excl%[m|u]|
+|qu'|il|ait|excl%[m|u]|
+|que|nous|ayons|excl%[m|u]|
+|que|vous|ayez|excl%[m|u]|
+|qu'|ils|aient|excl%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|j'|excl%[m|usse]|
+|que|tu|excl%[m|usses]|
+|qu'|il|excl%[m|ût]|
+|que|nous|excl%[m|ussions]|
+|que|vous|excl%[m|ussiez]|
+|qu'|ils|excl%[m|ussent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|excl%[m|u]|
+|que|tu|eusses|excl%[m|u]|
+|qu'|il|eût|excl%[m|u]|
+|que|nous|eussions|excl%[m|u]|
+|que|vous|eussiez|excl%[m|u]|
+|qu'|ils|eussent|excl%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|excl%[m|us]|
+|excl%[m|uons]|
+|excl%[m|uez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|excl%[m|u]|
+|ayons|excl%[m|u]|
+|ayez|excl%[m|u]|
+|]
+

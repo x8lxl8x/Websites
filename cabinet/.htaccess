@@ -1,0 +1,27 @@
+ErrorDocument 403 /403.shtml
+
+Options All -Indexes
+
+Order Deny,Allow
+Allow from all
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+#<IfModule mod_headers.c>
+#  <FilesMatch ".(js|css|xml|gz|html|eot|svg|ttf|woff|woff2)$">
+#    Header append Vary: Accept-Encoding
+#  </FilesMatch>
+#</IfModule>
+
+# Deny Recommendations Access
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RedirectMatch 301 ^/recommendations/texts/(.*) https://ayurveda.help/
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

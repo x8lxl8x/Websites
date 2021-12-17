@@ -1,0 +1,190 @@
+# jouter %[clVerbGroup|1]
+[-
+se livrer à une joute non physique. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|jout%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|jout%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|jout%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||jout%[m|é]|
+|ayant|jout%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en jout%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|jout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|jout%[m|e]|
+|tu|jout%[m|es]|
+|il|jout%[m|e]|
+|nous|jout%[m|ons]|
+|vous|jout%[m|ez]|
+|ils|jout%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|jout%[m|é]|
+|tu|as |jout%[m|é]|
+|il|a|jout%[m|é]|
+|nous|avons|jout%[m|é]|
+|vous|avez|jout%[m|é]|
+|ils|ont|jout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|jout%[m|ais]|
+|tu|jout%[m|ais]|
+|il|jout%[m|ait]|
+|nous|jout%[m|ions]|
+|vous|jout%[m|iez]|
+|ils|jout%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|jout%[m|é]|
+|tu|avais|jout%[m|é]|
+|il|avait|jout%[m|é]|
+|nous|avions|jout%[m|é]|
+|vous|aviez|jout%[m|é]|
+|ils|avaient|jout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|jout%[m|ai]|
+|tu|jout%[m|as]|
+|il|jout%[m|a]|
+|nous|jout%[m|âmes]|
+|vous|jout%[m|âtes]|
+|ils|jout%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|jout%[m|é]|
+|tu|eus|jout%[m|é]|
+|il|eut|jout%[m|é]|
+|nous|e&ucirc;mes|jout%[m|é]|
+|vous|e&ucirc;tes|jout%[m|é]|
+|ils|eurent|jout%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|jout%[m|erai]|
+|tu|jout%[m|eras]|
+|il|jout%[m|era]|
+|nous|jout%[m|erons]|
+|vous|jout%[m|erez]|
+|ils|jout%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|jout%[m|é]|
+|tu|auras|jout%[m|é]|
+|il|aura|jout%[m|é]|
+|nous|aurons|jout%[m|é]|
+|vous|aurez|jout%[m|é]|
+|ils|auront|jout%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|jout%[m|erais]|
+|tu|jout%[m|erais]|
+|il|jout%[m|erait]|
+|nous|jout%[m|erions]|
+|vous|jout%[m|eriez]|
+|ils|jout%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|jout%[m|é]|
+|tu|aurais|jout%[m|é]|
+|il|aurait|jout%[m|é]|
+|nous|aurions|jout%[m|é]|
+|vous|auriez|jout%[m|é]|
+|ils|auraient|jout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|jout%[m|e]|
+|que|tu|jout%[m|es]|
+|qu'|il|jout%[m|e]|
+|que|nous|jout%[m|ions]|
+|que|vous|jout%[m|iez]|
+|qu'|ils|jout%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|jout%[m|é]|
+|que|tu|aies|jout%[m|é]|
+|qu'|il|ait|jout%[m|é]|
+|que|nous|ayons|jout%[m|é]|
+|que|vous|ayez|jout%[m|é]|
+|qu'|ils|aient|jout%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|jout%[m|asse]|
+|que|tu|jout%[m|asses]|
+|qu'|il|jout%[m|ât]|
+|que|nous|jout%[m|assions]|
+|que|vous|jout%[m|assiez]|
+|qu'|ils|jout%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|jout%[m|é]|
+|que|tu|eusses|jout%[m|é]|
+|qu'|il|eût|jout%[m|é]|
+|que|nous|eussions|jout%[m|é]|
+|que|vous|eussiez|jout%[m|é]|
+|qu'|ils|eussent|jout%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|jout%[m|e]|
+|jout%[m|ons]|
+|jout%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|jout%[m|é]|
+|ayons|jout%[m|é]|
+|ayez|jout%[m|é]|
+|]
+

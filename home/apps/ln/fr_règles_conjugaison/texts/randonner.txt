@@ -1,0 +1,190 @@
+# randonner %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|randonn%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|randonn%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|randonn%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||randonn%[m|é]|
+|ayant|randonn%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en randonn%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|randonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|randonn%[m|e]|
+|tu|randonn%[m|es]|
+|il|randonn%[m|e]|
+|nous|randonn%[m|ons]|
+|vous|randonn%[m|ez]|
+|ils|randonn%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|randonn%[m|é]|
+|tu|as |randonn%[m|é]|
+|il|a|randonn%[m|é]|
+|nous|avons|randonn%[m|é]|
+|vous|avez|randonn%[m|é]|
+|ils|ont|randonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|randonn%[m|ais]|
+|tu|randonn%[m|ais]|
+|il|randonn%[m|ait]|
+|nous|randonn%[m|ions]|
+|vous|randonn%[m|iez]|
+|ils|randonn%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|randonn%[m|é]|
+|tu|avais|randonn%[m|é]|
+|il|avait|randonn%[m|é]|
+|nous|avions|randonn%[m|é]|
+|vous|aviez|randonn%[m|é]|
+|ils|avaient|randonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|randonn%[m|ai]|
+|tu|randonn%[m|as]|
+|il|randonn%[m|a]|
+|nous|randonn%[m|âmes]|
+|vous|randonn%[m|âtes]|
+|ils|randonn%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|randonn%[m|é]|
+|tu|eus|randonn%[m|é]|
+|il|eut|randonn%[m|é]|
+|nous|e&ucirc;mes|randonn%[m|é]|
+|vous|e&ucirc;tes|randonn%[m|é]|
+|ils|eurent|randonn%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|randonn%[m|erai]|
+|tu|randonn%[m|eras]|
+|il|randonn%[m|era]|
+|nous|randonn%[m|erons]|
+|vous|randonn%[m|erez]|
+|ils|randonn%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|randonn%[m|é]|
+|tu|auras|randonn%[m|é]|
+|il|aura|randonn%[m|é]|
+|nous|aurons|randonn%[m|é]|
+|vous|aurez|randonn%[m|é]|
+|ils|auront|randonn%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|randonn%[m|erais]|
+|tu|randonn%[m|erais]|
+|il|randonn%[m|erait]|
+|nous|randonn%[m|erions]|
+|vous|randonn%[m|eriez]|
+|ils|randonn%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|randonn%[m|é]|
+|tu|aurais|randonn%[m|é]|
+|il|aurait|randonn%[m|é]|
+|nous|aurions|randonn%[m|é]|
+|vous|auriez|randonn%[m|é]|
+|ils|auraient|randonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|randonn%[m|e]|
+|que|tu|randonn%[m|es]|
+|qu'|il|randonn%[m|e]|
+|que|nous|randonn%[m|ions]|
+|que|vous|randonn%[m|iez]|
+|qu'|ils|randonn%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|randonn%[m|é]|
+|que|tu|aies|randonn%[m|é]|
+|qu'|il|ait|randonn%[m|é]|
+|que|nous|ayons|randonn%[m|é]|
+|que|vous|ayez|randonn%[m|é]|
+|qu'|ils|aient|randonn%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|randonn%[m|asse]|
+|que|tu|randonn%[m|asses]|
+|qu'|il|randonn%[m|ât]|
+|que|nous|randonn%[m|assions]|
+|que|vous|randonn%[m|assiez]|
+|qu'|ils|randonn%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|randonn%[m|é]|
+|que|tu|eusses|randonn%[m|é]|
+|qu'|il|eût|randonn%[m|é]|
+|que|nous|eussions|randonn%[m|é]|
+|que|vous|eussiez|randonn%[m|é]|
+|qu'|ils|eussent|randonn%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|randonn%[m|e]|
+|randonn%[m|ons]|
+|randonn%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|randonn%[m|é]|
+|ayons|randonn%[m|é]|
+|ayez|randonn%[m|é]|
+|]
+

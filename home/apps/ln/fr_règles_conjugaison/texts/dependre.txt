@@ -1,0 +1,190 @@
+# dépendre %[clVerbGroup|3]
+[-
+retirer ce qui est pendu. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|dépend%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|dépend%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|dépend%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||dépend%[m|u]|
+|ayant|dépend%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en dépend%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|dépend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|dépend%[m|s]|
+|tu|dépend%[m|s]|
+|il|dépend%[m|]|
+|nous|dépend%[m|ons]|
+|vous|dépend%[m|ez]|
+|ils|dépend%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|dépend%[m|u]|
+|tu|as |dépend%[m|u]|
+|il|a|dépend%[m|u]|
+|nous|avons|dépend%[m|u]|
+|vous|avez|dépend%[m|u]|
+|ils|ont|dépend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|dépend%[m|ais]|
+|tu|dépend%[m|ais]|
+|il|dépend%[m|ait]|
+|nous|dépend%[m|ions]|
+|vous|dépend%[m|iez]|
+|ils|dépend%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|dépend%[m|u]|
+|tu|avais|dépend%[m|u]|
+|il|avait|dépend%[m|u]|
+|nous|avions|dépend%[m|u]|
+|vous|aviez|dépend%[m|u]|
+|ils|avaient|dépend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|dépend%[m|is]|
+|tu|dépend%[m|is]|
+|il|dépend%[m|it]|
+|nous|dépend%[m|îmes]|
+|vous|dépend%[m|îtes]|
+|ils|dépend%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|dépend%[m|u]|
+|tu|eus|dépend%[m|u]|
+|il|eut|dépend%[m|u]|
+|nous|e&ucirc;mes|dépend%[m|u]|
+|vous|e&ucirc;tes|dépend%[m|u]|
+|ils|eurent|dépend%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|dépend%[m|rai]|
+|tu|dépend%[m|ras]|
+|il|dépend%[m|ra]|
+|nous|dépend%[m|rons]|
+|vous|dépend%[m|rez]|
+|ils|dépend%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|dépend%[m|u]|
+|tu|auras|dépend%[m|u]|
+|il|aura|dépend%[m|u]|
+|nous|aurons|dépend%[m|u]|
+|vous|aurez|dépend%[m|u]|
+|ils|auront|dépend%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|dépend%[m|rais]|
+|tu|dépend%[m|rais]|
+|il|dépend%[m|rait]|
+|nous|dépend%[m|rions]|
+|vous|dépend%[m|riez]|
+|ils|dépend%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|dépend%[m|u]|
+|tu|aurais|dépend%[m|u]|
+|il|aurait|dépend%[m|u]|
+|nous|aurions|dépend%[m|u]|
+|vous|auriez|dépend%[m|u]|
+|ils|auraient|dépend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|dépend%[m|e]|
+|que|tu|dépend%[m|es]|
+|qu'|il|dépend%[m|e]|
+|que|nous|dépend%[m|ions]|
+|que|vous|dépend%[m|iez]|
+|qu'|ils|dépend%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|dépend%[m|u]|
+|que|tu|aies|dépend%[m|u]|
+|qu'|il|ait|dépend%[m|u]|
+|que|nous|ayons|dépend%[m|u]|
+|que|vous|ayez|dépend%[m|u]|
+|qu'|ils|aient|dépend%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|dépend%[m|isse]|
+|que|tu|dépend%[m|isses]|
+|qu'|il|dépend%[m|ît]|
+|que|nous|dépend%[m|issions]|
+|que|vous|dépend%[m|issiez]|
+|qu'|ils|dépend%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|dépend%[m|u]|
+|que|tu|eusses|dépend%[m|u]|
+|qu'|il|eût|dépend%[m|u]|
+|que|nous|eussions|dépend%[m|u]|
+|que|vous|eussiez|dépend%[m|u]|
+|qu'|ils|eussent|dépend%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|dépend%[m|s]|
+|dépend%[m|ons]|
+|dépend%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|dépend%[m|u]|
+|ayons|dépend%[m|u]|
+|ayez|dépend%[m|u]|
+|]
+

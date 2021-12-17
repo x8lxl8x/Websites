@@ -1,0 +1,192 @@
+# passer %[clVerbGroup|1]
+[-
+se déplacer d'un lieu à un autre sans s'arrêter. 
+traverser. Passer le col d'une montagne. 
+transmettre, faire parvenir (ex. passer la moutarde) 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|pass%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|pass%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|pass%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||pass%[m|é]|
+|ayant|pass%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en pass%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|pass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|pass%[m|e]|
+|tu|pass%[m|es]|
+|il|pass%[m|e]|
+|nous|pass%[m|ons]|
+|vous|pass%[m|ez]|
+|ils|pass%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|pass%[m|é]|
+|tu|as |pass%[m|é]|
+|il|a|pass%[m|é]|
+|nous|avons|pass%[m|é]|
+|vous|avez|pass%[m|é]|
+|ils|ont|pass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|pass%[m|ais]|
+|tu|pass%[m|ais]|
+|il|pass%[m|ait]|
+|nous|pass%[m|ions]|
+|vous|pass%[m|iez]|
+|ils|pass%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|pass%[m|é]|
+|tu|avais|pass%[m|é]|
+|il|avait|pass%[m|é]|
+|nous|avions|pass%[m|é]|
+|vous|aviez|pass%[m|é]|
+|ils|avaient|pass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|pass%[m|ai]|
+|tu|pass%[m|as]|
+|il|pass%[m|a]|
+|nous|pass%[m|âmes]|
+|vous|pass%[m|âtes]|
+|ils|pass%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|pass%[m|é]|
+|tu|eus|pass%[m|é]|
+|il|eut|pass%[m|é]|
+|nous|e&ucirc;mes|pass%[m|é]|
+|vous|e&ucirc;tes|pass%[m|é]|
+|ils|eurent|pass%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|pass%[m|erai]|
+|tu|pass%[m|eras]|
+|il|pass%[m|era]|
+|nous|pass%[m|erons]|
+|vous|pass%[m|erez]|
+|ils|pass%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|pass%[m|é]|
+|tu|auras|pass%[m|é]|
+|il|aura|pass%[m|é]|
+|nous|aurons|pass%[m|é]|
+|vous|aurez|pass%[m|é]|
+|ils|auront|pass%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|pass%[m|erais]|
+|tu|pass%[m|erais]|
+|il|pass%[m|erait]|
+|nous|pass%[m|erions]|
+|vous|pass%[m|eriez]|
+|ils|pass%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|pass%[m|é]|
+|tu|aurais|pass%[m|é]|
+|il|aurait|pass%[m|é]|
+|nous|aurions|pass%[m|é]|
+|vous|auriez|pass%[m|é]|
+|ils|auraient|pass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|pass%[m|e]|
+|que|tu|pass%[m|es]|
+|qu'|il|pass%[m|e]|
+|que|nous|pass%[m|ions]|
+|que|vous|pass%[m|iez]|
+|qu'|ils|pass%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|pass%[m|é]|
+|que|tu|aies|pass%[m|é]|
+|qu'|il|ait|pass%[m|é]|
+|que|nous|ayons|pass%[m|é]|
+|que|vous|ayez|pass%[m|é]|
+|qu'|ils|aient|pass%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|pass%[m|asse]|
+|que|tu|pass%[m|asses]|
+|qu'|il|pass%[m|ât]|
+|que|nous|pass%[m|assions]|
+|que|vous|pass%[m|assiez]|
+|qu'|ils|pass%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|pass%[m|é]|
+|que|tu|eusses|pass%[m|é]|
+|qu'|il|eût|pass%[m|é]|
+|que|nous|eussions|pass%[m|é]|
+|que|vous|eussiez|pass%[m|é]|
+|qu'|ils|eussent|pass%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|pass%[m|e]|
+|pass%[m|ons]|
+|pass%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|pass%[m|é]|
+|ayons|pass%[m|é]|
+|ayez|pass%[m|é]|
+|]
+

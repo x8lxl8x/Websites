@@ -1,0 +1,190 @@
+# désemplir %[clVerbGroup|2]
+[-
+vider en partie. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|désempl%[m|ir]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|désempl%[m|i]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|désempl%[m|issant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||désempl%[m|i]|
+|ayant|désempl%[m|i]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en désempl%[m|issant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|désempl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|désempl%[m|is]|
+|tu|désempl%[m|is]|
+|il|désempl%[m|it]|
+|nous|désempl%[m|issons]|
+|vous|désempl%[m|issez]|
+|ils|désempl%[m|issent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|désempl%[m|i]|
+|tu|as |désempl%[m|i]|
+|il|a|désempl%[m|i]|
+|nous|avons|désempl%[m|i]|
+|vous|avez|désempl%[m|i]|
+|ils|ont|désempl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|désempl%[m|issais]|
+|tu|désempl%[m|issais]|
+|il|désempl%[m|issait]|
+|nous|désempl%[m|issions]|
+|vous|désempl%[m|issiez]|
+|ils|désempl%[m|issaient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|désempl%[m|i]|
+|tu|avais|désempl%[m|i]|
+|il|avait|désempl%[m|i]|
+|nous|avions|désempl%[m|i]|
+|vous|aviez|désempl%[m|i]|
+|ils|avaient|désempl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|désempl%[m|is]|
+|tu|désempl%[m|is]|
+|il|désempl%[m|it]|
+|nous|désempl%[m|îmes]|
+|vous|désempl%[m|îtes]|
+|ils|désempl%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|désempl%[m|i]|
+|tu|eus|désempl%[m|i]|
+|il|eut|désempl%[m|i]|
+|nous|e&ucirc;mes|désempl%[m|i]|
+|vous|e&ucirc;tes|désempl%[m|i]|
+|ils|eurent|désempl%[m|i]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|désempl%[m|irai]|
+|tu|désempl%[m|iras]|
+|il|désempl%[m|ira]|
+|nous|désempl%[m|irons]|
+|vous|désempl%[m|irez]|
+|ils|désempl%[m|iront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|désempl%[m|i]|
+|tu|auras|désempl%[m|i]|
+|il|aura|désempl%[m|i]|
+|nous|aurons|désempl%[m|i]|
+|vous|aurez|désempl%[m|i]|
+|ils|auront|désempl%[m|i]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|désempl%[m|irais]|
+|tu|désempl%[m|irais]|
+|il|désempl%[m|irait]|
+|nous|désempl%[m|irions]|
+|vous|désempl%[m|iriez]|
+|ils|désempl%[m|iraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|désempl%[m|i]|
+|tu|aurais|désempl%[m|i]|
+|il|aurait|désempl%[m|i]|
+|nous|aurions|désempl%[m|i]|
+|vous|auriez|désempl%[m|i]|
+|ils|auraient|désempl%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|désempl%[m|isse]|
+|que|tu|désempl%[m|isses]|
+|qu'|il|désempl%[m|isse]|
+|que|nous|désempl%[m|issions]|
+|que|vous|désempl%[m|issiez]|
+|qu'|ils|désempl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|désempl%[m|i]|
+|que|tu|aies|désempl%[m|i]|
+|qu'|il|ait|désempl%[m|i]|
+|que|nous|ayons|désempl%[m|i]|
+|que|vous|ayez|désempl%[m|i]|
+|qu'|ils|aient|désempl%[m|i]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|désempl%[m|isse]|
+|que|tu|désempl%[m|isses]|
+|qu'|il|désempl%[m|ît]|
+|que|nous|désempl%[m|issions]|
+|que|vous|désempl%[m|issiez]|
+|qu'|ils|désempl%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|désempl%[m|i]|
+|que|tu|eusses|désempl%[m|i]|
+|qu'|il|eût|désempl%[m|i]|
+|que|nous|eussions|désempl%[m|i]|
+|que|vous|eussiez|désempl%[m|i]|
+|qu'|ils|eussent|désempl%[m|i]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|désempl%[m|is]|
+|désempl%[m|issons]|
+|désempl%[m|issez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|désempl%[m|i]|
+|ayons|désempl%[m|i]|
+|ayez|désempl%[m|i]|
+|]
+

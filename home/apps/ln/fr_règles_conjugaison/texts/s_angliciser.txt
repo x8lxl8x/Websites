@@ -1,0 +1,190 @@
+# s'angliciser %[clVerbGroup|1]
+[-
+donner un aspect anglais. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|s'anglicis%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|anglicis%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|s'anglicis%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|anglicis%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en s'anglicis%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|anglicis%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|m'|anglicis%[m|e]|
+|tu|t'|anglicis%[m|es]|
+|il|s'|anglicis%[m|e]|
+|nous|nous|anglicis%[m|ons]|
+|vous|vous|anglicis%[m|ez]|
+|ils|s'|anglicis%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|anglicis%[m|é]|
+|tu|t'|es|anglicis%[m|é]|
+|il|s'|est|anglicis%[m|é]|
+|nous|nous|sommes|anglicis%[m|és]|
+|vous|vous|êtes|anglicis%[m|és]|
+|ils|se|sont|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|m'|anglicis%[m|ais]|
+|tu|t'|anglicis%[m|ais]|
+|il|s'|anglicis%[m|ait]|
+|nous|nous|anglicis%[m|ions]|
+|vous|vous|anglicis%[m|iez]|
+|ils|s'|anglicis%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|anglicis%[m|é]|
+|tu|t'|étais|anglicis%[m|é]|
+|il|s'|était|anglicis%[m|é]|
+|nous|nous|étions|anglicis%[m|és]|
+|vous|vous|étiez|anglicis%[m|és]|
+|ils|s'|étaient|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|m'|anglicis%[m|ai]|
+|tu|t'|anglicis%[m|as]|
+|il|s'|anglicis%[m|a]|
+|nous|nous|anglicis%[m|âmes]|
+|vous|vous|anglicis%[m|âtes]|
+|ils|s'|anglicis%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|anglicis%[m|é]|
+|tu|te|fus|anglicis%[m|é]|
+|il|se|fut|anglicis%[m|é]|
+|nous|nous|fûmes|anglicis%[m|és]|
+|vous|vous|fûtes|anglicis%[m|és]|
+|ils|se|furent|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|m'|anglicis%[m|erai]|
+|tu|t'|anglicis%[m|eras]|
+|il|s'|anglicis%[m|era]|
+|nous|nous|anglicis%[m|erons]|
+|vous|vous|anglicis%[m|erez]|
+|ils|s'|anglicis%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|anglicis%[m|é]|
+|tu|te|seras|anglicis%[m|é]|
+|il|se|sera|anglicis%[m|é]|
+|nous|nous|serons|anglicis%[m|és]|
+|vous|vous|serez|anglicis%[m|és]|
+|ils|se|seront|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|m'|anglicis%[m|erais]|
+|tu|t'|anglicis%[m|erais]|
+|il|s'|anglicis%[m|erait]|
+|nous|nous|anglicis%[m|erions]|
+|vous|vous|anglicis%[m|eriez]|
+|ils|s'|anglicis%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|anglicis%[m|é]|
+|tu|te|serais|anglicis%[m|é]|
+|il|se|serait|anglicis%[m|é]|
+|nous|nous|serions|anglicis%[m|és]|
+|vous|vous|seriez|anglicis%[m|és]|
+|ils|se|seraient|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|m'|anglicis%[m|e]|
+|que|tu|t'|anglicis%[m|es]|
+|qu'|il|s'|anglicis%[m|e]|
+|que|nous|nous|anglicis%[m|ions]|
+|que|vous|vous|anglicis%[m|iez]|
+|qu'|ils|s'|anglicis%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|anglicis%[m|é]|
+|que|tu|te|sois|anglicis%[m|é]|
+|qu'|il|se|soit|anglicis%[m|é]|
+|que|nous|nous|soyons|anglicis%[m|és]|
+|que|vous|vous|soyez|anglicis%[m|és]|
+|qu'|ils|se|soient|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|m'|anglicis%[m|asse]|
+|que|tu|t'|anglicis%[m|asses]|
+|qu'|il|s'|anglicis%[m|ât]|
+|que|nous|nous|anglicis%[m|assions]|
+|que|vous|vous|anglicis%[m|assiez]|
+|qu'|ils|s'|anglicis%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|anglicis%[m|é]|
+|que|tu|te|fusses|anglicis%[m|é]|
+|qu'|il|se|fût|anglicis%[m|é]|
+|que|nous|nous|fussions|anglicis%[m|és]|
+|que|vous|vous|fussiez|anglicis%[m|és]|
+|qu'|ils|se|fussent|anglicis%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|anglicis%[m|e]-toi|
+|anglicis%[m|ons]-nous|
+|anglicis%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

@@ -1,0 +1,190 @@
+# faxer %[clVerbGroup|1]
+[-
+envoyer un fax, télécopier. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|fax%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|fax%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|fax%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||fax%[m|é]|
+|ayant|fax%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en fax%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|fax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|fax%[m|e]|
+|tu|fax%[m|es]|
+|il|fax%[m|e]|
+|nous|fax%[m|ons]|
+|vous|fax%[m|ez]|
+|ils|fax%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|fax%[m|é]|
+|tu|as |fax%[m|é]|
+|il|a|fax%[m|é]|
+|nous|avons|fax%[m|é]|
+|vous|avez|fax%[m|é]|
+|ils|ont|fax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|fax%[m|ais]|
+|tu|fax%[m|ais]|
+|il|fax%[m|ait]|
+|nous|fax%[m|ions]|
+|vous|fax%[m|iez]|
+|ils|fax%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|fax%[m|é]|
+|tu|avais|fax%[m|é]|
+|il|avait|fax%[m|é]|
+|nous|avions|fax%[m|é]|
+|vous|aviez|fax%[m|é]|
+|ils|avaient|fax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|fax%[m|ai]|
+|tu|fax%[m|as]|
+|il|fax%[m|a]|
+|nous|fax%[m|âmes]|
+|vous|fax%[m|âtes]|
+|ils|fax%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|fax%[m|é]|
+|tu|eus|fax%[m|é]|
+|il|eut|fax%[m|é]|
+|nous|e&ucirc;mes|fax%[m|é]|
+|vous|e&ucirc;tes|fax%[m|é]|
+|ils|eurent|fax%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|fax%[m|erai]|
+|tu|fax%[m|eras]|
+|il|fax%[m|era]|
+|nous|fax%[m|erons]|
+|vous|fax%[m|erez]|
+|ils|fax%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|fax%[m|é]|
+|tu|auras|fax%[m|é]|
+|il|aura|fax%[m|é]|
+|nous|aurons|fax%[m|é]|
+|vous|aurez|fax%[m|é]|
+|ils|auront|fax%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|fax%[m|erais]|
+|tu|fax%[m|erais]|
+|il|fax%[m|erait]|
+|nous|fax%[m|erions]|
+|vous|fax%[m|eriez]|
+|ils|fax%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|fax%[m|é]|
+|tu|aurais|fax%[m|é]|
+|il|aurait|fax%[m|é]|
+|nous|aurions|fax%[m|é]|
+|vous|auriez|fax%[m|é]|
+|ils|auraient|fax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|fax%[m|e]|
+|que|tu|fax%[m|es]|
+|qu'|il|fax%[m|e]|
+|que|nous|fax%[m|ions]|
+|que|vous|fax%[m|iez]|
+|qu'|ils|fax%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|fax%[m|é]|
+|que|tu|aies|fax%[m|é]|
+|qu'|il|ait|fax%[m|é]|
+|que|nous|ayons|fax%[m|é]|
+|que|vous|ayez|fax%[m|é]|
+|qu'|ils|aient|fax%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|fax%[m|asse]|
+|que|tu|fax%[m|asses]|
+|qu'|il|fax%[m|ât]|
+|que|nous|fax%[m|assions]|
+|que|vous|fax%[m|assiez]|
+|qu'|ils|fax%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|fax%[m|é]|
+|que|tu|eusses|fax%[m|é]|
+|qu'|il|eût|fax%[m|é]|
+|que|nous|eussions|fax%[m|é]|
+|que|vous|eussiez|fax%[m|é]|
+|qu'|ils|eussent|fax%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|fax%[m|e]|
+|fax%[m|ons]|
+|fax%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|fax%[m|é]|
+|ayons|fax%[m|é]|
+|ayez|fax%[m|é]|
+|]
+

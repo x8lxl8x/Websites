@@ -1,0 +1,190 @@
+# houpper %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|houpp%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|houpp%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|houpp%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||houpp%[m|é]|
+|ayant|houpp%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en houpp%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|houpp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|houpp%[m|e]|
+|tu|houpp%[m|es]|
+|il|houpp%[m|e]|
+|nous|houpp%[m|ons]|
+|vous|houpp%[m|ez]|
+|ils|houpp%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|houpp%[m|é]|
+|tu|as |houpp%[m|é]|
+|il|a|houpp%[m|é]|
+|nous|avons|houpp%[m|é]|
+|vous|avez|houpp%[m|é]|
+|ils|ont|houpp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|houpp%[m|ais]|
+|tu|houpp%[m|ais]|
+|il|houpp%[m|ait]|
+|nous|houpp%[m|ions]|
+|vous|houpp%[m|iez]|
+|ils|houpp%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|houpp%[m|é]|
+|tu|avais|houpp%[m|é]|
+|il|avait|houpp%[m|é]|
+|nous|avions|houpp%[m|é]|
+|vous|aviez|houpp%[m|é]|
+|ils|avaient|houpp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|houpp%[m|ai]|
+|tu|houpp%[m|as]|
+|il|houpp%[m|a]|
+|nous|houpp%[m|âmes]|
+|vous|houpp%[m|âtes]|
+|ils|houpp%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|houpp%[m|é]|
+|tu|eus|houpp%[m|é]|
+|il|eut|houpp%[m|é]|
+|nous|e&ucirc;mes|houpp%[m|é]|
+|vous|e&ucirc;tes|houpp%[m|é]|
+|ils|eurent|houpp%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|houpp%[m|erai]|
+|tu|houpp%[m|eras]|
+|il|houpp%[m|era]|
+|nous|houpp%[m|erons]|
+|vous|houpp%[m|erez]|
+|ils|houpp%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|houpp%[m|é]|
+|tu|auras|houpp%[m|é]|
+|il|aura|houpp%[m|é]|
+|nous|aurons|houpp%[m|é]|
+|vous|aurez|houpp%[m|é]|
+|ils|auront|houpp%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|houpp%[m|erais]|
+|tu|houpp%[m|erais]|
+|il|houpp%[m|erait]|
+|nous|houpp%[m|erions]|
+|vous|houpp%[m|eriez]|
+|ils|houpp%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|houpp%[m|é]|
+|tu|aurais|houpp%[m|é]|
+|il|aurait|houpp%[m|é]|
+|nous|aurions|houpp%[m|é]|
+|vous|auriez|houpp%[m|é]|
+|ils|auraient|houpp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|houpp%[m|e]|
+|que|tu|houpp%[m|es]|
+|qu'|il|houpp%[m|e]|
+|que|nous|houpp%[m|ions]|
+|que|vous|houpp%[m|iez]|
+|qu'|ils|houpp%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|houpp%[m|é]|
+|que|tu|aies|houpp%[m|é]|
+|qu'|il|ait|houpp%[m|é]|
+|que|nous|ayons|houpp%[m|é]|
+|que|vous|ayez|houpp%[m|é]|
+|qu'|ils|aient|houpp%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|houpp%[m|asse]|
+|que|tu|houpp%[m|asses]|
+|qu'|il|houpp%[m|ât]|
+|que|nous|houpp%[m|assions]|
+|que|vous|houpp%[m|assiez]|
+|qu'|ils|houpp%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|houpp%[m|é]|
+|que|tu|eusses|houpp%[m|é]|
+|qu'|il|eût|houpp%[m|é]|
+|que|nous|eussions|houpp%[m|é]|
+|que|vous|eussiez|houpp%[m|é]|
+|qu'|ils|eussent|houpp%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|houpp%[m|e]|
+|houpp%[m|ons]|
+|houpp%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|houpp%[m|é]|
+|ayons|houpp%[m|é]|
+|ayez|houpp%[m|é]|
+|]
+

@@ -1,0 +1,190 @@
+# se caillebotter %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se caillebott%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|caillebott%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se caillebott%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|caillebott%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se caillebott%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|caillebott%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|caillebott%[m|e]|
+|tu|te|caillebott%[m|es]|
+|il|se|caillebott%[m|e]|
+|nous|nous|caillebott%[m|ons]|
+|vous|vous|caillebott%[m|ez]|
+|ils|se|caillebott%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|caillebott%[m|é]|
+|tu|t'|es|caillebott%[m|é]|
+|il|s'|est|caillebott%[m|é]|
+|nous|nous|sommes|caillebott%[m|és]|
+|vous|vous|êtes|caillebott%[m|és]|
+|ils|se|sont|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|caillebott%[m|ais]|
+|tu|te|caillebott%[m|ais]|
+|il|se|caillebott%[m|ait]|
+|nous|nous|caillebott%[m|ions]|
+|vous|vous|caillebott%[m|iez]|
+|ils|se|caillebott%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|caillebott%[m|é]|
+|tu|t'|étais|caillebott%[m|é]|
+|il|s'|était|caillebott%[m|é]|
+|nous|nous|étions|caillebott%[m|és]|
+|vous|vous|étiez|caillebott%[m|és]|
+|ils|s'|étaient|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|caillebott%[m|ai]|
+|tu|te|caillebott%[m|as]|
+|il|se|caillebott%[m|a]|
+|nous|nous|caillebott%[m|âmes]|
+|vous|vous|caillebott%[m|âtes]|
+|ils|se|caillebott%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|caillebott%[m|é]|
+|tu|te|fus|caillebott%[m|é]|
+|il|se|fut|caillebott%[m|é]|
+|nous|nous|fûmes|caillebott%[m|és]|
+|vous|vous|fûtes|caillebott%[m|és]|
+|ils|se|furent|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|caillebott%[m|erai]|
+|tu|te|caillebott%[m|eras]|
+|il|se|caillebott%[m|era]|
+|nous|nous|caillebott%[m|erons]|
+|vous|vous|caillebott%[m|erez]|
+|ils|se|caillebott%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|caillebott%[m|é]|
+|tu|te|seras|caillebott%[m|é]|
+|il|se|sera|caillebott%[m|é]|
+|nous|nous|serons|caillebott%[m|és]|
+|vous|vous|serez|caillebott%[m|és]|
+|ils|se|seront|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|caillebott%[m|erais]|
+|tu|te|caillebott%[m|erais]|
+|il|se|caillebott%[m|erait]|
+|nous|nous|caillebott%[m|erions]|
+|vous|vous|caillebott%[m|eriez]|
+|ils|se|caillebott%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|caillebott%[m|é]|
+|tu|te|serais|caillebott%[m|é]|
+|il|se|serait|caillebott%[m|é]|
+|nous|nous|serions|caillebott%[m|és]|
+|vous|vous|seriez|caillebott%[m|és]|
+|ils|se|seraient|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|caillebott%[m|e]|
+|que|tu|te|caillebott%[m|es]|
+|qu'|il|se|caillebott%[m|e]|
+|que|nous|nous|caillebott%[m|ions]|
+|que|vous|vous|caillebott%[m|iez]|
+|qu'|ils|se|caillebott%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|caillebott%[m|é]|
+|que|tu|te|sois|caillebott%[m|é]|
+|qu'|il|se|soit|caillebott%[m|é]|
+|que|nous|nous|soyons|caillebott%[m|és]|
+|que|vous|vous|soyez|caillebott%[m|és]|
+|qu'|ils|se|soient|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|caillebott%[m|asse]|
+|que|tu|te|caillebott%[m|asses]|
+|qu'|il|se|caillebott%[m|ât]|
+|que|nous|nous|caillebott%[m|assions]|
+|que|vous|vous|caillebott%[m|assiez]|
+|qu'|ils|se|caillebott%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|caillebott%[m|é]|
+|que|tu|te|fusses|caillebott%[m|é]|
+|qu'|il|se|fût|caillebott%[m|é]|
+|que|nous|nous|fussions|caillebott%[m|és]|
+|que|vous|vous|fussiez|caillebott%[m|és]|
+|qu'|ils|se|fussent|caillebott%[m|és]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|caillebott%[m|e]-toi|
+|caillebott%[m|ons]-nous|
+|caillebott%[m|ez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

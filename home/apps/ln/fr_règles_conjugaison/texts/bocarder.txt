@@ -1,0 +1,190 @@
+# bocarder %[clVerbGroup|1]
+[-
+passer au bocard, broyer un minerai à l'aide d'un bocard. 
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|bocard%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|bocard%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|bocard%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||bocard%[m|é]|
+|ayant|bocard%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en bocard%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|bocard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|bocard%[m|e]|
+|tu|bocard%[m|es]|
+|il|bocard%[m|e]|
+|nous|bocard%[m|ons]|
+|vous|bocard%[m|ez]|
+|ils|bocard%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|bocard%[m|é]|
+|tu|as |bocard%[m|é]|
+|il|a|bocard%[m|é]|
+|nous|avons|bocard%[m|é]|
+|vous|avez|bocard%[m|é]|
+|ils|ont|bocard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|bocard%[m|ais]|
+|tu|bocard%[m|ais]|
+|il|bocard%[m|ait]|
+|nous|bocard%[m|ions]|
+|vous|bocard%[m|iez]|
+|ils|bocard%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|bocard%[m|é]|
+|tu|avais|bocard%[m|é]|
+|il|avait|bocard%[m|é]|
+|nous|avions|bocard%[m|é]|
+|vous|aviez|bocard%[m|é]|
+|ils|avaient|bocard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|bocard%[m|ai]|
+|tu|bocard%[m|as]|
+|il|bocard%[m|a]|
+|nous|bocard%[m|âmes]|
+|vous|bocard%[m|âtes]|
+|ils|bocard%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|bocard%[m|é]|
+|tu|eus|bocard%[m|é]|
+|il|eut|bocard%[m|é]|
+|nous|e&ucirc;mes|bocard%[m|é]|
+|vous|e&ucirc;tes|bocard%[m|é]|
+|ils|eurent|bocard%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|bocard%[m|erai]|
+|tu|bocard%[m|eras]|
+|il|bocard%[m|era]|
+|nous|bocard%[m|erons]|
+|vous|bocard%[m|erez]|
+|ils|bocard%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|bocard%[m|é]|
+|tu|auras|bocard%[m|é]|
+|il|aura|bocard%[m|é]|
+|nous|aurons|bocard%[m|é]|
+|vous|aurez|bocard%[m|é]|
+|ils|auront|bocard%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|bocard%[m|erais]|
+|tu|bocard%[m|erais]|
+|il|bocard%[m|erait]|
+|nous|bocard%[m|erions]|
+|vous|bocard%[m|eriez]|
+|ils|bocard%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|bocard%[m|é]|
+|tu|aurais|bocard%[m|é]|
+|il|aurait|bocard%[m|é]|
+|nous|aurions|bocard%[m|é]|
+|vous|auriez|bocard%[m|é]|
+|ils|auraient|bocard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|bocard%[m|e]|
+|que|tu|bocard%[m|es]|
+|qu'|il|bocard%[m|e]|
+|que|nous|bocard%[m|ions]|
+|que|vous|bocard%[m|iez]|
+|qu'|ils|bocard%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|bocard%[m|é]|
+|que|tu|aies|bocard%[m|é]|
+|qu'|il|ait|bocard%[m|é]|
+|que|nous|ayons|bocard%[m|é]|
+|que|vous|ayez|bocard%[m|é]|
+|qu'|ils|aient|bocard%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|bocard%[m|asse]|
+|que|tu|bocard%[m|asses]|
+|qu'|il|bocard%[m|ât]|
+|que|nous|bocard%[m|assions]|
+|que|vous|bocard%[m|assiez]|
+|qu'|ils|bocard%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|bocard%[m|é]|
+|que|tu|eusses|bocard%[m|é]|
+|qu'|il|eût|bocard%[m|é]|
+|que|nous|eussions|bocard%[m|é]|
+|que|vous|eussiez|bocard%[m|é]|
+|qu'|ils|eussent|bocard%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|bocard%[m|e]|
+|bocard%[m|ons]|
+|bocard%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|bocard%[m|é]|
+|ayons|bocard%[m|é]|
+|ayez|bocard%[m|é]|
+|]
+

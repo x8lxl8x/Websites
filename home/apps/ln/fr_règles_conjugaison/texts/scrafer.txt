@@ -1,0 +1,190 @@
+# scrafer %[clVerbGroup|1]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|scraf%[m|er]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|scraf%[m|é]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|scraf%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||scraf%[m|é]|
+|ayant|scraf%[m|é]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en scraf%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|scraf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|scraf%[m|e]|
+|tu|scraf%[m|es]|
+|il|scraf%[m|e]|
+|nous|scraf%[m|ons]|
+|vous|scraf%[m|ez]|
+|ils|scraf%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|scraf%[m|é]|
+|tu|as |scraf%[m|é]|
+|il|a|scraf%[m|é]|
+|nous|avons|scraf%[m|é]|
+|vous|avez|scraf%[m|é]|
+|ils|ont|scraf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|scraf%[m|ais]|
+|tu|scraf%[m|ais]|
+|il|scraf%[m|ait]|
+|nous|scraf%[m|ions]|
+|vous|scraf%[m|iez]|
+|ils|scraf%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|scraf%[m|é]|
+|tu|avais|scraf%[m|é]|
+|il|avait|scraf%[m|é]|
+|nous|avions|scraf%[m|é]|
+|vous|aviez|scraf%[m|é]|
+|ils|avaient|scraf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|scraf%[m|ai]|
+|tu|scraf%[m|as]|
+|il|scraf%[m|a]|
+|nous|scraf%[m|âmes]|
+|vous|scraf%[m|âtes]|
+|ils|scraf%[m|èrent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|scraf%[m|é]|
+|tu|eus|scraf%[m|é]|
+|il|eut|scraf%[m|é]|
+|nous|e&ucirc;mes|scraf%[m|é]|
+|vous|e&ucirc;tes|scraf%[m|é]|
+|ils|eurent|scraf%[m|é]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|scraf%[m|erai]|
+|tu|scraf%[m|eras]|
+|il|scraf%[m|era]|
+|nous|scraf%[m|erons]|
+|vous|scraf%[m|erez]|
+|ils|scraf%[m|eront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|scraf%[m|é]|
+|tu|auras|scraf%[m|é]|
+|il|aura|scraf%[m|é]|
+|nous|aurons|scraf%[m|é]|
+|vous|aurez|scraf%[m|é]|
+|ils|auront|scraf%[m|é]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|scraf%[m|erais]|
+|tu|scraf%[m|erais]|
+|il|scraf%[m|erait]|
+|nous|scraf%[m|erions]|
+|vous|scraf%[m|eriez]|
+|ils|scraf%[m|eraient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|scraf%[m|é]|
+|tu|aurais|scraf%[m|é]|
+|il|aurait|scraf%[m|é]|
+|nous|aurions|scraf%[m|é]|
+|vous|auriez|scraf%[m|é]|
+|ils|auraient|scraf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|scraf%[m|e]|
+|que|tu|scraf%[m|es]|
+|qu'|il|scraf%[m|e]|
+|que|nous|scraf%[m|ions]|
+|que|vous|scraf%[m|iez]|
+|qu'|ils|scraf%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|scraf%[m|é]|
+|que|tu|aies|scraf%[m|é]|
+|qu'|il|ait|scraf%[m|é]|
+|que|nous|ayons|scraf%[m|é]|
+|que|vous|ayez|scraf%[m|é]|
+|qu'|ils|aient|scraf%[m|é]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|scraf%[m|asse]|
+|que|tu|scraf%[m|asses]|
+|qu'|il|scraf%[m|ât]|
+|que|nous|scraf%[m|assions]|
+|que|vous|scraf%[m|assiez]|
+|qu'|ils|scraf%[m|assent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|scraf%[m|é]|
+|que|tu|eusses|scraf%[m|é]|
+|qu'|il|eût|scraf%[m|é]|
+|que|nous|eussions|scraf%[m|é]|
+|que|vous|eussiez|scraf%[m|é]|
+|qu'|ils|eussent|scraf%[m|é]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|scraf%[m|e]|
+|scraf%[m|ons]|
+|scraf%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|scraf%[m|é]|
+|ayons|scraf%[m|é]|
+|ayez|scraf%[m|é]|
+|]
+

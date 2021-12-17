@@ -1,0 +1,449 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=1.0'>
+  <title>Finance Tutorial</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='../../../../styles/global.css'>
+  <script type='text/javascript' src='../../../../scripts/global.js'></script>
+</head>
+<body>
+<div id='idPanel'>
+<div id='idTopbar'>
+  <div id='idTopbarNavigation'>
+    <a href='../../../../index.html'><span class='clNavHome'><span></a>
+    <a href='../../index.html'><span class='clNavIndex'><span></a>
+    <a href='../index.html'><span class='clNavUp'><span></a>
+  </div>
+</div>
+
+<div id='idContent'>
+
+<h1>Option Volatility: Introduction</h1>
+
+
+<p>Many beginning options traders never quite understand the serious implications that volatility can have for the options strategies they are considering. </p>
+
+<p>Some of the blame for this lack of understanding can be put on the poorly written books on this topic, most of which offer options strategies boilerplate instead of any real insights into how markets actually work in relation to volatility. However, if you're ignoring volatility, you may only have yourself to blame for negative surprises. </p>
+<p>In this tutorial, we'll show you how to incorporate the "what if" scenarios regarding changing volatility into your trading. Clearly, movements of the underlying price can work through Delta (the sensitivity of an option's price to changes in the underlying stock or futures contract) and impact the bottom line, but so can volatility changes. We'll also explore the option sensitivity Greek known as Vega, which can provide traders with a whole new world of potential opportunity.</p>
+<p>Many traders, eager to get to the strategies that they believe will provide quick profits, look for an easy way to trade that does not involve too much thinking or research. But in fact, more thinking and less trading can often save a lot of unnecessary pain. That said, pain can also be a good motivator, if you know how to process the experiences productively. If you learn from your mistakes and losses, it can teach you how to win at the trading game.</p>
+<p>This tutorial is a practical guide to understanding options volatility for the average option trader. This series provides all the essential elements for a solid understanding of both the risks and potential rewards related to option volatility that await the trader who is willing and able to put them to good use.(For background reading, see <em>The ABCs Of Option Volatility</em>.)</p>
+
+
+<h2>Option Volatility: Why Is It Important?</h2>
+
+
+<p>Volatility changes can have a potential impact - good or bad - on any options trade you are preparing to implement. In addition to this so-called <u>Vega</u> risk/reward, this part of the options volatility tutorial will teach you about the relationship between <u>historical volatility</u> (also known as statistical, or SV) and <u>implied volatility</u> (IV), including how they are calculated, although most trading platforms provide this for you. </p>
+
+<p>Perhaps the most practical aspect of a volatility perspective on options strategies and option prices is the opportunity it affords you to determine relative valuation of options. Due to the nature of markets, options may often price in events that are expected. Therefore, when looking at option prices and considering certain strategies, knowing whether options are "expensive" or "cheap" can provide very useful information about whether you should be selling options or buying them. Obviously, the old adage of buy low, sell high applies as much here as it does in the world of stocks and commodities.</p>
+<p>In this tutorial, we'll look at what is meant by historical volatility and implied volatility, which is then used to determine whether options are expensive (meaning are they trading at prices high relative to past levels) or cheap. Also, we'll look at the question of whether options are overvalued or undervalued, which pertains to theoretical prices versus market prices and how historical and implied volatility are incorporated into the story.</p>
+
+<p>Another important use of volatility analysis is in the selection of strategies. Every option strategy has an associated Greek value known as Vega, or position Vega. Therefore, as implied volatility levels change, there will be an impact on the strategy performance. Positive Vega strategies (like long puts, backspreads and long strangles/straddles) do best when implied volatility levels rise. Negative Vega strategies (like short options, ratio spreads and short strangles/ straddles) do best when implied volatility is falling. Clearly, knowing where implied volatility levels are and where they are likely to go once in a trade can make all the difference in the outcome of strategy. But you first have to know what <em>Vega</em> is and how to interpret it before you can put it to good use. (For more on these strategies, see the <em>Option Spread Strategies </em>tutorial.)</p>
+
+
+<p>Finally, we'll look at uses of options volatility in relation to vertical and horizontal skews, where the implied volatility levels of each strike are compared in the same expiration month (vertical) and across different months (horizontal). This is followed by a look using implied volatility as a predictor of the future direction of stocks and stock indexes. Implied volatility can be used as a predictor of price from two angles: as a contrarian, when implied volatility has moved too far - high or low - or as a sign of potentially explosive price moves when implied volatility is extremely high for no apparent reason. Typically, the latter occurs when there is a pending unknown or even known event but it is not clear which way the stock will move. All that the extremely high implied volatility tells you is that something big is in the offing.</p>
+<p>In all parts of the tutorial, we'll provide key insights and practical tips about how to use the concepts mentioned above as they relate to volatility and Vega.In the meantime, spend some more time reading and studying about volatility than trying to trade - you will not be disappointed. Good luck!</p>
+
+
+<h2>Option Volatility: Historical Volatility</h2>
+
+
+<p>Volatility is both an input to valuation models (statistical/historical) and an output (implied). Just why this is so will become clearer once the difference between both volatility types is understood. This tutorial segment will focus on historical volatility, which is also known as statistical volatility (SV). Historical volatility is a measure of the volatility of the underlying stock or futures contract. It is <em>known</em> volatility, because it is based on actual, recent price changes of the underlying. </p>
+
+
+<p>Historical volatility can be thought of as the speed (rate of change) of the underlying stock price. Like a car speeding along at 75 mph (rate of change per hour), a stock or futures contract moves at a speed that is measured as a rate too, but a rate of change <em>per year</em>. The higher the historical volatility, the more movement the stock has experienced and, therefore, theoretically, the more it can move in the future, although this does not provide insight into either direction or trend. While there are different ways to calculate historical volatility (different parameter settings just like with any technical indicator) the basic idea underlying different calculations is fundamentally the same. </p>
+<p>Historical volatility essentially is a way to tell how far the stock or future might move in the future based on how fast it has been moving in the recent past. Thinking in terms of a car traveling at 75 mph again, we know that in one year, this car will have traveled a distance of 657,000 miles (75 x 24 hours x 365 days = 657,000). But the catch here is that the rate of change of 75 mph may not stay the same, and it doesn't tell us much about the direction of car (it could be going back and forth, not just in one direction, meaning it could end up where it began). This is true for stocks or futures as well. But the calculation clearly depends on recent speeds, which means percentage price changes on a daily basis. If these speeds are increasing, historical volatility will generally be greater.</p>
+<p><strong>Calculating Historical Volatility</strong> </p>
+<p>By walking through a calculation of historical volatility, the above description should become more tangible. Historical volatility is a quantifiable number based on past changes in the price of the stock or futures contract. It can be calculated simply by taking the past prices, in this example 10 days are used, and price changes (from close to close), and then taking an average of those price changes in percentage terms. Once we have an average percentage price change over 10 days, we can subtract the daily percentage price changes from this average change to derive deviations from the daily average change for the 10-day period. </p>
+<p>Figure 1 contains an example using this method. The calculation involves use of a few concepts you might have encountered in a Statistics 101, such as mean, standard deviation and even square roots. The historical volatility calculation here uses the past 10 days of price changes. Typically a 10-, 20- or 30-day period of past price changes is analyzed</p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" nowrap="nowrap"><strong>Date</strong></td><td valign="bottom" nowrap="nowrap"><strong>IBM Close</strong></td><td valign="bottom" nowrap="nowrap"><strong>%Change</strong></td></tr><tr><td valign="bottom" nowrap="nowrap">7/3/2007</td><td valign="bottom" nowrap="nowrap">106.58</td><td valign="bottom" nowrap="nowrap">-</td></tr><tr><td valign="bottom" nowrap="nowrap">7/5/2007</td><td valign="bottom" nowrap="nowrap">108.05</td><td valign="bottom" nowrap="nowrap">1.38</td></tr><tr><td valign="bottom" nowrap="nowrap">7/6/2007</td><td valign="bottom" nowrap="nowrap">109.03</td><td valign="bottom" nowrap="nowrap">0.91</td></tr><tr><td valign="bottom" nowrap="nowrap">7/9/2007</td><td valign="bottom" nowrap="nowrap">108.97</td><td valign="bottom" nowrap="nowrap">-0.06</td></tr><tr><td valign="bottom" nowrap="nowrap">7/10/2007</td><td valign="bottom" nowrap="nowrap">108.63</td><td valign="bottom" nowrap="nowrap">-0.31</td></tr><tr><td valign="bottom" nowrap="nowrap">7/11/2007</td><td valign="bottom" nowrap="nowrap">109.1</td><td valign="bottom" nowrap="nowrap">0.43</td></tr><tr><td valign="bottom" nowrap="nowrap">7/12/2007</td><td valign="bottom" nowrap="nowrap">109.28</td><td valign="bottom" nowrap="nowrap">0.16</td></tr><tr><td valign="bottom" nowrap="nowrap">7/13/2007</td><td valign="bottom" nowrap="nowrap">108.6</td><td valign="bottom" nowrap="nowrap">-0.62</td></tr><tr><td valign="bottom" nowrap="nowrap">7/16/2007</td><td valign="bottom" nowrap="nowrap">109.66</td><td valign="bottom" nowrap="nowrap">0.98</td></tr><tr><td valign="bottom" nowrap="nowrap">7/17/2008</td><td valign="bottom" nowrap="nowrap">110.77</td><td valign="bottom" nowrap="nowrap">1.01</td></tr><tr><td valign="bottom" nowrap="nowrap">7/18/2007</td><td valign="bottom" nowrap="nowrap">111.08</td><td valign="bottom" nowrap="nowrap">0.28</td></tr></table>
+
+
+
+<table><tr><td>Figure 1: IBM closing prices and daily percent price changes.</td></tr></table>
+
+</p>
+<p>As you can see in Figure 1, the middle column contains daily closing prices for IBM between July 3 and July 18, 2007. The right-hand column contains the daily price changes (calculated by subtracting today's price from yesterday's closing price and dividing by yesterday's closing price). This is the raw material for computing historical volatility. </p>
+
+<p>The data from Figure 1 is then used to compute the standard deviation of daily price changes, which can be done easily in an Excel spreadsheet using the STDEV function. Using the IBM price data for the calculation, Figure 2 presents current 10-day historical volatility for IBM - let's suppose it's 10.29%. The number is an annualized figure that is derived by multiplying the standard deviation calculation of .645 (computed from the daily percent price changes found in Figure 1) by 15.937 (the square root of 254 trading days in a year). The standard convention is to annualize historical volatility (and implied volatility); it's an easy task using the square root function in an Excel spreadsheet. (To learn more, read <em>Microsoft Excel Features For The Financially Literate</em>.)</p>
+
+<p>
+
+<table><tr bgcolor="#cccccc"><td><strong>Standard Deviation</strong></td><td><strong><img src="../images/table>
+
+<table><tr><td>Figure 2: IBM statistical volatility using prices presented in Figure 1</td></tr></table>
+
+</p>
+<p>One additional thing to keep in mind is that while we are talking about the speed of the underlying, it is interpreted as an expected 10.29% up or down potential move at current price changes over the next 254 trading days. </p>
+<p>Let's now cook up some numbers to see how it changes historical volatility, which should facilitate a better feel for volatility. Figure 3 shows new hypothetical closing prices for IBM, with the resulting new standard deviation and historical volatility results in Figure 4. </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="bottom" nowrap="nowrap"><strong>Date</strong></td><td valign="bottom" nowrap="nowrap"><strong>IBM Close</strong></td><td valign="bottom" nowrap="nowrap"><strong>%Change</strong></td></tr><tr><td valign="bottom" nowrap="nowrap">7/3/2007</td><td valign="bottom" nowrap="nowrap">111.99</td><td valign="bottom" nowrap="nowrap"></td></tr><tr><td valign="bottom" nowrap="nowrap">7/5/2007</td><td valign="bottom" nowrap="nowrap">110.66</td><td valign="bottom" nowrap="nowrap">-1.19</td></tr><tr><td valign="bottom" nowrap="nowrap">7/6/2007</td><td valign="bottom" nowrap="nowrap">107.6</td><td valign="bottom" nowrap="nowrap">-2.77</td></tr><tr><td valign="bottom" nowrap="nowrap">7/9/2007</td><td valign="bottom" nowrap="nowrap">109.28</td><td valign="bottom" nowrap="nowrap">1.56</td></tr><tr><td valign="bottom" nowrap="nowrap">7/10/2007</td><td valign="bottom" nowrap="nowrap">108.1</td><td valign="bottom" nowrap="nowrap">-1.08</td></tr><tr><td valign="bottom" nowrap="nowrap">7/11/2007</td><td valign="bottom" nowrap="nowrap">105.63</td><td valign="bottom" nowrap="nowrap">-2.28</td></tr><tr><td valign="bottom" nowrap="nowrap">7/12/2007</td><td valign="bottom" nowrap="nowrap">106.97</td><td valign="bottom" nowrap="nowrap">1.27</td></tr><tr><td valign="bottom" nowrap="nowrap">7/13/2007</td><td valign="bottom" nowrap="nowrap">108.03</td><td valign="bottom" nowrap="nowrap">0.99</td></tr><tr><td valign="bottom" nowrap="nowrap">7/16/2007</td><td valign="bottom" nowrap="nowrap">110.05</td><td valign="bottom" nowrap="nowrap">1.87</td></tr><tr><td valign="bottom" nowrap="nowrap">7/17/2008</td><td valign="bottom" nowrap="nowrap">107.58</td><td valign="bottom" nowrap="nowrap">-2.24</td></tr><tr><td valign="bottom" nowrap="nowrap">7/18/2007</td><td valign="bottom" nowrap="nowrap">104.01</td><td valign="bottom" nowrap="nowrap">-3.32</td></tr></table>
+
+
+
+<table><tr><td>Figure 3: IBM closing prices and daily percent price changes.</td></tr></table>
+
+</p>
+<p>Figure 3 presents IBM prices that have larger percentage price changes most of the entire period (up and down). When you compute standard deviation based on the new daily price changes seen in Table 3 in the right-hand column, you get 1.97, up from .645. This simply reflects greater dispersion around the average price change (not shown here), which will therefore lead (when multiplied by 15.937 (square root of 254), to a new historical volatility of 29.75%. </p>
+<p>IBM moved from 106.58 to 111.08 during the 10-day period, as seen in Figure 1, while the hypothetical data in Figure 3 has IBM moving down from 111.99 to 104.01. The size of daily price changes was altered to illustrate how that will impact historical volatility.</p>
+<p>When a big cap stock is having a bearish cycle, the daily price swings typically will expand, generating higher historical volatility. This hypothetical case attempts to capture that phenomenon. We'll go back to this point toward the end of this tutorial on using volatility to predict market direction. </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td><strong>Standard Deviation</strong></td><td><strong><img src="../images/p>
+
+<table><tr><td>Figure 4: IBM statistical volatility using prices presented in Figure 3.</td></tr></table>
+
+</p>
+<p>There are a few issues worth mentioning here that go beyond the scope of this tutorial. A number of different methods are used to calculate historical volatility. Here close-to-close percentage changes in daily prices were used, but some have used high-minus-low prices, and even an average of high, low and close prices, in an attempt to capture some intraday information that is missing when close prices are used. </p>
+
+<p>
+Another issue regards the calculation of historical volatility and trending versus trading range markets. It is possible for a strong trend to develop up or down without any change in the size of daily percentage price changes (let's say the magnitudes remain the same but more positive days develop). The average of daily price changes can become larger while historical volatility calculated using the popular method outlined becomes smaller. Likewise, it could be shown here, too, that if average daily price change declines in size, historical volatility can rise even when the market is trending stronger.</p>
+<p><strong>Conclusion</p>
+<p></strong>Now you've learned how to calculate statistical volatility (historical volatility) using a popular method. Ten days of daily percentage price changes were computed using closing prices from IBM, from which a standard deviation was calculated. The standard deviation was then used to derive historical volatility, which is nothing more than annualized standard deviation of daily percentage price changes. While 10 days was used in the example here, 20 and 30 days are also common time frames used to calculate historical volatility. We can now move on to discuss historical volatility's cousin, implied volatility, which is covered in the next section.</p>
+<p>To learn more, read <em>Using Historical Volatility To Gauge Future Risk</em>.</p>
+<p>
+
+
+<h2>Options Volatility: Projected or Implied Volatility</h2>
+
+
+<p>Most traders generally think of the strike price in relation to the underlying price and how much time remains on the option as the key fundamentals of pricing. This approach, however, often leads to some negative surprises due to unnoticed changes in implied volatility (IV). In this part of the tutorial, we'll learn how IV impacts option prices and how IV differs from historical volatility (covered in the previous chapter). </p>
+
+
+<p>Options volatility is one of the least understood variables behind the movement of daily price changes of an option, but the role volatility plays is quite easy to understand. When an option is quoted throughout the market day, the prices in the form of bids and asks don't tell you much about its valuation in terms of fundamentals. Like any asset with a market price, such prices may actually deviate from the fundamentals due to expected or projected events not captured by asset pricing models - and that difference largely can be attributed to implied volatility (IV).</p>
+<p><strong>A Common IV Pitfall</p>
+<p></strong>Let's say that an option trader is interested in buying high beta tech stock call options because he or she is bullish on the stock. Because high beta stocks have the potential to make big moves, the trader thinks that the potential for profit is higher when buying call options. However, options on these stocks, especially around pending news, can experience a change in the price even without movement of the underlying. Prices may move higher (again even without a stock price move) simply because there is a big move <em>expected</em>. And this will typically occur on the puts and calls. In this case, IV is going to be high. (To learn more, read <em>Beta: Gauging Price Fluctuations</em>.)</p>
+<p>When the news comes out and the stock moves higher as expected by the trader, the results are often disappointing in terms of changes in the option price and what Delta implies the price should actually be. The reason is that the reverse movement in IV occurs, IV falls after the news (like letting the air out of a balloon) and the IV (and with it lots of extrinsic value) deflates quickly. With this drop in IV, the call buyer is often left miffed as to why he or she did not make much, if anything, on his or her speculative purchase of calls. (For related reading, see <em>Getting To Know The "Greeks"</em> and <em>Price Plunging? Buy A Put!</em>)</p>
+<p>Now, when it comes to put buying, there can be both good and bad surprises. The same process outlined above will operate when buying puts, especially if puts are purchased during bearish cycles in the stock (IV typically for most large cap stocks will be pumped up at this point). If the puts are purchased when they are "cheap" in terms of IV levels (this occurs when you buy the puts when the trend has been upward and price action relatively uniform (and assuming no big pending news outcome), then it is possible for IV to <em>rise</em> if the stock enters a bearish cycle. This can lead to a positive surprise in the change of the option price, provided you purchased the option when the IV was low near the market top. Here, the price would increase more than that which is suggested by Delta (leaving any significant changes due to Theta or the rate of time value decay aside for now).</p>
+<p>
+Returning to the calls for a moment, when the calls are purchased when they are "cheap" from an IV perspective, the potential wheel spinning from IV dropping is reduced, but not eliminated. The bottom line of all this is that without an IV analysis and understanding of how IV and stock prices and options prices relate, a trader is asking for trouble. Therefore, if you want to avoid unnecessary losses, it pays to develop a basic understanding of and familiarity with IV pricing.</p>
+<p><strong>How does IV get calculated?</strong></p>
+<p>IV is best understood by reference to an option pricing model, such as the <u>Black-Scholes model</u>. As you can see in Figure 5, there are five main ingredients or inputs (right-facing arrows). These are: </p>
+<ol type="1"><li>Stock price    </li><li>Strike price    </li><li>Historical volatility    </li><li>Days to expiration    </li><li>Risk-free rate of interest. </li></ol>The output is the fair value or theoretical price of an option. However, if you have looked at theoretical prices at all, you know that the fair value price is not always the price the market is setting for the same option. </p>
+<p>
+
+<table><tr><td><strong>
+
+<a href='../images/OF-volatility5.gif'><img class='clImageThumb' src='../images/OF-volatility5.gif'></a>
+
+</strong></td></tr><tr><td>Copyright © 2007 Investopedia.com</td></tr><tr><td>Figure 5: Black-Scholes options pricing model inputs</td></tr></table>
+
+</p>
+<p>Figure 6 helps to explain the fact that option prices in the marketplace tend to deviate from theoretical prices. This fact is captured in the reverse flow model in Figure 6, which shows that the price output is now an input and the volatility input is now an output. The model is solved for volatility when market price is used as an input, and this essentially is how IV gets calculated. Therefore, if market price is greater than it was the day before (all other things remaining the same), the explanation for that difference is attributed to implied volatility.</p>
+<p>
+
+<table><tr><td><strong>
+
+<a href='../images/OF-volatility6.gif'><img class='clImageThumb' src='../images/OF-volatility6.gif'></a>
+
+</strong></td></tr><tr><td>Copyright © 2007 Investopedia.com</td></tr><tr><td>Figure 6: Black-Scholes options pricing model reversed</td></tr></table>
+
+</p>
+<p>The exact derivation of IV we can leave to mathematicians. Practically speaking, if market price is above theoretical prices, this is simply the premium placed on an option's market price by market participants. They are expecting greater volatility than SV currently is signaling, and therefore the imputed volatility, or IV, is telling us what the best guess of the marketplace is for the future volatility of the underlying stock. </p>
+
+<p>
+Again, this generally is unconnected to direction. Rising IV will generally lift all boats, but IV skews may become more pronounced if they are regular features of a particular market. Skews, also known as IV "<u>smiles</u>" or "smirks" are cause by the warping of prices by the marketplace away from theoretical prices. Therefore, IV levels can vary for each strike along a strike price chain, or across different expiration dates.</p>
+<p><strong>Conclusion</strong></p>
+<p>Implied volatility (IV) measures the market's expected best guess of future volatility of the underlying. It is calculated using the market price of an option, along with other inputs used in price models, and then solving for volatility, in effect by working backwards to solve the price equation (it is actually an iterative process). While this may oversimplify the math somewhat, what is important to remember is that IV captures the degree of excess or deficit value on an option in terms of its theoretical price. Many broker trading platforms provide an IV value for each strike (and usually an average IV for all the stock's options), so you don't need to do the calculation. What should be done, instead, is an analysis of how high or low IV is in relation to previous levels so you can avoid one of the common mistakes made by traders: buying high IV and selling low IV.</p>
+
+<p>
+
+<h2>Options Volatility: Valuation</h2>
+
+
+<p>As we've already learned, volatility comes in two forms: statistical (historical volatility) and implied (IV). We saw how past levels of IV can be used to determine how expensive options premiums are (relative to past levels). In this segment, the relationship of IV to historical volatility will be used to show how to evaluate whether an option is "overvalued" or "undervalued". </p>
+
+<p>Recall that an option trades at prices that may not be the same as theoretical values. In other words, an option's price may not be in line with valuations from the perspective of option pricing models (i.e., Black-Scholes). What should we make of this deviation, which is often referred to as mispricing? Academics make careers out of trying to recast options pricing in an attempt to find a better model - better in the sense that it does a more accurate job of explaining where option prices are at any point in time. This usually involves using different measures of historical volatility, but the issue goes well beyond the scope of this tutorial. (For related reading, see <em>Understanding Option Pricing</em>.)</p>
+<p><strong>IV Relative to Historical Volatility</p>
+<p></strong>When IV and historical volatility are derived using normalized methods relative to price, the two volatilities can be compared, in terms of both current levels and past levels, as seen in Figure 7. As the chart shows, the two levels of volatility can oscillate around each other at certain times, and can remain at different levels for extended periods before crossing again. The charts present a 20-day exponential moving average of current volatility levels, which smooths (or dampens) daily noise. </p>
+<p>The chart shows historical volatility and IV between June 2003 and August 2007 for Altria Group Inc. (NYSE:MO). Historical volatility represents the actual volatility of the underlying stock, while the IV plot represents the volatility that is implied by the market price of the options trading on MO. Historical volatility and IV can at times remain quite similar, even if they don't remain exactly the same. When they are the same or close to the same, this means that the actual options prices are implying a volatility level that is close to the same as the volatility of the underlying stock. </p>
+<p>However, at times historical volatility and IV can significantly deviate from each other. This can be the basis for finding options that are significantly under- or overvalued. Additionally, by looking at average levels of both historical volatility and IV, it is possible to determine when either of the two types of volatility have moved significantly away from their average or normal levels. Some argue that it is easier to predict the direction of volatility than the price of the stock itself. With the right options strategy, it might be possible, therefore, to trade a return of volatility to normal levels, which seems to happen at regular intervals. There are also seasonal factors at work that can be isolated for possible volatility trading. </p>
+
+<p><strong>IV and Historical Volatility Spikes</p>
+<p></strong>There are a number of conditions shown in Figure 7 that capture the above conditions. First, in 2003, a spike in IV can be seen (near 39%), which represents very high implied volatility. That is, option prices are very expensive. In September 2004, meanwhile, historical volatility goes below 10%, meaning the stock volatility has declined sharply. Obviously, just the reverse of high IV and low historical volatility can be seen at different times, which would represent the opposite option price valuation conditions. </p>
+<p>When IV is greater than historical volatility, options are thought to be overvalued, and when IV is less than historical volatility, options are considered to be undervalued. In Figure 7, both conditions are indicated (IV &lt; historical volatility and IV &gt; historical volatility). </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility7.gif'><img class='clImageThumb' src='../images/OF-volatility7.gif'></a>
+
+</td></tr><tr><td>Generated by OptionsVue 5 Options Analysis Software</td></tr><tr><td>Figure 7: Altria Group Inc. implied and historical volatility charts. Historical volatility (historical (statistical) volatility is marked by a brown line; implied volatility is shown in blue.</td></tr></table>
+
+</p>
+<p>IV is a measure that captures projected volatility, a value that depends on how expensive options are in the marketplace. Historical volatility, meanwhile, is a measure of how the volatility of the underlying stock or futures contract has been over the recent past. Because historical volatility is an input in pricing models, it indirectly affects theoretical price levels. </p>
+<p><strong>Options Mispricing</p>
+<p></strong>If actual prices for options are greater than historical volatility modeled theoretical prices, IV will pick up this mispricing. The mispricing can be above or below theoretical prices, which is perhaps the easiest way to understand overvalued options (above theoretical) and undervalued options (below theoretical) pricing. When the market prices are greater than theoretical prices, IV will be greater than historical volatility and when market prices are less than theoretical prices, IV will be less than historical volatility. </p>
+
+<p>
+Looking at Figure 7 again, when IV &lt; historical volatility (options prices are undervalued as indicated with arrows in the early 2004 period with a spike up in historical volatility), we have a situation that would lend itself to a buying strategy because you can buy options at a theoretical discount. For conditions where IV &gt; historical volatility (options prices are overvalued as indicated with arrows in the early 2006 period), the consideration of a selling strategy should be the proper protocol. But to add even more volatility edge, this rule should be combined with an analysis of how expensive or cheap options are at the same time.</p>
+<p>Figure 8 provides a summary of the ideal conditions for selling and buying options. The conditions of high or low IV and historical volatility refer to levels of both measures of volatility relative to past levels. As we saw in Figure 7, these levels can be evaluated using a look-back period over a number of years. The more time in the look-back period, the better.  </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td>-</td><td><strong>High Implied Volatility</strong></td><td><strong>Low Implied Volatility</strong></td><td><strong>High Historical Volatility</strong></td><td><strong>Low Historical Volatility</strong></td></tr><tr><td><strong>Implied  &gt; Historical</strong></td><td>Selling Bias</td><td>Mixed</td><td>Selling Bias</td><td>Mixed</td></tr><tr><td><strong>Implied &lt; Historical</strong></td><td>Mixed</td><td>Buying Bias</td><td>Mixed</td><td>Buying Bias</td></tr></table>
+
+
+
+<table><tr><td>  Figure 8<strong>:</strong> Volatility conditions for selling and buying options</td></tr></table>
+
+</p>
+<p>When IV or historical volatility are high and IV &gt; historical volatility, typically this is an ideal time for selling options. Here, both theoretical prices will be high due to high historical volatility (if historical volatility is high and IV &gt; historical volatility, then IV must be high, too) and the actual high-priced options prices will be projecting even higher volatility, which adds additional overvalued premium in the marketplace. For buying, meanwhile, when IV or historical volatility are low and IV &lt; historical volatility, the reverse valuation conditions exist. Options are cheap and undervalued. The remaining relationships in Figure 8 show mixed volatility conditions, which are not ideal for either selling or buying. </p>
+<p><strong>Conclusion </p>
+<p></strong>The concept of under- and overvalued options is explained and illustrated with historical implied volatility relative to historical volatility levels. Additionally, high and low IV and historical volatility (not greater than or equal to) conditions were shown to indicate expensive and cheap options, respectively. The ideal conditions for selling and buying options were also presented. High IV combined with IV &gt; historical volatility make for the best conditions for selling while buying options generally is statistically superior when IV is low and IV &lt; historical volatility.</p>
+<p>
+
+
+<h2>Option Volatility: Strategies and Volatility</h2>
+
+
+<p>When an option position is established, either net buying or selling, the volatility dimension often gets overlooked by inexperienced traders, largely due to lack of understanding. For traders to get a handle on the relationship of volatility to most options strategies, first it is necessary to explain the concept known as Vega. </p>
+
+
+<p>Like Delta, which measures the sensitivity of an option to changes in the underlying price, <em>Vega</em> is a risk measure of the sensitivity of an option price to changes in volatility. Since both can be working at the same time, the two can have a combined impact that works counter to each or in concert. Therefore, to fully understand what you might be getting into when establishing an option position, both a Delta and Vega assessment are required. Here Vega is explored, with the important ceteris paribus assumption (other things remaining the same) throughout for simplification.</p>
+<p><strong>Vega and the Greeks</p>
+<p></strong>Vega, just like the other "Greeks" (<em>Delta, Theta</em>, <em>Rho</em>, <em>Gamma</em>) tells us about the risk from the perspective of volatility. Traders refer to options positions as either "long" volatility or "short" volatility (of course it is possible to be "flat" volatility as well). The terms long and short here refer to the same relationship pattern when speaking of being long or short a stock or an option. That is, if volatility rises and you are short volatility, you will experience losses, <em>ceteris paribus</em>, and if volatility falls, you will have immediate unrealized gains. Likewise, if you are long volatility when implied volatility rises, you will experience unrealized gains, while if it falls, losses will be the result (again, ceteris paribus).(For more on these factors see, <em>Getting to Know The "Greeks"</em>.) </p>
+<p>Volatility works its way through every strategy. Implied volatility and historical volatility can gyrate significantly and quickly, and can move above or below an average or "normal" level, and then eventually revert to the mean. </p>
+<p> Let's take some examples to make this more concrete. Beginning with simply buying calls and puts, the Vega dimension can be illuminated. Figures 9 and 10 provide a summary of the Vega sign (negative for short volatility and positive for long volatility) for all outright options positions and many complex strategies.</p>
+
+
+
+<table><tr valign="bottom" bgcolor="#cccccc"><td valign="top"> -</p>
+<p></td><td valign="top"><strong>Vega Sign</strong></p>
+<p></td><td valign="top"><strong>Rise in IV</strong></p>
+<p></td><td valign="top"><strong>Fall in IV</strong></p>
+<p></td></tr><tr><td valign="top"><strong>Long call</strong></p>
+<p></td><td valign="top">Positive</p>
+<p></td><td valign="top">Gain</p>
+<p></td><td valign="top">Lose</p>
+<p></td></tr><tr><td valign="top"><strong>Short call</strong></p>
+<p></td><td valign="top">Negative</p>
+<p></td><td valign="top">Lose</p>
+<p></td><td valign="top">Gain</p>
+<p></td></tr><tr><td valign="top"><strong>Long put</strong></p>
+<p></td><td valign="top">Positive</p>
+<p></td><td valign="top">Gain</p>
+<p></td><td valign="top">Lose</p>
+<p></td></tr><tr><td valign="top"><strong>Short put</strong></p>
+<p></td><td valign="top">Negative</p>
+<p></td><td valign="top">Lose</p>
+<p></td><td valign="top">Gain</p>
+<p></td></tr></table>
+
+
+
+<table><tr><td>Figure 9: Outright options positions, Vega signs and profit and loss (ceteris paribus).</td></tr></table>
+
+</p>
+<p>The long call and the long put have positive Vega (are long volatility) and the short call and short put positions have a negative Vega (are short volatility). To understand why this is, recall that volatility is an input into the pricing model - the higher the volatility, the greater the price because the probability of the stock moving greater distances in the life of the option increases and with it the probability of success for the buyer. This results in option prices gaining in value to incorporate the new risk-reward. Think of the seller of the option  - he or she would want to charge more if the seller's risk increased with the rise in volatility (likelihood of larger price moves in the future). </p>
+<p>Therefore, if volatility declines, prices should be lower. When you own a call or a put (meaning you bought the option) and volatility declines, the price of the option will decline. This is clearly not beneficial and, as seen in Figure 9, results in a loss for long calls and puts. On the other hand, short call and short put traders would experience a gain from the decline in volatility. Volatility will have an immediate impact, and the size of the price decline or gains will depend on the size of Vega. So far we have only spoken of the sign (negative or positive), but the magnitude of Vega will determine the amount of gain and loss. What determines the size of <em>Vega</em> on a short and long call or put?</p>
+
+
+
+<p>The easy answer is the size of the premium on the option: The higher the price, the larger the Vega. This means that as you go farther out in time (imagine LEAPS options), the Vega values can get very large and pose significant risk or reward should volatility make a change. For example, if you buy a LEAPS call option on a stock that was making a market bottom and the desired price rebound takes place, the volatility levels will typically decline sharply (see Figure 11 for this relationship on S&amp;P 500 stock index, which reflects the same for many big cap stocks), and with it the option premium. </p>
+<p>
+
+<table><tr bgcolor="#cccccc"><td valign="top">-</td><td valign="top"><strong>Vega Sign</strong></td><td valign="top"><strong>Rise in IV</strong></td><td valign="top"><strong>Fall in IV</strong></td></tr><tr><td valign="top"><strong>Short Strangle</strong></td><td valign="top">Negative</td><td valign="top">Lose</td><td valign="top">Gain</td></tr><tr><td valign="top"><strong>Short Strangle</strong></td><td valign="top">Negative</td><td valign="top">Lose</td><td valign="top">Gain</td></tr><tr><td valign="top"><strong>Long Strangle</strong></td><td valign="top">Positive</td><td valign="top">Gain</td><td valign="top">Lose</td></tr><tr><td valign="top"><strong>Long Straddle</strong></td><td valign="top">Positive</td><td valign="top">Gain</td><td valign="top">Lose</td></tr><tr><td valign="top"><strong>Backspread</strong></td><td valign="top">Positive</td><td valign="top">Gain</td><td valign="top">Lose</td></tr><tr><td valign="top"><strong>Ratio Spread</strong></td><td valign="top">Negative</td><td valign="top">Lose</td><td valign="top">Gain</td></tr><tr><td valign="top"><strong>Credit Spread</strong></td><td valign="top">Negative</td><td valign="top">Lose</td><td valign="top">Gain</td></tr><tr><td valign="top"><strong>Debit Spread</strong></td><td valign="top">Positive</td><td valign="top">Gain</td><td valign="top">Lose</td></tr><tr><td valign="top"><strong>Butterfly Spread</strong></td><td valign="top">Negative</td><td valign="top">Lose</td><td valign="top">Gain</td></tr><tr><td valign="top"><strong>Calendar Spread</strong></td><td valign="top">Positive</td><td valign="top">Lose</td><td valign="top">Gain</td></tr></table>
+
+
+
+<table><tr><td>Figure 10: Complex options positions, Vega signs and profit and loss (ceteris paribus).</td></tr></table>
+
+</p>
+<p>Figure 11 presents weekly price bars for the S&amp;P 500 alongside levels of implied and historical volatility. Here it is possible to see how price and volatility relate to each other. Typical of most big cap stocks that mimic the market, when price declines, volatility rises and vice versa. This relationship is important to incorporate into strategy analysis given the relationships pointed out in Figure 9 and Figure 10. For example, at the bottom of a selloff, you would not want to be establishing a long strangle, backspread or other positive Vega trade, because a market rebound will pose a problem resulting from collapsing volatility. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility11.gif'><img class='clImageThumb' src='../images/OF-volatility11.gif'></a>
+
+</td></tr><tr><td>Generated by OptionsVue 5 Options Analysis Software.</td></tr><tr><td>Figure 11: S&amp;P 500 weekly price and volatility charts. Yellow bars highlight areas of falling prices and rising implied and historical. Blue colored bars highlight areas of rising prices and falling implied volatility.</td></tr></table>
+
+</p>
+<p><strong>Conclusion </p>
+<p></strong>This segment outlines the essential parameters of volatility risk in popular option strategies and explains why applying the right strategy in terms of Vega is important for many big cap stocks. While there are exceptions to the price-volatility relationship evident in stock indexes like the S&amp;P 500 and many of the stocks that comprise that index, this is a solid foundation to begin to explore other types of relationships, a topic to which we will return in a later segment.
+
+
+<h2>Option Volatility: Vertical Skews and Horizontal Skews</h2>
+
+
+<p>One of the most interesting aspects of volatility analysis is the phenomenon known as a price skew. When options prices are used to compute implied volatility (IV), what becomes apparent from a look at all the individual option strikes and associated IV levels is that the IV levels for each strike are not always the same - and that there are patterns to this IV variability. </p>
+
+
+<p>While you may have seen IV values for a particular stock before, these usually are derived from an average (sometimes weighted) of all strikes, or near the money strikes, or even at-the-money strikes of the nearest trading month. As you take a closer look, however, which we will do here, the variability of IV along the option strike chain will reveal what is known as an IV skew. </p>
+<p>There are two main groups of skews - horizontal and vertical. The vertical skew will be looked at first. In this case, you'll see how volatility changes depending on the strike price. Then we'll check out an example of a horizontal skew, which is a skew across time (options with different expiration dates).    </p>
+<p><strong>Forward and Reverse Skews </p>
+<p></strong>There are two main types of vertical IV skews - forward (positive) or reverse (negative). The options on stock market indexes (i.e., OEX, SPX) have a permanent reverse IV skew. This pattern of IV variability is common to most equity market indexes and many of the stocks that make up those indexes. </p>
+<p>With a reverse vertical IV skew, at lower option strikes IV is <em>higher</em> and at higher option strikes IV is <em>lower</em>. Figure 12 presents an example of a reverse IV skew on the S&amp;P 500 stock index call options. </p>
+<p><em>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility12.gif'><img class='clImageThumb' src='../images/OF-volatility12.gif'></a>
+
+</td></tr><tr><td>Generated using OptionVue 5 Options Analysis Software.</td></tr><tr><td>Figure 12: Reverse IV skew on S&amp;P 500 index call options. IV falls moving from lower to higher points on the strike price chain, as seen in the IV levels highlighted in yellow.</td></tr></table>
+
+</p>
+<p></em>The first of three data columns (next to the strikes) in Figure 12 contain option market prices and the far right column contains time premium on the options. The arrows point to the higher and lower strikes in both expiration months with associated IV levels, which indicates vertical reverse skews.  </p>
+
+<p>It is easy to identify the vertical reverse skew in Figure 12. For example, the August 1440 call option has an IV of 28.21% compared with a lower IV on the higher August 1540 call strike, which has an IV of 23.6%. The lower the options on the strike chain (whether calls or puts), the higher the IV will be. </p>
+
+<p>September options are included in Figure 12 and the skew is present there, too. Note that the IV levels across time (August vs. September) are not the same on these strikes. Instead, the front month August options have developed a higher level of IV. This is known as a horizontal skew, which is discussed below.</p>
+<p>As you can see in Figure 13, which contains implied volatility levels on S&amp;P 500 stock index put options (for the same day as in Figure 12), the IV on August 1460 put strike is 26.9%.  As you move down the strike chain, however, IV rises to 37.6%, as seen on the 1340 put strike. These IV levels were captured at the close of trading following a big drop in the S&amp;P (-44 points) on August 9, 2007. While the skew is always there, it can intensify following market drops. The reverse forward skew exists largely in response to the possibility of a market crash that may not be captured in the standard pricing models. That is, risk is priced into the options to take into account the possibility, however remote at any point in time, of a large market decline. </p>
+<p><strong>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility13.gif'><img class='clImageThumb' src='../images/OF-volatility13.gif'></a>
+
+</td></tr><tr><td>Generated using OptionVue 5 Options Analysis Software</td></tr><tr><td>Figure 13: Reverse IV skew on S&amp;P 500 index put options. IV falls moving from lower to higher points on the strike price chain, as seen in the IV levels highlighted in yellow.</td></tr></table>
+
+</strong></p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility14.gif'><img class='clImageThumb' src='../images/OF-volatility14.gif'></a>
+
+</td></tr><tr><td>Generated using OptionVue 5 Options Analysis Software</td></tr><tr><td>Figure 14: Forward (Positive) IV skew on March Coffee call options. IV levels rise at  higher points on the strike price chain.</td></tr></table>
+
+</p>
+<p>Figure 14 presents a vertical forward skew on March coffee options. With a forward vertical IV skew, at lower option strikes IV is <em>lower</em> and at higher option strikes IV is <em>higher</em>.  </p>
+
+<p>
+With commodities, the higher IV typically rises on higher strikes due to the perceived risk of a price explosion to the upside resulting from a sudden supply disruption. The IV levels might increase on out-of-the-money calls, for example, if there is growing possibility of a frost that could disrupt supply. If the event does not transpire, IV levels might quickly return to more normal levels.</p>
+<p>The skews identified in Figures 12 through 14 might be best characterized as "smirks", but it is possible to find different patterns of variability. Patterns may at times resemble a "smile", which means that the IV levels on out-of-the-money puts and calls are elevated relative to the near or at-the-money options. This might arise ahead of corporate news announcements or pending news of a nature that will likely result in a big move for a stock. The reverse skew of Figures 12 and 13, on the other hand, is always present, although the relative and absolute levels of the IV on the strikes may change depending on levels of investor fear in the market at any one time. </p>
+<p><strong>Horizontal Skews</p>
+<p></strong>In Figure 15, a horizontal skew can be seen on March coffee call options. There is a 5% difference between IV levels on the Dec 155 call options and March 155 call options, with the front month having higher levels. Generally speaking, it is possible for options in any one month to acquire higher IV levels than other months, and as with commodities, it is true for stocks. This phenomenon is largely driven by expected price moves surrounding an impending news event or possibly weather or supply conditions that may impact the price of commodities. These skews can arise and disappear as the news event approaches and then passes.</p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility15.gif'><img class='clImageThumb' src='../images/OF-volatility15.gif'></a>
+
+</td></tr><tr><td>Generated using OptionVue 5 Options Analysis Software</td></tr><tr><td>Figure 15: Horizontal IV skew on March coffee call options. IV for December out-of-the-money call options has a forward positive skew. The options are also trading at higher IV levels than their counterparts in March (i.e., 155 call options).</td></tr></table>
+
+</p>
+<p><strong>Conclusion </p>
+<p></strong>In this segment of the volatility tutorial, several types of option IV skews are presented. The reverse skew, forward skew and horizontal skew. These are common types of skews that are found in option markets. The exact shape may vary in each real world case but the basic structures will repeat again and again. Strategies can be applied to identify skews that optimize the IV pricing and possible changes in skew pricing that can occur when a skew returns to pre-skew levels.
+
+
+<h2>Option Volatility: Predicting Big Price Moves</h2>
+
+
+
+
+<p>Implied volatility levels were shown previously to move inversely to the price of most big cap stocks and options on major market averages. In the previous chapter on valuation, we presented past implied volatility (IV) and historical volatility levels for Altria Group, Inc. (NYSE:MO) that made this relationship very clear. However, for many stocks and commodities, this relationship does not apply. Often, high IV levels flag an impending price explosion - moves that may be up or down and that are accompanied by a collapse back to normal IV levels. You will see this pattern repeat again and again, most often in biotech stocks, but even in other tech names. (For related reading, see <em>The Ups And Downs Of Biotechnology</em>.) </p>
+
+
+<p>In this segment, an example is presented to illustrate this alternative view of the price-volatility relationship. In the following segment, we will return to the inverse relationship to explore ways to predict market swings using extreme IV levels (looking at the VIX as an example) to go against the extreme crowd psychology threshold points. (For background reading, see <em>The Price-Volatility Relationship: Avoiding Negative Surprises</em>.)</p>
+<p><strong>High IV and Price Explosions</p>
+<p></strong>Recall how price and IV were shown to move inversely, as seen in Figure 16. Figure 16 presents weekly price bars for the S&amp;P 500 alongside levels of IV (measured in the VIX index) and historical volatility. Here it is possible to see how price and volatility relate to each other. Typical of most big cap stocks that mimic the market, when price declines, volatility rises and vice versa. </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility16.gif'><img class='clImageThumb' src='../images/OF-volatility16.gif'></a>
+
+</td></tr><tr><td>Generated by OptionsVue 5 Options Analysis Software</td></tr><tr><td>Figure 16: S&amp;P 500 Weekly Price &amp; Volatility Charts. Yellow bars highlight areas of falling prices and rising implied and historical volatility. Blue bars highlight areas of rising prices and falling implied volatility.</td></tr></table>
+
+</p>
+<p>At high levels of IV, the market has been very bearish and at low levels of IV the market has generally been bullish. However, not all stocks behave this way. Spikes up in IV may be associated with little or no movement of the stock price when the levels remain high. Typically, this occurs when there is an approaching corporate news event, which drives up option prices while the stock quiets down (historical volatility would be falling in this case). Figure 17 presents the example of AtheroGenetics (Nasdaq:AGIX), which shows several periods of sharply rising IV ahead of big price moves. </p>
+<p>Following the sharp rise in IV levels seen in late February and early March 2007, which preceded the release of phase III trials for the company's heart disease drug, the stock plunged when the trial results disappointed. The stock dropped 71.8% in two sessions following the bad news. And with the price drop, IV levels can be seen collapsing back to the 100% level from just over 275%. Another spike higher in IV can be seen in September 2004, where IV rose from just above 50% up to 150% rather quickly, which flagged an impending sharp rise in the stock price.  </p>
+<p>While volume is not shown here, there will also usually be associated rising volume levels compared with average levels. IV will rise compared with average levels, and it is a good idea to use a daily IV calculation and look at this number in relation to different moving averages of IV (traders will typically use 10- 20- and 30-day IV moving averages). </p>
+<p>You can also compare daily IV to moving averages of historical volatility for a clue about an increase in speculative demand for the options, which will be captured in the rising IV relative to average historical volatility. Traders with insider information might be taking highly leveraged positions, and traders who watch those traders, so generally you will get rising volume and IV levels together, although not always.   </p>
+<p>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility17.gif'><img class='clImageThumb' src='../images/OF-volatility17.gif'></a>
+
+</td></tr><tr><td>Generated by OptionsVue 5 Options Analysis Software</td></tr><tr><td>Figure 17: AtheroGenetics (AGIX) Weekly Price &amp; Volatility Charts. Yellow bars highlight areas of rising IV preceding big price moves.</td></tr></table>
+
+</p>
+<p>As is clear in Figure 17, there is a divergence of implied volatility from historical volatility ahead corporate news, which often gets reversed once the news is out. Historical volatility may even go higher with a big price move following the event, while IV collapses back to a normal level. In Figure 17, IV (blue line) often begins to diverge sharply from historical volatility levels (brown line), and in some instances, historical volatility will move in an opposite direction to IV as the stock price volatility dampens ahead of the explosion in price that follows a run-up in IV. </p>
+
+<p>
+Trading this information is difficult because the direction of the price move is not known. While it is possible to try to see what insiders are doing and to mimic their behavior, this is not always easy and may lead to erroneous results. Buying out-of-the-money options is a poor strategy even if you know which way the stock is headed. This is because the options are trading at extreme price levels, as indicated by the sky-high IV. When the move occurs, assuming you bought the right options, the collapse in IV will often erase most of he gains. Selling strategies, meanwhile, may pose a problem because the price moves can be so big that you may find that the risk is not worth the reward. While there are other ways to trade these high IV levels, the topic is outside the scope of this tutorial. The important point is to know how IV can be used to scan for stocks that ready to make explosive moves and what this means in terms of option pricing.</p>
+<p><strong>Conclusion </p>
+<p></strong>This segment of the volatility tutorial provides a look at using IV to flag impending stock moves. Ahead of corporate news events (takeovers, drug trial results, etc.), speculators will buy options and push premiums up, which are reflected in sharply higher IV levels. Whether the speculators know something or not, the point is that IV levels at least can tell you that something is brewing. When the news event occurs, IV levels typically return to more normal levels, which will cause the high option prices to deflate. This makes a buying approach difficult, although not impossible. </p>
+<p>
+
+
+<h2>Option Volatility: Contrarian Indicator</h2>
+
+
+
+<p>Like with other measures of market sentiment, implied volatility (IV) can be used to gauge how extreme investor moods have become and to better anticipate major market turning points. In this segment of the options volatility tutorial, we'll present some examples of how IV levels, using the CBOE Volatility Index (VIX) index, relate to past and future price moves. </p>
+
+
+<p>While the examples presented here are weekly close prices, higher frequency analysis can be applied as well. That is, VIX or IV levels on stocks can be tracked in shorter time frames (including intraday) to identify short-term oversold and overbought conditions, where reversions to a short-term mean of implied volatility frequently occur. Therefore, applying a contrarian approach has the potential to yield above-average returns.</p>
+<p><strong>IV as a Measure of the Investor Crowd</p>
+<p></strong>The VIX index is a popular gauge of investor moods and, as seen in Figure 18, can swing wildly quite frequently. It measures how expensive the options on the S&amp;P 500 stock index are. You can find historical data available for download at the Chicago Board Options Exchange (CBOE).</p>
+
+<p><strong>
+
+<table><tr><td><em>
+
+<a href='../images/OF-volatility18.gif'><img class='clImageThumb' src='../images/OF-volatility18.gif'></a>
+
+</em></td></tr><tr><td>Copyright © 2007 Investopedia.com</td></tr><tr><td>Figure 18: VIX implied volatility index since 1990. Note the extreme spikes above 40 during the worst periods of the bear market during 2000-2002. VIX rises sharply as investor fear intensifies.</td></tr></table>
+
+</strong></p>
+<p>When investors are fearful, and markets are bearish, VIX will rise. When fear recedes, VIX declines. However, long-term low levels of the VIX have been associated with bull markets, where VIX at extreme lows signaled a major market advance, as seen in Figure 19. In 1994 and 2004, VIX remained below 20 and the market developed significant bullish trends. (To learn more, read <em>Getting a VIX On Market Direction</em>.)</p>
+
+<p>Introduced in 1993, VIX has grown to become one of the most popular gauges of investor sentiment and the volatility of the stock market. VIX is a measure of implied volatility, capturing the market's expectation of 30-day volatility implied by the near-term options on the S&amp;P 500 Index. (For more on this, see <em>Volatility - The Birth Of A New Asset Class</em>.)</p>
+<p><strong>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility19.gif'><img class='clImageThumb' src='../images/OF-volatility19.gif'></a>
+
+</td></tr><tr><td>Copyright © 2007 Investopedia.com</td></tr><tr><td>Figure 19<strong>:</strong> S&amp;P 500 alongside levels of VIX. Here it is possible to see how price and volatility relate to each other. Typical of most big cap stocks that mimic the market, when price declines, volatility (VIX in this case) rises and vice versa.</td></tr></table>
+
+</strong></p>
+<p>VIX reacts to sharp drops in the S&amp;P 500, as seen in Figure 19. During each of the major market meltdowns (1997, 1998, 2001, 2002), VIX ran up sharply, signaling a market bottom was near. While VIX was created in 1993, because options have traded since the early 1980s, it was possible to back-build the VIX index (see the CBOE's website for a complete downloadable history). During the 1987 market crash, the VIX increased to levels above 100, hitting an intraday level of 172.79 on October 20, 1987. This number is based on S&amp;P 100 options, not S&amp;P 500 options. The VIX methodology was changed in 2003 to use S&amp;P 500 options instead of S&amp;P 100 options. </p>
+
+
+<p>Because VIX has a long-term trend cycle to it, however, the best way to view the VIX is with moving averages. Figure 20 presents VIX with moving averages (10- and 50-day moving averages), which allows for better identification of short-term extreme levels when markets are overbought or oversold, irrespective of any longer term levels.</p>
+<p><strong>
+
+<table><tr><td>
+
+<a href='../images/OF-volatility20.gif'><img class='clImageThumb' src='../images/OF-volatility20.gif'></a>
+
+</td></tr><tr><td>Copyright © 2007 Investopedia.com</td></tr><tr><td>Figure 20: Daily VIX and S&amp;P 500 price charts. When the VIX 10-day moving average moves too far away from the 50-day moving average, the S&amp;P 500 typically experiences a correction, as indicated by the small black arrows.</td></tr></table>
+
+</strong></p>
+<p>As seen in Figure 20, spikes of the VIX are smoothed with a 10-day moving average. As the 10-day moving average moves above the 50-day moving average, the market conditions are clearly turning bearish. And as the 10-day moving average moves below the 50-day moving average, the market conditions are clearly turning bullish. But when the deviation of the 10- and 50-day is stretched (different measures can be used to define "stretched"), a reversion to the mean occurs as the 10-day moving average returns back to the level of the 50-day moving average. This cycling of sentiment is a good contrarian indicator and can be used for better timing of market swings.</p>
+<p><strong>Conclusion </p>
+<p></strong>In this segment of the volatility tutorial, the VIX implied volatility index for S&amp;P 500 index options is explained and presented. It was shown how the two indexes (VIX and S&amp;P 500) move inversely and that with the application of different moving averages to daily VIX prices, it is possible to identify overbought and oversold regions of the S&amp;P 500. This contrarian method provides a basis for better timing of the market for investors.   </p>
+
+
+
+<h2>Options Volatility: Conclusion</h2>
+
+
+<p>Trading options without an understanding of volatility is like operating on a patient without knowing what role blood flow plays in the human body. Unfortunately, too many traders launch into trading without the proper knowledge of volatility. </p>
+
+
+<p>A misunderstanding of volatility's dynamics can lead to painful losses, which otherwise might not have been experienced. A proper understanding of volatility, on the other hand, can inject enhanced profit potential into strategies. </p>
+<p>Toward this end, this tutorial has highlighted the following essential areas of volatility to provide a basis to explore the subject in greater depth later (see suggested resources below).</p>
+<ol type="1"><li>Understanding the difference between historical and implied volatility    </li><li>Applying historical and implied volatility to pricing and valuation determination    </li><li>Getting a feel for how volatility impacts option strategies' potential risk and reward     </li><li>Acquiring insights into implied volatility skews    </li><li>Using options volatility to predict price moves    </li><li>Analyzing investor crowd psychology with options implied volatility (VIX) </li></ol></p>
+<p>To further develop you knowledge of volatility, check out "Option Volatility &amp; Pricing: Advanced Trading Strategies and Techniques" by Sheldon Natenberg (second edition, 1994). Another recommended test is "Options As A Strategic Investment (fourth edition, 2002) by Lawrence Mcmillan. These two books should provide all the necessary concepts needed to fully understand volatility in all aspects of trading options. </p>
+
+<p>
+Online sources of information include the Chicago Board Options Exchange website, where you can get intraday and end-of-day quotes for the VIX (implied volatility index) and other volatility indexes on major stock market averages. Additional volatility data is available at the CBOE website for individual stocks. </p>
+<p>
+<div>
+</p>
+<p>
+
+
+
+</div>
+</div>
+</body>
+</html>

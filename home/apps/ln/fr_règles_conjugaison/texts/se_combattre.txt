@@ -1,0 +1,190 @@
+# se combattre %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|se combat%[m|tre]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|s'être|combat%[m|tu]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|se combat%[m|tant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+|-|
+|s'étant|combat%[m|tu]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en se combat%[m|tant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en s'étant|combat%[m|tu]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|me|combat%[m|s]|
+|tu|te|combat%[m|s]|
+|il|se|combat%[m|]|
+|nous|nous|combat%[m|tons]|
+|vous|vous|combat%[m|tez]|
+|ils|se|combat%[m|tent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|je|me|suis|combat%[m|tu]|
+|tu|t'|es|combat%[m|tu]|
+|il|s'|est|combat%[m|tu]|
+|nous|nous|sommes|combat%[m|tus]|
+|vous|vous|êtes|combat%[m|tus]|
+|ils|se|sont|combat%[m|tus]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|me|combat%[m|tais]|
+|tu|te|combat%[m|tais]|
+|il|se|combat%[m|tait]|
+|nous|nous|combat%[m|tions]|
+|vous|vous|combat%[m|tiez]|
+|ils|se|combat%[m|taient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|je|m'|étais|combat%[m|tu]|
+|tu|t'|étais|combat%[m|tu]|
+|il|s'|était|combat%[m|tu]|
+|nous|nous|étions|combat%[m|tus]|
+|vous|vous|étiez|combat%[m|tus]|
+|ils|s'|étaient|combat%[m|tus]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|me|combat%[m|tis]|
+|tu|te|combat%[m|tis]|
+|il|se|combat%[m|tit]|
+|nous|nous|combat%[m|tîmes]|
+|vous|vous|combat%[m|tîtes]|
+|ils|se|combat%[m|tirent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|je|me|fus|combat%[m|tu]|
+|tu|te|fus|combat%[m|tu]|
+|il|se|fut|combat%[m|tu]|
+|nous|nous|fûmes|combat%[m|tus]|
+|vous|vous|fûtes|combat%[m|tus]|
+|ils|se|furent|combat%[m|tus]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|me|combat%[m|trai]|
+|tu|te|combat%[m|tras]|
+|il|se|combat%[m|tra]|
+|nous|nous|combat%[m|trons]|
+|vous|vous|combat%[m|trez]|
+|ils|se|combat%[m|tront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|je|me|serai|combat%[m|tu]|
+|tu|te|seras|combat%[m|tu]|
+|il|se|sera|combat%[m|tu]|
+|nous|nous|serons|combat%[m|tus]|
+|vous|vous|serez|combat%[m|tus]|
+|ils|se|seront|combat%[m|tus]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|me|combat%[m|trais]|
+|tu|te|combat%[m|trais]|
+|il|se|combat%[m|trait]|
+|nous|nous|combat%[m|trions]|
+|vous|vous|combat%[m|triez]|
+|ils|se|combat%[m|traient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|je|me|serais|combat%[m|tu]|
+|tu|te|serais|combat%[m|tu]|
+|il|se|serait|combat%[m|tu]|
+|nous|nous|serions|combat%[m|tus]|
+|vous|vous|seriez|combat%[m|tus]|
+|ils|se|seraient|combat%[m|tus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|me|combat%[m|te]|
+|que|tu|te|combat%[m|tes]|
+|qu'|il|se|combat%[m|te]|
+|que|nous|nous|combat%[m|tions]|
+|que|vous|vous|combat%[m|tiez]|
+|qu'|ils|se|combat%[m|tent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|je|me|sois|combat%[m|tu]|
+|que|tu|te|sois|combat%[m|tu]|
+|qu'|il|se|soit|combat%[m|tu]|
+|que|nous|nous|soyons|combat%[m|tus]|
+|que|vous|vous|soyez|combat%[m|tus]|
+|qu'|ils|se|soient|combat%[m|tus]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|me|combat%[m|tisse]|
+|que|tu|te|combat%[m|tisses]|
+|qu'|il|se|combat%[m|tît]|
+|que|nous|nous|combat%[m|tissions]|
+|que|vous|vous|combat%[m|tissiez]|
+|qu'|ils|se|combat%[m|tissent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|je|me|fusse|combat%[m|tu]|
+|que|tu|te|fusses|combat%[m|tu]|
+|qu'|il|se|fût|combat%[m|tu]|
+|que|nous|nous|fussions|combat%[m|tus]|
+|que|vous|vous|fussiez|combat%[m|tus]|
+|qu'|ils|se|fussent|combat%[m|tus]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|combat%[m|s]-toi|
+|combat%[m|tons]-nous|
+|combat%[m|tez]-vous|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|-|
+|-|
+|-|
+|]
+

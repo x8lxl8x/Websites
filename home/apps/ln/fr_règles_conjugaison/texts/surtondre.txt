@@ -1,0 +1,190 @@
+# surtondre %[clVerbGroup|3]
+[-
+
+-]
+    
+### <span class='clType'>Infinitif</span> Présent
+[|-
+|surtond%[m|re]|
+|]
+
+### <span class='clType'>Infinitif</span> Passé
+[|-
+|avoir|surtond%[m|u]|
+|]
+
+### <span class='clType'>Participe</span> Présent
+[|-
+|surtond%[m|ant]|
+|]
+
+### <span class='clType'>Participe</span> Passé
+[|-
+||surtond%[m|u]|
+|ayant|surtond%[m|u]|
+|]
+
+### <span class='clType'>Gérondif</span> Présent
+[|-
+|en surtond%[m|ant]|
+|]
+
+### <span class='clType'>Gérondif</span> Passé
+[|-
+|en ayant|surtond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Présent
+[|-
+|je|surtond%[m|s]|
+|tu|surtond%[m|s]|
+|il|surtond%[m|]|
+|nous|surtond%[m|ons]|
+|vous|surtond%[m|ez]|
+|ils|surtond%[m|ent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Composé
+[|-
+|j'|ai|surtond%[m|u]|
+|tu|as |surtond%[m|u]|
+|il|a|surtond%[m|u]|
+|nous|avons|surtond%[m|u]|
+|vous|avez|surtond%[m|u]|
+|ils|ont|surtond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Imparfait
+[|-
+|je|surtond%[m|ais]|
+|tu|surtond%[m|ais]|
+|il|surtond%[m|ait]|
+|nous|surtond%[m|ions]|
+|vous|surtond%[m|iez]|
+|ils|surtond%[m|aient]|
+|]
+
+### <span class='clType'>Indicatif</span> Plus-que-parfait
+[|-
+|j'|avais|surtond%[m|u]|
+|tu|avais|surtond%[m|u]|
+|il|avait|surtond%[m|u]|
+|nous|avions|surtond%[m|u]|
+|vous|aviez|surtond%[m|u]|
+|ils|avaient|surtond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Simple
+[|-
+|je|surtond%[m|is]|
+|tu|surtond%[m|is]|
+|il|surtond%[m|it]|
+|nous|surtond%[m|îmes]|
+|vous|surtond%[m|îtes]|
+|ils|surtond%[m|irent]|
+|]
+
+### <span class='clType'>Indicatif</span> Passé Antérieur
+[|-
+|j'|eus|surtond%[m|u]|
+|tu|eus|surtond%[m|u]|
+|il|eut|surtond%[m|u]|
+|nous|e&ucirc;mes|surtond%[m|u]|
+|vous|e&ucirc;tes|surtond%[m|u]|
+|ils|eurent|surtond%[m|u]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Simple
+[|-
+|je|surtond%[m|rai]|
+|tu|surtond%[m|ras]|
+|il|surtond%[m|ra]|
+|nous|surtond%[m|rons]|
+|vous|surtond%[m|rez]|
+|ils|surtond%[m|ront]|
+|]
+
+### <span class='clType'>Indicatif</span> Futur Antérieur
+[|-
+|j'|aurai|surtond%[m|u]|
+|tu|auras|surtond%[m|u]|
+|il|aura|surtond%[m|u]|
+|nous|aurons|surtond%[m|u]|
+|vous|aurez|surtond%[m|u]|
+|ils|auront|surtond%[m|u]|
+|]
+
+### <span class='clType'>Conditionnel</span> Présent
+[|-
+|je|surtond%[m|rais]|
+|tu|surtond%[m|rais]|
+|il|surtond%[m|rait]|
+|nous|surtond%[m|rions]|
+|vous|surtond%[m|riez]|
+|ils|surtond%[m|raient]|
+|]
+
+### <span class='clType'>Conditionnel</span> Passé
+[|-
+|j'|aurais|surtond%[m|u]|
+|tu|aurais|surtond%[m|u]|
+|il|aurait|surtond%[m|u]|
+|nous|aurions|surtond%[m|u]|
+|vous|auriez|surtond%[m|u]|
+|ils|auraient|surtond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Présent
+[|-
+|que|je|surtond%[m|e]|
+|que|tu|surtond%[m|es]|
+|qu'|il|surtond%[m|e]|
+|que|nous|surtond%[m|ions]|
+|que|vous|surtond%[m|iez]|
+|qu'|ils|surtond%[m|ent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Passé
+[|-
+|que|j'|aie|surtond%[m|u]|
+|que|tu|aies|surtond%[m|u]|
+|qu'|il|ait|surtond%[m|u]|
+|que|nous|ayons|surtond%[m|u]|
+|que|vous|ayez|surtond%[m|u]|
+|qu'|ils|aient|surtond%[m|u]|
+|]
+
+### <span class='clType'>Subjonctif</span> Imparfait
+[|-
+|que|je|surtond%[m|isse]|
+|que|tu|surtond%[m|isses]|
+|qu'|il|surtond%[m|ît]|
+|que|nous|surtond%[m|issions]|
+|que|vous|surtond%[m|issiez]|
+|qu'|ils|surtond%[m|issent]|
+|]
+
+### <span class='clType'>Subjonctif</span> Plus-que-parfait
+[|-
+|que|j'|eusse|surtond%[m|u]|
+|que|tu|eusses|surtond%[m|u]|
+|qu'|il|eût|surtond%[m|u]|
+|que|nous|eussions|surtond%[m|u]|
+|que|vous|eussiez|surtond%[m|u]|
+|qu'|ils|eussent|surtond%[m|u]|
+|]
+
+### <span class='clType'>Impératif</span> Présent
+[|-
+|surtond%[m|s]|
+|surtond%[m|ons]|
+|surtond%[m|ez]|
+|]
+
+### <span class='clType'>Impératif</span> Passé
+[|-
+|aie|surtond%[m|u]|
+|ayons|surtond%[m|u]|
+|ayez|surtond%[m|u]|
+|]
+
