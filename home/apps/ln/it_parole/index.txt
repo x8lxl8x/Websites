@@ -1,0 +1,4 @@
+<span class='clIndex'>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it_parole&varFileName=01.txt'>i giorni</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it_parole&varFileName=02.txt'>i mesi</a><br>
+</span>

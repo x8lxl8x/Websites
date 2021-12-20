@@ -1,4 +1,7 @@
 <span class='clIndex'>
-<h2>Ortografia</h2>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=01.txt'>Alfabeto</a><br>
+<h2>ortografia</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=01.txt'>alfabeto</a><br>
+<h2>numerali</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=02.txt'>cardinali</a><br>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=03.txt'>ordinali</a><br>
 </span>
