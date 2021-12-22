@@ -6,4 +6,6 @@
 <h2>numerali</h2>
 <a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=04.txt'>cardinali</a><br>
 <a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=05.txt'>ordinali</a><br>
+<h2>pronomi</h2>
+<a href='./book_reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=06.txt'>personali</a><br>
 </span>
