@@ -1,18 +1,18 @@
 <span class='clIndex'>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=01.txt'>Organs</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=02.txt'>Charts</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=03.txt'>Rules</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=04.txt'>Errors</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=01.txt'>Organs</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=02.txt'>Charts</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=03.txt'>Rules</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=04.txt'>Errors</a><br>
 <h2>Vowels</h2>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=05.txt'>Front</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=06.txt'>Central</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=07.txt'>Back</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=08.txt'>Diphthonges</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=09.txt'>R-Controlled</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=05.txt'>Front</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=06.txt'>Central</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=07.txt'>Back</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=08.txt'>Diphthonges</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=09.txt'>R-Controlled</a><br>
 <h2>Consonants</h2>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=10.txt'>Affricate</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=11.txt'>Fricative</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=12.txt'>Affricate</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=13.txt'>Nasal</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=14.txt'>Approximant</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=10.txt'>Affricate</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=11.txt'>Fricative</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=12.txt'>Affricate</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=13.txt'>Nasal</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phonetics&varAppArea=ln&varAppDir=en_phonetics&varFileName=14.txt'>Approximant</a><br>
 </span>

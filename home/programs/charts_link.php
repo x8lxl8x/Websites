@@ -1,13 +1,13 @@
 <?php
 #----------------------------------------------------------------------------------------------------
 
-include("./global_objects.php");
-include("./simple_html_dom.php");
+include("./global-objects.php");
+include("./simple-html-dom.php");
 
 #----------------------------------------------------------------------------------------------------
 
 $page_title     = "Charts Link";
-$currency_pair  = 'usd-chf';
+$currency_pair  = 'eur-usd';
 $page_url_src   = "https://www.investing.com/currencies/{$currency_pair}-chart";
 
 #----------------------------------------------------------------------------------------------------

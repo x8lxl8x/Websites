@@ -1,5 +1,5 @@
 <span class='clIndex'>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=01.txt'>Common 1</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=02.txt'>Common 2</a><br>
-<a href='./book_reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=03.txt'>Feelings</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=01.txt'>Common 1</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=02.txt'>Common 2</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Phrases&varAppArea=ln&varAppDir=en_phrases&varFileName=03.txt'>Feelings</a><br>
 </span>
