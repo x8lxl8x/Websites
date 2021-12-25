@@ -32,7 +32,7 @@ function get_index()
   global $ext_html, $ext_text;
   global $dir_apps, $app_dir, $app_area;
 
-  $file_template = "../{$dir_templates}/book_reader_index.html";
+  $file_template = "../{$dir_templates}/book-reader-index.html";
 
   $page_title = rawurldecode($app_title);
   $path_file_index_text = "{$server_docroot}/{$dir_apps}/{$app_area}/{$app_dir}/{$file_index}.{$ext_text}";
@@ -135,7 +135,7 @@ function get_view()
   global $server_root, $server_port, $ext_sound, $ext_html, $ext_text;
   global $dir_apps, $app_dir, $app_area, $file_name;
 
-  $file_template    = "../{$dir_templates}/book_reader_view.html";
+  $file_template    = "../{$dir_templates}/book-reader-view.html";
   $path_dir_text = "{$server_docroot}/{$dir_apps}/{$app_area}/{$app_dir}/{$dir_texts}";
 
   $audio_on     = "";
@@ -227,7 +227,7 @@ function get_edit()
   global $dir_templates, $dir_config, $app_title, $dir_texts;
   global $dir_apps, $app_dir, $app_area, $file_name, $items_count, $func_id;
 
-  $file_template      = "../{$dir_templates}/book_reader_edit.html";
+  $file_template      = "../{$dir_templates}/book-reader-edit.html";
   $file_content = "../{$dir_apps}/{$app_area}/{$app_dir}/{$dir_texts}/{$file_name}";
 
   $page_title = rawurldecode($app_title);

@@ -92,7 +92,7 @@ $array_indicators =
 
 #------------------------------------------------------------------------------------------------------------
 
-# $template_html    = "../{$dir_templates}/economics_outlook.html";
+# $template_html    = "../{$dir_templates}/economics-outlook.html";
 
 #---------------------------------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ function get_index()
 {
   global $dir_templates, $dir_apps, $app_title, $apps_area, $array_indicators;
 
-  $file_template = "../{$dir_templates}/economics_index.html";
+  $file_template = "../{$dir_templates}/economics-index.html";
 
   $page_title = $app_title;
   $page_content  = "<h1>{$page_title}</h1>\n";
@@ -152,7 +152,7 @@ function get_latest()
   global $dir_templates, $dir_apps, $dir_name, $app_title, $apps_area, $url_prefix;
   global $debug_file;
 
-  $file_template = "../{$dir_templates}/economics_latest.html";
+  $file_template = "../{$dir_templates}/economics-latest.html";
 
   $page_title = $app_title;
 
@@ -205,7 +205,7 @@ function get_blog()
 {
   global $dir_templates, $dir_apps, $dir_name, $app_title, $apps_area, $url_prefix;
 
-  $file_template = "../{$dir_templates}/economics_blog.html";
+  $file_template = "../{$dir_templates}/economics-blog.html";
 
   $page_title = $app_title;
 
@@ -259,7 +259,7 @@ function get_indicator($in_nm_country, $in_nm_name, $in_id_country, $in_id_name)
 {
   global  $dir_templates, $dir_apps, $dir_name, $app_title, $apps_area, $url_prefix;
 
-  $file_template = "../{$dir_templates}/economics_page.html";
+  $file_template = "../{$dir_templates}/economics-page.html";
 
   $in_nm_country = rawurldecode($in_nm_country);
   $in_nm_name    = rawurldecode($in_nm_name);

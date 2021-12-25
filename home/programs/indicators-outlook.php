@@ -21,7 +21,7 @@ $var_mode = 'batch';
 
 $page_title     = "Indicators Outlook";
 $apps_area       = "fn";
-$dir_name       = "indicators_outlook";
+$dir_name       = "indicators-outlook";
 $dir_config     = "../{$dir_apps}/{$apps_area}/{$dir_name}";
 
 #---------------------------------------------------------------------------------------------------
@@ -71,7 +71,7 @@ $array_indicators =
 
 #---------------------------------------------------------------------------------------------------
 
-$template_html    = "../{$dir_templates}/indicators_outlook.html";
+$template_html    = "../{$dir_templates}/indicators-outlook.html";
 
 #---------------------------------------------------------------------------------------------------
 

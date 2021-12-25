@@ -22,8 +22,8 @@ $strCurrencies  = '';
 #----------------------------------------------------------------------------------------------------
 
 $apps_area        = "fn";
-$template_content = "../{$dir_templates}/forex_quotes.html";
-$template_html    = "../{$dir_templates}/global_template.html";
+$template_content = "../{$dir_templates}/forex-quotes.html";
+$template_html    = "../{$dir_templates}/global-template.html";
 
 function fncGetItems($strUrl, $strCurrencyNumber)
 {

@@ -18,7 +18,7 @@ function get_index()
   global $dir_templates, $server_docroot, $dir_texts, $ext_text;
   global $dir_apps, $app_title, $app_area, $app_dir;
 
-  $file_template = "../{$dir_templates}/lyrics_reader_index.html";
+  $file_template = "../{$dir_templates}/lyrics-reader-index.html";
 
   $page_title = rawurldecode($app_title);
   $path_dir_text = "../{$dir_apps}/{$app_area}/{$app_dir}/{$dir_texts}";
@@ -62,7 +62,7 @@ function get_view()
   $titles_texts  = '';
   $page_content = '';
 
-  $file_template    = "../{$dir_templates}/lyrics_reader_view.html";
+  $file_template    = "../{$dir_templates}/lyrics-reader-view.html";
 
   $file_name = rawurldecode($file_name);
   $page_title = rawurldecode($app_title);

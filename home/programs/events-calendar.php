@@ -38,7 +38,7 @@ $url_calendar = "https://sslecal2.forexprostools.com/?columns=exc_flags,exc_curr
 
 #------------------------------------------------------------------------------------------------------------
 
-$template_html    = "../{$dir_templates}/events_calendar.html";
+$template_html    = "../{$dir_templates}/events-calendar.html";
 
 date_default_timezone_set('UTC');
 $time_utc =  date('H:i');

@@ -105,7 +105,7 @@ function get_markdown($page_html)
   else
   {
     $page_url = ".." . dirname($_SERVER['REQUEST_URI']);
-    $page_url = preg_replace("/\.\.\/programs\/notes_keeper\.php\?varFuncId=view\&varDirCurrent=/sU", "", $page_url);
+    $page_url = preg_replace("/\.\.\/programs\/notes-keeper\.php\?varFuncId=view\&varDirCurrent=/sU", "", $page_url);
   }
 
 #----------------------------------------------------------------------------------------------------
@@ -224,12 +224,12 @@ function get_markdown($page_html)
   $page_html = preg_replace("/\^\[(.*?)\]/",                  "<a target='_blank' href='{$page_url}/$1'><img class='clImageThumb' src='{$page_url}/$1'></a>", $page_html);
   $page_html = preg_replace("/\@\[(.*?)\]/",                  "<img src='{$page_url}/$1'>", $page_html);
 
-  $page_html = preg_replace("/\%\[t1\|(.*?)\]/",              "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='t1'>$1</span></a>", $page_html);
-  $page_html = preg_replace("/\%\[t2\|(.*?)\]/",              "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='t2'>$1</span></a>", $page_html);
-  $page_html = preg_replace("/\%\[t3\|(.*?)\]/",              "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='t3'>$1</span></a>", $page_html);
-  $page_html = preg_replace("/\%\[t4\|(.*?)\]/",              "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='t4'>$1</span></a>", $page_html);
-  $page_html = preg_replace("/\%\[t5\|(.*?)\]/",              "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='t5'>$1</span></a>", $page_html);
-  $page_html = preg_replace("/\%\[zhm\|(.*?)\]/",             "<a href='../../programs/hanzi_strokes.php?varHanziId=$1'><span class='zhm'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[t1\|(.*?)\]/",              "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='t1'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[t2\|(.*?)\]/",              "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='t2'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[t3\|(.*?)\]/",              "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='t3'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[t4\|(.*?)\]/",              "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='t4'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[t5\|(.*?)\]/",              "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='t5'>$1</span></a>", $page_html);
+  $page_html = preg_replace("/\%\[zhm\|(.*?)\]/",             "<a href='../../programs/hanzi-strokes.php?varHanziId=$1'><span class='zhm'>$1</span></a>", $page_html);
   $page_html = preg_replace("/\%\[(.*?)\|(.*?)\]/",           "<span class='$1'>$2</span>", $page_html);
 
 #----------------------------------------------------------------------------------------------------
