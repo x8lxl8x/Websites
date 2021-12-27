@@ -1,11 +1,14 @@
 <span class='clIndex'>
 <h2>fonetica</h2>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=01.txt'>pronuncia</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=02.txt'>ortografia</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=03.txt'>alfabeto</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=01.txt'>pronuncia</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=02.txt'>ortografia</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=03.txt'>fatica</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=04.txt'>alfabeto</a><br>
 <h2>numerali</h2>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=04.txt'>cardinali</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=05.txt'>ordinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=05.txt'>cardinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=06.txt'>ordinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=07.txt'>frazionari</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=08.txt'>anni</a><br>
 <h2>pronomi</h2>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it_grammatica&varFileName=06.txt'>personali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=09.txt'>personali</a><br>
 </span>

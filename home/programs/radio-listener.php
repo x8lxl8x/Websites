@@ -11,8 +11,7 @@ $apps_area      = "tc";
 
 $dir_apps       = "apps";
 $dir_area       = "tc";
-$dir_name       = "radio-listener";
-$dir_config     = "../{$dir_apps}/{$dir_area}/{$dir_name}";
+$app_name       = "radio-listener";
 
 $page_title     = $app_title;
 $page_content   = "<h1>{$page_title}</h1>\n\n";
@@ -65,13 +64,13 @@ $url_podcasts_05 = 'https://www.radio-uk.co.uk/podcasts/history-extra-podcast';
 
 #---------------------------------------------------------------------------------------------------
 
-$template_html    = "../{$dir_templates}/{$dir_name}.html";
+$template_html    = "../{$dir_templates}/{$app_name}.html";
 
 #---------------------------------------------------------------------------------------------------
 
 function set_news($item_array, $div_title, $div_number)
 {
-  global $dir_templates, $dir_config, $app_title, $page_content;
+  global $dir_templates, $app_title, $page_content;
 
   $page_content .= "<p class='clMediaName'><a href='javascript:fncShowHideWithMemory(&quot;idDiv{$div_number}&quot;)'>{$div_title}</a></p>\n";
   $page_content .= "<div id='idDiv{$div_number}'>";
@@ -88,7 +87,7 @@ function set_news($item_array, $div_title, $div_number)
 
 function set_bnt($url_source, $div_title, $div_number)
 {
-  global $dir_templates, $dir_config, $app_title, $page_content;
+  global $dir_templates, $app_title, $page_content;
 
   $url_content = get_url("{$url_source}/play/");
   $html_objects = str_get_html($url_content);
@@ -124,7 +123,7 @@ function set_bnt($url_source, $div_title, $div_number)
 
 function set_podcats($url_source, $div_title, $div_number)
 {
-  global $dir_templates, $dir_config, $app_title, $page_content;
+  global $dir_templates, $app_title, $page_content;
 
   $url_content = get_url("{$url_source}");
   $html_objects = str_get_html($url_content);

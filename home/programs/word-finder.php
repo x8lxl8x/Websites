@@ -15,8 +15,8 @@ $app_title      = "Word Finder";
 $app_area       = "ln";
 
 $dir_apps       = "apps";
-$dir_area       = "tc";
-$dir_name       = "word-finder";
+$dir_area       = "ln";
+$dir_name       = ".word-finder";
 $dir_config     = "../{$dir_apps}/{$dir_area}/{$dir_name}";
 
 #$debug_flag     = true;
@@ -33,12 +33,13 @@ function get_word()
   $article_body_content = '';
 
   $file_template = "../{$dir_templates}/word-finder.html";
-  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug_get_word.txt";
+  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug-get-word.txt";
 
   $page_title = $app_title;
 
   $word_id = mb_strtolower($word_id);
   $word_encoded = rawurlencode($word_id);
+  $word_first_char = strtoupper($word_encoded[0]);
 
   unset($config_array);
   include("{$dir_config}/{$dict_id}.php");
@@ -69,8 +70,9 @@ function get_word()
 
     if ($debug_flag)
     {
-#     echo $media_content;
-#     exit;
+#      file_put_contents($debug_file, $media_content);
+#      echo $media_content;
+#      exit;
     }
 
     if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", "windows-1251");
