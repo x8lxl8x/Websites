@@ -1,1 +1,0 @@
-../../home/programs/book_reader.php
