@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "true",
+  "config_enabled"  => "false",
   "config_type"     => "link",
 
   "media_name"      => "Business Insider",
-  "media_url"       => "https://www.businessinsider.fr/",
+  "media_url"       => "https://www.businessinsider.fr/  https://www.capital.fr/",
   "media_encode"    => "false",
 
   "module_body"     => "main",

@@ -26,9 +26,15 @@ $config_array =
                   ],
 
   "clean_article_post"  => [
+                    ["/<div class=\"wp-block-image\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"wp-block-media-text__content\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"wp-block-media-text(.*?)>(.*?)<\/div>/s", ""],
+                    ["/<aside(.*?)>(.*?)<\/aside>/s", ""],
+                    ["/<div class=\"mailpoet_form_popup_overlay\">(.*)$/s", ""],
                     ["/^(.*?)<div class=\"content-single\">/s", "<div class=\"content-single\">"],
                     ["/<div class=\"tags\">(.*)$/s", ""],
                     ["/<em>Parce que Dreuz est(.*?)<\/em>/s", ""],
+                    ["/<p class=\"has-vivid-red-color has-text-color has-medium-font-size\">(.*?)<\/p>/s", ""],
                     ["/<span class=\"has-inline-color has-vivid-red-color\">(.*?)<\/span>/s", ""],
                     ["/<h(2|3) class=\"has-text-align-left\">(.*?)<\/h(2|3)>/s", "$2"],
                     ["/<strong>(.*?)<\/strong>/s", "$1"],
@@ -38,6 +44,7 @@ $config_array =
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                     ["/<div(.*?)>/s", ""],
                     ["/<\/div>/s", ""],
+                    ["/<!-- Composite Start -->(.*?)<!-- Composite End -->/s", ""],
                   ],
 ];
 ?>
