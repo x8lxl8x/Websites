@@ -5,12 +5,13 @@ include("./global-objects.php");
 include("./simple-html-dom.php");
 
 #---------------------------------------------------------------------------------------------------
-# https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=crypto&varMedia=csv
-# https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=forex&varMedia=csv
-# https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=margins&varMedia=csv
-# https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=benchmarks&varMedia=csv
-# https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=interests&varMedia=csv
-# =IMPORTDATA("https://home.ayurveda.help/programs/trading-parameters.php?varInstrument=forex&varMedia=csv&refresh=" & UpdateQuotes)
+# http://localhost/programs/trading-parameters.php?varInstrument=crypto&varMedia=csv
+# http://localhost/programs/trading-parameters.php?varInstrument=forex&varMedia=csv
+# http://localhost/programs/trading-parameters.php?varInstrument=margins&varMedia=csv
+# http://localhost/programs/trading-parameters.php?varInstrument=benchmarks&varMedia=csv
+# http://localhost/programs/trading-parameters.php?varInstrument=interests&varMedia=csv
+# http://localhost/programs/trading-parameters.php?varInstrument=pricing&varMedia=csv
+
 #---------------------------------------------------------------------------------------------------
 
 $var_instrument = $_GET['varInstrument'];
@@ -26,7 +27,7 @@ $var_media = $_GET['varMedia'];
 
 #---------------------------------------------------------------------------------------------------
 
-$page_title         = "Broker Pricing";
+$page_title         = "Trading Parameters";
 $apps_area          = "fn";
 
 #---------------------------------------------------------------------------------------------------
@@ -51,10 +52,9 @@ $forex_link = 'https://www.widgets.investing.com/live-currency-cross-rates?theme
 
 $forex_items =
 [
-    ['EUR/USD',   '1']
-  , ['USD/CHF',   '4']
-#  , ['GBP/USD',   '2']
-#  , ['EUR/CHF',  '10']
+    ['EUR/USD',  '1']
+  , ['USD/CHF',  '4']
+#  , ['GBP/USD',  '2']
 ];
 
 #---------------------------------------------------------------------------------------------------
@@ -104,7 +104,7 @@ $cfds_pairs =
 
 #------------------------------------------------------------------------------------------------------------
 
-$template_html    = "../{$dir_templates}/broker-pricing.html";
+$template_html    = "../{$dir_templates}/trading-parameters.html";
 
 #------------------------------------------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ function get_quotes($parameter_link, $parameter_items)
 {
   global $time_current;
 
-  $page_return = "\"Quotes\",\"{$time_current}\"\n";
+  $page_return = "Quotes,{$time_current}\n";
 
   $link_items = "";
 
@@ -130,7 +130,7 @@ function get_quotes($parameter_link, $parameter_items)
   {
     $html_found = $html_object->find("div[class*=pid-{$parameter_item[1]}-last]", 0)->innertext;
     $html_found = preg_replace("/,/is",  "", $html_found);
-    $page_return .= "\"{$parameter_item[0]}\",{$html_found}\n";
+    $page_return .= "{$parameter_item[0]},{$html_found}\n";
   }
 
   $html_object->clear();
@@ -161,7 +161,7 @@ function get_margins($parameter_link, $parameter_items)
   }
   elseif ($var_media == "csv")
   {
-    $page_return = "\"Margins\",\"{$time_current}\"\n";
+    $page_return = "Margins,{$time_current},,,\n";
   }
 
   $html_contents = get_url($parameter_link);
@@ -179,7 +179,7 @@ function get_margins($parameter_link, $parameter_items)
       }
 
       $html_item_margin_int = $html_block->find("td.text-price")[1]->innertext;
-      $html_item_margin_Mnt = $html_block->find("td.text-price")[2]->innertext;
+      $html_item_margin_mnt = $html_block->find("td.text-price")[2]->innertext;
 
       if (strpos($html_item_margin_int, ':') === false)
       {
@@ -191,7 +191,7 @@ function get_margins($parameter_link, $parameter_items)
       $html_item_margin_int_rat = trim($exploded_array[1]);
       $html_item_margin_int_rat = preg_replace("/\(|\)/is",  "", $html_item_margin_int_rat);
 
-      $exploded_array = explode("%", $html_item_margin_Mnt);
+      $exploded_array = explode("%", $html_item_margin_mnt);
       $html_item_margin_mnt_pct = sprintf("%4.2f%%", (float)$exploded_array[0]);
       $html_item_margin_mnt_rat = trim($exploded_array[1]);
       $html_item_margin_mnt_rat = preg_replace("/\(|\)/is",  "", $html_item_margin_int_rat);
@@ -208,13 +208,17 @@ function get_margins($parameter_link, $parameter_items)
       }
       elseif ($var_media == "csv")
       {
-        $page_return .= "\"{$html_item_name}\",";
-        $page_return .= "{$html_item_margin_int_pct},";
-        $page_return .= "\"{$html_item_margin_int_rat}\",";
-        $page_return .= "{$html_item_margin_mnt_pct},";
-        $page_return .= "\"{$html_item_margin_mnt_rat}\"\n";
-      }
+        $html_item_margin_int_pct = preg_replace("/%/is",  "", $html_item_margin_int_pct);
+        $html_item_margin_int_pct = sprintf("%6.3f", (float)$html_item_margin_int_pct / 100);
+        $html_item_margin_mnt_pct = preg_replace("/%/is",  "", $html_item_margin_mnt_pct);
+        $html_item_margin_mnt_pct = sprintf("%6.3f", (float)$html_item_margin_mnt_pct / 100);
 
+        $page_return .= "{$html_item_name},";
+        $page_return .= "{$html_item_margin_int_pct},";
+        $page_return .= "{$html_item_margin_int_rat},";
+        $page_return .= "{$html_item_margin_mnt_pct},";
+        $page_return .= "{$html_item_margin_mnt_rat}\n";
+      }
     }
   }
 
@@ -258,7 +262,7 @@ function get_benchmarks($parameter_link, $parameter_items)
   }
   elseif ($var_media == "csv")
   {
-    $page_return = "\"Benchmarks\",\"{$time_current}\"\n";
+    $page_return = "Benchmarks,{$time_current},\n";
   }
 
   $html_contents = get_url($parameter_link);
@@ -311,9 +315,12 @@ function get_benchmarks($parameter_link, $parameter_items)
           }
           elseif ($var_media == "csv")
           {
-            $page_return .= "\"{$html_item_td_0}\",";
+            $html_item_td_2 = preg_replace("/%/is",  "", $html_item_td_2);
+            $html_item_td_2 = sprintf("%8.5f", (float)$html_item_td_2 / 100);
+
+            $page_return .= "{$html_item_td_0},";
             $page_return .= "{$html_item_td_2},";
-            $page_return .= "\"{$html_item_td_3_csv}\"\n";
+            $page_return .= "{$html_item_td_3_csv}\n";
           }
         }
       }
@@ -363,7 +370,7 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
   }
   elseif ($var_media == "csv")
   {
-    $page_return = "\"Interests\",\"{$time_current}\"\n";
+    $page_return = "Interests,{$time_current},,,,\n";
   }
 
   $html_contents = get_url($parameter_link);
@@ -419,10 +426,15 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
           }
           elseif ($var_media == "csv")
           {
-            $page_return .= "\"{$html_item_td_0}\",";
+            $html_item_rate = preg_replace("/%/is",  "", $html_item_rate);
+            $html_item_rate = sprintf("%7.4f", (float)$html_item_rate / 100);
+            $html_item_bm = preg_replace("/%/is",  "", $html_item_bm);
+            $html_item_bm = sprintf("%7.4f", (float)$html_item_bm / 100);
+
+            $page_return .= "{$html_item_td_0},";
             $page_return .= "{$html_item_tier_3},";
             $page_return .= "{$html_item_rate},";
-            $page_return .= "{$html_item_bm}\n";
+            $page_return .= "{$html_item_bm},,\n";
           }
 
           $tier_array = array($html_item_tier_3, $html_item_rate, $html_item_bm);
@@ -446,10 +458,15 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
           }
           elseif ($var_media == "csv")
           {
-            $page_return .= "\"{$parameter_item}\",";
+            $html_item_rate = preg_replace("/%/is",  "", $html_item_rate);
+            $html_item_rate = sprintf("%7.4f", (float)$html_item_rate / 100);
+            $html_item_bm = preg_replace("/%/is",  "", $html_item_bm);
+            $html_item_bm = sprintf("%7.4f", (float)$html_item_bm / 100);
+
+            $page_return .= "{$parameter_item},";
             $page_return .= "{$html_item_tier_3},";
             $page_return .= "{$html_item_rate},";
-            $page_return .= "{$html_item_bm}\n";
+            $page_return .= "{$html_item_bm},,\n";
           }
 
           $tier_array = array($html_item_tier_3, $html_item_rate, $html_item_bm);
@@ -496,7 +513,8 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
   }
   elseif ($var_media == "csv")
   {
-    $page_return .= "\n\"Cfds\",\"{$time_current}\"\n";
+    $page_return .= ",,,,,\n";
+    $page_return .= "CFDs,{$time_current},,,,\n";
   }
 
   foreach($parameter_pairs as $parameter_pair)
@@ -517,12 +535,12 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
       $rate_long = $bencmark_pair_rate - $base_spread;
       $rate_short = $bencmark_pair_rate + $base_spread;
 
-      $bencmark_pair_rate  = sprintf("%4.3f%%", (float)$bencmark_pair_rate);
-      $rate_long  = sprintf("%4.3f%%", (float)$rate_long);
-      $rate_short  = sprintf("%4.3f%%", (float)$rate_short);
-
       if ($var_media == "html")
       {
+        $bencmark_pair_rate  = sprintf("%5.3f%%", (float)$bencmark_pair_rate);
+        $rate_long  = sprintf("%5.3f%%", (float)$rate_long);
+        $rate_short  = sprintf("%5.3f%%", (float)$rate_short);
+
         $page_return .= "<tr>";
         $page_return .= "<td>{$parameter_pair}</td>";
         $page_return .= "<td>{$base_size}</td>";
@@ -534,7 +552,11 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
       }
       elseif ($var_media == "csv")
       {
-        $page_return .= "\"{$parameter_pair}\",";
+        $bencmark_pair_rate  = sprintf("%10.7f", (float)$bencmark_pair_rate);
+        $rate_long  = sprintf("%10.7f", (float)$rate_long);
+        $rate_short  = sprintf("%10.7f", (float)$rate_short);
+
+        $page_return .= "{$parameter_pair},";
         $page_return .= "{$base_size},";
         $page_return .= "{$bencmark_pair_rate},";
         $page_return .= "{$base_spread},";
@@ -564,7 +586,7 @@ function get_interests($parameter_link, $parameter_items, $parameter_pairs)
 #---------------------------------------------------------------------------------------------------
 
 date_default_timezone_set('UTC');
-$time_current =  date('d/m/y H:i:s');
+$time_current =  date('d/m/Y H:i:s');
 
 if ($var_instrument == "crypto")
 {
@@ -610,8 +632,8 @@ if ($var_media == "html")
 }
 elseif ($var_media == "csv")
 {
-  header("Content-Type: mime/type");
-  header('Content-Disposition: attachment; filename="parameters.csv"');
+#  header("Content-Type: mime/type");
+#  header('Content-Disposition: attachment; filename="parameters.csv"');
   echo $page_content;
 }
 

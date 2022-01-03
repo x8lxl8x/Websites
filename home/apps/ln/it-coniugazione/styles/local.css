@@ -112,7 +112,7 @@ table, th, td
 {
   color:                #000000;
   font-size:            1.000rem;
-  line-height:          1.000rem;
+  line-height:          1.500rem;
 }
 
 .clConj
@@ -178,7 +178,7 @@ td.clIndexList
   border-top:           0.000rem solid #333333;
   border-left:          0.000rem solid #333333;
   font-size:            1.000rem;
-  line-height:          1.000rem;
+  line-height:          1.500rem;
   padding:              0.000rem 0.000rem 0.000rem 0.000rem;
   text-align:           left;
   vertical-align:       middle;
@@ -190,10 +190,13 @@ td.clIndexList
   border-left:          0.000rem solid #333333;
   color:                #555555;
   font-size:            1.000rem;
-  line-height:          1.000rem;
+  line-height:          1.500rem;
   padding:              0.000rem 0.000rem 0.000rem 0.000rem;
   text-align:           left;
+/*
   vertical-align:       middle;
+*/
+  vertical-align:       20%
 }
 
 .clIndexConj
@@ -201,10 +204,10 @@ td.clIndexList
   border-top:           0.000rem solid #333333;
   border-left:          0.000rem solid #333333;
   color:                #555555;
-  font-size:            0.875em;
-  padding:              0.000rem 0.500rem 0.000rem 0.500rem;
+  font-size:            60%;
+  padding:              0.000rem 0.500rem 0.000rem 0.1250rem;
   text-align:           left;
-  vertical-align:       middle;
+  vertical-align:      -20%
 }
 
 .clIndexAlpha
