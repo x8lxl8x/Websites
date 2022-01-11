@@ -54,7 +54,8 @@ RewriteCond %{HTTPS} off
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 SetEnvIf Request_URI ^/.well-known/acme-challenge BasicAuthExept1=1
-SetEnvIf Request_URI ^/webdav BasicAuthExept2=1
+SetEnvIf Request_URI ^/favicon BasicAuthExept2=1
+SetEnvIf Request_URI ^/webdav BasicAuthExept3=1
 
 AuthType Basic
 AuthName "Restricted Content"
@@ -68,10 +69,7 @@ Deny from all
 Require valid-user
 Allow from env=BasicAuthExept1
 Allow from env=BasicAuthExept2
-
-## "Require env" and "Require expr" are not supported in Litespeed 2021-08-17
-##Require expr %{REQUEST_URI} =~ m#^/.well-known/acme-challenge/#
-##Require expr %{REQUEST_URI} =~ m#^/webdav/#
+Allow from env=BasicAuthExept3
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # This domain inherits the “PHP” package.

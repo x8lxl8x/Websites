@@ -6,8 +6,14 @@
   <meta name='theme-color' content='#ffffff'>
   <title><?php wp_title(''); ?></title>
   <link rel='stylesheet' href='https://blog.ayurveda.help/wp-content/themes/ayurveda/style.css' type='text/css' media='screen'>
-  <link rel='shortcut icon' href='https://blog.ayurveda.help/favicon.ico' type='image/x-icon'>
-  <link rel='icon' href='https://blog.ayurveda.help/favicon.ico' type='image/x-icon'>
+  <link rel='icon' type='image/x-icon' href='https://blog.ayurveda.help/favicon.ico'>
+  <link rel='icon' type='image/png' sizes='32x32' href='https://blog.ayurveda.help/favicon-32.png'>
+  <link rel='icon' type='image/png' sizes='128x128' href='https://blog.ayurveda.help/favicon-128.png'>
+  <link rel='icon' type='image/png' sizes='152x152' href='https://blog.ayurveda.help/favicon-152.png'>
+  <link rel='icon' type='image/png' sizes='167x167' href='https://blog.ayurveda.help/favicon-167.png'>
+  <link rel='icon' type='image/png' sizes='180x180' href='https://blog.ayurveda.help/favicon-180.png'>
+  <link rel='icon' type='image/png' sizes='192x192' href='https://blog.ayurveda.help/favicon-192.png'>
+  <link rel='icon' type='image/png' sizes='196x196' href='https://blog.ayurveda.help/favicon-196.png'>
   <link rel='alternate' type='application/rss+xml' title='RSS 2.0' href='https://blog.ayurveda.help/feed/'>
   <link rel='alternate' type='text/xml' title='RSS .92' href='https://blog.ayurveda.help/feed/rss/'>
   <link rel='alternate' type='application/atom+xml' title='Atom 0.3' href='https://blog.ayurveda.help/feed/atom/'>
