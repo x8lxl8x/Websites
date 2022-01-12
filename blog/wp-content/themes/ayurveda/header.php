@@ -8,6 +8,7 @@
   <link rel='stylesheet' href='https://blog.ayurveda.help/wp-content/themes/ayurveda/style.css' type='text/css' media='screen'>
   <link rel='icon' type='image/x-icon' href='https://blog.ayurveda.help/favicon.ico'>
   <link rel='icon' type='image/png' sizes='32x32' href='https://blog.ayurveda.help/favicon-32.png'>
+  <link rel='icon' type='image/png' sizes='120x120' href='https://blog.ayurveda.help/favicon-120.png'>
   <link rel='icon' type='image/png' sizes='128x128' href='https://blog.ayurveda.help/favicon-128.png'>
   <link rel='icon' type='image/png' sizes='152x152' href='https://blog.ayurveda.help/favicon-152.png'>
   <link rel='icon' type='image/png' sizes='167x167' href='https://blog.ayurveda.help/favicon-167.png'>

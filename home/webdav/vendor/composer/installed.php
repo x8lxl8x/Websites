@@ -1,130 +1,137 @@
-<?php return array (
-  'root' => 
-  array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
-    'aliases' => 
-    array (
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'c9f2b688b7e3119c729c8c3de069615cd4b0454d',
+        'name' => 'fruux/baikal',
+        'dev' => false,
     ),
-    'reference' => '2608eb965a9fc17a6f9db25820a49232674c01d7',
-    'name' => 'fruux/baikal',
-  ),
-  'versions' => 
-  array (
-    'fruux/baikal' => 
-    array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '2608eb965a9fc17a6f9db25820a49232674c01d7',
+    'versions' => array(
+        'fruux/baikal' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'c9f2b688b7e3119c729c8c3de069615cd4b0454d',
+            'dev_requirement' => false,
+        ),
+        'jeromeschneider/baikal' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => 'dev-master',
+            ),
+        ),
+        'psr/log' => array(
+            'pretty_version' => '1.1.4',
+            'version' => '1.1.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
+            'dev_requirement' => false,
+        ),
+        'sabre/dav' => array(
+            'pretty_version' => '4.3.0',
+            'version' => '4.3.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/dav',
+            'aliases' => array(),
+            'reference' => '1f9bfa733a22e3c1f7526d645dab2cee96eba51a',
+            'dev_requirement' => false,
+        ),
+        'sabre/event' => array(
+            'pretty_version' => '5.1.4',
+            'version' => '5.1.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/event',
+            'aliases' => array(),
+            'reference' => 'd7da22897125d34d7eddf7977758191c06a74497',
+            'dev_requirement' => false,
+        ),
+        'sabre/http' => array(
+            'pretty_version' => '5.1.3',
+            'version' => '5.1.3.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/http',
+            'aliases' => array(),
+            'reference' => '315f592adfcba8aeb73c2fd64285205747acbbd7',
+            'dev_requirement' => false,
+        ),
+        'sabre/uri' => array(
+            'pretty_version' => '2.2.2',
+            'version' => '2.2.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/uri',
+            'aliases' => array(),
+            'reference' => '7cb0f489578afad5006e85cd60f18ff33f2d440d',
+            'dev_requirement' => false,
+        ),
+        'sabre/vobject' => array(
+            'pretty_version' => '4.4.1',
+            'version' => '4.4.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/vobject',
+            'aliases' => array(),
+            'reference' => '06feff370141fd3118609f808e86d9315864bf14',
+            'dev_requirement' => false,
+        ),
+        'sabre/xml' => array(
+            'pretty_version' => '2.2.5',
+            'version' => '2.2.5.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sabre/xml',
+            'aliases' => array(),
+            'reference' => 'a6af111850e7536d200d9637c34885cd3c77a86c',
+            'dev_requirement' => false,
+        ),
+        'symfony/polyfill-ctype' => array(
+            'pretty_version' => 'v1.24.0',
+            'version' => '1.24.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/polyfill-ctype',
+            'aliases' => array(),
+            'reference' => '30885182c981ab175d4d034db0f6f469898070ab',
+            'dev_requirement' => false,
+        ),
+        'symfony/polyfill-mbstring' => array(
+            'pretty_version' => 'v1.24.0',
+            'version' => '1.24.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/polyfill-mbstring',
+            'aliases' => array(),
+            'reference' => '0abb51d2f102e00a4eefcf46ba7fec406d245825',
+            'dev_requirement' => false,
+        ),
+        'symfony/polyfill-php72' => array(
+            'pretty_version' => 'v1.24.0',
+            'version' => '1.24.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/polyfill-php72',
+            'aliases' => array(),
+            'reference' => '9a142215a36a3888e30d0a9eeea9766764e96976',
+            'dev_requirement' => false,
+        ),
+        'symfony/yaml' => array(
+            'pretty_version' => 'v3.4.47',
+            'version' => '3.4.47.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/yaml',
+            'aliases' => array(),
+            'reference' => '88289caa3c166321883f67fe5130188ebbb47094',
+            'dev_requirement' => false,
+        ),
+        'twig/twig' => array(
+            'pretty_version' => 'v2.14.10',
+            'version' => '2.14.10.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../twig/twig',
+            'aliases' => array(),
+            'reference' => '95fb194cd4dd6ac373a27af2bde2bad5d3f27aba',
+            'dev_requirement' => false,
+        ),
     ),
-    'jeromeschneider/baikal' => 
-    array (
-      'replaced' => 
-      array (
-        0 => 'dev-master',
-      ),
-    ),
-    'psr/log' => 
-    array (
-      'pretty_version' => '1.1.3',
-      'version' => '1.1.3.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '0f73288fd15629204f9d42b7055f72dacbe811fc',
-    ),
-    'sabre/dav' => 
-    array (
-      'pretty_version' => '4.1.4',
-      'version' => '4.1.4.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '4258420f15425a5f128fe5cad454e00ab4a68ae5',
-    ),
-    'sabre/event' => 
-    array (
-      'pretty_version' => '5.1.2',
-      'version' => '5.1.2.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'c120bec57c17b6251a496efc82b732418b49d50a',
-    ),
-    'sabre/http' => 
-    array (
-      'pretty_version' => '5.1.1',
-      'version' => '5.1.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'd0aafede6961df6195ce7a8dad49296b0aaee22e',
-    ),
-    'sabre/uri' => 
-    array (
-      'pretty_version' => '2.2.1',
-      'version' => '2.2.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'f502edffafea8d746825bd5f0b923a60fd2715ff',
-    ),
-    'sabre/vobject' => 
-    array (
-      'pretty_version' => '4.3.3',
-      'version' => '4.3.3.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '58f9f9b46a1080c0130bd86f4df9a568aacb9c79',
-    ),
-    'sabre/xml' => 
-    array (
-      'pretty_version' => '2.2.3',
-      'version' => '2.2.3.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'c3b959f821c19b36952ec4a595edd695c216bfc6',
-    ),
-    'symfony/polyfill-ctype' => 
-    array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'c6c942b1ac76c82448322025e084cadc56048b4e',
-    ),
-    'symfony/polyfill-mbstring' => 
-    array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'f377a3dd1fde44d37b9831d68dc8dea3ffd28e13',
-    ),
-    'symfony/yaml' => 
-    array (
-      'pretty_version' => 'v3.4.47',
-      'version' => '3.4.47.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '88289caa3c166321883f67fe5130188ebbb47094',
-    ),
-    'twig/twig' => 
-    array (
-      'pretty_version' => 'v2.13.1',
-      'version' => '2.13.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '57e96259776ddcacf1814885fc3950460c8e18ef',
-    ),
-  ),
 );

@@ -41,6 +41,9 @@ else if ( $intResult == 1 )
     case '05':
       $strPaymentMethodName = 'Interac';
       break;
+    case '06':
+      $strPaymentMethodName = 'ACH';
+      break;
   }
 
   $strDate = date( 'Y-m-d' );

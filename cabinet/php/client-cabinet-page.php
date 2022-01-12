@@ -98,6 +98,7 @@ else if ( $intResult == 1 )
       case '03': $strTargetCurrency = 'EUR'; break;
       case '04': $strTargetCurrency = 'EUR'; break;
       case '05': $strTargetCurrency = 'CAD'; break;
+      case '06': $strTargetCurrency = 'USD'; break;
     }
 
     $strConverterUrl = preg_replace( "/{SourceCurrency}/isU", $strSourceCurrency, $strConverterUrl );

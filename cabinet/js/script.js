@@ -631,6 +631,7 @@ function fncOnLoadClientContacted()
   strId05 = 'idPaymentMethod03'
   strId06 = 'idPaymentMethod04'
   strId07 = 'idPaymentMethod05'
+  strId08 = 'idPaymentMethod06'
 
   strChecked01 = document.getElementById( strId01 ).checked;
   strChecked02 = document.getElementById( strId02 ).checked;
@@ -639,6 +640,7 @@ function fncOnLoadClientContacted()
   strChecked05 = document.getElementById( strId05 ).checked;
   strChecked06 = document.getElementById( strId06 ).checked;
   strChecked07 = document.getElementById( strId07 ).checked;
+  strChecked08 = document.getElementById( strId08 ).checked;
 
   if ( ( ! strChecked01 ) && ( ! strChecked02  ) )
   {
@@ -647,7 +649,7 @@ function fncOnLoadClientContacted()
     return;
   }
 
-  if ( ( ! strChecked03 ) && ( ! strChecked04 ) && ( ! strChecked05 ) && ( ! strChecked06 ) && ( ! strChecked07 ) )
+  if ( ( ! strChecked03 ) && ( ! strChecked04 ) && ( ! strChecked05 ) && ( ! strChecked06 ) && ( ! strChecked07 ) && ( ! strChecked08 ) )
   {
     alert( 'Выберите метод оплаты' );
     window.setTimeout( function() { document.getElementById( strId01 ).focus(); }, 0 );

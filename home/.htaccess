@@ -55,13 +55,11 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 SetEnvIf Request_URI ^/.well-known/acme-challenge BasicAuthExept1=1
 SetEnvIf Request_URI ^/favicon BasicAuthExept2=1
-SetEnvIf Request_URI ^/webdav BasicAuthExept3=1
 
 AuthType Basic
 AuthName "Restricted Content"
 AuthBasicProvider file
 AuthUserFile /home/galatqxu/mnt/data/Safe/Settings/.local/share/htpasswds/home/passwd
-#AuthUserFile /home/galatqxu/mnt/data/Safe/Settings/.local/share/htpasswds/blog/wp-admin/passwd
 
 Order Deny,Allow
 Satisfy any
@@ -69,7 +67,6 @@ Deny from all
 Require valid-user
 Allow from env=BasicAuthExept1
 Allow from env=BasicAuthExept2
-Allow from env=BasicAuthExept3
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # This domain inherits the “PHP” package.
