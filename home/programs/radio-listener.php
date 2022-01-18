@@ -26,9 +26,6 @@ $array_news_en =
   , ['News Radio UK'     , 'http://s1.rss-streaming.co.uk:8008/stream'                             ]
   , ['LBC News'          , 'http://media-ice.musicradio.com/LBC1152'                               ]
   , ['LBC'               , 'https://media-ssl.musicradio.com/LBCUK'                                ]
-  , ['BBC 4'             , 'https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm'                ]
-  , ['BBC 5'             , 'https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk']
-  , ['BBC World Service' , 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service'               ]
   , ['Times Radio'       , 'https://timesradio.wireless.radio/stream'                              ]
   , ['Bloomberg'         , 'https://tunein.streamguys1.com/bloomberg991'                           ]
 ];
@@ -60,7 +57,6 @@ $url_podcasts_01 = 'https://www.radio-uk.co.uk/podcasts/bloomberg-businessweek';
 $url_podcasts_02 = 'https://www.radio-uk.co.uk/podcasts/bloomberg-surveillance';
 $url_podcasts_03 = 'https://www.radio-uk.co.uk/podcasts/ft-news-briefing';
 $url_podcasts_04 = 'https://www.radio-uk.co.uk/podcasts/economist-radio';
-$url_podcasts_05 = 'https://www.radio-uk.co.uk/podcasts/history-extra-podcast';
 
 #---------------------------------------------------------------------------------------------------
 
@@ -163,7 +159,6 @@ set_podcats($url_podcasts_01, 'Podcasts - Bloomberg Businessweek', '06');
 set_podcats($url_podcasts_02, 'Podcasts - Bloomberg Surveillance', '07');
 set_podcats($url_podcasts_03, 'Podcasts - Financial Times', '08');
 set_podcats($url_podcasts_04, 'Podcasts - The Economist', '09');
-set_podcats($url_podcasts_05, 'Podcasts - BBC History Magazine', '10');
 
 #----------------------------------------------------------------------------------------------------
 
