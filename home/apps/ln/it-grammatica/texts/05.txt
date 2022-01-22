@@ -1,175 +1,87 @@
-## numerali ##
+## nome ##
 
-## numerali
+## nome
 
-# cardinali
+# articolo
 
-[|
-|0 |%[m|zero   ]|
-|1 |%[m|uno    ]|
-|2 |%[m|due    ]|
-|3 |%[m|tre    ]|
-|4 |%[m|quattro]|
-|5 |%[m|cinque ]|
-|6 |%[m|sei    ]|
-|7 |%[m|sette  ]|
-|8 |%[m|otto   ]|
-|9 |%[m|nove   ]|
-|10|%[m|dieci  ]|
-|]
+### determinato
 
 [|
-|11|%[m|undici     ]|
-|12|%[m|dodici     ]|
-|13|%[m|tredici    ]|
-|14|%[m|quattordici]|
-|15|%[m|quindici   ]|
-|16|%[m|sedici     ]|
-|17|%[m|diciasette ]|
-|18|%[m|diciotto   ]|
-|19|%[m|diciannove ]|
-|]
-
-[|
-|10|%[m|dieci    ]|
-|20|%[m|venti    ]|
-|30|%[m|trenta   ]|
-|40|%[m|quaranta ]|
-|50|%[m|cinquanta]|
-|60|%[m|sessanta ]|
-|70|%[m|settanta ]|
-|80|%[m|ottanta  ]|
-|90|%[m|novanta  ]|
-|]
-
-[|
-|100|%[m|cento       ]|
-|200|%[m|duecento    ]|
-|300|%[m|trecento    ]|
-|400|%[m|quattrocento]|
-|500|%[m|cinquecento ]|
-|600|%[m|seicento    ]|
-|700|%[m|settecento  ]|
-|800|%[m|ottocento   ]|
-|900|%[m|novecento   ]|
-|]
-
-[|
-|1,000        |%[m|mille        ]|
-|2,000        |%[m|duemila      ]|
-|10,000       |%[m|diecimila    ]|
-|20,000       |%[m|ventimila    ]|
-|100,000      |%[m|centomila    ]|
-|900,000      |%[m|novecentomila]|
-|1,000,000    |%[m|un milione   ]|
-|1,000,000,000|%[m|un miliardo  ]|
+^  ^s.^p. ^
+|m.|%[m|il]|%[m|i]|
+|m.|%[m|lo]|%[m|gli]|
+|f.|%[m|la]|%[m|le]|
 |]
 
 [!
-финальный гласный в десятках выпадает перед 1 и 8
-финальный гласный е в tre становится é после прибавления десяток
+%[m|lo], %[m|gli] - перед:
+%[m|s] + согласный > %[m|lo studente], %[m|gli studenti]
+%[m|z] > %[m|lo zio], %[m|gli zii]
 !]
 
-[|
-|20|%[m|venti       ]|
-|21|%[m|ventuno     ]|
-|22|%[m|ventidue    ]|
-|23|%[m|ventitré    ]|
-|24|%[m|ventiquattro]|
-|25|%[m|venticinque ]|
-|26|%[m|ventisei    ]|
-|27|%[m|ventisette  ]|
-|28|%[m|ventotto    ]|
-|29|%[m|ventinove   ]|
-|]
+[!
+%[m|lo], %[m|la] = %[m|l'] - перед гласной
+!]
+
+### indeterminato
 
 [|
-|30|%[m|trenta       ]|
-|31|%[m|trentuno     ]|
-|32|%[m|trentadue    ]|
-|33|%[m|trentatré    ]|
-|34|%[m|trentaquattro]|
-|35|%[m|trentacinque ]|
-|36|%[m|trentasei    ]|
-|37|%[m|trentasette  ]|
-|38|%[m|trentotto    ]|
-|39|%[m|trentanove   ]|
+^  ^s. ^
+|m.|%[m|un ]|
+|m.|%[m|uno]|
+|f.|%[m|una]|
 |]
 
-[|
-|40|%[m|quaranta       ]|
-|41|%[m|quarantuno     ]|
-|42|%[m|quarantadue    ]|
-|43|%[m|quarantatré    ]|
-|44|%[m|quarantaquattro]|
-|45|%[m|quarantacinque ]|
-|46|%[m|quarantasei    ]|
-|47|%[m|quarantasette  ]|
-|48|%[m|quarantotto    ]|
-|49|%[m|quarantanove   ]|
-|]
+[!
+%[m|uno] - перед:
+%[m|s] + согласный > %[m|uno studente]
+%[m|z] > %[m|uno zio]
+!]
+
+### partitivo
 
 [|
-|50|%[m|cinquanta       ]|
-|51|%[m|cinquantuno     ]|
-|52|%[m|cinquantadue    ]|
-|53|%[m|cinquantatré    ]|
-|54|%[m|cinquantaquattro]|
-|55|%[m|cinquantacinque ]|
-|56|%[m|cinquantasei    ]|
-|57|%[m|cinquantasette  ]|
-|58|%[m|cinquantotto    ]|
-|59|%[m|cinquantanove   ]|
+^  ^c.   ^v.   ^
+|m.|%[m|del  ]|%[m|di] + %[m|il]|
+|m.|%[m|dello]|%[m|di] + %[m|lo]|
+|f.|%[m|della]|%[m|di] + %[m|la]|
 |]
 
-[|
-|60|%[m|sessanta       ]|
-|61|%[m|sessantuno     ]|
-|62|%[m|sessantadue    ]|
-|63|%[m|sessantatré    ]|
-|64|%[m|sessantaquattro]|
-|65|%[m|sessantacinque ]|
-|66|%[m|sessantasei    ]|
-|67|%[m|sessantasette  ]|
-|68|%[m|sessantotto    ]|
-|69|%[m|sessantanove   ]|
-|]
+[!
+%[m|di] + определённый артикль ед.ч.
+!]
+
+[!
+m. - maschio
+f. - femminile
+s. - singolare
+p. - plurale
+!]
+
+### preposizioni articolate
+
+#### singolare
 
 [|
-|70|%[m|settanta       ]|
-|71|%[m|settantuno     ]|
-|72|%[m|settantadue    ]|
-|73|%[m|settantatré    ]|
-|74|%[m|settantaquattro]|
-|75|%[m|settantacinque ]|
-|76|%[m|settantasei    ]|
-|77|%[m|settantasette  ]|
-|78|%[m|settantotto    ]|
-|79|%[m|settantanove   ]|
+^        ^il      ^lo        ^la        ^l'        ^
+|%[m|a  ]|%[m|al ]|%[m|allo ]|%[m|alla ]|%[m|all' ]|
+|%[m|di ]|%[m|del]|%[m|dello]|%[m|della]|%[m|dell']|
+|%[m|da ]|%[m|dal]|%[m|dallo]|%[m|dalla]|%[m|dall']|
+|%[m|in ]|%[m|nel]|%[m|nello]|%[m|nella]|%[m|nell']|
+|%[m|su ]|%[m|sul]|%[m|sullo]|%[m|sulla]|%[m|sull']|
+|%[m|per]|%[m|pel]|%[m|     ]|%[m|     ]|%[m|     ]|
+|%[m|con]|%[m|col]|%[m|     ]|%[m|     ]|%[m|coll']|
 |]
 
-[|
-|80|%[m|ottanta       ]|
-|81|%[m|ottantuno     ]|
-|82|%[m|ottantadue    ]|
-|83|%[m|ottantatré    ]|
-|84|%[m|ottantaquattro]|
-|85|%[m|ottantacinque ]|
-|86|%[m|ottantasei    ]|
-|87|%[m|ottantasette  ]|
-|88|%[m|ottantotto    ]|
-|89|%[m|ottantanove   ]|
-|]
+#### plurale
 
 [|
-|90|%[m|novanta       ]|
-|91|%[m|novabtuno     ]|
-|92|%[m|novabtadue    ]|
-|93|%[m|novabtatré    ]|
-|94|%[m|novabtaquattro]|
-|95|%[m|novabtacinque ]|
-|96|%[m|novabtasei    ]|
-|97|%[m|novabtasette  ]|
-|98|%[m|novabtotto    ]|
-|99|%[m|novabtanove   ]|
+^        ^i       ^gli       ^le        ^
+|%[m|a  ]|%[m|ai ]|%[m|agli ]|%[m|alle ]|
+|%[m|di ]|%[m|dei]|%[m|degli]|%[m|delle]|
+|%[m|da ]|%[m|dai]|%[m|dagli]|%[m|dalle]|
+|%[m|in ]|%[m|nei]|%[m|negli]|%[m|nelle]|
+|%[m|su ]|%[m|sui]|%[m|sugli]|%[m|sulle]|
+|%[m|per]|%[m|pei]|%[m|     ]|%[m|     ]|
+|%[m|con]|%[m|coi]|%[m|cogli]|%[m|     ]|
 |]
