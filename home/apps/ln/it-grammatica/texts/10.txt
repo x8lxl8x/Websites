@@ -1,96 +1,24 @@
-## pronomi ##
+## numerali
 
-## pronomi
-
-# personali
-
-### soggetto
-
-#### подлежащее разговорное
+# anni
 
 [|
-|%[m|io]           |я          |
-|%[m|tu]           |ты         |
-|%[m|lui, lei, Lei]|он, она, Вы|
-|%[m|noi]          |мы         |
-|%[m|voi]          |вы         |
-|%[m|loro]         |они        |
-|]
-
-#### подлежащее книжное
-
-[|
-|%[m|egli]|он (люди)          |
-|%[m|esso]|он (животные, вещи)|
+|965     |%[m|novecentosessantacinque   ]|
+|1053    |%[m|nel millecinquantatre     ]|
+|1835    |%[m|milleottocentotrentacinque]|
+|2000    |%[m|duemila                   ]|
+|2005    |%[m|duemilacinque             ]|
 |]
 
 [|
-|%[m|ella]|она (люди)          |
-|%[m|essa]|она (животные, вещи)|
+|III d.C.|%[m|terzo secolo dopo Cristo  ]|
+|VI a.C. |%[m|sesto secolo avanti Cristo]|
+|V       |%[m|quinto secolo             ]|
+|XVIII   |%[m|diciottesimo secolo       ]|
+|XX      |%[m|ventesimo secolo          ]|
 |]
 
 [|
-|%[m|essi]|они м.р. (люди)          |
-|%[m|esse]|они ж.р. (животные, вещи)|
+|‘700    |%[m|settecento                ]|
+|‘900    |%[m|novecento                 ]|
 |]
-
-
-### oggetto diretto
-
-#### прямое дополнение безударное
-
-[|
-|%[m|mi        ]|меня            |
-|%[m|ti        ]|тебя            |
-|%[m|lo, la, La]|его, её, Вас    |
-|%[m|ci        ]|нас             |
-|%[m|vi        ]|вас             |
-|%[m|li, le    ]|их м.р., их ж.р.|
-|]
-
-#### прямое дополнение ударное
-
-[|
-|%[m|me           ]|меня            |
-|%[m|te           ]|тебя            |
-|%[m|lui, lei, Lei]|его, её, Вас    |
-|%[m|noi          ]|нас             |
-|%[m|voi          ]|вас             |
-|%[m|loro         ]|их м.р., их ж.р.|
-|]
-
-### oggetto indiretto
-
-#### косвенное дополнение безударное
-
-[|
-|%[m|mi         ]|мнe         |
-|%[m|ti         ]|тебe        |
-|%[m|gli, le, Le]|ему, ей, Вам|
-|%[m|ci         ]|нам         |
-|%[m|vi         ]|вам         |
-|%[m|loro       ]|им          |
-|]
-
-#### косвенное дополнение ударное
-
-[|
-|%[m|a me               ]|мнe         |
-|%[m|a te               ]|тебe        |
-|%[m|a lui, a lei, a Lei]|ему, ей, Вам|
-|%[m|a noi              ]|нам         |
-|%[m|a voi              ]|вам         |
-|%[m|a loro             ]|им          |
-|]
-
-[!
-ударное - после предлогов
-ударное - после %[m|quanto], %[m|secondo], %[m|come]
-ударное - в обращениях %[m|beato te!]
-!]
-
-[!
-вежливое обращение %[m|Lei] = 3 лц. ед.ч. ж.р.
-вежливое обращение %[m|Loro] = 3 лц. мн.ч. ж.р.
-вместо Loro используется %[m|voi]
-!]

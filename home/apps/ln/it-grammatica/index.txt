@@ -6,11 +6,12 @@
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=04.txt'>alfabeto</a><br>
 <h2>nome</h2>
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=05.txt'>articolo</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=06.txt'>preposizioni articolate</a><br>
 <h2>numerali</h2>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=06.txt'>cardinali</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=07.txt'>ordinali</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=08.txt'>frazionari</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=09.txt'>anni</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=07.txt'>cardinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=08.txt'>ordinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=09.txt'>frazionari</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=10.txt'>anni</a><br>
 <h2>pronomi</h2>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=10.txt'>personali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=11.txt'>personali</a><br>
 </span>

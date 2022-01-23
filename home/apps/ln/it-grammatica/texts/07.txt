@@ -1,172 +1,175 @@
+## numerali ##
+
 ## numerali
 
-# ordinali
+# cardinali
 
 [|
-|1 |%[m|primo  ]|
-|2 |%[m|secondo]|
-|3 |%[m|terzo  ]|
-|4 |%[m|quarto ]|
-|5 |%[m|quinto ]|
-|6 |%[m|sesto  ]|
-|7 |%[m|settimo]|
-|8 |%[m|ottavo ]|
-|9 |%[m|nono   ]|
-|10|%[m|decimo ]|
+|0 |%[m|zero   ]|
+|1 |%[m|uno    ]|
+|2 |%[m|due    ]|
+|3 |%[m|tre    ]|
+|4 |%[m|quattro]|
+|5 |%[m|cinque ]|
+|6 |%[m|sei    ]|
+|7 |%[m|sette  ]|
+|8 |%[m|otto   ]|
+|9 |%[m|nove   ]|
+|10|%[m|dieci  ]|
 |]
 
 [|
-|11|%[m|undicesimo     ]|
-|12|%[m|dodicesimo     ]|
-|13|%[m|tredicesimo    ]|
-|14|%[m|quattordicesimo]|
-|15|%[m|quindicesimo   ]|
-|16|%[m|sedicesimo     ]|
-|17|%[m|diciasettesimo ]|
-|18|%[m|diciottesimo   ]|
-|19|%[m|diciannovesimo ]|
+|11|%[m|undici     ]|
+|12|%[m|dodici     ]|
+|13|%[m|tredici    ]|
+|14|%[m|quattordici]|
+|15|%[m|quindici   ]|
+|16|%[m|sedici     ]|
+|17|%[m|diciasette ]|
+|18|%[m|diciotto   ]|
+|19|%[m|diciannove ]|
 |]
 
 [|
-|10|%[m|decimo       ]|
-|20|%[m|ventesimo    ]|
-|30|%[m|trentesimo   ]|
-|40|%[m|quarantesimo ]|
-|50|%[m|cinquantesimo]|
-|60|%[m|sessantesimo ]|
-|70|%[m|settantesimo ]|
-|80|%[m|ottantesimo  ]|
-|90|%[m|novantesimo  ]|
+|10|%[m|dieci    ]|
+|20|%[m|venti    ]|
+|30|%[m|trenta   ]|
+|40|%[m|quaranta ]|
+|50|%[m|cinquanta]|
+|60|%[m|sessanta ]|
+|70|%[m|settanta ]|
+|80|%[m|ottanta  ]|
+|90|%[m|novanta  ]|
 |]
 
 [|
-|100|%[m|centesimo       ]|
-|200|%[m|duecentesimo    ]|
-|300|%[m|trecentesimo    ]|
-|400|%[m|quattrocentesimo]|
-|500|%[m|cinquecentesimo ]|
-|600|%[m|seicentesimo    ]|
-|700|%[m|settecentesimo  ]|
-|800|%[m|ottocentesimo   ]|
-|900|%[m|novecentesimo   ]|
+|100|%[m|cento       ]|
+|200|%[m|duecento    ]|
+|300|%[m|trecento    ]|
+|400|%[m|quattrocento]|
+|500|%[m|cinquecento ]|
+|600|%[m|seicento    ]|
+|700|%[m|settecento  ]|
+|800|%[m|ottocento   ]|
+|900|%[m|novecento   ]|
 |]
 
 [|
-|1,000        |%[m|millesimo         ]|
-|2,000        |%[m|duemillesimo      ]|
-|10,000       |%[m|diecimillesimo    ]|
-|20,000       |%[m|ventimillesimo    ]|
-|100,000      |%[m|centomillesimo    ]|
-|900,000      |%[m|novecentomillesimo]|
-|1,000,000    |%[m|un milionesimo    ]|
-|1,000,000,000|%[m|un miliardesimo   ]|
+|1,000        |%[m|mille        ]|
+|2,000        |%[m|duemila      ]|
+|10,000       |%[m|diecimila    ]|
+|20,000       |%[m|ventimila    ]|
+|100,000      |%[m|centomila    ]|
+|900,000      |%[m|novecentomila]|
+|1,000,000    |%[m|un milione   ]|
+|1,000,000,000|%[m|un miliardo  ]|
 |]
 
 [!
-образование добавлением -esimo
-числительные на -trè, -sei сохраняют гласную
+финальный гласный в десятках выпадает перед 1 и 8
+финальный гласный е в tre становится é после прибавления десяток
 !]
 
 [|
-|20|%[m|ventesimo       ]|
-|21|%[m|ventunesimo     ]|
-|22|%[m|ventiduesimo    ]|
-|23|%[m|ventitresimo    ]|
-|24|%[m|ventiquattresimo]|
-|25|%[m|venticinquesimo ]|
-|26|%[m|ventiseesimo    ]|
-|27|%[m|ventisettesimo  ]|
-|28|%[m|ventottesimo    ]|
-|29|%[m|ventinovesimo   ]|
+|20|%[m|venti       ]|
+|21|%[m|ventuno     ]|
+|22|%[m|ventidue    ]|
+|23|%[m|ventitré    ]|
+|24|%[m|ventiquattro]|
+|25|%[m|venticinque ]|
+|26|%[m|ventisei    ]|
+|27|%[m|ventisette  ]|
+|28|%[m|ventotto    ]|
+|29|%[m|ventinove   ]|
 |]
 
 [|
-|30|%[m|trentesimo       ]|
-|31|%[m|trentunesimo     ]|
-|32|%[m|trenteduesimo    ]|
-|33|%[m|trentetresimo    ]|
-|34|%[m|trentequattresimo]|
-|35|%[m|trentecinquesimo ]|
-|36|%[m|trenteseesimo    ]|
-|37|%[m|trentesettesimo  ]|
-|38|%[m|trentottesimo    ]|
-|39|%[m|trentenovesimo   ]|
+|30|%[m|trenta       ]|
+|31|%[m|trentuno     ]|
+|32|%[m|trentadue    ]|
+|33|%[m|trentatré    ]|
+|34|%[m|trentaquattro]|
+|35|%[m|trentacinque ]|
+|36|%[m|trentasei    ]|
+|37|%[m|trentasette  ]|
+|38|%[m|trentotto    ]|
+|39|%[m|trentanove   ]|
 |]
 
 [|
-|40|%[m|quarantesimo       ]|
-|41|%[m|quarantunesimo     ]|
-|42|%[m|quaranteduesimo    ]|
-|43|%[m|quarantetresimo    ]|
-|44|%[m|quarantequattresimo]|
-|45|%[m|quarantecinquesimo ]|
-|46|%[m|quaranteseesimo    ]|
-|47|%[m|quarantesettesimo  ]|
-|48|%[m|quarantottesimo    ]|
-|49|%[m|quarantenovesimo   ]|
+|40|%[m|quaranta       ]|
+|41|%[m|quarantuno     ]|
+|42|%[m|quarantadue    ]|
+|43|%[m|quarantatré    ]|
+|44|%[m|quarantaquattro]|
+|45|%[m|quarantacinque ]|
+|46|%[m|quarantasei    ]|
+|47|%[m|quarantasette  ]|
+|48|%[m|quarantotto    ]|
+|49|%[m|quarantanove   ]|
 |]
 
 [|
-|50|%[m|cinquantesimo       ]|
-|51|%[m|cinquantunesimo     ]|
-|52|%[m|cinquanteduesimo    ]|
-|53|%[m|cinquantetresimo    ]|
-|54|%[m|cinquantequattresimo]|
-|55|%[m|cinquantecinquesimo ]|
-|56|%[m|cinquanteseesimo    ]|
-|57|%[m|cinquantesettesimo  ]|
-|58|%[m|cinquantottesimo    ]|
-|59|%[m|cinquantenovesimo   ]|
+|50|%[m|cinquanta       ]|
+|51|%[m|cinquantuno     ]|
+|52|%[m|cinquantadue    ]|
+|53|%[m|cinquantatré    ]|
+|54|%[m|cinquantaquattro]|
+|55|%[m|cinquantacinque ]|
+|56|%[m|cinquantasei    ]|
+|57|%[m|cinquantasette  ]|
+|58|%[m|cinquantotto    ]|
+|59|%[m|cinquantanove   ]|
 |]
 
 [|
-|60|%[m|sessantesimo       ]|
-|61|%[m|sessantunesimo     ]|
-|62|%[m|sessanteduesimo    ]|
-|63|%[m|sessantetresimo    ]|
-|64|%[m|sessantequattresimo]|
-|65|%[m|sessantecinquesimo ]|
-|66|%[m|sessanteseesimo    ]|
-|67|%[m|sessantesettesimo  ]|
-|68|%[m|sessantottesimo    ]|
-|69|%[m|sessantenovesimo   ]|
+|60|%[m|sessanta       ]|
+|61|%[m|sessantuno     ]|
+|62|%[m|sessantadue    ]|
+|63|%[m|sessantatré    ]|
+|64|%[m|sessantaquattro]|
+|65|%[m|sessantacinque ]|
+|66|%[m|sessantasei    ]|
+|67|%[m|sessantasette  ]|
+|68|%[m|sessantotto    ]|
+|69|%[m|sessantanove   ]|
 |]
 
 [|
-|70|%[m|settantesimo       ]|
-|71|%[m|settantunesimo     ]|
-|72|%[m|settanteduesimo    ]|
-|73|%[m|settantetresimo    ]|
-|74|%[m|settantequattresimo]|
-|75|%[m|settantecinquesimo ]|
-|76|%[m|settanteseesimo    ]|
-|77|%[m|settantesettesimo  ]|
-|78|%[m|settantottesimo    ]|
-|79|%[m|settantenovesimo   ]|
+|70|%[m|settanta       ]|
+|71|%[m|settantuno     ]|
+|72|%[m|settantadue    ]|
+|73|%[m|settantatré    ]|
+|74|%[m|settantaquattro]|
+|75|%[m|settantacinque ]|
+|76|%[m|settantasei    ]|
+|77|%[m|settantasette  ]|
+|78|%[m|settantotto    ]|
+|79|%[m|settantanove   ]|
 |]
 
 [|
-|80|%[m|ottantesimo       ]|
-|81|%[m|ottantunesimo     ]|
-|82|%[m|ottanteduesimo    ]|
-|83|%[m|ottantetresimo    ]|
-|84|%[m|ottantequattresimo]|
-|85|%[m|ottantecinquesimo ]|
-|86|%[m|ottanteseesimo    ]|
-|87|%[m|ottantesettesimo  ]|
-|88|%[m|ottantottesimo    ]|
-|89|%[m|ottantenovesimo   ]|
+|80|%[m|ottanta       ]|
+|81|%[m|ottantuno     ]|
+|82|%[m|ottantadue    ]|
+|83|%[m|ottantatré    ]|
+|84|%[m|ottantaquattro]|
+|85|%[m|ottantacinque ]|
+|86|%[m|ottantasei    ]|
+|87|%[m|ottantasette  ]|
+|88|%[m|ottantotto    ]|
+|89|%[m|ottantanove   ]|
 |]
 
 [|
-|90|%[m|novantesimo       ]|
-|91|%[m|novantunesimo     ]|
-|92|%[m|novanteduesimo    ]|
-|93|%[m|novantetresimo    ]|
-|94|%[m|novantequattresimo]|
-|95|%[m|novantecinquesimo ]|
-|96|%[m|novanteseesimo    ]|
-|97|%[m|novantesettesimo  ]|
-|98|%[m|novantottesimo    ]|
-|99|%[m|novantenovesimo   ]|
+|90|%[m|novanta       ]|
+|91|%[m|novabtuno     ]|
+|92|%[m|novabtadue    ]|
+|93|%[m|novabtatré    ]|
+|94|%[m|novabtaquattro]|
+|95|%[m|novabtacinque ]|
+|96|%[m|novabtasei    ]|
+|97|%[m|novabtasette  ]|
+|98|%[m|novabtotto    ]|
+|99|%[m|novabtanove   ]|
 |]

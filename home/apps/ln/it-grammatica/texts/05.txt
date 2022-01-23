@@ -57,31 +57,3 @@ f. - femminile
 s. - singolare
 p. - plurale
 !]
-
-### preposizioni articolate
-
-#### singolare
-
-[|
-^        ^il      ^lo        ^la        ^l'        ^
-|%[m|a  ]|%[m|al ]|%[m|allo ]|%[m|alla ]|%[m|all' ]|
-|%[m|di ]|%[m|del]|%[m|dello]|%[m|della]|%[m|dell']|
-|%[m|da ]|%[m|dal]|%[m|dallo]|%[m|dalla]|%[m|dall']|
-|%[m|in ]|%[m|nel]|%[m|nello]|%[m|nella]|%[m|nell']|
-|%[m|su ]|%[m|sul]|%[m|sullo]|%[m|sulla]|%[m|sull']|
-|%[m|per]|%[m|pel]|%[m|     ]|%[m|     ]|%[m|     ]|
-|%[m|con]|%[m|col]|%[m|     ]|%[m|     ]|%[m|coll']|
-|]
-
-#### plurale
-
-[|
-^        ^i       ^gli       ^le        ^
-|%[m|a  ]|%[m|ai ]|%[m|agli ]|%[m|alle ]|
-|%[m|di ]|%[m|dei]|%[m|degli]|%[m|delle]|
-|%[m|da ]|%[m|dai]|%[m|dagli]|%[m|dalle]|
-|%[m|in ]|%[m|nei]|%[m|negli]|%[m|nelle]|
-|%[m|su ]|%[m|sui]|%[m|sugli]|%[m|sulle]|
-|%[m|per]|%[m|pei]|%[m|     ]|%[m|     ]|
-|%[m|con]|%[m|coi]|%[m|cogli]|%[m|     ]|
-|]
