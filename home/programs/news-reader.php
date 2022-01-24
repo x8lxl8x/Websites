@@ -244,14 +244,14 @@ function get_article()
   if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", "windows-1251");
   $media_content = preg_replace("/\r\n/s", "\n", $media_content);
 
-#  if ($debug_flag)
-#  {
-##   echo count($module_array);
-##   echo $module_array[0];
-#    $media_content = preg_replace("/</s", "\n<", $media_content);
-#    file_put_contents($debug_file, $media_content);
-##   exit;
-#  }
+  if ($debug_flag)
+  {
+#   echo count($module_array);
+#   echo $module_array[0];
+    $media_content = preg_replace("/</s", "\n<", $media_content);
+    file_put_contents($debug_file, $media_content);
+#   exit;
+  }
 
   $media_content = preg_replace("/src=\"\/\//s", "src=\"{$media_scheme}://", $media_content);
   $media_content = preg_replace("/href=\"\/\//s", "href=\"{$media_scheme}://", $media_content);

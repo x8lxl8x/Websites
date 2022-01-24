@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "il Giornale - Mondo - Pagina 2",
-  "media_url"       => "https://www.ilgiornale.it/sezioni/esteri.html?page=2",
+  "media_name"      => "il Giornale - Spettacoli - Pagina 1",
+  "media_url"       => "https://www.ilgiornale.it/sezioni/spettacoli.html?page=1",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=term__main]",

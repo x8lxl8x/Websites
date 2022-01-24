@@ -4,6 +4,6 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "media",
 
-  "media_name"      => "Boursorama",
+  "media_name"      => "Zonebourse",
 ];
 ?>

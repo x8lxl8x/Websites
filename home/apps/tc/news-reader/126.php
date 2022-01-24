@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "false",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - International",
-  "media_url"       => "https://www.contrepoints.org/category/international",
+  "media_name"      => "Contrepoints - Cuture",
+  "media_url"       => "https://www.contrepoints.org/category/cuturen",
   "media_encode"    => "false",
 
   "module_body"     => "div[class*=Container]",
