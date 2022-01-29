@@ -4,6 +4,21 @@
 
 # articolo
 
+### indeterminato
+
+[|
+^  ^s. ^
+|m.|%[m|un ]|
+|m.|%[m|uno]|
+|f.|%[m|una]|
+|]
+
+[!
+%[m|uno] - перед:
+%[m|s] + согласный > %[m|uno studente]
+%[m|z] > %[m|uno zio]
+!]
+
 ### determinato
 
 [|
@@ -21,21 +36,6 @@
 
 [!
 %[m|lo], %[m|la] = %[m|l'] - перед гласной
-!]
-
-### indeterminato
-
-[|
-^  ^s. ^
-|m.|%[m|un ]|
-|m.|%[m|uno]|
-|f.|%[m|una]|
-|]
-
-[!
-%[m|uno] - перед:
-%[m|s] + согласный > %[m|uno studente]
-%[m|z] > %[m|uno zio]
 !]
 
 ### partitivo
