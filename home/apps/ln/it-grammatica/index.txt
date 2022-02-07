@@ -14,4 +14,9 @@
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=10.txt'>anni</a><br>
 <h2>pronomi</h2>
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=11.txt'>personali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=12.txt'>possesivi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=13.txt'>dimonstrativi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=14.txt'>indefiniti</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=15.txt'>relativi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=16.txt'>interrogativi</a><br>
 </span>
