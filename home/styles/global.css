@@ -923,6 +923,8 @@ div[id^='idDivArticle']
 .r /* red     */  { color:                #ff0000; }
 .g /* green   */  { color:                #00ff00; }
 .b /* blue    */  { color:                #0000ff; }
+.c /* gray    */  { color:                #cccccc; }
+.a /* gray    */  { color:                #aaaaaa; }
 .darkred          { color:                #aa0000; }
 
 .m0000
