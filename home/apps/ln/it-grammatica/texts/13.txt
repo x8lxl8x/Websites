@@ -1,128 +1,37 @@
-## pronomi
+# alfabeto
 
-# dimonstrativi
+## italiane
 
 [|
-|%[m|questo]|этот|
-|%[m|questa]|эта|
-|%[m|questi]|эти м.р.|
-|%[m|questе]|эти ж.р.|
+|%[m|A]|%[m|a]|%[l|a        ]|a        |а        |
+|%[m|B]|%[m|b]|%[l|bi       ]|bi       |би       |
+|%[m|C]|%[m|c]|%[l|tʃi      ]|ci       |чи       |
+|%[m|D]|%[m|d]|%[l|di       ]|di       |ди       |
+|%[m|E]|%[m|e]|%[l|e        ]|e        |э        |
+|%[m|F]|%[m|f]|%[l|ɛffe     ]|effe     |эффэ     |
+|%[m|G]|%[m|g]|%[l|dʒi      ]|gi       |джи      |
+|%[m|H]|%[m|h]|%[l|akka     ]|acca     |акка     |
+|%[m|I]|%[m|i]|%[l|i        ]|i        |и        |
+|%[m|L]|%[m|l]|%[l|ɛlle     ]|elle     |эллэ     |
+|%[m|M]|%[m|m]|%[l|ɛmme     ]|emme     |эммэ     |
+|%[m|N]|%[m|n]|%[l|ɛnne     ]|enne     |эннэ     |
+|%[m|O]|%[m|o]|%[l|ɔ        ]|o        |о        |
+|%[m|P]|%[m|p]|%[l|pi       ]|pi       |пи       |
+|%[m|Q]|%[m|q]|%[l|ku       ]|cu       |ку       |
+|%[m|R]|%[m|r]|%[l|ɛrre     ]|erre     |эрре     |
+|%[m|S]|%[m|s]|%[l|ɛsse     ]|esse     |эссе     |
+|%[m|T]|%[m|t]|%[l|ti       ]|ti       |ти       |
+|%[m|U]|%[m|u]|%[l|u        ]|u        |у        |
+|%[m|V]|%[m|v]|%[l|vi       ]|vi       |ви       |
+|%[m|Z]|%[m|z]|%[l|dzɛːta   ]|zeta     |дзета    |
 |]
 
-[!
-quest' - %[m|quest’anno], %[m|quest’attrice]
-!]
+## stranieri
 
 [|
-|%[m|quel  ]|тот|
-|%[m|quello]|тот|
-|%[m|quella]|тa|
-|%[m|quelli]|тe м.р.|
-|%[m|quelle]|тe ж.р.|
-|]
-
-[!
-quello - перед:
-s + согласный > %[m|quello studente]
-z > %[m|quello zio]
-!]
-
-### quello + articolo
-
-#### singolare
-[|
-|m.|%[m|quel  ]|quello + il|
-|m.|%[m|quello]|quello + lo|
-|f.|%[m|quella]|quella + la|
-|]
-
-#### plurale
-
-[|
-|m.|%[m|quei  ]|quelli + i  |
-|m.|%[m|quegli]|quelli + gli|
-|f.|%[m|quelle]|quelle + le |
-|]
-
-#### elisione
-
-[|
-|%[m|quell'  ]|quello + l'|
-|]
-
-### далёкий от 1-го лица, близкий ко 2-му лицу
-
-[|
-|m.|%[m|codesto]|этот    |
-|m.|%[m|codesta]|эта     |
-|m.|%[m|codesti]|эти м.р.|
-|m.|%[m|codeste]|эти ж.р.|
-|]
-
-### antecedente
-
-[|
-|%[m|colui  ]|тот который|
-|%[m|colei  ]|та которая |
-|%[m|coloro ]|те которые |
-|]
-
-### spregiativo (пренебрежительный)
-
-[|
-|%[m|costui ]|тот самый|
-|%[m|costei ]|та самая |
-|%[m|costoro]|те самые |
-|]
-
-[|
-|%[m|il coso]|этот, как его|
-|]
-
-### simile (подобный)
-
-[|
-|%[m|stesso]|тот же     |
-|%[m|stessa]|та  же     |
-|%[m|stessi]|те  же м.р.|
-|%[m|stesse]|те  же ж.р.|
-|]
-
-[|
-|%[m|medissimo]|тот самый     |
-|%[m|medissima]|та  самая     |
-|%[m|medissimi]|те  самые м.р.|
-|%[m|medissime]|те  самые ж.р.|
-|]
-
-[|
-|%[m|siffato]|похожий     |
-|%[m|siffata]|похожая     |
-|%[m|siffati]|похожие м.р.|
-|%[m|siffate]|похожие ж.р.|
-|]
-
-[|
-|%[m|tale]|такой, такая|
-|%[m|tali]|такие, такие|
-|]
-
-[!
-%[m|in tal caso] - в таком случае
-%[m|un tale]     - некий
-!]
-
-[|
-|%[m|cotale]|такой, такая|
-|%[m|cotali]|такие, такие|
-|]
-
-[!
-tale, cotаle - синонимы
-cotаle - малоупотребительно
-!]
-
-[|
-|%[m|quale]|какой, какая|
-|%[m|quali]|какие, какие|
+|%[m|J]|%[m|j]|%[l|i lunga  ]|i lunga  |и лунга  |
+|%[m|К]|%[m|к]|%[l|kappa    ]|cappa    |каппа    |
+|%[m|W]|%[m|w]|%[l|vi doppia]|vi doppia|ви доппиа|
+|%[m|X]|%[m|x]|%[l|ics      ]|ics      |икс      |
+|%[m|Y]|%[m|y]|%[l|i greca  ]|i greca  |и грэка  |
 |]

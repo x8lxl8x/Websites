@@ -1,96 +1,40 @@
-# fatica
+## ortografia
 
-__ударение__
+# vocale - e
 
-## Типы ударений
+%[m|e]
+&emsp;%[l|e]
+&emsp;в безударном положении
+&emsp;&emsp;%[m|verde] - зелёный
+&emsp;в числительных:
+&emsp;&emsp;%[m|venti] - двадцать
+&emsp;&emsp;%[m|trenta] - тридцать
+&emsp;в местоимениях:
+&emsp;&emsp;%[m|questo] - этот
+&emsp;&emsp;%[m|quello] - тот
+&emsp;&emsp;%[m|esso] - такой, тот самый
+&emsp;&emsp;%[m|stesso] - тот же
+&emsp;&emsp;%[m|medissimo] - тот самый
+&emsp;в суффиксах:
+&emsp;&emsp;%[m|-eccio]
+&emsp;&emsp;%[m|-efice]
+&emsp;&emsp;%[m|-essa]
+&emsp;&emsp;%[m|-esco]
+&emsp;&emsp;%[m|-eto]
+&emsp;&emsp;%[m|-etto]
+&emsp;&emsp;%[m|-evole]
+&emsp;&emsp;%[m|-ezza]
+&emsp;в суффиксах:
+&emsp;&emsp;%[m|-mento]
+&emsp;&emsp;%[m|-mente]
+&emsp;&emsp;%[m|-menti]
 
-[|
-|%[l|parole tronche     ]|последний       |%[m|virtù],%[m|pietà]     |добродетель,жалость|
-|%[l|parole piane       ]|предпоследний   |%[m|montagna],%[m|padrone]|гора,хозяин        |
-|%[l|parole sdrucciole  ]|второй от начала|%[m|tavola],%[m|meccanico]|стол,механик       |
-|%[l|parole bisdrucciole]|первый от начала|%[m|capitano],%[m|abitano]|капитан,они живут  |
-|]
-
-## Типы ударений
-
-
-### l'accento grave (`)
-
-[!
-открытость гласного
-над:  a, o
-!]
-
-[|
-|%[m|là         ]|там        |
-|%[m|città      ]|город      |
-|%[m|verità     ]|правда     |
-|%[m|capacità   ]|вместимость|
-|]
-
-### l'accento acuto (´)
-
-[!
-закрытость гласного
-над i, u, e
-!]
-
-[|
-|%[m|cosí  |[кози]так
-|%[m|virtú |[вирту]добродетель, доблесть
-|%[m|perché|[пэркэ]почему, потому
-|]
-
-lassú[lассу]там наверху
-temé[тэмэ]он боялся
-
-### l'accento circonflesso (ˆ)
-
-[!
-используется редко
-обозначает устранение буквы
-!]
-
-[|
-principî[принчипи]нача́ла
-вместоprincịpii[принчипии]
-tôrre[торрэ]уносить
-вместоtọgliere[тольерэ]
-|]
-
-
-## Ударения глаголов
-
-Схема ударений личных форм глагола
-
-Единственное число
-
-I-ый вариант                  II-ой вариант
-___   ___   _/_   ___         ___   _/_   ___   ___
-___   ___   _/_   ___         ___   _/_   ___   ___
-___   ___   _/_   ___         ___   _/_   ___   ___
-
-
-Множественное число
-
-___   ___   _/_   ___         ___   ___   _/_   ___
-___   ___   _/_   ___         ___   ___   _/_   ___
-___   _/_   ___   ___         _/_   ___   ___   ___
-
-
-
-In the present tense, the loro form always has the stress on the same vowel as the io form:
-io form	loro form
-par|lo	I speak	par|la|no	they speak
-con|si|de|ro	I consider	con|si|de|ra|no	they consider
-mi al|le|no	I’m training	si al|le |na|no	they’re training
-In the future tense of all verbs the stress is on the last syllable of the io form and the lui/lei form. These two verb forms are spelled with an accent on the stressed vowel.
-Future
-sa|rò	I will be
-la|vo|re|rò	I will work
-fi|ni|rà	it will finish
-as|pet|te|rà	she’ll wait
-The infinitive of –are verbs always has the stress on the a of the ending, for example in|vi|ta|re (meaning to invite) and cam|mi|na|re (meaning to walk). The infinitive of –ire verbs always has the stress on the i of the ending, for example par|ti|re (meaning to leave) and fi|ni|re (meaning to finish).
-The infinitive of –ere verbs sometimes has the stress on the first e of the ending, for example, ve|de|re (meaning to see) and av|e|re (meaning to have). However, these verbs often stress a syllable before the –ere ending, for example ven|de|re (meaning to sell), di|vi|de|re (meaning to divide) and es|se|re (meaning to be).
-Tip
-Remember that –ere verbs do not always stress the e of the ending, and take note of the stress when learning a new verb.
+&emsp;%[l|ɛ]
+&emsp;в местоимениях:
+&emsp;&emsp;%[m|lei] - она
+&emsp;&emsp;%[m|colei] - та которая
+&emsp;&emsp;%[m|costei] - та самая
+&emsp;в числительных:
+&emsp;&emsp;%[m|sei] - шесть
+&emsp;&emsp;%[m|sette] - семь
+&emsp;&emsp;%[m|cento] - сто

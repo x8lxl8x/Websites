@@ -1,3 +1,62 @@
-## pronomi
+## nome ##
 
-# indefiniti
+## nome
+
+# articolo
+
+### indeterminato
+
+[|
+^  ^s. ^
+|m.|%[m|un ]|
+|m.|%[m|uno]|
+|f.|%[m|una]|
+|]
+
+[!
+%[m|uno] - перед:
+%[m|s] + согласный > %[m|uno studente]
+%[m|z] > %[m|uno zio]
+%[m|ps] > %[m|uno ]
+%[m|pn] > %[m|uno ]
+%[m|gn] > %[m|uno ]
+!]
+
+### determinato
+
+[|
+^  ^s.^p. ^
+|m.|%[m|il]|%[m|i]|
+|m.|%[m|lo]|%[m|gli]|
+|f.|%[m|la]|%[m|le]|
+|]
+
+[!
+%[m|lo], %[m|gli] - перед:
+%[m|s] + согласный > %[m|lo studente], %[m|gli studenti]
+%[m|z] > %[m|lo zio], %[m|gli zii]
+!]
+
+[!
+%[m|lo], %[m|la] = %[m|l'] - перед гласной
+!]
+
+### partitivo
+
+[|
+^  ^c.   ^v.   ^
+|m.|%[m|del  ]|%[m|di] + %[m|il]|
+|m.|%[m|dello]|%[m|di] + %[m|lo]|
+|f.|%[m|della]|%[m|di] + %[m|la]|
+|]
+
+[!
+%[m|di] + определённый артикль ед.ч.
+!]
+
+[!
+m. - maschio
+f. - femminile
+s. - singolare
+p. - plurale
+!]

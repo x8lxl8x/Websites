@@ -1,96 +1,107 @@
-## pronomi ##
+## ortografia
 
-## pronomi
+# dittonghi, trittonghi, iato
 
-# personali
+### dittonghi
 
-### soggetto
+%[m|ia]
+&emsp;%[l|ja]
+&emsp;&emsp;%[m|piano] - тихо
 
-#### подлежащее разговорное
+%[m|io]
+&emsp;%[l|jo]
+&emsp;&emsp;%[m|biondo] %[a|__m__] - блондин
 
-[|
-|%[m|io]      |я      |
-|%[m|tu]      |ты     |
-|%[m|lui, lei]|он, она|
-|%[m|noi]     |мы     |
-|%[m|voi]     |вы     |
-|%[m|loro]    |они    |
-|]
+%[m|iu]
+&emsp;%[l|ju]
+&emsp;&emsp;%[m|più] - больше
 
-#### подлежащее книжное
-
-[|
-|%[m|egli]|он (люди)          |
-|%[m|esso]|он (животные, вещи)|
-|]
-
-[|
-|%[m|ella]|она (люди)          |
-|%[m|essa]|она (животные, вещи)|
-|]
-
-[|
-|%[m|essi]|они м.р. (люди)          |
-|%[m|esse]|они ж.р. (животные, вещи)|
-|]
+%[m|ie]
+&emsp;%[l|je]
+&emsp;&emsp;%[m|pietra] %[a|__f__] - камень
 
 
-### oggetto diretto
+%[m|ua]
+&emsp;%[l|wa]
+&emsp;&emsp;%[m|acqua] %[a|__f__] - вода
 
-#### прямое дополнение безударное
+%[m|uo]
+&emsp;%[l|wo]
+&emsp;&emsp;%[m|uomo] %[a|__m__] - человек
 
-[|
-|%[m|mi    ]|меня   |
-|%[m|ti    ]|тебя   |
-|%[m|lo, la]|его, её|
-|%[m|ci    ]|нас    |
-|%[m|vi    ]|вас    |
-|%[m|li, le]|их, их |
-|]
+%[m|ue]
+&emsp;%[l|we]
+&emsp;&emsp;%[m|guerra] %[a|__f__] - война
 
-#### прямое дополнение ударное
+%[m|ui]
+&emsp;%[l|wi]
+&emsp;&emsp;%[m|qui] - здесь, сейчас
 
-[|
-|%[m|me      ]|меня   |
-|%[m|te      ]|тебя   |
-|%[m|lui, lei]|его, её|
-|%[m|noi     ]|нас    |
-|%[m|voi     ]|вас    |
-|%[m|loro    ]|их, их |
-|]
 
-### oggetto indiretto
+%[m|ai]
+&emsp;%[l|ai]
+&emsp;&emsp;%[m|mai] - никогда
 
-#### косвенное дополнение безударное
+%[m|ei]
+&emsp;%[l|ei]
+&emsp;&emsp;%[m|sei] - шесть
 
-[|
-|%[m|mi     ]|мнe    |
-|%[m|ti     ]|тебe   |
-|%[m|gli, le]|ему, ей|
-|%[m|ci     ]|нам    |
-|%[m|vi     ]|вам    |
-|%[m|loro   ]|им     |
-|]
 
-#### косвенное дополнение ударное
+%[m|oi]
+&emsp;%[l|oi]
+&emsp;&emsp;%[m|noi] - мы
 
-[|
-|%[m|a me        ]|мнe    |
-|%[m|a te        ]|тебe   |
-|%[m|a lui, a lei]|ему, ей|
-|%[m|a noi       ]|нам    |
-|%[m|a voi       ]|вам    |
-|%[m|a loro      ]|им     |
-|]
+%[m|ui]
+&emsp;%[l|ui]
+&emsp;&emsp;%[m|guida] %[a|__f__] - руководство
 
-[!
-ударное - после предлогов
-ударное - после %[m|quanto], %[m|secondo], %[m|come]
-ударное - в обращениях %[m|beato te!]
-!]
 
-[!
-вежливое обращение %[m|Lei] = 3 лц. ед.ч. ж.р.
-вежливое обращение %[m|Loro] = 3 лц. мн.ч. ж.р.
-вместо Loro используется %[m|voi]
-!]
+%[m|au]
+&emsp;%[l|au]
+&emsp;&emsp;%[m|auto] %[a|__f__] - автомобиль
+
+%[m|eu]
+&emsp;%[l|eu]
+&emsp;&emsp;%[m|euro] - евро
+
+
+### trittonghi
+
+%[m|aio]
+&emsp;%[l|ajo]
+&emsp;&emsp;%[m|operaio] %[a|__m__] - рабочий
+
+%[m|iuo]
+&emsp;%[l|jwo]
+&emsp;&emsp;%[m|aiuola] %[a|__f__] - клумба
+
+%[m|uoi]
+&emsp;%[l|woj]
+&emsp;&emsp;%[m|puoi] - может
+
+%[m|iei]
+&emsp;%[l|jej]
+&emsp;&emsp;%[m|miei] - мой
+
+
+### iato (раздельное)
+
+%[m|ае]
+&emsp;%[l|ае]
+&emsp;&emsp;%[m|aereo] - воздушный
+
+%[m|au]
+&emsp;%[l|au]
+&emsp;&emsp;%[m|paura] %[a|__f__] - страх
+
+%[m|ое]
+&emsp;%[l|ое]
+&emsp;&emsp;%[m|poeta] %[a|__m__] - поэт
+
+%[m|еa]
+&emsp;%[l|еa]
+&emsp;&emsp;%[m|platea] %[a|__f__] - партер
+
+%[m|eo]
+&emsp;%[l|eo]
+&emsp;&emsp;%[m|torneo] %[a|__m__] - турнир
