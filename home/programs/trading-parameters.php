@@ -59,7 +59,7 @@ $forex_items =
 
 #---------------------------------------------------------------------------------------------------
 
-$margins_link = 'https://www.interactivebrokers.eu/en/index.php?f=39020&hm=eu&ex=gl&rgt=1&rsk=0&pm=0&rst=010101010101010808';
+$margins_link = 'https://www.interactivebrokers.ie/en/index.php?f=39020&hm=eu&ex=gl&rgt=1&rsk=0&pm=0&rst=010101010101010808';
 
 $margins_items =
 [
@@ -71,7 +71,7 @@ $margins_items =
 
 #---------------------------------------------------------------------------------------------------
 
-$benchmarks_link = 'https://www.interactivebrokers.eu/en/index.php?f=46789&p=i';
+$benchmarks_link = 'https://www.interactivebrokers.ie/en/index.php?f=46789&p=i';
 
 $benchmarks_items =
 [
@@ -83,7 +83,7 @@ $benchmarks_items =
 
 #---------------------------------------------------------------------------------------------------
 
-$interests_link = 'https://www.interactivebrokers.eu/en/index.php?f=46782&p=m';
+$interests_link = 'https://www.interactivebrokers.ie/en/index.php?f=46782&p=m';
 
 $interests_items =
 [
