@@ -1,0 +1,7 @@
+<span class='clIndex'>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Mahjong&varAppArea=bk&varAppDir=bk-mahjong&varFileName=01.txt'>Type of Tiles</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Mahjong&varAppArea=bk&varAppDir=bk-mahjong&varFileName=02.txt'>Set of Tiles</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Mahjong&varAppArea=bk&varAppDir=bk-mahjong&varFileName=03.txt'>Calling Tiles</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Mahjong&varAppArea=bk&varAppDir=bk-mahjong&varFileName=04.txt'>Rules</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Mahjong&varAppArea=bk&varAppDir=bk-mahjong&varFileName=05.txt'>Winning</a><br>
+</span>
