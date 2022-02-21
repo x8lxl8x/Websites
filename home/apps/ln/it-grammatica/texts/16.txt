@@ -1,0 +1,175 @@
+## numerali ##
+
+## numerali
+
+# cardinali
+
+[|
+|0 |%[m|zero   ]|
+|1 |%[m|uno    ]|
+|2 |%[m|due    ]|
+|3 |%[m|tre    ]|
+|4 |%[m|quattro]|
+|5 |%[m|cinque ]|
+|6 |%[m|sei    ]|
+|7 |%[m|sette  ]|
+|8 |%[m|otto   ]|
+|9 |%[m|nove   ]|
+|10|%[m|dieci  ]|
+|]
+
+[|
+|11|%[m|undici     ]|
+|12|%[m|dodici     ]|
+|13|%[m|tredici    ]|
+|14|%[m|quattordici]|
+|15|%[m|quindici   ]|
+|16|%[m|sedici     ]|
+|17|%[m|diciasette ]|
+|18|%[m|diciotto   ]|
+|19|%[m|diciannove ]|
+|]
+
+[|
+|10|%[m|dieci    ]|
+|20|%[m|venti    ]|
+|30|%[m|trenta   ]|
+|40|%[m|quaranta ]|
+|50|%[m|cinquanta]|
+|60|%[m|sessanta ]|
+|70|%[m|settanta ]|
+|80|%[m|ottanta  ]|
+|90|%[m|novanta  ]|
+|]
+
+[|
+|100|%[m|cento       ]|
+|200|%[m|duecento    ]|
+|300|%[m|trecento    ]|
+|400|%[m|quattrocento]|
+|500|%[m|cinquecento ]|
+|600|%[m|seicento    ]|
+|700|%[m|settecento  ]|
+|800|%[m|ottocento   ]|
+|900|%[m|novecento   ]|
+|]
+
+[|
+|1,000        |%[m|mille        ]|
+|2,000        |%[m|duemila      ]|
+|10,000       |%[m|diecimila    ]|
+|20,000       |%[m|ventimila    ]|
+|100,000      |%[m|centomila    ]|
+|900,000      |%[m|novecentomila]|
+|1,000,000    |%[m|un milione   ]|
+|1,000,000,000|%[m|un miliardo  ]|
+|]
+
+[!
+финальный гласный в десятках выпадает перед 1 и 8
+финальный гласный е в tre становится é после прибавления десяток
+!]
+
+[|
+|20|%[m|venti       ]|
+|21|%[m|ventuno     ]|
+|22|%[m|ventidue    ]|
+|23|%[m|ventitré    ]|
+|24|%[m|ventiquattro]|
+|25|%[m|venticinque ]|
+|26|%[m|ventisei    ]|
+|27|%[m|ventisette  ]|
+|28|%[m|ventotto    ]|
+|29|%[m|ventinove   ]|
+|]
+
+[|
+|30|%[m|trenta       ]|
+|31|%[m|trentuno     ]|
+|32|%[m|trentadue    ]|
+|33|%[m|trentatré    ]|
+|34|%[m|trentaquattro]|
+|35|%[m|trentacinque ]|
+|36|%[m|trentasei    ]|
+|37|%[m|trentasette  ]|
+|38|%[m|trentotto    ]|
+|39|%[m|trentanove   ]|
+|]
+
+[|
+|40|%[m|quaranta       ]|
+|41|%[m|quarantuno     ]|
+|42|%[m|quarantadue    ]|
+|43|%[m|quarantatré    ]|
+|44|%[m|quarantaquattro]|
+|45|%[m|quarantacinque ]|
+|46|%[m|quarantasei    ]|
+|47|%[m|quarantasette  ]|
+|48|%[m|quarantotto    ]|
+|49|%[m|quarantanove   ]|
+|]
+
+[|
+|50|%[m|cinquanta       ]|
+|51|%[m|cinquantuno     ]|
+|52|%[m|cinquantadue    ]|
+|53|%[m|cinquantatré    ]|
+|54|%[m|cinquantaquattro]|
+|55|%[m|cinquantacinque ]|
+|56|%[m|cinquantasei    ]|
+|57|%[m|cinquantasette  ]|
+|58|%[m|cinquantotto    ]|
+|59|%[m|cinquantanove   ]|
+|]
+
+[|
+|60|%[m|sessanta       ]|
+|61|%[m|sessantuno     ]|
+|62|%[m|sessantadue    ]|
+|63|%[m|sessantatré    ]|
+|64|%[m|sessantaquattro]|
+|65|%[m|sessantacinque ]|
+|66|%[m|sessantasei    ]|
+|67|%[m|sessantasette  ]|
+|68|%[m|sessantotto    ]|
+|69|%[m|sessantanove   ]|
+|]
+
+[|
+|70|%[m|settanta       ]|
+|71|%[m|settantuno     ]|
+|72|%[m|settantadue    ]|
+|73|%[m|settantatré    ]|
+|74|%[m|settantaquattro]|
+|75|%[m|settantacinque ]|
+|76|%[m|settantasei    ]|
+|77|%[m|settantasette  ]|
+|78|%[m|settantotto    ]|
+|79|%[m|settantanove   ]|
+|]
+
+[|
+|80|%[m|ottanta       ]|
+|81|%[m|ottantuno     ]|
+|82|%[m|ottantadue    ]|
+|83|%[m|ottantatré    ]|
+|84|%[m|ottantaquattro]|
+|85|%[m|ottantacinque ]|
+|86|%[m|ottantasei    ]|
+|87|%[m|ottantasette  ]|
+|88|%[m|ottantotto    ]|
+|89|%[m|ottantanove   ]|
+|]
+
+[|
+|90|%[m|novanta       ]|
+|91|%[m|novabtuno     ]|
+|92|%[m|novabtadue    ]|
+|93|%[m|novabtatré    ]|
+|94|%[m|novabtaquattro]|
+|95|%[m|novabtacinque ]|
+|96|%[m|novabtasei    ]|
+|97|%[m|novabtasette  ]|
+|98|%[m|novabtotto    ]|
+|99|%[m|novabtanove   ]|
+|]

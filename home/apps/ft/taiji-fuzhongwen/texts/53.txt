@@ -2,7 +2,10 @@
 %[en2|grasp sparrow’s tail]
 %[ru1|воробей хвост]
 %[ru2|схватить воробья за хвост]
-<!-- %[zh1|%[t3|攬]%[t4|雀]%[t3|尾]] --><!-- %[zh2|lǎn què wěi] -->^[images/005.jpg]
+%[zh1|%[t3|攬]%[t4|雀]%[t3|尾]]
+%[zh2|lǎn què wěi]
+
+^[images/005.jpg]
 ^[images/006.jpg]
 ^[images/007.jpg]
 ^[images/008.jpg]

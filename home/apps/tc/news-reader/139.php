@@ -1,7 +1,7 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
   "media_name"      => "The Conversation - Culture",

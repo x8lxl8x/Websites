@@ -1,0 +1,26 @@
+# L'Affirmation n&deg; 1
+## On accueille un parent revenu d'un long voyage
+
+%[clChar|M:]Alors, ce voyage a été fatigant?
+%[clChar|F:]Sans aucun doute. C'est le dernier trajet à bord du croiseur qui m'a particulièrement fatigué. Est-ce que je vous ai manqué?
+
+%[clChar|M:]Comment donc! Les enfants surtout se sont beaucoup ennuyés de toi.
+%[clChar|F:]Je m'en doutais, mais il n'y avait rien à faire.
+
+%[clChar|M:]Es-tu content d'être revenu?
+%[clChar|F:]Comment donc!
+
+%[clChar|M:]Vas-tu reprendre bientôt ton travail?
+%[clChar|F:]Bien sûr. J'ai hâte de le reprendre.
+
+%[clChar|M:]Tu crois être en bonne forme malgré la fatigue?
+%[clChar|F:]Parfaitement. Je t'assure que rien ne vaut les voyages pour remettre les nerfs en bon état.
+
+%[clChar|M:]Si tu venais un jour chez nous pour nous faire part de tes impressions?
+%[clChar|F:]Je ne demande pas mieux. Ce sera un grand plaisir pour moi.
+
+%[clChar|M:]Alors, tu viendras demain, peut-être?
+%[clChar|F:]C'est promis.
+
+%[clChar|M:]Tiens, j'allais partir sans te serrer la main. Je suis si pressé, je ne sais plus où j'ai la tête.
+%[clChar|F:]Ce sont des choses qui arrivent.

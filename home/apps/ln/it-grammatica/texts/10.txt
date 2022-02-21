@@ -1,0 +1,23 @@
+## ortografia
+
+# stranieri
+
+%[m|j]
+&emsp;%[l|j]
+&emsp;&emsp;%[m|juventus] - ювентус
+
+%[m|k]
+&emsp;%[l|k]
+&emsp;&emsp;%[m|kiwi] %[a|__m__] - киви
+
+%[m|w]
+&emsp;%[l|v]
+&emsp;&emsp;%[m|watt] %[a|__m__] - ватт
+
+%[m|x]
+&emsp;%[l|ks]
+&emsp;&emsp;%[m|extra] %[a|__m__] - экстра
+
+%[m|y]
+&emsp;%[l|i]
+&emsp;&emsp;%[m|yen] %[a|__m__] - йена
