@@ -4,23 +4,21 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Infostock - Света",
-  "media_url"       => "http://www.infostock.bg/infostock/control/world",
-  "media_encode"    => "true",
+  "media_name"      => "Тechnews.bg - Page 4",
+  "media_url"       => "https://technews.bg/article-category/news/page/4",
+  "media_encode"    => "false",
 
-  "module_body"     => "div[class=news-list]",
+  "module_body"     => "div[id=content]",
   "module_article"  => "article",
-  "module_headline" => "a",
+  "module_headline" => "header h2 a",
 
-  "article_body"    => "div[class*=msgbody]",
-  "article_title"   => "h2",
-  "article_date"    => "span[class*=news_date]",
+  "article_body"    => "article",
+  "article_title"   => "h1",
+  "article_date"    => "span[class*=date time published]",
   "article_author"  => "",
 
   "clean_module"    =>  [
-                    ["/^(.*?)<div class=\"news-list\">/s", "<html><head></head><body><div class=\"news-list\">"],
-                    ["/<c\:choose>(.*?)<\/c\:choose>(.*?)$/s", "</div></body></html>"],
-                    ["/<div>(.*?)<\/div>/s", "<article>$1</article>"],
+                    ["", ""],
                   ],
 
   "clean_article_pre"   =>  [
@@ -28,11 +26,22 @@ $config_array =
                   ],
 
   "clean_article_post"  => [
-                    ["/<p class=\"snimka_comment\">(.*?)<\/p>/s", ""],
+                    ["/\t/s", "  "],
+                    ["/<header(.*?)header>/s", ""],
+                    ["/(alt|title|width|height|itemprop)=\"(.*?)\"/s", ""],
+                    ["/class=\"size-full wp-image-(\d*?)\"/s", ""],
+                    ["/<\!--(.*?)-->/s", ""],
+                    ["/<div style=\"clear:both;\">(.*?)<\/div>/s", ""],
+                    ["/<footer(.*?)>(.*?)<\/footer>/s", ""],
                     ["/<script(.*?)script>/s", ""],
-                    ["/<div style=\"(.*?)\"(.*?)>(.*?)<\/div>/s", "$3"],
-                    ["/<div id=\"httpool_contextualads\"(.*?)>(.*?)<\/div>/s", "$2"],
-                    ["/(alt|typeof|height|width)=\"(.*?)\"/s", ""],
+                    ["/<aside id=\"custom_(.*)/s", ""],
+                    ["/class=\"wp-caption-text\">/s", ""],
+                    ["/srcset=\"(.*?)\"/s", ""],
+                    ["/<div id=\"attachment_(.*?)\"(.*?)>(.*?)<\/div>/s", "$3"],
+                    ["/<a(.*?)<img(.*?)>(.*?)<\/a>/s", "<img$2>"],
+                    ["/<div id=\"related-posts-(.*?)\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"related-posts\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"entry-content\">/s", ""],
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                   ],
 ];

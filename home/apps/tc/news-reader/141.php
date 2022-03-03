@@ -4,22 +4,21 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Les moutons enragés - Page 1",
-  "media_url"       => "https://lesmoutonsenrages.fr/",
+  "media_name"      => "The Conversation - Science",
+  "media_url"       => "https://theconversation.com/fr/technologie",
   "media_encode"    => "false",
 
-  "module_body"     => "section[role=main]",
+  "module_body"     => "div[class=wrapper]",
   "module_article"  => "article",
   "module_headline" => "h2 a",
 
-  "article_body"    => "article",
-  "article_title"   => "h1",
-  "article_date"    => "span[class=meta-date] a time",
-  "article_author"  => "span[class=meta-author] span[class=author vcard] a",
+  "article_body"    => "div[class=grid-twelve large-grid-eleven]",
+  "article_title"   => "h1 strong",
+  "article_date"    => "time",
+  "article_author"  => "span[class*=author-name]",
 
   "clean_module"    =>  [
-                    ["/tag-les-nouvelles-du-jour\">(.*?)<h2(.*?)h2>/s", "tag-les-nouvelles-du-jour\">"],
-                    ["/tag-les-news-du-jour\">(.*?)<h2(.*?)h2>/s", "tag-les-nouvelles-du-jour\">"],
+                    ["", ""],
                   ],
 
   "clean_article_pre"   =>  [
@@ -27,25 +26,21 @@ $config_array =
                   ],
 
   "clean_article_post"  => [
-                    ["/\t/s", "  "],
-                    ["/&lt;iframe(.*?)iframe&gt;/s", ""],
-                    ["/<div class=\"sharedaddy(.*)$/s", ""],
-                    ["/<h1(.*?)h1>/s", ""],
-                    ["/<div class=\"entry-meta(.*?)div>/s", ""],
-                    ["/<script(.*?)script>/s", ""],
-                    ["/<noscript(.*?)noscript>/s", ""],
-                    ["/<span(.*?)span>/s", ""],
-                    ["/(alt|title|width|height|itemprop|class|loading|data-lazy-type)=\"(.*?)\"/s", ""],
-                    ["/ src=\"(.*?)\"/s", ""],
-                    ["/data-lazy-src=\"(.*?)\"/s", "src=\"$1\""],
-                    ["/<figcaption>(.*?)<\/figcaption>/s", "$1"],
+                    ["/topic-list\">(.*)$/s", "\">"],
+                    ["/<aside(.*?)aside>/s", ""],
                     ["/<figure(.*?)>(.*?)<\/figure>/s", "$2"],
-                    ["/</s", "\n<"],
-                    ["/\n<\//s", "</"],
-                    ["/<b>(.*?)<\/b>/s", "$1"],
-                    ["/<strong>(.*?)<\/strong>/s", "$1"],
+                    ["/<figcaption(.*?)>(.*?)<\/figcaption>/s", "$2"],
                     ["/<a(.*?)>(.*?)<\/a>/s", "$2"],
+                    ["/data-srcset=\"(.*?)\"/s", ""],
+                    ["/data-src=/s", "src="],
+                    ["/;w=(.*?)&amp;/s", ";w=600&amp;"],
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
+                    ["/<span class=\"source\">(.*?)<\/span>/s", ""],
+                    ["/<div(.*?)>/s", ""],
+                    ["/<\/div>/s", ""],
+                    ["/<span(.*?)>/s", ""],
+                    ["/<\/span>/s", ""],
+                    ["/<li><p>(.*?)<\/p><\/li>/s", "<li>$1</li>"],
                   ],
 ];
 ?>

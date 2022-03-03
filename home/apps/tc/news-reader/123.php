@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "false",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Économie",
-  "media_url"       => "https://www.contrepoints.org/category/economie",
+  "media_name"      => "Contrepoints - La une",
+  "media_url"       => "https://www.contrepoints.org/",
   "media_encode"    => "false",
 
   "module_body"     => "div[class*=Container]",

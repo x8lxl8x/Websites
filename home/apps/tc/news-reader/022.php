@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Анализ",
-  "media_url"       => "https://webcafe.bg/analiz",
+  "media_name"      => "Webcafé - Власт",
+  "media_url"       => "https://webcafe.bg/vlast",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Investor.bg - Style",
-  "media_url"       => "https://www.investor.bg/news/news/last/345/",
+  "media_name"      => "Investor.bg - Свят",
+  "media_url"       => "https://www.investor.bg/news/news/last/6/",
   "media_encode"    => "false",
 
   "module_body"     => "section[class=full]",

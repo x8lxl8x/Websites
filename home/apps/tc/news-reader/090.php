@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - Politics",
-  "media_url"       => "https://www.breitbart.com/politics/",
+  "media_name"      => "Breitbart - Europe",
+  "media_url"       => "https://www.breitbart.com/europe/",
   "media_encode"    => "false",
 
   "module_body"     => "section[class=aList]",

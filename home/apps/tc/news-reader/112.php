@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Desintox",
-  "media_url"       => "https://www.20minutes.fr/societe/desintox/",
+  "media_name"      => "20minutes.fr - High-Tech",
+  "media_url"       => "https://www.20minutes.fr/high-tech/",
   "media_encode"    => "false",
 
   "module_body"     => "div[id=page-content]",

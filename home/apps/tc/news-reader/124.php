@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "false",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Société",
-  "media_url"       => "https://www.contrepoints.org/category/societe-2",
+  "media_name"      => "Contrepoints - Politique",
+  "media_url"       => "https://www.contrepoints.org/category/politique",
   "media_encode"    => "false",
 
   "module_body"     => "div[class*=Container]",

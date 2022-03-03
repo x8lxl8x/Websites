@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Moreto.net - Page 5",
-  "media_url"       => "http://www.moreto.net/novini.php?p=4",
+  "media_name"      => "Moreto.net - Page 2",
+  "media_url"       => "http://www.moreto.net/novini.php?p=1",
   "media_encode"    => "true",
 
   "module_body"     => "table[id=module]",

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Insolite",
-  "media_url"       => "https://www.20minutes.fr/insolite/",
+  "media_name"      => "20minutes.fr - Entertainment",
+  "media_url"       => "https://www.20minutes.fr/arts-stars/",
   "media_encode"    => "false",
 
   "module_body"     => "div[id=page-content]",

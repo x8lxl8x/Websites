@@ -1,0 +1,4 @@
+<span class='clIndex'>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Słowa&varAppArea=ln&varAppDir=pl_słowa&varFileName=01.txt'>Czas</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Słowa&varAppArea=ln&varAppDir=pl_słowa&varFileName=02.txt'>Miesiące</a><br>
+</span>

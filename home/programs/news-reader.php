@@ -20,8 +20,8 @@ $dir_area       = "tc";
 $dir_name       = "news-reader";
 $dir_config     = "../{$dir_apps}/{$dir_area}/{$dir_name}";
 
-#$debug_flag     = true;
 $debug_flag     = false;
+#$debug_flag     = true;
 
 #---------------------------------------------------------------------------------------------------
 

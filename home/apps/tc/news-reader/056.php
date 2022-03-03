@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Тechnews.bg - Page 5",
-  "media_url"       => "https://technews.bg/article-category/news/page/5",
+  "media_name"      => "Тechnews.bg - Page 2",
+  "media_url"       => "https://technews.bg/article-category/news/page/2",
   "media_encode"    => "false",
 
   "module_body"     => "div[id=content]",

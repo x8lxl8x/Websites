@@ -4,11 +4,11 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Investing.com - Analysis Market",
-  "media_url"       => "https://www.investing.com/analysis/market-overview",
+  "media_name"      => "Investing.com - Politics",
+  "media_url"       => "https://www.investing.com/news/politics",
   "media_encode"    => "false",
 
-  "module_body"     => "div[id=contentSection]",
+  "module_body"     => "div[class*=largeTitle]",
   "module_article"  => "article",
   "module_headline" => "div a",
 
@@ -43,8 +43,6 @@ $config_array =
                     ["/ dir=\"ltr\"/s", ""],
                     ["/<a href=\"javascript(.*?)a>/s", ""],
                     ["/<div id=\"imgCarousel\"(.*?)>(.*?)<\/div>/s", "$2"],
-                    ["/<script(.*?)script>/s", ""],
-                    ["/^(.*)aside>/s", ""],
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                   ],
 ];

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Любопитно",
-  "media_url"       => "https://webcafe.bg/onya-deto-ne-go-triyat",
+  "media_name"      => "Webcafé - Репортаж",
+  "media_url"       => "https://webcafe.bg/report",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Investing.com - Analysis Commodities",
-  "media_url"       => "https://www.investing.com/analysis/commodities",
+  "media_name"      => "Investing.com - Analysis Forex",
+  "media_url"       => "https://www.investing.com/analysis/forex",
   "media_encode"    => "false",
 
   "module_body"     => "div[id=contentSection]",

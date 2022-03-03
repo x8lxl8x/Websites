@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Investing.com - World",
-  "media_url"       => "https://www.investing.com/news/world-news",
+  "media_name"      => "Investing.com - Economy",
+  "media_url"       => "https://www.investing.com/news/economy",
   "media_encode"    => "false",
 
   "module_body"     => "div[class*=largeTitle]",

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Web",
-  "media_url"       => "https://webcafe.bg/web",
+  "media_name"      => "Webcafé - Life",
+  "media_url"       => "https://webcafe.bg/lifecafe",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

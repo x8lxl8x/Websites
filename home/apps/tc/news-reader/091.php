@@ -4,11 +4,11 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - Economy",
-  "media_url"       => "https://www.breitbart.com/economy/",
+  "media_name"      => "Breitbart - World",
+  "media_url"       => "https://www.breitbart.com/world-news/",
   "media_encode"    => "false",
 
-  "module_body"     => "section[class=aList]",
+  "module_body"     => "div[class=aList]",
   "module_article"  => "article",
   "module_headline" => "h2 a",
 

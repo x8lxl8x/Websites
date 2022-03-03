@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Lifestyle.bg - Звезди",
-  "media_url"       => "https://lifestyle.bg/stars",
+  "media_name"      => "Lifestyle.bg - Page 1",
+  "media_url"       => "https://lifestyle.bg/latest",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=inner-page]",

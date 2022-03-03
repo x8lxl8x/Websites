@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Dreuz.info - Axe du mal",
-  "media_url"       => "https://www.dreuz.info/category/guerre-contre-la-terreur/",
+  "media_name"      => "Dreuz.info - Amérique",
+  "media_url"       => "https://www.dreuz.info/category/etats-unis/",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=post_area]",

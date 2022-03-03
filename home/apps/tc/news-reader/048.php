@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Chronicle.bg - Природа",
-  "media_url"       => "https://www.chr.bg/istorii/priroda/",
+  "media_name"      => "Chronicle.bg - Личности",
+  "media_url"       => "https://www.chr.bg/istorii/lichnosti/",
   "media_encode"    => "false",
 
   "module_body"     => "main[role=main]",

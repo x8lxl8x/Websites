@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Свят",
-  "media_url"       => "https://webcafe.bg/svyat",
+  "media_name"      => "Webcafé - Пари",
+  "media_url"       => "https://webcafe.bg/pari",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

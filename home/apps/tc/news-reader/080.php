@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Investing.com - Politics",
-  "media_url"       => "https://www.investing.com/news/politics",
+  "media_name"      => "Investing.com - Latest",
+  "media_url"       => "https://www.investing.com/news/latest-news",
   "media_encode"    => "false",
 
   "module_body"     => "div[class*=largeTitle]",
@@ -29,6 +29,7 @@ $config_array =
 
   "clean_article_post"  => [
                     ["/<span class=\"text\">(.*?)<\/span>/s", ""],
+
                     ["/<span class(.*?)>(.*?)<\/span>/s", "$2"],
                     ["/<span id(.*?)>(.*?)<\/span>/s", "$2"],
                     ["/<span style(.*?)>(.*?)<\/span>/s", "$2"],

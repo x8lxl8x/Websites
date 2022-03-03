@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Общество",
-  "media_url"       => "https://webcafe.bg/obshtestvo",
+  "media_name"      => "Webcafé - News - Page 2",
+  "media_url"       => "https://webcafe.bg/newscafe?page=2",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

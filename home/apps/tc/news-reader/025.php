@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Кофеин",
-  "media_url"       => "https://webcafe.bg/caffeine",
+  "media_name"      => "Webcafé - Анализ",
+  "media_url"       => "https://webcafe.bg/analiz",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

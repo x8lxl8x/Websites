@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Chronicle.bg - Досиета",
-  "media_url"       => "https://www.chr.bg/istorii/dosieta/",
+  "media_name"      => "Chronicle.bg - Истории Page 3",
+  "media_url"       => "https://www.chr.bg/istorii/page/3/",
   "media_encode"    => "false",
 
   "module_body"     => "main[role=main]",

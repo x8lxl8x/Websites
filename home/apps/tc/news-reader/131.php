@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Dreuz.info - À la une",
-  "media_url"       => "https://www.dreuz.info/category/a-la-une/",
+  "media_name"      => "Dreuz.info - International",
+  "media_url"       => "https://www.dreuz.info/category/international/",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=post_area]",

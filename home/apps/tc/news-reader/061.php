@@ -4,9 +4,9 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Infostock - България",
+  "media_name"      => "Infostock - Света",
+  "media_url"       => "http://www.infostock.bg/infostock/control/world",
   "media_encode"    => "true",
-  "media_url"       => "http://www.infostock.bg/infostock/control/bg",
 
   "module_body"     => "div[class=news-list]",
   "module_article"  => "article",

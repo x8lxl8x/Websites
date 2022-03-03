@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Chronicle.bg - Военни хроники",
-  "media_url"       => "https://www.chr.bg/istorii/voenni-hroniki/",
+  "media_name"      => "Chronicle.bg - Техно",
+  "media_url"       => "https://www.chr.bg/istorii/tehno/",
   "media_encode"    => "false",
 
   "module_body"     => "main[role=main]",

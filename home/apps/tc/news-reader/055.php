@@ -4,11 +4,12 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Тechnews.bg - Page 4",
-  "media_url"       => "https://technews.bg/article-category/news/page/4",
+  "media_name"      => "Тechnews.bg - Page 1",
+  "media_url"       => "https://technews.bg/article-category/news",
   "media_encode"    => "false",
 
-  "module_body"     => "div[id=content]",
+#  "module_body"     => "div[id=content]",
+  "module_body"     => "body",
   "module_article"  => "article",
   "module_headline" => "header h2 a",
 

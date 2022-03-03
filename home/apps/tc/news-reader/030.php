@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Tech",
-  "media_url"       => "https://webcafe.bg/techcafe",
+  "media_name"      => "Webcafé - История",
+  "media_url"       => "https://webcafe.bg/istoriya",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

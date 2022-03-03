@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Бъдещето",
-  "media_url"       => "https://webcafe.bg/future",
+  "media_name"      => "Webcafé - Film",
+  "media_url"       => "https://webcafe.bg/filmcafe",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

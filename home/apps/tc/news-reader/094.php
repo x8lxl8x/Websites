@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - Entertainment",
-  "media_url"       => "https://www.breitbart.com/entertainment/",
+  "media_name"      => "Breitbart - Economy",
+  "media_url"       => "https://www.breitbart.com/economy/",
   "media_encode"    => "false",
 
   "module_body"     => "section[class=aList]",
@@ -38,7 +38,6 @@ $config_array =
                     ["/<div id=\"PollyC\"(.*?)><\/div>/s", ""],
                     ["/ class=\"subheading\"/s", ""],
                     ["/<figure(.*?)><\/figure>/s", ""],
-                    ["/<div class=\"Attribution_container\">(.*)$/s", ""],
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                   ],
 ];

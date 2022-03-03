@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Webcafé - Власт",
-  "media_url"       => "https://webcafe.bg/vlast",
+  "media_name"      => "Webcafé - News - Page 1",
+  "media_url"       => "https://webcafe.bg/newscafe",
   "media_encode"    => "false",
 
   "module_body"     => "div[class=skeleton-left]",

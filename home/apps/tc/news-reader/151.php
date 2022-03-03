@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Histoire",
-  "media_url"       => "https://www.valeursactuelles.com/histoire",
+  "media_name"      => "Valeurs Actuelles - Société",
+  "media_url"       => "https://www.valeursactuelles.com/societe",
   "media_encode"    => "false",
 
   "module_body"     => "body",
