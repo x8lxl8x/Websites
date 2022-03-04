@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.9.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-18 08:36:22+0000\n"
+"PO-Revision-Date: 2022-03-03 19:07:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -433,7 +433,7 @@ msgstr "REST namespace route for the taxonomy."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:371
 msgid "Whether to make the post type is available for selection in navigation menus."
-msgstr "Whether to make the post type is available for selection in navigation menus."
+msgstr "Whether to make the post type available for selection in navigation menus."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:367
 msgid "Whether to generate a default UI for managing this post type."
