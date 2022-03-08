@@ -93,12 +93,13 @@ else if ( $intResult == 1 )
 
     switch ( $strClientPaymentMethod )
     {
-      case '01': $strTargetCurrency = 'RUB'; break;
+      case '01': $strTargetCurrency = 'EUR'; break;
       case '02': $strTargetCurrency = 'EUR'; break;
-      case '03': $strTargetCurrency = 'EUR'; break;
-      case '04': $strTargetCurrency = 'EUR'; break;
-      case '05': $strTargetCurrency = 'CAD'; break;
-      case '06': $strTargetCurrency = 'USD'; break;
+      case '03': $strTargetCurrency = 'CAD'; break;
+      case '04': $strTargetCurrency = 'USD'; break;
+      case '05': $strTargetCurrency = 'EUR'; break;
+      case '06': $strTargetCurrency = 'RUB'; break;
+
     }
 
     $strConverterUrl = preg_replace( "/{SourceCurrency}/isU", $strSourceCurrency, $strConverterUrl );

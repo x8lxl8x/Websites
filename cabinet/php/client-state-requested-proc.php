@@ -27,22 +27,22 @@ else if ( $intResult == 1 )
   switch ( $strPaymentMethod )
   {
     case '01':
-      $strPaymentMethodName = 'Сбербанк';
-      break;
-    case '02':
       $strPaymentMethodName = 'SEPA';
       break;
-    case '03':
+    case '02':
       $strPaymentMethodName = 'Western Union';
       break;
-    case '04':
-      $strPaymentMethodName = 'Золотая корона';
-      break;
-    case '05':
+    case '03':
       $strPaymentMethodName = 'Interac';
       break;
-    case '06':
+    case '04':
       $strPaymentMethodName = 'ACH';
+      break;
+    case '05':
+      $strPaymentMethodName = 'Золотая корона';
+      break;
+    case '06':
+      $strPaymentMethodName = 'Сбербанк';
       break;
   }
 
