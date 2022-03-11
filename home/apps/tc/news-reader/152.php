@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Art de vivre",
-  "media_url"       => "https://www.valeursactuelles.com/art-de-vivre",
+  "media_name"      => "Valeurs Actuelles - L'Incorrect",
+  "media_url"       => "https://www.valeursactuelles.com/lincorrect",
   "media_encode"    => "false",
 
   "module_body"     => "body",
