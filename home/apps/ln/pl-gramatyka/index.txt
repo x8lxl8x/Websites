@@ -2,4 +2,7 @@
 <h2>Fonetyka i pisownia</h2>
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=01.txt'>Alfabet</a><br>
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=02.txt'>Wymowa</a><br>
+<h2>Liczebniki</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=03.txt'>Główne</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=04.txt'>Porządkowe</a><br>
 </span>

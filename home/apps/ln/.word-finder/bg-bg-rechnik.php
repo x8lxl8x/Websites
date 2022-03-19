@@ -10,12 +10,14 @@ $config_array =
   "article_body"    => "div[id=content]",
 
   "clean_article"  => [
+                    ["/\(<span title=\"Разширена класификация на БГ Офис\"><a href=\"(.*?)\">(.*?)<\/a><\/span>\)/s", "<z href='https://rechnik.chitanka.info$1'>$2</z>"],
                     ["/<a href=\"\/faq\/edit\/rights\" class=\"edit-fake\">(.*?)<\/a>/s", ""],
                     ["/<div class=\"links box\"(.*?)<\/div>/s", ""],
                     ["/<a(.*?)>/s", "$2"],
                     ["/<\/a>/s", ""],
+                    ["/<z/s", "<a"],
+                    ["/<\/z>/s", "</a>"],
                     ["/<p>С дефиси \(къси тирета\)(.*?)p>/s", ""],
-                    ["/\(<span title=\"Разширена класификация на БГ Офис\">(.*?)<\/span>\)/s", ""],
                     ["/<table(.*?)table>/s", "<div class='clOverflow'><table$1table></div>"],
                     ["/<th(.*?)>единствено число<\/th>/s", "<th$1>ед.ч.</th>"],
                     ["/<th(.*?)>множествено число<\/th>/s", "<th$1>мн.ч.</th>"],
