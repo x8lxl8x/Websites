@@ -19,7 +19,7 @@ function get_strokes()
   $app_title      = "Strokes";
   $app_area       = "ln";
   $app_name       = "hanzi-strokes";
-  $app_dir        = "../{$dir_apps}/{$app_area}/zh_resources";
+  $app_dir        = "../{$dir_apps}/{$app_area}/zh-resources";
 
   $grid_s1                = '320';
   $grid_c1                = '#aaaaaa';

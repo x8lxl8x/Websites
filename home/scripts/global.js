@@ -189,7 +189,7 @@ function fncRewindTrack(strTrack)
 /*----------------------------------------------------------------------------------------------------------*/
 
 var strDirectory = '../sounds/';
-var strDirectoryZh = '../apps/ln/zh_resources/sounds/';
+var strDirectoryZh = '../apps/ln/zh-resources/sounds/';
 var strFormat = 'mp3';
 
 var intTimeout = 1000;

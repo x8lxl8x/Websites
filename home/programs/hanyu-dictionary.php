@@ -23,8 +23,8 @@ function get_entry()
   $app_area       = "ln";
   $app_name       = "hanyu-dictionary";
   $dict_name      = "hanyu.sqlite";
-  $app_dir        = "../{$dir_apps}/{$app_area}/zh_resources";
-  $dict_dir       = "../{$dir_apps}/{$app_area}/zh_resources/databases";
+  $app_dir        = "../{$dir_apps}/{$app_area}/zh-resources";
+  $dict_dir       = "../{$dir_apps}/{$app_area}/zh-resources/databases";
 
   $debug_file     = "/home/lux/mnt/data/Temp/debug.txt";
   $debug_flag     = true;
