@@ -1,8 +1,0 @@
-<span class='clIndex'>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=01.txt'>settimana</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=02.txt'>mesi</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=03.txt'>giorni</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=04.txt'>ore</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=05.txt'>tempo</a><br>
-<a href='./book-reader.php?varFuncId=view&varAppTitle=Parole&varAppArea=ln&varAppDir=it-parole&varFileName=06.txt'>colori</a><br>
-</span>

@@ -44,12 +44,11 @@ $array_countries =
   , [  8, 'Italy'          , 'italy'          ]
   , [  9, 'Japan'          , 'japan'          ]
   , [ 10, 'Poland'         , 'poland'         ]
-  , [ 11, 'Russia'         , 'russia'         ]
-  , [ 12, 'Spain'          , 'spain'          ]
-  , [ 13, 'UK'             , 'united-kingdom' ]
-  , [ 14, 'US'             , 'united-states'  ]
-  , [ 15, 'Turkey'         , 'turkey'         ]
-#  , [ 16, 'Suisse'         , 'switzerland'    ]
+  , [ 11, 'Spain'          , 'spain'          ]
+  , [ 12, 'UK'             , 'united-kingdom' ]
+  , [ 13, 'US'             , 'united-states'  ]
+  , [ 14, 'Turkey'         , 'turkey'         ]
+#  , [ 15, 'Suisse'         , 'switzerland'    ]
 ];
 
 $array_indicators =
