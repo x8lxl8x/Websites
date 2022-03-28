@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Infostock - Световни пазари",
   "media_url"       => "http://www.infostock.bg/infostock/control/worldmarkets",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
 
   "module_body"     => "div[class=news-list]",
   "module_article"  => "article",

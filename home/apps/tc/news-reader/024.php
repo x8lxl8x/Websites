@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Webcafé - Пари",
   "media_url"       => "https://webcafe.bg/pari",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=skeleton-left]",
   "module_article"  => "div[class=article]",

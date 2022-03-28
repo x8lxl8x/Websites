@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Valeurs Actuelles - Histoire",
   "media_url"       => "https://www.valeursactuelles.com/histoire",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "body",
   "module_article"  => "article",

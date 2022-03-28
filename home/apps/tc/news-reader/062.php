@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Infostock - Финанси",
   "media_url"       => "http://www.infostock.bg/infostock/control/finance",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
 
   "module_body"     => "div[class=news-list]",
   "module_article"  => "article",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Moreto.net - Page 1",
   "media_url"       => "http://www.moreto.net/novini.php",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
 
   "module_body"     => "table[id=module]",
   "module_article"  => "td[class=t2]",

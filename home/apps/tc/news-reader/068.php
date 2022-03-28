@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investor.bg - Днес",
   "media_url"       => "https://www.investor.bg/news/browse/today/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "section[class=full]",
   "module_article"  => "li",

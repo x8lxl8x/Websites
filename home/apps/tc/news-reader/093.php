@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Breitbart - Politics",
   "media_url"       => "https://www.breitbart.com/politics/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "section[class=aList]",
   "module_article"  => "article",

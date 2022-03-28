@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Mises Institute - Page 3",
   "media_url"       => "https://mises.org/wire?page=2",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=main-content]",
   "module_article"  => "div[class=article]",

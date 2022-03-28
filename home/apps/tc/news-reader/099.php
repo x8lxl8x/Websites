@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Real Investment Advice - Page 1",
   "media_url"       => "https://realinvestmentadvice.com/real-investment-daily/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=main-content]",
   "module_article"  => "article",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "The Conversation - Politique",
   "media_url"       => "https://theconversation.com/fr/politique",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=wrapper]",
   "module_article"  => "article",

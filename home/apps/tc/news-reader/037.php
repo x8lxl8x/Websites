@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Lifestyle.bg - Page 1",
   "media_url"       => "https://lifestyle.bg/latest",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=inner-page]",
   "module_article"  => "div[class=topic]",

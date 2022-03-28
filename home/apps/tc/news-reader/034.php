@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Webcafé - Бъдещето",
   "media_url"       => "https://webcafe.bg/future",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=skeleton-left]",
   "module_article"  => "div[class=article]",

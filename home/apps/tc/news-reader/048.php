@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Chronicle.bg - Личности",
   "media_url"       => "https://www.chr.bg/istorii/lichnosti/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "main[role=main]",
   "module_article"  => "div[id*=post-]",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investor.bg - България",
   "media_url"       => "https://www.investor.bg/news/news/last/5/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "section[class=full]",
   "module_article"  => "li",

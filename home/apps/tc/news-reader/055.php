@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Тechnews.bg - Page 1",
   "media_url"       => "https://technews.bg/article-category/news",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
 #  "module_body"     => "div[id=content]",
   "module_body"     => "body",

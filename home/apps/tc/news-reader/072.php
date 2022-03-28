@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investor.bg - Forex",
   "media_url"       => "https://www.investor.bg/news/news/last/8/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "section[class=full]",
   "module_article"  => "li",

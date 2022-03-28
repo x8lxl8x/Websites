@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Contrepoints - Cuture",
   "media_url"       => "https://www.contrepoints.org/category/cuturen",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=Container]",
   "module_article"  => "article",

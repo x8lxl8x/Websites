@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investing.com - Analysis Market",
   "media_url"       => "https://www.investing.com/analysis/market-overview",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[id=contentSection]",
   "module_article"  => "article",

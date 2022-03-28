@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Webcafé - News - Page 2",
   "media_url"       => "https://webcafe.bg/newscafe?page=2",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=skeleton-left]",
   "module_article"  => "div[class=article]",

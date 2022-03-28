@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Webcafé - История",
   "media_url"       => "https://webcafe.bg/istoriya",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=skeleton-left]",
   "module_article"  => "div[class=article]",

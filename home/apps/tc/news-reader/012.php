@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Mediapool.bg",
   "media_url"       => "https://www.mediapool.bg/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "main[class=main_left]",
   "module_article"  => "article",

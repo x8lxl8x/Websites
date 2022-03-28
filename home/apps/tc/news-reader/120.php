@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Zonebourse - Devises & Forex",
   "media_url"       => "https://www.zonebourse.com/actualite-bourse/devises-eco/devises/",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
 
   "module_body"     => "tr[id=myCENTER]",
   "module_article"  => "td[class*=newsColCT]",

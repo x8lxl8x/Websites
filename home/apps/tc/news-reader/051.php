@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Chronicle.bg - Природа",
   "media_url"       => "https://www.chr.bg/istorii/priroda/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "main[role=main]",
   "module_article"  => "div[id*=post-]",

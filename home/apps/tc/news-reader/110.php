@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "20minutes.fr - Économie",
   "media_url"       => "https://www.20minutes.fr/economie/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[id=page-content]",
   "module_article"  => "article",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investing.com - Analysis Commodities",
   "media_url"       => "https://www.investing.com/analysis/commodities",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[id=contentSection]",
   "module_article"  => "article",

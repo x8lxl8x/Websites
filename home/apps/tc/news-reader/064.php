@@ -6,6 +6,7 @@ $config_array =
 
   "media_name"      => "Infostock - България",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
   "media_url"       => "http://www.infostock.bg/infostock/control/bg",
 
   "module_body"     => "div[class=news-list]",

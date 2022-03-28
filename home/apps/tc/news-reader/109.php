@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "20minutes.fr - Actualité",
   "media_url"       => "https://www.20minutes.fr/actu-generale/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[id=page-content]",
   "module_article"  => "article",

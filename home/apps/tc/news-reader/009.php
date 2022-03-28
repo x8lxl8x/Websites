@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "News.bg - Вчера",
   "media_url"       => "https://news.bg/yesterday",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=inner-page]",
   "module_article"  => "div[class=topic]",

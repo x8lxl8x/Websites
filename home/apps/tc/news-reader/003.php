@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "БTA - България",
   "media_url"       => "https://bta.bg/bg/news/bulgaria",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=post-list row]",
   "module_article"  => "article",
@@ -34,6 +35,7 @@ $config_array =
                     ["/<div class=\"post__post(.*?)<\/div>/s", ""],
                     ["/<div class=\"post__place(.*?)<\/div>/s", ""],
                     ["/<div class=\"post__author(.*?)<\/div>/s", ""],
+                    ["/<div class=\"u-image-blur\">(.*?)<\/div>/s", ""],
                     ["/<div(.*?)>/s", ""],
                     ["/<\/div>/s", ""],
                     ["/<small class=\"text-muted(.*?)<\/small>/s", ""],

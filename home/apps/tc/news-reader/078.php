@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investing.com - Indicators",
   "media_url"       => "https://www.investing.com/news/economic-indicators",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=largeTitle]",
   "module_article"  => "article",

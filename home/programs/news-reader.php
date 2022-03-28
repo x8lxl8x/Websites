@@ -20,8 +20,10 @@ $dir_area       = "tc";
 $dir_name       = "news-reader";
 $dir_config     = "../{$dir_apps}/{$dir_area}/{$dir_name}";
 
-$debug_flag     = false;
-#$debug_flag     = true;
+
+#---------------------------------------------------------------------------------------------------
+
+0 ? $debug_flag = true : $debug_flag = false;
 
 #---------------------------------------------------------------------------------------------------
 
@@ -108,7 +110,7 @@ function get_headlines()
 {
   global $dir_templates, $dir_config, $conf_id, $debug_flag;
 
-  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug_get_headlines.txt";
+  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug_get_headlines";
   $file_template = "../{$dir_templates}/news-reader-headlines.html";
 
   unset($config_array);
@@ -117,6 +119,7 @@ function get_headlines()
   $media_name       = $config_array["media_name"];
   $media_url        = $config_array["media_url"];
   $media_encode     = $config_array["media_encode"];
+  $media_encoding   = $config_array["media_encoding"];
 
   $module_body      = $config_array["module_body"];
   $module_article   = $config_array["module_article"];
@@ -133,20 +136,14 @@ function get_headlines()
 
   $media_content = get_url($media_url);
 
-  if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", "windows-1251");
+  if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", $media_encoding);
   $media_content = preg_replace("/\r\n/s", "\n", $media_content);
 
-#  if ($debug_flag)
-#  {
-#    file_put_contents($debug_file, '');
-##    file_put_contents($debug_file, count($module_array), FILE_APPEND);
-##    file_put_contents($debug_file, "\n\n----------\n\n", FILE_APPEND);
-##    file_put_contents($debug_file, $module_array[0], FILE_APPEND);
-##    file_put_contents($debug_file, "\n\n----------\n\n", FILE_APPEND);
-##    $media_content = preg_replace("/</s", "\n<", $media_content);
-#    file_put_contents($debug_file, $media_content, FILE_APPEND);
-##    exit;
-#  }
+  if ($debug_flag)
+  {
+    file_put_contents($debug_file . "-01.log", '');
+    file_put_contents($debug_file . "-01.log", $media_content, FILE_APPEND);
+  }
 
   foreach($clean_module as $regex_array)
   {
@@ -154,34 +151,23 @@ function get_headlines()
     $media_content = preg_replace("$regex_array[0]", "$regex_array[1]", $media_content);
   }
 
+  if ($debug_flag)
+  {
+    file_put_contents($debug_file . "-02.log", '');
+    file_put_contents($debug_file . "-02.log", $media_content, FILE_APPEND);
+  }
+
+
   $html_object = str_get_html($media_content);
   $module_array = $html_object->find($module_body , 0);
 
-#print_r($html_object);
+#print_r($html_object, true);
 #var_dump($html_object);
 #var_dump($module_array);
 #var_export($html_object);
 #exit;
 
-#  if ($debug_flag)
-#  {
-#    file_put_contents($debug_file, '');
-##    file_put_contents($debug_file, count($module_array), FILE_APPEND);
-##    file_put_contents($debug_file, "\n\n----------\n\n", FILE_APPEND);
-##    file_put_contents($debug_file, $module_array[0], FILE_APPEND);
-##    file_put_contents($debug_file, "\n\n----------\n\n", FILE_APPEND);
-#    $media_content = preg_replace("/</s", "\n<", $media_content);
-#    file_put_contents($debug_file, $media_content, FILE_APPEND);
-##    exit;
-#  }
-
   $articles_array = $module_array->find($module_article);
-
-#file_put_contents($debug_file, count($articles_array), FILE_APPEND);
-#print_r($articles_array);
-#var_dump($articles_array);
-#var_export($html_object);
-#exit;
 
   foreach ($articles_array as $article_block)
   {
@@ -212,7 +198,7 @@ function get_article()
 {
   global $dir_templates, $dir_config, $conf_id, $media_url, $debug_flag;
 
-  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug-get-article.txt";
+  $debug_file = "/home/" . get_current_user() . "/mnt/data/Temp/debug-get-article";
   $file_template = "../{$dir_templates}/news-reader-article.html";
 
   unset($config_array);
@@ -222,6 +208,7 @@ function get_article()
 
   $media_name         = $config_array["media_name"];
   $media_encode       = $config_array["media_encode"];
+  $media_encoding     = $config_array["media_encoding"];
 
   $article_title      = $config_array["article_title"];
   $article_date       = $config_array["article_date"];
@@ -241,16 +228,13 @@ function get_article()
 
   $media_content = get_url($media_url);
 
-  if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", "windows-1251");
+  if ($media_encode == "true") $media_content = mb_convert_encoding($media_content, "utf-8", $media_encoding);
   $media_content = preg_replace("/\r\n/s", "\n", $media_content);
 
   if ($debug_flag)
   {
-#   echo count($module_array);
-#   echo $module_array[0];
-    $media_content = preg_replace("/</s", "\n<", $media_content);
-    file_put_contents($debug_file, $media_content);
-#   exit;
+#    $media_content = preg_replace("/</s", "\n<", $media_content);
+    file_put_contents($debug_file . "-01.log", $media_content);
   }
 
   $media_content = preg_replace("/src=\"\/\//s", "src=\"{$media_scheme}://", $media_content);
@@ -278,11 +262,11 @@ function get_article()
     $article_body_content = preg_replace("$regex_array[0]", "$regex_array[1]", $article_body_content);
   }
 
-#  if ($debug_flag)
-#  {
-#    $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
-#    file_put_contents($debug_file, $article_body_content);
-#  }
+  if ($debug_flag)
+  {
+    $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
+    file_put_contents($debug_file . "-02.log", $article_body_content);
+  }
 
   $article_body_content = preg_replace("/src=\"(.*?)\"/s", "src='$1'", $article_body_content);
   $article_body_content = preg_replace("/src='http:(.*?)'/s", "src='./image-server.php?varImageUrl=http:$1'", $article_body_content);
@@ -298,11 +282,11 @@ function get_article()
   $page_content .= "<div class='clMediaArticleInfo'>{$article_date_content}&emsp;{$article_author_content}</div>\n";
   $page_content .= $article_body_content;
 
-#  if ($debug_flag)
-#  {
-#    $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
-#    file_put_contents($debug_file, $article_body_content);
-#  }
+  if ($debug_flag)
+  {
+    $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
+    file_put_contents($debug_file . "-03.log", $article_body_content);
+  }
 
   $page_html = get_file_template($file_template);
 

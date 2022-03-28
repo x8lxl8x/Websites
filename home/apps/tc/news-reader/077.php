@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investing.com - Economy",
   "media_url"       => "https://www.investing.com/news/economy",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=largeTitle]",
   "module_article"  => "article",

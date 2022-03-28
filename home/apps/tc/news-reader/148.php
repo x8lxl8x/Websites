@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Valeurs Actuelles - Art de vivre",
   "media_url"       => "https://www.valeursactuelles.com/art-de-vivre",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "body",
   "module_article"  => "article",

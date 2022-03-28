@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Dreuz.info - International",
   "media_url"       => "https://www.dreuz.info/category/international/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=post_area]",
   "module_article"  => "div[class=post]",

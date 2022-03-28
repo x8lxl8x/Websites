@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Lifestyle.bg - Истории",
   "media_url"       => "https://lifestyle.bg/stories",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=inner-page]",
   "module_article"  => "div[class=topic]",

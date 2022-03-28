@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Dreuz.info - À la une",
   "media_url"       => "https://www.dreuz.info/category/a-la-une/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=post_area]",
   "module_article"  => "div[class=post]",

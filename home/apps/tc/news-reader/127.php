@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Contrepoints - Société",
   "media_url"       => "https://www.contrepoints.org/category/societe-2",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=Container]",
   "module_article"  => "article",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "American Institute for Economic Research",
   "media_url"       => "https://www.aier.org/articles/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=page-content]",
   "module_article"  => "div[class=col-md-4]",

@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Webcafé - Анализ",
   "media_url"       => "https://webcafe.bg/analiz",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class=skeleton-left]",
   "module_article"  => "div[class=article]",

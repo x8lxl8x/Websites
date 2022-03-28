@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Dnes.bg - Днес",
   "media_url"       => "https://www.dnes.bg/news.php?today",
   "media_encode"    => "true",
+  "media_encoding"  => "Windows-1251",
 
   "module_body"     => "div[id=c1]",
   "module_article"  => "div[class=b2]",
@@ -14,7 +15,7 @@ $config_array =
 
   "article_body"    => "div[id=art_text]",
   "article_title"   => "h1",
-  "article_date"    => "div[class=art_author]",
+  "article_date"    => "div[class=article_date]",
   "article_author"  => "",
 
   "clean_module"    =>  [
@@ -22,8 +23,8 @@ $config_array =
                   ],
 
   "clean_article_pre"   =>  [
-                    ["", ""],
-                    ["/, <a href=\"\/author(.*?)<\/a>/s", ""],
+#                    ["/<div class=\"art_author\">(.*?)<a(.*?)>(.*?)<img(.*?)>(.*?)<\/a>(.*?)<\/div>/s", "<div class='article_date'>$1</div><div class='article_author'>$3</div>"],
+                    ["/<div class=\"art_author\">(.*?),(.*?)<a(.*?)<\/div>/s", "<div class='article_date'>$1</div>"],
                   ],
 
   "clean_article_post"  => [

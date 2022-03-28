@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Investing.com - Actualités",
   "media_url"       => "https://fr.investing.com/news/latest-news",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "div[class*=largeTitle]",
   "module_article"  => "article",

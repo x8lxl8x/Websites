@@ -7,6 +7,7 @@ $config_array =
   "media_name"      => "Zerohedge - Page 1",
   "media_url"       => "https://www.zerohedge.com/",
   "media_encode"    => "false",
+  "media_encoding"  => "",
 
   "module_body"     => "main[class=main-content]",
   "module_article"  => "div[class^=Article_nonStickyContainer]",
