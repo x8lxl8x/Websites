@@ -1,0 +1,32 @@
+## ortografia
+
+# consonante - g
+
+%[m|g]
+&emsp;%[l|g] - перед %[m|а],%[m|o],%[m|u],%[m|h]
+&emsp;&emsp;%[m|gatto] %[a|__m__] - кот
+&emsp;&emsp;%[m|gomma] %[a|__f__] - резина
+&emsp;&emsp;%[m|gusto] %[a|__m__] - вкус
+&emsp;&emsp;%[m|ghetta] %[a|__f__] - гетра
+&emsp;&emsp;%[m|ghisa] %[a|__f__] - чугун
+&emsp;%[l|dʒ] - перед %[m|e],%[m|i]
+&emsp;&emsp;%[m|gelo] %[a|__m__] - мороз
+&emsp;&emsp;%[m|gita] %[a|__f__] - прогулка
+
+%[m|gi]
+&emsp;%[l|dʒ] - безударная i не читается перед %[m|а],%[m|o],%[m|u]
+&emsp;&emsp;%[m|giacca] %[a|__f__] - куртка
+&emsp;&emsp;%[m|gioco] %[a|__m__] - игра
+&emsp;&emsp;%[m|giucco] %[a|__m__] - дурак
+
+%[m|gn]
+&emsp;%[l|ŋ] (нь)
+&emsp;&emsp;%[m|signora] %[a|__f__] - синьора
+
+%[m|gli]
+&emsp;%[l|ʎ] (ль)
+&emsp;&emsp;%[m|famiglia] %[a|__f__] - семья
+
+%[m|gu]
+&emsp;%[l|gw]
+&emsp;&emsp;%[m|guerra] %[a|__f__] - война

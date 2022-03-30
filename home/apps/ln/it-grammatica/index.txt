@@ -1,0 +1,32 @@
+<span class='clIndex'>
+<h2>fonetica</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=01.txt'>pronuncia</a><br>
+<h2>ortografia</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=02.txt'>vocali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=03.txt'>vocale - e</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=04.txt'>vocale - o</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=05.txt'>consonanti</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=06.txt'>consonante - c</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=07.txt'>consonante - g</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=08.txt'>consonante - s</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=09.txt'>consonante - z</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=10.txt'>stranieri</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=11.txt'>dittonghi, trittonghi, iato</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=12.txt'>fatica</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=13.txt'>alfabeto</a><br>
+<h2>nome</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=14.txt'>articolo</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=15.txt'>preposizioni articolate</a><br>
+<h2>numerali</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=16.txt'>cardinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=17.txt'>ordinali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=18.txt'>frazionari</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=19.txt'>anni</a><br>
+<h2>pronomi</h2>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=20.txt'>personali</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=21.txt'>possesivi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=22.txt'>dimonstrativi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=23.txt'>indefiniti</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=24.txt'>relativi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Grammatica&varAppArea=ln&varAppDir=it-grammatica&varFileName=25.txt'>interrogativi</a><br>
+</span>

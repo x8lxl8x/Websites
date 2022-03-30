@@ -8,8 +8,8 @@ include("./simple-html-dom.php");
 
 $page_title     = "Events Calendar";
 $apps_area      = "fn";
-#$time_zone      = 3;
-$time_zone      = 2;
+
+1 ? $time_zone = 3 : $time_zone = 2;
 
 #---------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ $time_zone      = 2;
 #72 - EU
 
 $request_importance        ='2,3';
-$request_countries         ='5,12,17,22,72';
+$request_countries         ='5,17,22,72';
 $request_timezone          ='55';
 
 #---------------------------------------------------------------------------------------------------
