@@ -39,9 +39,6 @@ else if ( $intResult == 1 )
       $strPaymentMethodName = 'ACH';
       break;
     case '05':
-      $strPaymentMethodName = 'Золотая корона';
-      break;
-    case '06':
       $strPaymentMethodName = 'Сбербанк';
       break;
   }
