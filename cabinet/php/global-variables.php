@@ -55,7 +55,7 @@ $strTargetCurrencyTextRUB       = 'Рубли';
 $strConverterUrl                = 'https://www.google.com/search?q={Amount}+{SourceCurrency}+to+{TargetCurrency}';
 $strConverterPattern            = 'data-value="(.*)"';
 
-$strUserAgent                   = 'Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0';
+$strUserAgent                   = 'Mozilla/5.0 (X11; Linux x86_64; rv:98.0) Gecko/20100101 Firefox/98.0';
 
 $strRedirect                    = '';
 $strFuncOnLoad                  = '';
