@@ -22,7 +22,8 @@ $page_content   = "<h1>{$page_title}</h1>\n\n";
 
 $array_news_pl =
 [
-    ['TOK FM'            , 'http://radiostream.pl/tuba10-1.mp3'                                   ]
+    ['24.pl'             , 'https://player.polskieradio24.pl/anteny/pr24'                         ]
+  , ['TOK FM'            , 'http://radiostream.pl/tuba10-1.mp3'                                   ]
 ];
 
 $array_news_en =
@@ -158,14 +159,13 @@ function set_podcats($url_source, $div_title, $div_number)
 set_news($array_news_en       , 'News - English'                      , '01');
 set_news($array_news_bg       , 'Новини - Български'                  , '02');
 set_news($array_news_pl       , 'Wiadomości - Polski'                 , '03');
-set_bnt($url_bnt              , 'БНТ-DATE'                            , '04');
-set_podcats($url_podcasts_01  , 'Podcasts - Bloomberg Businessweek'   , '05');
-set_podcats($url_podcasts_02  , 'Podcasts - Bloomberg Surveillance'   , '06');
-set_podcats($url_podcasts_03  , 'Podcasts - Financial Times'          , '07');
-set_podcats($url_podcasts_04  , 'Podcasts - The Economist'            , '08');
-
-#set_news($array_news_fr       , 'Actualites - Français'               , '08');
-#set_news($array_news_it       , 'Notizie - Italiano'                  , '09');
+set_news($array_news_fr       , 'Actualites - Français'               , '04');
+set_bnt($url_bnt              , 'БНТ-DATE'                            , '05');
+set_podcats($url_podcasts_01  , 'Podcasts - Bloomberg Businessweek'   , '06');
+set_podcats($url_podcasts_02  , 'Podcasts - Bloomberg Surveillance'   , '07');
+set_podcats($url_podcasts_03  , 'Podcasts - Financial Times'          , '08');
+set_podcats($url_podcasts_04  , 'Podcasts - The Economist'            , '09');
+#set_news($array_news_it       , 'Notizie - Italiano'                  , '10');
 
 #----------------------------------------------------------------------------------------------------
 
