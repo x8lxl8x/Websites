@@ -630,7 +630,6 @@ function fncOnLoadClientContacted()
   strId04 = 'idPaymentMethod02'
   strId05 = 'idPaymentMethod03'
   strId06 = 'idPaymentMethod04'
-  strId07 = 'idPaymentMethod05'
 
   strChecked01 = document.getElementById( strId01 ).checked;
   strChecked02 = document.getElementById( strId02 ).checked;
@@ -638,7 +637,6 @@ function fncOnLoadClientContacted()
   strChecked04 = document.getElementById( strId04 ).checked;
   strChecked05 = document.getElementById( strId05 ).checked;
   strChecked06 = document.getElementById( strId06 ).checked;
-  strChecked07 = document.getElementById( strId07 ).checked;
 
   if ( ( ! strChecked01 ) && ( ! strChecked02  ) )
   {
