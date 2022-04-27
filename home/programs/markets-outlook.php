@@ -49,8 +49,8 @@ $array_commodities =
 [
     ['CL1:COM'   , 'Crude Oil WTI']
   , ['CO1:COM'   , 'Brent Oil'    ]
+  , ['NG1:COM'   , 'Natural gas'  ]
   , ['XAUUSD:CUR', 'Gold'         ]
-  , ['XAGUSD:CUR', 'Silver'       ]
 ];
 
 #------------------------------------------------------------------------------------------------------------
