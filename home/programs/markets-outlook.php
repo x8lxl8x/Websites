@@ -16,7 +16,7 @@ $array_cbrates =
 [
     ['FED', 'FED']
   , ['ECB', 'ECB']
-#  , ['SNB', 'SNB']
+  , ['SNB', 'SNB']
 #  , ['BOE', 'BOE']
 ];
 
@@ -24,7 +24,7 @@ $array_currencies =
 [
     ['DXY:CUR'   , 'DXY']
   , ['EURUSD:CUR', 'EUR/USD']
-#  , ['USDCHF:CUR', 'USD/CHF']
+  , ['USDCHF:CUR', 'USD/CHF']
 #  , ['GBPUSD:CUR', 'GBP/USD']
 ];
 
