@@ -16,23 +16,23 @@ $array_cbrates =
 [
     ['FED', 'FED']
   , ['ECB', 'ECB']
-  , ['SNB', 'SNB']
-#  , ['BOE', 'BOE']
+  , ['BOE', 'BOE']
+#  , ['SNB', 'SNB']
 ];
 
 $array_currencies =
 [
     ['DXY:CUR'   , 'DXY']
   , ['EURUSD:CUR', 'EUR/USD']
-  , ['USDCHF:CUR', 'USD/CHF']
-#  , ['GBPUSD:CUR', 'GBP/USD']
+  , ['GBPUSD:CUR', 'GBP/USD']
+#  , ['USDCHF:CUR', 'USD/CHF']
 ];
 
 $array_bonds =
 [
     ['USGG10YR:IND', 'United States']
   , ['GDBR10:IND'  , 'Germany']
-#  , ['GUKG10:IND'  , 'United Kingdom']
+  , ['GUKG10:IND'  , 'United Kingdom']
 ];
 
 $array_indices =

@@ -53,8 +53,8 @@ $forex_link = 'https://www.widgets.investing.com/live-currency-cross-rates?theme
 $forex_items =
 [
     ['EUR/USD',  '1']
-  , ['USD/CHF',  '4']
-#  , ['GBP/USD',  '2']
+  , ['GBP/USD',  '2']
+#  , ['USD/CHF',  '4']
 ];
 
 #---------------------------------------------------------------------------------------------------
@@ -65,8 +65,8 @@ $margins_items =
 [
     'USD'
   , 'EUR'
-  , 'CHF'
-#  , 'GBP'
+  , 'GBP'
+#  , 'CHF'
 ];
 
 #---------------------------------------------------------------------------------------------------
@@ -77,8 +77,8 @@ $benchmarks_items =
 [
     'USD'
   , 'EUR'
-  , 'CHF'
-#  , 'GBP'
+  , 'GBP'
+#  , 'CHF'
 ];
 
 #---------------------------------------------------------------------------------------------------
@@ -89,16 +89,16 @@ $interests_items =
 [
     'USD'
   , 'EUR'
-  , 'CHF'
-#  , 'GBP'
+  , 'GBP'
+#  , 'CHF'
 #  , 'ZAR'
 ];
 
 $cfds_pairs =
 [
     'EUR.USD'
-  , 'USD.CHF'
-#  , 'GBP.USD'
+  , 'GBP.USD'
+#  , 'USD.CHF'
 #  , 'USD.ZAR'
 ];
 
