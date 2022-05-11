@@ -12,7 +12,7 @@ $strUrlTemplate = "https://www.widgets.investing.com/live-currency-cross-rates?t
 
 $arrCurrencies  =
 [
-    ['USD/CHF',  '4', '$/₣']
+   ['USD/CHF',  '4', '$/₣']
 #  , ['EUR/USD',  '1', '€/$']
 #  , ['GBP/USD',  '2', '£/$']
 ];

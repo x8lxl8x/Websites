@@ -48,7 +48,7 @@ $array_countries =
   , [ 12, 'UK'             , 'united-kingdom' ]
   , [ 13, 'US'             , 'united-states'  ]
   , [ 14, 'Turkey'         , 'turkey'         ]
-#  , [ 15, 'Suisse'         , 'switzerland'    ]
+  , [ 15, 'Suisse'         , 'switzerland'    ]
 ];
 
 $array_indicators =

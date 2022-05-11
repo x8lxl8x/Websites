@@ -1,7 +1,7 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "true",
+  "config_enabled"  => "false",
   "config_type"     => "link",
 
   "media_name"      => "Contrepoints - La une",
