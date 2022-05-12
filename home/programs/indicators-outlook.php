@@ -45,10 +45,10 @@ $array_countries =
   , [  9, 'Japan'          , 'japan'          ]
   , [ 10, 'Poland'         , 'poland'         ]
   , [ 11, 'Spain'          , 'spain'          ]
-  , [ 12, 'UK'             , 'united-kingdom' ]
-  , [ 13, 'US'             , 'united-states'  ]
-  , [ 14, 'Turkey'         , 'turkey'         ]
-  , [ 15, 'Suisse'         , 'switzerland'    ]
+  , [ 12, 'Suisse'         , 'switzerland'    ]
+  , [ 13, 'UK'             , 'united-kingdom' ]
+  , [ 14, 'US'             , 'united-states'  ]
+  , [ 15, 'Turkey'         , 'turkey'         ]
 ];
 
 $array_indicators =
