@@ -15,22 +15,23 @@ $url_tradingeconomics   = 'https://tradingeconomics.com/';
 $array_cbrates =
 [
     ['FED', 'FED']
-  , ['ECB', 'ECB']
   , ['SNB', 'SNB']
+  , ['ECB', 'ECB']
 #  , ['BOE', 'BOE']
 ];
 
 $array_currencies =
 [
     ['DXY:CUR'   , 'DXY']
-  , ['EURUSD:CUR', 'EUR/USD']
   , ['USDCHF:CUR', 'USD/CHF']
+  , ['EURUSD:CUR', 'EUR/USD']
 #  , ['GBPUSD:CUR', 'GBP/USD']
 ];
 
 $array_bonds =
 [
     ['USGG10YR:IND', 'United States']
+  , ['GSWISS10:IND', 'Suisse']
   , ['GDBR10:IND'  , 'Germany']
 #  , ['GUKG10:IND'  , 'United Kingdom']
 ];
