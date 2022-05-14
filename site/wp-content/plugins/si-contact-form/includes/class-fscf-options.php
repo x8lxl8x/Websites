@@ -60,11 +60,11 @@ class FSCF_Options {
 	static function get_options() {
 		if ( ! isset( self::$form_defaults ) )
 			self::$form_defaults = FSCF_Util::set_defaults ( );
-		
+
 		if ( ! self::$global_options ) {
 			self::$global_options = FSCF_Util::get_global_options();
 		}
-		
+
 		if ( ! self::$form_options ) {
 			self::$form_options = FSCF_Util::get_form_options(self::$current_form, true);
 		}
@@ -98,7 +98,7 @@ class FSCF_Options {
 		self::get_form_num();
 
 		// Register settings sections
-		
+
 		add_settings_section(
 				'fscf_basic_settings',	// ID used to identify this section and with which to register options
 				__('Basic Settings', 'si-contact-form'), // Title to be displayed on the administration page
@@ -243,9 +243,9 @@ class FSCF_Options {
 		register_setting( 'fs_contact_options', 'fs_contact_form' . self::$current_form, 'FSCF_Options::validate' );
 	}
 
-	/* ------------------------------------------------------------------------ * 
-	 * ********** Display functions ********** 
-	 * ------------------------------------------------------------------------ */	
+	/* ------------------------------------------------------------------------ *
+	 * ********** Display functions **********
+	 * ------------------------------------------------------------------------ */
 
 	static function display_options() {
 		// This displays the options menu in the admin area
@@ -266,7 +266,7 @@ class FSCF_Options {
 
 		// Process ctf_actions, if any
 		if ( ! empty($_POST['ctf_action']) ) FSCF_Action::do_ctf_action( );
-		
+
 		// Load the options into the options array
 		self::get_options();
 		// The update_lang function receives the array by ref., so it can be changed
@@ -280,14 +280,14 @@ class FSCF_Options {
 
 		<script type="text/javascript">
 		// Set up tabs for options page (selected supports jQuery ui pre-1.9)
-		jQuery(function() { 
+		jQuery(function() {
 			jQuery( "#fscf-tabs" ).tabs({ active: <?php echo esc_js(self::$current_tab)-1; ?>, selected: <?php echo esc_js(self::$current_tab)-1; ?> });
 
-			}); 
+			});
 		</script>
 
 		<?php echo "\n"; ?>
-		
+
 		<div class="fscf_statbox">
 		<?php
 		// Display plugin ratings
@@ -374,7 +374,7 @@ class FSCF_Options {
   } else {
       FSCF_Process::vcita_print_admin_page_notification(self::$form_options, self::$global_options);
   }
-  
+
   /* --- vCita Header Error Messages - End --- */
 
         // action hook for database extension menu
@@ -658,7 +658,7 @@ class FSCF_Options {
 		} // end else
 		//print_r($ctf_contacts);
 		?>
-		
+
 		<?php
 		if ( empty( $ctf_contacts ) || $ctf_contacts_error ) {
 			echo '<div id="message" class="error">';
@@ -797,7 +797,7 @@ class FSCF_Options {
 		</div>
 		<br />
         <br />
-					
+
 		<?php
 		if ( self::$form_options['email_from_enforced'] == 'true' && self::$form_options['email_from'] == '' ) {
 			echo '<div class="fsc-error">';
@@ -970,7 +970,7 @@ class FSCF_Options {
 			<?php echo __('Check this setting if you do not want the field to appear on the form. Can be used for any field type.', 'si-contact-form'); ?></p>
 
             <p><strong><?php echo __('Attributes:', 'si-contact-form'); ?></strong><br />
-			<?php echo __('Use to insert input field attributes. Example: To make a text field readonly, set to: readonly="readonly"  To set the size of a field to 15 characters, use size=15. Can be used for any field type.', 'si-contact-form'); ?></p>
+			<?php echo __('Use to insert input field attributes. Example: To make a text field readonly, set to:   To set the size of a field to 15 characters, use size=15. Can be used for any field type.', 'si-contact-form'); ?></p>
 
             <p><strong><?php echo __('Validation regex:', 'si-contact-form'); ?></strong><br />
 			<?php echo __('Use a regular expression to validate if form input is in a specific format. Example: If you want numbers in a text field type but do not allow text, use this regex: /^\d+$/ Can be used for text, textarea, date and password field types.', 'si-contact-form'); ?></p>
@@ -1142,18 +1142,18 @@ class FSCF_Options {
 			<label for="fs_contact_field<?php echo $nextkey; ?>_label"><?php _e('Label:', 'si-contact-form'); ?></label>
 			<input name="<?php echo $field_opt_name.'[label]' ?>" id="fs_contact_field<?php echo $nextkey; ?>_label" type="text"
 				   value="<?php echo esc_attr($field['label']);  ?>" size="70"
-				   <?php if ( $field['standard'] > 0 ) echo ' readonly="readonly"'; ?>/>
+				   <?php if ( $field['standard'] > 0 ) echo ' '; ?>/>
 
 			<label for="<?php echo 'fs_contact_field'. $nextkey .'_type' ?>"><?php echo __('Field type:', 'si-contact-form'); ?></label>
 			<?php // Disable field type select for name and message ?>
 			<select id="<?php echo 'fs_contact_field'. $nextkey .'_type' ?>"
-				<?php 
+				<?php
 				if ( FSCF_NAME_FIELD == $field['standard']  || FSCF_MESSAGE_FIELD == $field['standard'] ) {
-					echo ' disabled="disabled">'; 
+					echo ' disabled="disabled">';
 				} else {
-					echo ' name="' . $field_opt_name.'[type]">'; 	
+					echo ' name="' . $field_opt_name.'[type]">';
 				}
-				
+
 			$selected = '';
 			// Limit options for the Email and Subject fields
 			if ( FSCF_EMAIL_FIELD == $field['standard'] ) {
@@ -1178,7 +1178,7 @@ class FSCF_Options {
 			}
 			?>
 			</select>
-			<?php 
+			<?php
 			if ( FSCF_NAME_FIELD == $field['standard']  || FSCF_MESSAGE_FIELD == $field['standard'] ) {
 				// Provide type field for disabled select lists ?>
 				<input type="hidden" name="<?php echo $field_opt_name .'[type]'; ?>" value="<?php echo $field["type"]; ?>" />
@@ -1217,14 +1217,14 @@ class FSCF_Options {
 					<?php _e( 'Auto form fill email address and name (username) on the contact form for logged in users who are not administrators.', 'si-contact-form' ); ?>
 				</div>
 				<br />
-			<?php	
+			<?php
 			} ?>
 
 		   <label for="<?php echo 'fs_contact_field'. $nextkey .'_slug' ?>"><?php echo __('Tag', 'si-contact-form'); ?>:</label>
 		   <input name="<?php echo $field_opt_name.'[slug]' ?>" id="<?php echo 'fs_contact_field'. $nextkey .'_slug' ?>" type="text"
 				  value="<?php echo esc_attr($field['slug']); ?>" <?php
-				  if ( $field['standard'] != '0' ) echo ' readonly'; ?> size="45" />	
-		   
+				  if ( $field['standard'] != '0' ) echo ' readonly'; ?> size="45" />
+
 		   &nbsp;&nbsp;&nbsp;<input name="<?php echo $field_opt_name.'[req]' ?>" id="<?php echo 'fs_contact_field'. $nextkey .'_req' ?>" type="checkbox"
 			   <?php if( $field['req'] == 'true' || ( FSCF_EMAIL_FIELD == $field['standard'] && self::$form_options['double_email'] == 'true' ) ) echo 'checked="checked"'; ?> value="true" />
 		   <label for="<?php echo 'fs_contact_field'. $nextkey .'_req' ?>"><?php _e('Required field', 'si-contact-form'); ?></label>&nbsp;&nbsp;
@@ -1263,7 +1263,7 @@ class FSCF_Options {
 		   <label for="<?php echo 'fs_contact_field'. $nextkey .'_max_len' ?>"><?php echo __('Max length', 'si-contact-form'); ?>:</label>
 		   <input name="<?php echo $field_opt_name.'[max_len]' ?>" id="<?php echo 'fs_contact_field'. $nextkey .'_max_len' ?>" type="text"
 				  value="<?php echo esc_attr($field['max_len']);  ?>" size="2" />
-		   
+
 		   <label for="<?php echo 'fs_contact_field'. $nextkey .'_attributes' ?>"><?php echo __('Attributes', 'si-contact-form'); ?>:</label>
 		   <input name="<?php echo $field_opt_name.'[attributes]' ?>" id="<?php echo 'fs_contact_field'. $nextkey .'_attributes' ?>" type="text"
 				  value="<?php echo esc_attr($field['attributes']);  ?>" size="20" />
@@ -1312,13 +1312,13 @@ class FSCF_Options {
 				</div>
 				<br />
 				<?php
-			}		   
+			}
 		   ?>
 			</div>
 			</fieldset>
 			<?php
-		} // end foreach 
-		
+		} // end foreach
+
 		// Settings affecting all fields
 		?>
         <div>
@@ -1435,8 +1435,8 @@ class FSCF_Options {
 	   <div class="fscf_tip" id="si_contact_preserve_space_enable_tip">
 	   <?php _e( 'Normally the textarea fields will have all extra white space removed. Enabling this setting will allow all the textarea field white space to be preserved.', 'si-contact-form' ); ?>
 	   </div>
-	   <br />		
-		
+	   <br />
+
 		</fieldset>
 
 		<?php
@@ -1578,7 +1578,7 @@ if (self::$form_options['external_style'] == 'true') {
 <?php
 $readonly = '';
 if( self::$form_options['external_style'] == 'true' ) {
-  $readonly = 'readonly="readonly"';
+  $readonly = '';
 
   echo '<div class="updated">';
   echo __('Caution: "External Style Sheet CSS" is enabled in the Styles tab. This setting requires your theme\'s style.css to include the custom CSS. You can get the custom CSS on the Styles tab. Be sure your theme includes the custom CSS from this plugin, if it does not, then add the custom CSS to your theme or change the setting back to "Internal Style Sheet CSS".', 'si-contact-form');
@@ -1668,7 +1668,7 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e('Use to adjust the style in the form Field Pre-Follow DIV. This is a narrower DIV that is to the left of a follow field.', 'si-contact-form'); ?>
         </div>
         <br />
-	
+
         <label for="<?php echo self::$form_option_name;?>[title_style]"><?php _e('Input labels alignment DIV', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[title_style]" id="si_contact_title_style" type="text" value="<?php echo esc_attr(self::$form_options['title_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_title_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
@@ -1676,7 +1676,7 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e('Use to adjust the style in the form input label alignment wrapping DIVs.', 'si-contact-form'); ?>
         </div>
         <br />
-		
+
         <label for="<?php echo self::$form_option_name;?>[field_div_style]"><?php _e('Input fields alignment DIV', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[field_div_style]" id="si_contact_field_div_style" type="text" value="<?php echo esc_attr(self::$form_options['field_div_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_div_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
@@ -1700,14 +1700,14 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e('Use to adjust the style in the form CAPTCHA alignment wrapping DIV.', 'si-contact-form'); ?>
         </div>
         <br />
-		
+
         <label for="<?php echo self::$form_option_name;?>[captcha_image_style]"><?php _e('CAPTCHA image alignment', 'si-contact-form'); ?>:</label>
         <span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[captcha_image_style]" id="si_contact_captcha_image_style" type="text" value="<?php echo esc_attr(self::$form_options['captcha_image_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_captcha_image_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
         <div class="fscf_tip" id="si_contact_captcha_image_style_tip">
         <?php _e('Use to adjust the style for the CAPTCHA image alignment.', 'si-contact-form'); ?>
         </div>
-        <br />	
+        <br />
 
         <label for="<?php echo self::$form_option_name;?>[captcha_reload_image_style]"><?php _e('CAPTCHA reload image alignment', 'si-contact-form'); ?>:</label>
         <span class="fscf_style_inline"><input class="fscf_style_text" class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[captcha_reload_image_style]" id="si_contact_captcha_reload_image_style" type="text" value="<?php echo esc_attr(self::$form_options['captcha_reload_image_style']);  ?>" />
@@ -1715,7 +1715,7 @@ if( self::$form_options['external_style'] == 'true' ) {
         <div class="fscf_tip" id="si_contact_captcha_reload_image_style_tip">
         <?php _e('Use to adjust the style for the CAPTCHA reload image alignment.', 'si-contact-form'); ?>
         </div>
-        <br />			
+        <br />
 
         <label for="<?php echo self::$form_option_name;?>[submit_div_style]"><?php _e('Submit DIV', 'si-contact-form'); ?>:</label>
         <span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[submit_div_style]" id="si_contact_submit_div_style" type="text" value="<?php echo esc_attr(self::$form_options['submit_div_style']);  ?>" />
@@ -1761,7 +1761,7 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e('Use to adjust the style of the required field indicator.', 'si-contact-form'); ?>
         </div>
         <br />
-		
+
         <label for="<?php echo self::$form_option_name;?>[required_text_style]"><?php _e('Required field text', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[required_text_style]" id="si_contact_required_text_style" type="text" value="<?php echo esc_attr(self::$form_options['required_text_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_required_text_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
@@ -1802,14 +1802,14 @@ if( self::$form_options['external_style'] == 'true' ) {
         </div>
         <br />
 
-			
+
         <label for="<?php echo self::$form_option_name;?>[label_style]"><?php _e('Field labels', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[label_style]" id="si_contact_label_style" type="text" value="<?php echo esc_attr(self::$form_options['label_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_label_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
         <div class="fscf_tip" id="si_contact_label_style_tip">
         <?php _e('Use to adjust the style for the field labels.', 'si-contact-form'); ?>
         </div>
-        <br />	
+        <br />
 
         <label for="<?php echo self::$form_option_name;?>[option_label_style]"><?php _e('Options labels', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[option_label_style]" id="si_contact_option_label_style" type="text" value="<?php echo esc_attr(self::$form_options['option_label_style']);  ?>" />
@@ -1817,8 +1817,8 @@ if( self::$form_options['external_style'] == 'true' ) {
         <div class="fscf_tip" id="si_contact_option_label_style_tip">
         <?php _e('Use to adjust the style for the checkbox and radio option labels.', 'si-contact-form'); ?>
         </div>
-        <br />	
-		
+        <br />
+
         <label for="<?php echo self::$form_option_name;?>[field_style]"><?php _e('Input text fields', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[field_style]" id="si_contact_field_style" type="text" value="<?php echo esc_attr(self::$form_options['field_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_field_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
@@ -1826,15 +1826,15 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e('Use to adjust the style inside the form input text field types.', 'si-contact-form'); ?>
         </div>
         <br />
-		
+
         <label for="<?php echo self::$form_option_name;?>[captcha_input_style]"><?php _e('Input text field CAPTCHA', 'si-contact-form'); ?>:</label>
         <span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[captcha_input_style]" id="si_contact_captcha_input_style" type="text" value="<?php echo esc_attr(self::$form_options['captcha_input_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_captcha_input_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
         <div class="fscf_tip" id="si_contact_captcha_input_style_tip">
         <?php _e('Use to adjust the style in the CAPTCHA code input text field.', 'si-contact-form'); ?>
         </div>
-        <br />		
-		
+        <br />
+
         <label for="<?php echo self::$form_option_name;?>[textarea_style]"><?php _e('Input textarea fields', 'si-contact-form'); ?>:</label>
 		<span class="fscf_style_inline"><input class="fscf_style_text" <?php echo $readonly ?> name="<?php echo self::$form_option_name;?>[textarea_style]" id="si_contact_textarea_style" type="text" value="<?php echo esc_attr(self::$form_options['textarea_style']);  ?>" />
         <a style="cursor:pointer;" title="<?php _e('Click for Help!', 'si-contact-form'); ?>" onclick="toggleVisibility('si_contact_textarea_style_tip');"><?php _e('help', 'si-contact-form'); ?></a></span>
@@ -1923,7 +1923,7 @@ if( self::$form_options['external_style'] == 'true' ) {
        </div>
 
 </fieldset>
-		<?php		
+		<?php
 	}	// end style_settings_callback()
 
 	static function label_settings_callback() {
@@ -1970,11 +1970,11 @@ if( self::$form_options['external_style'] == 'true' ) {
          <label for="<?php echo self::$form_option_name;?>[title_areyousure]"><?php _e('Are you sure?', 'si-contact-form'); ?></label><input name="<?php echo self::$form_option_name;?>[title_areyousure]" id="si_contact_title_areyousure" type="text" value="<?php echo esc_attr(self::$form_options['title_areyousure']);  ?>" size="50" /><br />
          <label for="<?php echo self::$form_option_name;?>[text_message_sent]"><?php _e('Your message has been sent, thank you.', 'si-contact-form'); ?></label><input name="<?php echo self::$form_option_name;?>[text_message_sent]" id="si_contact_text_message_sent" type="text" value="<?php echo esc_attr(self::$form_options['text_message_sent']);  ?>" size="50" /><br />
          <label for="<?php echo self::$form_option_name;?>[text_print_button]"><?php _e('View / Print your message', 'si-contact-form'); ?></label><input name="<?php echo self::$form_option_name;?>[text_print_button]" id="si_contact_text_print_button" type="text" value="<?php echo esc_attr(self::$form_options['text_print_button']);  ?>" size="50" /><br />
-			
+
 		</fieldset>
 		<?php
 	}
-		
+
 	static function tooltip_settings_callback() {
 		// Tooltip Label Settings
 		?>
@@ -2001,7 +2001,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		</fieldset>
 		<?php
 	}
-		
+
 	static function error_settings_callback() {
 		// Error Message Settings
 		?>
@@ -2071,7 +2071,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		</fieldset>
 		<?php
 	}
-	
+
 	static function confirmation_email_callback() {
 
 		self::set_fld_array();
@@ -2089,7 +2089,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'Enable when you want the form to automatically send a confirmation email message to the user who submitted the form.', 'si-contact-form' ); ?>
 		</div>
 		<br />
-			
+
 		<?php
 		if ( self::$form_options['auto_respond_enable'] == 'true' && (self::$form_options['auto_respond_from_name'] == '' || self::$form_options['auto_respond_from_email'] == '' || self::$form_options['auto_respond_reply_to'] == '' || self::$form_options['auto_respond_subject'] == '' || self::$form_options['auto_respond_message'] == '') ) {
 			echo '<div class="fsc-notice">';
@@ -2114,7 +2114,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'This sets the name in the "from" field when the confirmation email is sent.', 'si-contact-form' ); ?>
 		</div>
 		<br />
-			
+
 		<label for="<?php echo self::$form_option_name; ?>[auto_respond_from_email]"><?php _e( 'Confirmation email "From" address', 'si-contact-form' ); ?>:</label>
 		<input name="<?php echo self::$form_option_name; ?>[auto_respond_from_email]" id="si_contact_auto_respond_from_email" type="text" value="<?php echo esc_attr( self::$form_options['auto_respond_from_email'] ); ?>" size="40" />
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_auto_respond_from_email_tip');"><?php _e( 'help', 'si-contact-form' ); ?></a>
@@ -2122,7 +2122,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'This sets the "from" email address when the confirmation email is sent. If confirmation emails are not sent, then set this setting to a real email address on the same web domain as your web site. (Same applies to the "Email-From" setting on this page)', 'si-contact-form' ); ?>
 		</div>
 		<br />
-			
+
 		<label for="<?php echo self::$form_option_name; ?>[auto_respond_reply_to]"><?php _e( 'Confirmation email "Reply To" address', 'si-contact-form' ); ?>:</label>
 		<input name="<?php echo self::$form_option_name; ?>[auto_respond_reply_to]" id="si_contact_auto_respond_reply_to" type="text" value="<?php echo esc_attr( self::$form_options['auto_respond_reply_to'] ); ?>" size="40" />
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_auto_respond_reply_to_tip');"><?php _e( 'help', 'si-contact-form' ); ?></a>
@@ -2130,7 +2130,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'This sets the "reply to" email address when the confirmation emails are sent.', 'si-contact-form' ); ?>
 		</div>
 		<br />
-			
+
 		<label for="<?php echo self::$form_option_name; ?>[auto_respond_subject]"><?php _e( 'Confirmation email subject', 'si-contact-form' ); ?>:</label>
 		<input name="<?php echo self::$form_option_name; ?>[auto_respond_subject]" id="si_contact_auto_respond_subject" type="text" value="<?php echo esc_attr( self::$form_options['auto_respond_subject'] ); ?>" size="40" />
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_auto_respond_subject_tip');"><?php _e( 'help', 'si-contact-form' ); ?></a>
@@ -2148,7 +2148,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		</span>
 		</div>
 		<br />
-			
+
 		<label for="<?php echo self::$form_option_name; ?>[auto_respond_message]"><?php _e( 'Confirmation email message', 'si-contact-form' ); ?>:</label>
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_auto_respond_message_tip');"><?php _e( 'help', 'si-contact-form' ); ?></a>
 		<div class="fscf_tip" id="si_contact_auto_respond_message_tip">
@@ -2169,11 +2169,11 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'Note: If you add any extra fields, they will show up in this list of available tags.', 'si-contact-form' ); ?>
 		<?php _e( 'Note: The message fields are intentionally disabled to help prevent spammers from using this form to relay spam.', 'si-contact-form' ); ?>
 		<?php _e( 'Try to limit this feature to just using the name field to personalize the message. Do not try to use it to send a copy of what was posted.', 'si-contact-form' ); ?>
-					
+
 		</div><br />
 		<textarea rows="3" cols="50" name="<?php echo self::$form_option_name; ?>[auto_respond_message]" id="si_contact_auto_respond_message"><?php echo esc_html( self::$form_options['auto_respond_message'] ); ?></textarea>
 		<br />
-			
+
 		<input name="<?php echo self::$form_option_name; ?>[auto_respond_html]" id="si_contact_auto_respond_html" type="checkbox" <?php if ( self::$form_options['auto_respond_html'] == 'true' ) echo 'checked="checked"'; ?> value="true" />
 		<label for="<?php echo self::$form_option_name; ?>[auto_respond_html]"><?php _e( 'Enable using HTML in confirmation email message.', 'si-contact-form' ); ?></label>
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_auto_respond_html_tip');"><?php _e( 'help', 'si-contact-form' ); ?></a>
@@ -2578,7 +2578,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<a href="http://www.fastsecurecontactform.com/send-form-data-elsewhere" target="_new"><?php echo __( 'FAQ: Send the posted form data to another site.', 'si-contact-form' ); ?></a>
 		<br />
 		<br />
-			   
+
 		<label for="<?php echo self::$form_option_name; ?>[silent_send]"><?php _e( 'Silent Remote Sending:', 'si-contact-form' ); ?></label>
 		<select id="si_contact_silent_send" name="<?php echo self::$form_option_name; ?>[silent_send]">
 		<?php
@@ -2596,9 +2596,9 @@ if( self::$form_options['external_style'] == 'true' ) {
 		}
 		?>
 		</select>
-			
+
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_silent_send_tip');">
-					
+
 		<?php _e( 'help', 'si-contact-form' ); ?></a>
 		<div class="fscf_tip" id="si_contact_silent_send_tip">
 		<?php _e( 'If enabled: After a user sends a message, the form can silently send the posted data to a third party remote URL. This can be used for a third party service such as a mailing list API.', 'si-contact-form' ); ?>
@@ -2606,7 +2606,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		_e( 'Select method GET or POST based on the remote API requirement.', 'si-contact-form' ); ?>
 		</div>
 		<br />
-					
+
 		<?php
 		if ( self::$form_options['silent_send'] != 'off' && self::$form_options['silent_url'] == '' ) {
 			echo '<div class="fsc-error">';
@@ -2627,7 +2627,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<table style="border:none;" cellspacing="20">
 		  <tr>
 		  <td valign="bottom">
-			  
+
 		  <label for="<?php echo self::$form_option_name; ?>[silent_ignore]"><?php echo __( 'Silent send fields to ignore', 'si-contact-form' ); ?>:</label>
 		  <a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_silent_ignore_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		  <div class="fscf_tip" id="si_contact_silent_ignore_tip">
@@ -2646,7 +2646,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		  <br />
 
 		</td><td valign="bottom">
-			 
+
 		  <label for="<?php echo self::$form_option_name; ?>[silent_rename]"><?php echo __( 'Silent send fields to rename', 'si-contact-form' ); ?>:</label>
 		  <a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_silent_rename_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		  <div class="fscf_tip" id="si_contact_silent_rename_tip">
@@ -2668,9 +2668,9 @@ if( self::$form_options['external_style'] == 'true' ) {
 		  </div>
 		  <textarea rows="4" cols="25" name="<?php echo self::$form_option_name; ?>[silent_rename]" id="si_contact_silent_rename"><?php echo self::$form_options['silent_rename']; ?></textarea>
 		  <br />
-				  
+
 		  </td><td valign="bottom">
-			  
+
 		  <label for="<?php echo self::$form_option_name; ?>[silent_add]"><?php echo __( 'Silent send key value pairs to add', 'si-contact-form' ); ?>:</label>
 		  <a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_silent_add_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		  <div class="fscf_tip" id="si_contact_silent_add_tip">
@@ -2717,7 +2717,7 @@ if( self::$form_options['external_style'] == 'true' ) {
         <?php _e( 'For checkbox field types use "selected" for this setting, for other field types put the value that shows up in the email when this field is selected.', 'si-contact-form' ); ?><br />
 		</div>
 		<br />
-			 
+
 		<?php
 		if ( self::$form_options['silent_email_off'] == 'true' && (self::$form_options['silent_send'] == 'off' || self::$form_options['silent_url'] == '') ) {
 			echo '<div class="fsc-error">';
@@ -2725,7 +2725,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 			echo "</div>\n";
 		}
 		?>
-				   
+
 		<?php
 		if ( self::$form_options['silent_email_off'] == 'true' && self::$form_options['silent_send'] != 'off' ) {
 			?><div id="message" class="updated"><strong><?php echo __( 'Just a reminder: You have turned off email sending in the Silent Remote Send settings below. This is just a reminder in case that was a mistake. If that is what you intended, then ignore this message.', 'si-contact-form' ); ?></strong></div><?php
@@ -2741,12 +2741,12 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<?php _e( 'No email will be sent to you! The posted data will ONLY be sent to the silent remote URL. This can be used for a third party service such as a mailing list API. Note: the confirmation email will still be sent if it is enabled.', 'si-contact-form' ); ?>
 		</div>
 		<br />
-					
+
 		</fieldset>
 		<?php
 	}	// end funciton silent_sending_callback()
 
-	
+
 	static function data_export_callback() {
 		?>
 		<div class="clear"></div>
@@ -2760,7 +2760,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<table style="border:none;" cellspacing="20">
 		<tr>
 		<td valign="bottom">
-			  
+
 		<label for="<?php echo self::$form_option_name; ?>[export_ignore]"><?php echo __( 'Data export fields to ignore', 'si-contact-form' ); ?>:</label>
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_export_ignore_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		<div class="fscf_tip" id="si_contact_export_ignore_tip">
@@ -2779,7 +2779,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<textarea rows="4" cols="25" name="<?php echo self::$form_option_name; ?>[export_ignore]" id="si_contact_export_ignore"><?php echo self::$form_options['export_ignore']; ?></textarea>
 		<br />
 		 </td><td valign="bottom">
-			 
+
 		<label for="<?php echo self::$form_option_name; ?>[export_rename]"><?php echo __( 'Data export fields to rename', 'si-contact-form' ); ?>:</label>
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_export_rename_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		<div class="fscf_tip" id="si_contact_export_rename_tip">
@@ -2802,7 +2802,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<textarea rows="4" cols="25" name="<?php echo self::$form_option_name; ?>[export_rename]" id="si_contact_export_rename"><?php echo self::$form_options['export_rename']; ?></textarea>
 		<br />
 		</td><td valign="bottom">
-			  
+
 		<label for="<?php echo self::$form_option_name; ?>[export_add]"><?php echo __( 'Data export key value pairs to add', 'si-contact-form' ); ?>:</label>
 		<a style="cursor:pointer;" title="<?php esc_attr_e( 'Click for Help!', 'si-contact-form' ); ?>" onclick="toggleVisibility('si_contact_export_add_tip');"><?php echo __( 'help', 'si-contact-form' ); ?></a><br />
 		<div class="fscf_tip" id="si_contact_export_add_tip">
@@ -2820,7 +2820,7 @@ if( self::$form_options['external_style'] == 'true' ) {
 		<br />
 		</td></tr>
 		</table>
-				   
+
 		<?php
 		if ( self::$form_options['export_email_off'] == 'true' ) {
 			?><div id="message" class="updated"><strong><?php echo __( 'Just a reminder: You have turned off email sending in the data export settings below. This is just a reminder in case that was a mistake. If that is what you intended, then ignore this message.', 'si-contact-form' ); ?></strong></div><?php
@@ -3255,7 +3255,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 	}	// end function newsletter_settings_callback()
 
 
-	
+
 	static function tools_callback() {
 //		echo "This is the backup/export settings section";
 		$form_num = self::$current_form;
@@ -3301,7 +3301,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		<?php _e( 'This tool can copy your contact form settings from this form number to any of your other forms.', 'si-contact-form' ); ?><br />
 		<?php _e( 'Use to copy just the style settings, or all the settings from this form.', 'si-contact-form' ); ?><br />
 		<?php _e( 'It is a good idea to backup all forms with the backup tool before you use this copy tool. Changes are permanent!', 'si-contact-form' ); ?><br />
-			
+
 		<label for="si_contact_copy_what"><?php echo __( 'What to copy:', 'si-contact-form' ); ?></label>
 		<select id="si_contact_copy_what" name="si_contact_copy_what">
 		<?php
@@ -3318,7 +3318,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		}
 		?>
 		</select>
-			
+
 		<label for="si_contact_destination_form"><?php echo sprintf( __( 'Select a form to copy form %d settings to:', 'si-contact-form' ), self::$current_form ); ?></label>
 		<select id="si_contact_destination_form" name="si_contact_destination_form">
 		<?php
@@ -3333,7 +3333,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		}
 		?>
 		</select>
-			
+
 		<input type="hidden" name="si_contact_this_form" id="si_contact_this_form" value="<?php echo self::$current_form ?>"  />
 		<p style="padding:0px;" class="submit">
 
@@ -3372,12 +3372,12 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		<br />
 
 		<fieldset class="fscf_settings_group">
-			
+
 		<legend><strong><?php _e( 'Restore Settings', 'si-contact-form' ); ?></strong></legend>
 		<?php _e( 'This tool can restore a backup of your contact form settings. If you have previously made a backup, you can restore one or all your forms.', 'si-contact-form' ); ?><br />
 		<?php _e( 'It is a good idea to backup all forms with the backup tool before you restore any. Changes are permanent!', 'si-contact-form' ); ?><br />
 		<label for="si_contact_restore_backup_type"><?php _e( 'Select a form to restore:', 'si-contact-form' ); ?></label>
-			
+
 		<select id="si_contact_restore_backup_type" name="si_contact_restore_type">
 		<?php
 		echo '<option value="all">' . esc_html( __( 'All Forms', 'si-contact-form' ) ) . '</option>' . "\n";
@@ -3394,18 +3394,18 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		?>
 		</select>
 		<br />
-			
+
 		<label for="si_contact_backup_file"><?php _e( 'Upload Backup File:', 'si-contact-form' ); ?></label>
 		<input style="text-align:left; margin:0;" type="file" id="si_contact_backup_file" name="si_contact_backup_file" value=""  size="20" />
 
 		<p style="padding:0px;" class="submit">
 		<input type="submit" name="ctf_action" onclick="document.pressed=this.value" value="<?php esc_attr_e( 'Restore Settings', 'si-contact-form' ); ?>" />
 		</p>
-			
+
 		</fieldset>
 
 		<br />
-		
+
 		<fieldset class="fscf_settings_group">
 		<legend><strong><?php _e( 'Reset and Delete', 'si-contact-form' ); ?></strong></legend>
 		<strong><?php _e('These options will permanantly affect all tabs on this form. (Form 1 cannot be deleted).', 'si-contact-form' ); ?></strong>
@@ -3455,12 +3455,12 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 
 	} // end function backup_settings_callback()
 
-	/* ------------------------------------------------------------------------ * 
+	/* ------------------------------------------------------------------------ *
 	 * Display support  functions
 	 * ------------------------------------------------------------------------ */
-	
+
 	static function vcita_update_details($text) {
-      
+
     self::$global_options = FSCF_Util::get_global_options();
     if(!isset($text['vcita_scheduling_button']))
       $text['vcita_scheduling_button'] = 'false';
@@ -3484,7 +3484,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
     	    update_option( 'fs_contact_global', self::$global_options );
         }
     }
-    
+
     return ( $text );
   } // end function vcita_update_details()
 
@@ -3513,7 +3513,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		if ( isset($_POST['fs_dismiss_import_msg']) ) {
 			self::$global_options['import_msg'] = false;
 		}
-		
+
 		// Update global options array based on value of enable_php_sessions
         // if the POST variable enable_php_session, then the checkbox was checked
 		$php_sessions = ( isset($_POST['enable_php_sessions']) ) ? 'true' : 'false';
@@ -3569,7 +3569,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
         if( !empty($text['email_to']) )
                    $text['email_to'] = self::clean_textarea($text['email_to']);
 
-		
+
 		// Use default style settings if styles are empty
 		if ( ! isset(self::$style_defaults) ) self::$style_defaults = FSCF_Util::set_style_defaults();
 		foreach ( self::$style_defaults as $key => $val ) {
@@ -3583,13 +3583,13 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 			// reset styles feature
 			$text = FSCF_Action::copy_styles( self::$form_defaults, $text );
 		}
-		
+
 		if ( isset( $_POST['fscf_reset_styles_top'] ) ) {
 			$style_resets_arr = array(
 			   //	'border_enable'			 => 'false',
-				
+
 				// reset labels on top
-				
+
                 // Alignment DIVs
 			    'form_style'           => 'width:99%; max-width:555px;',   // Form DIV, how wide is the form DIV
                 'left_box_style'       => 'float:left; width:55%; max-width:270px;',   // left box DIV, container for vcita
@@ -3606,21 +3606,21 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 			    'captcha_reload_image_style' => 'border-style:none; margin:0; padding:0px; vertical-align:bottom;', // CAPTCHA reload image alignment
 			    'submit_div_style'     => 'text-align:left; clear:both; padding-top:15px;', // Submit DIV
                 'border_style'         => 'border:1px solid black; width:99%; max-width:550px; padding:10px;', // style of the fieldset box (if enabled)
-				
+
 			);
 
 			// reset left styles feature
 			foreach ( $style_resets_arr as $key => $val ) {
 				$text[$key] = $val;
 			}
-		}	// end reset styles top		
+		}	// end reset styles top
 
 		if ( isset( $_POST['fscf_reset_styles_left'] ) ) {
 			$style_resets_arr = array(
 				//'border_enable'			 => 'false',
-				
+
 				// reset labels on left
-				
+
 				// Alignment DIVs
 				'form_style'			 => 'width:655px;', // how wide is the form DIV
                 'left_box_style'         => 'float:left; width:450px;',   // left box DIV, container for vcita
@@ -3630,14 +3630,14 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
                 'field_prefollow_style'  => 'clear:left; float:left; margin-right:10px;',   // field pre follow
 		        'field_follow_style'     => 'float:left; padding-left:10px;',   // field follow
 				'title_style'			 => 'width:138px; float:left; clear:left; text-align:right; padding-top:8px; padding-right:10px;', // Input labels alignment DIV
-				'field_div_style'		 => 'text-align:left; float:left; padding-top:10px;', // Input fields alignment DIV 
-				'captcha_div_style_sm'	 => 'float:left; width:162px; height:50px; padding-top:5px;', // Small CAPTCHA DIV 
-				'captcha_div_style_m'	 => 'float:left; width:362px; height:65px; padding-top:5px;', // Large CAPTCHA DIV 
+				'field_div_style'		 => 'text-align:left; float:left; padding-top:10px;', // Input fields alignment DIV
+				'captcha_div_style_sm'	 => 'float:left; width:162px; height:50px; padding-top:5px;', // Small CAPTCHA DIV
+				'captcha_div_style_m'	 => 'float:left; width:362px; height:65px; padding-top:5px;', // Large CAPTCHA DIV
 			    'captcha_image_style'    => 'border-style:none; margin:0; padding:0px; padding-right:5px; float:left;', // CAPTCHA image alignment
-			    'captcha_reload_image_style' => 'border-style:none; margin:0; padding:0px; vertical-align:bottom;', // CAPTCHA reload image alignment				
+			    'captcha_reload_image_style' => 'border-style:none; margin:0; padding:0px; vertical-align:bottom;', // CAPTCHA reload image alignment
 				'submit_div_style'		 => 'padding-left:146px; float:left; clear:left; text-align:left; padding-top:15px;', // Submit DIV
 			    'border_style'           => 'border:1px solid black; width:99%; max-width:450px; padding:10px;', // style of the fieldset box (if enabled)
-				
+
 			);
 
 			// reset left styles feature
@@ -3649,29 +3649,29 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		if ( isset( $_POST['fscf_reset_styles_labels'] ) ) {
 			$style_resets_arr = array(
 				'border_enable'			 => 'false',
-				
+
 				// reset labels only
-				
+
 				// Style of labels, fields and text
 				'required_style'		 => 'text-align:left;', // required field indicator
-                'required_text_style'    => 'text-align:left;',   // required field text 				
-			    'hint_style'             => 'font-size:x-small; font-weight:normal;', // small text hints like please enter your email again 
+                'required_text_style'    => 'text-align:left;',   // required field text
+			    'hint_style'             => 'font-size:x-small; font-weight:normal;', // small text hints like please enter your email again
 				'error_style'			 => 'text-align:left; color:red;', // Input validation messages
                 'redirect_style'         => 'text-align:left;', // Redirecting message
 			   	'fieldset_style'         => 'border:1px solid black; width:97%; max-width:500px; padding:10px;', // style of the fieldset box (for fields)
-                'label_style'			 => 'display:inline;', // Field labels 
+                'label_style'			 => 'display:inline;', // Field labels
   			    'option_label_style'     => 'display:inline;', // Options labels
-				
-				'field_style'			 => 'text-align:left; margin:0; width:99%; max-width:250px;', // Input text fields  (out of place here?)  
+
+				'field_style'			 => 'text-align:left; margin:0; width:99%; max-width:250px;', // Input text fields  (out of place here?)
 				'captcha_input_style'	 => 'text-align:left; margin:0; width:50px;', // CAPTCHA input field
- 			    'textarea_style'         => 'text-align:left; margin:0; width:99%; max-width:250px; height:120px;', // Input Textarea 
+ 			    'textarea_style'         => 'text-align:left; margin:0; width:99%; max-width:250px; height:120px;', // Input Textarea
 				'select_style'			 => 'text-align:left;',	// Input Select
  			    'checkbox_style'         => 'width:22px; height:32px;', // Input checkbox
                 'radio_style'            => 'width:22px; height:32px;', // Input radio
                 'placeholder_style'      => 'opacity:0.6; color:#333333;', // placeholder style
 
-				'button_style'			 => 'cursor:pointer; margin:0;', // Submit button 
-				'reset_style'			 => 'cursor:pointer; margin:0;', // Reset button 
+				'button_style'			 => 'cursor:pointer; margin:0;', // Submit button
+				'reset_style'			 => 'cursor:pointer; margin:0;', // Reset button
 				'vcita_button_style'     => 'text-decoration:none; display:block; text-align:center; background:linear-gradient(to bottom, #ed6a31 0%, #e55627 100%); color:#fff !important; padding:10px;', // vCita button
                 'vcita_div_button_style' => 'border-left:1px dashed #ccc; margin-top:25px; height:50px; padding:8px 20px;', // vCita button div box
 				'powered_by_style'		 => 'font-size:x-small; font-weight:normal; padding-top:5px; text-align:center;', // the "powered by" link
@@ -3684,7 +3684,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 				$text[$key] = $val;
 			}
 		}	// end reset styles left
-		
+
 		// List of all checkbox settings names (except for checkboxes in fields)
 		$checkboxes = array ( 'email_from_enforced', 'preserve_space_enable', 'double_email',
 			 'name_case_enable' , 'sender_info_enable', 'domain_protect', 'email_check_dns', 'email_check_easy',
@@ -3717,7 +3717,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 				else $text[$key] = strip_tags( $value );
 			}
 		}
-		
+
 		// Process contact form fields
 		$slug_list = $fscf_special_slugs;
 		// The $special_slugs list is also used in FSCF_Display::get_query_parms()
@@ -3798,7 +3798,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 					$slug_changed = true;
 				} else if ( empty(self::$form_options['fields'][$key]['slug']) || ( $field['slug'] != self::$form_options['fields'][$key]['slug'] ) ) {
 					// The slug has changed, so sanitize it
-                    
+
                     // this line croaked on some chinese characters
 				    //$field['slug'] = substr( urldecode(self::sanitize_slug_with_dashes(remove_accents($field['slug']))), 0, FSCF_MAX_SLUG_LEN );
 
@@ -3852,7 +3852,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 		}	// end foreach (Process fields)
 
 		$text = self::vcita_update_details($text);
-		
+
 		FSCF_Util::unencode_html($text);
 
 		// Update the query args if necessary
@@ -3934,7 +3934,7 @@ if (!function_exists('sicf_ctct_admin_form')) { // skip if the plugin is already
 				$numb = 1;
 			}
 		} // end while
-		
+
 		return($slug);
 	}
 

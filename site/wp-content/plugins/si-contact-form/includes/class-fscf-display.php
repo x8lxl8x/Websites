@@ -411,15 +411,15 @@ $string .= '
 			$string .= '      <div id="fscf_form_error' . self::$form_id_num . '" ' . self::get_this_css('error_style') . ">\n";
 			$string .= (self::$form_options['error_correct'] != '') ? self::$form_options['error_correct'] : __( 'Please make corrections below and try again.', 'si-contact-form' );
 			$string .= "\n    </div>\n";
-			
+
 			// Print errors that appear at the top of the form
 			$string .= self::echo_if_error("fscf_attach_dir$frm_id");
 			$string .= self::echo_if_error('akismet');
 		}
-		
+
 		// Get the email-to list
 		self::$contacts = self::get_contact_list(self::$form_id_num, self::$form_options['email_to']);
-		
+
 		if ( empty( self::$contacts ) ) {	// was $ctf_contacts
 			$string .= '
 		<div id="fscf_form_error_email' . self::$form_id_num . '" ' . self::get_this_css('error_style') . '>' . __( 'ERROR: Misconfigured email address in options.', 'si-contact-form' )
@@ -511,10 +511,10 @@ $string .= '
 		// Create a list of follow values for fields
 		$field_follow = array();
 		foreach ( self::$form_options['fields'] as $key => $field ) {
-			if ( 'true' != $field['disable'] ) 
+			if ( 'true' != $field['disable'] )
 				$field_follow[] = $field['follow'];
 		}
-		
+
 		$fld_cnt = 0;
 		$fields_in_use = array();
 		foreach ( self::$form_options['fields'] as $key => $field ) {
@@ -546,7 +546,7 @@ $string .= '
                     if ( ( isset($field_follow[$fld_cnt+1] ) && $field_follow[$fld_cnt+1] == 'true' )
 						// Added by Ken Carlson for displaying name parts inline
 						|| ( FSCF_NAME_FIELD == $field['standard'] && 'name' != self::$form_options['name_format'] && 'true' == $field['inline'] )
-                      || ( self::$form_options['vcita_scheduling_button'] == 'true' && self::is_vcita_activated() 
+                      || ( self::$form_options['vcita_scheduling_button'] == 'true' && self::is_vcita_activated()
                        ) )
 						  $string .= self::get_this_css('field_prefollow_style').'>'; // narrow
 					   else
@@ -600,12 +600,12 @@ $string .= '
 					   $string .=   "</fieldset>\n";
 					$open_fieldset = false;
 					break;
-					
+
 				case 'hidden' :
 					$string .= '      <input type="hidden" name="' . $field['slug'] . '" value="'
-						. esc_attr(self::$form_content[$field['slug']]) . '" />' . "\n";					
+						. esc_attr(self::$form_content[$field['slug']]) . '" />' . "\n";
 					break;
-				
+
 				case 'password' :
 					$string .= '    <div '.self::get_this_css('field_div_style').'>'.self::echo_if_error( $field['slug'] ) . "\n"
 						. '      <input ';
@@ -623,17 +623,17 @@ $string .= '
                     }
 					$string .= " />\n    </div>\n";
 					break;
-				
+
 				case 'text':
 				case 'email':
 				case 'url':
 					$string .= self::display_field_text($key, $field);
 					break;
-				
+
 				case 'textarea':
 					$string .= self::display_field_textarea($key, $field);
 					break;
-				
+
 				case 'select' :
 				case 'select-multiple':
 					$string .= self::display_field_select($key, $field);
@@ -649,14 +649,14 @@ $string .= '
 					$string .= self::display_field_date($key, $field);
 					$date_fields[] = $key;
 					break;
-				
+
 				case 'time':
 					$string .= self::display_field_time($key, $field);
 					break;
-				
+
 				case 'attachment':
 					$string .= self::display_field_attachment($key, $field);
-					break;				
+					break;
 			}	// end switch
 
 			if ( 'fieldset' <> $field['type'] && 'fieldset-close' <> $field['type'] && 'hidden' <> $field['type'] ) {
@@ -667,7 +667,7 @@ $string .= '
 			if ( $open_div ) {
 				$string .= "  </div>\n";	// close field div
 			}
-			
+
 		} // end foreach (go through fields)
 
         // action hook for form display after fields
@@ -677,9 +677,9 @@ $string .= '
 		if ( count($date_fields) > 0 )
 			self::setup_calendar($date_fields);
 
-		
+
 		// ********** Display stuff at the bottom of form **********
-		
+
 		// close final outer container for field and follow groups
 		if ( $open_div ) {
 			$string .= '</div>
@@ -726,7 +726,7 @@ $string .= '
           $string .= ' onclick="this.disabled=true; this.value=\''.$msg.'\'; this.form.submit();" ';
         }
 		$string .= '/> ';
-		
+
 		if ( !self::$contact_error && self::$form_options['enable_reset'] == 'true' ) {
 			$string .= '<input type="reset" id="fscf_reset' . self::$form_id_num . '" ' . self::get_this_css('reset_style') . ' value="';
 			$string .= (self::$form_options['title_reset'] != '') ? esc_attr( self::$form_options['title_reset'] ) : esc_attr( __( 'Reset', 'si-contact-form' ) );
@@ -795,7 +795,7 @@ $string .= '
 
 		return($string);
 	}	// end function display_form()
-	
+
 	static function display_name($key, $field) {
 		// Returns the code to display the name field on the form
 		global $current_user, $user_ID;
@@ -917,7 +917,7 @@ $string .= '    </div>
         if($field['attributes'] != '')
 			  $string .= ' '.$field['attributes'];
         if($auto_fill) //auto form fill logged in name and email
-              $string .= ' readonly="readonly"';
+              $string .= ' ';
 if ( 'true' == $field['placeholder'] && $field['default'] != '') {
    $string .= ' placeholder="'.esc_attr($field['default']).'"';
  self::$placeholder = 1;
@@ -1002,7 +1002,7 @@ $string .= '    </div>
 		return($string);
 
 	}	// end function display_name()
-	
+
 	static function display_email($key, $field) {
 		global $current_user, $user_ID;
 		$string = '';
@@ -1058,7 +1058,7 @@ $string .= '      <label ';
         if($field['attributes'] != '')
 				  $string .= ' '.$field['attributes'];
         if($auto_fill) //auto form fill logged in name and email
-              $string .= ' readonly="readonly"';
+              $string .= ' ';
          if ( 'true' == $field['placeholder'] && $email_default != '') {
             $string .= ' placeholder="'.esc_attr($email_default).'"';
             self::$placeholder = 1;
@@ -1085,7 +1085,7 @@ $string .= '      <label ';
         if($field['attributes'] != '') // XXX same as email 1 though
 					  $string .= ' '.$field['attributes'];
         if($auto_fill) //auto form fill logged in name and email
-              $string .= ' readonly="readonly"';
+              $string .= ' ';
          if ( 'true' == $field['placeholder'] && $email2_default != '') {
               $string .= ' placeholder="'.esc_attr($email2_default).'"';
               self::$placeholder = 1;
@@ -1146,7 +1146,7 @@ $string .= "    </div>";
 
 		return($string);
 	}	// end function display_field_text
-	
+
 	static function display_field_textarea($key, $field) {
 		$string = '';
 
@@ -1189,10 +1189,10 @@ $string .= "    </div>\n    <div " . self::get_this_css('field_div_style') . '>'
 			}
 		return($string);
 	}
-	
+
 	static function display_field_select($key, $field) {
 		$string = '';
-		
+
 		// Get the options list
 		$opts_array = explode("\n",$field['options']);
 		$frm_id = self::$form_id_num;
@@ -1220,7 +1220,7 @@ $string .= "    </div>";
 			// Check for subject_id parm for backward compatibility
 			if ( 0 == count(self::$form_content[$field['slug']]) && '' != self::$form_content['subject_id'])
 				self::$form_content[$field['slug']][] = self::$form_content['subject_id'];
-		}		
+		}
 
 		$mult = ( 'select-multiple' == $field['type'] ) ? ' multiple="multiple"' : '';
 		$string .= "\n    <div ".self::get_this_css('field_div_style').'>'.self::echo_if_error( $field['slug'] )
@@ -1258,11 +1258,11 @@ $string .= "    </div>";
 
 		return($string);
 	}	// end function display_field_select()
-	
+
 	static function display_field_checkbox($key, $field) {
 		// Displays checkbox, checkbox-multiple, and radio field types
 		$string = '';
-	
+
 		// Get the options list
 		$opts_array = explode("\n",$field['options']);
 		if ( '' == $opts_array[0] ) {
@@ -1325,12 +1325,12 @@ $string .= "    </div>";
 			}
 
 			if ( 'checkbox-multiple' == $field['type'] ) {
-				if ( count(self::$form_content[$field['slug']]) > 0 
+				if ( count(self::$form_content[$field['slug']]) > 0
 					&& in_array($opt_cnt, self::$form_content[$field['slug']]) ) {
 					$string .= ' checked="checked"';
 					}
 			} else if ( $opt_cnt == self::$form_content[$field['slug']] ) {
-				$string .= ' checked="checked"';			
+				$string .= ' checked="checked"';
 			}
             // is this key==value set? Just display the value
             if ( preg_match('/^(.*)(==)(.*)$/', $opt, $matches) ) {
@@ -1414,7 +1414,7 @@ $string .= "    </div>";
 
 	static function display_field_attachment($key, $field) {
 		$string = '';
-		
+
 		if ( self::$form_options['php_mailer_enable'] != 'php' ) {
 			$string .= "\n    <div " . self::get_this_css('field_div_style') . '>' . self::echo_if_error( $field['slug'] )
 				. "\n      <input " . self::get_this_css('field_style') . ' type="file" id="fscf_field'
@@ -1434,11 +1434,11 @@ $string .= "    </div>";
 			}
 			self::$printed_tooltip_filetypes++;
 			$string .= "    </div>\n";
-		}		
+		}
 
 		return($string);
 	}
-	
+
 	static function setup_calendar($date_fields) {
 		// Set up the popup calendar display for date fields
 
@@ -1490,7 +1490,7 @@ $string .= "    </div>";
 
 	static function display_field_time($key, $field) {
 		$string = '';
-		
+
 		// the time drop down list array will be made automatically by this code
         $string .= "\n    <div " . self::get_this_css('field_div_style') . '>' . self::echo_if_error( $field['slug'] )
 			. "\n      <select ";
@@ -1535,7 +1535,7 @@ $string .= "    </div>";
 			$string .= ' id="fscf_field' . self::$form_id_num . '_' . $key . 'ap" name="' . $field['slug'] . '[ap]">' . "\n";
 			$selected = '';
 			// am/pm
-            $string .= '        <option value=""></option>' . "\n"; 
+            $string .= '        <option value=""></option>' . "\n";
 			foreach ( array( esc_html( __( 'AM', 'si-contact-form' ) ), esc_html( __( 'PM', 'si-contact-form' ) ) ) as $k ) {
 				if ( self::$form_content[$field['slug']]['ap'] != '' ) {
 					if ( self::$form_content[$field['slug']]['ap'] == "$k" ) {
@@ -1551,37 +1551,37 @@ $string .= "    </div>";
 
 		return($string);
 	}	// end function display_field_time()
-	
-	
+
+
 	static function get_contact_list($frm_id, $email_to) {
 		// Returns a list of email contacts for display
 		// $email_to = email to list from form settings
-		
+
 		if ( ! self::$global_options )
 			self::$global_options = FSCF_Util::get_global_options ( );
-		
+
 		$contacts = array();
 		$contacts[] = '';	// dummy entry to take up key 0
 
-		// Check for a shortcode mail-to value.  Allowed shortcode email_to: 
+		// Check for a shortcode mail-to value.  Allowed shortcode email_to:
 		//    Webmaster,user1@example.com (must have name,email)
 		// multiple emails allowed
 		//    Webmaster,user1@example.com;user2@example.com
 
-		if (self::$global_options['enable_php_sessions'] == 'true') { // this feature only works when PHP sessions are enabled		
+		if (self::$global_options['enable_php_sessions'] == 'true') { // this feature only works when PHP sessions are enabled
 		  if ( ! empty($_SESSION["fsc_shortcode_email_to_$frm_id"]) &&
                preg_match( "/,/", $_SESSION["fsc_shortcode_email_to_$frm_id"]  ) ) {
 				list($key, $value) = preg_split( '#(?<!\\\)\,#', $_SESSION["fsc_shortcode_email_to_$frm_id"] ); //string will be split by "," but "\," will be ignored
 				$key = trim( str_replace( '\,', ',', $key ) ); // "\," changes to ","
 				$value = trim( str_replace( ';', ',', $value ) ); // ";" changes to ","
 				if ( $key != '' && $value != '' ) {
-					$contacts[] = array( 'CONTACT' => FSCF_Util::clean_input($key), 
+					$contacts[] = array( 'CONTACT' => FSCF_Util::clean_input($key),
 										 'EMAIL'   => FSCF_Util::clean_input($value) );
 				}
 		  } else {
              unset($_SESSION["fsc_shortcode_email_to_$frm_id"]);
           }
-        }				
+        }
 
 		if ( count($contacts) == 1 ) {
 			// Nothing from shortcode, so generate the mail-to list from the settings.
@@ -1632,11 +1632,11 @@ $string .= "    </div>";
 				} // end if (is_array($ctf_ct_arr) ) {
 			} // end else
 		} // end outer if
-		
+
 		unset($contacts[0]); // remove dummy entry.. the array keys now start with 1
 		return($contacts);
 	}	// end function get_contact_list()
-	
+
 	static function convert_css( $string ) {
     if ( preg_match( "/^style=\"(.*)\"$/i", $string, $matches ) ) {
 			return 'style="' . esc_attr( $matches[1] ) . '"';
@@ -1646,13 +1646,13 @@ $string .= "    </div>";
 		}
 		return 'style="' . esc_attr( $string ) . '"';
 	}	// end function convert_css
-		
+
 	static function get_var($form_id_num,$name) {
 		// Gets field value, if any, from query parm
 		$value = (isset( $_GET["$form_id_num$name"])) ? FSCF_Util::clean_input($_GET["$form_id_num$name"]) : '';
 		return $value;
 	}
-	
+
 	static function get_query_parms() {
 		// Check for query arguements, and store them in self::$form_content
 		// If nothing is set by query, put in the default, if one exists
@@ -1660,7 +1660,7 @@ $string .= "    </div>";
 
 		// initialize vars
 		self::$have_attach = '';
-		
+
 		// Get any field values from query parms
 		// Get special fields
         // $special_slugs = array( 'f_name', 'm_name', 'mi_name', 'l_name', 'email2', 'mailto_id', 'subject_id' );
@@ -1705,7 +1705,7 @@ $string .= "    </div>";
 
 		// XXX Might need to check for English standard field names, e.g. 'name', as well as the actual field name,
 		// which might be translated.  If so, set the field name element to the entry for uame, and unset the name element
-		
+
 		// Get regular fields
 		foreach (self::$form_options['fields'] as $key => $field ) {
 			if ( 'true' == $field['disable'] ) continue;
@@ -1827,12 +1827,12 @@ $string .= "    </div>";
 					list($key, $value) = explode( "=", $line );
 					$key = trim( $key );
 					$value = trim( $value );
-					if ( $key != '' && $value != '' ) 
+					if ( $key != '' && $value != '' )
 						$hidden_fields[$key] = $value;
 				}
 			}
 		}
-		
+
 		// Save the hidden fields in session for use in processing
 		if ( ! empty( $hidden_fields ) )
 			$_SESSION["fsc_shortcode_hidden_$frm_id"] = $hidden_fields;
@@ -1841,7 +1841,7 @@ $string .= "    </div>";
 
 		return($hidden_fields);
 	}  // end function get_hidden_fields()
-	
+
 	static function echo_if_error( $this_error ) {
 		// shows contact form errors
 		// Settings errors begin with fscf . $form_num (always shown)
@@ -1915,7 +1915,7 @@ $string .= "    </div>";
 	static function is_captcha_enabled($frm_num) {
 		// See if captcha is enabled for this user and this form
 		// Returns true or false
-		
+
 		if ( ! self::$form_options )
 			self::$form_options = FSCF_Util::get_form_options ( $frm_num, $use_defaults = true );
 
@@ -1935,7 +1935,7 @@ $string .= "    </div>";
 		}
 		return ($captcha_enabled);
 	}  // end function is_captcha_enabled()
-	
+
 	static function display_captcha() {
 		// this function adds the captcha to the contact form
 
@@ -2176,7 +2176,7 @@ if (!empty(self::$form_options['success_page_html'])) {
      //filter hook for thank_you_message
 	  return apply_filters( 'si_contact_thank_you_message', $ctf_thank_you,  self::$form_id_num);
 	}
-	
+
 	static function set_form_error($fld, $msg) {
 		// Sets a form error for field $fld with message $msg
 		// This is called from FSCF_Process class functions
@@ -2237,7 +2237,7 @@ if (!empty(self::$form_options['success_page_html'])) {
 	  return($string);
   }	// end function display_vcita_scheduler_button
 
-	
+
 }  // end class FSCF_Display
 
 // end of file
