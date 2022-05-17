@@ -20,12 +20,6 @@ $page_content   = "<h1>{$page_title}</h1>\n\n";
 
 # https://www.radio-uk.co.uk/
 
-$array_news_pl =
-[
-    ['24.pl'             , 'https://player.polskieradio24.pl/anteny/pr24'                         ]
-  , ['TOK FM'            , 'http://radiostream.pl/tuba10-1.mp3'                                   ]
-];
-
 $array_news_en =
 [
     ['Skynews'           , 'https://video.news.sky.com/snr/news/snrnews.mp3'                       ]
@@ -43,12 +37,6 @@ $array_news_fr =
   , ['BFM Business'      , 'https://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.aggregator=unknow_from_dvmr']
   , ['Europe 1'          , 'https://stream.europe1.fr/europe1.mp3?aw_0_1st.playerid=lgrdrnwsradio-en-lignefr']
   , ['RTL'               , 'https://streamer-01.rtl.fr/rtl-1-44-128?listen=webDQcCCwwIBwMFBgUABAwDDg']
-];
-
-$array_news_it =
-[
-    ['RAI Radio 1'       , 'https://icestreaming.rai.it/1.mp3'                          ]
-  , ['Radio Radicale.it' , 'http://livemp3.radioradicale.it/live.mp3'                   ]
 ];
 
 $array_news_bg =
@@ -158,13 +146,12 @@ function set_podcats($url_source, $div_title, $div_number)
 
 set_news($array_news_en       , 'News - English'                      , '01');
 set_news($array_news_bg       , 'Новини - Български'                  , '02');
-#set_news($array_news_pl       , 'Wiadomości - Polski'                 , '03');
-#set_news($array_news_fr       , 'Actualites - Français'               , '04');
 set_bnt($url_bnt              , 'БНТ-DATE'                            , '03');
-set_podcats($url_podcasts_01  , 'Podcasts - Bloomberg Businessweek'   , '04');
-set_podcats($url_podcasts_02  , 'Podcasts - Bloomberg Surveillance'   , '05');
-set_podcats($url_podcasts_03  , 'Podcasts - Financial Times'          , '06');
-set_podcats($url_podcasts_04  , 'Podcasts - The Economist'            , '07');
+set_news($array_news_fr       , 'Actualites - Français'               , '04');
+set_podcats($url_podcasts_01  , 'Podcasts - Bloomberg Businessweek'   , '05');
+set_podcats($url_podcasts_02  , 'Podcasts - Bloomberg Surveillance'   , '06');
+set_podcats($url_podcasts_03  , 'Podcasts - Financial Times'          , '07');
+set_podcats($url_podcasts_04  , 'Podcasts - The Economist'            , '08');
 
 #----------------------------------------------------------------------------------------------------
 
