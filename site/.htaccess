@@ -203,8 +203,11 @@ Deny from 183.6.159.90
 Deny from 185.93.180.172
 Deny from 185.104.186.
 Deny from 185.117.118.93
+Deny from 185.210.143.77
 Deny from 185.212.170.
 Deny from 185.216.32.212
+Deny from 185.220.101.6
+Deny from 185.220.100.243
 Deny from 185.230.125.
 Deny from 188.50.215.211
 Deny from 188.126.73.198
