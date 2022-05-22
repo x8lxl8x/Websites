@@ -52,8 +52,8 @@ $forex_link = 'https://www.widgets.investing.com/live-currency-cross-rates?theme
 
 $forex_items =
 [
-    ['EUR/USD',  '1']
-  , ['USD/CHF',  '4']
+    ['USD/CHF',  '4']
+  , ['EUR/USD',  '1']
 #  , ['GBP/USD',  '2']
 ];
 
@@ -64,8 +64,8 @@ $margins_link = 'https://www.interactivebrokers.ie/en/index.php?f=39020&hm=eu&ex
 $margins_items =
 [
     'USD'
-  , 'EUR'
   , 'CHF'
+  , 'EUR'
 #  , 'GBP'
 ];
 
@@ -76,8 +76,8 @@ $benchmarks_link = 'https://www.interactivebrokers.ie/en/index.php?f=46789&p=i';
 $benchmarks_items =
 [
     'USD'
-  , 'EUR'
   , 'CHF'
+  , 'EUR'
 #  , 'GBP'
 ];
 
@@ -88,16 +88,16 @@ $interests_link = 'https://www.interactivebrokers.ie/en/index.php?f=46782&p=m';
 $interests_items =
 [
     'USD'
-  , 'EUR'
   , 'CHF'
+  , 'EUR'
 #  , 'GBP'
 #  , 'ZAR'
 ];
 
 $cfds_pairs =
 [
-    'EUR.USD'
-  , 'USD.CHF'
+    'USD.CHF'
+  , 'EUR.USD'
 #  , 'GBP.USD'
 #  , 'USD.ZAR'
 ];
