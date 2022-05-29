@@ -1,0 +1,120 @@
+## Liczebniki
+
+# Porządkowe
+
+[|
+|%[m|pierwszy]|1-ый|
+|%[m|pierwsza]|1-ая|
+|%[m|pierwsze]|1-ое|
+|]
+
+[|
+|%[m|zerowy   ]|0-ой|
+|%[m|pierwszy ]|1-ый|
+|%[m|drugi    ]|2-ый|
+|%[m|trzeci   ]|3-ый|
+|%[m|czwarty  ]|4-ый|
+|%[m|piąty    ]|5-ый|
+|%[m|szósty   ]|6-ый|
+|%[m|siódmy   ]|7-ый|
+|%[m|ósmy     ]|8-ый|
+|%[m|dziewiąty]|9-ый|
+|]
+
+[|
+|%[m|dziesiąty    ]|10-ый|
+|%[m|jedenasty    ]|11-ый|
+|%[m|dwunasty     ]|12-ый|
+|%[m|trzynasty    ]|13-ый|
+|%[m|czternasty   ]|14-ый|
+|%[m|piętnasty    ]|15-ый|
+|%[m|szesnasty    ]|16-ый|
+|%[m|siedemnasty  ]|17-ый|
+|%[m|osiemnasty   ]|18-ый|
+|%[m|dziewiętnasty]|19-ый|
+|]
+
+[|
+|%[m|dwudziesty pierwszy]|21-ый|
+|%[m|dwudziesta pierwsza]|21-ая|
+|%[m|dwudzieste pierwsze]|21-ое|
+|]
+
+[|
+|%[m|dwudziesty pierwszy ]|21|
+|%[m|dwudziesty drugi    ]|22|
+|%[m|dwudziesty trzeci   ]|23|
+|%[m|dwudziesty czwarty  ]|24|
+|%[m|dwudziesty piąty    ]|25|
+|%[m|dwudziesty szósty   ]|26|
+|%[m|dwudziesty siódmy   ]|27|
+|%[m|dwudziesty ósmy     ]|28|
+|%[m|dwudziesty dziewiąty]|29|
+|]
+
+[|
+|%[m|dziesiąty        ]|10-ый|
+|%[m|dwudziesty       ]|20-ый|
+|%[m|trzydziesty      ]|30-ый|
+|%[m|czterdziesty     ]|40-ый|
+|%[m|pięćdziesiąty    ]|50-ый|
+|%[m|sześćdziesiąty   ]|60-ый|
+|%[m|siedemdziesiąty  ]|70-ый|
+|%[m|osiemdziesiąty   ]|80-ый|
+|%[m|dziewięćdziesiąty]|90-ый|
+|]
+
+[|
+|%[m|setny        ]|100-ый|
+|%[m|sto pierwszy ]|101-ый|
+|%[m|sto drugi    ]|102-ый|
+|%[m|sto trzeci   ]|103-ый|
+|%[m|sto czwarty  ]|104-ый|
+|%[m|sto piąty    ]|105-ый|
+|%[m|sto szósty   ]|106-ый|
+|%[m|sto siódmy   ]|107-ый|
+|%[m|sto ósmy     ]|108-ый|
+|%[m|sto dziewiąty]|109-ый|
+|%[m|sto dziesiąty]|110-ый|
+|]
+
+[|
+|%[m|dwieście jedenasty]|211-ый|
+|%[m|dwieście jedenasta]|211-ая|
+|%[m|dwieście jedenaste]|211-ое|
+|]
+
+[|
+|%[m|dwieście dziesiąty    ]|210-ый|
+|%[m|dwieście jedenasty    ]|211-ый|
+|%[m|dwieście dwunasty     ]|212-ый|
+|%[m|dwieście trzynasty    ]|213-ый|
+|%[m|dwieście czternasty   ]|214-ый|
+|%[m|dwieście piętnasty    ]|215-ый|
+|%[m|dwieście szesnasty    ]|216-ый|
+|%[m|dwieście siedemnasty  ]|217-ый|
+|%[m|dwieście osiemnasty   ]|218-ый|
+|%[m|dwieście dziewiętnasty]|219-ый|
+|]
+
+[|
+|%[m|trzysta dwudziesty          ]|320-ый|
+|%[m|trzysta dwudziesty pierwszy ]|321-ый|
+|%[m|trzysta dwudziesty drugi    ]|322-ый|
+|%[m|trzysta dwudziesty trzeci   ]|323-ый|
+|%[m|trzysta dwudziesty czwarty  ]|324-ый|
+|%[m|trzysta dwudziesty piąty    ]|325-ый|
+|%[m|trzysta dwudziesty szósty   ]|326-ый|
+|%[m|trzysta dwudziesty siódmy   ]|327-ый|
+|%[m|trzysta dwudziesty ósmy     ]|328-ый|
+|%[m|trzysta dwudziesty dziewiąty]|329-ый|
+|]
+
+[|
+|%[m|tysięczny                                 ]|1000-ый|
+|%[m|tysiąc pierwszy                           ]|1001-ый|
+|%[m|dwutysięczny                              ]|2000-ый|
+|%[m|dwa tysiące osiemnasty                    ]|2018-ый|
+|%[m|trzytysięczny                             ]|3000-ый|
+|%[m|trzy tysiące czterysta trzydziesty czwarty]|3434-ый|
+|]

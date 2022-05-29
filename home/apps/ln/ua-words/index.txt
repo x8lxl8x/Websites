@@ -1,0 +1,6 @@
+<span class='clIndex'>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Слова&varAppArea=ln&varAppDir=ua-words&varFileName=01.txt'>Питання</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Слова&varAppArea=ln&varAppDir=ua-words&varFileName=02.txt'>Тиждень</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Слова&varAppArea=ln&varAppDir=ua-words&varFileName=03.txt'>Miсяцi</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Слова&varAppArea=ln&varAppDir=ua-words&varFileName=04.txt'>Правильна мова</a><br>
+</span>
