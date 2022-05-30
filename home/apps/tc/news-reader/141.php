@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "The Conversation - Science",
-  "media_url"       => "https://theconversation.com/fr/technologie",
+  "media_name"      => "The Conversation - Politique",
+  "media_url"       => "https://theconversation.com/fr/politique",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Gazeta.pl - Technologie",
-  "media_url"       => "https://next.gazeta.pl/next/0,150860.html#e=NavLink",
+  "media_name"      => "Gazeta.pl - Wiadomości",
+  "media_url"       => "https://wiadomosci.gazeta.pl/wiadomosci/0,114881.html#e=NavLink",
   "media_encode"    => "true",
   "media_encoding"  => "",
   "media_encoding"  => "ISO-8859-2",

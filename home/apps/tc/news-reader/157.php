@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "PAP Świat - Page 3",
-  "media_url"       => "https://www.pap.pl/swiat?page=2",
+  "media_name"      => "PAP Świat - Page 1",
+  "media_url"       => "https://www.pap.pl/swiat",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

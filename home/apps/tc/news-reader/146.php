@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Économie",
-  "media_url"       => "https://www.valeursactuelles.com/economie",
+  "media_name"      => "Valeurs Actuelles - Politique",
+  "media_url"       => "https://www.valeursactuelles.com/politique",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Dreuz.info - Analyses",
-  "media_url"       => "https://www.dreuz.info/category/analyses/",
+  "media_name"      => "Dreuz.info - International",
+  "media_url"       => "https://www.dreuz.info/category/international/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

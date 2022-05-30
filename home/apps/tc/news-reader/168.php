@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Dziennik.pl Najnowsze - Page 1",
-  "media_url"       => "https://www.dziennik.pl/artykuly",
+  "media_name"      => "Dziennik.pl - Opinie",
+  "media_url"       => "https://wiadomosci.dziennik.pl/opinie/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

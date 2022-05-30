@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "The Conversation - Économie",
-  "media_url"       => "https://theconversation.com/fr/economie",
+  "media_name"      => "The Conversation - International",
+  "media_url"       => "https://theconversation.com/fr/international",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
