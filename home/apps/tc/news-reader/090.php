@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - Europe",
-  "media_url"       => "https://www.breitbart.com/europe/",
+  "media_name"      => "Breitbart - Economy",
+  "media_url"       => "https://www.breitbart.com/economy/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Économie",
-  "media_url"       => "https://www.20minutes.fr/economie/",
+  "media_name"      => "20minutes.fr - Insolite",
+  "media_url"       => "https://www.20minutes.fr/insolite/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

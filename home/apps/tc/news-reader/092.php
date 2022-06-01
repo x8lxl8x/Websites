@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - News",
-  "media_url"       => "https://www.breitbart.com/news/",
+  "media_name"      => "Breitbart - Tech",
+  "media_url"       => "https://www.breitbart.com/tech/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

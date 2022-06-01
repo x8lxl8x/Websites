@@ -4,12 +4,12 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - World",
-  "media_url"       => "https://www.breitbart.com/world-news/",
+  "media_name"      => "Breitbart - Media",
+  "media_url"       => "https://www.breitbart.com/the-media/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
-  "module_body"     => "div[class=aList]",
+  "module_body"     => "section[class=aList]",
   "module_article"  => "article",
   "module_headline" => "h2 a",
 

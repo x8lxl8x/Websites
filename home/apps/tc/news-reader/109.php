@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Actualité",
-  "media_url"       => "https://www.20minutes.fr/actu-generale/",
+  "media_name"      => "20minutes.fr - By the Web",
+  "media_url"       => "https://www.20minutes.fr/high-tech/by-the-web/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

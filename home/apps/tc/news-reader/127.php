@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Sciences",
-  "media_url"       => "https://www.contrepoints.org/category/sciences-et-technologies",
+  "media_name"      => "Contrepoints - Edito",
+  "media_url"       => "https://www.contrepoints.org/category/edito",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

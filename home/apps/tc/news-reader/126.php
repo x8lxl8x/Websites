@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Société",
-  "media_url"       => "https://www.contrepoints.org/category/societe-2",
+  "media_name"      => "Contrepoints - Analyse",
+  "media_url"       => "https://www.contrepoints.org/cp-type/analyse",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

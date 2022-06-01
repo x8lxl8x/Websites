@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Breitbart - Politics",
-  "media_url"       => "https://www.breitbart.com/politics/",
+  "media_name"      => "Breitbart - Entertainment",
+  "media_url"       => "https://www.breitbart.com/entertainment/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
@@ -39,6 +39,7 @@ $config_array =
                     ["/<div id=\"PollyC\"(.*?)><\/div>/s", ""],
                     ["/ class=\"subheading\"/s", ""],
                     ["/<figure(.*?)><\/figure>/s", ""],
+                    ["/<div class=\"Attribution_container\">(.*)$/s", ""],
                     ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                   ],
 ];

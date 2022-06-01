@@ -4,8 +4,8 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Entertainment",
-  "media_url"       => "https://www.20minutes.fr/arts-stars/",
+  "media_name"      => "20minutes.fr - Desintox",
+  "media_url"       => "https://www.20minutes.fr/societe/desintox/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
