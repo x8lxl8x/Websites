@@ -4,6 +4,6 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "media",
 
-  "media_name"      => "20minutes.fr",
+  "media_name"      => "Polska Agencja Prasowa" ,
 ];
 ?>

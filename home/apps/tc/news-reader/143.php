@@ -1,50 +1,51 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "true",
+  "config_enabled"  => "false",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Monde",
-  "media_url"       => "https://www.valeursactuelles.com/monde",
+  "media_name"      => "Dreuz.info - International",
+  "media_url"       => "https://www.dreuz.info/category/international/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
-  "module_body"     => "body",
-  "module_article"  => "article",
+  "module_body"     => "div[class=post_area]",
+  "module_article"  => "div[class=post]",
   "module_headline" => "h2 a",
 
-  "article_body"    => "main",
-  "article_title"   => "h1",
-  "article_date"    => "time",
-  "article_author"  => "author",
+  "article_body"    => "div[class=main]",
+  "article_title"   => "div[class=singlepage-title] a",
+  "article_date"    => "div[class=author]",
+  "article_author"  => "div[class=date]",
 
   "clean_module"    =>  [
                     ["", ""],
                   ],
 
   "clean_article_pre"   =>  [
-                    ["/<div class=\"post__author\">(.*?)<a(.*?)>(.*?)<\/a>/s", "<author>Par $3</author>"],
-                    ["/<span>Mis à jour(.*?)span>/s", ""],
+                    ["/<div class=\"author\">(.*?)<a(.*?)>(.*?)<\/a>(.*?)<\/div>/s", "<div class=\"author\">$3</div><div class=\"date\">$4</div>"],
                   ],
 
   "clean_article_post"  => [
-                    ["/\t/s", " "],
-                    ["/^(.*)<article class=\"post\">/s", ""],
-                    ["/^(.*)<div class=\"post__excerpt gutenberg\">/s", ""],
-                    ["/<div class=\"post__metas\">(.*?)<\/div>/s", ""],
-                    ["/<div class=\"post__sharing\">(.*?)<\/div>/s", ""],
-                    ["/<time(.*?)time>/s", ""],
-                    ["/<\/body>(.*)$/s", ""],
-                    ["/<div class=\"qiota\">(.*)$/s", ""],
-                    ["/<!--(.*?)-->/s", ""],
-                    ["/<\/div>/s", ""],
+                    ["/<div class=\"wp-block-image\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"wp-block-media-text__content\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"wp-block-media-text(.*?)>(.*?)<\/div>/s", ""],
+                    ["/<aside(.*?)>(.*?)<\/aside>/s", ""],
+                    ["/<div class=\"mailpoet_form_popup_overlay\">(.*)$/s", ""],
+                    ["/^(.*?)<div class=\"content-single\">/s", "<div class=\"content-single\">"],
+                    ["/<div class=\"tags\">(.*)$/s", ""],
+                    ["/<em>Parce que Dreuz est(.*?)<\/em>/s", ""],
+                    ["/<p class=\"has-vivid-red-color has-text-color has-medium-font-size\">(.*?)<\/p>/s", ""],
+                    ["/<span class=\"has-inline-color has-vivid-red-color\">(.*?)<\/span>/s", ""],
+                    ["/<h(2|3) class=\"has-text-align-left\">(.*?)<\/h(2|3)>/s", "$2"],
+                    ["/<strong>(.*?)<\/strong>/s", "$1"],
+                    ["/<figure(.*?)>(.*?)<\/figure>/s", "$2"],
+                    ["/ (loading|width|height|alt|srcset|sizes|class)=\"(.*?)\"/s", ""],
+                    ["/<a(.*?)>(.*?)<\/a>/s", "$2"],
+                    ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                     ["/<div(.*?)>/s", ""],
-                    ["/<small><i>(.*?)<\/i><\/small>/s", ""],
-                    ["/<(\!DOCTYPE|\?xml|html|body)(.*?)>/s", ""],
-                    ["/<h3(.*?)>A&nbsp;LIRE&nbsp;<\/h3>/s", ""],
-                    ["/<span class=\"h3(.*?)span>/s", ""],
-                    ["/<a(.*?)><\/a>/s", ""],
-                    ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<br><a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
+                    ["/<\/div>/s", ""],
+                    ["/<!-- Composite Start -->(.*?)<!-- Composite End -->/s", ""],
                   ],
 ];
 ?>

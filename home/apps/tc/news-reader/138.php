@@ -1,47 +1,48 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "true",
+  "config_enabled"  => "false",
   "config_type"     => "link",
 
-  "media_name"      => "The Conversation - Économie",
-  "media_url"       => "https://theconversation.com/fr/economie",
+  "media_name"      => "Contrepoints - Culture",
+  "media_url"       => "https://www.contrepoints.org/category/cuturen",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
-  "module_body"     => "div[class=wrapper]",
-  "module_article"  => "article",
-  "module_headline" => "h2 a",
+  "module_body"     => "div[class*=article_ctn]",
+  "module_article"  => "div[class=cp_mp_ctn]",
+  "module_headline" => "div[class=cp_mp_info_ctn] h3 a",
 
-  "article_body"    => "div[class=grid-twelve large-grid-eleven]",
-  "article_title"   => "h1 strong",
-  "article_date"    => "time",
-  "article_author"  => "span[class*=author-name]",
+  "article_body"    => "article",
+  "article_title"   => "h1",
+  "article_date"    => "div[class=cp_small_date]",
+  "article_author"  => "div[class=author]",
 
   "clean_module"    =>  [
                     ["", ""],
                   ],
 
   "clean_article_pre"   =>  [
-                    ["", ""],
+                    ["/Publié le /s", ""],
+                    ["/header>(.*?)<div class=\"author\">(.*?)<\/div>/s", "header><div class=\"author\">$2</div>$1"],
+                    ["/<div class=\"author\">(.*?)<span>(.*?)<\/span>(.*?)<\/div>/s", "<div class=\"author\">$2</div>"],
+                    ["/<div class=\"author\">(.*?)<a(.*?)>(.*?)<\/a(.*?)<\/div>/s", "<div class=\"author\">$3</div>"],
                   ],
 
   "clean_article_post"  => [
-                    ["/topic-list\">(.*)$/s", "\">"],
-                    ["/<aside(.*?)aside>/s", ""],
-                    ["/<figure(.*?)>(.*?)<\/figure>/s", "$2"],
-                    ["/<figcaption(.*?)>(.*?)<\/figcaption>/s", "$2"],
-                    ["/<a(.*?)>(.*?)<\/a>/s", "$2"],
-                    ["/data-srcset=\"(.*?)\"/s", ""],
-                    ["/data-src=/s", "src="],
-                    ["/;w=(.*?)&amp;/s", ";w=600&amp;"],
-                    ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
-                    ["/<span class=\"source\">(.*?)<\/span>/s", ""],
+                    ["/^(.*?)header>/s", ""],
+                    ["/<div class=\"author\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"cp_opinion_info\">(.*?)<\/div>/s", ""],
+                    ["/<footer(.*?)$/s", ""],
+                    ["/<span class=\"cesis(.*?)span>/s", ""],
+                    ["/<span class=\"cp_(.*?)span>/s", ""],
+                    ["/<div class=\"cp_small_date\">(.*?)<\/div>/s", ""],
+                    ["/<p>&nbsp;(\s*?)<\/p>/s", ""],
                     ["/<div(.*?)>/s", ""],
                     ["/<\/div>/s", ""],
-                    ["/<span(.*?)>/s", ""],
-                    ["/<\/span>/s", ""],
-                    ["/<li><p>(.*?)<\/p><\/li>/s", "<li>$1</li>"],
+                    ["/<i class=\"cp_print fa-print\">(.*?)<\/i>/s", ""],
+                    ["/<!--(.*?)-->/s", ""],
+                    ["/<a(.*?)>(.*?)<\/a>/s", "$2"],
                   ],
 ];
 ?>

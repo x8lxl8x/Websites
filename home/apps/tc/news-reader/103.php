@@ -4,6 +4,6 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "theme",
 
-  "media_name"      => "Français",
+  "media_name"      => "Polski",
 ];
 ?>
