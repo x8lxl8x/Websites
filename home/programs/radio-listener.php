@@ -22,12 +22,16 @@ $page_content   = "<h1>{$page_title}</h1>\n\n";
 
 $array_news_en =
 [
-    ['Skynews'           , 'https://video.news.sky.com/snr/news/snrnews.mp3'                       ]
-  , ['News Radio UK'     , 'http://s1.rss-streaming.co.uk:8008/stream'                             ]
+    ['Voice of America'  , 'https://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3'       ]
+  , ['Times Radio'       , 'https://timesradio.wireless.radio/stream'                              ]
+  , ['npr'               , 'https://npr-ice.streamguys1.com/live.mp3'                              ]
+  , ['Fox News'          , 'https://streaming-ent.shoutcast.com/foxnews'                           ]
+  , ['Bloomberg'         , 'https://tunein.streamguys1.com/bloomberg991'                           ]
+  , ['Skynews'           , 'https://video.news.sky.com/snr/news/snrnews.mp3'                       ]
   , ['LBC News'          , 'http://media-ice.musicradio.com/LBC1152'                               ]
   , ['LBC'               , 'https://media-ssl.musicradio.com/LBCUK'                                ]
-  , ['Times Radio'       , 'https://timesradio.wireless.radio/stream'                              ]
-  , ['Bloomberg'         , 'https://tunein.streamguys1.com/bloomberg991'                           ]
+  , ['VoA Learning'      , 'https://av.voanews.com/clips/VLE/2022/05/03/20220503-003000-VLE122-program.mp3'       ]
+#
 ];
 
 $array_news_fr =

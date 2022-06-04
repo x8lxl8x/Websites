@@ -2,14 +2,28 @@
 # This file is distributed under the same license as the Plugins - Yoast SEO - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-03 08:20:55+0000\n"
+"PO-Revision-Date: 2022-05-31 12:15:45+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/3.0.0\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
 "Language: en_GB\n"
 "Project-Id-Version: Plugins - Yoast SEO - Stable (latest release)\n"
+
+#: src/integrations/admin/first-time-configuration-integration.php:116
+msgid "First-time configuration"
+msgstr "First-time configuration"
+
+#. translators: 1: Link start tag to the First time configuration tab in the
+#. General page, 2: Link closing tag.
+#: admin/views/tabs/tool/import-seo.php:99
+msgid "You should finish the %1$sfirst time configuration%2$s to make sure your SEO data has been optimized and you’ve set the essential Yoast SEO settings for your site."
+msgstr "You should finish the %1$sfirst time configuration%2$s to make sure your SEO data has been optimised and you’ve set the essential Yoast SEO settings for your site."
+
+#: admin/views/tabs/tool/import-seo.php:94
+msgid "Step 4: Go through the first time configuration"
+msgstr "Step 4: Go through the first time configuration"
 
 #: src/services/health-check/ryte-check.php:48
 msgid "Ryte"
@@ -120,7 +134,7 @@ msgstr "Select SEO plugin"
 msgid "The import can take a long time depending on your site's size."
 msgstr "The import can take a long time depending on your site's size."
 
-#: src/integrations/admin/installation-success-integration.php:101
+#: src/integrations/admin/installation-success-integration.php:100
 msgid "Installation Successful"
 msgstr "Installation successful"
 
@@ -134,73 +148,65 @@ msgid "The %s integration offers the option to track specific keyphrases and gai
 msgstr "The %s integration offers the option to track specific keyphrases and gain insights in their positions."
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:401
+#: src/integrations/admin/workouts-integration.php:312
 msgid "Activate %s"
 msgstr "Activate %s"
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:395
+#: src/integrations/admin/workouts-integration.php:306
 msgid "Update %s"
 msgstr "Update %s"
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:388
+#: src/integrations/admin/workouts-integration.php:299
 msgid "Renew %s"
 msgstr "Renew %s"
 
-#: src/integrations/admin/workouts-integration.php:330
+#: src/integrations/admin/workouts-integration.php:241
 msgid "Get help activating your subscription"
 msgstr "Get help activating your subscription"
 
 #. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
 #. page to update Premium, 3: Link closing tag.
-#: src/integrations/admin/workouts-integration.php:324
+#: src/integrations/admin/workouts-integration.php:235
 msgid "It looks like you’re running an outdated and unactivated version of %1$s, please activate your subscription in %2$sMyYoast%3$s and update to the latest version (at least 17.7) to gain access to our updated workouts section."
 msgstr "It looks like you’re running an outdated and unactivated version of %1$s, please activate your subscription in %2$sMyYoast%3$s and update to the latest version (at least 17.7) to gain access to our updated workouts section."
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:320
+#: src/integrations/admin/workouts-integration.php:231
 msgid "Activate your subscription of %s"
 msgstr "Activate your subscription of %s"
 
 #. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
 #. page to update Premium, 3: Link closing tag.
-#: src/integrations/admin/workouts-integration.php:311
+#: src/integrations/admin/workouts-integration.php:222
 msgid "It looks like you're running an outdated version of %1$s, please %2$supdate to the latest version (at least 17.7)%3$s to gain access to our updated workouts section."
 msgstr "It looks like you're running an outdated version of %1$s, please %2$supdate to the latest version (at least 17.7)%3$s to gain access to our updated workouts section."
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:308
+#: src/integrations/admin/workouts-integration.php:219
 msgid "Update to the latest version of %s"
 msgstr "Update to the latest version of %s"
 
-#: src/integrations/admin/workouts-integration.php:301
+#: src/integrations/admin/workouts-integration.php:212
 msgid "Renew your subscription"
 msgstr "Renew your subscription"
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:294
+#: src/integrations/admin/workouts-integration.php:205
 msgid "Accessing the latest workouts requires an updated version of %s (at least 17.7), but it looks like your subscription has expired. Please renew your subscription to update and gain access to all the latest features."
 msgstr "Accessing the latest workouts requires an updated version of %s (at least 17.7), but it looks like your subscription has expired. Please renew your subscription to update and gain access to all the latest features."
 
 #. translators: %s: expands to 'Yoast SEO Premium'.
-#: src/integrations/admin/workouts-integration.php:291
+#: src/integrations/admin/workouts-integration.php:202
 msgid "Renew your subscription of %s"
 msgstr "Renew your subscription of %s"
 
-#. translators: 1: Link start tag to the configuration workout, 2: Yoast SEO,
-#. 3: Link closing tag.
-#: src/integrations/admin/workouts-integration.php:235
-msgid "Get started quickly with the %1$s%2$s Configuration workout%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
-msgstr "Get started quickly with the %1$s%2$s Configuration workout%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
-
-#: admin/views/tabs/tool/import-seo.php:98
-msgid "You should complete the configuration workout, from the SEO &rarr; Workouts page, to make sure the most important settings for your site are correct and your SEO data has been optimized."
-msgstr "You should complete the configuration workout, from the SEO &rarr; Workouts page, to make sure the most important settings for your site are correct and your SEO data has been optimised."
-
-#: admin/views/tabs/tool/import-seo.php:94
-msgid "Step 4: Do the configuration workout"
-msgstr "Step 4: do the configuration workout"
+#. translators: 1: Link start tag to the first-time configuration, 2: Yoast
+#. SEO, 3: Link closing tag.
+#: src/integrations/admin/first-time-configuration-notice-integration.php:126
+msgid "Get started quickly with the %1$s%2$s First-time configuration%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
+msgstr "Get started quickly with the %1$s%2$s First-time configuration%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
 
 #: inc/class-wpseo-replace-vars.php:1458
 msgid "Current or first category title"
@@ -314,7 +320,7 @@ msgstr "The time it takes to actually cook the dish."
 msgid "Recipe cooking time"
 msgstr "Recipe cooking time"
 
-#: src/integrations/admin/workouts-integration.php:105
+#: src/integrations/admin/workouts-integration.php:94
 msgid "Workouts"
 msgstr "Workouts"
 
@@ -476,6 +482,8 @@ msgstr "A description of the recipe."
 msgid "Recipe description"
 msgstr "Recipe description"
 
+#: admin/views/redirects.php:22
+#: src/integrations/admin/crawl-settings-integration.php:141
 #: src/integrations/admin/social-templates-integration.php:251
 msgid "Unlock with Premium"
 msgstr "Unlock with Premium"
@@ -626,7 +634,7 @@ msgstr "The term is considered invalid. The following reason was given by WordPr
 msgid "The term could not be found."
 msgstr "The term could not be found."
 
-#: admin/class-yoast-form.php:971
+#: admin/class-yoast-form.php:971 js/dist/first-time-configuration.js:14
 msgid "This feature has been disabled since subsites never send tracking data."
 msgstr "This feature has been disabled, since sub-sites never send tracking data."
 
@@ -713,7 +721,7 @@ msgid "You can speed up your site and get insight into your internal linking str
 msgstr "You can speed up your site and get insight into your internal linking structure by letting us perform a few optimisations to the way SEO data is stored. "
 
 #: src/presenters/admin/indexing-notification-presenter.php:59
-#: js/dist/indexation.js:1 js/dist/workouts.js:4
+#: js/dist/first-time-configuration.js:3 js/dist/indexation.js:1
 msgid "Start SEO data optimization"
 msgstr "Start SEO data optimisation"
 
@@ -1406,6 +1414,7 @@ msgid "Personal info"
 msgstr "Personal info"
 
 #: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:52
+#: js/dist/first-time-configuration.js:5
 msgid "Organization name"
 msgstr "Organisation name"
 
@@ -1417,36 +1426,14 @@ msgstr "Choose whether the site represents an organisation or a person."
 msgid "Knowledge Graph & Schema.org"
 msgstr "Knowledge Graph & Schema.org"
 
-#: admin/views/tabs/social/accounts.php:102
-msgid "Organization social profiles"
-msgstr "Organisation social profiles"
-
-#. translators: 1: link tag to the relevant WPSEO admin page; 2: link close
-#. tag.
-#: admin/views/tabs/social/accounts.php:88
-msgid "To make your site represent a Company or Organization go to %1$sSearch Appearance%2$s and set Organization or Person to \"Organization\"."
-msgstr "To make your site represent a Company or Organisation go to %1$sSearch Appearance%2$s and set Organisation or Person to \"Organisation\"."
-
-#. translators: 1: link to edit user page.
-#: admin/views/tabs/social/accounts.php:82
-msgid "To change the social accounts used for your site, update the details for %1$s."
-msgstr "To change the social accounts used for your site, update the details for %1$s."
-
-#: admin/views/tabs/social/accounts.php:75
-msgid "That means that the form and information below is disabled, and not used."
-msgstr "That means that the form and information below is disabled, and not used."
-
-#: admin/views/tabs/social/accounts.php:73
-msgid "Your website is currently configured to represent a Person"
-msgstr "Your website is currently configured to represent a Person"
-
 #: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:35
 msgid "Organization or person"
 msgstr "Organisation or person"
 
 #: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:32
 #: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:38
-#: src/integrations/admin/configuration-workout-integration.php:346
+#: src/integrations/admin/first-time-configuration-integration.php:423
+#: src/integrations/admin/first-time-configuration-integration.php:436
 msgid "Organization"
 msgstr "Organisation"
 
@@ -1505,10 +1492,6 @@ msgstr "LinkedIn profile URL"
 msgid "Instagram profile URL"
 msgstr "Instagram profile URL"
 
-#: admin/views/tabs/social/accounts.php:64 js/dist/workouts.js:7
-msgid "Wikipedia URL"
-msgstr "Wikipedia URL"
-
 #: inc/class-my-yoast-api-request.php:141
 msgid "No JSON object was returned."
 msgstr "No JSON object was returned."
@@ -1522,7 +1505,7 @@ msgid "Outgoing internal links"
 msgstr "Outgoing internal links"
 
 #: admin/class-meta-columns.php:102 js/dist/block-editor.js:29
-#: js/dist/classic-editor.js:25 js/dist/dashboard-widget.js:15
+#: js/dist/classic-editor.js:25 js/dist/dashboard-widget.js:17
 #: js/dist/editor-modules.js:21 js/dist/elementor.js:29
 msgid "Keyphrase"
 msgstr "Keyphrase"
@@ -1623,20 +1606,23 @@ msgstr "Check Keyphrase Density"
 
 #: admin/views/tabs/network/features.php:53
 #: admin/views/tabs/network/integrations.php:62
+#: src/integrations/admin/crawl-settings-integration.php:123
 msgid "Disable"
 msgstr "Disable"
 
 #: admin/views/tabs/network/features.php:52
 #: admin/views/tabs/network/integrations.php:61
+#: src/integrations/admin/crawl-settings-integration.php:122
 msgid "Allow Control"
 msgstr "Allow Control"
 
 #. translators: %s expands to Yoast SEO
+#: admin/views/tabs/network/crawl-settings.php:24
 #: admin/views/tabs/network/features.php:24
 msgid "This tab allows you to selectively disable %s features for all sites in the network. By default all features are enabled, which allows site admins to choose for themselves if they want to toggle a feature on or off for their site. When you disable a feature here, site admins will not be able to use that feature at all."
 msgstr "This tab allows you to selectively disable %s features for all sites in the network. By default all features are enabled, which allows site admins to choose for themselves if they want to toggle a feature on or off for their site. When you disable a feature here, site admins will not be able to use that feature at all."
 
-#: admin/views/sidebar.php:29 js/dist/externals-components.js:11
+#: admin/views/sidebar.php:29 js/dist/externals-components.js:7
 msgid "Rank better with synonyms & related keyphrases"
 msgstr "Rank better with synonyms & related keyphrases"
 
@@ -1661,7 +1647,7 @@ msgstr "Remove keyphrase"
 msgid "Keyphrase:"
 msgstr "Keyphrase:"
 
-#: admin/class-yoast-form.php:967
+#: admin/class-yoast-form.php:967 js/dist/first-time-configuration.js:14
 msgid "This feature has been disabled by the network admin."
 msgstr "This feature has been disabled by the network admin."
 
@@ -1687,9 +1673,9 @@ msgstr "Focus keyphrase not set."
 #: src/deprecated/admin/add-keyword-modal.php:47
 #: src/deprecated/admin/keyword-synonyms-modal.php:47
 #: src/deprecated/admin/multiple-keywords-modal.php:47
-#: js/dist/externals-components.js:19 js/dist/externals-components.js:29
+#: js/dist/externals-components.js:15 js/dist/externals-components.js:25
+#: js/dist/externals-components.js:27 js/dist/externals-components.js:29
 #: js/dist/externals-components.js:31 js/dist/externals-components.js:33
-#: js/dist/externals-components.js:35 js/dist/externals-components.js:37
 msgid "Get %s"
 msgstr "Get %s"
 
@@ -1720,7 +1706,7 @@ msgstr "%1$s Structured Data Blocks"
 #: src/deprecated/admin/add-keyword-modal.php:35
 #: src/deprecated/admin/keyword-synonyms-modal.php:35
 #: src/deprecated/admin/multiple-keywords-modal.php:35
-#: js/dist/externals-components.js:21
+#: js/dist/externals-components.js:17
 msgid "Great news: you can, with %s!"
 msgstr "Great news: you can, with %s!"
 
@@ -1732,7 +1718,7 @@ msgstr "Check links to this URL"
 msgid "Keyword research training"
 msgstr "Keyword research training"
 
-#: admin/pages/network.php:21
+#: admin/pages/network.php:36
 msgid "Restore Site"
 msgstr "Restore Site"
 
@@ -1785,7 +1771,7 @@ msgid "Not all required fields are given. Missing field %1$s"
 msgstr "Not all required fields are given. Missing field %1$s"
 
 #: src/deprecated/admin/keyword-synonyms-modal.php:32
-#: js/dist/externals-components.js:33
+#: js/dist/externals-components.js:29
 msgid "Would you like to add keyphrase synonyms?"
 msgstr "Would you like to add keyphrase synonyms?"
 
@@ -1993,15 +1979,15 @@ msgstr "Show All Content Types"
 msgid "Replaced with the normal title for an archive generated by WordPress"
 msgstr "Replaced with the normal title for an archive generated by WordPress"
 
-#: admin/views/tabs/tool/import-seo.php:118
+#: admin/views/tabs/tool/import-seo.php:119
 msgid "Clean"
 msgstr "Clean"
 
-#: admin/views/tabs/tool/import-seo.php:109
+#: admin/views/tabs/tool/import-seo.php:110
 msgid "Once you're certain your site is OK, you can clean up. This will remove all the original data."
 msgstr "Once you're certain your site is OK, you can clean up. This will remove all the original data."
 
-#: admin/views/tabs/tool/import-seo.php:107
+#: admin/views/tabs/tool/import-seo.php:108
 msgid "Step 5: Clean up"
 msgstr "Step 5: Clean up"
 
@@ -2072,7 +2058,7 @@ msgid "%s data not found."
 msgstr "%s data not found."
 
 #: admin/class-premium-upsell-admin-block.php:58 admin/views/sidebar.php:38
-#: js/dist/externals-components.js:15 js/dist/externals-components.js:25
+#: js/dist/externals-components.js:11 js/dist/externals-components.js:21
 msgid "24/7 email support"
 msgstr "24/7 email support"
 
@@ -2409,7 +2395,7 @@ msgid "The SEO analysis offers suggestions to improve the SEO of your text."
 msgstr "The SEO analysis offers suggestions to improve the SEO of your text."
 
 #: admin/views/class-yoast-feature-toggles.php:74
-#: js/dist/externals-components.js:37
+#: js/dist/externals-components.js:33
 msgid "SEO analysis"
 msgstr "SEO analysis"
 
@@ -2445,7 +2431,7 @@ msgstr "Latest blog posts on %1$s"
 msgid "Remove highlight from the text"
 msgstr "Remove highlight from the text"
 
-#: src/integrations/admin/workouts-integration.php:232
+#: src/integrations/admin/first-time-configuration-notice-integration.php:123
 msgid "First-time SEO configuration"
 msgstr "First-time SEO configuration"
 
@@ -2507,6 +2493,10 @@ msgstr "You cannot create a %s file."
 msgid "More information about %1$s"
 msgstr "More information about %1$s"
 
+#: src/integrations/admin/old-configuration-integration.php:39
+msgid "Old Configuration Wizard"
+msgstr "Old Configuration Wizard"
+
 #. translators: %s expands to the extension title
 #: admin/views/licenses.php:151 admin/views/licenses.php:255
 msgid "Manage your %s subscription on MyYoast"
@@ -2526,8 +2516,8 @@ msgstr "Mark the most important %1$s as 'cornerstone content' to improve your si
 #: src/deprecated/admin/add-keyword-modal.php:51
 #: src/deprecated/admin/keyword-synonyms-modal.php:51
 #: src/deprecated/admin/multiple-keywords-modal.php:51
-#: src/integrations/admin/workouts-integration.php:302
-#: src/integrations/admin/workouts-integration.php:331
+#: src/integrations/admin/workouts-integration.php:213
+#: src/integrations/admin/workouts-integration.php:242
 #: src/presenters/admin/help-link-presenter.php:75 js/dist/block-editor.js:63
 #: js/dist/externals/componentsNew.js:1 js/dist/externals/helpers.js:1
 msgid "(Opens in a new browser tab)"
@@ -2615,22 +2605,27 @@ msgstr "Readability score"
 #: src/deprecated/admin/add-keyword-modal.php:41
 #: src/deprecated/admin/keyword-synonyms-modal.php:41
 #: src/deprecated/admin/multiple-keywords-modal.php:41
-#: js/dist/externals-components.js:17 js/dist/externals-components.js:27
+#: js/dist/externals-components.js:13 js/dist/externals-components.js:23
 msgid "Other benefits of %s for you:"
 msgstr "Other benefits of %s for you:"
 
 #: admin/filters/class-cornerstone-filter.php:87
 #: admin/views/class-yoast-feature-toggles.php:90
-#: js/dist/externals-components.js:5
+#: js/dist/externals-components.js:1
 msgid "Cornerstone content"
 msgstr "Cornerstone content"
 
+#: src/integrations/admin/crawl-settings-integration.php:141
+msgid "Upgrade Premium"
+msgstr "Upgrade Premium"
+
 #: admin/class-premium-upsell-admin-block.php:56
-#: js/dist/externals-components.js:13 js/dist/externals-components.js:23
+#: js/dist/externals-components.js:9 js/dist/externals-components.js:19
 msgid "Superfast internal linking suggestions"
 msgstr "Superfast internal linking suggestions"
 
 #: admin/class-yoast-form.php:139 admin/class-yoast-form.php:144
+#: js/dist/first-time-configuration.js:3 js/dist/settings.js:14
 msgid "Save changes"
 msgstr "Save changes"
 
@@ -2639,7 +2634,7 @@ msgstr "Save changes"
 #: src/deprecated/admin/add-keyword-modal.php:50
 #: src/deprecated/admin/keyword-synonyms-modal.php:50
 #: src/deprecated/admin/multiple-keywords-modal.php:50
-#: js/dist/externals-components.js:19 js/dist/externals-components.js:29
+#: js/dist/externals-components.js:15 js/dist/externals-components.js:25
 msgid "1 year free support and updates included!"
 msgstr "1 year free support and updates included!"
 
@@ -2651,7 +2646,7 @@ msgid "The plugin %2$s changes your site's output and in doing that differentiat
 msgstr "The plugin %2$s changes your site's output and in doing that differentiates between search engines and normal users, a process that's called cloaking. We highly recommend that you disable it."
 
 #: admin/class-premium-upsell-admin-block.php:59 admin/views/sidebar.php:39
-#: js/dist/externals-components.js:15 js/dist/externals-components.js:25
+#: js/dist/externals-components.js:11 js/dist/externals-components.js:21
 msgid "No ads!"
 msgstr "No ads!"
 
@@ -2709,7 +2704,8 @@ msgstr "%1$s, Author at %2$s"
 msgid "Marks are disabled in current view"
 msgstr "Marks are disabled in current view"
 
-#: inc/class-wpseo-replace-vars.php:1475 js/dist/settings.js:10
+#: inc/class-wpseo-replace-vars.php:1475 js/dist/first-time-configuration.js:5
+#: js/dist/settings.js:10
 msgid "Name"
 msgstr "Name"
 
@@ -3028,7 +3024,7 @@ msgid "Removes the readability analysis section from the metabox and disables al
 msgstr "Removes the readability analysis section from the meta box and disables all readability-related suggestions."
 
 #: admin/views/class-yoast-feature-toggles.php:82
-#: js/dist/externals-components.js:5
+#: js/dist/externals-components.js:1
 msgid "Readability analysis"
 msgstr "Readability analysis"
 
@@ -3038,7 +3034,7 @@ msgstr "Readability analysis"
 #: inc/class-wpseo-rank.php:140 inc/class-wpseo-rank.php:163
 #: inc/class-wpseo-rank.php:195 js/dist/block-editor.js:1
 #: js/dist/block-editor.js:63 js/dist/editor-modules.js:1
-#: js/dist/externals-components.js:1 js/dist/externals/analysis.js:357
+#: js/dist/externals-components.js:33 js/dist/externals/analysis.js:357
 #: js/dist/post-edit.js:1 js/dist/term-edit.js:1
 msgid "Needs improvement"
 msgstr "Needs improvement"
@@ -3139,11 +3135,18 @@ msgstr "Expected an integer as input."
 msgid "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
 msgstr "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
 
+#: admin/views/redirects.php:32
+#: src/integrations/admin/redirects-integration.php:50
+msgid "Redirects"
+msgstr "Redirects"
+
 #: admin/views/tabs/metas/taxonomies/category-url.php:10
+#: src/integrations/admin/crawl-settings-integration.php:101
 msgid "Remove"
 msgstr "Remove"
 
 #: admin/views/tabs/metas/taxonomies/category-url.php:10
+#: src/integrations/admin/crawl-settings-integration.php:100
 msgid "Keep"
 msgstr "Keep"
 
@@ -3304,7 +3307,7 @@ msgid "%1$s does not seem to be a valid %2$s verification string. Please correct
 msgstr "%1$s does not seem to be a valid %2$s verification string. Please correct."
 
 #. translators: %s expands to the name of a post type (plural).
-#: inc/class-upgrade.php:1242 inc/options/class-wpseo-option-titles.php:283
+#: inc/class-upgrade.php:1279 inc/options/class-wpseo-option-titles.php:283
 msgid "%s Archive"
 msgstr "%s Archive"
 
@@ -3314,15 +3317,15 @@ msgid "You searched for %s"
 msgstr "You searched for %s"
 
 #. translators: %s expands to a twitter user name.
-#: inc/options/class-wpseo-option-social.php:194
+#: inc/options/class-wpseo-option-social.php:183
 msgid "%s does not seem to be a valid Twitter Username. Please correct."
 msgstr "%s does not seem to be a valid Twitter username. Please correct."
 
-#: inc/options/class-wpseo-option-social.php:109
+#: inc/options/class-wpseo-option-social.php:110
 msgid "Summary with large image"
 msgstr "Summary with large image"
 
-#: inc/options/class-wpseo-option-social.php:108
+#: inc/options/class-wpseo-option-social.php:109
 msgid "Summary"
 msgstr "Summary"
 
@@ -3331,22 +3334,22 @@ msgstr "Summary"
 msgid "The post %1$s appeared first on %2$s."
 msgstr "The post %1$s appeared first on %2$s."
 
-#: inc/options/class-wpseo-option-ms.php:217
+#: inc/options/class-wpseo-option-ms.php:218
 msgid "No numeric value was received."
 msgstr "No numeric value was received."
 
 #. translators: %s is the ID number of a blog.
-#: inc/options/class-wpseo-option-ms.php:205
+#: inc/options/class-wpseo-option-ms.php:206
 msgid "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
 msgstr "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
 
-#: inc/options/class-wpseo-option-ms.php:201
-#: inc/options/class-wpseo-option-ms.php:217
+#: inc/options/class-wpseo-option-ms.php:202
+#: inc/options/class-wpseo-option-ms.php:218
 msgid "The default blog setting must be the numeric blog id of the blog you want to use as default."
 msgstr "The default blog setting must be the numeric blog id of the blog you want to use as default."
 
 #. translators: %1$s expands to the option name and %2$sexpands to Yoast SEO
-#: inc/options/class-wpseo-option-ms.php:181
+#: inc/options/class-wpseo-option-ms.php:182
 msgid "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
 msgstr "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
 
@@ -3382,7 +3385,7 @@ msgstr "Error 404: Page not found"
 #: inc/class-wpseo-rank.php:142 inc/class-wpseo-rank.php:173
 #: inc/class-wpseo-rank.php:205 js/dist/block-editor.js:1
 #: js/dist/block-editor.js:63 js/dist/editor-modules.js:1
-#: js/dist/externals-components.js:1 js/dist/externals/analysis.js:357
+#: js/dist/externals-components.js:33 js/dist/externals/analysis.js:357
 #: js/dist/post-edit.js:1 js/dist/term-edit.js:1
 msgid "Good"
 msgstr "Good"
@@ -3548,7 +3551,7 @@ msgstr "Page not found"
 
 #. translators: %s expands to the variable used for term title.
 #: admin/formatter/class-term-metabox-formatter.php:164
-#: inc/class-upgrade.php:1245 inc/options/class-wpseo-option-titles.php:319
+#: inc/class-upgrade.php:1282 inc/options/class-wpseo-option-titles.php:319
 msgid "%s Archives"
 msgstr "%s Archives"
 
@@ -3756,34 +3759,6 @@ msgstr "Description"
 msgid "Add Open Graph meta data"
 msgstr "Add Open Graph meta data"
 
-#: admin/views/tabs/social/accounts.php:59 js/dist/workouts.js:7
-msgid "YouTube URL"
-msgstr "YouTube URL"
-
-#: admin/views/tabs/social/accounts.php:54 js/dist/workouts.js:7
-msgid "Pinterest URL"
-msgstr "Pinterest URL"
-
-#: admin/views/tabs/social/accounts.php:49 js/dist/workouts.js:7
-msgid "MySpace URL"
-msgstr "MySpace URL"
-
-#: admin/views/tabs/social/accounts.php:44 js/dist/workouts.js:7
-msgid "LinkedIn URL"
-msgstr "LinkedIn URL"
-
-#: admin/views/tabs/social/accounts.php:39 js/dist/workouts.js:7
-msgid "Instagram URL"
-msgstr "Instagram URL"
-
-#: admin/views/tabs/social/accounts.php:34
-msgid "Twitter Username"
-msgstr "Twitter Username"
-
-#: admin/views/tabs/social/accounts.php:29
-msgid "Facebook Page URL"
-msgstr "Facebook Page URL"
-
 #: admin/pages/social.php:18
 msgid "Accounts"
 msgstr "Accounts"
@@ -3970,7 +3945,7 @@ msgid "The premium version of %1$s with more features & support."
 msgstr "The premium version of %1$s with more features & support."
 
 #: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:33
-#: src/integrations/admin/configuration-workout-integration.php:352
+#: src/integrations/admin/first-time-configuration-integration.php:428
 msgid "Person"
 msgstr "Person"
 
@@ -4006,6 +3981,14 @@ msgstr "To be able to create a redirect and fix this issue, you need %1$s. You c
 #: admin/google_search_console/views/gsc-redirect-nopremium.php:15
 msgid "Creating redirects is a %s feature"
 msgstr "Creating redirects is a %s feature"
+
+#: admin/views/redirects.php:175 admin/views/redirects.php:222
+msgid "New URL"
+msgstr "New URL"
+
+#: admin/views/redirects.php:112
+msgid "URL"
+msgstr "URL"
 
 #. translators: %s: 'Facebook' plugin name of possibly conflicting plugin
 #: admin/class-yoast-plugin-conflict.php:214
@@ -4046,7 +4029,7 @@ msgid "Archives"
 msgstr "Archives"
 
 #: admin/google_search_console/views/gsc-redirect-nopremium.php:27
-#: js/dist/externals-components.js:29 js/dist/externals/componentsNew.js:1
+#: js/dist/externals-components.js:25 js/dist/externals/componentsNew.js:1
 msgid "Close"
 msgstr "Close"
 
@@ -4068,10 +4051,12 @@ msgid "Both %1$s and %2$s create Open Graph output, which might make Facebook, T
 msgstr "Both %1$s and %2$s create Open Graph output, which might make Facebook, Twitter, LinkedIn and other social networks use the wrong texts and images when your pages are being shared."
 
 #: admin/pages/social.php:20 js/dist/block-editor.js:63
+#: js/dist/first-time-configuration.js:1 js/dist/settings.js:5
 msgid "Twitter"
 msgstr "Twitter"
 
 #: admin/pages/social.php:19 js/dist/block-editor.js:63
+#: js/dist/first-time-configuration.js:1 js/dist/settings.js:5
 msgid "Facebook"
 msgstr "Facebook"
 
@@ -4080,7 +4065,7 @@ msgstr "Facebook"
 #: admin/statistics/class-statistics-service.php:222
 #: inc/class-wpseo-rank.php:141 inc/class-wpseo-rank.php:168
 #: inc/class-wpseo-rank.php:200 js/dist/block-editor.js:1
-#: js/dist/editor-modules.js:1 js/dist/externals-components.js:1
+#: js/dist/editor-modules.js:1 js/dist/externals-components.js:33
 #: js/dist/externals/analysis.js:357 js/dist/post-edit.js:1
 #: js/dist/term-edit.js:1
 msgid "OK"
@@ -4218,7 +4203,7 @@ msgstr "Breadcrumbs separator:"
 msgid "%s Breadcrumbs"
 msgstr "%s Breadcrumbs"
 
-#: admin/class-config.php:122 admin/metabox/class-metabox.php:900
+#: admin/class-config.php:123 admin/metabox/class-metabox.php:900
 #: admin/taxonomy/class-taxonomy.php:166
 #: src/integrations/third-party/elementor.php:423
 msgid "Use Image"
@@ -4245,8 +4230,8 @@ msgid "WP Page Title"
 msgstr "WP Page Title"
 
 #: admin/class-bulk-editor-list-table.php:826 js/dist/block-editor.js:11
-#: js/dist/classic-editor.js:7 js/dist/dashboard-widget.js:11
-#: js/dist/dashboard-widget.js:19 js/dist/editor-modules.js:7
+#: js/dist/classic-editor.js:7 js/dist/dashboard-widget.js:3
+#: js/dist/dashboard-widget.js:13 js/dist/editor-modules.js:7
 #: js/dist/elementor.js:11
 msgid "View"
 msgstr "View"
@@ -4266,10 +4251,12 @@ msgid "Preview &#8220;%s&#8221;"
 msgstr "Preview &#8220;%s&#8221;"
 
 #: admin/class-bulk-editor-list-table.php:804
+#: js/dist/first-time-configuration.js:1 js/dist/first-time-configuration.js:15
+#: js/dist/installation-success.js:11
 msgid "Edit"
 msgstr "Edit"
 
-#: admin/class-bulk-editor-list-table.php:415
+#: admin/class-bulk-editor-list-table.php:415 admin/views/redirects.php:141
 msgid "Filter"
 msgstr "Filter"
 
@@ -4309,7 +4296,8 @@ msgstr "Twitter username (without @)"
 msgid "FAQ"
 msgstr "FAQ"
 
-#: admin/class-admin.php:221 js/dist/structured-data-blocks.js:1
+#: admin/class-admin.php:221 admin/views/redirects.php:42
+#: js/dist/structured-data-blocks.js:1
 msgid "Settings"
 msgstr "Settings"
 
@@ -4352,8 +4340,6 @@ msgstr "XML sitemaps"
 msgid "Social"
 msgstr "Social"
 
-#: admin/menu/class-admin-menu.php:55
-#: admin/menu/class-network-admin-menu.php:35
 #: admin/metabox/class-metabox.php:411
 #: admin/taxonomy/class-taxonomy-metabox.php:132
 #: inc/class-wpseo-admin-bar-menu.php:471
