@@ -30,7 +30,6 @@ $array_news_en =
   , ['Skynews'           , 'https://video.news.sky.com/snr/news/snrnews.mp3'                       ]
   , ['LBC News'          , 'http://media-ice.musicradio.com/LBC1152'                               ]
   , ['LBC'               , 'https://media-ssl.musicradio.com/LBCUK'                                ]
-  , ['VoA Learning'      , 'https://av.voanews.com/clips/VLE/2022/05/03/20220503-003000-VLE122-program.mp3'       ]
 #
 ];
 
