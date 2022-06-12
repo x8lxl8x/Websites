@@ -4,14 +4,14 @@ $config_array =
   "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Dziennik.pl - Opinie",
-  "media_url"       => "https://wiadomosci.dziennik.pl/opinie/",
+  "media_name"      => "Onet - Wiadomośći",
+  "media_url"       => "https://wiadomosci.onet.pl/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
-  "module_body"     => "div[class^=boxArticleList]",
-  "module_article"  => "div[class=article]",
-  "module_headline" => "a",
+  "module_body"     => "section[class=stream]",
+  "module_article"  => "a[id^=flat-natleft]",
+  "module_headline" => "h3 span",
 
   "article_body"    => "article[class=articleDetail]",
   "article_title"   => "h1",
