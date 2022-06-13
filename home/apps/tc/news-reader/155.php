@@ -1,9 +1,9 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "media",
 
-  "media_name"      => "Valeurs Actuelles",
+  "media_name"      => "The Conversation",
 ];
 ?>

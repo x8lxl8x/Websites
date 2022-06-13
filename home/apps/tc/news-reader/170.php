@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Économie",
-  "media_url"       => "https://www.valeursactuelles.com/economie",
+  "media_name"      => "Valeurs Actuelles - L'Incorrect",
+  "media_url"       => "https://www.valeursactuelles.com/lincorrect",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

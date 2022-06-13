@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Faits divers",
-  "media_url"       => "https://www.valeursactuelles.com/faits-divers",
+  "media_name"      => "Valeurs Actuelles - Monde",
+  "media_url"       => "https://www.valeursactuelles.com/monde",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

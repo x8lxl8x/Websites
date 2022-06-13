@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Edito",
-  "media_url"       => "https://www.contrepoints.org/category/edito",
+  "media_name"      => "Contrepoints - Économie",
+  "media_url"       => "https://www.contrepoints.org/category/economie",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

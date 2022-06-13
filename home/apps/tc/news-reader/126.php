@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "20minutes.fr - Planète",
-  "media_url"       => "https://www.20minutes.fr/planete/",
+  "media_name"      => "20minutes.fr - Économie",
+  "media_url"       => "https://www.20minutes.fr/economie/",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

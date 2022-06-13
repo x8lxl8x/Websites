@@ -1,48 +1,45 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - International",
-  "media_url"       => "https://www.contrepoints.org/category/international",
+  "media_name"      => "Investing.com - Actualités",
+  "media_url"       => "https://fr.investing.com/news/latest-news",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
-  "module_body"     => "div[class*=article_ctn]",
-  "module_article"  => "div[class=cp_mp_ctn]",
-  "module_headline" => "div[class=cp_mp_info_ctn] h3 a",
+  "module_body"     => "div[class*=largeTitle]",
+  "module_article"  => "article",
+  "module_headline" => "div a",
 
-  "article_body"    => "article",
+  "article_body"    => "div[class*=articlePage]",
   "article_title"   => "h1",
-  "article_date"    => "div[class=cp_small_date]",
-  "article_author"  => "div[class=author]",
+  "article_date"    => "div[class=contentSectionDetails] span",
+  "article_author"  => "div[class=contentSectionDetails] a",
 
   "clean_module"    =>  [
-                    ["", ""],
+                    ["/<article class=\"js-article-item articleItem sponsoredArticle  \"  >/s", ""],
                   ],
 
   "clean_article_pre"   =>  [
-                    ["/Publié le /s", ""],
-                    ["/header>(.*?)<div class=\"author\">(.*?)<\/div>/s", "header><div class=\"author\">$2</div>$1"],
-                    ["/<div class=\"author\">(.*?)<span>(.*?)<\/span>(.*?)<\/div>/s", "<div class=\"author\">$2</div>"],
-                    ["/<div class=\"author\">(.*?)<a(.*?)>(.*?)<\/a(.*?)<\/div>/s", "<div class=\"author\">$3</div>"],
+                    ["/<span class(.*?)span>/s", ""],
+                    ["/<span id(.*?)span>/s", ""],
+                    ["/<span style(.*?)span>/s", ""],
                   ],
 
   "clean_article_post"  => [
-                    ["/^(.*?)header>/s", ""],
-                    ["/<div class=\"author\">(.*?)<\/div>/s", ""],
-                    ["/<div class=\"cp_opinion_info\">(.*?)<\/div>/s", ""],
-                    ["/<footer(.*?)$/s", ""],
-                    ["/<span class=\"cesis(.*?)span>/s", ""],
-                    ["/<span class=\"cp_(.*?)span>/s", ""],
-                    ["/<div class=\"cp_small_date\">(.*?)<\/div>/s", ""],
-                    ["/<p>&nbsp;(\s*?)<\/p>/s", ""],
-                    ["/<div(.*?)>/s", ""],
-                    ["/<\/div>/s", ""],
-                    ["/<i class=\"cp_print fa-print\">(.*?)<\/i>/s", ""],
-                    ["/<!--(.*?)-->/s", ""],
-                    ["/<a(.*?)>(.*?)<\/a>/s", "$2"],
+                    ["/<aside(.*?)aside>/s", ""],
+                    ["/<video(.*?)video>/s", ""],
+                    ["/<div class=\"align_center\">(.*?)<\/div>/s", "$1"],
+                    ["/<div class=\"contentMediaBoxBottom(.*?)\">(.*?)<\/div>/s", ""],
+                    ["/<div class=\"contentMediaBox(.*?)\"(.*?)>(.*?)<\/div>/s", "$3"],
+                    ["/<h(.*?)>(.*?)<\/h(.*?)>/s", "<em>$2</em>"],
+                    ["/<p data-id=\"(.*?)\"(.*?)>(.*?)<\/p>/s", ""],
+                    ["/ dir=\"ltr\"/s", ""],
+                    ["/<a href=\"javascript(.*?)a>/s", ""],
+                    ["/<div id=\"imgCarousel\"(.*?)>(.*?)<\/div>/s", "$2"],
+                    ["/<img(.*?)src=\"(.*?)\"(.*?)>/s", "<a target='_blank' href='$2'><img class='clImageThumb' src='$2'></a><br>"],
                   ],
 ];
 ?>

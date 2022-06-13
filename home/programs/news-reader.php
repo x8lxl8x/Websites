@@ -157,7 +157,6 @@ function get_headlines()
     file_put_contents($debug_file . "-02.log", $media_content, FILE_APPEND);
   }
 
-
   $html_object = str_get_html($media_content);
   $module_array = $html_object->find($module_body , 0);
 
@@ -169,10 +168,20 @@ function get_headlines()
 
   $articles_array = $module_array->find($module_article);
 
+  if ($debug_flag)
+  {
+    file_put_contents($debug_file . "-03.log", '');
+  }
+
   foreach ($articles_array as $article_block)
   {
     $headline_name = trim($article_block->find($module_headline, 0)->innertext) ?? "";
     $headline_url = trim($article_block->find('a', 0)->href);
+
+    if ($debug_flag)
+    {
+      file_put_contents($debug_file . "-03.log", "<<<\n" . $article_block . "\n>>>\n\n\n", FILE_APPEND);
+    }
 
     if (substr($headline_url, 0, 4) != "http")
     {
@@ -249,6 +258,12 @@ function get_article()
     $media_content = preg_replace("$regex_array[0]", "$regex_array[1]", $media_content);
   }
 
+  if ($debug_flag)
+  {
+#    $media_content = preg_replace("/</s", "\n<", $media_content);
+    file_put_contents($debug_file . "-02.log", $media_content);
+  }
+
   $html_object = str_get_html($media_content);
 
   $article_title_content  = $html_object->find($article_title, 0)->innertext  ?? "";
@@ -265,7 +280,7 @@ function get_article()
   if ($debug_flag)
   {
     $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
-    file_put_contents($debug_file . "-02.log", $article_body_content);
+    file_put_contents($debug_file . "-03.log", $article_body_content);
   }
 
   $article_body_content = preg_replace("/src=\"(.*?)\"/s", "src='$1'", $article_body_content);
@@ -285,7 +300,7 @@ function get_article()
   if ($debug_flag)
   {
     $article_body_content = preg_replace("/</s", "\n<", $article_body_content);
-    file_put_contents($debug_file . "-03.log", $article_body_content);
+    file_put_contents($debug_file . "-04.log", $article_body_content);
   }
 
   $page_html = get_file_template($file_template);

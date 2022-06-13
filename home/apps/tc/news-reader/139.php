@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Contrepoints - Opinion",
-  "media_url"       => "https://www.contrepoints.org/cp-type/opinion",
+  "media_name"      => "Contrepoints - Politique",
+  "media_url"       => "https://www.contrepoints.org/category/politique",
   "media_encode"    => "false",
   "media_encoding"  => "",
 

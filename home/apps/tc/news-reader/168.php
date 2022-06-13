@@ -1,11 +1,11 @@
 <?php
 $config_array =
 [
-  "config_enabled"  => "false",
+  "config_enabled"  => "true",
   "config_type"     => "link",
 
-  "media_name"      => "Valeurs Actuelles - Politique",
-  "media_url"       => "https://www.valeursactuelles.com/politique",
+  "media_name"      => "Valeurs Actuelles - Histoire",
+  "media_url"       => "https://www.valeursactuelles.com/histoire",
   "media_encode"    => "false",
   "media_encoding"  => "",
 
