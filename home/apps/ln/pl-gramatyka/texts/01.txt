@@ -1,40 +1,51 @@
-## Fonetyka i pisownia ##
+# Terminy
 
-## Fonetyka i pisownia
+Liczba pojedyncza
+Liczba mnoga
 
-# Alfabet
+## Przypadki
 
 [|
-|%[m|A]|%[m|a]|%[l|a]|a           |
-|%[m|Ą]|%[m|ą]|%[l|ɔ̃]|o nosowe    |
-|%[m|B]|%[m|b]|%[l|b]|be          |
-|%[m|C]|%[m|c]|%[l|t͡s]|ce          |
-|%[m|Ć]|%[m|ć]|%[l|t͡ɕ]|cie         |
-|%[m|D]|%[m|d]|%[l|d]|de          |
-|%[m|E]|%[m|e]|%[l|ɛ]|e           |
-|%[m|Ę]|%[m|ę]|%[l|ɛ̃]|e nosowe    |
-|%[m|F]|%[m|f]|%[l|f]|ef          |
-|%[m|G]|%[m|g]|%[l|g]|gie         |
-|%[m|H]|%[m|h]|%[l|h]|ha          |
-|%[m|I]|%[m|i]|%[l|i]|i           |
-|%[m|J]|%[m|j]|%[l|j]|jot         |
-|%[m|K]|%[m|k]|%[l|k]|ka          |
-|%[m|L]|%[m|l]|%[l|l]|el          |
-|%[m|Ł]|%[m|ł]|%[l|w]|eł          |
-|%[m|M]|%[m|m]|%[l|m]|em          |
-|%[m|N]|%[m|n]|%[l|n]|en          |
-|%[m|Ń]|%[m|ń]|%[l|ɲ]|eń          |
-|%[m|O]|%[m|o]|%[l|ɔ]|o           |
-|%[m|Ó]|%[m|ó]|%[l|u]|o kreskowane|
-|%[m|P]|%[m|p]|%[l|p]|pe          |
-|%[m|R]|%[m|r]|%[l|r]|er          |
-|%[m|S]|%[m|s]|%[l|s]|es          |
-|%[m|Ś]|%[m|ś]|%[l|ɕ]|eś          |
-|%[m|T]|%[m|t]|%[l|t]|te          |
-|%[m|U]|%[m|u]|%[l|u]|u           |
-|%[m|W]|%[m|w]|%[l|v]|wu          |
-|%[m|Y]|%[m|y]|%[l|ɨ]|y           |
-|%[m|Z]|%[m|z]|%[l|z]|zet         |
-|%[m|Ź]|%[m|ź]|%[l|ʑ]|ziet        |
-|%[m|Ż]|%[m|ż]|%[l|ʐ]|żet         |
+|%[m|mianownik  ]|kto, co      |
+|%[m|dopełniacz ]|kogo, czego  |
+|%[m|celownik   ]|komu, czemu  |
+|%[m|biernik    ]|kogo, co     |
+|%[m|narzednik  ]|z kim, z czym|
+|%[m|miejscownik]|o kim, o czym|
+|%[m|wołacz     ]|o!           |
 |]
+
+
+
+
+odmienne
+części mowy
+
+    rzeczownik,
+    czasownik,
+    przymiotnik,
+    liczebnik,
+    zaimek.
+
+Nieodmienne zaś części mowy (takie, które zawsze mają taką samą formę, o czym pisaliśmy już tutaj: Nieodmienne części mowy – wszystko, co chcielibyście o nich wiedzieć!) to:
+
+    przyimek,
+    przysłówek,
+    spójnik,
+    partykuła,
+    wykrzyknik.
+
+
+
+Części zdania
+
+    orzeczenie – czynność lub stan (co robi? co się z nim dzieje?)
+    pracuje, studiowały, spadła, będzie prać, stał się niegrzeczny, zapytam, śpi
+    podmiot – wykonawca czynności (kto? co?)
+    ona, ja, dzieci, mama, plaża, krajobraz, planszówka
+    przydawka – określenie rzeczownika (jaki? który? czyj? ile? czego? z czego?)
+    mały, biały, żółte, z wełny, (pan) domu, (sweter) brata, dwoje
+    dopełnienie – dodatkowe informacje do czasownika (kogo? czego? komu? czemu? kogo? co? z kim? z czym? o kim? o czym?)
+    ciocię, siostrze, zabawie, z ceną, o wakacjach, dla ukochanego
+    okolicznik – okoliczności czynności (pozostałe pytania, np.: jak? gdzie? kiedy? jak bardzo? mimo czego? po co? dlaczego? pod jakim warunkiem?)
+    tam, w domu, na miejscu, mimo niepogody, wczoraj, na ścianie, bardzo

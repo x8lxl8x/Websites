@@ -1,79 +1,40 @@
+## Fonetyka i pisownia ##
+
 ## Fonetyka i pisownia
 
-# Wymowa
-
-### Zwarte
+# Alfabet
 
 [|
-|%[m|b]  |%[l|b] |bas  |
-|%[m|bi] |%[l|bʲ]|biały|
-|%[m|p]  |%[l|p] |pas  |
-|%[m|pi] |%[l|pʲ]|pięć |
-|%[m|d]  |%[l|d] |dom  |
-|%[m|t]  |%[l|t] |tom  |
-|%[m|g]  |%[l|g] |gra  |
-|%[m|gi] |%[l|gʲ]|gips |
-|%[m|k]  |%[l|k] |buk  |
-|%[m|ki] |%[l|kʲ]|kiedy|
+|%[m|A]|%[m|a]|%[l|a]|a           |
+|%[m|Ą]|%[m|ą]|%[l|ɔ̃]|o nosowe    |
+|%[m|B]|%[m|b]|%[l|b]|be          |
+|%[m|C]|%[m|c]|%[l|t͡s]|ce          |
+|%[m|Ć]|%[m|ć]|%[l|t͡ɕ]|cie         |
+|%[m|D]|%[m|d]|%[l|d]|de          |
+|%[m|E]|%[m|e]|%[l|ɛ]|e           |
+|%[m|Ę]|%[m|ę]|%[l|ɛ̃]|e nosowe    |
+|%[m|F]|%[m|f]|%[l|f]|ef          |
+|%[m|G]|%[m|g]|%[l|g]|gie         |
+|%[m|H]|%[m|h]|%[l|h]|ha          |
+|%[m|I]|%[m|i]|%[l|i]|i           |
+|%[m|J]|%[m|j]|%[l|j]|jot         |
+|%[m|K]|%[m|k]|%[l|k]|ka          |
+|%[m|L]|%[m|l]|%[l|l]|el          |
+|%[m|Ł]|%[m|ł]|%[l|w]|eł          |
+|%[m|M]|%[m|m]|%[l|m]|em          |
+|%[m|N]|%[m|n]|%[l|n]|en          |
+|%[m|Ń]|%[m|ń]|%[l|ɲ]|eń          |
+|%[m|O]|%[m|o]|%[l|ɔ]|o           |
+|%[m|Ó]|%[m|ó]|%[l|u]|o kreskowane|
+|%[m|P]|%[m|p]|%[l|p]|pe          |
+|%[m|R]|%[m|r]|%[l|r]|er          |
+|%[m|S]|%[m|s]|%[l|s]|es          |
+|%[m|Ś]|%[m|ś]|%[l|ɕ]|eś          |
+|%[m|T]|%[m|t]|%[l|t]|te          |
+|%[m|U]|%[m|u]|%[l|u]|u           |
+|%[m|W]|%[m|w]|%[l|v]|wu          |
+|%[m|Y]|%[m|y]|%[l|ɨ]|y           |
+|%[m|Z]|%[m|z]|%[l|z]|zet         |
+|%[m|Ź]|%[m|ź]|%[l|ʑ]|ziet        |
+|%[m|Ż]|%[m|ż]|%[l|ʐ]|żet         |
 |]
-
-### Zwarto-szczelinowe
-
-[|
-|%[m|c]  |%[l|t͡s]|co    |
-|%[m|dz] |%[l|d͡z]|dzwon |
-|%[m|cz] |%[l|t͡ʂ̠]|czas  |
-|%[m|dż] |%[l|d͡ʐ]|dżem  |
-|%[m|ć]  |%[l|t͡ɕ]|ćma   |
-|%[m|ci] |%[l|t͡ɕ]|ciało |
-|%[m|dź] |%[l|d͡ʑ]|dźwięk|
-|%[m|dzi]|%[l|d͡ʑ]|dziad |
-|]
-
-### Szczelinowe
-
-[|
-|%[m|w]  |%[l|v] |wór     |
-|%[m|wi] |%[l|vʲ]|wiara   |
-|%[m|f]  |%[l|f] |futro   |
-|%[m|fi] |%[l|fʲ]|fiasko  |
-|%[m|z]  |%[l|z] |zero    |
-|%[m|ź]  |%[l|ʑ] |źródło  |
-|%[m|zi] |%[l|ʑ] |ziąb    |
-|%[m|s]  |%[l|s] |sum     |
-|%[m|ś]  |%[l|ɕ] |średni  |
-|%[m|si] |%[l|ɕ] |siać    |
-|%[m|ż]  |%[l|ʐ] |żuk     |
-|%[m|rz] |%[l|ʐ] |rzeka   |
-|%[m|sz] |%[l|ʂ] |szum    |
-|%[m|ch] |%[l|x] |chór    |
-|%[m|chi]|%[l|xʲ]|chichot |
-|%[m|h]  |%[l|x] |haczyk  |
-|%[m|hi] |%[l|xʲ]|historia|
-|]
-
-### Nosowe
-
-[|
-|%[m|m] |%[l|m] |masa |
-|%[m|mi]|%[l|mʲ]|mięso|
-|%[m|n] |%[l|n] |noga |
-|%[m|ń] |%[l|ɲ] |koń  |
-|%[m|ni]|%[l|ɲ] |nic  |
-|]
-
-### Półotwarte
-
-[|
-|%[m|ł] |%[l|w]|łaska|
-|%[m|l] |%[l|l]|pole |
-|%[m|li]|%[l|lʲ]|liść|
-|%[m|r] |%[l|r]|krok |
-|%[m|j] |%[l|j]|jutro|
-|]
-
-
-
-[!
-ę > e в конце слова
-!]
