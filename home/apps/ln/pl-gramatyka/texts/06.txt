@@ -4,39 +4,35 @@
 
 # Osobowe
 
+### Liczba pojedyncza
+
+[!
+Długi formy  - под ударением
+Кратки formy - без ударения
+%[m|n]- formy - перед предлогом
+!]
+
 [|
-|%[x|m.]|%[m|]||
-|%[x|d.]|%[m|]||
-|%[x|c.]|%[m|]||
-|%[x|b.]|%[m|]||
-|%[x|n.]|%[m|]||
-|%[x|m.]|%[m|]||
+|m.|%[m|ja     ]|%[m|ty        ]|%[m|on           ]|%[m|ona     ]|%[m|ono          ]|
+|d.|%[m|mnie   ]|%[m|ciebie cię]|%[m|jego go niego]|%[m|jej niej]|%[m|jego go niego]|
+|c.|%[m|mnie mi]|%[m|tobie  ci ]|%[m|jemu mu niemu]|%[m|jej niej]|%[m|jemu mu niemu]|
+|b.|%[m|mnie   ]|%[m|ciebie cię]|%[m|jego go niego]|%[m|ją  nią ]|%[m|je nie       ]|
+|n.|%[m|mną    ]|%[m|tobą      ]|%[m|nim          ]|%[m|nią     ]|%[m|nim          ]|
+|m.|%[m|mnie   ]|%[m|tobie     ]|%[m|nim          ]|%[m|niej    ]|%[m|nim          ]|
 |]
 
-Liczba pojedyncza
+### Liczba mnoga
 
-### Długie i krótkie formy
+[|
+|m.|%[m|my  ]|%[m|wy  ]|%[m|oni      ]|%[m|one     ]|
+|d.|%[m|nas ]|%[m|was ]|%[m|ich nich ]|%[m|ich nich]|
+|c.|%[m|nam ]|%[m|wam ]|%[m|im nim   ]|%[m|im nim  ]|
+|b.|%[m|nas ]|%[m|was ]|%[m|ich nich ]|%[m|je nie  ]|
+|n.|%[m|nami]|%[m|wami]|%[m|nimi     ]|%[m|nimi    ]|
+|m.|%[m|nas ]|%[m|was ]|%[m|nich     ]|%[m|nich    ]|
+|]
 
-ja        ty          on              ona         ono
-mnie      ciebie      jego, niego     jej, niej   jego, niego
-mnie      tobie       jemu, niemu     jej, niej   jemu, niemu
-mnie      ciebie      jego, niego     ją,  nią    je,   nie
-mną       tobą        nim             nią         nim
-mnie      tobie       nim             niej        nim
-
-
-### Krótkie formy
-
-ja        ty          on    ono
-          cię         go    go
-mi        ci          mu    mu
-          cię         go
-
-Liczba mnoga
-
-my    wy    oni         one
-nas   was   ich, nich   ich, nich
-nam   wam   im,  nim    im, nim
-nas   was   ich         je, nie
-nami  wami  nimi        nimi
-nas   was   nich        nich
+[!
+%[m|oni] - rodzaj męskoosobowy
+%[m|one] - rodzaj niemęskoosobowy
+!]

@@ -1,9 +1,30 @@
 # Terminy
 
-Liczba pojedyncza
-Liczba mnoga
+### Liczba
 
-## Przypadki
+[|
+|%[m|pojedyncza]|
+|%[m|mnoga     ]|
+|]
+
+### Rodzaj
+
+#### Liczba pojedyncza
+
+[|
+|%[m|męski ]|
+|%[m|żeński]|
+|%[m|nijaki]|
+|]
+
+#### Liczba mnoga
+
+[|
+|%[m|męskoosobowy   ]|
+|%[m|niemęskoosobowy]|
+|]
+
+### Przypadki
 
 [|
 |%[m|mianownik  ]|kto, co      |
@@ -15,37 +36,35 @@ Liczba mnoga
 |%[m|wołacz     ]|o!           |
 |]
 
+### Części mowy
 
+#### Odmienne
 
+[|
+|%[m|rzeczownik ]|существительное|
+|%[m|czasownik  ]|глагол         |
+|%[m|przymiotnik]|прилагательное |
+|%[m|liczebnik  ]|числительное   |
+|%[m|zaimek     ]|местоимение    |
+|]
 
-odmienne
-części mowy
+#### Nieodmienne
 
-    rzeczownik,
-    czasownik,
-    przymiotnik,
-    liczebnik,
-    zaimek.
+[|
+|%[m|przyimek  ]|предлог   |
+|%[m|przysłówek]|наречие   |
+|%[m|spójnik   ]|союз      |
+|%[m|partykuła ]|частица   |
+|%[m|wykrzyknik]|междометие|
+|]
 
-Nieodmienne zaś części mowy (takie, które zawsze mają taką samą formę, o czym pisaliśmy już tutaj: Nieodmienne części mowy – wszystko, co chcielibyście o nich wiedzieć!) to:
+### Części zdania
 
-    przyimek,
-    przysłówek,
-    spójnik,
-    partykuła,
-    wykrzyknik.
-
-
-
-Części zdania
-
-    orzeczenie – czynność lub stan (co robi? co się z nim dzieje?)
-    pracuje, studiowały, spadła, będzie prać, stał się niegrzeczny, zapytam, śpi
-    podmiot – wykonawca czynności (kto? co?)
-    ona, ja, dzieci, mama, plaża, krajobraz, planszówka
-    przydawka – określenie rzeczownika (jaki? który? czyj? ile? czego? z czego?)
-    mały, biały, żółte, z wełny, (pan) domu, (sweter) brata, dwoje
-    dopełnienie – dodatkowe informacje do czasownika (kogo? czego? komu? czemu? kogo? co? z kim? z czym? o kim? o czym?)
-    ciocię, siostrze, zabawie, z ceną, o wakacjach, dla ukochanego
-    okolicznik – okoliczności czynności (pozostałe pytania, np.: jak? gdzie? kiedy? jak bardzo? mimo czego? po co? dlaczego? pod jakim warunkiem?)
-    tam, w domu, na miejscu, mimo niepogody, wczoraj, na ścianie, bardzo
+[|
+|%[m|podmiot    ]|подлежащее    |
+|%[m|orzeczenie ]|сказуемое     |
+|%[m|orzeczenie ]|сказуемое     |
+|%[m|przydawka  ]|определение   |
+|%[m|dopełnienie]|дополнение    |
+|%[m|okolicznik ]|обстоятельство|
+|]

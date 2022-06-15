@@ -8,4 +8,5 @@
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=05.txt'>Porządkowe</a><br>
 <h2>Zaimki</h2>
 <a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=06.txt'>Osobowe</a><br>
+<a href='./book-reader.php?varFuncId=view&varAppTitle=Gramatyka&varAppArea=ln&varAppDir=pl-gramatyka&varFileName=07.txt'>Wskazujące</a><br>
 </span>
