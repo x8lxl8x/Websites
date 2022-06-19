@@ -266,7 +266,7 @@ video
   background-color:     #333333;
   border:               none;
   border-bottom:        1px solid #aaaaaa;
-  color:                #000000;
+  color:                #ffffff;
   display:              inline-block;
   font-size:            1.000rem;
   font-weight:          normal;
@@ -931,9 +931,9 @@ div[id^='idDivArticle']
 /* Colors                                                                                             */
 /*----------------------------------------------------------------------------------------------------*/
 
-.m /* maroon  */  { color:                #FF8080; }
+.m /* maroon  */  { color:                #FFFF4D; }
 .e /* emerald */  { color:                #008800; }
-.l /* lapis   */  { color:                #0000dd; }
+.l /* lapis   */  { color:                #99DDFF; }
 .r /* red     */  { color:                #ff0000; }
 .g /* green   */  { color:                #00ff00; }
 .b /* blue    */  { color:                #0000ff; }
@@ -943,7 +943,7 @@ div[id^='idDivArticle']
 
 .m0000
 {
-  color:                #FF8080;
+  color:                #FFFF4D;
   margin:               0.000rem 0.000rem 0.000rem 0.000rem;
   padding:              0.000rem 0.000rem 0.000rem 0.000rem;
 }
