@@ -80,8 +80,8 @@ table, th, td
 
 .clGroup
 {
-  color:                #555555;
-  background-color:     #ffffff;
+  color:                #AAAAAA;
+  background-color:     #000000;
   font-size:            1.000rem;
   font-style:           normal;
   font-variant:         small-caps;
@@ -95,8 +95,8 @@ table, th, td
 
 .clTimes
 {
-  color:                #555555;
-  background-color:     #ffffff;
+  color:                #AAAAAA;
+  background-color:     #000000;
   font-size:            1.000rem;
   font-style:           oblique;
 
@@ -110,28 +110,28 @@ table, th, td
 
 .clDefinition
 {
-  color:                #000000;
+  color:                #FFFFFF;
   font-size:            1.000rem;
   line-height:          1.500rem;
 }
 
 .clConj
 {
-  color:                #000000;
+  color:                #FFFFFF;
   font-size:            1.000rem;
   line-height:          0.900rem;
 }
 
 .clFormConj
 {
-  color:                #dd0000;
+  color:                #FFFF4D;
   font-size:            1.000rem;
   line-height:          0.700rem;
 }
 
 .clVerbName
 {
-  color:                #000000;
+  color:                #FFFF4D;
   font-size:            1.000rem;
   font-weight:          bold;
   font-variant:         small-caps;
@@ -139,7 +139,7 @@ table, th, td
 
 .clVerbGroup
 {
-  color:                #555555;
+  color:                #CCCCCC;
   font-size:            1.000rem;
   margin-left:          2.000rem;
   text-align:           left;
@@ -161,13 +161,13 @@ td.clIndexList
 .clTableIndex a,
 .clTableIndex a:visited
 {
-  color:                #aa0000 !important;
+  color:                #99FFEE !important;
   text-decoration:      none;
 }
 
 .clTableIndex a:hover
 {
-  color:                #ff0000 !important;
+  color:                #FF0000 !important;
   text-decoration:      none;
 }
 
@@ -188,7 +188,7 @@ td.clIndexList
 {
   border-top:           0.000rem solid #333333;
   border-left:          0.000rem solid #333333;
-  color:                #555555;
+  color:                #FFFFFF;
   font-size:            1.000rem;
   line-height:          1.500rem;
   padding:              0.000rem 0.000rem 0.000rem 0.000rem;
@@ -224,7 +224,7 @@ td.clIndexList
 
 h3
 {
-  color:                #880000;
+  color:                #FFFF4D;
   font-size:            1.250rem;
   font-variant:         small-caps;
   margin:               0.000rem 0.000rem 0.000rem 0.000rem;

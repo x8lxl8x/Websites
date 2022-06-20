@@ -842,31 +842,6 @@ textarea
 }
 
 /*----------------------------------------------------------------------------------------------------*/
-/* ln_bg_bible                                                                                        */
-/*----------------------------------------------------------------------------------------------------*/
-
-.clParInd
-{
-  margin:               0.000rem 0.000rem 1.000rem 0.000rem;
-  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
-  padding-left:         1.600rem;
-  text-indent:         -1.600rem;
-}
-
-.clNumRed
-{
-  color:                #FF8080;
-  display:              inline-block;
-  font-size:            85%;
-  font-weight:          bold !important;
-  margin:               0.000rem 0.500rem 0.000rem 0.000rem;
-  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
-  text-align:           right;
-  width:                1.000rem;
-  max-width:            1.000rem;
-}
-
-/*----------------------------------------------------------------------------------------------------*/
 /* ln_bg_dict_bg_ru, ln_bg_dict_ru_bg                                                                 */
 /*----------------------------------------------------------------------------------------------------*/
 
@@ -932,10 +907,10 @@ div[id^='idDivArticle']
 /*----------------------------------------------------------------------------------------------------*/
 
 .m /* maroon  */  { color:                #FFFF4D; }
-.e /* emerald */  { color:                #008800; }
+.e /* emerald */  { color:                #99FF99; }
 .l /* lapis   */  { color:                #99DDFF; }
-.r /* red     */  { color:                #ff0000; }
-.g /* green   */  { color:                #00ff00; }
+.r /* red     */  { color:                #FF8080; }
+.g /* green   */  { color:                #B3FFB3; }
 .b /* blue    */  { color:                #0000ff; }
 .c /* gray    */  { color:                #cccccc; }
 .a /* gray    */  { color:                #aaaaaa; }
@@ -950,7 +925,7 @@ div[id^='idDivArticle']
 
 .g0500
 {
-  color:                #555588;
+  color:                #ffffff;
   margin:               0.000rem 0.000rem 0.000rem 0.000rem;
   padding:              0.000rem 0.000rem 0.000rem 0.500rem;
 }

@@ -1,0 +1,26 @@
+/*------------------------------------------------------------------------------------------------*/
+/* bg-bible                                                                                       */
+/*------------------------------------------------------------------------------------------------*/
+
+.clParInd
+{
+  margin:               0.000rem 0.000rem 1.000rem 0.000rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+  padding-left:         1.600rem;
+  text-indent:         -1.600rem;
+}
+
+.clNumRed
+{
+  color:                #FFB3B3;
+  display:              inline-block;
+  font-size:            85%;
+  font-weight:          bold !important;
+  margin:               0.000rem 0.500rem 0.000rem 0.000rem;
+  padding:              0.000rem 0.000rem 0.000rem 0.000rem;
+  text-align:           right;
+  width:                1.000rem;
+  max-width:            1.000rem;
+}
+
+/*------------------------------------------------------------------------------------------------*/

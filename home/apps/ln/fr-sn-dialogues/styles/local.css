@@ -2,7 +2,7 @@
 
 .clLine
 {
-  color:                #000000;
+  color:                #555555;
   margin:               0.000em 0.000em 0.500em 1.375em;
   padding:              0.000em 0.000em 0.000em 0.000em;
   text-indent:          -1.375em ;
@@ -10,7 +10,7 @@
 
 .clChar
 {
-  color:                #aa0000;
+  color:                #B3E6FF;
   font-family:          monospace;
   font-size:            1.125em;
   margin:               0.000em 0.250em 0.000em 0.000em;
