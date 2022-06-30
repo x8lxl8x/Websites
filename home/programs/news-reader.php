@@ -110,7 +110,7 @@ function get_headlines()
 {
   global $dir_templates, $dir_config, $conf_id, $debug_flag;
 
-  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug_get_headlines";
+  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug-get-headlines";
   $file_template = "../{$dir_templates}/news-reader-headlines.html";
 
   unset($config_array);
