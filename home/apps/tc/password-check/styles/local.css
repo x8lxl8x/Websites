@@ -3,9 +3,9 @@
 input
 
 {
-  background-color:     #ffffff;
+  background-color:     #000000;
   border:               inherit;
-  color:                #000000;
+  color:                #FFFFFF;
   margin:               0.000em 0.000em 0.000em 0.000em;
   padding:              0.000em 0.000em 0.000em 0.000em;
   text-align:           left;
@@ -23,7 +23,6 @@ input
 
 *
 {
-  font-size:            98.00%;
   margin:               0px;
   padding:              0px;
 }
@@ -35,7 +34,7 @@ input
 
 table
 {
-  border:               1px solid #dddddd;
+  border:               1px solid #555555;
   border-collapse:      collapse;
   margin:               0px auto;
   width:                100%;
@@ -43,15 +42,15 @@ table
 
 th
 {
-  border-bottom:        1px solid #dddddd;
+  border-bottom:        1px solid #555555;
   text-align:           center;
 }
 
 td
 {
+  border-bottom:        1px solid #555555;
   margin:               0.000em 0.000em 0.000em 0.000em;
   padding:              0.125em 0.125em 0.125em 0.125em;
-  border-bottom:        1px solid #dddddd;
   vertical-align:       middle !important;
 }
 
@@ -109,22 +108,22 @@ fieldset
 
 .failed
 {
-  background-color:     #ffafb2;
+  background-color:     #800004;
 }
 
 .passed
 {
-  background-color:     #afb2ff;
+  background-color:     #000480;
 }
 
 .exceeded
 {
-  background-color:     #afffb2;
+  background-color:     #008004;
 }
 
 .lastChanged
 {
-  background-color:     #ffffcf;
+  background-color:     #808000;
 }
 
 .status
@@ -142,27 +141,27 @@ fieldset
 
 #complexity.veryweak
 {
-  color:                #ef0000;
+  color:                #FF0000;
 }
 
 #complexity.weak
 {
-  color:                #df2500;
+  color:                #FF6600;
 }
 
 #complexity.fair
 {
-  color:                #dfa200;
+  color:                #FFB900;
 }
 
 #complexity.good
 {
-  color:                #9daf00;
+  color:                #E5FF00;
 }
 
 #complexity.strong
 {
-  color:                #09af00;
+  color:                #00FF00;
 }
 
 #passwordDetails
@@ -172,8 +171,8 @@ fieldset
 
 .password input
 {
-  color:                #aa0000;
-  border:               0px solid #dddddd;
+  color:                #FFFF00;
+  border:               0px solid #DDDDDD;
   margin:               0.000em 0.000em 0.000em 0.000em;
   padding:              0.000em 0.000em 0.000em 0.250em;
   width:                100%;
@@ -188,7 +187,7 @@ fieldset
 
 #passwordCriteria a
 {
-  color:                #000000;
+  color:                #ffffff;
 }
 
 #passwordCriteria .description
@@ -215,5 +214,17 @@ fieldset
   white-space:          pre;
   word-wrap:            break-word;
 }
+
+.type,
+.number
+{
+  color:                #ffffff;
+}
+
+th
+{
+  color:                #ffffff !important;
+}
+
 
 /* ------------------------------------------------------------------------------------------ */
