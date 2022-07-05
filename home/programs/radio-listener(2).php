@@ -54,10 +54,11 @@ $array_news_pl =
     ['Tok FM'            , 'http://radiostream.pl/tuba10-1.mp3'                                    ]
 ];
 
+
+
 #
 
-$url_bnt         = 'https://binar.bg/bnr-novini/';
-$url_bnt_media   = 'https://bnr.bg/files/uploads/13/';
+$url_bnt         = 'https://bnr.bg';
 $url_podcasts_01 = 'https://www.radio-uk.co.uk/podcasts/bloomberg-businessweek';
 $url_podcasts_02 = 'https://www.radio-uk.co.uk/podcasts/bloomberg-surveillance';
 $url_podcasts_03 = 'https://www.radio-uk.co.uk/podcasts/ft-news-briefing';
@@ -86,30 +87,36 @@ function set_news($item_array, $div_title, $div_number)
 
 #---------------------------------------------------------------------------------------------------
 
-function set_bnt($url_source, $url_media, $div_title, $div_number)
+function set_bnt($url_source, $div_title, $div_number)
 {
   global $dir_templates, $app_title, $page_content;
 
-  $url_content = get_url("{$url_source}");
+  $url_content = get_url("{$url_source}/play/");
   $html_objects = str_get_html($url_content);
 
   $page_content .= "<p class='clMediaName'><a href='javascript:fncShowHideWithMemory(&quot;idDiv{$div_number}&quot;)'>{$div_title}</a></p>\n";
   $page_content .= "<div id='idDiv{$div_number}'>";
 
-  $counter = 0;
-
-  foreach($html_objects->find('option') as $audio_source)
+  foreach($html_objects->find('source') as $audio_source)
   {
-    $audio_source_name  = $audio_source->innertext;
-    $audio_source_media = $audio_source->value;
+    $audio_source_src = $audio_source->src;
+    if (strpos($audio_source_src, 'news') !== false)
+    {
+      $data_fields = explode("-", $audio_source_src);
+      $data_fields_count = count($data_fields);
+      $audio_year    = $data_fields[$data_fields_count - 5];
+      $audio_month   = $data_fields[$data_fields_count - 4];
+      $audio_day     = $data_fields[$data_fields_count - 3];
+      $audio_hour    = $data_fields[$data_fields_count - 2];
+      $audio_minute  = trim($data_fields[$data_fields_count - 1], ".mp3");
 
-    if ($counter++ > 10) { break; }
-
-    $page_content .= "<p class='clMediaName'><a href='{$url_media}{$audio_source_media}'>{$audio_source_name}</a></p>\n";
+      $page_content .= "<p class='clMediaName'><a href='{$url_source}{$audio_source_src}'>{$audio_hour}:{$audio_minute}</a></p>\n";
+    }
   }
 
-  $page_content = str_replace("Емисия от ", "", $page_content);
-  $page_content = str_replace("часа на ", "&ensp;", $page_content);
+  $date_bnt = "{$audio_day}.{$audio_month}.{$audio_year}";
+
+  $page_content = str_replace("{$div_title}", "Новини - БНТ {$date_bnt}", $page_content);
 
   $page_content .= "</div>\n";
 }
@@ -149,16 +156,16 @@ function set_podcats($url_source, $div_title, $div_number)
 
 #----------------------------------------------------------------------------------------------------
 
-set_bnt($url_bnt, $url_bnt_media , 'БНТ'                                 , 'BgB');
-set_news($array_news_en          , 'News - English'                      , 'EnN');
-set_podcats($url_podcasts_01     , 'Podcasts - Bloomberg Businessweek'   , 'BlB');
-set_podcats($url_podcasts_02     , 'Podcasts - Bloomberg Surveillance'   , 'BlS');
-set_podcats($url_podcasts_03     , 'Podcasts - Financial Times'          , 'FtP');
-set_podcats($url_podcasts_04     , 'Podcasts - The Economist'            , 'EcP');
+set_bnt($url_bnt              , 'БНТ-DATE'                            , '01');
+set_news($array_news_bg       , 'Новини - Български'                  , '02');
+set_news($array_news_en       , 'News - English'                      , '03');
+set_news($array_news_fr       , 'Nouvelles - Français'                , '04');
+set_podcats($url_podcasts_01  , 'Podcasts - Bloomberg Businessweek'   , '05');
+set_podcats($url_podcasts_02  , 'Podcasts - Bloomberg Surveillance'   , '06');
+set_podcats($url_podcasts_03  , 'Podcasts - Financial Times'          , '07');
+set_podcats($url_podcasts_04  , 'Podcasts - The Economist'            , '08');
 
-#set_news($array_news_bg          , 'Новини - Български'                  , 'BgN');
-#set_news($array_news_fr       , 'Nouvelles - Français'                , 'FrN');
-#set_news($array_news_pl       , 'Wiadomości - Polski'                 , 'PlW');
+#set_news($array_news_pl       , 'Wiadomości - Polski'                 , '05');
 
 #----------------------------------------------------------------------------------------------------
 
