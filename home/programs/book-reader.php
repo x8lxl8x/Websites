@@ -174,7 +174,18 @@ function get_view()
 
   $page_number_curr = (int)$file_name_noext;
 
-  $items_count < 100 ? $number_format = '02' : $number_format = '03' ;
+  if ($items_count < 100)
+  {
+    $number_format = '02';
+  }
+  else if (($items_count >= 100) && ($items_count < 1000))
+  {
+    $number_format = '03';
+  }
+  else if (($items_count >= 1000) && ($items_count < 10000))
+  {
+    $number_format = '04';
+  }
 
   if ($page_number_curr == 1)
   {
