@@ -1,0 +1,38 @@
+# L'Interrogation n&deg; 5
+## Au cours d'une promenade dans la forêt deux amies se sont égarées
+
+%[clChar|M:]Dis-donc, Anne, quel est ce sentier que nous avons pris? Il ne nous amène pas à la clairière.
+%[clChar|F:]Je n'en sais rien, vraiment. J'ai l'impression que nous faisons fausse route.
+
+%[clChar|M:]C'est bien ce qu'il me semble. Mais rien n'est perdu. Tu n'as qu'à sortir ta boussole qui est dans le sac, nous verrons alors où il faut aller.
+%[clChar|F:]Vois-tu, je n'ai pas ma boussole sur moi.
+
+%[clChar|M:]Qu'est-ce que tu me dis là?
+%[clChar|F:]La pure vérité. Elle est abîmée depuis quelques jours et je n'ai pas eu le temps de la réparer.
+
+%[clChar|M:]C'est encore ton petit frangin qui, sans doute, a fait des siennes!
+%[clChar|F:]Pas le moins du monde. C'est moi qui l'ai cassée.
+
+%[clChar|M:]Comment t'y es-tu prise?
+%[clChar|F:]Je ne sais pas. J'ai enlevé le verre pour nettoyer le cadran, après quoi ça n'a plus marché.
+
+%[clChar|M:]Oh, quel malheur!
+%[clChar|F:]Où est le mal?
+
+%[clChar|M:]Mais puisqu'il n'y a pas de boussole nous n'arriverons jamais à sortir d'ici.
+%[clChar|F:]N'exagère pas, voyons.
+
+%[clChar|M:]De toutes façons, nous serons en retard pour le dîner.
+%[clChar|F:]Qu'est-ce que ça peut faire? On attendra jusqu'au souper.
+
+%[clChar|M:]Parle pour toi! Moi, je sens que j'ai déjà l'estomac dans les talons.
+%[clChar|F:]Tu as un bel appétit, c'est vrai. Mais ne te désespères pas, Je suis sûre que nous arriverons bientôt à la clairière si nous tournons à gauche.
+
+%[clChar|M:]Comment?
+%[clChar|F:]Je te dis qu'il faut tourner à gauche pour rentrer à la maison.
+
+%[clChar|M:]Qu'est-ce* qui te fait dire ça?
+%[clChar|F:]Mon expérience de campeuse chevronnée. Va, tu ne perdras rien à me suivre.
+
+%[clChar|M:]Je ne dis pas non. Qui ne risque rien n'a rien.
+%[clChar|F:]Fais-moi confiance. On prendra ce chemin à mes risques et périls.

@@ -92,7 +92,7 @@ a:visited
 
 a:hover
 {
-  color:                #99FFEE;
+  color:                #9AC3E1;
   text-decoration:      none;
 }
 
@@ -105,14 +105,14 @@ a:hover
 
 .clIndex a:hover
 {
-  color:                #99FFEE;
+  color:                #9AC3E1;
   text-decoration:      none;
 }
 
 a.clLinkBlue,
 a:visited.clLinkBlue
 {
-  color:                #99CFFF;
+  color:                #9AC3E1; /* #99 CFFF; */
   text-decoration:      none;
 /*
   color:                #000000;
@@ -123,7 +123,7 @@ a:visited.clLinkBlue
 
 a:hover.clLinkBlue
 {
-  color:                #99FFEE;
+  color:                #9AC3E1;
   text-decoration:      none;
 /*
   color:                #dd0000;
@@ -916,7 +916,7 @@ div[id^='idBlock']
 .clMediaName a:hover,
 .clMediaHeadline a:hover
 {
-  color:              #99FFEE;
+  color:              #9AC3E1;
   text-decoration:    none;
 }
 

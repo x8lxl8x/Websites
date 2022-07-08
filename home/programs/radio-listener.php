@@ -151,13 +151,13 @@ function set_podcats($url_source, $div_title, $div_number)
 
 set_bnt($url_bnt, $url_bnt_media , 'БНТ'                                 , 'BgB');
 set_news($array_news_en          , 'News - English'                      , 'EnN');
+set_news($array_news_fr          , 'Nouvelles - Français'                , 'FrN');
 set_podcats($url_podcasts_01     , 'Podcasts - Bloomberg Businessweek'   , 'BlB');
 set_podcats($url_podcasts_02     , 'Podcasts - Bloomberg Surveillance'   , 'BlS');
 set_podcats($url_podcasts_03     , 'Podcasts - Financial Times'          , 'FtP');
 set_podcats($url_podcasts_04     , 'Podcasts - The Economist'            , 'EcP');
 
-#set_news($array_news_bg          , 'Новини - Български'                  , 'BgN');
-#set_news($array_news_fr       , 'Nouvelles - Français'                , 'FrN');
+#set_news($array_news_bg       , 'Новини - Български'                  , 'BgN');
 #set_news($array_news_pl       , 'Wiadomości - Polski'                 , 'PlW');
 
 #----------------------------------------------------------------------------------------------------
