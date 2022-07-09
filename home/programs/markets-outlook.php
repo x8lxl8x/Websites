@@ -260,16 +260,13 @@ function get_tradingeconomics()
 
 #------------------------------------------------------------------------------------------------------------
 
-#date_default_timezone_set('Europe/Sofia');
-#$time_current =  date('D M d, Y H:i:s') . ' EET';
-
 date_default_timezone_set('UTC');
 $time_current =  date('D M d, Y H:i:s') . ' UTC';
 
 $page_content  = "<h1>{$page_title}</h1>\n";
 $page_content .= "<h2>{$time_current}</h2>\n";
 
-$page_content .= get_cbrates($array_cbrates, $url_cbrates);
+#$page_content .= get_cbrates($array_cbrates, $url_cbrates);
 $page_content .= get_tradingeconomics();
 
 #  $debug_file     = "/home/" . get_current_user() . "/mnt/data/Temp/debug_markets_outlook.txt";
