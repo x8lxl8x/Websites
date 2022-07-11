@@ -1,0 +1,69 @@
+## Adjectifs
+
+# Dégres de comparison
+
+[|
+|%[m|positif   ]|положительная|
+|%[m|comparatif]|сравнительная|
+|%[m|superlatif]|превосходная |
+|]
+
+### Comparatif
+
+[|
+|%[m|plus  … que …]|более |
+|%[m|moins … que …]|менее |
+|%[m|aussi … que …]|так же|
+|]
+
+### Superlatif
+
+[-
+superlatif - le, la, les
+-]
+
+[|
+|%[m|le plus  … de …]|наибольший|
+|%[m|le moins … de …]|наименьший|
+|]
+
+
+### Irrégulier
+
+##### bon
+[|
+^        ^Comparatif             ^                ^
+|%[m|bon]|%[m|meilleur  … que … ]|более хороший   |
+|%[m|bon]|%[m|moins bon … que … ]|менее хороший   |
+|%[m|bon]|%[m|aussi bon … que … ]|такой же хороший|
+|]
+
+[|
+^        ^Superlatif             ^       ^
+|%[m|bon]|%[m|le  meilleur … de …]|лучший|
+|%[m|bon]|%[m|la  meilleur … de …]|лучшая|
+|%[m|bon]|%[m|les meilleur … de …]|лучшие|
+|]
+
+##### mauvais
+[|
+^            ^Comparatif                 ^                ^
+|%[m|mauvais]|%[m|plus  mauvais … que … ]|более плохой   |
+|%[m|mauvais]|%[m|pire          … que … ]|более плохой   |
+|%[m|mauvais]|%[m|moins mauvais … que … ]|менее плохой   |
+|%[m|mauvais]|%[m|aussi mauvais … que … ]|такой же плохой|
+|]
+
+[|
+^        ^Superlatif             ^      ^
+|%[m|bon]|%[m|le  mauvais … de …]|худший|
+|%[m|bon]|%[m|la  mauvais … de …]|худшая|
+|%[m|bon]|%[m|les mauvais … de …]|худшие|
+|%[m|bon]|%[m|le  pire    … de …]|худший|
+|%[m|bon]|%[m|la  pire    … de …]|худшая|
+|%[m|bon]|%[m|les pire    … de …]|худшие|
+|]
+
+[-
+pire - используется редко
+-]
