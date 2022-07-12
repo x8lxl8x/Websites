@@ -25,13 +25,14 @@ $array_news_en =
     ['Voice of America'  , 'https://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3'       ]
   , ['Times Radio'       , 'https://timesradio.wireless.radio/stream'                              ]
   , ['npr'               , 'https://npr-ice.streamguys1.com/live.mp3'                              ]
-  , ['Fox News'          , 'https://streaming-ent.shoutcast.com/foxnews'                           ]
   , ['Bloomberg'         , 'https://tunein.streamguys1.com/bloomberg991'                           ]
   , ['Skynews'           , 'https://video.news.sky.com/snr/news/snrnews.mp3'                       ]
   , ['LBC News'          , 'http://media-ice.musicradio.com/LBC1152'                               ]
   , ['LBC'               , 'https://media-ssl.musicradio.com/LBCUK'                                ]
-#
+#  , ['Fox News'          , 'https://streaming-ent.shoutcast.com/foxnews'                           ]
 ];
+
+
 
 $array_news_fr =
 [
